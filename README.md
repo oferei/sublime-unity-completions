@@ -1,5 +1,5 @@
 # Unity Completions
-#### Package for [Sublime Text](http://www.sublimetext.com/)
+#### Package for [Sublime Text 2](http://www.sublimetext.com/2)
 
 This package adds auto-completions for [Unity](http://www.unity3d.com/) classes, variables and functions.
 It works with all Unity-supported languages: JavaScript, C# and Boo.
@@ -26,14 +26,9 @@ Package Control will also keep you updated.
 Alternatively you can install this package manually:
 
 1. Open the [packages directory](http://docs.sublimetext.info/en/latest/basic_concepts.html#the-packages-directory)
-from the Sublime Text menu (Preferences | Browse Packages...)
+from the Sublime Text 2 menu (Preferences | Browse Packages...)
 2. Create a new directory called "Unity Completions"
 3. Copy the contents of this package into the new directory
-
-## Boo
-
-In order for Sublime Text to recognize .boo files you need to install a separate package: Boo.
-You can install it using Package Control or manually from [here](https://github.com/Shammah/boo-sublime).
 
 ## Generation
 
