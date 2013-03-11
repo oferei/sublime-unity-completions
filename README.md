@@ -7,7 +7,7 @@ It works with all Unity-supported languages: JavaScript, C# and Boo.
 ## Usage
 
 Simply start typing any Unity term or press Ctrl+Space.
-After auto-completing a function name, use tab to easily iterate through the parameters.
+After auto-completing a function name, use Tab to easily iterate through the parameters.
 
 ## Installation
 
