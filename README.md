@@ -1,5 +1,5 @@
-# Unity Completions Package
-#### for [Sublime Text](http://www.sublimetext.com/)
+# Unity Completions
+#### Package for [Sublime Text](http://www.sublimetext.com/)
 
 This package adds auto-completions for [Unity](http://www.unity3d.com/) classes, variables and functions.
 It works with all Unity-supported languages: JavaScript, C# and Boo.
