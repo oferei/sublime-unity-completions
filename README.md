@@ -30,6 +30,11 @@ from the Sublime Text menu (Preferences | Browse Packages...)
 2. Create a new directory called "Unity Completions"
 3. Copy the contents of this package into the new directory
 
+## Boo
+
+In order for Sublime Text to recognize .boo files you need to install a separate package: Boo.
+You can install it using Package Control or manually from [here](https://github.com/Shammah/boo-sublime).
+
 ## Generation
 
 The _sublime-completions_ files were generated automatically using
