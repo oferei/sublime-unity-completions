@@ -1,0 +1,86 @@
+{ "name": "Boo",
+  "scopeName": "source.boo",
+  "fileTypes": ["boo"],
+  "patterns": [
+
+	  {  "name": "keyword.control.source.boo",
+	     "match": "\\b(import|from|if|else|elif|unless|for|in|while|continue|break|pass|return|class|interface|def|override|struct|namespace|enum|try|except|ensure|assert|yield|callable|goto|virtual|get|set|of|ref|unsafe|new|match|case|otherwise|debug|using|lock|block|macro)\\b"
+	  },
+
+	  {  "name": "keyword.operator.source.boo",
+	     "match": "\\b(and|or|not|isa|is|as|cast)\\b"
+	  },
+
+	  {  "name": "keyword.operator.source.boo",
+	     "match": "(\\*|\\b/\\b|%|\\+|-|\\*\\*|\\^|\\|=)"
+	  },
+
+	  {  "name": "keyword.operator.source.boo",
+	     "match": "(\\(|\\)|\\[|\\]|{|})"
+	  },
+
+	  { "name": "comment.line.source.boo",
+	    "begin": "(#|//)",
+	    "end": "\\n"
+	  },
+
+	  { "name": "comment.block.source.boo",
+	    "begin": "/\\*",
+	    "end": "\\*/"
+	  },
+
+	  {  "name": "constant.numeric.source.boo",
+	     "match": "\\b\\d+(\\.\\d+)?(f|F|L)?\\b"
+	  },
+
+	  {  "name": "constant.language.source.boo",
+	     "match": "\\b(true|false|null|value)\\b"
+	  },
+
+	  { "name": "string.quoted.single.source.boo",
+	    "begin": "'",
+	    "end": "'"
+	  },
+
+	  { "name": "string.quoted.double.source.boo",
+	    "begin": "\"",
+	    "end": "\""
+	  },
+
+	  { "name": "string.quoted.double.source.boo",
+	    "begin": "\"\"\"",
+	    "end": "\"\"\""
+	  },
+
+	  {  "name": "storage.type.source.boo",
+	     "match": "\\b(sbyte|short|int|long|byte|ushort|uint|ulong|single|double|decimal|char|string|bool|object|duck)\\b"
+	  },
+
+	  {  "name": "storage.modifier.source.boo",
+	     "match": "\\b(public|protected|internal|private|abstract|final|static|partial)\\b"
+	  },
+
+	  {  "name": "variable.language.source.boo",
+	     "match": "\\b(self|super)\\b"
+	  },
+
+	  {  "name": "support.function.source.boo",
+	     "match": "\\b(print|gets|prompt|join|map|array|matrix|iterator|shellp|shell|shellm|enemurate|range|reversed|zip|cat|typeof|sizeof)\\b"
+	  },
+
+	  {
+	     "match": "\\b([a-z_]+[A-Za-z_0-9]*( as ([A-Z]+[A-Za-z_0-9]*)))\\b",
+	     "captures": {
+	         "1": { "name": "variable.parameter.source.boo" },
+	         "2": { "name": "keyword.operator.source.boo" },
+	         "3": { "name": "storage.type.source.boo" }
+	     }
+	  },
+
+	  {
+	  	"name": "variable.parameter.source.boo",
+	  	"match": "\\b[a-z_]+[A-Za-z_0-9]*\\b"
+	  }
+  ],
+  "uuid": "40d7173c-d213-4009-938e-5249ec75849d"
+}
