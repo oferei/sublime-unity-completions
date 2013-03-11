@@ -26,7 +26,7 @@ Package Control will also keep you updated.
 Alternatively you can install this package manually:
 
 1. Open the [packages directory](http://docs.sublimetext.info/en/latest/basic_concepts.html#the-packages-directory)
-from the Sublime Text 2 menu (Preferences | Browse Packages...)
+from the Sublime Text menu (Preferences | Browse Packages...)
 2. Create a new directory called "Unity Completions"
 3. Copy the contents of this package into the new directory
 
