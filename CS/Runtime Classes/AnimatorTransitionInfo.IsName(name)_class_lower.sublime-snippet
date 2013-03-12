@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorTransitionInfo.IsName(${1:string name});]]></content>
+	<tabTrigger><![CDATA[animatorTransitionInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.IsName(name)]]></description>
+</snippet>

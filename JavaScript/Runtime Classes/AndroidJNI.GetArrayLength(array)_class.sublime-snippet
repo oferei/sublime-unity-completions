@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetArrayLength(${1:array : IntPtr});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetArrayLength(array)]]></description>
+</snippet>

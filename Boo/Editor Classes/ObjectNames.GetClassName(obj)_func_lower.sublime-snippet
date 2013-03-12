@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.GetClassName(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[getClassName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ObjectNames.*(obj)]]></description>
+</snippet>

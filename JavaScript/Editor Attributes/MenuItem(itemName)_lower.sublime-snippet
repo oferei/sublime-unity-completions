@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MenuItem(${1:itemName : String});]]></content>
+	<tabTrigger><![CDATA[menuItem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(itemName)]]></description>
+</snippet>

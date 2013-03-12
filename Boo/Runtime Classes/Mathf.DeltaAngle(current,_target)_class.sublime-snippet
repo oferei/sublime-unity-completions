@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.DeltaAngle(${1:current as single}, ${2:target as single})]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DeltaAngle(current, target)]]></description>
+</snippet>

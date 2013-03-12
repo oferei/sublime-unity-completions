@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffers as (RenderBuffer)}, ${2:depthBuffer as RenderBuffer})]]></content>
+	<tabTrigger><![CDATA[graphics]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetRenderTarget(colorBuffers, depthBuffer)]]></description>
+</snippet>

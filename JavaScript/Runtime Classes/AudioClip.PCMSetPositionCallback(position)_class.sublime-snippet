@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioClip.PCMSetPositionCallback(${1:position : int});]]></content>
+	<tabTrigger><![CDATA[AudioClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.PCMSetPositionCallback(position)]]></description>
+</snippet>

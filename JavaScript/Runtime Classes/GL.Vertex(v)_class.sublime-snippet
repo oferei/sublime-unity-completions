@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.Vertex(${1:v : Vector3});]]></content>
+	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Vertex(v)]]></description>
+</snippet>

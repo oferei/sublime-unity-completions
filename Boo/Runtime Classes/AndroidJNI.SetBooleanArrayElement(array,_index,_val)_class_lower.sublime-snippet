@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetBooleanArrayElement(${1:array as IntPtr}, ${2:index as int}, ${3:val as byte})]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetBooleanArrayElement(array, index, val)]]></description>
+</snippet>

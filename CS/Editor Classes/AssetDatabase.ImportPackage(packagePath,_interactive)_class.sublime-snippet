@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ImportPackage(${1:string packagePath}, ${2:bool interactive});]]></content>
+	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.ImportPackage(packagePath, interactive)]]></description>
+</snippet>

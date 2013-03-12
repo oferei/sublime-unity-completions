@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.ThrowNew(${1:clazz : IntPtr}, ${2:message : String});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ThrowNew(clazz, message)]]></description>
+</snippet>

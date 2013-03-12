@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Lerp(${1:from as single}, ${2:to as single}, ${3:t as single})]]></content>
+	<tabTrigger><![CDATA[lerp]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(from, to, t)]]></description>
+</snippet>

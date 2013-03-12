@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.CalcScreenSize(${1:contentSize as Vector2})]]></content>
+	<tabTrigger><![CDATA[calcScreenSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIStyle.*(contentSize)]]></description>
+</snippet>

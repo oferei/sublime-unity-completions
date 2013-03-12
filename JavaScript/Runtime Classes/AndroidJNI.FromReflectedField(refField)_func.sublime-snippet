@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.FromReflectedField(${1:refField : IntPtr});]]></content>
+	<tabTrigger><![CDATA[FromReflectedField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AndroidJNI.*(refField)]]></description>
+</snippet>

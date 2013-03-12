@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Exp(${1:power as single})]]></content>
+	<tabTrigger><![CDATA[Exp]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(power)]]></description>
+</snippet>

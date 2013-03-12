@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.HasAspectRatio(${1:aspectRatio : AspectRatio});]]></content>
+	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.HasAspectRatio(aspectRatio)]]></description>
+</snippet>

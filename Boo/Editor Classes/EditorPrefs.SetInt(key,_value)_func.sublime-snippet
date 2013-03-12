@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorPrefs.SetInt(${1:key as string}, ${2:value as int})]]></content>
+	<tabTrigger><![CDATA[SetInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorPrefs.*(key, value)]]></description>
+</snippet>

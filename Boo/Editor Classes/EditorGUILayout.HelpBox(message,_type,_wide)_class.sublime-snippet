@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.HelpBox(${1:message as string}, ${2:type as MessageType}, ${3:wide as bool})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.HelpBox(message, type, wide)]]></description>
+</snippet>

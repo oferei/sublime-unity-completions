@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane.SameSide(${1:inPt0 : Vector3}, ${2:inPt1 : Vector3});]]></content>
+	<tabTrigger><![CDATA[Plane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SameSide(inPt0, inPt1)]]></description>
+</snippet>

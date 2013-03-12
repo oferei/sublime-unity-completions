@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Max(${1:params values as (int)})]]></content>
+	<tabTrigger><![CDATA[max]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(params values)]]></description>
+</snippet>

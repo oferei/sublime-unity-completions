@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.GetControlID(${1:focus as FocusType}, ${2:position as Rect})]]></content>
+	<tabTrigger><![CDATA[getControlID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIUtility.*(focus, position)]]></description>
+</snippet>

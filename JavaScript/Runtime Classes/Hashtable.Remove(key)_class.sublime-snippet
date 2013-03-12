@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.Remove(${1:key : object});]]></content>
+	<tabTrigger><![CDATA[Hashtable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Remove(key)]]></description>
+</snippet>

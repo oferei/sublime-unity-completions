@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.FocusWindowIfItsOpen.<${1:T}>();]]></content>
+	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.FocusWindowIfItsOpen.<T>()]]></description>
+</snippet>

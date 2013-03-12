@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.GetGenerateAllOutputs(${1:ProceduralMaterial material});]]></content>
+	<tabTrigger><![CDATA[SubstanceImporter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetGenerateAllOutputs(material)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.CreateFolder(${1:parentFolder as string}, ${2:newFolderName as string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.CreateFolder(parentFolder, newFolderName)]]></description>
+</snippet>

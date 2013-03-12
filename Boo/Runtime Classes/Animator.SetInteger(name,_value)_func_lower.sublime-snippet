@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetInteger(${1:name as string}, ${2:value as int})]]></content>
+	<tabTrigger><![CDATA[setInteger]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(name, value)]]></description>
+</snippet>

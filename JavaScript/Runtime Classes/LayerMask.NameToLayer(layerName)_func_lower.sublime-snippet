@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayerMask.NameToLayer(${1:layerName : String});]]></content>
+	<tabTrigger><![CDATA[nameToLayer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LayerMask.*(layerName)]]></description>
+</snippet>

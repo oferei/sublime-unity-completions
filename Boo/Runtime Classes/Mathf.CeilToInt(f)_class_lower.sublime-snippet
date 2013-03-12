@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.CeilToInt(${1:f as single})]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.CeilToInt(f)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnApplicationPause(${1:pause : boolean});]]></content>
+	<tabTrigger><![CDATA[onApplicationPause]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MonoBehaviour.*(pause)]]></description>
+</snippet>

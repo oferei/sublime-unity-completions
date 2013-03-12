@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Input.GetKeyUp(${1:key : KeyCode});]]></content>
+	<tabTrigger><![CDATA[getKeyUp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Input.*(key)]]></description>
+</snippet>

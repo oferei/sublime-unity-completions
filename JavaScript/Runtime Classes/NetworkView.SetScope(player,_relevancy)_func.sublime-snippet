@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkView.SetScope(${1:player : NetworkPlayer}, ${2:relevancy : boolean});]]></content>
+	<tabTrigger><![CDATA[SetScope]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkView.*(player, relevancy)]]></description>
+</snippet>

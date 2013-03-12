@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshAgent.SetLayerCost(${1:int layer}, ${2:float cost});]]></content>
+	<tabTrigger><![CDATA[SetLayerCost]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshAgent.*(layer, cost)]]></description>
+</snippet>

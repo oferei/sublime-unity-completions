@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SaveFolderPanel(${1:string title}, ${2:string folder}, ${3:string defaultName});]]></content>
+	<tabTrigger><![CDATA[saveFolderPanel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(title, folder, defaultName)]]></description>
+</snippet>

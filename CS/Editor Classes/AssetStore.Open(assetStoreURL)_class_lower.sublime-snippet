@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetStore.Open(${1:string assetStoreURL});]]></content>
+	<tabTrigger><![CDATA[assetStore]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Open(assetStoreURL)]]></description>
+</snippet>

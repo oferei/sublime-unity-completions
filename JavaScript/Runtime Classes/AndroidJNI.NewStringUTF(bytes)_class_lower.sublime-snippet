@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.NewStringUTF(${1:bytes : String});]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.NewStringUTF(bytes)]]></description>
+</snippet>

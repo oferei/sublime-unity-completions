@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4.Set(${1:new_x as single}, ${2:new_y as single}, ${3:new_z as single}, ${4:new_w as single})]]></content>
+	<tabTrigger><![CDATA[Vector4]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Set(new_x, new_y, new_z, new_w)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.GUIToScreenPoint(${1:Vector2 guiPoint});]]></content>
+	<tabTrigger><![CDATA[gUIUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GUIToScreenPoint(guiPoint)]]></description>
+</snippet>

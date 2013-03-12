@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color32(${1:r : byte}, ${2:g : byte}, ${3:b : byte}, ${4:a : byte});]]></content>
+	<tabTrigger><![CDATA[Color32]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(r, g, b, a)]]></description>
+</snippet>

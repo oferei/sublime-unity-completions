@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.Window(${1:id as int}, ${2:clientRect as Rect}, ${3:func as WindowFunction}, ${4:image as Texture})]]></content>
+	<tabTrigger><![CDATA[window]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUI.*(id, clientRect, func, image)]]></description>
+</snippet>

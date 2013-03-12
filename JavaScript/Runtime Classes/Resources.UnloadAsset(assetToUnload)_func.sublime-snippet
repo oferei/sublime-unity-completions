@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.UnloadAsset(${1:assetToUnload : Object});]]></content>
+	<tabTrigger><![CDATA[UnloadAsset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Resources.*(assetToUnload)]]></description>
+</snippet>

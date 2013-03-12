@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.SetProceduralVector(${1:inputName as string}, ${2:value as Vector4})]]></content>
+	<tabTrigger><![CDATA[setProceduralVector]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ProceduralMaterial.*(inputName, value)]]></description>
+</snippet>

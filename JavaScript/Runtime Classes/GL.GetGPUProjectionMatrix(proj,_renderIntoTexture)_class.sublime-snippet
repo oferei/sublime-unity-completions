@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.GetGPUProjectionMatrix(${1:proj : Matrix4x4}, ${2:renderIntoTexture : boolean});]]></content>
+	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetGPUProjectionMatrix(proj, renderIntoTexture)]]></description>
+</snippet>

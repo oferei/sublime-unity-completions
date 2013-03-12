@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MenuCommand(${1:inContext : Object});]]></content>
+	<tabTrigger><![CDATA[menuCommand]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inContext)]]></description>
+</snippet>

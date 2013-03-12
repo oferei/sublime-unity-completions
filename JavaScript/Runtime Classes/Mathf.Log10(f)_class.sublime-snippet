@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Log10(${1:f : float});]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Log10(f)]]></description>
+</snippet>

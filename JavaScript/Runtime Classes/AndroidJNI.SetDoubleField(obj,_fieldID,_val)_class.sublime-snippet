@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetDoubleField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : double});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetDoubleField(obj, fieldID, val)]]></description>
+</snippet>

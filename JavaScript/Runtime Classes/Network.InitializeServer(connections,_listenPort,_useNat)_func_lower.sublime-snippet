@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.InitializeServer(${1:connections : int}, ${2:listenPort : int}, ${3:useNat : boolean});]]></content>
+	<tabTrigger><![CDATA[initializeServer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Network.*(connections, listenPort, useNat)]]></description>
+</snippet>

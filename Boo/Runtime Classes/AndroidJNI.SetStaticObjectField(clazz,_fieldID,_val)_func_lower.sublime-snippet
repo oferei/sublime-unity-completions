@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetStaticObjectField(${1:clazz as IntPtr}, ${2:fieldID as IntPtr}, ${3:val as IntPtr})]]></content>
+	<tabTrigger><![CDATA[setStaticObjectField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJNI.*(clazz, fieldID, val)]]></description>
+</snippet>

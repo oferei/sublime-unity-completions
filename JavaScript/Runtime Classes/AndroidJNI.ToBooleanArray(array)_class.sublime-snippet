@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.ToBooleanArray(${1:array : Boolean[]});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ToBooleanArray(array)]]></description>
+</snippet>

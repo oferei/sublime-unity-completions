@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.GetDragAndDropTitle(${1:obj : Object});]]></content>
+	<tabTrigger><![CDATA[ObjectNames]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetDragAndDropTitle(obj)]]></description>
+</snippet>

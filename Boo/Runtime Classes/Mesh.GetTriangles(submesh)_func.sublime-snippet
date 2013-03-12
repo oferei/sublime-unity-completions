@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetTriangles(${1:submesh as int})]]></content>
+	<tabTrigger><![CDATA[GetTriangles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(submesh)]]></description>
+</snippet>

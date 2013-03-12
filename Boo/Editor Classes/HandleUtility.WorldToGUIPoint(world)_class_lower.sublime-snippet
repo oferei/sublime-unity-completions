@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.WorldToGUIPoint(${1:world as Vector3})]]></content>
+	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.WorldToGUIPoint(world)]]></description>
+</snippet>

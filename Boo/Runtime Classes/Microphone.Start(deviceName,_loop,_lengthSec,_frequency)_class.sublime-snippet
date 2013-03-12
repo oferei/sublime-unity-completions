@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Microphone.Start(${1:deviceName as string}, ${2:loop as bool}, ${3:lengthSec as int}, ${4:frequency as int})]]></content>
+	<tabTrigger><![CDATA[Microphone]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Start(deviceName, loop, lengthSec, frequency)]]></description>
+</snippet>

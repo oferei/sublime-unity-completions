@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.RequestUserAuthorization(${1:mode as UserAuthorization})]]></content>
+	<tabTrigger><![CDATA[requestUserAuthorization]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Application.*(mode)]]></description>
+</snippet>

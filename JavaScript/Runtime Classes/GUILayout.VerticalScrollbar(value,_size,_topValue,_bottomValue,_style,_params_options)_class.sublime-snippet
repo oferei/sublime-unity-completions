@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.VerticalScrollbar(${1:value : float}, ${2:size : float}, ${3:topValue : float}, ${4:bottomValue : float}, ${5:style : GUIStyle}, ${6:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.VerticalScrollbar(value, size, topValue, bottomValue, style, params options)]]></description>
+</snippet>

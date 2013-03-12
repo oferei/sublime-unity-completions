@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.FindObjectsOfType(${1:type : Type});]]></content>
+	<tabTrigger><![CDATA[FindObjectsOfType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Object.*(type)]]></description>
+</snippet>

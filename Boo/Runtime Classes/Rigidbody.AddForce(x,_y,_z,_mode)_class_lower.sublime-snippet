@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.AddForce(${1:x as single}, ${2:y as single}, ${3:z as single}, ${4:mode as ForceMode = ForceMode.Force})]]></content>
+	<tabTrigger><![CDATA[rigidbody]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.AddForce(x, y, z, mode)]]></description>
+</snippet>

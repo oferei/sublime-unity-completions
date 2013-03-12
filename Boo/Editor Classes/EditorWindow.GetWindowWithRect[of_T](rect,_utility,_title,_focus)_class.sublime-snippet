@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.GetWindowWithRect[of ${1:T}](${2:rect as Rect}, ${3:utility as bool}, ${4:title as string}, ${5:focus as bool})]]></content>
+	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetWindowWithRect[of T](rect, utility, title, focus)]]></description>
+</snippet>

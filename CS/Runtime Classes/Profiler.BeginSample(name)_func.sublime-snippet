@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.BeginSample(${1:string name});]]></content>
+	<tabTrigger><![CDATA[BeginSample]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Profiler.*(name)]]></description>
+</snippet>

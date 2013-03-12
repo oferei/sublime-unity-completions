@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Component.GetComponents(${1:type : Type});]]></content>
+	<tabTrigger><![CDATA[component]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetComponents(type)]]></description>
+</snippet>

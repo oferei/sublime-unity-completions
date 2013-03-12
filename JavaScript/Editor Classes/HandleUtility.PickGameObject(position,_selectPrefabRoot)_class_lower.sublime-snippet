@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.PickGameObject(${1:position : Vector2}, ${2:selectPrefabRoot : boolean});]]></content>
+	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.PickGameObject(position, selectPrefabRoot)]]></description>
+</snippet>

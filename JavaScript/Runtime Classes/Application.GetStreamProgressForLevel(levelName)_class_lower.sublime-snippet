@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.GetStreamProgressForLevel(${1:levelName : String});]]></content>
+	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetStreamProgressForLevel(levelName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Height(${1:height as single})]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Height(height)]]></description>
+</snippet>

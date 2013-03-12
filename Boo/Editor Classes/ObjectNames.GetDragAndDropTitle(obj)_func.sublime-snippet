@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.GetDragAndDropTitle(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[GetDragAndDropTitle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ObjectNames.*(obj)]]></description>
+</snippet>

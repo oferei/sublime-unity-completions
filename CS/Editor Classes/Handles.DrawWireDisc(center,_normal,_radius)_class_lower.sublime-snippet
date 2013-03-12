@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawWireDisc(${1:Vector3 center}, ${2:Vector3 normal}, ${3:float radius});]]></content>
+	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.DrawWireDisc(center, normal, radius)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.OpenFilePanel(${1:title : String}, ${2:directory : String}, ${3:extension : String});]]></content>
+	<tabTrigger><![CDATA[OpenFilePanel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorUtility.*(title, directory, extension)]]></description>
+</snippet>

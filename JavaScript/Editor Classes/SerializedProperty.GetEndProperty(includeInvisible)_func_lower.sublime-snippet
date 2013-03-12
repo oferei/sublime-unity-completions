@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.GetEndProperty(${1:includeInvisible : boolean = false});]]></content>
+	<tabTrigger><![CDATA[getEndProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SerializedProperty.*(includeInvisible)]]></description>
+</snippet>

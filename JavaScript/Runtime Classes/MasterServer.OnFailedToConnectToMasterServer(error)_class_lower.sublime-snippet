@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MasterServer.OnFailedToConnectToMasterServer(${1:error : NetworkConnectionError});]]></content>
+	<tabTrigger><![CDATA[masterServer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.OnFailedToConnectToMasterServer(error)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SetHeights(${1:xBase : int}, ${2:yBase : int}, ${3:heights : float[,]});]]></content>
+	<tabTrigger><![CDATA[TerrainData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetHeights(xBase, yBase, heights)]]></description>
+</snippet>

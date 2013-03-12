@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Dot(${1:Vector3 lhs}, ${2:Vector3 rhs});]]></content>
+	<tabTrigger><![CDATA[vector3]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Dot(lhs, rhs)]]></description>
+</snippet>

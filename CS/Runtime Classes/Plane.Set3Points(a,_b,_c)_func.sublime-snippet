@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane.Set3Points(${1:Vector3 a}, ${2:Vector3 b}, ${3:Vector3 c});]]></content>
+	<tabTrigger><![CDATA[Set3Points]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Plane.*(a, b, c)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Play(${1:bool withChildren = true});]]></content>
+	<tabTrigger><![CDATA[play]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ParticleSystem.*(withChildren)]]></description>
+</snippet>

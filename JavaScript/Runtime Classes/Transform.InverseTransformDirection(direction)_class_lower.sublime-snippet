@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.InverseTransformDirection(${1:direction : Vector3});]]></content>
+	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.InverseTransformDirection(direction)]]></description>
+</snippet>

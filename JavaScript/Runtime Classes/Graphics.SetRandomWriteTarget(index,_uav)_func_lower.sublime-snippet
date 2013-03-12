@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRandomWriteTarget(${1:index : int}, ${2:uav : ComputeBuffer});]]></content>
+	<tabTrigger><![CDATA[setRandomWriteTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(index, uav)]]></description>
+</snippet>

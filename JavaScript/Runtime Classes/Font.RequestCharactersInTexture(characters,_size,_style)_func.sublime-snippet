@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Font.RequestCharactersInTexture(${1:characters : String}, ${2:size : int = 0}, ${3:style : FontStyle = FontStyle.Normal});]]></content>
+	<tabTrigger><![CDATA[RequestCharactersInTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Font.*(characters, size, style)]]></description>
+</snippet>

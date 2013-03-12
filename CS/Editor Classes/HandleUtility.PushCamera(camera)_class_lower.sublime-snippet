@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.PushCamera(${1:Camera camera});]]></content>
+	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.PushCamera(camera)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawSolidRectangleWithOutline(${1:verts as (Vector3)}, ${2:faceColor as Color}, ${3:outlineColor as Color})]]></content>
+	<tabTrigger><![CDATA[DrawSolidRectangleWithOutline]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Handles.*(verts, faceColor, outlineColor)]]></description>
+</snippet>

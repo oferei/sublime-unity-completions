@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyDrawer.OnGUI(${1:position as Rect}, ${2:property as SerializedProperty}, ${3:label as GUIContent})]]></content>
+	<tabTrigger><![CDATA[onGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PropertyDrawer.*(position, property, label)]]></description>
+</snippet>

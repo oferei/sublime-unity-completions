@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawCamera(${1:position : Rect}, ${2:camera : Camera}, ${3:drawMode : DrawCameraMode = DrawCameraMode.Normal});]]></content>
+	<tabTrigger><![CDATA[DrawCamera]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(position, camera, drawMode)]]></description>
+</snippet>

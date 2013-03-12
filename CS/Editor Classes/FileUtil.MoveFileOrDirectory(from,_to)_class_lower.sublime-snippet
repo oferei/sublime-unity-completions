@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileUtil.MoveFileOrDirectory(${1:string from}, ${2:string to});]]></content>
+	<tabTrigger><![CDATA[fileUtil]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.MoveFileOrDirectory(from, to)]]></description>
+</snippet>

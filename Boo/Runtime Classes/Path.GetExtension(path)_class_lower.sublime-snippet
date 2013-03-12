@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Path.GetExtension(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[path]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetExtension(path)]]></description>
+</snippet>

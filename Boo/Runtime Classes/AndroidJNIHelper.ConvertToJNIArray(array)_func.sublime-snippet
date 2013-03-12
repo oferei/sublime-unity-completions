@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNIHelper.ConvertToJNIArray(${1:array as System.Array})]]></content>
+	<tabTrigger><![CDATA[ConvertToJNIArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJNIHelper.*(array)]]></description>
+</snippet>

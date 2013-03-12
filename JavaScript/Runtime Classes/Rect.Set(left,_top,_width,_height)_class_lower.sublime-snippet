@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rect.Set(${1:left : float}, ${2:top : float}, ${3:width : float}, ${4:height : float});]]></content>
+	<tabTrigger><![CDATA[rect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Set(left, top, width, height)]]></description>
+</snippet>

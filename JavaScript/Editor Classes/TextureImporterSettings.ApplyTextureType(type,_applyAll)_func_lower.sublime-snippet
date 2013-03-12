@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporterSettings.ApplyTextureType(${1:type : TextureImporterType}, ${2:applyAll : boolean});]]></content>
+	<tabTrigger><![CDATA[applyTextureType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextureImporterSettings.*(type, applyAll)]]></description>
+</snippet>

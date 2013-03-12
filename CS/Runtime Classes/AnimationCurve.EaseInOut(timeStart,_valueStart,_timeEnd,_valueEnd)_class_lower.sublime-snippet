@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.EaseInOut(${1:float timeStart}, ${2:float valueStart}, ${3:float timeEnd}, ${4:float valueEnd});]]></content>
+	<tabTrigger><![CDATA[animationCurve]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.EaseInOut(timeStart, valueStart, timeEnd, valueEnd)]]></description>
+</snippet>

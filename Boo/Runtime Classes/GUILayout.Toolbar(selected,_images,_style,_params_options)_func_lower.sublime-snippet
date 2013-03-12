@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Toolbar(${1:selected as int}, ${2:images as (Texture)}, ${3:style as GUIStyle}, ${4:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[toolbar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(selected, images, style, params options)]]></description>
+</snippet>

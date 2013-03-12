@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handheld.PlayFullScreenMovie(${1:path : String}, ${2:bgColor : Color = Color.black}, ${3:controlMode : FullScreenMovieControlMode = FullScreenMovieControlMode.Full}, ${4:scalingMode : FullScreenMovieScalingMode = FullScreenMovieScalingMode.AspectFit});]]></content>
+	<tabTrigger><![CDATA[Handheld]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.PlayFullScreenMovie(path, bgColor, controlMode, scalingMode)]]></description>
+</snippet>

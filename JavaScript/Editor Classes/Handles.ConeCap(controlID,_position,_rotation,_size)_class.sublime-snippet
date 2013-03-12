@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.ConeCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float});]]></content>
+	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ConeCap(controlID, position, rotation, size)]]></description>
+</snippet>

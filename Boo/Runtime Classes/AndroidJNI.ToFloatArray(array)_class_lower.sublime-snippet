@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.ToFloatArray(${1:array as (single)})]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ToFloatArray(array)]]></description>
+</snippet>

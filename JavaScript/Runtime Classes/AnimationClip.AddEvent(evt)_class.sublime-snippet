@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationClip.AddEvent(${1:evt : AnimationEvent});]]></content>
+	<tabTrigger><![CDATA[AnimationClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.AddEvent(evt)]]></description>
+</snippet>

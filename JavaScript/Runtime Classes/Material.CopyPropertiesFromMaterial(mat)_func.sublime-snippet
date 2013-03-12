@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.CopyPropertiesFromMaterial(${1:mat : Material});]]></content>
+	<tabTrigger><![CDATA[CopyPropertiesFromMaterial]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Material.*(mat)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.QueryStateObject(${1:Type t}, ${2:int controlID});]]></content>
+	<tabTrigger><![CDATA[gUIUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.QueryStateObject(t, controlID)]]></description>
+</snippet>

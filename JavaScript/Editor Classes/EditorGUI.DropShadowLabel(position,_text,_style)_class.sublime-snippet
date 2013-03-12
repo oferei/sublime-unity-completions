@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DropShadowLabel(${1:position : Rect}, ${2:text : String}, ${3:style : GUIStyle});]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.DropShadowLabel(position, text, style)]]></description>
+</snippet>

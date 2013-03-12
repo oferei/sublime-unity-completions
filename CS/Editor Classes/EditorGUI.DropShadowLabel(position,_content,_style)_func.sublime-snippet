@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DropShadowLabel(${1:Rect position}, ${2:GUIContent content}, ${3:GUIStyle style});]]></content>
+	<tabTrigger><![CDATA[DropShadowLabel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, content, style)]]></description>
+</snippet>

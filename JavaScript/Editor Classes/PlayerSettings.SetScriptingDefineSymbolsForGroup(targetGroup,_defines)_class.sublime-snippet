@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetScriptingDefineSymbolsForGroup(${1:targetGroup : BuildTargetGroup}, ${2:defines : String});]]></content>
+	<tabTrigger><![CDATA[PlayerSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetScriptingDefineSymbolsForGroup(targetGroup, defines)]]></description>
+</snippet>

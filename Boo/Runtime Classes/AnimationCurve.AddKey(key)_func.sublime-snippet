@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.AddKey(${1:key as Keyframe})]]></content>
+	<tabTrigger><![CDATA[AddKey]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationCurve.*(key)]]></description>
+</snippet>

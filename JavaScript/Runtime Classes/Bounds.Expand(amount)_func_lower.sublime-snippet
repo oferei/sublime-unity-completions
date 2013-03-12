@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bounds.Expand(${1:amount : Vector3});]]></content>
+	<tabTrigger><![CDATA[expand]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Bounds.*(amount)]]></description>
+</snippet>

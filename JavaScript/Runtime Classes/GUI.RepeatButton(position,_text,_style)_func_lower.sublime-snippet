@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.RepeatButton(${1:position : Rect}, ${2:text : String}, ${3:style : GUIStyle});]]></content>
+	<tabTrigger><![CDATA[repeatButton]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUI.*(position, text, style)]]></description>
+</snippet>

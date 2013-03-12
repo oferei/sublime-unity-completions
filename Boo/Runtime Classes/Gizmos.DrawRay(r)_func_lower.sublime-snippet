@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawRay(${1:r as Ray})]]></content>
+	<tabTrigger><![CDATA[drawRay]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Gizmos.*(r)]]></description>
+</snippet>

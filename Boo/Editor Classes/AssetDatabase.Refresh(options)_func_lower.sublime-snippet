@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.Refresh(${1:options as ImportAssetOptions = ImportAssetOptions.Default})]]></content>
+	<tabTrigger><![CDATA[refresh]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(options)]]></description>
+</snippet>

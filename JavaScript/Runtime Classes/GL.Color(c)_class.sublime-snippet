@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.Color(${1:c : Color});]]></content>
+	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Color(c)]]></description>
+</snippet>

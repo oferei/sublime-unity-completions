@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.MoveTowardsAngle(${1:float current}, ${2:float target}, ${3:float maxDelta});]]></content>
+	<tabTrigger><![CDATA[MoveTowardsAngle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mathf.*(current, target, maxDelta)]]></description>
+</snippet>

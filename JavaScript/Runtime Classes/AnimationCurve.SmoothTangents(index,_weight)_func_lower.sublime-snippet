@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.SmoothTangents(${1:index : int}, ${2:weight : float});]]></content>
+	<tabTrigger><![CDATA[smoothTangents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationCurve.*(index, weight)]]></description>
+</snippet>

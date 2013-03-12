@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetInteger(${1:name : String});]]></content>
+	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetInteger(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetIntField(${1:obj : IntPtr}, ${2:fieldID : IntPtr});]]></content>
+	<tabTrigger><![CDATA[GetIntField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AndroidJNI.*(obj, fieldID)]]></description>
+</snippet>

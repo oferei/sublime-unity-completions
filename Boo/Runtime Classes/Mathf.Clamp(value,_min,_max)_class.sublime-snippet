@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Clamp(${1:value as int}, ${2:min as int}, ${3:max as int})]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Clamp(value, min, max)]]></description>
+</snippet>

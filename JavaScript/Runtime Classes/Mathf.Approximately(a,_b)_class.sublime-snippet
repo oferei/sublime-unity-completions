@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Approximately(${1:a : float}, ${2:b : float});]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Approximately(a, b)]]></description>
+</snippet>

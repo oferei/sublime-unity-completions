@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetBooleanArrayElement(${1:IntPtr array}, ${2:int index});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetBooleanArrayElement(array, index)]]></description>
+</snippet>

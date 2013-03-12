@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.InstanceIDToObject(${1:int instanceID});]]></content>
+	<tabTrigger><![CDATA[instanceIDToObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(instanceID)]]></description>
+</snippet>

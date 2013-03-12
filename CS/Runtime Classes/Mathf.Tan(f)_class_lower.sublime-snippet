@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Tan(${1:float f});]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Tan(f)]]></description>
+</snippet>

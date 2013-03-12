@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.SetActive(${1:value : boolean});]]></content>
+	<tabTrigger><![CDATA[SetActive]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GameObject.*(value)]]></description>
+</snippet>

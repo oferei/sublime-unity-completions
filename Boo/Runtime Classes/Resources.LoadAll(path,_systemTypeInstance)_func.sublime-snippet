@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.LoadAll(${1:path as string}, ${2:systemTypeInstance as Type})]]></content>
+	<tabTrigger><![CDATA[LoadAll]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Resources.*(path, systemTypeInstance)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.PrefixLabel(${1:label : GUIContent}, ${2:followingStyle : GUIStyle = \"Button\"});]]></content>
+	<tabTrigger><![CDATA[prefixLabel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUILayout.*(label, followingStyle)]]></description>
+</snippet>

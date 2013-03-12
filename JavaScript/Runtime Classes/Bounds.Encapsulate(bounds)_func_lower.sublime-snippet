@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bounds.Encapsulate(${1:bounds : Bounds});]]></content>
+	<tabTrigger><![CDATA[encapsulate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Bounds.*(bounds)]]></description>
+</snippet>

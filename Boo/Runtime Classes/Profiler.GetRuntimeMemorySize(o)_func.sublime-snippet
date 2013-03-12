@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.GetRuntimeMemorySize(${1:o as Object})]]></content>
+	<tabTrigger><![CDATA[GetRuntimeMemorySize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Profiler.*(o)]]></description>
+</snippet>

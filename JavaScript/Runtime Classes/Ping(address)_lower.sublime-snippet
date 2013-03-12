@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ping(${1:address : String});]]></content>
+	<tabTrigger><![CDATA[ping]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(address)]]></description>
+</snippet>

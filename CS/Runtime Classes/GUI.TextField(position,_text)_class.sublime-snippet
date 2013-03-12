@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.TextField(${1:Rect position}, ${2:string text});]]></content>
+	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.TextField(position, text)]]></description>
+</snippet>

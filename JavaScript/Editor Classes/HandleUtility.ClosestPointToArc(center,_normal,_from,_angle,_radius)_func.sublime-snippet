@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.ClosestPointToArc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:from : Vector3}, ${4:angle : float}, ${5:radius : float});]]></content>
+	<tabTrigger><![CDATA[ClosestPointToArc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HandleUtility.*(center, normal, from, angle, radius)]]></description>
+</snippet>

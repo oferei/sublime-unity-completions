@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.AllocObject(${1:clazz as IntPtr})]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.AllocObject(clazz)]]></description>
+</snippet>

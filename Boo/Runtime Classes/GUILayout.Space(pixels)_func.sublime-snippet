@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Space(${1:pixels as single})]]></content>
+	<tabTrigger><![CDATA[Space]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(pixels)]]></description>
+</snippet>

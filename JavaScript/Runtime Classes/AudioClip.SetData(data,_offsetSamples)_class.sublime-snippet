@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioClip.SetData(${1:data : float[]}, ${2:offsetSamples : int});]]></content>
+	<tabTrigger><![CDATA[AudioClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetData(data, offsetSamples)]]></description>
+</snippet>

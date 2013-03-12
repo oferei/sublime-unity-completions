@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.GetInspectorTitle(${1:obj : Object});]]></content>
+	<tabTrigger><![CDATA[ObjectNames]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetInspectorTitle(obj)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetAllCurves(${1:clip : AnimationClip}, ${2:includeCurveData : boolean = true});]]></content>
+	<tabTrigger><![CDATA[animationUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetAllCurves(clip, includeCurveData)]]></description>
+</snippet>

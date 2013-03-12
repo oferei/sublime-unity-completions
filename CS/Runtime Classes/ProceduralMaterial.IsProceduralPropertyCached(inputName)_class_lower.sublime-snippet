@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.IsProceduralPropertyCached(${1:string inputName});]]></content>
+	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.IsProceduralPropertyCached(inputName)]]></description>
+</snippet>

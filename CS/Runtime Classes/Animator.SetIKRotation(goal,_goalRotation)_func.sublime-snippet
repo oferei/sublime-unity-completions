@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetIKRotation(${1:AvatarIKGoal goal}, ${2:Quaternion goalRotation});]]></content>
+	<tabTrigger><![CDATA[SetIKRotation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Animator.*(goal, goalRotation)]]></description>
+</snippet>

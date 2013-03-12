@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetAlphamaps(${1:int x}, ${2:int y}, ${3:int width}, ${4:int height});]]></content>
+	<tabTrigger><![CDATA[terrainData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetAlphamaps(x, y, width, height)]]></description>
+</snippet>

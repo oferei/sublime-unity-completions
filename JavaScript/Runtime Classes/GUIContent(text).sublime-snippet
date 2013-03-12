@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIContent(${1:text : String});]]></content>
+	<tabTrigger><![CDATA[GUIContent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(text)]]></description>
+</snippet>

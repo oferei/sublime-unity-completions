@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetModificationProcessor.OnWillDeleteAsset(${1:assetPath as string}, ${2:option as RemoveAssetOptions})]]></content>
+	<tabTrigger><![CDATA[OnWillDeleteAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetModificationProcessor.*(assetPath, option)]]></description>
+</snippet>

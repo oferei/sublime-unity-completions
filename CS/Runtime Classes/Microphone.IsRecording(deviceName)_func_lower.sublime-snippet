@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Microphone.IsRecording(${1:string deviceName});]]></content>
+	<tabTrigger><![CDATA[isRecording]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Microphone.*(deviceName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.MinHeight(${1:minHeight as single})]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.MinHeight(minHeight)]]></description>
+</snippet>

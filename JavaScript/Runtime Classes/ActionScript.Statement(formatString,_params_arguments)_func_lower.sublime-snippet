@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActionScript.Statement(${1:formatString : String}, ${2:params arguments : object[]});]]></content>
+	<tabTrigger><![CDATA[statement]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ActionScript.*(formatString, params arguments)]]></description>
+</snippet>

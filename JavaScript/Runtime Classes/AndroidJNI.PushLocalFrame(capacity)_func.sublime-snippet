@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.PushLocalFrame(${1:capacity : int});]]></content>
+	<tabTrigger><![CDATA[PushLocalFrame]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AndroidJNI.*(capacity)]]></description>
+</snippet>

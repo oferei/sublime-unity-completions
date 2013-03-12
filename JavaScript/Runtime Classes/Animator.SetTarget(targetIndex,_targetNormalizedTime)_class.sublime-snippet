@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetTarget(${1:targetIndex : AvatarTarget}, ${2:targetNormalizedTime : float});]]></content>
+	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetTarget(targetIndex, targetNormalizedTime)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.GetStateObject(${1:t as Type}, ${2:controlID as int})]]></content>
+	<tabTrigger><![CDATA[GetStateObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIUtility.*(t, controlID)]]></description>
+</snippet>

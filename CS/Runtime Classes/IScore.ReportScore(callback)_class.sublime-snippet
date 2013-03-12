@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IScore.ReportScore(${1:System.Action<bool> callback});]]></content>
+	<tabTrigger><![CDATA[IScore]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.ReportScore(callback)]]></description>
+</snippet>

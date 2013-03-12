@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.CanStreamedLevelBeLoaded(${1:int levelIndex});]]></content>
+	<tabTrigger><![CDATA[canStreamedLevelBeLoaded]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Application.*(levelIndex)]]></description>
+</snippet>

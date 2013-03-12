@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4.Project(${1:Vector4 a}, ${2:Vector4 b});]]></content>
+	<tabTrigger><![CDATA[project]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Vector4.*(a, b)]]></description>
+</snippet>

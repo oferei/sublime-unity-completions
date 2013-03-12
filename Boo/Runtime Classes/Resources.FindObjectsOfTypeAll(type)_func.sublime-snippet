@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.FindObjectsOfTypeAll(${1:type as Type})]]></content>
+	<tabTrigger><![CDATA[FindObjectsOfTypeAll]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Resources.*(type)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.CommandEvent(${1:commandName as string})]]></content>
+	<tabTrigger><![CDATA[commandEvent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUIUtility.*(commandName)]]></description>
+</snippet>

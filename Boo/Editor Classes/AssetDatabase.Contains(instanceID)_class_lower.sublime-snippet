@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.Contains(${1:instanceID as int})]]></content>
+	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Contains(instanceID)]]></description>
+</snippet>

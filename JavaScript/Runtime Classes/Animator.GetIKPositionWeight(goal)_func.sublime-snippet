@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetIKPositionWeight(${1:goal : AvatarIKGoal});]]></content>
+	<tabTrigger><![CDATA[GetIKPositionWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(goal)]]></description>
+</snippet>

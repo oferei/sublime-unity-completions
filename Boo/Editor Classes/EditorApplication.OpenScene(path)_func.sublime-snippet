@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.OpenScene(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[OpenScene]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorApplication.*(path)]]></description>
+</snippet>

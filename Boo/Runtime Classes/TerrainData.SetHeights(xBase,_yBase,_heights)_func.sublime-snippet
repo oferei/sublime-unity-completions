@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SetHeights(${1:xBase as int}, ${2:yBase as int}, ${3:heights as (single, 2)})]]></content>
+	<tabTrigger><![CDATA[SetHeights]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainData.*(xBase, yBase, heights)]]></description>
+</snippet>

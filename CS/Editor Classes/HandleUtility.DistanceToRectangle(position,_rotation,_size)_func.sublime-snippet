@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.DistanceToRectangle(${1:Vector3 position}, ${2:Quaternion rotation}, ${3:float size});]]></content>
+	<tabTrigger><![CDATA[DistanceToRectangle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HandleUtility.*(position, rotation, size)]]></description>
+</snippet>

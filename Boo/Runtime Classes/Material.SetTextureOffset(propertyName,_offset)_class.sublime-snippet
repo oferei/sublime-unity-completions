@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetTextureOffset(${1:propertyName as string}, ${2:offset as Vector2})]]></content>
+	<tabTrigger><![CDATA[Material]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetTextureOffset(propertyName, offset)]]></description>
+</snippet>

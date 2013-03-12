@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginToggleGroup(${1:GUIContent label}, ${2:bool toggle});]]></content>
+	<tabTrigger><![CDATA[BeginToggleGroup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(label, toggle)]]></description>
+</snippet>

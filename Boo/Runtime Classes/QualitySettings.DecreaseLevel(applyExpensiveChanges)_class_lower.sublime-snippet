@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QualitySettings.DecreaseLevel(${1:applyExpensiveChanges as bool = false})]]></content>
+	<tabTrigger><![CDATA[qualitySettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DecreaseLevel(applyExpensiveChanges)]]></description>
+</snippet>

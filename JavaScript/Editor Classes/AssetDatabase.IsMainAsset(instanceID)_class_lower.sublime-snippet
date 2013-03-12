@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsMainAsset(${1:instanceID : int});]]></content>
+	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.IsMainAsset(instanceID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioClip.Create(${1:name as string}, ${2:lengthSamples as int}, ${3:channels as int}, ${4:frequency as int}, ${5:_3D as bool}, ${6:stream as bool}, ${7:pcmreadercallback as PCMReaderCallback}, ${8:pcmsetpositioncallback as PCMSetPositionCallback})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AudioClip.*(name, lengthSamples, channels, frequency, _3D, stream, pcmreadercallback, pcmsetpositioncallback)]]></description>
+</snippet>

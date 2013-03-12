@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.TextArea(${1:text as string}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.TextArea(text, style, params options)]]></description>
+</snippet>

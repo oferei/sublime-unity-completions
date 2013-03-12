@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.ExtractOggFile(${1:obj as Object}, ${2:path as string})]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ExtractOggFile(obj, path)]]></description>
+</snippet>

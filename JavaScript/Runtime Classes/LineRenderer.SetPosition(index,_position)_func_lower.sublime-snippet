@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.SetPosition(${1:index : int}, ${2:position : Vector3});]]></content>
+	<tabTrigger><![CDATA[setPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LineRenderer.*(index, position)]]></description>
+</snippet>

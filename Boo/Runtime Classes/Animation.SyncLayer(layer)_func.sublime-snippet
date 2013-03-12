@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animation.SyncLayer(${1:layer as int})]]></content>
+	<tabTrigger><![CDATA[SyncLayer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animation.*(layer)]]></description>
+</snippet>

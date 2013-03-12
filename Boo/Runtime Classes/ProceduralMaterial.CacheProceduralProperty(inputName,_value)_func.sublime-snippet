@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.CacheProceduralProperty(${1:inputName as string}, ${2:value as bool})]]></content>
+	<tabTrigger><![CDATA[CacheProceduralProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ProceduralMaterial.*(inputName, value)]]></description>
+</snippet>

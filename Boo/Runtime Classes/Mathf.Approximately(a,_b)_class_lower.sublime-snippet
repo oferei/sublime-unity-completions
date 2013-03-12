@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Approximately(${1:a as single}, ${2:b as single})]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Approximately(a, b)]]></description>
+</snippet>

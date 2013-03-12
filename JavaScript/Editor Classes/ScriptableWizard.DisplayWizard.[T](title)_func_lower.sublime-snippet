@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableWizard.DisplayWizard.<${1:T}>(${2:title : String});]]></content>
+	<tabTrigger><![CDATA[displayWizard]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ScriptableWizard.*.<T>(title)]]></description>
+</snippet>

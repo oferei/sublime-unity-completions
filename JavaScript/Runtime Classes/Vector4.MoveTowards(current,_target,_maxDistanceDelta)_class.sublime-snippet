@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4.MoveTowards(${1:current : Vector4}, ${2:target : Vector4}, ${3:maxDistanceDelta : float});]]></content>
+	<tabTrigger><![CDATA[Vector4]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.MoveTowards(current, target, maxDistanceDelta)]]></description>
+</snippet>

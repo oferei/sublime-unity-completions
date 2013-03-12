@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Atan2(${1:y : float}, ${2:x : float});]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Atan2(y, x)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorTransitionInfo.IsName(${1:name : String});]]></content>
+	<tabTrigger><![CDATA[IsName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorTransitionInfo.*(name)]]></description>
+</snippet>

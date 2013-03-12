@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Width(${1:width as single})]]></content>
+	<tabTrigger><![CDATA[Width]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(width)]]></description>
+</snippet>

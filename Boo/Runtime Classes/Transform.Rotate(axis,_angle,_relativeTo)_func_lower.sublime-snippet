@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.Rotate(${1:axis as Vector3}, ${2:angle as single}, ${3:relativeTo as Space = Space.Self})]]></content>
+	<tabTrigger><![CDATA[rotate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Transform.*(axis, angle, relativeTo)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.SendEvent(${1:Event e});]]></content>
+	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SendEvent(e)]]></description>
+</snippet>

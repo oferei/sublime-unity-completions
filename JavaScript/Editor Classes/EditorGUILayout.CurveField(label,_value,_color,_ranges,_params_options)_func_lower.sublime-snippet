@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.CurveField(${1:label : GUIContent}, ${2:value : AnimationCurve}, ${3:color : Color}, ${4:ranges : Rect}, ${5:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[curveField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUILayout.*(label, value, color, ranges, params options)]]></description>
+</snippet>

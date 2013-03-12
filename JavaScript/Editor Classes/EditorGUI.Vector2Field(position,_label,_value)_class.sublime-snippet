@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.Vector2Field(${1:position : Rect}, ${2:label : String}, ${3:value : Vector2});]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Vector2Field(position, label, value)]]></description>
+</snippet>

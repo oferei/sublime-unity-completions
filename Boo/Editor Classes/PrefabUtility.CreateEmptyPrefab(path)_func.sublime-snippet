@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.CreateEmptyPrefab(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[CreateEmptyPrefab]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(path)]]></description>
+</snippet>

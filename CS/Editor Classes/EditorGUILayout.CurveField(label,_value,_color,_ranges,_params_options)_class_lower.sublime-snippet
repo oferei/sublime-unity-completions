@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.CurveField(${1:GUIContent label}, ${2:AnimationCurve value}, ${3:Color color}, ${4:Rect ranges}, ${5:GUILayoutOption[] params options});]]></content>
+	<tabTrigger><![CDATA[editorGUILayout]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.CurveField(label, value, color, ranges, params options)]]></description>
+</snippet>

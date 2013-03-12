@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileUtil.ReplaceFile(${1:src as string}, ${2:dst as string})]]></content>
+	<tabTrigger><![CDATA[FileUtil]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ReplaceFile(src, dst)]]></description>
+</snippet>

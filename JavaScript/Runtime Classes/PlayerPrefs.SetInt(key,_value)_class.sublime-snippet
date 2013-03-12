@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerPrefs.SetInt(${1:key : String}, ${2:value : int});]]></content>
+	<tabTrigger><![CDATA[PlayerPrefs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetInt(key, value)]]></description>
+</snippet>

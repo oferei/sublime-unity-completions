@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.LoadLevel(${1:string name});]]></content>
+	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.LoadLevel(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.IsChildOf(${1:parent as Transform})]]></content>
+	<tabTrigger><![CDATA[isChildOf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Transform.*(parent)]]></description>
+</snippet>

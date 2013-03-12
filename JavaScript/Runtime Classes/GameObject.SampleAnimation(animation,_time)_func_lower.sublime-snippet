@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.SampleAnimation(${1:animation : AnimationClip}, ${2:time : float});]]></content>
+	<tabTrigger><![CDATA[sampleAnimation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GameObject.*(animation, time)]]></description>
+</snippet>

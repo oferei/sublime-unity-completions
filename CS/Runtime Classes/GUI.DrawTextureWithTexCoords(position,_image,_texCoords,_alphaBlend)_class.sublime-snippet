@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.DrawTextureWithTexCoords(${1:Rect position}, ${2:Texture image}, ${3:Rect texCoords}, ${4:bool alphaBlend = true});]]></content>
+	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.DrawTextureWithTexCoords(position, image, texCoords, alphaBlend)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.PropertyField(${1:Rect position}, ${2:SerializedProperty property}, ${3:bool includeChildren = false});]]></content>
+	<tabTrigger><![CDATA[PropertyField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, property, includeChildren)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetStaticLongField(${1:clazz : IntPtr}, ${2:fieldID : IntPtr});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetStaticLongField(clazz, fieldID)]]></description>
+</snippet>

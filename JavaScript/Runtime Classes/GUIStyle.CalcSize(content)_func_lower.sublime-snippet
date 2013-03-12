@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.CalcSize(${1:content : GUIContent});]]></content>
+	<tabTrigger><![CDATA[calcSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUIStyle.*(content)]]></description>
+</snippet>

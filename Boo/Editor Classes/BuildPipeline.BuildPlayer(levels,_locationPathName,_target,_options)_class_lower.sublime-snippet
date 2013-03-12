@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.BuildPlayer(${1:levels as (string)}, ${2:locationPathName as string}, ${3:target as BuildTarget}, ${4:options as BuildOptions})]]></content>
+	<tabTrigger><![CDATA[buildPipeline]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.BuildPlayer(levels, locationPathName, target, options)]]></description>
+</snippet>

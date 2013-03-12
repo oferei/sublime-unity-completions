@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawGUITexture(${1:screenRect : Rect}, ${2:texture : Texture}, ${3:mat : Material = null});]]></content>
+	<tabTrigger><![CDATA[gizmos]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.DrawGUITexture(screenRect, texture, mat)]]></description>
+</snippet>

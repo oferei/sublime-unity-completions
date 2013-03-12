@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetStaticIntField(${1:IntPtr clazz}, ${2:IntPtr fieldID}, ${3:Int32 val});]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetStaticIntField(clazz, fieldID, val)]]></description>
+</snippet>

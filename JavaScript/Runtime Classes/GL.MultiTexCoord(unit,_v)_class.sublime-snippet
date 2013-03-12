@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.MultiTexCoord(${1:unit : int}, ${2:v : Vector3});]]></content>
+	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.MultiTexCoord(unit, v)]]></description>
+</snippet>

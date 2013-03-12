@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Quaternion.FromToRotation(${1:fromDirection as Vector3}, ${2:toDirection as Vector3})]]></content>
+	<tabTrigger><![CDATA[quaternion]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.FromToRotation(fromDirection, toDirection)]]></description>
+</snippet>

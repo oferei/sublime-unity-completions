@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIContent(${1:image : Texture}, ${2:tooltip : String});]]></content>
+	<tabTrigger><![CDATA[gUIContent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(image, tooltip)]]></description>
+</snippet>

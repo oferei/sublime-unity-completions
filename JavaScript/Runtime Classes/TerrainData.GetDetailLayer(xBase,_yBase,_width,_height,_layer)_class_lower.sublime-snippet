@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetDetailLayer(${1:xBase : int}, ${2:yBase : int}, ${3:width : int}, ${4:height : int}, ${5:layer : int});]]></content>
+	<tabTrigger><![CDATA[terrainData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetDetailLayer(xBase, yBase, width, height, layer)]]></description>
+</snippet>

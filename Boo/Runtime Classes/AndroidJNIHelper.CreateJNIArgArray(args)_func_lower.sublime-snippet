@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNIHelper.CreateJNIArgArray(${1:args as (object)})]]></content>
+	<tabTrigger><![CDATA[createJNIArgArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJNIHelper.*(args)]]></description>
+</snippet>

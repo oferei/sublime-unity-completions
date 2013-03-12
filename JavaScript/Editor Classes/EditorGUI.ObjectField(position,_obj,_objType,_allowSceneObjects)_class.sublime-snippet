@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ObjectField(${1:position : Rect}, ${2:obj : Object}, ${3:objType : System.Type}, ${4:allowSceneObjects : boolean});]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ObjectField(position, obj, objType, allowSceneObjects)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeometryUtility.CalculateFrustumPlanes(${1:Matrix4x4 worldToProjectionMatrix});]]></content>
+	<tabTrigger><![CDATA[calculateFrustumPlanes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GeometryUtility.*(worldToProjectionMatrix)]]></description>
+</snippet>

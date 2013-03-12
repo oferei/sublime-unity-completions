@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationClip.SetCurve(${1:string relativePath}, ${2:Type type}, ${3:string propertyName}, ${4:AnimationCurve curve});]]></content>
+	<tabTrigger><![CDATA[animationClip]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetCurve(relativePath, type, propertyName, curve)]]></description>
+</snippet>

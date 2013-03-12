@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4(${1:float x}, ${2:float y}, ${3:float z}, ${4:float w});]]></content>
+	<tabTrigger><![CDATA[vector4]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(x, y, z, w)]]></description>
+</snippet>

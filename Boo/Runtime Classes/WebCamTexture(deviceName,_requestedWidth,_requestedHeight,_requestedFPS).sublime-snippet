@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WebCamTexture(${1:deviceName as string}, ${2:requestedWidth as int}, ${3:requestedHeight as int}, ${4:requestedFPS as int})]]></content>
+	<tabTrigger><![CDATA[WebCamTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(deviceName, requestedWidth, requestedHeight, requestedFPS)]]></description>
+</snippet>

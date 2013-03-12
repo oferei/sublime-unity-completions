@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.DisplayDialog(${1:title as string}, ${2:message as string}, ${3:ok as string}, ${4:cancel as string = \"\"})]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DisplayDialog(title, message, ok, cancel)]]></description>
+</snippet>

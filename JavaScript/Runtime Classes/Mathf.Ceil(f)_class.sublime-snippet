@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Ceil(${1:f : float});]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Ceil(f)]]></description>
+</snippet>

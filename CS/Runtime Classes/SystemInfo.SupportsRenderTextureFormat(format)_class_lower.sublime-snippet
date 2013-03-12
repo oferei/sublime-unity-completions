@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemInfo.SupportsRenderTextureFormat(${1:RenderTextureFormat format});]]></content>
+	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SupportsRenderTextureFormat(format)]]></description>
+</snippet>

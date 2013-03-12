@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ValidateMoveAsset(${1:oldPath : String}, ${2:newPath : String});]]></content>
+	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ValidateMoveAsset(oldPath, newPath)]]></description>
+</snippet>

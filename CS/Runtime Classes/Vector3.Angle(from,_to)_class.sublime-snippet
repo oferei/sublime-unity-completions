@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Angle(${1:Vector3 from}, ${2:Vector3 to});]]></content>
+	<tabTrigger><![CDATA[Vector3]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Angle(from, to)]]></description>
+</snippet>

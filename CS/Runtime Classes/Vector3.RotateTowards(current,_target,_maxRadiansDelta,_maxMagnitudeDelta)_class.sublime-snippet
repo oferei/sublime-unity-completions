@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.RotateTowards(${1:Vector3 current}, ${2:Vector3 target}, ${3:float maxRadiansDelta}, ${4:float maxMagnitudeDelta});]]></content>
+	<tabTrigger><![CDATA[Vector3]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.RotateTowards(current, target, maxRadiansDelta, maxMagnitudeDelta)]]></description>
+</snippet>

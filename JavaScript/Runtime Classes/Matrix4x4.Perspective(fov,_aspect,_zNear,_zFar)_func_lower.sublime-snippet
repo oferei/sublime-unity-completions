@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Perspective(${1:fov : float}, ${2:aspect : float}, ${3:zNear : float}, ${4:zFar : float});]]></content>
+	<tabTrigger><![CDATA[perspective]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Matrix4x4.*(fov, aspect, zNear, zFar)]]></description>
+</snippet>

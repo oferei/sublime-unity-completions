@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.GetPlatformTextureSettings(${1:string platform}, ${2:int out maxTextureSize}, ${3:TextureImporterFormat out textureFormat});]]></content>
+	<tabTrigger><![CDATA[getPlatformTextureSettings]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TextureImporter.*(platform, out maxTextureSize, out textureFormat)]]></description>
+</snippet>

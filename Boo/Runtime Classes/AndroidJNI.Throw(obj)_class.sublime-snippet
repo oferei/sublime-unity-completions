@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.Throw(${1:obj as IntPtr})]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Throw(obj)]]></description>
+</snippet>

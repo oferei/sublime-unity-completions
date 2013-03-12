@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.ExpandHeight(${1:bool expand});]]></content>
+	<tabTrigger><![CDATA[ExpandHeight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUILayout.*(expand)]]></description>
+</snippet>

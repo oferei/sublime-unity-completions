@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animation.RemoveClip(${1:clipName : String});]]></content>
+	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.RemoveClip(clipName)]]></description>
+</snippet>

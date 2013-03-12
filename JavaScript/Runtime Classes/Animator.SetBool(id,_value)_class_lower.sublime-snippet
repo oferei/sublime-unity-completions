@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetBool(${1:id : int}, ${2:value : boolean});]]></content>
+	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetBool(id, value)]]></description>
+</snippet>

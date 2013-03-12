@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.GetRelativePointVelocity(${1:relativePoint as Vector3})]]></content>
+	<tabTrigger><![CDATA[getRelativePointVelocity]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rigidbody.*(relativePoint)]]></description>
+</snippet>

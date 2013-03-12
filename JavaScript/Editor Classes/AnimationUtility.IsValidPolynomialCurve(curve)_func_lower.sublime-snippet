@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.IsValidPolynomialCurve(${1:curve : AnimationCurve});]]></content>
+	<tabTrigger><![CDATA[isValidPolynomialCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationUtility.*(curve)]]></description>
+</snippet>

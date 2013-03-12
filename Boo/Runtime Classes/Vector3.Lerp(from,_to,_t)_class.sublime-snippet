@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Lerp(${1:from as Vector3}, ${2:to as Vector3}, ${3:t as single})]]></content>
+	<tabTrigger><![CDATA[Vector3]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Lerp(from, to, t)]]></description>
+</snippet>

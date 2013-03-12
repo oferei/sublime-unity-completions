@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.CylinderCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float});]]></content>
+	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CylinderCap(controlID, position, rotation, size)]]></description>
+</snippet>

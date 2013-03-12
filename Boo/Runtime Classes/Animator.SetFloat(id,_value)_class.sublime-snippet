@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetFloat(${1:id as int}, ${2:value as single})]]></content>
+	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetFloat(id, value)]]></description>
+</snippet>

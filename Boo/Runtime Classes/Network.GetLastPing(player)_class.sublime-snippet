@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.GetLastPing(${1:player as NetworkPlayer})]]></content>
+	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetLastPing(player)]]></description>
+</snippet>

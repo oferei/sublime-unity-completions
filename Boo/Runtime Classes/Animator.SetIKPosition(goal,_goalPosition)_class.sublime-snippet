@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetIKPosition(${1:goal as AvatarIKGoal}, ${2:goalPosition as Vector3})]]></content>
+	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetIKPosition(goal, goalPosition)]]></description>
+</snippet>

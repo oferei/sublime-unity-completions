@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.ViewportPointToRay(${1:position : Vector3});]]></content>
+	<tabTrigger><![CDATA[Camera]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ViewportPointToRay(position)]]></description>
+</snippet>

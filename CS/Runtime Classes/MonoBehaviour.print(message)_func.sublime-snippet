@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.print(${1:object message});]]></content>
+	<tabTrigger><![CDATA[print]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MonoBehaviour.*(message)]]></description>
+</snippet>

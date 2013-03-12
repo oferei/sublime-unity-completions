@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GenericMenu.AddItem(${1:content : GUIContent}, ${2:on : boolean}, ${3:func : MenuFunction2}, ${4:userData : object});]]></content>
+	<tabTrigger><![CDATA[addItem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GenericMenu.*(content, on, func, userData)]]></description>
+</snippet>

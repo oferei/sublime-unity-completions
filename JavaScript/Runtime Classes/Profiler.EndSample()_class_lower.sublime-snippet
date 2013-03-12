@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.EndSample();]]></content>
+	<tabTrigger><![CDATA[profiler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.EndSample()]]></description>
+</snippet>

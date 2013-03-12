@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.BeginGroup(${1:position : Rect}, ${2:content : GUIContent}, ${3:style : GUIStyle});]]></content>
+	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.BeginGroup(position, content, style)]]></description>
+</snippet>

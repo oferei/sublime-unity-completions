@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LOD(${1:screenRelativeTransitionHeight : float}, ${2:renderers : Renderer[]});]]></content>
+	<tabTrigger><![CDATA[LOD]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(screenRelativeTransitionHeight, renderers)]]></description>
+</snippet>

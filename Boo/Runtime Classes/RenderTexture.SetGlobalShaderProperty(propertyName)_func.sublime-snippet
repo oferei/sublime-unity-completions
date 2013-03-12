@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.SetGlobalShaderProperty(${1:propertyName as string})]]></content>
+	<tabTrigger><![CDATA[SetGlobalShaderProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RenderTexture.*(propertyName)]]></description>
+</snippet>

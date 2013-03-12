@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetFloatArrayElement(${1:IntPtr array}, ${2:int index}, ${3:float val});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetFloatArrayElement(array, index, val)]]></description>
+</snippet>

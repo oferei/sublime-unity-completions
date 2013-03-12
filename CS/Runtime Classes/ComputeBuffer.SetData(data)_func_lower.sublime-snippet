@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeBuffer.SetData(${1:System.Array data});]]></content>
+	<tabTrigger><![CDATA[setData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ComputeBuffer.*(data)]]></description>
+</snippet>

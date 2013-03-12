@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.TagField(${1:position as Rect}, ${2:label as GUIContent}, ${3:tag as string}, ${4:style as GUIStyle = EditorStyles.popup})]]></content>
+	<tabTrigger><![CDATA[tagField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, label, tag, style)]]></description>
+</snippet>

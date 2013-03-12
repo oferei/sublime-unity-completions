@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Slider(${1:value : float}, ${2:leftValue : float}, ${3:rightValue : float}, ${4:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Slider(value, leftValue, rightValue, params options)]]></description>
+</snippet>

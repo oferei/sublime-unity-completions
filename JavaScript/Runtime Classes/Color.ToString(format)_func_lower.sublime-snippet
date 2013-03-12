@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color.ToString(${1:format : String});]]></content>
+	<tabTrigger><![CDATA[toString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Color.*(format)]]></description>
+</snippet>

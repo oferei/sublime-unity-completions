@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeometryUtility.CalculateFrustumPlanes(${1:Camera camera});]]></content>
+	<tabTrigger><![CDATA[geometryUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.CalculateFrustumPlanes(camera)]]></description>
+</snippet>

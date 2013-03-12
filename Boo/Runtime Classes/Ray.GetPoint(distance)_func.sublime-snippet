@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ray.GetPoint(${1:distance as single})]]></content>
+	<tabTrigger><![CDATA[GetPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Ray.*(distance)]]></description>
+</snippet>

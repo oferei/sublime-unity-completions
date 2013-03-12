@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.Find(${1:name : String});]]></content>
+	<tabTrigger><![CDATA[Find]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(name)]]></description>
+</snippet>

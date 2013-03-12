@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.TestConnection(${1:bool forceTest = false});]]></content>
+	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.TestConnection(forceTest)]]></description>
+</snippet>

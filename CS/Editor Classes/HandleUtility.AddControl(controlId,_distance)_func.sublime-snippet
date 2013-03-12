@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.AddControl(${1:int controlId}, ${2:float distance});]]></content>
+	<tabTrigger><![CDATA[AddControl]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HandleUtility.*(controlId, distance)]]></description>
+</snippet>

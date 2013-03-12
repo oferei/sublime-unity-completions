@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.GetBuiltinSkin(${1:skin as EditorSkin})]]></content>
+	<tabTrigger><![CDATA[getBuiltinSkin]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUIUtility.*(skin)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bounds.SetMinMax(${1:min as Vector3}, ${2:max as Vector3})]]></content>
+	<tabTrigger><![CDATA[bounds]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetMinMax(min, max)]]></description>
+</snippet>

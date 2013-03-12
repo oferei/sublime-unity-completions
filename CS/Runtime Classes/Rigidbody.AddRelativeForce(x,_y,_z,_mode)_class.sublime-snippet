@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.AddRelativeForce(${1:float x}, ${2:float y}, ${3:float z}, ${4:ForceMode mode = ForceMode.Force});]]></content>
+	<tabTrigger><![CDATA[Rigidbody]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.AddRelativeForce(x, y, z, mode)]]></description>
+</snippet>

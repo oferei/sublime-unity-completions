@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LODUtility.CalculateLODGroupBoundingBox(${1:group as LODGroup})]]></content>
+	<tabTrigger><![CDATA[lODUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.CalculateLODGroupBoundingBox(group)]]></description>
+</snippet>

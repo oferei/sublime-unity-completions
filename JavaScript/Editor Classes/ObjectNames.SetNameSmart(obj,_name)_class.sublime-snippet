@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.SetNameSmart(${1:obj : Object}, ${2:name : String});]]></content>
+	<tabTrigger><![CDATA[ObjectNames]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetNameSmart(obj, name)]]></description>
+</snippet>

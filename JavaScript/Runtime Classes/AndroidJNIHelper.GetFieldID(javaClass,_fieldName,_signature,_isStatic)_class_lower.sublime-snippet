@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNIHelper.GetFieldID(${1:javaClass : IntPtr}, ${2:fieldName : String}, ${3:signature : String = \"\"}, ${4:isStatic : boolean = false});]]></content>
+	<tabTrigger><![CDATA[androidJNIHelper]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetFieldID(javaClass, fieldName, signature, isStatic)]]></description>
+</snippet>

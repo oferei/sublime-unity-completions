@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerPrefs.DeleteKey(${1:key as string})]]></content>
+	<tabTrigger><![CDATA[DeleteKey]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerPrefs.*(key)]]></description>
+</snippet>

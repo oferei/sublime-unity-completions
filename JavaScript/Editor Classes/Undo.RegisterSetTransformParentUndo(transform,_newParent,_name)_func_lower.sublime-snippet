@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RegisterSetTransformParentUndo(${1:transform : Transform}, ${2:newParent : Transform}, ${3:name : String});]]></content>
+	<tabTrigger><![CDATA[registerSetTransformParentUndo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Undo.*(transform, newParent, name)]]></description>
+</snippet>

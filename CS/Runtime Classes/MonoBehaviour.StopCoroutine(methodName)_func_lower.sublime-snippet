@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.StopCoroutine(${1:string methodName});]]></content>
+	<tabTrigger><![CDATA[stopCoroutine]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MonoBehaviour.*(methodName)]]></description>
+</snippet>

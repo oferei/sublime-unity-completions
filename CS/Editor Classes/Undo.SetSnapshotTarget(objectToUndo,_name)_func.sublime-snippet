@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.SetSnapshotTarget(${1:Object objectToUndo}, ${2:string name});]]></content>
+	<tabTrigger><![CDATA[SetSnapshotTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Undo.*(objectToUndo, name)]]></description>
+</snippet>

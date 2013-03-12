@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeBuffer.CopyCount(${1:src : ComputeBuffer}, ${2:dst : ComputeBuffer}, ${3:dstOffset : int});]]></content>
+	<tabTrigger><![CDATA[ComputeBuffer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CopyCount(src, dst, dstOffset)]]></description>
+</snippet>

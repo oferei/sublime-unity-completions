@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.NicifyVariableName(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[nicifyVariableName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ObjectNames.*(name)]]></description>
+</snippet>

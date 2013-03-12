@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.IsControlled(${1:transform as Transform})]]></content>
+	<tabTrigger><![CDATA[isControlled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(transform)]]></description>
+</snippet>

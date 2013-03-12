@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ExportPackage(${1:assetPathName as string}, ${2:fileName as string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ExportPackage(assetPathName, fileName)]]></description>
+</snippet>

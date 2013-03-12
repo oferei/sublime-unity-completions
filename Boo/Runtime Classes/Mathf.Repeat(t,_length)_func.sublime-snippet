@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Repeat(${1:t as single}, ${2:length as single})]]></content>
+	<tabTrigger><![CDATA[Repeat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(t, length)]]></description>
+</snippet>

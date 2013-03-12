@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.MinHeight(${1:minHeight : float});]]></content>
+	<tabTrigger><![CDATA[minHeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUILayout.*(minHeight)]]></description>
+</snippet>

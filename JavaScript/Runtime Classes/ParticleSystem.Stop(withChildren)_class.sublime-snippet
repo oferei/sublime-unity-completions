@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Stop(${1:withChildren : boolean = true});]]></content>
+	<tabTrigger><![CDATA[ParticleSystem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Stop(withChildren)]]></description>
+</snippet>

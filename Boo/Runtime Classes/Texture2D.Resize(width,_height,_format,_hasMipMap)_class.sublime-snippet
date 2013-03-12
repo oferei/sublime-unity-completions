@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.Resize(${1:width as int}, ${2:height as int}, ${3:format as TextureFormat}, ${4:hasMipMap as bool})]]></content>
+	<tabTrigger><![CDATA[Texture2D]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Resize(width, height, format, hasMipMap)]]></description>
+</snippet>

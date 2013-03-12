@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.DrawWithTextSelection(${1:position as Rect}, ${2:content as GUIContent}, ${3:controlID as int}, ${4:firstSelectedCharacter as int}, ${5:lastSelectedCharacter as int})]]></content>
+	<tabTrigger><![CDATA[drawWithTextSelection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIStyle.*(position, content, controlID, firstSelectedCharacter, lastSelectedCharacter)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.GetCursorStringIndex(${1:position as Rect}, ${2:content as GUIContent}, ${3:cursorPixelPosition as Vector2})]]></content>
+	<tabTrigger><![CDATA[gUIStyle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetCursorStringIndex(position, content, cursorPixelPosition)]]></description>
+</snippet>

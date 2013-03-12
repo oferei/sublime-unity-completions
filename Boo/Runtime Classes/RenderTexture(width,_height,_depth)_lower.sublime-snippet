@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture(${1:width as int}, ${2:height as int}, ${3:depth as int})]]></content>
+	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, depth)]]></description>
+</snippet>

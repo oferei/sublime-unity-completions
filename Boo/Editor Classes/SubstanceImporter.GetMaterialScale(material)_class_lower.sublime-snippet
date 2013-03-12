@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.GetMaterialScale(${1:material as ProceduralMaterial})]]></content>
+	<tabTrigger><![CDATA[substanceImporter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetMaterialScale(material)]]></description>
+</snippet>

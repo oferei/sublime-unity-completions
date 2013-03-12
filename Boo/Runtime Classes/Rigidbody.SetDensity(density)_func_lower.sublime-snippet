@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.SetDensity(${1:density as single})]]></content>
+	<tabTrigger><![CDATA[setDensity]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rigidbody.*(density)]]></description>
+</snippet>

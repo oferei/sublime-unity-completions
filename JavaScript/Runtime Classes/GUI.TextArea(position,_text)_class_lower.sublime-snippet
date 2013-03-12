@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.TextArea(${1:position : Rect}, ${2:text : String});]]></content>
+	<tabTrigger><![CDATA[gUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.TextArea(position, text)]]></description>
+</snippet>

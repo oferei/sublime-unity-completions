@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.GetProceduralTexture(${1:inputName : String});]]></content>
+	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetProceduralTexture(inputName)]]></description>
+</snippet>

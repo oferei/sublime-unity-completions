@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundle.Load(${1:string name}, ${2:Type type});]]></content>
+	<tabTrigger><![CDATA[assetBundle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Load(name, type)]]></description>
+</snippet>

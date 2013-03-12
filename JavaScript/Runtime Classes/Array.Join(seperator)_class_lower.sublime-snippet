@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Array.Join(${1:seperator : String});]]></content>
+	<tabTrigger><![CDATA[array]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Join(seperator)]]></description>
+</snippet>

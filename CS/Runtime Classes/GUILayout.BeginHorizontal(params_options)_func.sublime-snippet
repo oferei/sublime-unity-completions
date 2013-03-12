@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.BeginHorizontal(${1:GUILayoutOption[] params options});]]></content>
+	<tabTrigger><![CDATA[BeginHorizontal]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUILayout.*(params options)]]></description>
+</snippet>

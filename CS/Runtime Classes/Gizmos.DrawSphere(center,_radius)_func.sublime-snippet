@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawSphere(${1:Vector3 center}, ${2:float radius});]]></content>
+	<tabTrigger><![CDATA[DrawSphere]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Gizmos.*(center, radius)]]></description>
+</snippet>

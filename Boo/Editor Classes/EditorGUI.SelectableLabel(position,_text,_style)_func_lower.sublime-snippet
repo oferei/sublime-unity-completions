@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.SelectableLabel(${1:position as Rect}, ${2:text as string}, ${3:style as GUIStyle = EditorStyles.label})]]></content>
+	<tabTrigger><![CDATA[selectableLabel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, text, style)]]></description>
+</snippet>

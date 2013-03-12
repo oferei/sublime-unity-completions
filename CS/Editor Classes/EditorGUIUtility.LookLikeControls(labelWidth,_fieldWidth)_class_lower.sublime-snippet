@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.LookLikeControls(${1:float labelWidth = 0}, ${2:float fieldWidth = 50});]]></content>
+	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.LookLikeControls(labelWidth, fieldWidth)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJavaClass(${1:className : String});]]></content>
+	<tabTrigger><![CDATA[androidJavaClass]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(className)]]></description>
+</snippet>

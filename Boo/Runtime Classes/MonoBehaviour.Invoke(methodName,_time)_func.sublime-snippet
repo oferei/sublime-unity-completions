@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.Invoke(${1:methodName as string}, ${2:time as single})]]></content>
+	<tabTrigger><![CDATA[Invoke]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MonoBehaviour.*(methodName, time)]]></description>
+</snippet>

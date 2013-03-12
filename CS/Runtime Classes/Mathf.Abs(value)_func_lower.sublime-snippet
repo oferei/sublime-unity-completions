@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Abs(${1:int value});]]></content>
+	<tabTrigger><![CDATA[abs]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mathf.*(value)]]></description>
+</snippet>

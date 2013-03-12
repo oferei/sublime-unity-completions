@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.DrawRegionSwatch(${1:position : Rect}, ${2:curve : AnimationCurve}, ${3:curve2 : AnimationCurve}, ${4:color : Color}, ${5:bgColor : Color}, ${6:curveRanges : Rect});]]></content>
+	<tabTrigger><![CDATA[drawRegionSwatch]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUIUtility.*(position, curve, curve2, color, bgColor, curveRanges)]]></description>
+</snippet>

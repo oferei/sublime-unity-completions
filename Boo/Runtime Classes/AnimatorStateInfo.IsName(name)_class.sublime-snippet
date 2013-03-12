@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateInfo.IsName(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[AnimatorStateInfo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.IsName(name)]]></description>
+</snippet>

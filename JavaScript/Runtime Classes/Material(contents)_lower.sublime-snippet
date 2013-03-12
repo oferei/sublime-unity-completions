@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material(${1:contents : String});]]></content>
+	<tabTrigger><![CDATA[material]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(contents)]]></description>
+</snippet>

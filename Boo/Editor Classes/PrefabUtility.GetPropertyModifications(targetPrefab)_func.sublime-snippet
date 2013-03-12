@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetPropertyModifications(${1:targetPrefab as Object})]]></content>
+	<tabTrigger><![CDATA[GetPropertyModifications]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(targetPrefab)]]></description>
+</snippet>

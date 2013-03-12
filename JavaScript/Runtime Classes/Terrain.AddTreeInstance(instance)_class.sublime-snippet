@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Terrain.AddTreeInstance(${1:instance : TreeInstance});]]></content>
+	<tabTrigger><![CDATA[Terrain]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.AddTreeInstance(instance)]]></description>
+</snippet>

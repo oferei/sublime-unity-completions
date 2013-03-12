@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetHeight(${1:x as int}, ${2:y as int})]]></content>
+	<tabTrigger><![CDATA[terrainData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetHeight(x, y)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIContent(${1:GUIContent src});]]></content>
+	<tabTrigger><![CDATA[GUIContent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(src)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.BeginScrollView(${1:position : Rect}, ${2:scrollPosition : Vector2}, ${3:viewRect : Rect}, ${4:horizontalScrollbar : GUIStyle}, ${5:verticalScrollbar : GUIStyle});]]></content>
+	<tabTrigger><![CDATA[BeginScrollView]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUI.*(position, scrollPosition, viewRect, horizontalScrollbar, verticalScrollbar)]]></description>
+</snippet>

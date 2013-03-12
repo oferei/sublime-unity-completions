@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.ReadPixels(${1:source as Rect}, ${2:destX as int}, ${3:destY as int}, ${4:recalculateMipMaps as bool = true})]]></content>
+	<tabTrigger><![CDATA[ReadPixels]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Texture2D.*(source, destX, destY, recalculateMipMaps)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Clamp01(${1:value as single})]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Clamp01(value)]]></description>
+</snippet>

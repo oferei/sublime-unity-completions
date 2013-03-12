@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.GetWindowWithRect(${1:t as System.Type}, ${2:rect as Rect}, ${3:utility as bool = false}, ${4:title as string = null})]]></content>
+	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetWindowWithRect(t, rect, utility, title)]]></description>
+</snippet>

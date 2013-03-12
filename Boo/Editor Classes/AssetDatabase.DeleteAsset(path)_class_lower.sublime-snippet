@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.DeleteAsset(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DeleteAsset(path)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.ObjectContent(${1:obj : Object}, ${2:type : System.Type});]]></content>
+	<tabTrigger><![CDATA[objectContent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUIUtility.*(obj, type)]]></description>
+</snippet>

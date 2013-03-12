@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.IntField(${1:position as Rect}, ${2:value as int}, ${3:style as GUIStyle = EditorStyles.numberField})]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.IntField(position, value, style)]]></description>
+</snippet>

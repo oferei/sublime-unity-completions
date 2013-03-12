@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Pow(${1:f as single}, ${2:p as single})]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Pow(f, p)]]></description>
+</snippet>

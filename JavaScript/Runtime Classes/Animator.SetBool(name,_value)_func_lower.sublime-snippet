@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetBool(${1:name : String}, ${2:value : boolean});]]></content>
+	<tabTrigger><![CDATA[setBool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(name, value)]]></description>
+</snippet>

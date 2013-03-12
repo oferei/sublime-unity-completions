@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJavaObject.GetStatic.<${1:FieldType}>(${2:fieldName : String});]]></content>
+	<tabTrigger><![CDATA[androidJavaObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetStatic.<FieldType>(fieldName)]]></description>
+</snippet>

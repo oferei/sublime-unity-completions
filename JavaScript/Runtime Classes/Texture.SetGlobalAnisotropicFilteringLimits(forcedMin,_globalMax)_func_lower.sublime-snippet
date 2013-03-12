@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture.SetGlobalAnisotropicFilteringLimits(${1:forcedMin : int}, ${2:globalMax : int});]]></content>
+	<tabTrigger><![CDATA[setGlobalAnisotropicFilteringLimits]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Texture.*(forcedMin, globalMax)]]></description>
+</snippet>

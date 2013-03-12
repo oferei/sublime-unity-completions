@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.OpenAsset(${1:int instanceID}, ${2:int lineNumber = -1});]]></content>
+	<tabTrigger><![CDATA[openAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(instanceID, lineNumber)]]></description>
+</snippet>

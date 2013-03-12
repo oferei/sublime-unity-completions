@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.DestroyPlayerObjects(${1:playerID : NetworkPlayer});]]></content>
+	<tabTrigger><![CDATA[DestroyPlayerObjects]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Network.*(playerID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.Draw(${1:position as Rect}, ${2:image as Texture}, ${3:isHover as bool}, ${4:isActive as bool}, ${5:on as bool}, ${6:hasKeyboardFocus as bool})]]></content>
+	<tabTrigger><![CDATA[draw]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIStyle.*(position, image, isHover, isActive, on, hasKeyboardFocus)]]></description>
+</snippet>

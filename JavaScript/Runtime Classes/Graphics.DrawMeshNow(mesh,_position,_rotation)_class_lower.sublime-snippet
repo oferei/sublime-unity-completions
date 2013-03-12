@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawMeshNow(${1:mesh : Mesh}, ${2:position : Vector3}, ${3:rotation : Quaternion});]]></content>
+	<tabTrigger><![CDATA[graphics]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.DrawMeshNow(mesh, position, rotation)]]></description>
+</snippet>

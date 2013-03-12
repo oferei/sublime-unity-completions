@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Button(${1:image : Texture}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Button(image, style, params options)]]></description>
+</snippet>

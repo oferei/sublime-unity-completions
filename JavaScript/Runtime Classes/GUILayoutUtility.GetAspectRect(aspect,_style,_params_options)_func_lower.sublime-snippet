@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayoutUtility.GetAspectRect(${1:aspect : float}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[getAspectRect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUILayoutUtility.*(aspect, style, params options)]]></description>
+</snippet>

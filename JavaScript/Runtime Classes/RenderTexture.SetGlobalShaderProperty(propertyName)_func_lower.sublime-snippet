@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.SetGlobalShaderProperty(${1:propertyName : String});]]></content>
+	<tabTrigger><![CDATA[setGlobalShaderProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RenderTexture.*(propertyName)]]></description>
+</snippet>

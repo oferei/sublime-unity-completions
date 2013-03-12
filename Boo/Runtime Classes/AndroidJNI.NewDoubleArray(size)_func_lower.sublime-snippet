@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.NewDoubleArray(${1:size as int})]]></content>
+	<tabTrigger><![CDATA[newDoubleArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJNI.*(size)]]></description>
+</snippet>

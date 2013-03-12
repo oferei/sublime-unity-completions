@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.Remove(${1:key as object})]]></content>
+	<tabTrigger><![CDATA[Hashtable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Remove(key)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetCharField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:Char val});]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetCharField(obj, fieldID, val)]]></description>
+</snippet>

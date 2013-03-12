@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.GetPropertyHeight(${1:property as SerializedProperty}, ${2:label as GUIContent = null}, ${3:includeChildren as bool = true})]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetPropertyHeight(property, label, includeChildren)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.ContainsKey(${1:key : object});]]></content>
+	<tabTrigger><![CDATA[ContainsKey]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Hashtable.*(key)]]></description>
+</snippet>

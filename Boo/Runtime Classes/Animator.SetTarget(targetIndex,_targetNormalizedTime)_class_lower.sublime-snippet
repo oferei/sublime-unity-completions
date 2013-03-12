@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetTarget(${1:targetIndex as AvatarTarget}, ${2:targetNormalizedTime as single})]]></content>
+	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetTarget(targetIndex, targetNormalizedTime)]]></description>
+</snippet>

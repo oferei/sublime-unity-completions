@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.Apply(${1:updateMipmaps : boolean = true}, ${2:makeNoLongerReadable : boolean = false});]]></content>
+	<tabTrigger><![CDATA[apply]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Texture2D.*(updateMipmaps, makeNoLongerReadable)]]></description>
+</snippet>

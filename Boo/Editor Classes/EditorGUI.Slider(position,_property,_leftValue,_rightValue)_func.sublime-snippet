@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.Slider(${1:position as Rect}, ${2:property as SerializedProperty}, ${3:leftValue as single}, ${4:rightValue as single})]]></content>
+	<tabTrigger><![CDATA[Slider]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, property, leftValue, rightValue)]]></description>
+</snippet>

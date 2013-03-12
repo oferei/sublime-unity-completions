@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.Button(${1:position as Rect}, ${2:content as GUIContent}, ${3:style as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[Button]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUI.*(position, content, style)]]></description>
+</snippet>

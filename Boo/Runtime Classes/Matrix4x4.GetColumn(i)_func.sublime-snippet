@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.GetColumn(${1:i as int})]]></content>
+	<tabTrigger><![CDATA[GetColumn]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Matrix4x4.*(i)]]></description>
+</snippet>

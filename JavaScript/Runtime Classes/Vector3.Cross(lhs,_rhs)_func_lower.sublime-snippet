@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Cross(${1:lhs : Vector3}, ${2:rhs : Vector3});]]></content>
+	<tabTrigger><![CDATA[cross]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector3.*(lhs, rhs)]]></description>
+</snippet>

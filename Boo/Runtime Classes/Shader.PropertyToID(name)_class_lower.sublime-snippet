@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.PropertyToID(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[shader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.PropertyToID(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.BeginSample(${1:name as string}, ${2:targetObject as Object})]]></content>
+	<tabTrigger><![CDATA[BeginSample]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Profiler.*(name, targetObject)]]></description>
+</snippet>

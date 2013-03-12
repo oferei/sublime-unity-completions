@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetBooleanField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:bool val});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetBooleanField(obj, fieldID, val)]]></description>
+</snippet>

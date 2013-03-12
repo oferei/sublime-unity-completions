@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4.MoveTowards(${1:current as Vector4}, ${2:target as Vector4}, ${3:maxDistanceDelta as single})]]></content>
+	<tabTrigger><![CDATA[moveTowards]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Vector4.*(current, target, maxDistanceDelta)]]></description>
+</snippet>

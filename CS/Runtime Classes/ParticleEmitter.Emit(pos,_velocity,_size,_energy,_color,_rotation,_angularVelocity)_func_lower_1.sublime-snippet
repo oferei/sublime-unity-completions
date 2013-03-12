@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleEmitter.Emit(${1:Vector3 pos}, ${2:Vector3 velocity}, ${3:float size}, ${4:float energy}, ${5:Color color}, ${6:float rotation}, ${7:float angularVelocity});]]></content>
+	<tabTrigger><![CDATA[emit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ParticleEmitter.*(pos, velocity, size, energy, color, rotation, angularVelocity)]]></description>
+</snippet>

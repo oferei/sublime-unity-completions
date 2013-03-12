@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ping(${1:string address});]]></content>
+	<tabTrigger><![CDATA[ping]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(address)]]></description>
+</snippet>

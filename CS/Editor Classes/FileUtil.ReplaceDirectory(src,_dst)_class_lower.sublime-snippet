@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileUtil.ReplaceDirectory(${1:string src}, ${2:string dst});]]></content>
+	<tabTrigger><![CDATA[fileUtil]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.ReplaceDirectory(src, dst)]]></description>
+</snippet>

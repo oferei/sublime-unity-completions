@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileUtil.CopyFileOrDirectoryFollowSymlinks(${1:from : String}, ${2:to : String});]]></content>
+	<tabTrigger><![CDATA[copyFileOrDirectoryFollowSymlinks]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[FileUtil.*(from, to)]]></description>
+</snippet>

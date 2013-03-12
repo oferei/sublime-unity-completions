@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.CompareTag(${1:tag : String});]]></content>
+	<tabTrigger><![CDATA[compareTag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GameObject.*(tag)]]></description>
+</snippet>

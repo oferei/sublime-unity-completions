@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.Destroy(${1:obj as Object}, ${2:t as single = 0.0F})]]></content>
+	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Destroy(obj, t)]]></description>
+</snippet>

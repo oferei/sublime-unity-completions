@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.Toolbar(${1:position as Rect}, ${2:selected as int}, ${3:texts as (string)}, ${4:style as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[toolbar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUI.*(position, selected, texts, style)]]></description>
+</snippet>

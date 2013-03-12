@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Asin(${1:f as single})]]></content>
+	<tabTrigger><![CDATA[asin]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(f)]]></description>
+</snippet>

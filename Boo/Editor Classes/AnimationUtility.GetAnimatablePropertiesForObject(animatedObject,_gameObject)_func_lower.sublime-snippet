@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetAnimatablePropertiesForObject(${1:animatedObject as Object}, ${2:gameObject as GameObject})]]></content>
+	<tabTrigger><![CDATA[getAnimatablePropertiesForObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationUtility.*(animatedObject, gameObject)]]></description>
+</snippet>

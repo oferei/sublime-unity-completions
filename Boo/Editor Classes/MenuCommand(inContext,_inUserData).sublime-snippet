@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MenuCommand(${1:inContext as Object}, ${2:inUserData as int})]]></content>
+	<tabTrigger><![CDATA[MenuCommand]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inContext, inUserData)]]></description>
+</snippet>

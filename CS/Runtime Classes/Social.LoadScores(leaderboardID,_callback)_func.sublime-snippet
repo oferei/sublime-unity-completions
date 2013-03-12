@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Social.LoadScores(${1:string leaderboardID}, ${2:System.Action<Score[]> callback});]]></content>
+	<tabTrigger><![CDATA[LoadScores]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Social.*(leaderboardID, callback)]]></description>
+</snippet>

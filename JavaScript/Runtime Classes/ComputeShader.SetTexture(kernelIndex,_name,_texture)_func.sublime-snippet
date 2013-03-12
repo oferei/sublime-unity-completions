@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.SetTexture(${1:kernelIndex : int}, ${2:name : String}, ${3:texture : Texture});]]></content>
+	<tabTrigger><![CDATA[SetTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ComputeShader.*(kernelIndex, name, texture)]]></description>
+</snippet>

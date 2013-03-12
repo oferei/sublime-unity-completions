@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.DragWindow(${1:position as Rect})]]></content>
+	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DragWindow(position)]]></description>
+</snippet>

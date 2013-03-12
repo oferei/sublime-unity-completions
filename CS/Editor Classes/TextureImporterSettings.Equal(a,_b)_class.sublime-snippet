@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporterSettings.Equal(${1:TextureImporterSettings a}, ${2:TextureImporterSettings b});]]></content>
+	<tabTrigger><![CDATA[TextureImporterSettings]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Equal(a, b)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LODGroup.ForceLOD(${1:int index});]]></content>
+	<tabTrigger><![CDATA[LODGroup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.ForceLOD(index)]]></description>
+</snippet>

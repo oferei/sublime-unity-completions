@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.SphereCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float});]]></content>
+	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SphereCap(controlID, position, rotation, size)]]></description>
+</snippet>

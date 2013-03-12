@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MenuItem(${1:string itemName}, ${2:bool isValidateFunction}, ${3:int priority});]]></content>
+	<tabTrigger><![CDATA[MenuItem]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(itemName, isValidateFunction, priority)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAchievement.ReportProgress(${1:callback as System.Action<bool>})]]></content>
+	<tabTrigger><![CDATA[IAchievement]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ReportProgress(callback)]]></description>
+</snippet>

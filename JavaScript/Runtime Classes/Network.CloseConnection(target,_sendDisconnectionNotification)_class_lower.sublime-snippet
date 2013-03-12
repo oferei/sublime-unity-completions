@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.CloseConnection(${1:target : NetworkPlayer}, ${2:sendDisconnectionNotification : boolean});]]></content>
+	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CloseConnection(target, sendDisconnectionNotification)]]></description>
+</snippet>

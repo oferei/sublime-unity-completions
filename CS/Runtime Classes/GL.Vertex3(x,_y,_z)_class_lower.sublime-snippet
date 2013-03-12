@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.Vertex3(${1:float x}, ${2:float y}, ${3:float z});]]></content>
+	<tabTrigger><![CDATA[gL]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Vertex3(x, y, z)]]></description>
+</snippet>

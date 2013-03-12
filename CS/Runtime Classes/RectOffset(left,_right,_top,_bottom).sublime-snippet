@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectOffset(${1:int left}, ${2:int right}, ${3:int top}, ${4:int bottom});]]></content>
+	<tabTrigger><![CDATA[RectOffset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(left, right, top, bottom)]]></description>
+</snippet>

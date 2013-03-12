@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.PopLocalFrame(${1:result as IntPtr})]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.PopLocalFrame(result)]]></description>
+</snippet>

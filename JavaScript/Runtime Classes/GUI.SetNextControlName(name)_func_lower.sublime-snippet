@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.SetNextControlName(${1:name : String});]]></content>
+	<tabTrigger><![CDATA[setNextControlName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUI.*(name)]]></description>
+</snippet>

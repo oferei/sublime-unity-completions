@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedObject.FindProperty(${1:propertyPath : String});]]></content>
+	<tabTrigger><![CDATA[FindProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SerializedObject.*(propertyPath)]]></description>
+</snippet>

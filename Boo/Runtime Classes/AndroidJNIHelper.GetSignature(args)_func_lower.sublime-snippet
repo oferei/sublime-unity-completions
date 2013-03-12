@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNIHelper.GetSignature(${1:args as (object)})]]></content>
+	<tabTrigger><![CDATA[getSignature]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJNIHelper.*(args)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cubemap.GetPixel(${1:CubemapFace face}, ${2:int x}, ${3:int y});]]></content>
+	<tabTrigger><![CDATA[Cubemap]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetPixel(face, x, y)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Microphone.End(${1:deviceName as string})]]></content>
+	<tabTrigger><![CDATA[microphone]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.End(deviceName)]]></description>
+</snippet>

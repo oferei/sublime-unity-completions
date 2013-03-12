@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.NewShortArray(${1:size : int});]]></content>
+	<tabTrigger><![CDATA[newShortArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AndroidJNI.*(size)]]></description>
+</snippet>

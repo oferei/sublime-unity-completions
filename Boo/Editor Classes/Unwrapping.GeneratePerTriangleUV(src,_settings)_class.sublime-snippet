@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Unwrapping.GeneratePerTriangleUV(${1:src as Mesh}, ${2:settings as UnwrapParam})]]></content>
+	<tabTrigger><![CDATA[Unwrapping]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GeneratePerTriangleUV(src, settings)]]></description>
+</snippet>

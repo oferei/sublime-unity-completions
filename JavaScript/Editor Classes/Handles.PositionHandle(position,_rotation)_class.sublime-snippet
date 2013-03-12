@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.PositionHandle(${1:position : Vector3}, ${2:rotation : Quaternion});]]></content>
+	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.PositionHandle(position, rotation)]]></description>
+</snippet>

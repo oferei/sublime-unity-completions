@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginHorizontal(${1:style : GUIStyle}, ${2:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[BeginHorizontal]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUILayout.*(style, params options)]]></description>
+</snippet>

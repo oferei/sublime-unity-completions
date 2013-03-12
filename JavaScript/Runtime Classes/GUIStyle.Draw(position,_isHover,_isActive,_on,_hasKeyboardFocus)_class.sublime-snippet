@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.Draw(${1:position : Rect}, ${2:isHover : boolean}, ${3:isActive : boolean}, ${4:on : boolean}, ${5:hasKeyboardFocus : boolean});]]></content>
+	<tabTrigger><![CDATA[GUIStyle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Draw(position, isHover, isActive, on, hasKeyboardFocus)]]></description>
+</snippet>

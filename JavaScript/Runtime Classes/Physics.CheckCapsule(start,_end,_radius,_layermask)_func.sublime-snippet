@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.CheckCapsule(${1:start : Vector3}, ${2:end : Vector3}, ${3:radius : float}, ${4:layermask : int = kDefaultRaycastLayers});]]></content>
+	<tabTrigger><![CDATA[CheckCapsule]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics.*(start, end, radius, layermask)]]></description>
+</snippet>

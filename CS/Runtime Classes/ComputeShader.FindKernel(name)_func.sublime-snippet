@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.FindKernel(${1:string name});]]></content>
+	<tabTrigger><![CDATA[FindKernel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ComputeShader.*(name)]]></description>
+</snippet>

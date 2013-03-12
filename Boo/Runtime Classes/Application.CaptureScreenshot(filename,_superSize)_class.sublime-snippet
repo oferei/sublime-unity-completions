@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.CaptureScreenshot(${1:filename as string}, ${2:superSize as int = 0})]]></content>
+	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.CaptureScreenshot(filename, superSize)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Acos(${1:float f});]]></content>
+	<tabTrigger><![CDATA[Acos]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mathf.*(f)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.DisplayPopupMenu(${1:Rect position}, ${2:string menuItemPath}, ${3:MenuCommand command});]]></content>
+	<tabTrigger><![CDATA[DisplayPopupMenu]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(position, menuItemPath, command)]]></description>
+</snippet>

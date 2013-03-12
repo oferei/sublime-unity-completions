@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIContent(${1:Texture image});]]></content>
+	<tabTrigger><![CDATA[gUIContent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(image)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetDoubleArrayElement(${1:array as IntPtr}, ${2:index as int})]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetDoubleArrayElement(array, index)]]></description>
+</snippet>

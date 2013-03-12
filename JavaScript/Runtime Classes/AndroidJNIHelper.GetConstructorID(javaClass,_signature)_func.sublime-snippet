@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNIHelper.GetConstructorID(${1:javaClass : IntPtr}, ${2:signature : String = \"\"});]]></content>
+	<tabTrigger><![CDATA[GetConstructorID]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AndroidJNIHelper.*(javaClass, signature)]]></description>
+</snippet>

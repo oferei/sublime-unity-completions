@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.DeleteArrayElementAtIndex(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[deleteArrayElementAtIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SerializedProperty.*(index)]]></description>
+</snippet>

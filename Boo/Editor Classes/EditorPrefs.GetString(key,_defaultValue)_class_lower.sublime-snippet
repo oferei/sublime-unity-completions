@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorPrefs.GetString(${1:key as string}, ${2:defaultValue as string = \"\"})]]></content>
+	<tabTrigger><![CDATA[editorPrefs]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetString(key, defaultValue)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.BeginDisabledGroup(${1:bool disabled});]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.BeginDisabledGroup(disabled)]]></description>
+</snippet>

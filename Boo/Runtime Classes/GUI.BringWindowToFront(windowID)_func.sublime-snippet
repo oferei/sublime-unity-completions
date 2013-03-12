@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.BringWindowToFront(${1:windowID as int})]]></content>
+	<tabTrigger><![CDATA[BringWindowToFront]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUI.*(windowID)]]></description>
+</snippet>

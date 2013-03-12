@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.BeginArea(${1:screenRect : Rect}, ${2:style : GUIStyle});]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.BeginArea(screenRect, style)]]></description>
+</snippet>

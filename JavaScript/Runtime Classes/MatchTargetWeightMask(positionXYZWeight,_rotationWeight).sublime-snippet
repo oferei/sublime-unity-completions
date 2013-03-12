@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MatchTargetWeightMask(${1:positionXYZWeight : Vector3}, ${2:rotationWeight : float});]]></content>
+	<tabTrigger><![CDATA[MatchTargetWeightMask]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(positionXYZWeight, rotationWeight)]]></description>
+</snippet>

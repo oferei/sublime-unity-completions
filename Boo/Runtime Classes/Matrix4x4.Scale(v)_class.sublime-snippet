@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Scale(${1:v as Vector3})]]></content>
+	<tabTrigger><![CDATA[Matrix4x4]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Scale(v)]]></description>
+</snippet>

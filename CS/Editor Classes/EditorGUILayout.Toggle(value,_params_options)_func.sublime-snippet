@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Toggle(${1:bool value}, ${2:GUILayoutOption[] params options});]]></content>
+	<tabTrigger><![CDATA[Toggle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(value, params options)]]></description>
+</snippet>

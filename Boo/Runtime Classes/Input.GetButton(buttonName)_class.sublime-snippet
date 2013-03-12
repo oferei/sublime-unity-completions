@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Input.GetButton(${1:buttonName as string})]]></content>
+	<tabTrigger><![CDATA[Input]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetButton(buttonName)]]></description>
+</snippet>

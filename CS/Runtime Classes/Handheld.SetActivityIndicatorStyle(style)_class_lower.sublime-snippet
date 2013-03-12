@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handheld.SetActivityIndicatorStyle(${1:AndroidActivityIndicatorStyle style});]]></content>
+	<tabTrigger><![CDATA[handheld]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetActivityIndicatorStyle(style)]]></description>
+</snippet>

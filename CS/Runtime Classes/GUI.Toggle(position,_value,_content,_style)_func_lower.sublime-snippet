@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.Toggle(${1:Rect position}, ${2:bool value}, ${3:GUIContent content}, ${4:GUIStyle style});]]></content>
+	<tabTrigger><![CDATA[toggle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUI.*(position, value, content, style)]]></description>
+</snippet>

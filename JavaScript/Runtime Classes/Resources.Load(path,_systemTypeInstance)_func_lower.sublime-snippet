@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.Load(${1:path : String}, ${2:systemTypeInstance : Type});]]></content>
+	<tabTrigger><![CDATA[load]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Resources.*(path, systemTypeInstance)]]></description>
+</snippet>

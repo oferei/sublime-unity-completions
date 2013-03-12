@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Emit(${1:count as int})]]></content>
+	<tabTrigger><![CDATA[emit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ParticleSystem.*(count)]]></description>
+</snippet>

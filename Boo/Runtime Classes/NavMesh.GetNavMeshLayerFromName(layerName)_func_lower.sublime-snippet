@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.GetNavMeshLayerFromName(${1:layerName as string})]]></content>
+	<tabTrigger><![CDATA[getNavMeshLayerFromName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMesh.*(layerName)]]></description>
+</snippet>

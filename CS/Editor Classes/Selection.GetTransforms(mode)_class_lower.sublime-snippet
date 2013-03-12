@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selection.GetTransforms(${1:SelectionMode mode});]]></content>
+	<tabTrigger><![CDATA[selection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetTransforms(mode)]]></description>
+</snippet>

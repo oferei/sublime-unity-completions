@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MenuItem(${1:itemName : String}, ${2:isValidateFunction : boolean});]]></content>
+	<tabTrigger><![CDATA[MenuItem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(itemName, isValidateFunction)]]></description>
+</snippet>

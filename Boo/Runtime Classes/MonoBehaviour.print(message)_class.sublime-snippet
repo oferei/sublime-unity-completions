@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.print(${1:message as object})]]></content>
+	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.print(message)]]></description>
+</snippet>

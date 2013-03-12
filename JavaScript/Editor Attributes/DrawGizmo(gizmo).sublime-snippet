@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawGizmo(${1:gizmo : GizmoType});]]></content>
+	<tabTrigger><![CDATA[DrawGizmo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gizmo)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Help.BrowseURL(${1:url as string})]]></content>
+	<tabTrigger><![CDATA[BrowseURL]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Help.*(url)]]></description>
+</snippet>

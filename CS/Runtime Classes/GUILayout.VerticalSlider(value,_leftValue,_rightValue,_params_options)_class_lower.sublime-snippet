@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.VerticalSlider(${1:float value}, ${2:float leftValue}, ${3:float rightValue}, ${4:GUILayoutOption[] params options});]]></content>
+	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.VerticalSlider(value, leftValue, rightValue, params options)]]></description>
+</snippet>

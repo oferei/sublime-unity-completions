@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.HelpBox(${1:position as Rect}, ${2:message as string}, ${3:type as MessageType})]]></content>
+	<tabTrigger><![CDATA[helpBox]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, message, type)]]></description>
+</snippet>

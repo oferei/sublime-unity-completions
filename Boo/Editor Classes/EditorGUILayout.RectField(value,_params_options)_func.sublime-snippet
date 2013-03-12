@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.RectField(${1:value as Rect}, ${2:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[RectField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(value, params options)]]></description>
+</snippet>

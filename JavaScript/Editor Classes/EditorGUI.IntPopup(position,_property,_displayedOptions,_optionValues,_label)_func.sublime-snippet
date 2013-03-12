@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.IntPopup(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:displayedOptions : GUIContent[]}, ${4:optionValues : int[]}, ${5:label : GUIContent = null});]]></content>
+	<tabTrigger><![CDATA[IntPopup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUI.*(position, property, displayedOptions, optionValues, label)]]></description>
+</snippet>

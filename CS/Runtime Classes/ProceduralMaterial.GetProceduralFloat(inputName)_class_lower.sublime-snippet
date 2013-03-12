@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.GetProceduralFloat(${1:string inputName});]]></content>
+	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetProceduralFloat(inputName)]]></description>
+</snippet>

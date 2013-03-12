@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selection.GetFiltered(${1:type : Type}, ${2:mode : SelectionMode});]]></content>
+	<tabTrigger><![CDATA[Selection]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetFiltered(type, mode)]]></description>
+</snippet>

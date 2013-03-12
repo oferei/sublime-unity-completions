@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.NextVisible(${1:enterChildren as bool})]]></content>
+	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.NextVisible(enterChildren)]]></description>
+</snippet>

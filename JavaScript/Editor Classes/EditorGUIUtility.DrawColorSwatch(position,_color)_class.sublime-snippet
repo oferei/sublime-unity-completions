@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.DrawColorSwatch(${1:position : Rect}, ${2:color : Color});]]></content>
+	<tabTrigger><![CDATA[EditorGUIUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.DrawColorSwatch(position, color)]]></description>
+</snippet>

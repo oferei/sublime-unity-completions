@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIElement.GetScreenRect(${1:camera as Camera = null})]]></content>
+	<tabTrigger><![CDATA[getScreenRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIElement.*(camera)]]></description>
+</snippet>

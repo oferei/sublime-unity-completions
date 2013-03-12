@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.TexCoord(${1:v as Vector3})]]></content>
+	<tabTrigger><![CDATA[TexCoord]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GL.*(v)]]></description>
+</snippet>

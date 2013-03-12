@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.Blit(${1:Texture source}, ${2:RenderTexture dest}, ${3:Material mat}, ${4:int pass = -1});]]></content>
+	<tabTrigger><![CDATA[Graphics]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Blit(source, dest, mat, pass)]]></description>
+</snippet>

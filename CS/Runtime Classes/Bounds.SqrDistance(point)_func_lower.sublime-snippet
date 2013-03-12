@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bounds.SqrDistance(${1:Vector3 point});]]></content>
+	<tabTrigger><![CDATA[sqrDistance]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Bounds.*(point)]]></description>
+</snippet>

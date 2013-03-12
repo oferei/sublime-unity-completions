@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessAudio(${1:clip as AudioClip})]]></content>
+	<tabTrigger><![CDATA[AssetPostprocessor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.OnPostprocessAudio(clip)]]></description>
+</snippet>

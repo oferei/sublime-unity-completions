@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.Button(${1:Rect position}, ${2:string text});]]></content>
+	<tabTrigger><![CDATA[button]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUI.*(position, text)]]></description>
+</snippet>

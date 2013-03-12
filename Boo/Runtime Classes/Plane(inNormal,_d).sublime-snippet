@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane(${1:inNormal as Vector3}, ${2:d as single})]]></content>
+	<tabTrigger><![CDATA[Plane]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inNormal, d)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.SelectionGrid(${1:selected : int}, ${2:content : GUIContent[]}, ${3:xCount : int}, ${4:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[SelectionGrid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUILayout.*(selected, content, xCount, params options)]]></description>
+</snippet>

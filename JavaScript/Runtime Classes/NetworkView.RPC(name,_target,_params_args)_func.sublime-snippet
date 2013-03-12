@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkView.RPC(${1:name : String}, ${2:target : NetworkPlayer}, ${3:params args : object[]});]]></content>
+	<tabTrigger><![CDATA[RPC]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkView.*(name, target, params args)]]></description>
+</snippet>

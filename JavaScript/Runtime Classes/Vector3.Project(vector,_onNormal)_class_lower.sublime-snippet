@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Project(${1:vector : Vector3}, ${2:onNormal : Vector3});]]></content>
+	<tabTrigger><![CDATA[vector3]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Project(vector, onNormal)]]></description>
+</snippet>

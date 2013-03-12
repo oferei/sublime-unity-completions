@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.LookAt(${1:target as Transform}, ${2:worldUp as Vector3 = Vector3.up})]]></content>
+	<tabTrigger><![CDATA[lookAt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Transform.*(target, worldUp)]]></description>
+</snippet>

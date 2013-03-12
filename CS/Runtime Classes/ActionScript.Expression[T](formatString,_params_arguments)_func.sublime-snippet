@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActionScript.Expression<${1:T}>(${2:string formatString}, ${3:object[] params arguments});]]></content>
+	<tabTrigger><![CDATA[Expression]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ActionScript.*<T>(formatString, params arguments)]]></description>
+</snippet>

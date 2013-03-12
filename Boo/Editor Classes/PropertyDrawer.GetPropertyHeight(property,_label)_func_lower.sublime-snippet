@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyDrawer.GetPropertyHeight(${1:property as SerializedProperty}, ${2:label as GUIContent})]]></content>
+	<tabTrigger><![CDATA[getPropertyHeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PropertyDrawer.*(property, label)]]></description>
+</snippet>

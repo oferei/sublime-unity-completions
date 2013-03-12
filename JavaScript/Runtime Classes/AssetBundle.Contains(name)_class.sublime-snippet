@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundle.Contains(${1:name : String});]]></content>
+	<tabTrigger><![CDATA[AssetBundle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Contains(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GradientColorKey(${1:col : Color}, ${2:time : float});]]></content>
+	<tabTrigger><![CDATA[GradientColorKey]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(col, time)]]></description>
+</snippet>

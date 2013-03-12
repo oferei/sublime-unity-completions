@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioClip.PCMReaderCallback(${1:data as (single)})]]></content>
+	<tabTrigger><![CDATA[AudioClip]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.PCMReaderCallback(data)]]></description>
+</snippet>

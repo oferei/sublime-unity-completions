@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.FindClass(${1:string name});]]></content>
+	<tabTrigger><![CDATA[FindClass]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AndroidJNI.*(name)]]></description>
+</snippet>

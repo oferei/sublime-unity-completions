@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerPrefs.GetString(${1:key as string}, ${2:defaultValue as string = \"\"})]]></content>
+	<tabTrigger><![CDATA[playerPrefs]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetString(key, defaultValue)]]></description>
+</snippet>

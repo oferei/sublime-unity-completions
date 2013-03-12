@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetNextAnimatorStateInfo(${1:layerIndex : int});]]></content>
+	<tabTrigger><![CDATA[GetNextAnimatorStateInfo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(layerIndex)]]></description>
+</snippet>

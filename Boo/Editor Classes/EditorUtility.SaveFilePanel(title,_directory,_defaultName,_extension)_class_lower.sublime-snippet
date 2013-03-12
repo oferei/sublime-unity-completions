@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SaveFilePanel(${1:title as string}, ${2:directory as string}, ${3:defaultName as string}, ${4:extension as string})]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SaveFilePanel(title, directory, defaultName, extension)]]></description>
+</snippet>

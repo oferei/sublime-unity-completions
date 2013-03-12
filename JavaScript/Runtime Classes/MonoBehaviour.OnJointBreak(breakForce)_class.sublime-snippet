@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnJointBreak(${1:breakForce : float});]]></content>
+	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.OnJointBreak(breakForce)]]></description>
+</snippet>

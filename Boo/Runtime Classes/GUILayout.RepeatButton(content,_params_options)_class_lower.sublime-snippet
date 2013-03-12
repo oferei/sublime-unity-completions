@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.RepeatButton(${1:content as GUIContent}, ${2:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.RepeatButton(content, params options)]]></description>
+</snippet>

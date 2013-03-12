@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.CallVoidMethod(${1:IntPtr obj}, ${2:IntPtr methodID}, ${3:jvalue[] args});]]></content>
+	<tabTrigger><![CDATA[callVoidMethod]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AndroidJNI.*(obj, methodID, args)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4.Dot(${1:a : Vector4}, ${2:b : Vector4});]]></content>
+	<tabTrigger><![CDATA[Dot]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector4.*(a, b)]]></description>
+</snippet>

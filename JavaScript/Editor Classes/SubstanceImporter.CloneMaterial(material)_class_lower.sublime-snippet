@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.CloneMaterial(${1:material : ProceduralMaterial});]]></content>
+	<tabTrigger><![CDATA[substanceImporter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CloneMaterial(material)]]></description>
+</snippet>

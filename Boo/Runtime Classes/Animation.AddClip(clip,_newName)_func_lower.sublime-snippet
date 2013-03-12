@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animation.AddClip(${1:clip as AnimationClip}, ${2:newName as string})]]></content>
+	<tabTrigger><![CDATA[addClip]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animation.*(clip, newName)]]></description>
+</snippet>

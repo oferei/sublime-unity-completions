@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.InsertArrayElementAtIndex(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[InsertArrayElementAtIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SerializedProperty.*(index)]]></description>
+</snippet>

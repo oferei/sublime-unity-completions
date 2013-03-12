@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Distance(${1:Vector3 a}, ${2:Vector3 b});]]></content>
+	<tabTrigger><![CDATA[vector3]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Distance(a, b)]]></description>
+</snippet>

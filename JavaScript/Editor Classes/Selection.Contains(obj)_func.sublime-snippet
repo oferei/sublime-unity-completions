@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selection.Contains(${1:obj : Object});]]></content>
+	<tabTrigger><![CDATA[Contains]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Selection.*(obj)]]></description>
+</snippet>

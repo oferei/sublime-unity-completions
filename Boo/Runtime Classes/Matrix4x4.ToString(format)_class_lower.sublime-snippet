@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.ToString(${1:format as string})]]></content>
+	<tabTrigger><![CDATA[matrix4x4]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ToString(format)]]></description>
+</snippet>

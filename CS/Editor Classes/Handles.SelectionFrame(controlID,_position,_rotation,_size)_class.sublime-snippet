@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.SelectionFrame(${1:int controlID}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size});]]></content>
+	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SelectionFrame(controlID, position, rotation, size)]]></description>
+</snippet>

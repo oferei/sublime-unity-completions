@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.CommandEvent(${1:commandName : String});]]></content>
+	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CommandEvent(commandName)]]></description>
+</snippet>

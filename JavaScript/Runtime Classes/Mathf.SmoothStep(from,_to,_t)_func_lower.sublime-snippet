@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.SmoothStep(${1:from : float}, ${2:to : float}, ${3:t : float});]]></content>
+	<tabTrigger><![CDATA[smoothStep]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Mathf.*(from, to, t)]]></description>
+</snippet>

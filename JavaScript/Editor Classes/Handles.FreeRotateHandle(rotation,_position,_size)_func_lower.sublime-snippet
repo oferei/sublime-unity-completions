@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.FreeRotateHandle(${1:rotation : Quaternion}, ${2:position : Vector3}, ${3:size : float});]]></content>
+	<tabTrigger><![CDATA[freeRotateHandle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(rotation, position, size)]]></description>
+</snippet>

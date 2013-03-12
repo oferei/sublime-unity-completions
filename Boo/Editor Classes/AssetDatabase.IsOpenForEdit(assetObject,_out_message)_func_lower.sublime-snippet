@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsOpenForEdit(${1:assetObject as UnityEngine.Object}, ${2:out message as string})]]></content>
+	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(assetObject, out message)]]></description>
+</snippet>

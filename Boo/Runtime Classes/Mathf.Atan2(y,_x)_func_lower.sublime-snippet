@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Atan2(${1:y as single}, ${2:x as single})]]></content>
+	<tabTrigger><![CDATA[atan2]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(y, x)]]></description>
+</snippet>

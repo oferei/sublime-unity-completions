@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Quaternion.Angle(${1:Quaternion a}, ${2:Quaternion b});]]></content>
+	<tabTrigger><![CDATA[Angle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Quaternion.*(a, b)]]></description>
+</snippet>

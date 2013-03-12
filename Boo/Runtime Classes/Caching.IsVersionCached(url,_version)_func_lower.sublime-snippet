@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.IsVersionCached(${1:url as string}, ${2:version as int})]]></content>
+	<tabTrigger><![CDATA[isVersionCached]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Caching.*(url, version)]]></description>
+</snippet>

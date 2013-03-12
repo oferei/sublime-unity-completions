@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.DistancePointLine(${1:point as Vector3}, ${2:lineStart as Vector3}, ${3:lineEnd as Vector3})]]></content>
+	<tabTrigger><![CDATA[DistancePointLine]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HandleUtility.*(point, lineStart, lineEnd)]]></description>
+</snippet>

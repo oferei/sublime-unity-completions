@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.Evaluate(${1:time : float});]]></content>
+	<tabTrigger><![CDATA[evaluate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationCurve.*(time)]]></description>
+</snippet>

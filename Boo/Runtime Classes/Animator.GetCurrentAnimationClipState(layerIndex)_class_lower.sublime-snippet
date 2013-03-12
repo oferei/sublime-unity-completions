@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetCurrentAnimationClipState(${1:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetCurrentAnimationClipState(layerIndex)]]></description>
+</snippet>

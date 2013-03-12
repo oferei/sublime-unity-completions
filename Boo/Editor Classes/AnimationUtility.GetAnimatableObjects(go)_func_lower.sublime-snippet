@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetAnimatableObjects(${1:go as GameObject})]]></content>
+	<tabTrigger><![CDATA[getAnimatableObjects]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationUtility.*(go)]]></description>
+</snippet>

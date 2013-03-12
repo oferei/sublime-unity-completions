@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.Wii.GetMemoryArea(${1:memoryLabel : WiiMemoryLabel});]]></content>
+	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Wii.GetMemoryArea(memoryLabel)]]></description>
+</snippet>

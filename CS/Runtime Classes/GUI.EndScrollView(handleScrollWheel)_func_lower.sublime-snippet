@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.EndScrollView(${1:bool handleScrollWheel});]]></content>
+	<tabTrigger><![CDATA[endScrollView]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUI.*(handleScrollWheel)]]></description>
+</snippet>

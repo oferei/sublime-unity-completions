@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.InstantiateAttachedAsset(${1:Object targetObject});]]></content>
+	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.InstantiateAttachedAsset(targetObject)]]></description>
+</snippet>

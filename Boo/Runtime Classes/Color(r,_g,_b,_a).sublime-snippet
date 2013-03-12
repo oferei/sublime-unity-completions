@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color(${1:r as single}, ${2:g as single}, ${3:b as single}, ${4:a as single})]]></content>
+	<tabTrigger><![CDATA[Color]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(r, g, b, a)]]></description>
+</snippet>

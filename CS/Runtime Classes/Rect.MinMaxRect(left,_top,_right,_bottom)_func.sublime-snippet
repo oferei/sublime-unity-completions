@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rect.MinMaxRect(${1:float left}, ${2:float top}, ${3:float right}, ${4:float bottom});]]></content>
+	<tabTrigger><![CDATA[MinMaxRect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Rect.*(left, top, right, bottom)]]></description>
+</snippet>

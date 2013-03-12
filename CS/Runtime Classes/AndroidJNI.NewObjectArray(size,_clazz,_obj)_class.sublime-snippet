@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.NewObjectArray(${1:int size}, ${2:IntPtr clazz}, ${3:IntPtr obj});]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.NewObjectArray(size, clazz, obj)]]></description>
+</snippet>

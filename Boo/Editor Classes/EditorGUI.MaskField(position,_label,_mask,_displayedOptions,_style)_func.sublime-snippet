@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.MaskField(${1:position as Rect}, ${2:label as string}, ${3:mask as int}, ${4:displayedOptions as (string)}, ${5:style as GUIStyle = EditorStyles.popup})]]></content>
+	<tabTrigger><![CDATA[MaskField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, label, mask, displayedOptions, style)]]></description>
+</snippet>

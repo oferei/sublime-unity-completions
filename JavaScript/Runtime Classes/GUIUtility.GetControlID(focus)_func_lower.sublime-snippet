@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.GetControlID(${1:focus : FocusType});]]></content>
+	<tabTrigger><![CDATA[getControlID]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUIUtility.*(focus)]]></description>
+</snippet>

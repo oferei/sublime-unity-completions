@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DragAndDrop.GetGenericData(${1:type as string})]]></content>
+	<tabTrigger><![CDATA[getGenericData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DragAndDrop.*(type)]]></description>
+</snippet>

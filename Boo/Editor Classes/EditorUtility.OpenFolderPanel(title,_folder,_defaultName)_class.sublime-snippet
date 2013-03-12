@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.OpenFolderPanel(${1:title as string}, ${2:folder as string}, ${3:defaultName as string})]]></content>
+	<tabTrigger><![CDATA[EditorUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.OpenFolderPanel(title, folder, defaultName)]]></description>
+</snippet>

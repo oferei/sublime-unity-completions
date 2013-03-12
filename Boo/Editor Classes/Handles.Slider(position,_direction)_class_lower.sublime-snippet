@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.Slider(${1:position as Vector3}, ${2:direction as Vector3})]]></content>
+	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Slider(position, direction)]]></description>
+</snippet>

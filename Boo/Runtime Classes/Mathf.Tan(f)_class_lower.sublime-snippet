@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Tan(${1:f as single})]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Tan(f)]]></description>
+</snippet>

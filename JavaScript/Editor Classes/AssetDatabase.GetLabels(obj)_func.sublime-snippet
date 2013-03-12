@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetLabels(${1:obj : Object});]]></content>
+	<tabTrigger><![CDATA[GetLabels]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AssetDatabase.*(obj)]]></description>
+</snippet>

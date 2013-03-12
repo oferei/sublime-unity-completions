@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.CompressTexture(${1:texture : Texture2D}, ${2:format : TextureFormat}, ${3:quality : TextureCompressionQuality});]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CompressTexture(texture, format, quality)]]></description>
+</snippet>

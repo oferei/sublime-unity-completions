@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.Vertex3(${1:x as single}, ${2:y as single}, ${3:z as single})]]></content>
+	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Vertex3(x, y, z)]]></description>
+</snippet>

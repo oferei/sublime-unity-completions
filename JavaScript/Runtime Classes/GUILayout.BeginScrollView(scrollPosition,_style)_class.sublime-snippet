@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.BeginScrollView(${1:scrollPosition : Vector2}, ${2:style : GUIStyle});]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.BeginScrollView(scrollPosition, style)]]></description>
+</snippet>

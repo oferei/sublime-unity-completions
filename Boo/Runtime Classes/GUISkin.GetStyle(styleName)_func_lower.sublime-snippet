@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUISkin.GetStyle(${1:styleName as string})]]></content>
+	<tabTrigger><![CDATA[getStyle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUISkin.*(styleName)]]></description>
+</snippet>

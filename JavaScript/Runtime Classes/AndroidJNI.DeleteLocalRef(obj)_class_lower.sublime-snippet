@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.DeleteLocalRef(${1:obj : IntPtr});]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.DeleteLocalRef(obj)]]></description>
+</snippet>

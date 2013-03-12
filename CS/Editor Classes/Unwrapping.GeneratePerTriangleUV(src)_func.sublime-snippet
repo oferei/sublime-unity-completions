@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Unwrapping.GeneratePerTriangleUV(${1:Mesh src});]]></content>
+	<tabTrigger><![CDATA[GeneratePerTriangleUV]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Unwrapping.*(src)]]></description>
+</snippet>

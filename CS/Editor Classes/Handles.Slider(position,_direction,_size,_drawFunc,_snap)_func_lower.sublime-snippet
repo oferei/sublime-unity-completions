@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.Slider(${1:Vector3 position}, ${2:Vector3 direction}, ${3:float size}, ${4:DrawCapFunction drawFunc}, ${5:float snap});]]></content>
+	<tabTrigger><![CDATA[slider]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Handles.*(position, direction, size, drawFunc, snap)]]></description>
+</snippet>

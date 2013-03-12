@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.ExecuteMenuItem(${1:menuItemPath : String});]]></content>
+	<tabTrigger><![CDATA[ExecuteMenuItem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorApplication.*(menuItemPath)]]></description>
+</snippet>

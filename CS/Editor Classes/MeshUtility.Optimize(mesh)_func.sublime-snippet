@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MeshUtility.Optimize(${1:Mesh mesh});]]></content>
+	<tabTrigger><![CDATA[Optimize]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MeshUtility.*(mesh)]]></description>
+</snippet>

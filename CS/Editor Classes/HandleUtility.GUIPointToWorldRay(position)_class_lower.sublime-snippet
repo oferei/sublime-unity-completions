@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.GUIPointToWorldRay(${1:Vector2 position});]]></content>
+	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GUIPointToWorldRay(position)]]></description>
+</snippet>

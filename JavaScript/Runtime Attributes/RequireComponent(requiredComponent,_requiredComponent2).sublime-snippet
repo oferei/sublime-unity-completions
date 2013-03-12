@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RequireComponent(${1:requiredComponent : Type}, ${2:requiredComponent2 : Type});]]></content>
+	<tabTrigger><![CDATA[RequireComponent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(requiredComponent, requiredComponent2)]]></description>
+</snippet>

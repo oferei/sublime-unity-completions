@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSettings.GetDSPBufferSize(${1:int out bufferLength}, ${2:int out numBuffers});]]></content>
+	<tabTrigger><![CDATA[audioSettings]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetDSPBufferSize(out bufferLength, out numBuffers)]]></description>
+</snippet>

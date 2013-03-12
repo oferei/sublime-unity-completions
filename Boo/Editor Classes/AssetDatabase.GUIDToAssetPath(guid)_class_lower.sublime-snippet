@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GUIDToAssetPath(${1:guid as string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GUIDToAssetPath(guid)]]></description>
+</snippet>

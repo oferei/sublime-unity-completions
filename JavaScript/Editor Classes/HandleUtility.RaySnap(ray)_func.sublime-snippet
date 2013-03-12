@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.RaySnap(${1:ray : Ray});]]></content>
+	<tabTrigger><![CDATA[RaySnap]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HandleUtility.*(ray)]]></description>
+</snippet>

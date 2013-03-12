@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidInput.GetSecondaryTouch(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[GetSecondaryTouch]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AndroidInput.*(index)]]></description>
+</snippet>

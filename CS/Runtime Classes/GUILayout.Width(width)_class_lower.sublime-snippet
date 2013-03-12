@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Width(${1:float width});]]></content>
+	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Width(width)]]></description>
+</snippet>

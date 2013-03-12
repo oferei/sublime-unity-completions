@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetPrefabParent(${1:Object source});]]></content>
+	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetPrefabParent(source)]]></description>
+</snippet>

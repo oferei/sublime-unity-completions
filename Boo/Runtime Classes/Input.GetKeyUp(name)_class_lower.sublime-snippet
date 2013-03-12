@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Input.GetKeyUp(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetKeyUp(name)]]></description>
+</snippet>

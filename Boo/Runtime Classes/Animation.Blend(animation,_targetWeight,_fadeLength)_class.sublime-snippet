@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animation.Blend(${1:animation as string}, ${2:targetWeight as single = 1.0F}, ${3:fadeLength as single = 0.3F})]]></content>
+	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Blend(animation, targetWeight, fadeLength)]]></description>
+</snippet>

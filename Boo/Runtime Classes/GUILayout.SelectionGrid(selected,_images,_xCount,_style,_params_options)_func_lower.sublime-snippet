@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.SelectionGrid(${1:selected as int}, ${2:images as (Texture)}, ${3:xCount as int}, ${4:style as GUIStyle}, ${5:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[selectionGrid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(selected, images, xCount, style, params options)]]></description>
+</snippet>

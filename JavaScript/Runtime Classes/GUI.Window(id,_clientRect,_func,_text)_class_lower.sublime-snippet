@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.Window(${1:id : int}, ${2:clientRect : Rect}, ${3:func : WindowFunction}, ${4:text : String});]]></content>
+	<tabTrigger><![CDATA[gUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Window(id, clientRect, func, text)]]></description>
+</snippet>

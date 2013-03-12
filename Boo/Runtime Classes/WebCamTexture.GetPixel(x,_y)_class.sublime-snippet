@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WebCamTexture.GetPixel(${1:x as int}, ${2:y as int})]]></content>
+	<tabTrigger><![CDATA[WebCamTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetPixel(x, y)]]></description>
+</snippet>

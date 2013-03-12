@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.MoveArrayElement(${1:int srcIndex}, ${2:int dstIndex});]]></content>
+	<tabTrigger><![CDATA[MoveArrayElement]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SerializedProperty.*(srcIndex, dstIndex)]]></description>
+</snippet>

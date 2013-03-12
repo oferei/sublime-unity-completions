@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.EnumPopup(${1:position : Rect}, ${2:selected : System.Enum}, ${3:style : GUIStyle = EditorStyles.popup});]]></content>
+	<tabTrigger><![CDATA[enumPopup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUI.*(position, selected, style)]]></description>
+</snippet>

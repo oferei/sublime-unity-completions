@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.SendEvent(${1:e as Event})]]></content>
+	<tabTrigger><![CDATA[SendEvent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorWindow.*(e)]]></description>
+</snippet>

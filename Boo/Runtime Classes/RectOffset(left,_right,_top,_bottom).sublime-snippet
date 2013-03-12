@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectOffset(${1:left as int}, ${2:right as int}, ${3:top as int}, ${4:bottom as int})]]></content>
+	<tabTrigger><![CDATA[RectOffset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(left, right, top, bottom)]]></description>
+</snippet>

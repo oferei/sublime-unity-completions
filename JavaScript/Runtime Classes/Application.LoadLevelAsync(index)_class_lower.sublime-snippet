@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.LoadLevelAsync(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.LoadLevelAsync(index)]]></description>
+</snippet>

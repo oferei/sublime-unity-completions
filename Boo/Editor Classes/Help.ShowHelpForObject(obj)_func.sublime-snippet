@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Help.ShowHelpForObject(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[ShowHelpForObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Help.*(obj)]]></description>
+</snippet>

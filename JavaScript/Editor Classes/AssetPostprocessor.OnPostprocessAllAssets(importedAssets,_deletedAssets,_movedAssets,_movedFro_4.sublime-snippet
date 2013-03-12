@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessAllAssets(${1:importedAssets : string[]}, ${2:deletedAssets : string[]}, ${3:movedAssets : string[]}, ${4:movedFromPath : string[]});]]></content>
+	<tabTrigger><![CDATA[onPostprocessAllAssets]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AssetPostprocessor.*(importedAssets, deletedAssets, movedAssets, movedFromPath)]]></description>
+</snippet>

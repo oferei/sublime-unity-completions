@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.Slider(${1:position as Rect}, ${2:label as GUIContent}, ${3:value as single}, ${4:leftValue as single}, ${5:rightValue as single})]]></content>
+	<tabTrigger><![CDATA[Slider]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, label, value, leftValue, rightValue)]]></description>
+</snippet>

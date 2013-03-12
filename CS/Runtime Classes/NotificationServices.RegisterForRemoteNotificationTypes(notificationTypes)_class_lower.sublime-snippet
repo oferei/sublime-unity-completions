@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NotificationServices.RegisterForRemoteNotificationTypes(${1:RemoteNotificationType notificationTypes});]]></content>
+	<tabTrigger><![CDATA[notificationServices]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.RegisterForRemoteNotificationTypes(notificationTypes)]]></description>
+</snippet>

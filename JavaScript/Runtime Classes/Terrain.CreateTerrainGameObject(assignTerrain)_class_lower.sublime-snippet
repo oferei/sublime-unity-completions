@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Terrain.CreateTerrainGameObject(${1:assignTerrain : TerrainData});]]></content>
+	<tabTrigger><![CDATA[terrain]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CreateTerrainGameObject(assignTerrain)]]></description>
+</snippet>

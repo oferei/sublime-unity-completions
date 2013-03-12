@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoImporter.GetDefaultReference(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[monoImporter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetDefaultReference(name)]]></description>
+</snippet>

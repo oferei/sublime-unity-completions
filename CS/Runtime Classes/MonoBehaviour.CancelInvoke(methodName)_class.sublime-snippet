@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.CancelInvoke(${1:string methodName});]]></content>
+	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.CancelInvoke(methodName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject(${1:name : String}, ${2:params components : Type[]});]]></content>
+	<tabTrigger><![CDATA[gameObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, params components)]]></description>
+</snippet>

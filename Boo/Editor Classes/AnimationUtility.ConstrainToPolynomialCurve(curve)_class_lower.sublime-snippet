@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.ConstrainToPolynomialCurve(${1:curve as AnimationCurve})]]></content>
+	<tabTrigger><![CDATA[animationUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.ConstrainToPolynomialCurve(curve)]]></description>
+</snippet>

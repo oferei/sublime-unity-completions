@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Vector3Field(${1:string label}, ${2:Vector3 value}, ${3:GUILayoutOption[] params options});]]></content>
+	<tabTrigger><![CDATA[vector3Field]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISocialPlatform.LoadUsers(${1:string[] userIds}, ${2:Action<IUserProfile[]> callback});]]></content>
+	<tabTrigger><![CDATA[loadUsers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ISocialPlatform.*(userIds, callback)]]></description>
+</snippet>

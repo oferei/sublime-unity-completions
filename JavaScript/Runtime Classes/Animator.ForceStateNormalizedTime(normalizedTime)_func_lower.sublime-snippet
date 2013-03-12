@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.ForceStateNormalizedTime(${1:normalizedTime : float});]]></content>
+	<tabTrigger><![CDATA[forceStateNormalizedTime]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(normalizedTime)]]></description>
+</snippet>

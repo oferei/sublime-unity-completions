@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.RenameMaterial(${1:ProceduralMaterial material}, ${2:string name});]]></content>
+	<tabTrigger><![CDATA[SubstanceImporter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.RenameMaterial(material, name)]]></description>
+</snippet>

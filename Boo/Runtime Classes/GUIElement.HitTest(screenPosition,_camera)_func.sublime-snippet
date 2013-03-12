@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIElement.HitTest(${1:screenPosition as Vector3}, ${2:camera as Camera = null})]]></content>
+	<tabTrigger><![CDATA[HitTest]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIElement.*(screenPosition, camera)]]></description>
+</snippet>

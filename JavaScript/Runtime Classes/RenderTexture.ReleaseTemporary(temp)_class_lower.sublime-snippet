@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.ReleaseTemporary(${1:temp : RenderTexture});]]></content>
+	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ReleaseTemporary(temp)]]></description>
+</snippet>

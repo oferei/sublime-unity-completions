@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsMainAsset(${1:Object obj});]]></content>
+	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.IsMainAsset(obj)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.SendMessage(${1:methodName as string}, ${2:value as object = null}, ${3:options as SendMessageOptions = SendMessageOptions.RequireReceiver})]]></content>
+	<tabTrigger><![CDATA[gameObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SendMessage(methodName, value, options)]]></description>
+</snippet>

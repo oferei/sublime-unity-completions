@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationState.AddMixingTransform(${1:Transform mix}, ${2:bool recursive = true});]]></content>
+	<tabTrigger><![CDATA[animationState]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.AddMixingTransform(mix, recursive)]]></description>
+</snippet>

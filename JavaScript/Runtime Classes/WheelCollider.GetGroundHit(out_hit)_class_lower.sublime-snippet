@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WheelCollider.GetGroundHit(${1:out hit : WheelHit});]]></content>
+	<tabTrigger><![CDATA[wheelCollider]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetGroundHit(out hit)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Input.GetKey(${1:string name});]]></content>
+	<tabTrigger><![CDATA[Input]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetKey(name)]]></description>
+</snippet>

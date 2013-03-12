@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.BeginScrollView(${1:position as Rect}, ${2:scrollPosition as Vector2}, ${3:viewRect as Rect}, ${4:alwaysShowHorizontal as bool}, ${5:alwaysShowVertical as bool})]]></content>
+	<tabTrigger><![CDATA[gUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.BeginScrollView(position, scrollPosition, viewRect, alwaysShowHorizontal, alwaysShowVertical)]]></description>
+</snippet>

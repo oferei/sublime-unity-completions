@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CharacterController.SimpleMove(${1:speed as Vector3})]]></content>
+	<tabTrigger><![CDATA[simpleMove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CharacterController.*(speed)]]></description>
+</snippet>

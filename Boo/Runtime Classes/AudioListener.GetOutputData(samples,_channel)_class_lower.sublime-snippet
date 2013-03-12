@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioListener.GetOutputData(${1:samples as (single)}, ${2:channel as int})]]></content>
+	<tabTrigger><![CDATA[audioListener]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetOutputData(samples, channel)]]></description>
+</snippet>

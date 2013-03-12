@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ImportAsset(${1:string path}, ${2:ImportAssetOptions options = ImportAssetOptions.Default});]]></content>
+	<tabTrigger><![CDATA[ImportAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(path, options)]]></description>
+</snippet>

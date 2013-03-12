@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Min(${1:lhs as Vector3}, ${2:rhs as Vector3})]]></content>
+	<tabTrigger><![CDATA[Min]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Vector3.*(lhs, rhs)]]></description>
+</snippet>

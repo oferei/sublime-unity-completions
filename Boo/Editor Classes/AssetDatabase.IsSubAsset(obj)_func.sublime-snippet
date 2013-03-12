@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsSubAsset(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[IsSubAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(obj)]]></description>
+</snippet>

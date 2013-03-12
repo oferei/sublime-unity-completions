@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.ClearPlatformTextureSettings(${1:platform : String});]]></content>
+	<tabTrigger><![CDATA[ClearPlatformTextureSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextureImporter.*(platform)]]></description>
+</snippet>

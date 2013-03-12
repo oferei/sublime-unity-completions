@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animation.Play(${1:animation : String}, ${2:mode : PlayMode = PlayMode.StopSameLayer});]]></content>
+	<tabTrigger><![CDATA[Play]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animation.*(animation, mode)]]></description>
+</snippet>

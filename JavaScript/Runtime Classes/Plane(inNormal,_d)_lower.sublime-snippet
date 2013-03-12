@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane(${1:inNormal : Vector3}, ${2:d : float});]]></content>
+	<tabTrigger><![CDATA[plane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inNormal, d)]]></description>
+</snippet>

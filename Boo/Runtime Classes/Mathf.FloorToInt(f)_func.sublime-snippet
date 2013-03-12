@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.FloorToInt(${1:f as single})]]></content>
+	<tabTrigger><![CDATA[FloorToInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(f)]]></description>
+</snippet>

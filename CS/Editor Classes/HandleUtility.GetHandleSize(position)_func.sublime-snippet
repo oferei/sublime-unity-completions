@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.GetHandleSize(${1:Vector3 position});]]></content>
+	<tabTrigger><![CDATA[GetHandleSize]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HandleUtility.*(position)]]></description>
+</snippet>

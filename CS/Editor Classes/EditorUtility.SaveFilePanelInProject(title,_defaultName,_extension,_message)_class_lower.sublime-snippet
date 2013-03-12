@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SaveFilePanelInProject(${1:string title}, ${2:string defaultName}, ${3:string extension}, ${4:string message});]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SaveFilePanelInProject(title, defaultName, extension, message)]]></description>
+</snippet>

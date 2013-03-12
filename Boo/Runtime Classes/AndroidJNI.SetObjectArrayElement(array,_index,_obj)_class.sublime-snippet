@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.SetObjectArrayElement(${1:array as IntPtr}, ${2:index as int}, ${3:obj as IntPtr})]]></content>
+	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetObjectArrayElement(array, index, obj)]]></description>
+</snippet>

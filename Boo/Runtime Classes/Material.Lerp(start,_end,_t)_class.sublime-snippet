@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.Lerp(${1:start as Material}, ${2:end as Material}, ${3:t as single})]]></content>
+	<tabTrigger><![CDATA[Material]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Lerp(start, end, t)]]></description>
+</snippet>

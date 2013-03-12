@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.BeginArea(${1:screenRect as Rect}, ${2:image as Texture})]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.BeginArea(screenRect, image)]]></description>
+</snippet>

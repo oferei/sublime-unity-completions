@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.Foldout(${1:position as Rect}, ${2:foldout as bool}, ${3:content as GUIContent}, ${4:style as GUIStyle = EditorStyles.foldout})]]></content>
+	<tabTrigger><![CDATA[foldout]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, foldout, content, style)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Project(${1:vector as Vector3}, ${2:onNormal as Vector3})]]></content>
+	<tabTrigger><![CDATA[Vector3]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Project(vector, onNormal)]]></description>
+</snippet>

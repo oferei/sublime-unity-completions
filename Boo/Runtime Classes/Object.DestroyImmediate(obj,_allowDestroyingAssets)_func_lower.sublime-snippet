@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.DestroyImmediate(${1:obj as Object}, ${2:allowDestroyingAssets as bool = false})]]></content>
+	<tabTrigger><![CDATA[destroyImmediate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Object.*(obj, allowDestroyingAssets)]]></description>
+</snippet>

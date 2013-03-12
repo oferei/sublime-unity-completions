@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.BoundsField(${1:position as Rect}, ${2:value as Bounds})]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.BoundsField(position, value)]]></description>
+</snippet>

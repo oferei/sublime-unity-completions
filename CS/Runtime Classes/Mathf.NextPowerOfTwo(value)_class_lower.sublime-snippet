@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.NextPowerOfTwo(${1:int value});]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.NextPowerOfTwo(value)]]></description>
+</snippet>

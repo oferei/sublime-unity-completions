@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.ObjectField(${1:label : String}, ${2:obj : Object}, ${3:objType : System.Type}, ${4:allowSceneObjects : boolean}, ${5:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[objectField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUILayout.*(label, obj, objType, allowSceneObjects, params options)]]></description>
+</snippet>

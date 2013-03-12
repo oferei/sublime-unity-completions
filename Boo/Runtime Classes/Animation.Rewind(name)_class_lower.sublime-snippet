@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animation.Rewind(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[animation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Rewind(name)]]></description>
+</snippet>

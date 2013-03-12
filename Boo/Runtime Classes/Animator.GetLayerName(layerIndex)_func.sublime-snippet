@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetLayerName(${1:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[GetLayerName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(layerIndex)]]></description>
+</snippet>

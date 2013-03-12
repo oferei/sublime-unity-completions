@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GenericMenu.AddDisabledItem(${1:content as GUIContent})]]></content>
+	<tabTrigger><![CDATA[genericMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.AddDisabledItem(content)]]></description>
+</snippet>

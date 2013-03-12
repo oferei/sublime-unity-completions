@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.FindObjectOfType(${1:type as Type})]]></content>
+	<tabTrigger><![CDATA[object]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.FindObjectOfType(type)]]></description>
+</snippet>

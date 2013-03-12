@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.FocusWindow(${1:int windowID});]]></content>
+	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.FocusWindow(windowID)]]></description>
+</snippet>

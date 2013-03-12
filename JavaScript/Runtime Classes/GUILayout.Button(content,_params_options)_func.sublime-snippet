@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Button(${1:content : GUIContent}, ${2:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[Button]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUILayout.*(content, params options)]]></description>
+</snippet>

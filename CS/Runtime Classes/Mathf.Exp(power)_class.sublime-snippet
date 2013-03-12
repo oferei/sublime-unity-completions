@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Exp(${1:float power});]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Exp(power)]]></description>
+</snippet>

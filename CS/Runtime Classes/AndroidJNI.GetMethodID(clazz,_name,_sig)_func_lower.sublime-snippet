@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetMethodID(${1:IntPtr clazz}, ${2:string name}, ${3:string sig});]]></content>
+	<tabTrigger><![CDATA[getMethodID]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AndroidJNI.*(clazz, name, sig)]]></description>
+</snippet>

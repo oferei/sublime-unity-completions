@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.SetIconSize(${1:size as Vector2})]]></content>
+	<tabTrigger><![CDATA[setIconSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUIUtility.*(size)]]></description>
+</snippet>

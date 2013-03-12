@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetPass(${1:pass : int});]]></content>
+	<tabTrigger><![CDATA[setPass]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Material.*(pass)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.PlayOneShot(${1:clip : AudioClip}, ${2:volumeScale : float = 1.0F});]]></content>
+	<tabTrigger><![CDATA[AudioSource]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.PlayOneShot(clip, volumeScale)]]></description>
+</snippet>

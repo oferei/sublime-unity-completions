@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Terrain.SetNeighbors(${1:left as Terrain}, ${2:top as Terrain}, ${3:right as Terrain}, ${4:bottom as Terrain})]]></content>
+	<tabTrigger><![CDATA[SetNeighbors]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Terrain.*(left, top, right, bottom)]]></description>
+</snippet>

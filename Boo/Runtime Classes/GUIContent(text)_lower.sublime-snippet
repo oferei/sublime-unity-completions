@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIContent(${1:text as string})]]></content>
+	<tabTrigger><![CDATA[gUIContent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(text)]]></description>
+</snippet>

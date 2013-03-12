@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Input.GetButtonUp(${1:buttonName : String});]]></content>
+	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetButtonUp(buttonName)]]></description>
+</snippet>

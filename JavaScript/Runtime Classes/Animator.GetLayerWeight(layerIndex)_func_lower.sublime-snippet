@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetLayerWeight(${1:layerIndex : int});]]></content>
+	<tabTrigger><![CDATA[getLayerWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(layerIndex)]]></description>
+</snippet>

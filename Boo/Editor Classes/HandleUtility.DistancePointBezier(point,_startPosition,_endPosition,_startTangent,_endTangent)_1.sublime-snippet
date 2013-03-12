@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.DistancePointBezier(${1:point as Vector3}, ${2:startPosition as Vector3}, ${3:endPosition as Vector3}, ${4:startTangent as Vector3}, ${5:endTangent as Vector3})]]></content>
+	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DistancePointBezier(point, startPosition, endPosition, startTangent, endTangent)]]></description>
+</snippet>

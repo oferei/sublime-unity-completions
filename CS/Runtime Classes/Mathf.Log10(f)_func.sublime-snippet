@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Log10(${1:float f});]]></content>
+	<tabTrigger><![CDATA[Log10]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mathf.*(f)]]></description>
+</snippet>

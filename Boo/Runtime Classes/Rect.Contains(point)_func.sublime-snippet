@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rect.Contains(${1:point as Vector3})]]></content>
+	<tabTrigger><![CDATA[Contains]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rect.*(point)]]></description>
+</snippet>

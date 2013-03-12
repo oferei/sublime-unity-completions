@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Asin(${1:float f});]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Asin(f)]]></description>
+</snippet>

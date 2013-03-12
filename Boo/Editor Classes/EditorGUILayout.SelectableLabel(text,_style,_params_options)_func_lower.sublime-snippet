@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.SelectableLabel(${1:text as string}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[selectableLabel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(text, style, params options)]]></description>
+</snippet>

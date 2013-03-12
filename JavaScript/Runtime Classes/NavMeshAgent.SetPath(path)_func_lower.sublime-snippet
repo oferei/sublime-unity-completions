@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshAgent.SetPath(${1:path : NavMeshPath});]]></content>
+	<tabTrigger><![CDATA[setPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMeshAgent.*(path)]]></description>
+</snippet>

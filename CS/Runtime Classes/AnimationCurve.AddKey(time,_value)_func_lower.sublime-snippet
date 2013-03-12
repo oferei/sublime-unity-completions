@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.AddKey(${1:float time}, ${2:float value});]]></content>
+	<tabTrigger><![CDATA[addKey]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationCurve.*(time, value)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.MaxHeight(${1:float maxHeight});]]></content>
+	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.MaxHeight(maxHeight)]]></description>
+</snippet>

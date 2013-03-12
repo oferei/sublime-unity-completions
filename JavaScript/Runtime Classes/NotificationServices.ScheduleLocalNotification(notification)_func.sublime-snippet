@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NotificationServices.ScheduleLocalNotification(${1:notification : LocalNotification});]]></content>
+	<tabTrigger><![CDATA[ScheduleLocalNotification]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NotificationServices.*(notification)]]></description>
+</snippet>

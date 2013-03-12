@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.DrawCurveSwatch(${1:position : Rect}, ${2:curve : AnimationCurve}, ${3:property : SerializedProperty}, ${4:color : Color}, ${5:bgColor : Color});]]></content>
+	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.DrawCurveSwatch(position, curve, property, color, bgColor)]]></description>
+</snippet>

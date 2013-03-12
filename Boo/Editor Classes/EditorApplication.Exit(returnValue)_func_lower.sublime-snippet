@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.Exit(${1:returnValue as int})]]></content>
+	<tabTrigger><![CDATA[exit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorApplication.*(returnValue)]]></description>
+</snippet>

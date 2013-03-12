@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.BuildAssetBundle(${1:Object mainAsset}, ${2:Object[] assets}, ${3:string pathName}, ${4:BuildAssetBundleOptions assetBundleOptions = BuildAssetBundleOptions.CollectDependencies | BuildAssetBundleOptions.CompleteAssets}, ${5:BuildTarget targetPlatform = BuildTarget.WebPlayer});]]></content>
+	<tabTrigger><![CDATA[buildAssetBundle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[BuildPipeline.*(mainAsset, assets, pathName, assetBundleOptions, targetPlatform)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetIKRotation(${1:goal : AvatarIKGoal});]]></content>
+	<tabTrigger><![CDATA[getIKRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(goal)]]></description>
+</snippet>

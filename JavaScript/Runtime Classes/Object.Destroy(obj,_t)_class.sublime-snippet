@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.Destroy(${1:obj : Object}, ${2:t : float = 0.0F});]]></content>
+	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Destroy(obj, t)]]></description>
+</snippet>

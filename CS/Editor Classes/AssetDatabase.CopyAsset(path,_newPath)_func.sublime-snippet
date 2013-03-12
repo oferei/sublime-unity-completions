@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.CopyAsset(${1:string path}, ${2:string newPath});]]></content>
+	<tabTrigger><![CDATA[CopyAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(path, newPath)]]></description>
+</snippet>

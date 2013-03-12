@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.InterruptMatchTarget(${1:bool completeMatch = true});]]></content>
+	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.InterruptMatchTarget(completeMatch)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Clamp(${1:value : int}, ${2:min : int}, ${3:max : int});]]></content>
+	<tabTrigger><![CDATA[clamp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Mathf.*(value, min, max)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ProgressBar(${1:position as Rect}, ${2:value as single}, ${3:text as string})]]></content>
+	<tabTrigger><![CDATA[ProgressBar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, value, text)]]></description>
+</snippet>

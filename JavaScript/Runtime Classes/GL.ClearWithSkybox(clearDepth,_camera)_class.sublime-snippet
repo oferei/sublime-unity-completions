@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.ClearWithSkybox(${1:clearDepth : boolean}, ${2:camera : Camera});]]></content>
+	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.ClearWithSkybox(clearDepth, camera)]]></description>
+</snippet>

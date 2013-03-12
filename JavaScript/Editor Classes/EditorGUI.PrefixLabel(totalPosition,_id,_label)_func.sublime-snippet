@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.PrefixLabel(${1:totalPosition : Rect}, ${2:id : int}, ${3:label : GUIContent});]]></content>
+	<tabTrigger><![CDATA[PrefixLabel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUI.*(totalPosition, id, label)]]></description>
+</snippet>

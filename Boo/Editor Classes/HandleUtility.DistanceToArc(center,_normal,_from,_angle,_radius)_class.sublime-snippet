@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.DistanceToArc(${1:center as Vector3}, ${2:normal as Vector3}, ${3:from as Vector3}, ${4:angle as single}, ${5:radius as single})]]></content>
+	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DistanceToArc(center, normal, from, angle, radius)]]></description>
+</snippet>

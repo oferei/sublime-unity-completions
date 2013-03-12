@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWW.GetAudioClip(${1:threeD : boolean}, ${2:stream : boolean}, ${3:audioType : AudioType});]]></content>
+	<tabTrigger><![CDATA[getAudioClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[WWW.*(threeD, stream, audioType)]]></description>
+</snippet>

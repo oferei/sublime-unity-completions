@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Ortho(${1:left as single}, ${2:right as single}, ${3:bottom as single}, ${4:top as single}, ${5:zNear as single}, ${6:zFar as single})]]></content>
+	<tabTrigger><![CDATA[ortho]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Matrix4x4.*(left, right, bottom, top, zNear, zFar)]]></description>
+</snippet>

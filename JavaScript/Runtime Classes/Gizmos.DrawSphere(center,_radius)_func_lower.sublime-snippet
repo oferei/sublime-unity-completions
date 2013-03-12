@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawSphere(${1:center : Vector3}, ${2:radius : float});]]></content>
+	<tabTrigger><![CDATA[drawSphere]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Gizmos.*(center, radius)]]></description>
+</snippet>

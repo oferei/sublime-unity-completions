@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetHeights(${1:int xBase}, ${2:int yBase}, ${3:int width}, ${4:int height});]]></content>
+	<tabTrigger><![CDATA[TerrainData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetHeights(xBase, yBase, width, height)]]></description>
+</snippet>

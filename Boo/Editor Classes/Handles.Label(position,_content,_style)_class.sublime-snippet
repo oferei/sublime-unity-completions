@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.Label(${1:position as Vector3}, ${2:content as GUIContent}, ${3:style as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Label(position, content, style)]]></description>
+</snippet>

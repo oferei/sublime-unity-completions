@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.WorldPointToSizedRect(${1:position as Vector3}, ${2:content as GUIContent}, ${3:style as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.WorldPointToSizedRect(position, content, style)]]></description>
+</snippet>

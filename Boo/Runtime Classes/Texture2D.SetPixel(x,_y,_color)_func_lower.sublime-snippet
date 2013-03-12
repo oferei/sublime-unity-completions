@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.SetPixel(${1:x as int}, ${2:y as int}, ${3:color as Color})]]></content>
+	<tabTrigger><![CDATA[setPixel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Texture2D.*(x, y, color)]]></description>
+</snippet>

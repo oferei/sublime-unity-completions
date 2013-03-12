@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.Instantiate<${1:T}>(${2:T original});]]></content>
+	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.Instantiate<T>(original)]]></description>
+</snippet>

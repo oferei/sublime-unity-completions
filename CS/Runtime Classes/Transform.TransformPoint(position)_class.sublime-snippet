@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.TransformPoint(${1:Vector3 position});]]></content>
+	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.TransformPoint(position)]]></description>
+</snippet>

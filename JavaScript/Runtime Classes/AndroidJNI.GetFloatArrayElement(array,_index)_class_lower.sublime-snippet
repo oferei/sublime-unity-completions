@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetFloatArrayElement(${1:array : IntPtr}, ${2:index : int});]]></content>
+	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetFloatArrayElement(array, index)]]></description>
+</snippet>

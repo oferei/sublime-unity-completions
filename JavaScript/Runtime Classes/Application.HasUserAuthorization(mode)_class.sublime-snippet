@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.HasUserAuthorization(${1:mode : UserAuthorization});]]></content>
+	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.HasUserAuthorization(mode)]]></description>
+</snippet>

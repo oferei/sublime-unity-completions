@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.Begin(${1:int mode});]]></content>
+	<tabTrigger><![CDATA[Begin]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GL.*(mode)]]></description>
+</snippet>

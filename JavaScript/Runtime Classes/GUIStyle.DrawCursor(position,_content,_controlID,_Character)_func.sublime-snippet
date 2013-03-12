@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.DrawCursor(${1:position : Rect}, ${2:content : GUIContent}, ${3:controlID : int}, ${4:Character : int});]]></content>
+	<tabTrigger><![CDATA[DrawCursor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUIStyle.*(position, content, controlID, Character)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectOffset(${1:left : int}, ${2:right : int}, ${3:top : int}, ${4:bottom : int});]]></content>
+	<tabTrigger><![CDATA[rectOffset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(left, right, top, bottom)]]></description>
+</snippet>

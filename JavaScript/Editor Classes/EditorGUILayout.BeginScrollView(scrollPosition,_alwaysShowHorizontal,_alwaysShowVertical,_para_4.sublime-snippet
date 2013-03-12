@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginScrollView(${1:scrollPosition : Vector2}, ${2:alwaysShowHorizontal : boolean}, ${3:alwaysShowVertical : boolean}, ${4:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[beginScrollView]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUILayout.*(scrollPosition, alwaysShowHorizontal, alwaysShowVertical, params options)]]></description>
+</snippet>

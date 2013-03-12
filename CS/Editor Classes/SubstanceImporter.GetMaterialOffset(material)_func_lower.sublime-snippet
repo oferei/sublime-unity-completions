@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.GetMaterialOffset(${1:ProceduralMaterial material});]]></content>
+	<tabTrigger><![CDATA[getMaterialOffset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SubstanceImporter.*(material)]]></description>
+</snippet>

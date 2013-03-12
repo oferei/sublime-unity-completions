@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.CurveField(${1:Rect position}, ${2:AnimationCurve value});]]></content>
+	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.CurveField(position, value)]]></description>
+</snippet>

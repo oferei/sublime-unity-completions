@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeBuffer.CopyCount(${1:src as ComputeBuffer}, ${2:dst as ComputeBuffer}, ${3:dstOffset as int})]]></content>
+	<tabTrigger><![CDATA[computeBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.CopyCount(src, dst, dstOffset)]]></description>
+</snippet>

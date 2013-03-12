@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.CreatePrimitive(${1:type : PrimitiveType});]]></content>
+	<tabTrigger><![CDATA[gameObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CreatePrimitive(type)]]></description>
+</snippet>

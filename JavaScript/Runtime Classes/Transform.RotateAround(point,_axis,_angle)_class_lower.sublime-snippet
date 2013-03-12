@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.RotateAround(${1:point : Vector3}, ${2:axis : Vector3}, ${3:angle : float});]]></content>
+	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.RotateAround(point, axis, angle)]]></description>
+</snippet>

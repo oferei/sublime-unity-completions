@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.IsAlive(${1:withChildren as bool = true})]]></content>
+	<tabTrigger><![CDATA[particleSystem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.IsAlive(withChildren)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PreferenceItem(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[preferenceItem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

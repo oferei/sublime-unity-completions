@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetFloat(${1:name : String}, ${2:value : float}, ${3:dampTime : float}, ${4:deltaTime : float});]]></content>
+	<tabTrigger><![CDATA[setFloat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(name, value, dampTime, deltaTime)]]></description>
+</snippet>

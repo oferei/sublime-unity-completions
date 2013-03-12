@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawLine(${1:p1 as Vector3}, ${2:p2 as Vector3})]]></content>
+	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.DrawLine(p1, p2)]]></description>
+</snippet>

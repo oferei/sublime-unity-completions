@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.DeltaAngle(${1:float current}, ${2:float target});]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.DeltaAngle(current, target)]]></description>
+</snippet>

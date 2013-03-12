@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.MaxWidth(${1:maxWidth : float});]]></content>
+	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.MaxWidth(maxWidth)]]></description>
+</snippet>

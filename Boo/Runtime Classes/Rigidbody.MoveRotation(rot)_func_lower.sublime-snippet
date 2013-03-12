@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.MoveRotation(${1:rot as Quaternion})]]></content>
+	<tabTrigger><![CDATA[moveRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rigidbody.*(rot)]]></description>
+</snippet>

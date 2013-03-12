@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.InspectorTitlebar(${1:foldout : boolean}, ${2:targetObjs : Object[]});]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.InspectorTitlebar(foldout, targetObjs)]]></description>
+</snippet>

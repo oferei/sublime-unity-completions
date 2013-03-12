@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetBoneTransform(${1:HumanBodyBones humanBoneId});]]></content>
+	<tabTrigger><![CDATA[getBoneTransform]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Animator.*(humanBoneId)]]></description>
+</snippet>

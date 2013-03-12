@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.DisplayDialogComplex(${1:string title}, ${2:string message}, ${3:string ok}, ${4:string cancel}, ${5:string alt});]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.DisplayDialogComplex(title, message, ok, cancel, alt)]]></description>
+</snippet>

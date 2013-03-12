@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetIconSizesForTargetGroup(${1:platform : BuildTargetGroup});]]></content>
+	<tabTrigger><![CDATA[getIconSizesForTargetGroup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerSettings.*(platform)]]></description>
+</snippet>

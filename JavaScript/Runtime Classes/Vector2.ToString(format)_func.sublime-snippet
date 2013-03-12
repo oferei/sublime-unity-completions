@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.ToString(${1:format : String});]]></content>
+	<tabTrigger><![CDATA[ToString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector2.*(format)]]></description>
+</snippet>

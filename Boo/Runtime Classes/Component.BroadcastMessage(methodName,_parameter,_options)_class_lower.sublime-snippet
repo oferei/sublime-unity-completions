@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Component.BroadcastMessage(${1:methodName as string}, ${2:parameter as object = null}, ${3:options as SendMessageOptions = SendMessageOptions.RequireReceiver})]]></content>
+	<tabTrigger><![CDATA[component]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.BroadcastMessage(methodName, parameter, options)]]></description>
+</snippet>

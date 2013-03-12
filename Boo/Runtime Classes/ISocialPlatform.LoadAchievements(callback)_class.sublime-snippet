@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISocialPlatform.LoadAchievements(${1:callback as System.Action<IAchievement[]>})]]></content>
+	<tabTrigger><![CDATA[ISocialPlatform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.LoadAchievements(callback)]]></description>
+</snippet>

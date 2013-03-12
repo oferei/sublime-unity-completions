@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RegisterSnapshot();]]></content>
+	<tabTrigger><![CDATA[registerSnapshot]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Undo.*()]]></description>
+</snippet>

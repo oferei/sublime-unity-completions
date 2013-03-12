@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.IgnoreCollision(${1:collider1 : Collider}, ${2:collider2 : Collider}, ${3:ignore : boolean = true});]]></content>
+	<tabTrigger><![CDATA[physics]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.IgnoreCollision(collider1, collider2, ignore)]]></description>
+</snippet>

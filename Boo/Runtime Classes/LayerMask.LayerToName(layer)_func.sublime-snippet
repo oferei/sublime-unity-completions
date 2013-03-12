@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayerMask.LayerToName(${1:layer as int})]]></content>
+	<tabTrigger><![CDATA[LayerToName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LayerMask.*(layer)]]></description>
+</snippet>

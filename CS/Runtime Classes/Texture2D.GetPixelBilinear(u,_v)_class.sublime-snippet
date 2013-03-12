@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.GetPixelBilinear(${1:float u}, ${2:float v});]]></content>
+	<tabTrigger><![CDATA[Texture2D]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.GetPixelBilinear(u, v)]]></description>
+</snippet>

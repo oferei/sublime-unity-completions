@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawCube(${1:Vector3 center}, ${2:Vector3 size});]]></content>
+	<tabTrigger><![CDATA[Gizmos]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.DrawCube(center, size)]]></description>
+</snippet>

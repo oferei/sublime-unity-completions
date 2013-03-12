@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DrawTextureAlpha(${1:position : Rect}, ${2:image : Texture}, ${3:scaleMode : ScaleMode = ScaleMode.StretchToFill}, ${4:imageAspect : float = 0});]]></content>
+	<tabTrigger><![CDATA[DrawTextureAlpha]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUI.*(position, image, scaleMode, imageAspect)]]></description>
+</snippet>

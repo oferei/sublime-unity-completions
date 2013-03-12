@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.GetIgnoreLayerCollision(${1:layer1 as int}, ${2:layer2 as int})]]></content>
+	<tabTrigger><![CDATA[Physics]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.GetIgnoreLayerCollision(layer1, layer2)]]></description>
+</snippet>

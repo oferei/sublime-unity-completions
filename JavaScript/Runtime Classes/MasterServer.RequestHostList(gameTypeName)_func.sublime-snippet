@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MasterServer.RequestHostList(${1:gameTypeName : String});]]></content>
+	<tabTrigger><![CDATA[RequestHostList]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MasterServer.*(gameTypeName)]]></description>
+</snippet>

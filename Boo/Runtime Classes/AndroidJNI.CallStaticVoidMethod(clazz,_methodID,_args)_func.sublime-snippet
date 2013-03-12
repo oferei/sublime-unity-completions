@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.CallStaticVoidMethod(${1:clazz as IntPtr}, ${2:methodID as IntPtr}, ${3:args as (jvalue)})]]></content>
+	<tabTrigger><![CDATA[CallStaticVoidMethod]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJNI.*(clazz, methodID, args)]]></description>
+</snippet>

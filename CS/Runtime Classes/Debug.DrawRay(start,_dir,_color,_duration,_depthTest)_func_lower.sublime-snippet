@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Debug.DrawRay(${1:Vector3 start}, ${2:Vector3 dir}, ${3:Color color = Color.white}, ${4:float duration = 0.0f}, ${5:bool depthTest = true});]]></content>
+	<tabTrigger><![CDATA[drawRay]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Debug.*(start, dir, color, duration, depthTest)]]></description>
+</snippet>

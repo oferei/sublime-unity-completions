@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.FindWithTag(${1:tag as string})]]></content>
+	<tabTrigger><![CDATA[GameObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.FindWithTag(tag)]]></description>
+</snippet>

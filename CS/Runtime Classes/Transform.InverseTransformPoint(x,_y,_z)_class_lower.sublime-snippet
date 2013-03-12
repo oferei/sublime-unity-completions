@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.InverseTransformPoint(${1:float x}, ${2:float y}, ${3:float z});]]></content>
+	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.InverseTransformPoint(x, y, z)]]></description>
+</snippet>

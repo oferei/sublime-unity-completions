@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.AddRelativeTorque(${1:x : float}, ${2:y : float}, ${3:z : float}, ${4:mode : ForceMode = ForceMode.Force});]]></content>
+	<tabTrigger><![CDATA[addRelativeTorque]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Rigidbody.*(x, y, z, mode)]]></description>
+</snippet>

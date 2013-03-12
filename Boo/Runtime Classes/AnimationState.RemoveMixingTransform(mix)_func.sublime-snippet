@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationState.RemoveMixingTransform(${1:mix as Transform})]]></content>
+	<tabTrigger><![CDATA[RemoveMixingTransform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationState.*(mix)]]></description>
+</snippet>

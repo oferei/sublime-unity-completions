@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.TextField(${1:GUIContent label}, ${2:string text}, ${3:GUILayoutOption[] params options});]]></content>
+	<tabTrigger><![CDATA[TextField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(label, text, params options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.LoadAll(${1:string path});]]></content>
+	<tabTrigger><![CDATA[Resources]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.LoadAll(path)]]></description>
+</snippet>

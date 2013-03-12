@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerPrefs.SetString(${1:key as string}, ${2:value as string})]]></content>
+	<tabTrigger><![CDATA[setString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerPrefs.*(key, value)]]></description>
+</snippet>

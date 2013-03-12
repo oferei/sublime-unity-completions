@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.IsInTransition(${1:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[IsInTransition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(layerIndex)]]></description>
+</snippet>

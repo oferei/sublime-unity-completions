@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Event.GetTypeForControl(${1:controlID : int});]]></content>
+	<tabTrigger><![CDATA[getTypeForControl]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Event.*(controlID)]]></description>
+</snippet>

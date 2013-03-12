@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetIKPositionWeight(${1:AvatarIKGoal goal}, ${2:float value});]]></content>
+	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.SetIKPositionWeight(goal, value)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Screen.SetResolution(${1:width as int}, ${2:height as int}, ${3:fullscreen as bool}, ${4:preferredRefreshRate as int = 0})]]></content>
+	<tabTrigger><![CDATA[Screen]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetResolution(width, height, fullscreen, preferredRefreshRate)]]></description>
+</snippet>

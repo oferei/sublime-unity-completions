@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.StartAssetEditing();]]></content>
+	<tabTrigger><![CDATA[startAssetEditing]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*()]]></description>
+</snippet>

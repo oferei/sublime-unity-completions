@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.RenderWithShader(${1:shader as Shader}, ${2:replacementTag as string})]]></content>
+	<tabTrigger><![CDATA[renderWithShader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Camera.*(shader, replacementTag)]]></description>
+</snippet>

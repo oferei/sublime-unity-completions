@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.DisplayPopupMenu(${1:position : Rect}, ${2:menuItemPath : String}, ${3:command : MenuCommand});]]></content>
+	<tabTrigger><![CDATA[DisplayPopupMenu]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorUtility.*(position, menuItemPath, command)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.AddVector(${1:name : String}, ${2:value : Vector4});]]></content>
+	<tabTrigger><![CDATA[AddVector]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(name, value)]]></description>
+</snippet>

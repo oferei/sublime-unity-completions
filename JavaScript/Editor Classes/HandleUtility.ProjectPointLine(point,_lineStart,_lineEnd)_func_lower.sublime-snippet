@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.ProjectPointLine(${1:point : Vector3}, ${2:lineStart : Vector3}, ${3:lineEnd : Vector3});]]></content>
+	<tabTrigger><![CDATA[projectPointLine]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HandleUtility.*(point, lineStart, lineEnd)]]></description>
+</snippet>

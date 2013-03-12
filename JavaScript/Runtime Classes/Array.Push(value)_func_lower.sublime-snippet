@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Array.Push(${1:value : object});]]></content>
+	<tabTrigger><![CDATA[push]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Array.*(value)]]></description>
+</snippet>

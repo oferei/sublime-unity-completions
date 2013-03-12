@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.AddCursorRect(${1:position : Rect}, ${2:mouse : MouseCursor});]]></content>
+	<tabTrigger><![CDATA[EditorGUIUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.AddCursorRect(position, mouse)]]></description>
+</snippet>

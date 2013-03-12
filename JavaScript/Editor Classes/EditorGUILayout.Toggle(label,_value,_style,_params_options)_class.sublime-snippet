@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Toggle(${1:label : GUIContent}, ${2:value : boolean}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.Toggle(label, value, style, params options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.DistanceToCircle(${1:position : Vector3}, ${2:radius : float});]]></content>
+	<tabTrigger><![CDATA[distanceToCircle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HandleUtility.*(position, radius)]]></description>
+</snippet>

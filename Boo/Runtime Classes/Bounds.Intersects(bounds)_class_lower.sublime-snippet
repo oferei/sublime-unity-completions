@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bounds.Intersects(${1:bounds as Bounds})]]></content>
+	<tabTrigger><![CDATA[bounds]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Intersects(bounds)]]></description>
+</snippet>

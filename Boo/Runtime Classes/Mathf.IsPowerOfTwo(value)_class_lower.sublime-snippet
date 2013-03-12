@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.IsPowerOfTwo(${1:value as int})]]></content>
+	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.IsPowerOfTwo(value)]]></description>
+</snippet>

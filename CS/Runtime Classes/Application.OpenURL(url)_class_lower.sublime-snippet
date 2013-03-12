@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.OpenURL(${1:string url});]]></content>
+	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.OpenURL(url)]]></description>
+</snippet>

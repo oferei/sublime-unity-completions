@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.AreStaticEditorFlagsSet(${1:GameObject go}, ${2:StaticEditorFlags flags});]]></content>
+	<tabTrigger><![CDATA[areStaticEditorFlagsSet]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GameObjectUtility.*(go, flags)]]></description>
+</snippet>

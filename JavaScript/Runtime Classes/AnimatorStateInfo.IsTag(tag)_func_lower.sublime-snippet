@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateInfo.IsTag(${1:tag : String});]]></content>
+	<tabTrigger><![CDATA[isTag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorStateInfo.*(tag)]]></description>
+</snippet>

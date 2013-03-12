@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectOffset.Add(${1:rect as Rect})]]></content>
+	<tabTrigger><![CDATA[RectOffset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Add(rect)]]></description>
+</snippet>

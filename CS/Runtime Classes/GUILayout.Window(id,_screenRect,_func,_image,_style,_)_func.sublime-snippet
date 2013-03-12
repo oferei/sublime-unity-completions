@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Window(${1:int id}, ${2:Rect screenRect}, ${3:GUI.WindowFunction func}, ${4:Texture image}, ${5:GUIStyle style}, ${6: });]]></content>
+	<tabTrigger><![CDATA[Window]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUILayout.*(id, screenRect, func, image, style, )]]></description>
+</snippet>

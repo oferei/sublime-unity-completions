@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MatchTargetWeightMask(${1:positionXYZWeight as Vector3}, ${2:rotationWeight as single})]]></content>
+	<tabTrigger><![CDATA[MatchTargetWeightMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(positionXYZWeight, rotationWeight)]]></description>
+</snippet>

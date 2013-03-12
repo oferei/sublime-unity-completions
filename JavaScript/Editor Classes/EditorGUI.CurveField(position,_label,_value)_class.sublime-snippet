@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.CurveField(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : AnimationCurve});]]></content>
+	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.CurveField(position, label, value)]]></description>
+</snippet>

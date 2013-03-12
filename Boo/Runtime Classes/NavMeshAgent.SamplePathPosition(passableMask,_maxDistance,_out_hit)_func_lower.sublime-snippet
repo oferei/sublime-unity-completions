@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshAgent.SamplePathPosition(${1:passableMask as int}, ${2:maxDistance as single}, ${3:out hit as NavMeshHit})]]></content>
+	<tabTrigger><![CDATA[samplePathPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMeshAgent.*(passableMask, maxDistance, out hit)]]></description>
+</snippet>

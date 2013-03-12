@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.RevertPrefabInstance(${1:go : GameObject});]]></content>
+	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.RevertPrefabInstance(go)]]></description>
+</snippet>

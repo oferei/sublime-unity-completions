@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Min(${1:a : int}, ${2:b : int});]]></content>
+	<tabTrigger><![CDATA[min]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Mathf.*(a, b)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.ForceStateNormalizedTime(${1:normalizedTime as single})]]></content>
+	<tabTrigger><![CDATA[forceStateNormalizedTime]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(normalizedTime)]]></description>
+</snippet>

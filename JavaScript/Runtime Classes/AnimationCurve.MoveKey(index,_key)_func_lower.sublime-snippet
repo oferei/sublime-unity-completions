@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.MoveKey(${1:index : int}, ${2:key : Keyframe});]]></content>
+	<tabTrigger><![CDATA[moveKey]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationCurve.*(index, key)]]></description>
+</snippet>

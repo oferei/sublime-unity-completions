@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.PlayOneShot(${1:clip as AudioClip}, ${2:volumeScale as single = 1.0F})]]></content>
+	<tabTrigger><![CDATA[audioSource]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.PlayOneShot(clip, volumeScale)]]></description>
+</snippet>

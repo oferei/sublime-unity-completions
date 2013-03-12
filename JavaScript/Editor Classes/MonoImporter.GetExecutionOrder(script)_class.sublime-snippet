@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoImporter.GetExecutionOrder(${1:script : MonoScript});]]></content>
+	<tabTrigger><![CDATA[MonoImporter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.GetExecutionOrder(script)]]></description>
+</snippet>

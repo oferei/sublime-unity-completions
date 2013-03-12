@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.PickRectObjects(${1:Rect rect});]]></content>
+	<tabTrigger><![CDATA[pickRectObjects]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HandleUtility.*(rect)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.RequestUserAuthorization(${1:UserAuthorization mode});]]></content>
+	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.RequestUserAuthorization(mode)]]></description>
+</snippet>

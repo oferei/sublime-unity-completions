@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Min(${1:a as int}, ${2:b as int})]]></content>
+	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.Min(a, b)]]></description>
+</snippet>

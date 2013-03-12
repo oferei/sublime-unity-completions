@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.GetWindow(${1:t : System.Type}, ${2:utility : boolean = false}, ${3:title : String = null}, ${4:focus : boolean = true});]]></content>
+	<tabTrigger><![CDATA[GetWindow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorWindow.*(t, utility, title, focus)]]></description>
+</snippet>

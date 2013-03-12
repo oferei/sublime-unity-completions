@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.SetColors(${1:start : Color}, ${2:end : Color});]]></content>
+	<tabTrigger><![CDATA[LineRenderer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.SetColors(start, end)]]></description>
+</snippet>

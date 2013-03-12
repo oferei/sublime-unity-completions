@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.PushCamera(${1:camera : Camera});]]></content>
+	<tabTrigger><![CDATA[pushCamera]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HandleUtility.*(camera)]]></description>
+</snippet>

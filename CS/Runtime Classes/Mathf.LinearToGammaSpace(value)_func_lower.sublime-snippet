@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.LinearToGammaSpace(${1:float value});]]></content>
+	<tabTrigger><![CDATA[linearToGammaSpace]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mathf.*(value)]]></description>
+</snippet>

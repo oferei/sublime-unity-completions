@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomEditor(${1:inspectedType as System.Type})]]></content>
+	<tabTrigger><![CDATA[CustomEditor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inspectedType)]]></description>
+</snippet>

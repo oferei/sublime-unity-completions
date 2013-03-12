@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoImporter.SetDefaultReferences(${1:name : string[]}, ${2:target : Object[]});]]></content>
+	<tabTrigger><![CDATA[setDefaultReferences]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MonoImporter.*(name, target)]]></description>
+</snippet>

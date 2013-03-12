@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.BuildStreamedSceneAssetBundle(${1:levels as (string)}, ${2:locationPath as string}, ${3:target as BuildTarget})]]></content>
+	<tabTrigger><![CDATA[BuildStreamedSceneAssetBundle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BuildPipeline.*(levels, locationPath, target)]]></description>
+</snippet>

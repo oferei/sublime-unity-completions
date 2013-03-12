@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.ShowAsDropDown(${1:Rect buttonRect}, ${2:Vector2 windowSize});]]></content>
+	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.ShowAsDropDown(buttonRect, windowSize)]]></description>
+</snippet>

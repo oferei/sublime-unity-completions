@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector4.ToString(${1:format as string})]]></content>
+	<tabTrigger><![CDATA[ToString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Vector4.*(format)]]></description>
+</snippet>

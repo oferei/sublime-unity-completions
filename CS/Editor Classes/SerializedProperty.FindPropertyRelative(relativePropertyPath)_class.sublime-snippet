@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.FindPropertyRelative(${1:string relativePropertyPath});]]></content>
+	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*.FindPropertyRelative(relativePropertyPath)]]></description>
+</snippet>

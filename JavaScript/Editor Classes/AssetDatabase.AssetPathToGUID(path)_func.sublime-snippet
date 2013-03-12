@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.AssetPathToGUID(${1:path : String});]]></content>
+	<tabTrigger><![CDATA[AssetPathToGUID]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AssetDatabase.*(path)]]></description>
+</snippet>

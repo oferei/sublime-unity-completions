@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.CopySerialized(${1:source as Object}, ${2:dest as Object})]]></content>
+	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.CopySerialized(source, dest)]]></description>
+</snippet>

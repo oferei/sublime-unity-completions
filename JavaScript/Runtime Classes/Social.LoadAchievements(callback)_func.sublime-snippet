@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Social.LoadAchievements(${1:callback : System.Action<IAchievement[]>});]]></content>
+	<tabTrigger><![CDATA[LoadAchievements]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Social.*(callback)]]></description>
+</snippet>

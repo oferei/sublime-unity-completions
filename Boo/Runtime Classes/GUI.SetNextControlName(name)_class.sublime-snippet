@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.SetNextControlName(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*.SetNextControlName(name)]]></description>
+</snippet>
