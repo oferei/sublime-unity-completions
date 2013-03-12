@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIUtility.QueryStateObject(${1:t : Type}, ${2:controlID : int});]]></content>
-	<tabTrigger><![CDATA[gUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[gUIUtility.QueryStateObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.QueryStateObject(t, controlID)]]></description>
+	<description><![CDATA[*(t, controlID)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewBooleanArray(${1:size : int});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.NewBooleanArray]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.NewBooleanArray(size)]]></description>
+	<description><![CDATA[*(size)]]></description>
 </snippet>

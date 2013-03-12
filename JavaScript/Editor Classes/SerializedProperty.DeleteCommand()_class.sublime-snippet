@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.DeleteCommand();]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.DeleteCommand]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DeleteCommand()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

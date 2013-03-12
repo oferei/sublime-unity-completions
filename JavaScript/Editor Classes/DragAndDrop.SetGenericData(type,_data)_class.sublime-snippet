@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DragAndDrop.SetGenericData(${1:type : String}, ${2:data : object});]]></content>
-	<tabTrigger><![CDATA[DragAndDrop]]></tabTrigger>
+	<tabTrigger><![CDATA[DragAndDrop.SetGenericData]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetGenericData(type, data)]]></description>
+	<description><![CDATA[*(type, data)]]></description>
 </snippet>

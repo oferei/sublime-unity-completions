@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GenericMenu.DropDown(${1:position : Rect});]]></content>
-	<tabTrigger><![CDATA[genericMenu]]></tabTrigger>
+	<tabTrigger><![CDATA[genericMenu.DropDown]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DropDown(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

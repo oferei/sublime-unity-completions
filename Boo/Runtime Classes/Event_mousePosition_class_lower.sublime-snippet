@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Event.mousePosition]]></content>
-	<tabTrigger><![CDATA[event]]></tabTrigger>
+	<tabTrigger><![CDATA[event.mousePosition]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.mousePosition]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

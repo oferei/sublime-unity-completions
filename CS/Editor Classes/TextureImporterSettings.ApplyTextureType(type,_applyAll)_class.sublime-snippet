@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TextureImporterSettings.ApplyTextureType(${1:TextureImporterType type}, ${2:bool applyAll});]]></content>
-	<tabTrigger><![CDATA[TextureImporterSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[TextureImporterSettings.ApplyTextureType]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ApplyTextureType(type, applyAll)]]></description>
+	<description><![CDATA[*(type, applyAll)]]></description>
 </snippet>

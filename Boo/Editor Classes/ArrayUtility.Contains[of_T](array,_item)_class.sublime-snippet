@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ArrayUtility.Contains[of ${1:T}](${2:array as (T)}, ${3:item as T})]]></content>
-	<tabTrigger><![CDATA[ArrayUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[ArrayUtility.Contains]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Contains[of T](array, item)]]></description>
+	<description><![CDATA[*[of T](array, item)]]></description>
 </snippet>

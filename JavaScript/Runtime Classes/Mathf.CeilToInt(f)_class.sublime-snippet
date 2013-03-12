@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.CeilToInt(${1:f : float});]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.CeilToInt]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CeilToInt(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

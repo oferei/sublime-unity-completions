@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.Rotate(${1:xAngle as single}, ${2:yAngle as single}, ${3:zAngle as single}, ${4:relativeTo as Space = Space.Self})]]></content>
-	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<tabTrigger><![CDATA[transform.Rotate]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Rotate(xAngle, yAngle, zAngle, relativeTo)]]></description>
+	<description><![CDATA[*(xAngle, yAngle, zAngle, relativeTo)]]></description>
 </snippet>

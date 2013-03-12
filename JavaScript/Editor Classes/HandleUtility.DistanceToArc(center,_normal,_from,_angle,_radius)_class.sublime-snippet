@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.DistanceToArc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:from : Vector3}, ${4:angle : float}, ${5:radius : float});]]></content>
-	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[HandleUtility.DistanceToArc]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DistanceToArc(center, normal, from, angle, radius)]]></description>
+	<description><![CDATA[*(center, normal, from, angle, radius)]]></description>
 </snippet>

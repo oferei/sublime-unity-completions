@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.OpenScene(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.OpenScene]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OpenScene(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

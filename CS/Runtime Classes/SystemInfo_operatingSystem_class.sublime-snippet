@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.operatingSystem]]></content>
-	<tabTrigger><![CDATA[SystemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[SystemInfo.operatingSystem]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.operatingSystem]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIStyle.CalcSize(${1:GUIContent content});]]></content>
-	<tabTrigger><![CDATA[GUIStyle]]></tabTrigger>
+	<tabTrigger><![CDATA[GUIStyle.CalcSize]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.CalcSize(content)]]></description>
+	<description><![CDATA[*(content)]]></description>
 </snippet>

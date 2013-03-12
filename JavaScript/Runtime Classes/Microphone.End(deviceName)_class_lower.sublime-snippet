@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Microphone.End(${1:deviceName : String});]]></content>
-	<tabTrigger><![CDATA[microphone]]></tabTrigger>
+	<tabTrigger><![CDATA[microphone.End]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.End(deviceName)]]></description>
+	<description><![CDATA[*(deviceName)]]></description>
 </snippet>

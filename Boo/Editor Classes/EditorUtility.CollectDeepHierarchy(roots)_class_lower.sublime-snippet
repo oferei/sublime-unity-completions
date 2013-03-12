@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.CollectDeepHierarchy(${1:roots as (Object)})]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.CollectDeepHierarchy]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CollectDeepHierarchy(roots)]]></description>
+	<description><![CDATA[*(roots)]]></description>
 </snippet>

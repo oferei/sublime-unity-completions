@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.GetIconsForTargetGroup(${1:platform : BuildTargetGroup});]]></content>
-	<tabTrigger><![CDATA[PlayerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.GetIconsForTargetGroup]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetIconsForTargetGroup(platform)]]></description>
+	<description><![CDATA[*(platform)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Cubemap.SetPixel(${1:CubemapFace face}, ${2:int x}, ${3:int y}, ${4:Color color});]]></content>
-	<tabTrigger><![CDATA[cubemap]]></tabTrigger>
+	<tabTrigger><![CDATA[cubemap.SetPixel]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetPixel(face, x, y, color)]]></description>
+	<description><![CDATA[*(face, x, y, color)]]></description>
 </snippet>

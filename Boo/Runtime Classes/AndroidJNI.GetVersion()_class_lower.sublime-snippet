@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.GetVersion()]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.GetVersion]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetVersion()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

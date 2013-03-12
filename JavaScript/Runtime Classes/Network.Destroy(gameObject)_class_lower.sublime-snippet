@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.Destroy(${1:gameObject : GameObject});]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.Destroy]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Destroy(gameObject)]]></description>
+	<description><![CDATA[*(gameObject)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.PingObject(${1:targetInstanceID : int});]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.PingObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.PingObject(targetInstanceID)]]></description>
+	<description><![CDATA[*(targetInstanceID)]]></description>
 </snippet>

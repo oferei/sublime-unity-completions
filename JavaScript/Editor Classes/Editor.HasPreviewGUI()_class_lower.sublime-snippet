@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.HasPreviewGUI();]]></content>
-	<tabTrigger><![CDATA[editor]]></tabTrigger>
+	<tabTrigger><![CDATA[editor.HasPreviewGUI]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HasPreviewGUI()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

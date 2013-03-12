@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.PerlinNoise(${1:x as single}, ${2:y as single})]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.PerlinNoise]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.PerlinNoise(x, y)]]></description>
+	<description><![CDATA[*(x, y)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.FromObjectArray(${1:array as IntPtr})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.FromObjectArray]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.FromObjectArray(array)]]></description>
+	<description><![CDATA[*(array)]]></description>
 </snippet>

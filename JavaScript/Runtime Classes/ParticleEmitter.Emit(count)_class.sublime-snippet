@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ParticleEmitter.Emit(${1:count : int});]]></content>
-	<tabTrigger><![CDATA[ParticleEmitter]]></tabTrigger>
+	<tabTrigger><![CDATA[ParticleEmitter.Emit]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Emit(count)]]></description>
+	<description><![CDATA[*(count)]]></description>
 </snippet>

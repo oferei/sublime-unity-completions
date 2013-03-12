@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.GetWindowWithRect(${1:System.Type t}, ${2:Rect rect}, ${3:bool utility = false}, ${4:string title = null});]]></content>
-	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorWindow.GetWindowWithRect]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetWindowWithRect(t, rect, utility, title)]]></description>
+	<description><![CDATA[*(t, rect, utility, title)]]></description>
 </snippet>

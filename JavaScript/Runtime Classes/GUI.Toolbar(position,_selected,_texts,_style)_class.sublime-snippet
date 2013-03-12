@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.Toolbar(${1:position : Rect}, ${2:selected : int}, ${3:texts : string[]}, ${4:style : GUIStyle});]]></content>
-	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<tabTrigger><![CDATA[GUI.Toolbar]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Toolbar(position, selected, texts, style)]]></description>
+	<description><![CDATA[*(position, selected, texts, style)]]></description>
 </snippet>

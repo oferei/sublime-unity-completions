@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIStyle.CalcHeight(${1:content : GUIContent}, ${2:width : float});]]></content>
-	<tabTrigger><![CDATA[gUIStyle]]></tabTrigger>
+	<tabTrigger><![CDATA[gUIStyle.CalcHeight]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CalcHeight(content, width)]]></description>
+	<description><![CDATA[*(content, width)]]></description>
 </snippet>

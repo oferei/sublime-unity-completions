@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.GetVector(${1:id : int});]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.GetVector]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetVector(id)]]></description>
+	<description><![CDATA[*(id)]]></description>
 </snippet>

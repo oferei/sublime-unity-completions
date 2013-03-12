@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Undo.PerformUndo();]]></content>
-	<tabTrigger><![CDATA[Undo]]></tabTrigger>
+	<tabTrigger><![CDATA[Undo.PerformUndo]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.PerformUndo()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

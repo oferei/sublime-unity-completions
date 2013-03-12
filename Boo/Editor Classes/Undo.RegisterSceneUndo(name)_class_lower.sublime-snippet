@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Undo.RegisterSceneUndo(${1:name as string})]]></content>
-	<tabTrigger><![CDATA[undo]]></tabTrigger>
+	<tabTrigger><![CDATA[undo.RegisterSceneUndo]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RegisterSceneUndo(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.Reset();]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.Reset]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Reset()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

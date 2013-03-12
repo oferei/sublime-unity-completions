@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.GetNameOfFocusedControl();]]></content>
-	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<tabTrigger><![CDATA[GUI.GetNameOfFocusedControl]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetNameOfFocusedControl()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

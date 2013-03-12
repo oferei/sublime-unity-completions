@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Terrain.SampleHeight(${1:worldPosition as Vector3})]]></content>
-	<tabTrigger><![CDATA[Terrain]]></tabTrigger>
+	<tabTrigger><![CDATA[Terrain.SampleHeight]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SampleHeight(worldPosition)]]></description>
+	<description><![CDATA[*(worldPosition)]]></description>
 </snippet>

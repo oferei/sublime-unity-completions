@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.TransformDirection(${1:direction as Vector3})]]></content>
-	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<tabTrigger><![CDATA[Transform.TransformDirection]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.TransformDirection(direction)]]></description>
+	<description><![CDATA[*(direction)]]></description>
 </snippet>

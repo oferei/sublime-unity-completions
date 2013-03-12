@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.graphicsDeviceVersion]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.graphicsDeviceVersion]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.graphicsDeviceVersion]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

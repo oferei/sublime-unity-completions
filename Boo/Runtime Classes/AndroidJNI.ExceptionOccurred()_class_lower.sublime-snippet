@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ExceptionOccurred()]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.ExceptionOccurred]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ExceptionOccurred()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

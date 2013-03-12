@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.StringToHash(${1:name as string})]]></content>
-	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<tabTrigger><![CDATA[Animator.StringToHash]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.StringToHash(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

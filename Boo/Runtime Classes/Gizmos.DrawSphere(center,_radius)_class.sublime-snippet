@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gizmos.DrawSphere(${1:center as Vector3}, ${2:radius as single})]]></content>
-	<tabTrigger><![CDATA[Gizmos]]></tabTrigger>
+	<tabTrigger><![CDATA[Gizmos.DrawSphere]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawSphere(center, radius)]]></description>
+	<description><![CDATA[*(center, radius)]]></description>
 </snippet>

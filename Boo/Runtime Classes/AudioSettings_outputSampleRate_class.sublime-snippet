@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioSettings.outputSampleRate]]></content>
-	<tabTrigger><![CDATA[AudioSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[AudioSettings.outputSampleRate]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.outputSampleRate]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Event.Use()]]></content>
-	<tabTrigger><![CDATA[event]]></tabTrigger>
+	<tabTrigger><![CDATA[event.Use]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Use()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

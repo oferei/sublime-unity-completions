@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NotificationServices.GetLocalNotification(${1:int index});]]></content>
-	<tabTrigger><![CDATA[NotificationServices]]></tabTrigger>
+	<tabTrigger><![CDATA[NotificationServices.GetLocalNotification]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetLocalNotification(index)]]></description>
+	<description><![CDATA[*(index)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIStyle.DrawCursor(${1:position as Rect}, ${2:content as GUIContent}, ${3:controlID as int}, ${4:Character as int})]]></content>
-	<tabTrigger><![CDATA[gUIStyle]]></tabTrigger>
+	<tabTrigger><![CDATA[gUIStyle.DrawCursor]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawCursor(position, content, controlID, Character)]]></description>
+	<description><![CDATA[*(position, content, controlID, Character)]]></description>
 </snippet>

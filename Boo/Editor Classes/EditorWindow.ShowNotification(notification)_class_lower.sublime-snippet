@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.ShowNotification(${1:notification as GUIContent})]]></content>
-	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[editorWindow.ShowNotification]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ShowNotification(notification)]]></description>
+	<description><![CDATA[*(notification)]]></description>
 </snippet>

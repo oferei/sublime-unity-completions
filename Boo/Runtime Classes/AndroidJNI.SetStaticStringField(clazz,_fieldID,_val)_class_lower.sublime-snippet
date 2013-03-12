@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.SetStaticStringField(${1:clazz as IntPtr}, ${2:fieldID as IntPtr}, ${3:val as string})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.SetStaticStringField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetStaticStringField(clazz, fieldID, val)]]></description>
+	<description><![CDATA[*(clazz, fieldID, val)]]></description>
 </snippet>

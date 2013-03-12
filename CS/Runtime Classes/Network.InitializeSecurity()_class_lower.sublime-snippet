@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.InitializeSecurity();]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.InitializeSecurity]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.InitializeSecurity()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GameObject.GetComponent(${1:string type});]]></content>
-	<tabTrigger><![CDATA[GameObject]]></tabTrigger>
+	<tabTrigger><![CDATA[GameObject.GetComponent]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetComponent(type)]]></description>
+	<description><![CDATA[*(type)]]></description>
 </snippet>

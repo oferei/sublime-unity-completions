@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.quaternionValue]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.quaternionValue]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.quaternionValue]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

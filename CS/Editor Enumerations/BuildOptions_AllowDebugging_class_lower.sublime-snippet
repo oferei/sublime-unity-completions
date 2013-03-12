@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[BuildOptions.AllowDebugging]]></content>
-	<tabTrigger><![CDATA[buildOptions]]></tabTrigger>
+	<tabTrigger><![CDATA[buildOptions.AllowDebugging]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.AllowDebugging]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

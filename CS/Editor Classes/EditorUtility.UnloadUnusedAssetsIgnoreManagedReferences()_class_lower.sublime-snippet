@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.UnloadUnusedAssetsIgnoreManagedReferences();]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.UnloadUnusedAssetsIgnoreManagedReferences]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.UnloadUnusedAssetsIgnoreManagedReferences()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

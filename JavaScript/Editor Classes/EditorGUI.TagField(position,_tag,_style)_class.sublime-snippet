@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.TagField(${1:position : Rect}, ${2:tag : String}, ${3:style : GUIStyle = EditorStyles.popup});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.TagField]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.TagField(position, tag, style)]]></description>
+	<description><![CDATA[*(position, tag, style)]]></description>
 </snippet>

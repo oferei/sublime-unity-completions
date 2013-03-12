@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.bundleVersion]]></content>
-	<tabTrigger><![CDATA[PlayerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.bundleVersion]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.bundleVersion]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

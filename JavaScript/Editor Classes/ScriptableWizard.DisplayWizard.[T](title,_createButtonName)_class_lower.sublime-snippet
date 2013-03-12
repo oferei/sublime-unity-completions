@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScriptableWizard.DisplayWizard.<${1:T}>(${2:title : String}, ${3:createButtonName : String});]]></content>
-	<tabTrigger><![CDATA[scriptableWizard]]></tabTrigger>
+	<tabTrigger><![CDATA[scriptableWizard.DisplayWizard]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DisplayWizard.<T>(title, createButtonName)]]></description>
+	<description><![CDATA[*.<T>(title, createButtonName)]]></description>
 </snippet>

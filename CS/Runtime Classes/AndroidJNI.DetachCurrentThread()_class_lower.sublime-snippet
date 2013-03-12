@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.DetachCurrentThread();]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.DetachCurrentThread]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DetachCurrentThread()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

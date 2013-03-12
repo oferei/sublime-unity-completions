@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.GetIconSize();]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.GetIconSize]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetIconSize()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

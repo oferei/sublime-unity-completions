@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScriptableObject.CreateInstance.<${1:T}>();]]></content>
-	<tabTrigger><![CDATA[scriptableObject]]></tabTrigger>
+	<tabTrigger><![CDATA[scriptableObject.CreateInstance]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CreateInstance.<T>()]]></description>
+	<description><![CDATA[*.<T>()]]></description>
 </snippet>

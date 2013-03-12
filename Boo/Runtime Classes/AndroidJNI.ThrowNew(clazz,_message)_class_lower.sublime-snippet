@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ThrowNew(${1:clazz as IntPtr}, ${2:message as string})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.ThrowNew]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ThrowNew(clazz, message)]]></description>
+	<description><![CDATA[*(clazz, message)]]></description>
 </snippet>

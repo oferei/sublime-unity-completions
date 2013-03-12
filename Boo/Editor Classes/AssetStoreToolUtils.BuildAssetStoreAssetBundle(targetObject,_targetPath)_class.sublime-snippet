@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetStoreToolUtils.BuildAssetStoreAssetBundle(${1:targetObject as Object}, ${2:targetPath as string})]]></content>
-	<tabTrigger><![CDATA[AssetStoreToolUtils]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetStoreToolUtils.BuildAssetStoreAssetBundle]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.BuildAssetStoreAssetBundle(targetObject, targetPath)]]></description>
+	<description><![CDATA[*(targetObject, targetPath)]]></description>
 </snippet>

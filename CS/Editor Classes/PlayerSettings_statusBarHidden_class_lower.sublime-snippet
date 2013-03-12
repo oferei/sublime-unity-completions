@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.statusBarHidden]]></content>
-	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.statusBarHidden]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.statusBarHidden]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

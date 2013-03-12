@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.iOS.sdkVersion]]></content>
-	<tabTrigger><![CDATA[PlayerSettings.iOS]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.iOS.sdkVersion]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.sdkVersion]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

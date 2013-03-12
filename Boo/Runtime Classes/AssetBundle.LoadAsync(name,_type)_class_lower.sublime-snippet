@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetBundle.LoadAsync(${1:name as string}, ${2:type as Type})]]></content>
-	<tabTrigger><![CDATA[assetBundle]]></tabTrigger>
+	<tabTrigger><![CDATA[assetBundle.LoadAsync]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.LoadAsync(name, type)]]></description>
+	<description><![CDATA[*(name, type)]]></description>
 </snippet>

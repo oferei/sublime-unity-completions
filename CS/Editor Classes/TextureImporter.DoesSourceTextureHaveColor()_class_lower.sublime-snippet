@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TextureImporter.DoesSourceTextureHaveColor();]]></content>
-	<tabTrigger><![CDATA[textureImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[textureImporter.DoesSourceTextureHaveColor]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DoesSourceTextureHaveColor()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

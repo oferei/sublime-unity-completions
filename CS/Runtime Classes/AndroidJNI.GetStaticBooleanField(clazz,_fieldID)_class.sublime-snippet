@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.GetStaticBooleanField(${1:IntPtr clazz}, ${2:IntPtr fieldID});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.GetStaticBooleanField]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetStaticBooleanField(clazz, fieldID)]]></description>
+	<description><![CDATA[*(clazz, fieldID)]]></description>
 </snippet>

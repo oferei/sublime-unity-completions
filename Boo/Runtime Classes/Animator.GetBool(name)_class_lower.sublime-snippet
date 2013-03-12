@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.GetBool(${1:name as string})]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.GetBool]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetBool(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.FindClass(${1:name : String});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.FindClass]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.FindClass(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

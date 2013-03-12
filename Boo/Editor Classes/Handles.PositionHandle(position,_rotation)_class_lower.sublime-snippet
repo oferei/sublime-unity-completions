@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.PositionHandle(${1:position as Vector3}, ${2:rotation as Quaternion})]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.PositionHandle]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.PositionHandle(position, rotation)]]></description>
+	<description><![CDATA[*(position, rotation)]]></description>
 </snippet>

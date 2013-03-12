@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.SetSendingEnabled(${1:group : int}, ${2:enabled : boolean});]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.SetSendingEnabled]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetSendingEnabled(group, enabled)]]></description>
+	<description><![CDATA[*(group, enabled)]]></description>
 </snippet>

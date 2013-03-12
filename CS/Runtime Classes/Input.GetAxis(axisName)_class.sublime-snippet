@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetAxis(${1:string axisName});]]></content>
-	<tabTrigger><![CDATA[Input]]></tabTrigger>
+	<tabTrigger><![CDATA[Input.GetAxis]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetAxis(axisName)]]></description>
+	<description><![CDATA[*(axisName)]]></description>
 </snippet>

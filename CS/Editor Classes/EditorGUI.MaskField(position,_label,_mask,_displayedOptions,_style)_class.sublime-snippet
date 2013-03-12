@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.MaskField(${1:Rect position}, ${2:string label}, ${3:int mask}, ${4:string[] displayedOptions}, ${5:GUIStyle style = EditorStyles.popup});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.MaskField]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.MaskField(position, label, mask, displayedOptions, style)]]></description>
+	<description><![CDATA[*(position, label, mask, displayedOptions, style)]]></description>
 </snippet>

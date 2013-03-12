@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabUtility.ResetToPrefabState(${1:obj : Object});]]></content>
-	<tabTrigger><![CDATA[prefabUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[prefabUtility.ResetToPrefabState]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ResetToPrefabState(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

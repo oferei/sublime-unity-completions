@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.GetBuiltinSkin(${1:EditorSkin skin});]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.GetBuiltinSkin]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetBuiltinSkin(skin)]]></description>
+	<description><![CDATA[*(skin)]]></description>
 </snippet>

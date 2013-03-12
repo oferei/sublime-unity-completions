@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.EndChangeCheck();]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.EndChangeCheck]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.EndChangeCheck()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

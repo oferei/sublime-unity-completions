@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.InstanceIDToObject(${1:instanceID as int})]]></content>
-	<tabTrigger><![CDATA[EditorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorUtility.InstanceIDToObject]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.InstanceIDToObject(instanceID)]]></description>
+	<description><![CDATA[*(instanceID)]]></description>
 </snippet>

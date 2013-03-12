@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.PickRectObjects(${1:rect : Rect});]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.PickRectObjects]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.PickRectObjects(rect)]]></description>
+	<description><![CDATA[*(rect)]]></description>
 </snippet>

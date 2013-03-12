@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.Dispose();]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.Dispose]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Dispose()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

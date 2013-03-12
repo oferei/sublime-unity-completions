@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.SetIntField(${1:obj as IntPtr}, ${2:fieldID as IntPtr}, ${3:val as Int32})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.SetIntField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetIntField(obj, fieldID, val)]]></description>
+	<description><![CDATA[*(obj, fieldID, val)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Event.functionKey]]></content>
-	<tabTrigger><![CDATA[event]]></tabTrigger>
+	<tabTrigger><![CDATA[event.functionKey]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.functionKey]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

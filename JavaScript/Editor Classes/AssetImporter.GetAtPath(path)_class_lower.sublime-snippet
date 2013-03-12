@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetImporter.GetAtPath(${1:path : String});]]></content>
-	<tabTrigger><![CDATA[assetImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[assetImporter.GetAtPath]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetAtPath(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

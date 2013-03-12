@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WebCamTexture.GetPixels();]]></content>
-	<tabTrigger><![CDATA[webCamTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[webCamTexture.GetPixels]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetPixels()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

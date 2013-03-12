@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.SnapValue(${1:val as single}, ${2:snap as single})]]></content>
-	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<tabTrigger><![CDATA[Handles.SnapValue]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SnapValue(val, snap)]]></description>
+	<description><![CDATA[*(val, snap)]]></description>
 </snippet>

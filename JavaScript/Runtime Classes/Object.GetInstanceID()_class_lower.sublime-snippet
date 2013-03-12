@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Object.GetInstanceID();]]></content>
-	<tabTrigger><![CDATA[object]]></tabTrigger>
+	<tabTrigger><![CDATA[object.GetInstanceID]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetInstanceID()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

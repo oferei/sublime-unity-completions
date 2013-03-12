@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.GetFloat(${1:name : String});]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.GetFloat]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetFloat(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

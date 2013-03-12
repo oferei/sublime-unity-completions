@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabUtility.IsComponentAddedToPrefabInstance(${1:source : Object});]]></content>
-	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[PrefabUtility.IsComponentAddedToPrefabInstance]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.IsComponentAddedToPrefabInstance(source)]]></description>
+	<description><![CDATA[*(source)]]></description>
 </snippet>

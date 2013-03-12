@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MovieTexture.isPlaying]]></content>
-	<tabTrigger><![CDATA[movieTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[movieTexture.isPlaying]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.isPlaying]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

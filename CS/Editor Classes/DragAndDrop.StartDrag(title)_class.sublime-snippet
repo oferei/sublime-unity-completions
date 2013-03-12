@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DragAndDrop.StartDrag(${1:string title});]]></content>
-	<tabTrigger><![CDATA[DragAndDrop]]></tabTrigger>
+	<tabTrigger><![CDATA[DragAndDrop.StartDrag]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.StartDrag(title)]]></description>
+	<description><![CDATA[*(title)]]></description>
 </snippet>

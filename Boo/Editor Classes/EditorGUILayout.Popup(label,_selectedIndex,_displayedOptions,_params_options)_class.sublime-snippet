@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.Popup(${1:label as GUIContent}, ${2:selectedIndex as int}, ${3:displayedOptions as (GUIContent)}, ${4:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUILayout.Popup]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Popup(label, selectedIndex, displayedOptions, params options)]]></description>
+	<description><![CDATA[*(label, selectedIndex, displayedOptions, params options)]]></description>
 </snippet>

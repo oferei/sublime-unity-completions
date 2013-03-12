@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.GetWindow.<${1:T}>();]]></content>
-	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorWindow.GetWindow]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetWindow.<T>()]]></description>
+	<description><![CDATA[*.<T>()]]></description>
 </snippet>

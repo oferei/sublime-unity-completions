@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Shader.SetGlobalTexture(${1:propertyName : String}, ${2:tex : Texture});]]></content>
-	<tabTrigger><![CDATA[shader]]></tabTrigger>
+	<tabTrigger><![CDATA[shader.SetGlobalTexture]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetGlobalTexture(propertyName, tex)]]></description>
+	<description><![CDATA[*(propertyName, tex)]]></description>
 </snippet>

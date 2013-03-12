@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.Load(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[EditorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUIUtility.Load]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Load(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

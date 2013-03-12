@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gradient.Evaluate(${1:float time});]]></content>
-	<tabTrigger><![CDATA[gradient]]></tabTrigger>
+	<tabTrigger><![CDATA[gradient.Evaluate]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Evaluate(time)]]></description>
+	<description><![CDATA[*(time)]]></description>
 </snippet>

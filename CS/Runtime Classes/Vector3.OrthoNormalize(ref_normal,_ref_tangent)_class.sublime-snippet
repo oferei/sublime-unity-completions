@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector3.OrthoNormalize(${1:Vector3 ref normal}, ${2:Vector3 ref tangent});]]></content>
-	<tabTrigger><![CDATA[Vector3]]></tabTrigger>
+	<tabTrigger><![CDATA[Vector3.OrthoNormalize]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OrthoNormalize(ref normal, ref tangent)]]></description>
+	<description><![CDATA[*(ref normal, ref tangent)]]></description>
 </snippet>

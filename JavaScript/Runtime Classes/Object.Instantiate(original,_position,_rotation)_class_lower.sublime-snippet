@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Object.Instantiate(${1:original : Object}, ${2:position : Vector3}, ${3:rotation : Quaternion});]]></content>
-	<tabTrigger><![CDATA[object]]></tabTrigger>
+	<tabTrigger><![CDATA[object.Instantiate]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Instantiate(original, position, rotation)]]></description>
+	<description><![CDATA[*(original, position, rotation)]]></description>
 </snippet>

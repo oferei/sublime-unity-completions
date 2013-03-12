@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.CanStreamedLevelBeLoaded(${1:levelName : String});]]></content>
-	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<tabTrigger><![CDATA[application.CanStreamedLevelBeLoaded]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CanStreamedLevelBeLoaded(levelName)]]></description>
+	<description><![CDATA[*(levelName)]]></description>
 </snippet>

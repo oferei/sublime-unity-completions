@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.DisplayDialogComplex(${1:title : String}, ${2:message : String}, ${3:ok : String}, ${4:cancel : String}, ${5:alt : String});]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.DisplayDialogComplex]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DisplayDialogComplex(title, message, ok, cancel, alt)]]></description>
+	<description><![CDATA[*(title, message, ok, cancel, alt)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.ShowPopup();]]></content>
-	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorWindow.ShowPopup]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ShowPopup()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

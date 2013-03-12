@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.GammaToLinearSpace(${1:value as single})]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.GammaToLinearSpace]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GammaToLinearSpace(value)]]></description>
+	<description><![CDATA[*(value)]]></description>
 </snippet>

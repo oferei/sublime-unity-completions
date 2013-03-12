@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TerrainData.SetAlphamaps(${1:int x}, ${2:int y}, ${3:float[,,] map});]]></content>
-	<tabTrigger><![CDATA[terrainData]]></tabTrigger>
+	<tabTrigger><![CDATA[terrainData.SetAlphamaps]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetAlphamaps(x, y, map)]]></description>
+	<description><![CDATA[*(x, y, map)]]></description>
 </snippet>

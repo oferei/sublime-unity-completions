@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServerEvent.HostListReceived]]></content>
-	<tabTrigger><![CDATA[MasterServerEvent]]></tabTrigger>
+	<tabTrigger><![CDATA[MasterServerEvent.HostListReceived]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.HostListReceived]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

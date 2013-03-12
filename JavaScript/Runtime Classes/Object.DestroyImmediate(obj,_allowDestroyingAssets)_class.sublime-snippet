@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Object.DestroyImmediate(${1:obj : Object}, ${2:allowDestroyingAssets : boolean = false});]]></content>
-	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<tabTrigger><![CDATA[Object.DestroyImmediate]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DestroyImmediate(obj, allowDestroyingAssets)]]></description>
+	<description><![CDATA[*(obj, allowDestroyingAssets)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.SetLookAtWeight(${1:float weight}, ${2:float bodyWeight = 0.00f}, ${3:float headWeight = 1.00f}, ${4:float eyesWeight = 0.00f}, ${5:float clampWeight = 0.50f});]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.SetLookAtWeight]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetLookAtWeight(weight, bodyWeight, headWeight, eyesWeight, clampWeight)]]></description>
+	<description><![CDATA[*(weight, bodyWeight, headWeight, eyesWeight, clampWeight)]]></description>
 </snippet>

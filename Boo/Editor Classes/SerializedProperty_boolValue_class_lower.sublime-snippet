@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.boolValue]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.boolValue]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.boolValue]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

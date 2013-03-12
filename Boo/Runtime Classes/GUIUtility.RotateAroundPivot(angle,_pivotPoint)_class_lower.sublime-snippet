@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIUtility.RotateAroundPivot(${1:angle as single}, ${2:pivotPoint as Vector2})]]></content>
-	<tabTrigger><![CDATA[gUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[gUIUtility.RotateAroundPivot]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RotateAroundPivot(angle, pivotPoint)]]></description>
+	<description><![CDATA[*(angle, pivotPoint)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.isPaused]]></content>
-	<tabTrigger><![CDATA[editorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[editorApplication.isPaused]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.isPaused]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.RenderToCubemap(${1:RenderTexture cubemap}, ${2:int faceMask = 63});]]></content>
-	<tabTrigger><![CDATA[Camera]]></tabTrigger>
+	<tabTrigger><![CDATA[Camera.RenderToCubemap]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RenderToCubemap(cubemap, faceMask)]]></description>
+	<description><![CDATA[*(cubemap, faceMask)]]></description>
 </snippet>

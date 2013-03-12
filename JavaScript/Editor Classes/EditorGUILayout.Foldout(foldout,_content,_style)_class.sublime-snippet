@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.Foldout(${1:foldout : boolean}, ${2:content : GUIContent}, ${3:style : GUIStyle = EditorStyles.foldout});]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUILayout.Foldout]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Foldout(foldout, content, style)]]></description>
+	<description><![CDATA[*(foldout, content, style)]]></description>
 </snippet>

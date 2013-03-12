@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshAgent.GetLayerCost(${1:layer as int})]]></content>
-	<tabTrigger><![CDATA[NavMeshAgent]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshAgent.GetLayerCost]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetLayerCost(layer)]]></description>
+	<description><![CDATA[*(layer)]]></description>
 </snippet>

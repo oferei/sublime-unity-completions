@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Component.GetComponent.<${1:T}>();]]></content>
-	<tabTrigger><![CDATA[component]]></tabTrigger>
+	<tabTrigger><![CDATA[component.GetComponent]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetComponent.<T>()]]></description>
+	<description><![CDATA[*.<T>()]]></description>
 </snippet>

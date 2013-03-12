@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.DrawDefaultInspector();]]></content>
-	<tabTrigger><![CDATA[Editor]]></tabTrigger>
+	<tabTrigger><![CDATA[Editor.DrawDefaultInspector]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DrawDefaultInspector()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

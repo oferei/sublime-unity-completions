@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewObject(${1:clazz as IntPtr}, ${2:methodID as IntPtr}, ${3:args as (jvalue)})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.NewObject]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.NewObject(clazz, methodID, args)]]></description>
+	<description><![CDATA[*(clazz, methodID, args)]]></description>
 </snippet>

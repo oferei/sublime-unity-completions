@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.RemoveClip(${1:clip as AnimationClip})]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.RemoveClip]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RemoveClip(clip)]]></description>
+	<description><![CDATA[*(clip)]]></description>
 </snippet>

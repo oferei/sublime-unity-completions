@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.Label(${1:GUIContent content}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options});]]></content>
-	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[GUILayout.Label]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Label(content, style, params options)]]></description>
+	<description><![CDATA[*(content, style, params options)]]></description>
 </snippet>

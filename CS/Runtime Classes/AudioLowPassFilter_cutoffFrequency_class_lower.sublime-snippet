@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioLowPassFilter.cutoffFrequency]]></content>
-	<tabTrigger><![CDATA[audioLowPassFilter]]></tabTrigger>
+	<tabTrigger><![CDATA[audioLowPassFilter.cutoffFrequency]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.cutoffFrequency]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

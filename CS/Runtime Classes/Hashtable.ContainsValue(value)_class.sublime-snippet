@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Hashtable.ContainsValue(${1:object value});]]></content>
-	<tabTrigger><![CDATA[Hashtable]]></tabTrigger>
+	<tabTrigger><![CDATA[Hashtable.ContainsValue]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ContainsValue(value)]]></description>
+	<description><![CDATA[*(value)]]></description>
 </snippet>

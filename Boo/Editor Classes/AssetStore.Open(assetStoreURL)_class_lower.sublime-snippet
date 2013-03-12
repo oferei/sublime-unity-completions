@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetStore.Open(${1:assetStoreURL as string})]]></content>
-	<tabTrigger><![CDATA[assetStore]]></tabTrigger>
+	<tabTrigger><![CDATA[assetStore.Open]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Open(assetStoreURL)]]></description>
+	<description><![CDATA[*(assetStoreURL)]]></description>
 </snippet>

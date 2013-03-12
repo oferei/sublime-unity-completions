@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.VerticalScrollbar(${1:position as Rect}, ${2:value as single}, ${3:size as single}, ${4:topValue as single}, ${5:bottomValue as single})]]></content>
-	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<tabTrigger><![CDATA[GUI.VerticalScrollbar]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.VerticalScrollbar(position, value, size, topValue, bottomValue)]]></description>
+	<description><![CDATA[*(position, value, size, topValue, bottomValue)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedObject.ApplyModifiedProperties();]]></content>
-	<tabTrigger><![CDATA[SerializedObject]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedObject.ApplyModifiedProperties]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ApplyModifiedProperties()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

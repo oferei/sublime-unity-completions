@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Plane.SetNormalAndPosition(${1:Vector3 inNormal}, ${2:Vector3 inPoint});]]></content>
-	<tabTrigger><![CDATA[plane]]></tabTrigger>
+	<tabTrigger><![CDATA[plane.SetNormalAndPosition]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetNormalAndPosition(inNormal, inPoint)]]></description>
+	<description><![CDATA[*(inNormal, inPoint)]]></description>
 </snippet>

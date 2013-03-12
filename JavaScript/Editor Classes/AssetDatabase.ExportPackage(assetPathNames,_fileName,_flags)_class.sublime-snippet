@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.ExportPackage(${1:assetPathNames : string[]}, ${2:fileName : String}, ${3:flags : ExportPackageOptions = ExportPackageOptions.Default});]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.ExportPackage]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ExportPackage(assetPathNames, fileName, flags)]]></description>
+	<description><![CDATA[*(assetPathNames, fileName, flags)]]></description>
 </snippet>

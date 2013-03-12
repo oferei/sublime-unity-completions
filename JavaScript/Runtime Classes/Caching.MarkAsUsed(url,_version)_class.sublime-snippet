@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Caching.MarkAsUsed(${1:url : String}, ${2:version : int});]]></content>
-	<tabTrigger><![CDATA[Caching]]></tabTrigger>
+	<tabTrigger><![CDATA[Caching.MarkAsUsed]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.MarkAsUsed(url, version)]]></description>
+	<description><![CDATA[*(url, version)]]></description>
 </snippet>

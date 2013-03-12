@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Matrix4x4.Perspective(${1:fov as single}, ${2:aspect as single}, ${3:zNear as single}, ${4:zFar as single})]]></content>
-	<tabTrigger><![CDATA[matrix4x4]]></tabTrigger>
+	<tabTrigger><![CDATA[matrix4x4.Perspective]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Perspective(fov, aspect, zNear, zFar)]]></description>
+	<description><![CDATA[*(fov, aspect, zNear, zFar)]]></description>
 </snippet>

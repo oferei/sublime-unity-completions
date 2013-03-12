@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedObject.Update()]]></content>
-	<tabTrigger><![CDATA[serializedObject]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedObject.Update]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Update()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

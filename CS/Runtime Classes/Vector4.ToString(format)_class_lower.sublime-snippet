@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector4.ToString(${1:string format});]]></content>
-	<tabTrigger><![CDATA[vector4]]></tabTrigger>
+	<tabTrigger><![CDATA[vector4.ToString]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ToString(format)]]></description>
+	<description><![CDATA[*(format)]]></description>
 </snippet>

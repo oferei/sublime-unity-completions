@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MeshFilter.sharedMesh]]></content>
-	<tabTrigger><![CDATA[meshFilter]]></tabTrigger>
+	<tabTrigger><![CDATA[meshFilter.sharedMesh]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.sharedMesh]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

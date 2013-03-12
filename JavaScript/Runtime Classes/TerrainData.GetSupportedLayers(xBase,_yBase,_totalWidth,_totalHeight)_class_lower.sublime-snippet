@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TerrainData.GetSupportedLayers(${1:xBase : int}, ${2:yBase : int}, ${3:totalWidth : int}, ${4:totalHeight : int});]]></content>
-	<tabTrigger><![CDATA[terrainData]]></tabTrigger>
+	<tabTrigger><![CDATA[terrainData.GetSupportedLayers]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetSupportedLayers(xBase, yBase, totalWidth, totalHeight)]]></description>
+	<description><![CDATA[*(xBase, yBase, totalWidth, totalHeight)]]></description>
 </snippet>

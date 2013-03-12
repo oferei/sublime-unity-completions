@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.OpenAsset(${1:instanceID as int}, ${2:lineNumber as int = -1})]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.OpenAsset]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OpenAsset(instanceID, lineNumber)]]></description>
+	<description><![CDATA[*(instanceID, lineNumber)]]></description>
 </snippet>

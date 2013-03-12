@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioSource.Pause();]]></content>
-	<tabTrigger><![CDATA[audioSource]]></tabTrigger>
+	<tabTrigger><![CDATA[audioSource.Pause]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Pause()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

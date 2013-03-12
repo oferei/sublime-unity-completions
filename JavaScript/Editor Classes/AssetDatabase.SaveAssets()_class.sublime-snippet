@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.SaveAssets();]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.SaveAssets]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SaveAssets()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.DistancePointLine(${1:Vector3 point}, ${2:Vector3 lineStart}, ${3:Vector3 lineEnd});]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.DistancePointLine]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DistancePointLine(point, lineStart, lineEnd)]]></description>
+	<description><![CDATA[*(point, lineStart, lineEnd)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.DeleteGlobalRef(${1:obj as IntPtr})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.DeleteGlobalRef]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DeleteGlobalRef(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

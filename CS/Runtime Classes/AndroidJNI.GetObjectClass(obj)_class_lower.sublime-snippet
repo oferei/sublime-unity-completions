@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.GetObjectClass(${1:IntPtr obj});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.GetObjectClass]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetObjectClass(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

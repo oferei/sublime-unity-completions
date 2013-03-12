@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.LookAt(${1:Vector3 worldPosition}, ${2:Vector3 worldUp = Vector3.up});]]></content>
-	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<tabTrigger><![CDATA[transform.LookAt]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LookAt(worldPosition, worldUp)]]></description>
+	<description><![CDATA[*(worldPosition, worldUp)]]></description>
 </snippet>

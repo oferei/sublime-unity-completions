@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioClip.GetData(${1:data as (single)}, ${2:offsetSamples as int})]]></content>
-	<tabTrigger><![CDATA[AudioClip]]></tabTrigger>
+	<tabTrigger><![CDATA[AudioClip.GetData]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetData(data, offsetSamples)]]></description>
+	<description><![CDATA[*(data, offsetSamples)]]></description>
 </snippet>

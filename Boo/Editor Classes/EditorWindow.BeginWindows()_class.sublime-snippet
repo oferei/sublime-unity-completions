@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.BeginWindows()]]></content>
-	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorWindow.BeginWindows]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.BeginWindows()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

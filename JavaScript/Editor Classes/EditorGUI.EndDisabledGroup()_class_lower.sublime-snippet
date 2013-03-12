@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.EndDisabledGroup();]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.EndDisabledGroup]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.EndDisabledGroup()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

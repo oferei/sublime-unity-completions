@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.Viewport(${1:pixelRect as Rect})]]></content>
-	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<tabTrigger><![CDATA[GL.Viewport]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Viewport(pixelRect)]]></description>
+	<description><![CDATA[*(pixelRect)]]></description>
 </snippet>

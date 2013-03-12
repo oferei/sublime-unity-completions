@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.ColorField(${1:Rect position}, ${2:GUIContent label}, ${3:Color value});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.ColorField]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ColorField(position, label, value)]]></description>
+	<description><![CDATA[*(position, label, value)]]></description>
 </snippet>

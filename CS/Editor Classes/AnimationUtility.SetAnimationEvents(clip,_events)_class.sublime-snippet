@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationUtility.SetAnimationEvents(${1:AnimationClip clip}, ${2:AnimationEvent[] events});]]></content>
-	<tabTrigger><![CDATA[AnimationUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[AnimationUtility.SetAnimationEvents]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetAnimationEvents(clip, events)]]></description>
+	<description><![CDATA[*(clip, events)]]></description>
 </snippet>

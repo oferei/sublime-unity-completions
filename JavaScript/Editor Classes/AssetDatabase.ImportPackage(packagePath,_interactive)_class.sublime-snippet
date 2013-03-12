@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.ImportPackage(${1:packagePath : String}, ${2:interactive : boolean});]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.ImportPackage]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ImportPackage(packagePath, interactive)]]></description>
+	<description><![CDATA[*(packagePath, interactive)]]></description>
 </snippet>

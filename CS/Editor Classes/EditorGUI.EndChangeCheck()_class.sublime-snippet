@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.EndChangeCheck();]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.EndChangeCheck]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.EndChangeCheck()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

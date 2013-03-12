@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.GetArrayLength(${1:IntPtr array});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.GetArrayLength]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetArrayLength(array)]]></description>
+	<description><![CDATA[*(array)]]></description>
 </snippet>

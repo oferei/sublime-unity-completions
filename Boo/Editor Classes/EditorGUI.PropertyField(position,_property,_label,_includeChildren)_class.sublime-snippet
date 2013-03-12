@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.PropertyField(${1:position as Rect}, ${2:property as SerializedProperty}, ${3:label as GUIContent}, ${4:includeChildren as bool = false})]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.PropertyField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.PropertyField(position, property, label, includeChildren)]]></description>
+	<description><![CDATA[*(position, property, label, includeChildren)]]></description>
 </snippet>

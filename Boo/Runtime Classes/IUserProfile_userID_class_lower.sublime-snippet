@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[IUserProfile.userID]]></content>
-	<tabTrigger><![CDATA[iUserProfile]]></tabTrigger>
+	<tabTrigger><![CDATA[iUserProfile.userID]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.userID]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

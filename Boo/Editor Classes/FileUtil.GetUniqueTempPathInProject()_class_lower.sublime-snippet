@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[FileUtil.GetUniqueTempPathInProject()]]></content>
-	<tabTrigger><![CDATA[fileUtil]]></tabTrigger>
+	<tabTrigger><![CDATA[fileUtil.GetUniqueTempPathInProject]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetUniqueTempPathInProject()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

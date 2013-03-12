@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallBooleanMethod(${1:obj : IntPtr}, ${2:methodID : IntPtr}, ${3:args : jvalue[]});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallBooleanMethod]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CallBooleanMethod(obj, methodID, args)]]></description>
+	<description><![CDATA[*(obj, methodID, args)]]></description>
 </snippet>

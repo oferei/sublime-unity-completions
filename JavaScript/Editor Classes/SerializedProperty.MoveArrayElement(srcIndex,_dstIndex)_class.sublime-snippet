@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.MoveArrayElement(${1:srcIndex : int}, ${2:dstIndex : int});]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.MoveArrayElement]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.MoveArrayElement(srcIndex, dstIndex)]]></description>
+	<description><![CDATA[*(srcIndex, dstIndex)]]></description>
 </snippet>

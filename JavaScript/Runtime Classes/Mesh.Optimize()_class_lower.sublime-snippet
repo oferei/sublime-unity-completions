@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.Optimize();]]></content>
-	<tabTrigger><![CDATA[mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[mesh.Optimize]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Optimize()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

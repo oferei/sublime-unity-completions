@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.Toggle(${1:position as Rect}, ${2:value as bool}, ${3:style as GUIStyle})]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.Toggle]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Toggle(position, value, style)]]></description>
+	<description><![CDATA[*(position, value, style)]]></description>
 </snippet>

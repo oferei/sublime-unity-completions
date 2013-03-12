@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Material.GetMatrix(${1:propertyName : String});]]></content>
-	<tabTrigger><![CDATA[material]]></tabTrigger>
+	<tabTrigger><![CDATA[material.GetMatrix]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetMatrix(propertyName)]]></description>
+	<description><![CDATA[*(propertyName)]]></description>
 </snippet>

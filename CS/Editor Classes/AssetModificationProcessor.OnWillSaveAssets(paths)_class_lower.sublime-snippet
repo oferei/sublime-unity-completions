@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetModificationProcessor.OnWillSaveAssets(${1:string[] paths});]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetModificationProcessor.OnWillSaveAssets]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnWillSaveAssets(paths)]]></description>
+	<description><![CDATA[*(paths)]]></description>
 </snippet>

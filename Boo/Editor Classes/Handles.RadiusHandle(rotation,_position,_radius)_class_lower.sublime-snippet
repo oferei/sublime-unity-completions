@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.RadiusHandle(${1:rotation as Quaternion}, ${2:position as Vector3}, ${3:radius as single})]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.RadiusHandle]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RadiusHandle(rotation, position, radius)]]></description>
+	<description><![CDATA[*(rotation, position, radius)]]></description>
 </snippet>

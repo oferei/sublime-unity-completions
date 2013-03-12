@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ProceduralTexture.GetProceduralOutputType();]]></content>
-	<tabTrigger><![CDATA[proceduralTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[proceduralTexture.GetProceduralOutputType]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetProceduralOutputType()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

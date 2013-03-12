@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SubstanceImporter.InstantiateMaterial(${1:prototypeName as string})]]></content>
-	<tabTrigger><![CDATA[SubstanceImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[SubstanceImporter.InstantiateMaterial]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.InstantiateMaterial(prototypeName)]]></description>
+	<description><![CDATA[*(prototypeName)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.DrawWireArc(${1:center as Vector3}, ${2:normal as Vector3}, ${3:from as Vector3}, ${4:angle as single}, ${5:radius as single})]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.DrawWireArc]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawWireArc(center, normal, from, angle, radius)]]></description>
+	<description><![CDATA[*(center, normal, from, angle, radius)]]></description>
 </snippet>

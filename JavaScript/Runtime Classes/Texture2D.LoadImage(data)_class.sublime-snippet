@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Texture2D.LoadImage(${1:data : byte[]});]]></content>
-	<tabTrigger><![CDATA[Texture2D]]></tabTrigger>
+	<tabTrigger><![CDATA[Texture2D.LoadImage]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LoadImage(data)]]></description>
+	<description><![CDATA[*(data)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnWillRenderObject();]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.OnWillRenderObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnWillRenderObject()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

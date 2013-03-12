@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[JointMotor.targetVelocity]]></content>
-	<tabTrigger><![CDATA[jointMotor]]></tabTrigger>
+	<tabTrigger><![CDATA[jointMotor.targetVelocity]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.targetVelocity]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

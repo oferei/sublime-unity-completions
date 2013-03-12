@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnPreCull()]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.OnPreCull]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OnPreCull()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

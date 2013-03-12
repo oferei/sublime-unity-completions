@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.Copy();]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.Copy]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Copy()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

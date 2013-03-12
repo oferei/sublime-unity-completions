@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.CopyAsset(${1:path as string}, ${2:newPath as string})]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.CopyAsset]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CopyAsset(path, newPath)]]></description>
+	<description><![CDATA[*(path, newPath)]]></description>
 </snippet>

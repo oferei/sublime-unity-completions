@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DragAndDrop.AcceptDrag();]]></content>
-	<tabTrigger><![CDATA[DragAndDrop]]></tabTrigger>
+	<tabTrigger><![CDATA[DragAndDrop.AcceptDrag]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.AcceptDrag()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

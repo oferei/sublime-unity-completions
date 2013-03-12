@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RenderTexture.DiscardContents()]]></content>
-	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[renderTexture.DiscardContents]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DiscardContents()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

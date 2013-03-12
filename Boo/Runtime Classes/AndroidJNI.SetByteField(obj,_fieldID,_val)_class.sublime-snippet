@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.SetByteField(${1:obj as IntPtr}, ${2:fieldID as IntPtr}, ${3:val as Byte})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.SetByteField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetByteField(obj, fieldID, val)]]></description>
+	<description><![CDATA[*(obj, fieldID, val)]]></description>
 </snippet>

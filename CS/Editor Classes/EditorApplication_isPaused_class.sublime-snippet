@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.isPaused]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.isPaused]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.isPaused]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

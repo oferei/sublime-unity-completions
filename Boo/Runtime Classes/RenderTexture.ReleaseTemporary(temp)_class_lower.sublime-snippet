@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RenderTexture.ReleaseTemporary(${1:temp as RenderTexture})]]></content>
-	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[renderTexture.ReleaseTemporary]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ReleaseTemporary(temp)]]></description>
+	<description><![CDATA[*(temp)]]></description>
 </snippet>

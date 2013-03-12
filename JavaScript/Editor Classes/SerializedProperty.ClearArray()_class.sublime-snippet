@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.ClearArray();]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.ClearArray]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ClearArray()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

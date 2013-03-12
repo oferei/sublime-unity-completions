@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServerEvent.RegistrationFailedGameName]]></content>
-	<tabTrigger><![CDATA[masterServerEvent]]></tabTrigger>
+	<tabTrigger><![CDATA[masterServerEvent.RegistrationFailedGameName]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RegistrationFailedGameName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

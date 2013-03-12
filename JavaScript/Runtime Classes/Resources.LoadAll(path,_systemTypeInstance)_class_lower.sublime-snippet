@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Resources.LoadAll(${1:path : String}, ${2:systemTypeInstance : Type});]]></content>
-	<tabTrigger><![CDATA[resources]]></tabTrigger>
+	<tabTrigger><![CDATA[resources.LoadAll]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LoadAll(path, systemTypeInstance)]]></description>
+	<description><![CDATA[*(path, systemTypeInstance)]]></description>
 </snippet>

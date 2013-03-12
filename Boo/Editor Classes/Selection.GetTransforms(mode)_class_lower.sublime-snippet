@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.GetTransforms(${1:mode as SelectionMode})]]></content>
-	<tabTrigger><![CDATA[selection]]></tabTrigger>
+	<tabTrigger><![CDATA[selection.GetTransforms]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetTransforms(mode)]]></description>
+	<description><![CDATA[*(mode)]]></description>
 </snippet>

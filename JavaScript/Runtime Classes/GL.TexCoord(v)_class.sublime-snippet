@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.TexCoord(${1:v : Vector3});]]></content>
-	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<tabTrigger><![CDATA[GL.TexCoord]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.TexCoord(v)]]></description>
+	<description><![CDATA[*(v)]]></description>
 </snippet>

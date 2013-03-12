@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MaterialPropertyBlock.AddMatrix(${1:name : String}, ${2:value : Matrix4x4});]]></content>
-	<tabTrigger><![CDATA[materialPropertyBlock]]></tabTrigger>
+	<tabTrigger><![CDATA[materialPropertyBlock.AddMatrix]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.AddMatrix(name, value)]]></description>
+	<description><![CDATA[*(name, value)]]></description>
 </snippet>

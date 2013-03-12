@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DragAndDrop.PrepareStartDrag();]]></content>
-	<tabTrigger><![CDATA[DragAndDrop]]></tabTrigger>
+	<tabTrigger><![CDATA[DragAndDrop.PrepareStartDrag]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.PrepareStartDrag()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.HavePublicAddress()]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.HavePublicAddress]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.HavePublicAddress()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

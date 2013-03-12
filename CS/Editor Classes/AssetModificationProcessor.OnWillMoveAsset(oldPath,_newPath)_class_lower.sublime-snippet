@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetModificationProcessor.OnWillMoveAsset(${1:string oldPath}, ${2:string newPath});]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetModificationProcessor.OnWillMoveAsset]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnWillMoveAsset(oldPath, newPath)]]></description>
+	<description><![CDATA[*(oldPath, newPath)]]></description>
 </snippet>

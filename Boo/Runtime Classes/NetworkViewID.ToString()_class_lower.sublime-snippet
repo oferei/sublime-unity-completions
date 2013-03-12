@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NetworkViewID.ToString()]]></content>
-	<tabTrigger><![CDATA[networkViewID]]></tabTrigger>
+	<tabTrigger><![CDATA[networkViewID.ToString]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ToString()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

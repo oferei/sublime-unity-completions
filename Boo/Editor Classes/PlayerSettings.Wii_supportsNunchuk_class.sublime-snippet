@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.Wii.supportsNunchuk]]></content>
-	<tabTrigger><![CDATA[PlayerSettings.Wii]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.Wii.supportsNunchuk]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.supportsNunchuk]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

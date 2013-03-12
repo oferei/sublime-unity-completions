@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Undo.RegisterSnapshot();]]></content>
-	<tabTrigger><![CDATA[Undo]]></tabTrigger>
+	<tabTrigger><![CDATA[Undo.RegisterSnapshot]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RegisterSnapshot()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

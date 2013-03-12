@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.LoadLevel(${1:name : String});]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.LoadLevel]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LoadLevel(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

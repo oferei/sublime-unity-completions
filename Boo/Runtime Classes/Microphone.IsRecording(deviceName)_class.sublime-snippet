@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Microphone.IsRecording(${1:deviceName as string})]]></content>
-	<tabTrigger><![CDATA[Microphone]]></tabTrigger>
+	<tabTrigger><![CDATA[Microphone.IsRecording]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.IsRecording(deviceName)]]></description>
+	<description><![CDATA[*(deviceName)]]></description>
 </snippet>

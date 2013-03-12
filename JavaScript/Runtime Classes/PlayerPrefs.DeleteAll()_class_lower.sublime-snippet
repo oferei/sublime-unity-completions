@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerPrefs.DeleteAll();]]></content>
-	<tabTrigger><![CDATA[playerPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[playerPrefs.DeleteAll]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DeleteAll()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

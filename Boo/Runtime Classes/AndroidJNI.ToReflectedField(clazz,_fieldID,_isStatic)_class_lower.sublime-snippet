@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ToReflectedField(${1:clazz as IntPtr}, ${2:fieldID as IntPtr}, ${3:isStatic as bool})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.ToReflectedField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ToReflectedField(clazz, fieldID, isStatic)]]></description>
+	<description><![CDATA[*(clazz, fieldID, isStatic)]]></description>
 </snippet>

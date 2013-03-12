@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WWW.EscapeURL(${1:s : String}, ${2:e : Encoding = System.Text.Encoding.UTF8});]]></content>
-	<tabTrigger><![CDATA[WWW]]></tabTrigger>
+	<tabTrigger><![CDATA[WWW.EscapeURL]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.EscapeURL(s, e)]]></description>
+	<description><![CDATA[*(s, e)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Bounds.Contains(${1:point as Vector3})]]></content>
-	<tabTrigger><![CDATA[Bounds]]></tabTrigger>
+	<tabTrigger><![CDATA[Bounds.Contains]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Contains(point)]]></description>
+	<description><![CDATA[*(point)]]></description>
 </snippet>

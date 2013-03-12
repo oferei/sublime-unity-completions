@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJavaObject.CallStatic<${1:ReturnType}>(${2:string methodName}, ${3:object[] params args});]]></content>
-	<tabTrigger><![CDATA[AndroidJavaObject]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJavaObject.CallStatic]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.CallStatic<ReturnType>(methodName, params args)]]></description>
+	<description><![CDATA[*<ReturnType>(methodName, params args)]]></description>
 </snippet>

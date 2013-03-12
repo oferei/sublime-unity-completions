@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.activeInstanceID]]></content>
-	<tabTrigger><![CDATA[Selection]]></tabTrigger>
+	<tabTrigger><![CDATA[Selection.activeInstanceID]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.activeInstanceID]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

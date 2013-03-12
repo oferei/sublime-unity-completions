@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.HasAspectRatio(${1:aspectRatio as AspectRatio})]]></content>
-	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.HasAspectRatio]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.HasAspectRatio(aspectRatio)]]></description>
+	<description><![CDATA[*(aspectRatio)]]></description>
 </snippet>

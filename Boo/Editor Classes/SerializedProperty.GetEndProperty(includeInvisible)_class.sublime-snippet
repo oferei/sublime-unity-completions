@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.GetEndProperty(${1:includeInvisible as bool = false})]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.GetEndProperty]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetEndProperty(includeInvisible)]]></description>
+	<description><![CDATA[*(includeInvisible)]]></description>
 </snippet>

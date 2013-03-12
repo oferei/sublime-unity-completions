@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshAgent.Resume();]]></content>
-	<tabTrigger><![CDATA[NavMeshAgent]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshAgent.Resume]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Resume()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

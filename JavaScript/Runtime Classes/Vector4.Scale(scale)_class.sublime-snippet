@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector4.Scale(${1:scale : Vector4});]]></content>
-	<tabTrigger><![CDATA[Vector4]]></tabTrigger>
+	<tabTrigger><![CDATA[Vector4.Scale]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Scale(scale)]]></description>
+	<description><![CDATA[*(scale)]]></description>
 </snippet>

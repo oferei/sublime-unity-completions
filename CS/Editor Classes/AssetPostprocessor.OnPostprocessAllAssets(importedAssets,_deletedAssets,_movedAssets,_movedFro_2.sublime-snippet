@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPostprocessor.OnPostprocessAllAssets(${1:string[] importedAssets}, ${2:string[] deletedAssets}, ${3:string[] movedAssets}, ${4:string[] movedFromPath});]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAllAssets]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnPostprocessAllAssets(importedAssets, deletedAssets, movedAssets, movedFromPath)]]></description>
+	<description><![CDATA[*(importedAssets, deletedAssets, movedAssets, movedFromPath)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.Color(${1:c as Color})]]></content>
-	<tabTrigger><![CDATA[gL]]></tabTrigger>
+	<tabTrigger><![CDATA[gL.Color]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Color(c)]]></description>
+	<description><![CDATA[*(c)]]></description>
 </snippet>

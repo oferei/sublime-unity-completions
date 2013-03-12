@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.EnumPopup(${1:label : GUIContent}, ${2:selected : System.Enum}, ${3:params options : GUILayoutOption[]});]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUILayout.EnumPopup]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.EnumPopup(label, selected, params options)]]></description>
+	<description><![CDATA[*(label, selected, params options)]]></description>
 </snippet>

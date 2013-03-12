@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.WriteImportSettingsIfDirty(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.WriteImportSettingsIfDirty]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.WriteImportSettingsIfDirty(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

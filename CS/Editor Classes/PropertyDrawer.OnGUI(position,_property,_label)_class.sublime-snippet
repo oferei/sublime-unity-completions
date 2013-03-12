@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PropertyDrawer.OnGUI(${1:Rect position}, ${2:SerializedProperty property}, ${3:GUIContent label});]]></content>
-	<tabTrigger><![CDATA[PropertyDrawer]]></tabTrigger>
+	<tabTrigger><![CDATA[PropertyDrawer.OnGUI]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnGUI(position, property, label)]]></description>
+	<description><![CDATA[*(position, property, label)]]></description>
 </snippet>

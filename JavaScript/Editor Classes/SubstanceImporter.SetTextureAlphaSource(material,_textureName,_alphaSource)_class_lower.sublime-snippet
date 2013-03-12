@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SubstanceImporter.SetTextureAlphaSource(${1:material : ProceduralMaterial}, ${2:textureName : String}, ${3:alphaSource : ProceduralOutputType});]]></content>
-	<tabTrigger><![CDATA[substanceImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[substanceImporter.SetTextureAlphaSource]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetTextureAlphaSource(material, textureName, alphaSource)]]></description>
+	<description><![CDATA[*(material, textureName, alphaSource)]]></description>
 </snippet>

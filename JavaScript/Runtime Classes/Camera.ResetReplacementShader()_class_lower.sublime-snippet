@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.ResetReplacementShader();]]></content>
-	<tabTrigger><![CDATA[camera]]></tabTrigger>
+	<tabTrigger><![CDATA[camera.ResetReplacementShader]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ResetReplacementShader()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

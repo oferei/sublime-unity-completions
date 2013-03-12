@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ArrayUtility.LastIndexOf[of ${1:T}](${2:array as (T)}, ${3:value as T})]]></content>
-	<tabTrigger><![CDATA[arrayUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[arrayUtility.LastIndexOf]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.LastIndexOf[of T](array, value)]]></description>
+	<description><![CDATA[*[of T](array, value)]]></description>
 </snippet>

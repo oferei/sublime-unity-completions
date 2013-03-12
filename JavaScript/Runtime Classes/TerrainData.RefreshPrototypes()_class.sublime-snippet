@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TerrainData.RefreshPrototypes();]]></content>
-	<tabTrigger><![CDATA[TerrainData]]></tabTrigger>
+	<tabTrigger><![CDATA[TerrainData.RefreshPrototypes]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RefreshPrototypes()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

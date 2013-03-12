@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.BoundsField(${1:value as Bounds}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUILayout.BoundsField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.BoundsField(value, params options)]]></description>
+	<description><![CDATA[*(value, params options)]]></description>
 </snippet>

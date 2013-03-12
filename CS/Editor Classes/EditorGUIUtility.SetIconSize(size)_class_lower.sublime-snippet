@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.SetIconSize(${1:Vector2 size});]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.SetIconSize]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetIconSize(size)]]></description>
+	<description><![CDATA[*(size)]]></description>
 </snippet>

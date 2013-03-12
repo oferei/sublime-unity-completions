@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.LabelField(${1:position as Rect}, ${2:label as GUIContent}, ${3:style as GUIStyle = EditorStyles.label})]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.LabelField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.LabelField(position, label, style)]]></description>
+	<description><![CDATA[*(position, label, style)]]></description>
 </snippet>

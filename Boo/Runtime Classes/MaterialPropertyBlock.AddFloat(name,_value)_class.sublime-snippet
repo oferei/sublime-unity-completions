@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MaterialPropertyBlock.AddFloat(${1:name as string}, ${2:value as single})]]></content>
-	<tabTrigger><![CDATA[MaterialPropertyBlock]]></tabTrigger>
+	<tabTrigger><![CDATA[MaterialPropertyBlock.AddFloat]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.AddFloat(name, value)]]></description>
+	<description><![CDATA[*(name, value)]]></description>
 </snippet>

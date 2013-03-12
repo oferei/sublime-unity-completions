@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ParticleEmitter.ClearParticles();]]></content>
-	<tabTrigger><![CDATA[ParticleEmitter]]></tabTrigger>
+	<tabTrigger><![CDATA[ParticleEmitter.ClearParticles]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ClearParticles()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

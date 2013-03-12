@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ADErrorCode.ConfigurationError]]></content>
-	<tabTrigger><![CDATA[aDErrorCode]]></tabTrigger>
+	<tabTrigger><![CDATA[aDErrorCode.ConfigurationError]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ConfigurationError]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

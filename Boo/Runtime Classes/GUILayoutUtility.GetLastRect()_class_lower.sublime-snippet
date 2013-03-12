@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayoutUtility.GetLastRect()]]></content>
-	<tabTrigger><![CDATA[gUILayoutUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayoutUtility.GetLastRect]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetLastRect()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.AddCursorRect(${1:position as Rect}, ${2:mouse as MouseCursor})]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.AddCursorRect]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.AddCursorRect(position, mouse)]]></description>
+	<description><![CDATA[*(position, mouse)]]></description>
 </snippet>

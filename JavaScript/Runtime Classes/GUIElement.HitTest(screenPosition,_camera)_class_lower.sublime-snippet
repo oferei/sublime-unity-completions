@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIElement.HitTest(${1:screenPosition : Vector3}, ${2:camera : Camera = null});]]></content>
-	<tabTrigger><![CDATA[gUIElement]]></tabTrigger>
+	<tabTrigger><![CDATA[gUIElement.HitTest]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HitTest(screenPosition, camera)]]></description>
+	<description><![CDATA[*(screenPosition, camera)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.GetVector(${1:string name});]]></content>
-	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<tabTrigger><![CDATA[Animator.GetVector]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetVector(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

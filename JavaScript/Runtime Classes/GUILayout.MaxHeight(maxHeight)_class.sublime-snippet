@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.MaxHeight(${1:maxHeight : float});]]></content>
-	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[GUILayout.MaxHeight]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.MaxHeight(maxHeight)]]></description>
+	<description><![CDATA[*(maxHeight)]]></description>
 </snippet>

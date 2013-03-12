@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TextureImporter.DoesSourceTextureHaveAlpha();]]></content>
-	<tabTrigger><![CDATA[textureImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[textureImporter.DoesSourceTextureHaveAlpha]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DoesSourceTextureHaveAlpha()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

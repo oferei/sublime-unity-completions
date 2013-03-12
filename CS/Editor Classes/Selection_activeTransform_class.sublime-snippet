@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.activeTransform]]></content>
-	<tabTrigger><![CDATA[Selection]]></tabTrigger>
+	<tabTrigger><![CDATA[Selection.activeTransform]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.activeTransform]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

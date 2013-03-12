@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.Foldout(${1:Rect position}, ${2:bool foldout}, ${3:GUIContent content}, ${4:bool toggleOnLabelClick}, ${5:GUIStyle style = EditorStyles.foldout});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.Foldout]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Foldout(position, foldout, content, toggleOnLabelClick, style)]]></description>
+	<description><![CDATA[*(position, foldout, content, toggleOnLabelClick, style)]]></description>
 </snippet>

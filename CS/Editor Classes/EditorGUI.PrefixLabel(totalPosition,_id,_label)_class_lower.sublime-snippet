@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.PrefixLabel(${1:Rect totalPosition}, ${2:int id}, ${3:GUIContent label});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.PrefixLabel]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.PrefixLabel(totalPosition, id, label)]]></description>
+	<description><![CDATA[*(totalPosition, id, label)]]></description>
 </snippet>

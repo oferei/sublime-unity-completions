@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.InitializeServer(${1:connections as int}, ${2:listenPort as int}, ${3:useNat as bool})]]></content>
-	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<tabTrigger><![CDATA[Network.InitializeServer]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.InitializeServer(connections, listenPort, useNat)]]></description>
+	<description><![CDATA[*(connections, listenPort, useNat)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimatorStateInfo.IsTag(${1:tag as string})]]></content>
-	<tabTrigger><![CDATA[animatorStateInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[animatorStateInfo.IsTag]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.IsTag(tag)]]></description>
+	<description><![CDATA[*(tag)]]></description>
 </snippet>

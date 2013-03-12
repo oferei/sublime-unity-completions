@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector4.Max(${1:lhs as Vector4}, ${2:rhs as Vector4})]]></content>
-	<tabTrigger><![CDATA[Vector4]]></tabTrigger>
+	<tabTrigger><![CDATA[Vector4.Max]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Max(lhs, rhs)]]></description>
+	<description><![CDATA[*(lhs, rhs)]]></description>
 </snippet>

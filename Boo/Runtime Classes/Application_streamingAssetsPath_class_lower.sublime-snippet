@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.streamingAssetsPath]]></content>
-	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<tabTrigger><![CDATA[application.streamingAssetsPath]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.streamingAssetsPath]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

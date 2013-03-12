@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ParticleEmitter.Simulate(${1:float deltaTime});]]></content>
-	<tabTrigger><![CDATA[ParticleEmitter]]></tabTrigger>
+	<tabTrigger><![CDATA[ParticleEmitter.Simulate]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Simulate(deltaTime)]]></description>
+	<description><![CDATA[*(deltaTime)]]></description>
 </snippet>

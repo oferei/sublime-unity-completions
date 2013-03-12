@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.hasVisibleChildren]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.hasVisibleChildren]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.hasVisibleChildren]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

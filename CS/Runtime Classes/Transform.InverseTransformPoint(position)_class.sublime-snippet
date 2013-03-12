@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.InverseTransformPoint(${1:Vector3 position});]]></content>
-	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<tabTrigger><![CDATA[Transform.InverseTransformPoint]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.InverseTransformPoint(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

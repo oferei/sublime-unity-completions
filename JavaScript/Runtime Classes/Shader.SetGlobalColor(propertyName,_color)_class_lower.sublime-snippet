@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Shader.SetGlobalColor(${1:propertyName : String}, ${2:color : Color});]]></content>
-	<tabTrigger><![CDATA[shader]]></tabTrigger>
+	<tabTrigger><![CDATA[shader.SetGlobalColor]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetGlobalColor(propertyName, color)]]></description>
+	<description><![CDATA[*(propertyName, color)]]></description>
 </snippet>

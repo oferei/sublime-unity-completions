@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RenderTexture.Create();]]></content>
-	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[renderTexture.Create]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Create()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.supportsLocationService]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.supportsLocationService]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.supportsLocationService]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

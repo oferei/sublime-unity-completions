@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.SelectableLabel(${1:position : Rect}, ${2:text : String}, ${3:style : GUIStyle = EditorStyles.label});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.SelectableLabel]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SelectableLabel(position, text, style)]]></description>
+	<description><![CDATA[*(position, text, style)]]></description>
 </snippet>

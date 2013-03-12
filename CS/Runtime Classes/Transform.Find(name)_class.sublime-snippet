@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.Find(${1:string name});]]></content>
-	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<tabTrigger><![CDATA[Transform.Find]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Find(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

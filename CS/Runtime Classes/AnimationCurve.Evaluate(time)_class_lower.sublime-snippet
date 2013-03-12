@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationCurve.Evaluate(${1:float time});]]></content>
-	<tabTrigger><![CDATA[animationCurve]]></tabTrigger>
+	<tabTrigger><![CDATA[animationCurve.Evaluate]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Evaluate(time)]]></description>
+	<description><![CDATA[*(time)]]></description>
 </snippet>

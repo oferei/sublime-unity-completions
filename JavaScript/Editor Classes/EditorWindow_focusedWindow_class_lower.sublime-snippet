@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.focusedWindow]]></content>
-	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[editorWindow.focusedWindow]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.focusedWindow]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

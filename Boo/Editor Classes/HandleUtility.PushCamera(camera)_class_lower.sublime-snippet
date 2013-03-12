@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.PushCamera(${1:camera as Camera})]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.PushCamera]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.PushCamera(camera)]]></description>
+	<description><![CDATA[*(camera)]]></description>
 </snippet>

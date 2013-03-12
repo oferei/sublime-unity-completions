@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.SetBool(${1:string name}, ${2:bool value});]]></content>
-	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<tabTrigger><![CDATA[Animator.SetBool]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetBool(name, value)]]></description>
+	<description><![CDATA[*(name, value)]]></description>
 </snippet>

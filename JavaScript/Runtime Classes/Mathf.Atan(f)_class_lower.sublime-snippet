@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Atan(${1:f : float});]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.Atan]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Atan(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

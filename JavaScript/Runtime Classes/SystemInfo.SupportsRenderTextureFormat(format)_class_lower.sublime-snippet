@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.SupportsRenderTextureFormat(${1:format : RenderTextureFormat});]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.SupportsRenderTextureFormat]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SupportsRenderTextureFormat(format)]]></description>
+	<description><![CDATA[*(format)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.Play(${1:PlayMode mode = PlayMode.StopSameLayer});]]></content>
-	<tabTrigger><![CDATA[animation]]></tabTrigger>
+	<tabTrigger><![CDATA[animation.Play]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Play(mode)]]></description>
+	<description><![CDATA[*(mode)]]></description>
 </snippet>

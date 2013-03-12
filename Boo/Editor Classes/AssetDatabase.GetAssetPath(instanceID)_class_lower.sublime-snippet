@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.GetAssetPath(${1:instanceID as int})]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.GetAssetPath]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetAssetPath(instanceID)]]></description>
+	<description><![CDATA[*(instanceID)]]></description>
 </snippet>

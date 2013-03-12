@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshPath.ClearCorners();]]></content>
-	<tabTrigger><![CDATA[NavMeshPath]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshPath.ClearCorners]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ClearCorners()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ProceduralMaterial.RebuildTexturesImmediately();]]></content>
-	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<tabTrigger><![CDATA[proceduralMaterial.RebuildTexturesImmediately]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RebuildTexturesImmediately()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

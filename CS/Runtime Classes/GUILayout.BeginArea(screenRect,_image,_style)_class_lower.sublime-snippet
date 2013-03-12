@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.BeginArea(${1:Rect screenRect}, ${2:Texture image}, ${3:GUIStyle style});]]></content>
-	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayout.BeginArea]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.BeginArea(screenRect, image, style)]]></description>
+	<description><![CDATA[*(screenRect, image, style)]]></description>
 </snippet>

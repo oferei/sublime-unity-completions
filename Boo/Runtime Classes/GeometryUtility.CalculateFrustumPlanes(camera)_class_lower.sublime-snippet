@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GeometryUtility.CalculateFrustumPlanes(${1:camera as Camera})]]></content>
-	<tabTrigger><![CDATA[geometryUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[geometryUtility.CalculateFrustumPlanes]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CalculateFrustumPlanes(camera)]]></description>
+	<description><![CDATA[*(camera)]]></description>
 </snippet>

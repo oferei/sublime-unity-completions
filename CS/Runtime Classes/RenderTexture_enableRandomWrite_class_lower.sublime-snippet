@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RenderTexture.enableRandomWrite]]></content>
-	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[renderTexture.enableRandomWrite]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.enableRandomWrite]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetModificationProcessor.OnWillCreateAsset(${1:path : String});]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetModificationProcessor.OnWillCreateAsset]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnWillCreateAsset(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

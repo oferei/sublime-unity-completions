@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Quaternion.SetLookRotation(${1:view : Vector3}, ${2:up : Vector3 = Vector3.up});]]></content>
-	<tabTrigger><![CDATA[Quaternion]]></tabTrigger>
+	<tabTrigger><![CDATA[Quaternion.SetLookRotation]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetLookRotation(view, up)]]></description>
+	<description><![CDATA[*(view, up)]]></description>
 </snippet>

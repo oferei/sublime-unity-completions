@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPostprocessor.OnPostprocessTexture(${1:texture as Texture2D})]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessTexture]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OnPostprocessTexture(texture)]]></description>
+	<description><![CDATA[*(texture)]]></description>
 </snippet>

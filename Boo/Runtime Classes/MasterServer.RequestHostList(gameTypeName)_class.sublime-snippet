@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServer.RequestHostList(${1:gameTypeName as string})]]></content>
-	<tabTrigger><![CDATA[MasterServer]]></tabTrigger>
+	<tabTrigger><![CDATA[MasterServer.RequestHostList]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RequestHostList(gameTypeName)]]></description>
+	<description><![CDATA[*(gameTypeName)]]></description>
 </snippet>

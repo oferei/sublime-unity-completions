@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gradient.SetKeys(${1:colorKeys as (GradientColorKey)}, ${2:alphaKeys as (GradientAlphaKey)})]]></content>
-	<tabTrigger><![CDATA[Gradient]]></tabTrigger>
+	<tabTrigger><![CDATA[Gradient.SetKeys]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetKeys(colorKeys, alphaKeys)]]></description>
+	<description><![CDATA[*(colorKeys, alphaKeys)]]></description>
 </snippet>

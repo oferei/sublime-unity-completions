@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.Reset();]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.Reset]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Reset()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

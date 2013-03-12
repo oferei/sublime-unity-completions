@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Terrain.activeTerrain]]></content>
-	<tabTrigger><![CDATA[terrain]]></tabTrigger>
+	<tabTrigger><![CDATA[terrain.activeTerrain]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.activeTerrain]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

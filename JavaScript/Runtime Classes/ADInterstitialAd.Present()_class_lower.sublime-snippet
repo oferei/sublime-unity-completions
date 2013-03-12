@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ADInterstitialAd.Present();]]></content>
-	<tabTrigger><![CDATA[aDInterstitialAd]]></tabTrigger>
+	<tabTrigger><![CDATA[aDInterstitialAd.Present]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Present()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

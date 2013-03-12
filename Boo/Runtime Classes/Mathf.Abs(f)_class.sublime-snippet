@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Abs(${1:f as single})]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.Abs]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Abs(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

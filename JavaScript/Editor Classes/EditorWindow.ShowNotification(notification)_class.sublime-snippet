@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.ShowNotification(${1:notification : GUIContent});]]></content>
-	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorWindow.ShowNotification]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ShowNotification(notification)]]></description>
+	<description><![CDATA[*(notification)]]></description>
 </snippet>

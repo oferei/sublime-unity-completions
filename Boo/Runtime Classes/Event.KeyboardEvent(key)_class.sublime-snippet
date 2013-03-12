@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Event.KeyboardEvent(${1:key as string})]]></content>
-	<tabTrigger><![CDATA[Event]]></tabTrigger>
+	<tabTrigger><![CDATA[Event.KeyboardEvent]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.KeyboardEvent(key)]]></description>
+	<description><![CDATA[*(key)]]></description>
 </snippet>

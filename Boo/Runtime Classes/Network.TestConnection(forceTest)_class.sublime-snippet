@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.TestConnection(${1:forceTest as bool = false})]]></content>
-	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<tabTrigger><![CDATA[Network.TestConnection]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.TestConnection(forceTest)]]></description>
+	<description><![CDATA[*(forceTest)]]></description>
 </snippet>

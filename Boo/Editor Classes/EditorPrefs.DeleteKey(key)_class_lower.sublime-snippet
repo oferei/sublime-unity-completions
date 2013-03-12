@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorPrefs.DeleteKey(${1:key as string})]]></content>
-	<tabTrigger><![CDATA[editorPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[editorPrefs.DeleteKey]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DeleteKey(key)]]></description>
+	<description><![CDATA[*(key)]]></description>
 </snippet>

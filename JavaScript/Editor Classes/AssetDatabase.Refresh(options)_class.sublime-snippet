@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.Refresh(${1:options : ImportAssetOptions = ImportAssetOptions.Default});]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.Refresh]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Refresh(options)]]></description>
+	<description><![CDATA[*(options)]]></description>
 </snippet>

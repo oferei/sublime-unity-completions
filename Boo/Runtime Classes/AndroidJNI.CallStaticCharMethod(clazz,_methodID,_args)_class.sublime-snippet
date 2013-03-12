@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallStaticCharMethod(${1:clazz as IntPtr}, ${2:methodID as IntPtr}, ${3:args as (jvalue)})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallStaticCharMethod]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CallStaticCharMethod(clazz, methodID, args)]]></description>
+	<description><![CDATA[*(clazz, methodID, args)]]></description>
 </snippet>

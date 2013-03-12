@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.AllocObject(${1:clazz : IntPtr});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.AllocObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.AllocObject(clazz)]]></description>
+	<description><![CDATA[*(clazz)]]></description>
 </snippet>

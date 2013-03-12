@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handheld.StopActivityIndicator();]]></content>
-	<tabTrigger><![CDATA[Handheld]]></tabTrigger>
+	<tabTrigger><![CDATA[Handheld.StopActivityIndicator]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.StopActivityIndicator()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

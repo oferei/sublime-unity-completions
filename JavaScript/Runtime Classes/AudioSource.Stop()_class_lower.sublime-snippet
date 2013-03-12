@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioSource.Stop();]]></content>
-	<tabTrigger><![CDATA[audioSource]]></tabTrigger>
+	<tabTrigger><![CDATA[audioSource.Stop]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Stop()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

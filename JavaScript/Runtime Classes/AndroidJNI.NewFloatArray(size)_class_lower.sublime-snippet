@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewFloatArray(${1:size : int});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.NewFloatArray]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.NewFloatArray(size)]]></description>
+	<description><![CDATA[*(size)]]></description>
 </snippet>

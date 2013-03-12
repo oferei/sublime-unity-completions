@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.ForceStateNormalizedTime(${1:float normalizedTime});]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.ForceStateNormalizedTime]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ForceStateNormalizedTime(normalizedTime)]]></description>
+	<description><![CDATA[*(normalizedTime)]]></description>
 </snippet>

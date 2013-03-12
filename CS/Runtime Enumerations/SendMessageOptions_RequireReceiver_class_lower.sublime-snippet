@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SendMessageOptions.RequireReceiver]]></content>
-	<tabTrigger><![CDATA[sendMessageOptions]]></tabTrigger>
+	<tabTrigger><![CDATA[sendMessageOptions.RequireReceiver]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RequireReceiver]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

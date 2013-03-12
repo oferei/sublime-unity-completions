@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GenericMenu.GetItemCount()]]></content>
-	<tabTrigger><![CDATA[genericMenu]]></tabTrigger>
+	<tabTrigger><![CDATA[genericMenu.GetItemCount]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetItemCount()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

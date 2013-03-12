@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshBuilder.BuildNavMeshAsync();]]></content>
-	<tabTrigger><![CDATA[NavMeshBuilder]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshBuilder.BuildNavMeshAsync]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.BuildNavMeshAsync()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

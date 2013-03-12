@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.CallbackFunction();]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.CallbackFunction]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CallbackFunction()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

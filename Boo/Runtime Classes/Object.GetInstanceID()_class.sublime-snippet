@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Object.GetInstanceID()]]></content>
-	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<tabTrigger><![CDATA[Object.GetInstanceID]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetInstanceID()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

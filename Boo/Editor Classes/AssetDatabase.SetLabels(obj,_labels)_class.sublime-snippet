@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.SetLabels(${1:obj as Object}, ${2:labels as (string)})]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.SetLabels]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetLabels(obj, labels)]]></description>
+	<description><![CDATA[*(obj, labels)]]></description>
 </snippet>

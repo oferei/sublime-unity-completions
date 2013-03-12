@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ProceduralMaterial.GetGeneratedTextures();]]></content>
-	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<tabTrigger><![CDATA[proceduralMaterial.GetGeneratedTextures]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetGeneratedTextures()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

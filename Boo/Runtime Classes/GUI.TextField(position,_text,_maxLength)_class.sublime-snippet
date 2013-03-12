@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.TextField(${1:position as Rect}, ${2:text as string}, ${3:maxLength as int})]]></content>
-	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<tabTrigger><![CDATA[GUI.TextField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.TextField(position, text, maxLength)]]></description>
+	<description><![CDATA[*(position, text, maxLength)]]></description>
 </snippet>

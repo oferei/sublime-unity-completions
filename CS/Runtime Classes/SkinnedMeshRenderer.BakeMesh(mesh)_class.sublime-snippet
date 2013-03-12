@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SkinnedMeshRenderer.BakeMesh(${1:Mesh mesh});]]></content>
-	<tabTrigger><![CDATA[SkinnedMeshRenderer]]></tabTrigger>
+	<tabTrigger><![CDATA[SkinnedMeshRenderer.BakeMesh]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.BakeMesh(mesh)]]></description>
+	<description><![CDATA[*(mesh)]]></description>
 </snippet>

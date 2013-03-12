@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.Contains(${1:obj : Object});]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.Contains]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Contains(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

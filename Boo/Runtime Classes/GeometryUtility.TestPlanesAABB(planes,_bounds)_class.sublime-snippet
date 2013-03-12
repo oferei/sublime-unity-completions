@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GeometryUtility.TestPlanesAABB(${1:planes as (Plane)}, ${2:bounds as Bounds})]]></content>
-	<tabTrigger><![CDATA[GeometryUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[GeometryUtility.TestPlanesAABB]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.TestPlanesAABB(planes, bounds)]]></description>
+	<description><![CDATA[*(planes, bounds)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Quaternion.Euler(${1:float x}, ${2:float y}, ${3:float z});]]></content>
-	<tabTrigger><![CDATA[quaternion]]></tabTrigger>
+	<tabTrigger><![CDATA[quaternion.Euler]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Euler(x, y, z)]]></description>
+	<description><![CDATA[*(x, y, z)]]></description>
 </snippet>

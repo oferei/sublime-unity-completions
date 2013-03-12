@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.SelectableLabel(${1:Rect position}, ${2:string text}, ${3:GUIStyle style = EditorStyles.label});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.SelectableLabel]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SelectableLabel(position, text, style)]]></description>
+	<description><![CDATA[*(position, text, style)]]></description>
 </snippet>

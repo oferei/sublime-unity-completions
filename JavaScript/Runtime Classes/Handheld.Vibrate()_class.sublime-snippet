@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handheld.Vibrate();]]></content>
-	<tabTrigger><![CDATA[Handheld]]></tabTrigger>
+	<tabTrigger><![CDATA[Handheld.Vibrate]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Vibrate()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Object.Instantiate[of ${1:T}](${2:original as T})]]></content>
-	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<tabTrigger><![CDATA[Object.Instantiate]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Instantiate[of T](original)]]></description>
+	<description><![CDATA[*[of T](original)]]></description>
 </snippet>

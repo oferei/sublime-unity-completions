@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.MoveTowardsAngle(${1:current as single}, ${2:target as single}, ${3:maxDelta as single})]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.MoveTowardsAngle]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.MoveTowardsAngle(current, target, maxDelta)]]></description>
+	<description><![CDATA[*(current, target, maxDelta)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.VerticalSlider(${1:Rect position}, ${2:float value}, ${3:float topValue}, ${4:float bottomValue});]]></content>
-	<tabTrigger><![CDATA[gUI]]></tabTrigger>
+	<tabTrigger><![CDATA[gUI.VerticalSlider]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.VerticalSlider(position, value, topValue, bottomValue)]]></description>
+	<description><![CDATA[*(position, value, topValue, bottomValue)]]></description>
 </snippet>

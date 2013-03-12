@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.FindTexture(${1:name : String});]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.FindTexture]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.FindTexture(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

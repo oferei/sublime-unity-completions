@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.loadedLevelName]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.loadedLevelName]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.loadedLevelName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

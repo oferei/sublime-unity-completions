@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorPrefs.DeleteAll()]]></content>
-	<tabTrigger><![CDATA[EditorPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorPrefs.DeleteAll]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DeleteAll()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

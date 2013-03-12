@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.iOS.requiresPersistentWiFi]]></content>
-	<tabTrigger><![CDATA[playerSettings.iOS]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.iOS.requiresPersistentWiFi]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.requiresPersistentWiFi]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

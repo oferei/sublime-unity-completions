@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.Translate(${1:x : float}, ${2:y : float}, ${3:z : float}, ${4:relativeTo : Transform});]]></content>
-	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<tabTrigger><![CDATA[transform.Translate]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Translate(x, y, z, relativeTo)]]></description>
+	<description><![CDATA[*(x, y, z, relativeTo)]]></description>
 </snippet>

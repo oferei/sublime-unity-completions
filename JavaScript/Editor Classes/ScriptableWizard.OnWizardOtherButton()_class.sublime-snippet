@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScriptableWizard.OnWizardOtherButton();]]></content>
-	<tabTrigger><![CDATA[ScriptableWizard]]></tabTrigger>
+	<tabTrigger><![CDATA[ScriptableWizard.OnWizardOtherButton]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnWizardOtherButton()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

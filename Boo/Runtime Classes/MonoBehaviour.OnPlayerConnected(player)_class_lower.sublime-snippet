@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnPlayerConnected(${1:player as NetworkPlayer})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.OnPlayerConnected]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OnPlayerConnected(player)]]></description>
+	<description><![CDATA[*(player)]]></description>
 </snippet>

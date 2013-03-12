@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RaycastHit.textureCoord]]></content>
-	<tabTrigger><![CDATA[raycastHit]]></tabTrigger>
+	<tabTrigger><![CDATA[raycastHit.textureCoord]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.textureCoord]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServer.RegisterHost(${1:string gameTypeName}, ${2:string gameName}, ${3:string comment = \"\"});]]></content>
-	<tabTrigger><![CDATA[masterServer]]></tabTrigger>
+	<tabTrigger><![CDATA[masterServer.RegisterHost]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RegisterHost(gameTypeName, gameName, comment)]]></description>
+	<description><![CDATA[*(gameTypeName, gameName, comment)]]></description>
 </snippet>

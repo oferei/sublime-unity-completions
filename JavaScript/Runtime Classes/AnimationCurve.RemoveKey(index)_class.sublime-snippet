@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationCurve.RemoveKey(${1:index : int});]]></content>
-	<tabTrigger><![CDATA[AnimationCurve]]></tabTrigger>
+	<tabTrigger><![CDATA[AnimationCurve.RemoveKey]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RemoveKey(index)]]></description>
+	<description><![CDATA[*(index)]]></description>
 </snippet>

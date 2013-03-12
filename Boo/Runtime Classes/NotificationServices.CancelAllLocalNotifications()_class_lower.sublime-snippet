@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NotificationServices.CancelAllLocalNotifications()]]></content>
-	<tabTrigger><![CDATA[notificationServices]]></tabTrigger>
+	<tabTrigger><![CDATA[notificationServices.CancelAllLocalNotifications]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CancelAllLocalNotifications()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

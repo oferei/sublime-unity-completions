@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.SaveScene(${1:string path = \"\"}, ${2:bool saveAsCopy = false});]]></content>
-	<tabTrigger><![CDATA[editorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[editorApplication.SaveScene]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SaveScene(path, saveAsCopy)]]></description>
+	<description><![CDATA[*(path, saveAsCopy)]]></description>
 </snippet>

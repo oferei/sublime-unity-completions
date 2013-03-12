@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Texture2D.Compress(${1:highQuality : boolean});]]></content>
-	<tabTrigger><![CDATA[Texture2D]]></tabTrigger>
+	<tabTrigger><![CDATA[Texture2D.Compress]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Compress(highQuality)]]></description>
+	<description><![CDATA[*(highQuality)]]></description>
 </snippet>

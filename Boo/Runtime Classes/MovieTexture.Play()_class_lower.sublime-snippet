@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MovieTexture.Play()]]></content>
-	<tabTrigger><![CDATA[movieTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[movieTexture.Play]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Play()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.iOS.targetOSVersion]]></content>
-	<tabTrigger><![CDATA[playerSettings.iOS]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.iOS.targetOSVersion]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.targetOSVersion]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

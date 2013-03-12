@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.Android.targetDevice]]></content>
-	<tabTrigger><![CDATA[PlayerSettings.Android]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.Android.targetDevice]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.targetDevice]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.ViewportToWorldPoint(${1:position as Vector3})]]></content>
-	<tabTrigger><![CDATA[Camera]]></tabTrigger>
+	<tabTrigger><![CDATA[Camera.ViewportToWorldPoint]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ViewportToWorldPoint(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

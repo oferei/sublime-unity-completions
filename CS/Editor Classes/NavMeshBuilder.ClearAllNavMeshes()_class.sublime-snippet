@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshBuilder.ClearAllNavMeshes();]]></content>
-	<tabTrigger><![CDATA[NavMeshBuilder]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshBuilder.ClearAllNavMeshes]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ClearAllNavMeshes()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

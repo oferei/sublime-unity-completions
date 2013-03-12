@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPreview.GetMiniThumbnail(${1:obj as Object})]]></content>
-	<tabTrigger><![CDATA[AssetPreview]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetPreview.GetMiniThumbnail]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetMiniThumbnail(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

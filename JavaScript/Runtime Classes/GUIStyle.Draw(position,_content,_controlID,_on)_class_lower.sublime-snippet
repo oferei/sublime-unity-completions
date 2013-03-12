@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIStyle.Draw(${1:position : Rect}, ${2:content : GUIContent}, ${3:controlID : int}, ${4:on : boolean = false});]]></content>
-	<tabTrigger><![CDATA[gUIStyle]]></tabTrigger>
+	<tabTrigger><![CDATA[gUIStyle.Draw]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Draw(position, content, controlID, on)]]></description>
+	<description><![CDATA[*(position, content, controlID, on)]]></description>
 </snippet>

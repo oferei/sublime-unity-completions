@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshAgent.Stop(${1:stopUpdates as bool = false})]]></content>
-	<tabTrigger><![CDATA[navMeshAgent]]></tabTrigger>
+	<tabTrigger><![CDATA[navMeshAgent.Stop]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Stop(stopUpdates)]]></description>
+	<description><![CDATA[*(stopUpdates)]]></description>
 </snippet>

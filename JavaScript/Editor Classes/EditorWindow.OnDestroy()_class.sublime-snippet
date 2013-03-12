@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.OnDestroy();]]></content>
-	<tabTrigger><![CDATA[EditorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorWindow.OnDestroy]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnDestroy()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

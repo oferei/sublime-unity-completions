@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.GetAveragePing(${1:player as NetworkPlayer})]]></content>
-	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<tabTrigger><![CDATA[Network.GetAveragePing]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetAveragePing(player)]]></description>
+	<description><![CDATA[*(player)]]></description>
 </snippet>

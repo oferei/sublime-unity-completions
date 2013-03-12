@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ParticleSystem.Play(${1:withChildren as bool = true})]]></content>
-	<tabTrigger><![CDATA[ParticleSystem]]></tabTrigger>
+	<tabTrigger><![CDATA[ParticleSystem.Play]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Play(withChildren)]]></description>
+	<description><![CDATA[*(withChildren)]]></description>
 </snippet>

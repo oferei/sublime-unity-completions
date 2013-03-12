@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabType.PrefabInstance]]></content>
-	<tabTrigger><![CDATA[prefabType]]></tabTrigger>
+	<tabTrigger><![CDATA[prefabType.PrefabInstance]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.PrefabInstance]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

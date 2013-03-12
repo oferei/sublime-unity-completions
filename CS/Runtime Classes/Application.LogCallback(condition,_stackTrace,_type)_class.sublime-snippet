@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.LogCallback(${1:string condition}, ${2:string stackTrace}, ${3:LogType type});]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.LogCallback]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LogCallback(condition, stackTrace, type)]]></description>
+	<description><![CDATA[*(condition, stackTrace, type)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GenericMenu.AddSeparator(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[genericMenu]]></tabTrigger>
+	<tabTrigger><![CDATA[genericMenu.AddSeparator]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.AddSeparator(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

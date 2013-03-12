@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.Slider(${1:position : Vector3}, ${2:direction : Vector3});]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.Slider]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Slider(position, direction)]]></description>
+	<description><![CDATA[*(position, direction)]]></description>
 </snippet>

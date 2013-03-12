@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gizmos.DrawCube(${1:center as Vector3}, ${2:size as Vector3})]]></content>
-	<tabTrigger><![CDATA[gizmos]]></tabTrigger>
+	<tabTrigger><![CDATA[gizmos.DrawCube]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawCube(center, size)]]></description>
+	<description><![CDATA[*(center, size)]]></description>
 </snippet>

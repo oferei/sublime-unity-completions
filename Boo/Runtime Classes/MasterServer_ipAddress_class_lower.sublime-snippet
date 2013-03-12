@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServer.ipAddress]]></content>
-	<tabTrigger><![CDATA[masterServer]]></tabTrigger>
+	<tabTrigger><![CDATA[masterServer.ipAddress]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ipAddress]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

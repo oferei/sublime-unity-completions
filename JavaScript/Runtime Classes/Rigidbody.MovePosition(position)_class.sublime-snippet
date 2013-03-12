@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Rigidbody.MovePosition(${1:position : Vector3});]]></content>
-	<tabTrigger><![CDATA[Rigidbody]]></tabTrigger>
+	<tabTrigger><![CDATA[Rigidbody.MovePosition]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.MovePosition(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.Disc(${1:rotation : Quaternion}, ${2:position : Vector3}, ${3:axis : Vector3}, ${4:size : float}, ${5:cutoffPlane : boolean}, ${6:snap : float});]]></content>
-	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<tabTrigger><![CDATA[Handles.Disc]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Disc(rotation, position, axis, size, cutoffPlane, snap)]]></description>
+	<description><![CDATA[*(rotation, position, axis, size, cutoffPlane, snap)]]></description>
 </snippet>

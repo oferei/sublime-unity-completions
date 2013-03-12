@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationUtility.InAnimationMode();]]></content>
-	<tabTrigger><![CDATA[animationUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[animationUtility.InAnimationMode]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.InAnimationMode()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ParticleSystem.Emit(${1:int count});]]></content>
-	<tabTrigger><![CDATA[ParticleSystem]]></tabTrigger>
+	<tabTrigger><![CDATA[ParticleSystem.Emit]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Emit(count)]]></description>
+	<description><![CDATA[*(count)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.IntSlider(${1:Rect position}, ${2:GUIContent label}, ${3:int value}, ${4:int leftValue}, ${5:int rightValue});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.IntSlider]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.IntSlider(position, label, value, leftValue, rightValue)]]></description>
+	<description><![CDATA[*(position, label, value, leftValue, rightValue)]]></description>
 </snippet>

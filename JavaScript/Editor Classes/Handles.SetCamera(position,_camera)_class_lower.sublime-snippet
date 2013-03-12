@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.SetCamera(${1:position : Rect}, ${2:camera : Camera});]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.SetCamera]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetCamera(position, camera)]]></description>
+	<description><![CDATA[*(position, camera)]]></description>
 </snippet>

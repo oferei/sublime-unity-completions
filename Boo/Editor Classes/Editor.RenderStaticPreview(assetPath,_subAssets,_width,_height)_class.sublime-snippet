@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.RenderStaticPreview(${1:assetPath as string}, ${2:subAssets as (Object)}, ${3:width as int}, ${4:height as int})]]></content>
-	<tabTrigger><![CDATA[Editor]]></tabTrigger>
+	<tabTrigger><![CDATA[Editor.RenderStaticPreview]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RenderStaticPreview(assetPath, subAssets, width, height)]]></description>
+	<description><![CDATA[*(assetPath, subAssets, width, height)]]></description>
 </snippet>

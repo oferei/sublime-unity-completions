@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TerrainData.GetAlphamaps(${1:x : int}, ${2:y : int}, ${3:width : int}, ${4:height : int});]]></content>
-	<tabTrigger><![CDATA[TerrainData]]></tabTrigger>
+	<tabTrigger><![CDATA[TerrainData.GetAlphamaps]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetAlphamaps(x, y, width, height)]]></description>
+	<description><![CDATA[*(x, y, width, height)]]></description>
 </snippet>

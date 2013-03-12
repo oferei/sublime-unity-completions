@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.operatingSystem]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.operatingSystem]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.operatingSystem]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

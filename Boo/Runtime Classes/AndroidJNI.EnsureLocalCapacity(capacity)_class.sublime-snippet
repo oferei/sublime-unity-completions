@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.EnsureLocalCapacity(${1:capacity as int})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.EnsureLocalCapacity]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.EnsureLocalCapacity(capacity)]]></description>
+	<description><![CDATA[*(capacity)]]></description>
 </snippet>

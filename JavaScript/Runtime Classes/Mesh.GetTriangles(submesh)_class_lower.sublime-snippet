@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.GetTriangles(${1:submesh : int});]]></content>
-	<tabTrigger><![CDATA[mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[mesh.GetTriangles]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetTriangles(submesh)]]></description>
+	<description><![CDATA[*(submesh)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Graphics.Blit(${1:source : Texture}, ${2:mat : Material}, ${3:pass : int = -1});]]></content>
-	<tabTrigger><![CDATA[graphics]]></tabTrigger>
+	<tabTrigger><![CDATA[graphics.Blit]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Blit(source, mat, pass)]]></description>
+	<description><![CDATA[*(source, mat, pass)]]></description>
 </snippet>

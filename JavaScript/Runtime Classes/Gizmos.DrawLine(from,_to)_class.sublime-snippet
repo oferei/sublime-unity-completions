@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gizmos.DrawLine(${1:from : Vector3}, ${2:to : Vector3});]]></content>
-	<tabTrigger><![CDATA[Gizmos]]></tabTrigger>
+	<tabTrigger><![CDATA[Gizmos.DrawLine]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DrawLine(from, to)]]></description>
+	<description><![CDATA[*(from, to)]]></description>
 </snippet>

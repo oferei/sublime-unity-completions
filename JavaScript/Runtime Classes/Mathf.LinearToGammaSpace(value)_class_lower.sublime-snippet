@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.LinearToGammaSpace(${1:value : float});]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.LinearToGammaSpace]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LinearToGammaSpace(value)]]></description>
+	<description><![CDATA[*(value)]]></description>
 </snippet>

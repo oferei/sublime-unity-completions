@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.SetCamera(${1:camera as Camera})]]></content>
-	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<tabTrigger><![CDATA[Handles.SetCamera]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetCamera(camera)]]></description>
+	<description><![CDATA[*(camera)]]></description>
 </snippet>

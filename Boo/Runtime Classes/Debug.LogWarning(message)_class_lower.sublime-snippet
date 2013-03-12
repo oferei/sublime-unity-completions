@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Debug.LogWarning(${1:message as object})]]></content>
-	<tabTrigger><![CDATA[debug]]></tabTrigger>
+	<tabTrigger><![CDATA[debug.LogWarning]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.LogWarning(message)]]></description>
+	<description><![CDATA[*(message)]]></description>
 </snippet>

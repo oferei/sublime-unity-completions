@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerPrefs.DeleteKey(${1:string key});]]></content>
-	<tabTrigger><![CDATA[playerPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[playerPrefs.DeleteKey]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DeleteKey(key)]]></description>
+	<description><![CDATA[*(key)]]></description>
 </snippet>

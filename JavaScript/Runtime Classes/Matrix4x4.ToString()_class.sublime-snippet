@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Matrix4x4.ToString();]]></content>
-	<tabTrigger><![CDATA[Matrix4x4]]></tabTrigger>
+	<tabTrigger><![CDATA[Matrix4x4.ToString]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ToString()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

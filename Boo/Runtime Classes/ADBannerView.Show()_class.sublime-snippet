@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ADBannerView.Show()]]></content>
-	<tabTrigger><![CDATA[ADBannerView]]></tabTrigger>
+	<tabTrigger><![CDATA[ADBannerView.Show]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Show()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

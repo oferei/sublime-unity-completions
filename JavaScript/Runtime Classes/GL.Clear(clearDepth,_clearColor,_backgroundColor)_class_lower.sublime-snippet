@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.Clear(${1:clearDepth : boolean}, ${2:clearColor : boolean}, ${3:backgroundColor : Color});]]></content>
-	<tabTrigger><![CDATA[gL]]></tabTrigger>
+	<tabTrigger><![CDATA[gL.Clear]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Clear(clearDepth, clearColor, backgroundColor)]]></description>
+	<description><![CDATA[*(clearDepth, clearColor, backgroundColor)]]></description>
 </snippet>

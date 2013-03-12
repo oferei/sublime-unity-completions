@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.Update()]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.Update]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Update()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

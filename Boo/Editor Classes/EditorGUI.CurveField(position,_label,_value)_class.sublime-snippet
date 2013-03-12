@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.CurveField(${1:position as Rect}, ${2:label as GUIContent}, ${3:value as AnimationCurve})]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.CurveField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CurveField(position, label, value)]]></description>
+	<description><![CDATA[*(position, label, value)]]></description>
 </snippet>

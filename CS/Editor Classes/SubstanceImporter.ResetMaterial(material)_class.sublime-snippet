@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SubstanceImporter.ResetMaterial(${1:ProceduralMaterial material});]]></content>
-	<tabTrigger><![CDATA[SubstanceImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[SubstanceImporter.ResetMaterial]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ResetMaterial(material)]]></description>
+	<description><![CDATA[*(material)]]></description>
 </snippet>

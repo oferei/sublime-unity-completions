@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.CalcLineTranslation(${1:src : Vector2}, ${2:dest : Vector2}, ${3:srcPosition : Vector3}, ${4:constraintDir : Vector3});]]></content>
-	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[HandleUtility.CalcLineTranslation]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CalcLineTranslation(src, dest, srcPosition, constraintDir)]]></description>
+	<description><![CDATA[*(src, dest, srcPosition, constraintDir)]]></description>
 </snippet>

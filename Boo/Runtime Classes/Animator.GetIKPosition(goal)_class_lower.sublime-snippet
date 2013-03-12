@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.GetIKPosition(${1:goal as AvatarIKGoal})]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.GetIKPosition]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetIKPosition(goal)]]></description>
+	<description><![CDATA[*(goal)]]></description>
 </snippet>

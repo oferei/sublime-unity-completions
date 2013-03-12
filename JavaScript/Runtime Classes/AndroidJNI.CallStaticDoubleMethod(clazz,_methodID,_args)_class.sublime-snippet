@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallStaticDoubleMethod(${1:clazz : IntPtr}, ${2:methodID : IntPtr}, ${3:args : jvalue[]});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallStaticDoubleMethod]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CallStaticDoubleMethod(clazz, methodID, args)]]></description>
+	<description><![CDATA[*(clazz, methodID, args)]]></description>
 </snippet>

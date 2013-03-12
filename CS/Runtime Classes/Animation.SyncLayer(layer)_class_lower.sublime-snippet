@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.SyncLayer(${1:int layer});]]></content>
-	<tabTrigger><![CDATA[animation]]></tabTrigger>
+	<tabTrigger><![CDATA[animation.SyncLayer]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SyncLayer(layer)]]></description>
+	<description><![CDATA[*(layer)]]></description>
 </snippet>

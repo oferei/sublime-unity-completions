@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Profiler.GetMonoHeapSize();]]></content>
-	<tabTrigger><![CDATA[Profiler]]></tabTrigger>
+	<tabTrigger><![CDATA[Profiler.GetMonoHeapSize]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetMonoHeapSize()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ProceduralMaterial.StopRebuilds();]]></content>
-	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<tabTrigger><![CDATA[proceduralMaterial.StopRebuilds]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.StopRebuilds()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

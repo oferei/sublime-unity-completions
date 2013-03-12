@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.CancelQuit();]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.CancelQuit]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CancelQuit()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

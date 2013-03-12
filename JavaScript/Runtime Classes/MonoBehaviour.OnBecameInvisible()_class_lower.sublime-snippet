@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnBecameInvisible();]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.OnBecameInvisible]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnBecameInvisible()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

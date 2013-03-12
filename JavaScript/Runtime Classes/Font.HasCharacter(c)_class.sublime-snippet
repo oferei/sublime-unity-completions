@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Font.HasCharacter(${1:c : char});]]></content>
-	<tabTrigger><![CDATA[Font]]></tabTrigger>
+	<tabTrigger><![CDATA[Font.HasCharacter]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HasCharacter(c)]]></description>
+	<description><![CDATA[*(c)]]></description>
 </snippet>

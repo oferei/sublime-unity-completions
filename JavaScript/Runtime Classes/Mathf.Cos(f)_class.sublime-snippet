@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Cos(${1:f : float});]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.Cos]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Cos(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

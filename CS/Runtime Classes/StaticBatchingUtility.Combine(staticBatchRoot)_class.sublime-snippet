@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[StaticBatchingUtility.Combine(${1:GameObject staticBatchRoot});]]></content>
-	<tabTrigger><![CDATA[StaticBatchingUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[StaticBatchingUtility.Combine]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Combine(staticBatchRoot)]]></description>
+	<description><![CDATA[*(staticBatchRoot)]]></description>
 </snippet>

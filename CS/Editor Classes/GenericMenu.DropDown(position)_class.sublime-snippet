@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GenericMenu.DropDown(${1:Rect position});]]></content>
-	<tabTrigger><![CDATA[GenericMenu]]></tabTrigger>
+	<tabTrigger><![CDATA[GenericMenu.DropDown]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DropDown(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

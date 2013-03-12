@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ADBannerView.Hide();]]></content>
-	<tabTrigger><![CDATA[aDBannerView]]></tabTrigger>
+	<tabTrigger><![CDATA[aDBannerView.Hide]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Hide()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

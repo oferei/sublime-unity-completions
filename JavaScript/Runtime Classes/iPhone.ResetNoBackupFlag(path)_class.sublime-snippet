@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[iPhone.ResetNoBackupFlag(${1:path : String});]]></content>
-	<tabTrigger><![CDATA[iPhone]]></tabTrigger>
+	<tabTrigger><![CDATA[iPhone.ResetNoBackupFlag]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ResetNoBackupFlag(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

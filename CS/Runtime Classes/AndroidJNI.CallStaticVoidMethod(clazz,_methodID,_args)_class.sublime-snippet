@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallStaticVoidMethod(${1:IntPtr clazz}, ${2:IntPtr methodID}, ${3:jvalue[] args});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallStaticVoidMethod]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.CallStaticVoidMethod(clazz, methodID, args)]]></description>
+	<description><![CDATA[*(clazz, methodID, args)]]></description>
 </snippet>

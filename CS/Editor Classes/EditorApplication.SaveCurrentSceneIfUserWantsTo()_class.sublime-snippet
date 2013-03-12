@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.SaveCurrentSceneIfUserWantsTo();]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.SaveCurrentSceneIfUserWantsTo]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SaveCurrentSceneIfUserWantsTo()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

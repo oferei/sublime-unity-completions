@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.DrawSolidDisc(${1:center as Vector3}, ${2:normal as Vector3}, ${3:radius as single})]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.DrawSolidDisc]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawSolidDisc(center, normal, radius)]]></description>
+	<description><![CDATA[*(center, normal, radius)]]></description>
 </snippet>

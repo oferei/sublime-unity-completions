@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.deviceName]]></content>
-	<tabTrigger><![CDATA[SystemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[SystemInfo.deviceName]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.deviceName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

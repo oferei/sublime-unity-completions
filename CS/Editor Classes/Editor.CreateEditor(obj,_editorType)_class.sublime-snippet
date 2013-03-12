@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.CreateEditor(${1:Object obj}, ${2:Type editorType = null});]]></content>
-	<tabTrigger><![CDATA[Editor]]></tabTrigger>
+	<tabTrigger><![CDATA[Editor.CreateEditor]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.CreateEditor(obj, editorType)]]></description>
+	<description><![CDATA[*(obj, editorType)]]></description>
 </snippet>

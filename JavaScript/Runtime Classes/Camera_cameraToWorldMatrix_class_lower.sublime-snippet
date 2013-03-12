@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.cameraToWorldMatrix]]></content>
-	<tabTrigger><![CDATA[camera]]></tabTrigger>
+	<tabTrigger><![CDATA[camera.cameraToWorldMatrix]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.cameraToWorldMatrix]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

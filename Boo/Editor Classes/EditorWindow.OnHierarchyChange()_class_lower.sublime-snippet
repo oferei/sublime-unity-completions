@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.OnHierarchyChange()]]></content>
-	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[editorWindow.OnHierarchyChange]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OnHierarchyChange()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

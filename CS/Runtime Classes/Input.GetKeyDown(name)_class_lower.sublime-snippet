@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetKeyDown(${1:string name});]]></content>
-	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<tabTrigger><![CDATA[input.GetKeyDown]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetKeyDown(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.SetRevertBackfacing(${1:revertBackFaces : boolean});]]></content>
-	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<tabTrigger><![CDATA[GL.SetRevertBackfacing]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetRevertBackfacing(revertBackFaces)]]></description>
+	<description><![CDATA[*(revertBackFaces)]]></description>
 </snippet>

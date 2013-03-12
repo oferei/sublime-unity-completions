@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.PlayQueued(${1:animation : String}, ${2:queue : QueueMode = QueueMode.CompleteOthers}, ${3:mode : PlayMode = PlayMode.StopSameLayer});]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.PlayQueued]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.PlayQueued(animation, queue, mode)]]></description>
+	<description><![CDATA[*(animation, queue, mode)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.BeginChangeCheck()]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.BeginChangeCheck]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.BeginChangeCheck()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

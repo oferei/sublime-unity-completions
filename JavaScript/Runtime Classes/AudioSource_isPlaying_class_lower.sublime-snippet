@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AudioSource.isPlaying]]></content>
-	<tabTrigger><![CDATA[audioSource]]></tabTrigger>
+	<tabTrigger><![CDATA[audioSource.isPlaying]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.isPlaying]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

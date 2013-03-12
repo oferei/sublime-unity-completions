@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Rigidbody.ClosestPointOnBounds(${1:position as Vector3})]]></content>
-	<tabTrigger><![CDATA[Rigidbody]]></tabTrigger>
+	<tabTrigger><![CDATA[Rigidbody.ClosestPointOnBounds]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ClosestPointOnBounds(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

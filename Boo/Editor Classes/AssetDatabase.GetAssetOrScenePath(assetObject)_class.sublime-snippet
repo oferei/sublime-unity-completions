@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.GetAssetOrScenePath(${1:assetObject as Object})]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.GetAssetOrScenePath]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetAssetOrScenePath(assetObject)]]></description>
+	<description><![CDATA[*(assetObject)]]></description>
 </snippet>

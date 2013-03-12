@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ADBannerView.GetSizeFromSizeIdentifier(${1:ADSizeIdentifier identifier});]]></content>
-	<tabTrigger><![CDATA[ADBannerView]]></tabTrigger>
+	<tabTrigger><![CDATA[ADBannerView.GetSizeFromSizeIdentifier]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetSizeFromSizeIdentifier(identifier)]]></description>
+	<description><![CDATA[*(identifier)]]></description>
 </snippet>

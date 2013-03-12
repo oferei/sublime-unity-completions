@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Acos(${1:f as single})]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.Acos]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Acos(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

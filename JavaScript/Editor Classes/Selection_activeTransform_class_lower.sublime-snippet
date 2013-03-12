@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.activeTransform]]></content>
-	<tabTrigger><![CDATA[selection]]></tabTrigger>
+	<tabTrigger><![CDATA[selection.activeTransform]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.activeTransform]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

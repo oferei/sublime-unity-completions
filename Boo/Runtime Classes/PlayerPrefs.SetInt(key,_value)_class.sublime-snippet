@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerPrefs.SetInt(${1:key as string}, ${2:value as int})]]></content>
-	<tabTrigger><![CDATA[PlayerPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerPrefs.SetInt]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetInt(key, value)]]></description>
+	<description><![CDATA[*(key, value)]]></description>
 </snippet>

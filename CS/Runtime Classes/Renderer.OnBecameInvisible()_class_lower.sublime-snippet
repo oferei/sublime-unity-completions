@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Renderer.OnBecameInvisible();]]></content>
-	<tabTrigger><![CDATA[renderer]]></tabTrigger>
+	<tabTrigger><![CDATA[renderer.OnBecameInvisible]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnBecameInvisible()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

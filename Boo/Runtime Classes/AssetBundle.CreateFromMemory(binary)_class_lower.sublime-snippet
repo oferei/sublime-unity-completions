@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetBundle.CreateFromMemory(${1:binary as (byte)})]]></content>
-	<tabTrigger><![CDATA[assetBundle]]></tabTrigger>
+	<tabTrigger><![CDATA[assetBundle.CreateFromMemory]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CreateFromMemory(binary)]]></description>
+	<description><![CDATA[*(binary)]]></description>
 </snippet>

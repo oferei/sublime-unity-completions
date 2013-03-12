@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.OnConnectedToServer();]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.OnConnectedToServer]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnConnectedToServer()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

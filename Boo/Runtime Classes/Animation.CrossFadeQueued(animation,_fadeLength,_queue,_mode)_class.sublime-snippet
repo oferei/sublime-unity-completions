@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.CrossFadeQueued(${1:animation as string}, ${2:fadeLength as single = 0.3F}, ${3:queue as QueueMode = QueueMode.CompleteOthers}, ${4:mode as PlayMode = PlayMode.StopSameLayer})]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.CrossFadeQueued]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CrossFadeQueued(animation, fadeLength, queue, mode)]]></description>
+	<description><![CDATA[*(animation, fadeLength, queue, mode)]]></description>
 </snippet>

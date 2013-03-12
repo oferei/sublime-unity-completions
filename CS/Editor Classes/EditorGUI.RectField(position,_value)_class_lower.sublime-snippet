@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.RectField(${1:Rect position}, ${2:Rect value});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.RectField]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RectField(position, value)]]></description>
+	<description><![CDATA[*(position, value)]]></description>
 </snippet>

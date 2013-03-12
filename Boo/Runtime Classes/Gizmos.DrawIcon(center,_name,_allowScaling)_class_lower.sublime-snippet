@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gizmos.DrawIcon(${1:center as Vector3}, ${2:name as string}, ${3:allowScaling as bool = true})]]></content>
-	<tabTrigger><![CDATA[gizmos]]></tabTrigger>
+	<tabTrigger><![CDATA[gizmos.DrawIcon]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawIcon(center, name, allowScaling)]]></description>
+	<description><![CDATA[*(center, name, allowScaling)]]></description>
 </snippet>

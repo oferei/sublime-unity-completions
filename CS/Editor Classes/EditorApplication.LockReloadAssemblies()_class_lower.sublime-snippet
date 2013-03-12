@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.LockReloadAssemblies();]]></content>
-	<tabTrigger><![CDATA[editorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[editorApplication.LockReloadAssemblies]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LockReloadAssemblies()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Array.Reverse();]]></content>
-	<tabTrigger><![CDATA[array]]></tabTrigger>
+	<tabTrigger><![CDATA[array.Reverse]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Reverse()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

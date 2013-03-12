@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetKeyDown(${1:key as KeyCode})]]></content>
-	<tabTrigger><![CDATA[Input]]></tabTrigger>
+	<tabTrigger><![CDATA[Input.GetKeyDown]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetKeyDown(key)]]></description>
+	<description><![CDATA[*(key)]]></description>
 </snippet>

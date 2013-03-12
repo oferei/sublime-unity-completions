@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.RegisterLogCallbackThreaded(${1:handler as Application.LogCallback})]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.RegisterLogCallbackThreaded]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RegisterLogCallbackThreaded(handler)]]></description>
+	<description><![CDATA[*(handler)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.SaveAssets()]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.SaveAssets]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SaveAssets()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

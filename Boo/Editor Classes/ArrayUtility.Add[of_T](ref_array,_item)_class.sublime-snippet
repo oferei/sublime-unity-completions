@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ArrayUtility.Add[of ${1:T}](${2:ref array as (T)}, ${3:item as T})]]></content>
-	<tabTrigger><![CDATA[ArrayUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[ArrayUtility.Add]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Add[of T](ref array, item)]]></description>
+	<description><![CDATA[*[of T](ref array, item)]]></description>
 </snippet>

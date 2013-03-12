@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.IsSameObject(${1:obj1 : IntPtr}, ${2:obj2 : IntPtr});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.IsSameObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.IsSameObject(obj1, obj2)]]></description>
+	<description><![CDATA[*(obj1, obj2)]]></description>
 </snippet>

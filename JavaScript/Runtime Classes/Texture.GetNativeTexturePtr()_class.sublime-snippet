@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Texture.GetNativeTexturePtr();]]></content>
-	<tabTrigger><![CDATA[Texture]]></tabTrigger>
+	<tabTrigger><![CDATA[Texture.GetNativeTexturePtr]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetNativeTexturePtr()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Joint.OnJointBreak(${1:float breakForce});]]></content>
-	<tabTrigger><![CDATA[Joint]]></tabTrigger>
+	<tabTrigger><![CDATA[Joint.OnJointBreak]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnJointBreak(breakForce)]]></description>
+	<description><![CDATA[*(breakForce)]]></description>
 </snippet>

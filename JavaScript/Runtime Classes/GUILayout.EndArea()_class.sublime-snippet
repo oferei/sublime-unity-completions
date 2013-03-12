@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.EndArea();]]></content>
-	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[GUILayout.EndArea]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.EndArea()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

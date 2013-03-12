@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Texture2D.ReadPixels(${1:source : Rect}, ${2:destX : int}, ${3:destY : int}, ${4:recalculateMipMaps : boolean = true});]]></content>
-	<tabTrigger><![CDATA[Texture2D]]></tabTrigger>
+	<tabTrigger><![CDATA[Texture2D.ReadPixels]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ReadPixels(source, destX, destY, recalculateMipMaps)]]></description>
+	<description><![CDATA[*(source, destX, destY, recalculateMipMaps)]]></description>
 </snippet>

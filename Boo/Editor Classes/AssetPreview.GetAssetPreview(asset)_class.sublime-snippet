@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPreview.GetAssetPreview(${1:asset as Object})]]></content>
-	<tabTrigger><![CDATA[AssetPreview]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetPreview.GetAssetPreview]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetAssetPreview(asset)]]></description>
+	<description><![CDATA[*(asset)]]></description>
 </snippet>

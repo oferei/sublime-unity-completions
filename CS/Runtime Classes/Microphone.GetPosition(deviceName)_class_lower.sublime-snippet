@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Microphone.GetPosition(${1:string deviceName});]]></content>
-	<tabTrigger><![CDATA[microphone]]></tabTrigger>
+	<tabTrigger><![CDATA[microphone.GetPosition]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetPosition(deviceName)]]></description>
+	<description><![CDATA[*(deviceName)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.Beep();]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.Beep]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Beep()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

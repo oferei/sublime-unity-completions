@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.Awake();]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.Awake]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Awake()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

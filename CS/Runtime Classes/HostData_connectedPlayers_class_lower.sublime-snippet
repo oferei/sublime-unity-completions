@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HostData.connectedPlayers]]></content>
-	<tabTrigger><![CDATA[hostData]]></tabTrigger>
+	<tabTrigger><![CDATA[hostData.connectedPlayers]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.connectedPlayers]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

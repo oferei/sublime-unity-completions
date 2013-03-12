@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewCharArray(${1:size as int})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.NewCharArray]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.NewCharArray(size)]]></description>
+	<description><![CDATA[*(size)]]></description>
 </snippet>

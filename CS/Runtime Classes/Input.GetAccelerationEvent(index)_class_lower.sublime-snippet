@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetAccelerationEvent(${1:int index});]]></content>
-	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<tabTrigger><![CDATA[input.GetAccelerationEvent]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetAccelerationEvent(index)]]></description>
+	<description><![CDATA[*(index)]]></description>
 </snippet>

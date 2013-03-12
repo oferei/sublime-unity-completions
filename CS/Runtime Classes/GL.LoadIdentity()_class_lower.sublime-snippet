@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.LoadIdentity();]]></content>
-	<tabTrigger><![CDATA[gL]]></tabTrigger>
+	<tabTrigger><![CDATA[gL.LoadIdentity]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LoadIdentity()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

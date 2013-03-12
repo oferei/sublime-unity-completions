@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Screen.currentResolution]]></content>
-	<tabTrigger><![CDATA[screen]]></tabTrigger>
+	<tabTrigger><![CDATA[screen.currentResolution]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.currentResolution]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

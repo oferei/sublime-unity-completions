@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.RecalculateBounds();]]></content>
-	<tabTrigger><![CDATA[Mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[Mesh.RecalculateBounds]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RecalculateBounds()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

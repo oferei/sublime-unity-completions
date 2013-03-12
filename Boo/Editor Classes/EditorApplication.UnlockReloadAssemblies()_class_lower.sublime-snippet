@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.UnlockReloadAssemblies()]]></content>
-	<tabTrigger><![CDATA[editorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[editorApplication.UnlockReloadAssemblies]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.UnlockReloadAssemblies()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

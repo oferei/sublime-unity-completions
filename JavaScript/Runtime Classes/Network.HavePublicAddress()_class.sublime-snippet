@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.HavePublicAddress();]]></content>
-	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<tabTrigger><![CDATA[Network.HavePublicAddress]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HavePublicAddress()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

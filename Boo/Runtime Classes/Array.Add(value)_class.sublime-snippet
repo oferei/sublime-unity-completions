@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Array.Add(${1:value as object})]]></content>
-	<tabTrigger><![CDATA[Array]]></tabTrigger>
+	<tabTrigger><![CDATA[Array.Add]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Add(value)]]></description>
+	<description><![CDATA[*(value)]]></description>
 </snippet>

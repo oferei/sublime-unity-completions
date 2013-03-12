@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.DistanceToLine(${1:Vector3 p1}, ${2:Vector3 p2});]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.DistanceToLine]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DistanceToLine(p1, p2)]]></description>
+	<description><![CDATA[*(p1, p2)]]></description>
 </snippet>

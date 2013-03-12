@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[IUserProfile.userName]]></content>
-	<tabTrigger><![CDATA[IUserProfile]]></tabTrigger>
+	<tabTrigger><![CDATA[IUserProfile.userName]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.userName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

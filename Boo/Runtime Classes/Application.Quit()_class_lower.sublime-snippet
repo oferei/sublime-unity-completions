@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.Quit()]]></content>
-	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<tabTrigger><![CDATA[application.Quit]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Quit()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

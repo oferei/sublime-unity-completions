@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Quaternion.Euler(${1:euler as Vector3})]]></content>
-	<tabTrigger><![CDATA[quaternion]]></tabTrigger>
+	<tabTrigger><![CDATA[quaternion.Euler]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Euler(euler)]]></description>
+	<description><![CDATA[*(euler)]]></description>
 </snippet>

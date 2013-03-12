@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Acos(${1:f : float});]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.Acos]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Acos(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

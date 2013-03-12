@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.DisplayProgressBar(${1:title : String}, ${2:info : String}, ${3:progress : float});]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.DisplayProgressBar]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DisplayProgressBar(title, info, progress)]]></description>
+	<description><![CDATA[*(title, info, progress)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Terrain.CreateTerrainGameObject(${1:TerrainData assignTerrain});]]></content>
-	<tabTrigger><![CDATA[Terrain]]></tabTrigger>
+	<tabTrigger><![CDATA[Terrain.CreateTerrainGameObject]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.CreateTerrainGameObject(assignTerrain)]]></description>
+	<description><![CDATA[*(assignTerrain)]]></description>
 </snippet>

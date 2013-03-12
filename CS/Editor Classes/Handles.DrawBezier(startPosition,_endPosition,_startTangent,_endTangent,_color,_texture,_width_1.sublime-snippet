@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.DrawBezier(${1:Vector3 startPosition}, ${2:Vector3 endPosition}, ${3:Vector3 startTangent}, ${4:Vector3 endTangent}, ${5:Color color}, ${6:Texture2D texture}, ${7:float width});]]></content>
-	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<tabTrigger><![CDATA[Handles.DrawBezier]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DrawBezier(startPosition, endPosition, startTangent, endTangent, color, texture, width)]]></description>
+	<description><![CDATA[*(startPosition, endPosition, startTangent, endTangent, color, texture, width)]]></description>
 </snippet>

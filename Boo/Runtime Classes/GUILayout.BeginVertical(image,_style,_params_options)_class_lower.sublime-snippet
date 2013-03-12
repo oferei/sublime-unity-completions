@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.BeginVertical(${1:image as Texture}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayout.BeginVertical]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.BeginVertical(image, style, params options)]]></description>
+	<description><![CDATA[*(image, style, params options)]]></description>
 </snippet>

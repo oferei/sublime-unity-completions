@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.TransformDirection(${1:float x}, ${2:float y}, ${3:float z});]]></content>
-	<tabTrigger><![CDATA[transform]]></tabTrigger>
+	<tabTrigger><![CDATA[transform.TransformDirection]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.TransformDirection(x, y, z)]]></description>
+	<description><![CDATA[*(x, y, z)]]></description>
 </snippet>

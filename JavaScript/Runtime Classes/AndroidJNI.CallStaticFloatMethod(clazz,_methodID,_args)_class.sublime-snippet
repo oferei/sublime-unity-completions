@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallStaticFloatMethod(${1:clazz : IntPtr}, ${2:methodID : IntPtr}, ${3:args : jvalue[]});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallStaticFloatMethod]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CallStaticFloatMethod(clazz, methodID, args)]]></description>
+	<description><![CDATA[*(clazz, methodID, args)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Profiler.EndSample()]]></content>
-	<tabTrigger><![CDATA[Profiler]]></tabTrigger>
+	<tabTrigger><![CDATA[Profiler.EndSample]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.EndSample()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

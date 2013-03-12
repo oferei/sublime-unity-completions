@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.ExpandWidth(${1:expand as bool})]]></content>
-	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayout.ExpandWidth]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ExpandWidth(expand)]]></description>
+	<description><![CDATA[*(expand)]]></description>
 </snippet>

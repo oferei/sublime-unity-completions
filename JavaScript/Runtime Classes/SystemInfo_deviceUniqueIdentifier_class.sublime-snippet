@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.deviceUniqueIdentifier]]></content>
-	<tabTrigger><![CDATA[SystemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[SystemInfo.deviceUniqueIdentifier]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.deviceUniqueIdentifier]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

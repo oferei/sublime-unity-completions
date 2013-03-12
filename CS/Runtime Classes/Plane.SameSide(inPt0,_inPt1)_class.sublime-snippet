@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Plane.SameSide(${1:Vector3 inPt0}, ${2:Vector3 inPt1});]]></content>
-	<tabTrigger><![CDATA[Plane]]></tabTrigger>
+	<tabTrigger><![CDATA[Plane.SameSide]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SameSide(inPt0, inPt1)]]></description>
+	<description><![CDATA[*(inPt0, inPt1)]]></description>
 </snippet>

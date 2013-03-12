@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector3.RotateTowards(${1:current : Vector3}, ${2:target : Vector3}, ${3:maxRadiansDelta : float}, ${4:maxMagnitudeDelta : float});]]></content>
-	<tabTrigger><![CDATA[Vector3]]></tabTrigger>
+	<tabTrigger><![CDATA[Vector3.RotateTowards]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RotateTowards(current, target, maxRadiansDelta, maxMagnitudeDelta)]]></description>
+	<description><![CDATA[*(current, target, maxRadiansDelta, maxMagnitudeDelta)]]></description>
 </snippet>

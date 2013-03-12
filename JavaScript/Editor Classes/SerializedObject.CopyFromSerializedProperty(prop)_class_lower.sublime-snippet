@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedObject.CopyFromSerializedProperty(${1:prop : SerializedProperty});]]></content>
-	<tabTrigger><![CDATA[serializedObject]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedObject.CopyFromSerializedProperty]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CopyFromSerializedProperty(prop)]]></description>
+	<description><![CDATA[*(prop)]]></description>
 </snippet>

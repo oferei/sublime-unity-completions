@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.EndGUI();]]></content>
-	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<tabTrigger><![CDATA[Handles.EndGUI]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.EndGUI()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

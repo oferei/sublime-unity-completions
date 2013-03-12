@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshAgent.remainingDistance]]></content>
-	<tabTrigger><![CDATA[navMeshAgent]]></tabTrigger>
+	<tabTrigger><![CDATA[navMeshAgent.remainingDistance]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.remainingDistance]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

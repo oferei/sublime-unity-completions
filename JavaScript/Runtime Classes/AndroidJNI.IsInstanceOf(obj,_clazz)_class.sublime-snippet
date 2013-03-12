@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.IsInstanceOf(${1:obj : IntPtr}, ${2:clazz : IntPtr});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.IsInstanceOf]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.IsInstanceOf(obj, clazz)]]></description>
+	<description><![CDATA[*(obj, clazz)]]></description>
 </snippet>

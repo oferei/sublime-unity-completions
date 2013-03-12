@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.Slider2D(${1:handlePos : Vector3}, ${2:handleDir : Vector3}, ${3:slideDir1 : Vector3}, ${4:slideDir2 : Vector3}, ${5:handleSize : float}, ${6:drawFunc : DrawCapFunction}, ${7:snap : float}, ${8:drawHelper : boolean = false});]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.Slider2D]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Slider2D(handlePos, handleDir, slideDir1, slideDir2, handleSize, drawFunc, snap, drawHelper)]]></description>
+	<description><![CDATA[*(handlePos, handleDir, slideDir1, slideDir2, handleSize, drawFunc, snap, drawHelper)]]></description>
 </snippet>

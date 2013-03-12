@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Resources.LoadAll(${1:string path}, ${2:Type systemTypeInstance});]]></content>
-	<tabTrigger><![CDATA[Resources]]></tabTrigger>
+	<tabTrigger><![CDATA[Resources.LoadAll]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LoadAll(path, systemTypeInstance)]]></description>
+	<description><![CDATA[*(path, systemTypeInstance)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Physics.SphereCastAll(${1:ray : Ray}, ${2:radius : float}, ${3:distance : float = Mathf.Infinity}, ${4:layerMask : int = kDefaultRaycastLayers});]]></content>
-	<tabTrigger><![CDATA[Physics]]></tabTrigger>
+	<tabTrigger><![CDATA[Physics.SphereCastAll]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SphereCastAll(ray, radius, distance, layerMask)]]></description>
+	<description><![CDATA[*(ray, radius, distance, layerMask)]]></description>
 </snippet>

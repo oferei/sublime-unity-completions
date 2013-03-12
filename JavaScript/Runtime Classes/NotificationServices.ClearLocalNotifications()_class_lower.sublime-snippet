@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NotificationServices.ClearLocalNotifications();]]></content>
-	<tabTrigger><![CDATA[notificationServices]]></tabTrigger>
+	<tabTrigger><![CDATA[notificationServices.ClearLocalNotifications]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ClearLocalNotifications()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

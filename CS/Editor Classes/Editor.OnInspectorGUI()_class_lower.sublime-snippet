@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.OnInspectorGUI();]]></content>
-	<tabTrigger><![CDATA[editor]]></tabTrigger>
+	<tabTrigger><![CDATA[editor.OnInspectorGUI]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnInspectorGUI()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.persistentDataPath]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.persistentDataPath]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.persistentDataPath]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

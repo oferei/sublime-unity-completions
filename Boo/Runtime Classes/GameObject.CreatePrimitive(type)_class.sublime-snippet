@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GameObject.CreatePrimitive(${1:type as PrimitiveType})]]></content>
-	<tabTrigger><![CDATA[GameObject]]></tabTrigger>
+	<tabTrigger><![CDATA[GameObject.CreatePrimitive]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CreatePrimitive(type)]]></description>
+	<description><![CDATA[*(type)]]></description>
 </snippet>

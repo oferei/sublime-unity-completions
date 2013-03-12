@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.EndScrollView();]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUILayout.EndScrollView]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.EndScrollView()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

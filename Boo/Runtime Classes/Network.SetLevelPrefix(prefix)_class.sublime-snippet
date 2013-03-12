@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.SetLevelPrefix(${1:prefix as int})]]></content>
-	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<tabTrigger><![CDATA[Network.SetLevelPrefix]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetLevelPrefix(prefix)]]></description>
+	<description><![CDATA[*(prefix)]]></description>
 </snippet>

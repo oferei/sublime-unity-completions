@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.SetIconsForTargetGroup(${1:platform : BuildTargetGroup}, ${2:icons : Texture2D[]});]]></content>
-	<tabTrigger><![CDATA[PlayerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.SetIconsForTargetGroup]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetIconsForTargetGroup(platform, icons)]]></description>
+	<description><![CDATA[*(platform, icons)]]></description>
 </snippet>

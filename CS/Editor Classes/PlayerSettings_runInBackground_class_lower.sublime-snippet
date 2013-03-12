@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.runInBackground]]></content>
-	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.runInBackground]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.runInBackground]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handheld.SetActivityIndicatorStyle(${1:style : AndroidActivityIndicatorStyle});]]></content>
-	<tabTrigger><![CDATA[Handheld]]></tabTrigger>
+	<tabTrigger><![CDATA[Handheld.SetActivityIndicatorStyle]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetActivityIndicatorStyle(style)]]></description>
+	<description><![CDATA[*(style)]]></description>
 </snippet>

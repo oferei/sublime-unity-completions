@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.Wii.ResetMemoryAreas();]]></content>
-	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.Wii.ResetMemoryAreas]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Wii.ResetMemoryAreas()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

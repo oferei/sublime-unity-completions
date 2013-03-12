@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.MarkDynamic();]]></content>
-	<tabTrigger><![CDATA[Mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[Mesh.MarkDynamic]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.MarkDynamic()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

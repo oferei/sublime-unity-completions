@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.CountInProperty()]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.CountInProperty]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CountInProperty()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

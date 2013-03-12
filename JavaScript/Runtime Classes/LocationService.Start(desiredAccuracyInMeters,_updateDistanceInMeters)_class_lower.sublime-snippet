@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LocationService.Start(${1:desiredAccuracyInMeters : float = 10f}, ${2:updateDistanceInMeters : float = 10f});]]></content>
-	<tabTrigger><![CDATA[locationService]]></tabTrigger>
+	<tabTrigger><![CDATA[locationService.Start]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Start(desiredAccuracyInMeters, updateDistanceInMeters)]]></description>
+	<description><![CDATA[*(desiredAccuracyInMeters, updateDistanceInMeters)]]></description>
 </snippet>

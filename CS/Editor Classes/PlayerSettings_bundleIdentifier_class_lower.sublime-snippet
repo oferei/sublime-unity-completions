@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.bundleIdentifier]]></content>
-	<tabTrigger><![CDATA[playerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.bundleIdentifier]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.bundleIdentifier]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

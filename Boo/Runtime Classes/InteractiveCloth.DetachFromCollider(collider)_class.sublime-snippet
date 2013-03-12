@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[InteractiveCloth.DetachFromCollider(${1:collider as Collider})]]></content>
-	<tabTrigger><![CDATA[InteractiveCloth]]></tabTrigger>
+	<tabTrigger><![CDATA[InteractiveCloth.DetachFromCollider]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DetachFromCollider(collider)]]></description>
+	<description><![CDATA[*(collider)]]></description>
 </snippet>

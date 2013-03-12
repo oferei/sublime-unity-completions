@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Rigidbody.AddExplosionForce(${1:explosionForce : float}, ${2:explosionPosition : Vector3}, ${3:explosionRadius : float}, ${4:upwardsModifier : float = 0.0F}, ${5:mode : ForceMode = ForceMode.Force});]]></content>
-	<tabTrigger><![CDATA[Rigidbody]]></tabTrigger>
+	<tabTrigger><![CDATA[Rigidbody.AddExplosionForce]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.AddExplosionForce(explosionForce, explosionPosition, explosionRadius, upwardsModifier, mode)]]></description>
+	<description><![CDATA[*(explosionForce, explosionPosition, explosionRadius, upwardsModifier, mode)]]></description>
 </snippet>

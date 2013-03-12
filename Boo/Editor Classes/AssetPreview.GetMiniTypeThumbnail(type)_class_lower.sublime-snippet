@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPreview.GetMiniTypeThumbnail(${1:type as Type})]]></content>
-	<tabTrigger><![CDATA[assetPreview]]></tabTrigger>
+	<tabTrigger><![CDATA[assetPreview.GetMiniTypeThumbnail]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetMiniTypeThumbnail(type)]]></description>
+	<description><![CDATA[*(type)]]></description>
 </snippet>

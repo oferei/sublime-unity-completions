@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorPrefs.SetFloat(${1:string key}, ${2:float value});]]></content>
-	<tabTrigger><![CDATA[EditorPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorPrefs.SetFloat]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetFloat(key, value)]]></description>
+	<description><![CDATA[*(key, value)]]></description>
 </snippet>

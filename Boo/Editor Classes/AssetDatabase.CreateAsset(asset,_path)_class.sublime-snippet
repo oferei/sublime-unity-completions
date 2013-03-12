@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.CreateAsset(${1:asset as Object}, ${2:path as string})]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.CreateAsset]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CreateAsset(asset, path)]]></description>
+	<description><![CDATA[*(asset, path)]]></description>
 </snippet>

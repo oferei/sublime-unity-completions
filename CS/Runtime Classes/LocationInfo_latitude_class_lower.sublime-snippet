@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LocationInfo.latitude]]></content>
-	<tabTrigger><![CDATA[locationInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[locationInfo.latitude]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.latitude]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

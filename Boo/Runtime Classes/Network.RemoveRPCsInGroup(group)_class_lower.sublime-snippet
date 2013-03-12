@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.RemoveRPCsInGroup(${1:group as int})]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.RemoveRPCsInGroup]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RemoveRPCsInGroup(group)]]></description>
+	<description><![CDATA[*(group)]]></description>
 </snippet>

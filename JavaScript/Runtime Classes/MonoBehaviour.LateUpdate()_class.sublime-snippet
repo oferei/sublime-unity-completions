@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.LateUpdate();]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.LateUpdate]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LateUpdate()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

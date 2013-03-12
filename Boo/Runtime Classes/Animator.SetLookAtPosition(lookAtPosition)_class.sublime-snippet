@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.SetLookAtPosition(${1:lookAtPosition as Vector3})]]></content>
-	<tabTrigger><![CDATA[Animator]]></tabTrigger>
+	<tabTrigger><![CDATA[Animator.SetLookAtPosition]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetLookAtPosition(lookAtPosition)]]></description>
+	<description><![CDATA[*(lookAtPosition)]]></description>
 </snippet>

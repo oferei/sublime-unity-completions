@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.ResetAspect();]]></content>
-	<tabTrigger><![CDATA[Camera]]></tabTrigger>
+	<tabTrigger><![CDATA[Camera.ResetAspect]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ResetAspect()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

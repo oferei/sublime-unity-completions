@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPostprocessor.LogError(${1:warning as string}, ${2:context as Object = null})]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetPostprocessor.LogError]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.LogError(warning, context)]]></description>
+	<description><![CDATA[*(warning, context)]]></description>
 </snippet>

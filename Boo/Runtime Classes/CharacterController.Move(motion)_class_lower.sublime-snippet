@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CharacterController.Move(${1:motion as Vector3})]]></content>
-	<tabTrigger><![CDATA[characterController]]></tabTrigger>
+	<tabTrigger><![CDATA[characterController.Move]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Move(motion)]]></description>
+	<description><![CDATA[*(motion)]]></description>
 </snippet>

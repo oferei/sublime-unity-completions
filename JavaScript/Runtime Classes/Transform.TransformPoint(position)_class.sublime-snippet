@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.TransformPoint(${1:position : Vector3});]]></content>
-	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<tabTrigger><![CDATA[Transform.TransformPoint]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.TransformPoint(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

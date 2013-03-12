@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.Slider(${1:Rect position}, ${2:float value}, ${3:float leftValue}, ${4:float rightValue});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.Slider]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Slider(position, value, leftValue, rightValue)]]></description>
+	<description><![CDATA[*(position, value, leftValue, rightValue)]]></description>
 </snippet>

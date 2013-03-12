@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.ImportAsset(${1:path as string}, ${2:options as ImportAssetOptions = ImportAssetOptions.Default})]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.ImportAsset]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ImportAsset(path, options)]]></description>
+	<description><![CDATA[*(path, options)]]></description>
 </snippet>

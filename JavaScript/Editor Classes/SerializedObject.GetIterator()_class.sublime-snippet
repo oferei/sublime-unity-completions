@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedObject.GetIterator();]]></content>
-	<tabTrigger><![CDATA[SerializedObject]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedObject.GetIterator]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetIterator()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

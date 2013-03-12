@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnConnectedToServer();]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.OnConnectedToServer]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnConnectedToServer()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

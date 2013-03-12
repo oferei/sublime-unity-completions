@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshAgent.SetDestination(${1:target as Vector3})]]></content>
-	<tabTrigger><![CDATA[navMeshAgent]]></tabTrigger>
+	<tabTrigger><![CDATA[navMeshAgent.SetDestination]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetDestination(target)]]></description>
+	<description><![CDATA[*(target)]]></description>
 </snippet>

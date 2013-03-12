@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.MoveAssetToTrash(${1:path : String});]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.MoveAssetToTrash]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.MoveAssetToTrash(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

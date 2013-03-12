@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.ResetProjectionMatrix()]]></content>
-	<tabTrigger><![CDATA[camera]]></tabTrigger>
+	<tabTrigger><![CDATA[camera.ResetProjectionMatrix]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ResetProjectionMatrix()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

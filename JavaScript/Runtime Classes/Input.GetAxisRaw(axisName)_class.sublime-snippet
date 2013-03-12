@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetAxisRaw(${1:axisName : String});]]></content>
-	<tabTrigger><![CDATA[Input]]></tabTrigger>
+	<tabTrigger><![CDATA[Input.GetAxisRaw]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetAxisRaw(axisName)]]></description>
+	<description><![CDATA[*(axisName)]]></description>
 </snippet>

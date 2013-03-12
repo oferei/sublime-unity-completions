@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.Window(${1:id as int}, ${2:screenRect as Rect}, ${3:func as GUI.WindowFunction}, ${4:image as Texture}, ${5: as })]]></content>
-	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[GUILayout.Window]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Window(id, screenRect, func, image, )]]></description>
+	<description><![CDATA[*(id, screenRect, func, image, )]]></description>
 </snippet>

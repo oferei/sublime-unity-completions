@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.RectField(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : Rect});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.RectField]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RectField(position, label, value)]]></description>
+	<description><![CDATA[*(position, label, value)]]></description>
 </snippet>

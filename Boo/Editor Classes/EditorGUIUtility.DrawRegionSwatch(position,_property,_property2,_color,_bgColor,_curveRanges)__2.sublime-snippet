@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.DrawRegionSwatch(${1:position as Rect}, ${2:property as SerializedProperty}, ${3:property2 as SerializedProperty}, ${4:color as Color}, ${5:bgColor as Color}, ${6:curveRanges as Rect})]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUIUtility.DrawRegionSwatch]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawRegionSwatch(position, property, property2, color, bgColor, curveRanges)]]></description>
+	<description><![CDATA[*(position, property, property2, color, bgColor, curveRanges)]]></description>
 </snippet>

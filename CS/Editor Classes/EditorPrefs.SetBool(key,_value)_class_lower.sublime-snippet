@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorPrefs.SetBool(${1:string key}, ${2:bool value});]]></content>
-	<tabTrigger><![CDATA[editorPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[editorPrefs.SetBool]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetBool(key, value)]]></description>
+	<description><![CDATA[*(key, value)]]></description>
 </snippet>

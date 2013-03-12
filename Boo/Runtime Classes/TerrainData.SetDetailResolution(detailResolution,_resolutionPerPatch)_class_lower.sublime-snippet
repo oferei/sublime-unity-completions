@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TerrainData.SetDetailResolution(${1:detailResolution as int}, ${2:resolutionPerPatch as int})]]></content>
-	<tabTrigger><![CDATA[terrainData]]></tabTrigger>
+	<tabTrigger><![CDATA[terrainData.SetDetailResolution]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetDetailResolution(detailResolution, resolutionPerPatch)]]></description>
+	<description><![CDATA[*(detailResolution, resolutionPerPatch)]]></description>
 </snippet>

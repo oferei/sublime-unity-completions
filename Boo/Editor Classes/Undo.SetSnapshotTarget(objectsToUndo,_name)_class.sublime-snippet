@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Undo.SetSnapshotTarget(${1:objectsToUndo as (Object)}, ${2:name as string})]]></content>
-	<tabTrigger><![CDATA[Undo]]></tabTrigger>
+	<tabTrigger><![CDATA[Undo.SetSnapshotTarget]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetSnapshotTarget(objectsToUndo, name)]]></description>
+	<description><![CDATA[*(objectsToUndo, name)]]></description>
 </snippet>

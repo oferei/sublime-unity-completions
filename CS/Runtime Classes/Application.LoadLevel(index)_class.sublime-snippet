@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.LoadLevel(${1:int index});]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.LoadLevel]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LoadLevel(index)]]></description>
+	<description><![CDATA[*(index)]]></description>
 </snippet>

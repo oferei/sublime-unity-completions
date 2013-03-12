@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServer.PollHostList();]]></content>
-	<tabTrigger><![CDATA[masterServer]]></tabTrigger>
+	<tabTrigger><![CDATA[masterServer.PollHostList]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.PollHostList()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

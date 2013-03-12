@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.GetTransforms(${1:mode : SelectionMode});]]></content>
-	<tabTrigger><![CDATA[selection]]></tabTrigger>
+	<tabTrigger><![CDATA[selection.GetTransforms]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetTransforms(mode)]]></description>
+	<description><![CDATA[*(mode)]]></description>
 </snippet>

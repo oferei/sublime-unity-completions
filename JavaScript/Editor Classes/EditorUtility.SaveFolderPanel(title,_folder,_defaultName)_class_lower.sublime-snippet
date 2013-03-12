@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.SaveFolderPanel(${1:title : String}, ${2:folder : String}, ${3:defaultName : String});]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.SaveFolderPanel]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SaveFolderPanel(title, folder, defaultName)]]></description>
+	<description><![CDATA[*(title, folder, defaultName)]]></description>
 </snippet>

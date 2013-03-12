@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.MinWidth(${1:minWidth as single})]]></content>
-	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayout.MinWidth]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.MinWidth(minWidth)]]></description>
+	<description><![CDATA[*(minWidth)]]></description>
 </snippet>

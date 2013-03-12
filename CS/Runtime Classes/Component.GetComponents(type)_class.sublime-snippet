@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Component.GetComponents(${1:Type type});]]></content>
-	<tabTrigger><![CDATA[Component]]></tabTrigger>
+	<tabTrigger><![CDATA[Component.GetComponents]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetComponents(type)]]></description>
+	<description><![CDATA[*(type)]]></description>
 </snippet>

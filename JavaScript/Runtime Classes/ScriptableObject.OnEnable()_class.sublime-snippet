@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScriptableObject.OnEnable();]]></content>
-	<tabTrigger><![CDATA[ScriptableObject]]></tabTrigger>
+	<tabTrigger><![CDATA[ScriptableObject.OnEnable]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnEnable()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

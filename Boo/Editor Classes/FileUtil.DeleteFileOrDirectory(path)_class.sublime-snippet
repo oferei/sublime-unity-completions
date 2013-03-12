@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[FileUtil.DeleteFileOrDirectory(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[FileUtil]]></tabTrigger>
+	<tabTrigger><![CDATA[FileUtil.DeleteFileOrDirectory]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DeleteFileOrDirectory(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

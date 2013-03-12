@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Graphics.DrawTexture(${1:screenRect : Rect}, ${2:texture : Texture}, ${3:sourceRect : Rect}, ${4:leftBorder : int}, ${5:rightBorder : int}, ${6:topBorder : int}, ${7:bottomBorder : int}, ${8:mat : Material = null});]]></content>
-	<tabTrigger><![CDATA[graphics]]></tabTrigger>
+	<tabTrigger><![CDATA[graphics.DrawTexture]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DrawTexture(screenRect, texture, sourceRect, leftBorder, rightBorder, topBorder, bottomBorder, mat)]]></description>
+	<description><![CDATA[*(screenRect, texture, sourceRect, leftBorder, rightBorder, topBorder, bottomBorder, mat)]]></description>
 </snippet>

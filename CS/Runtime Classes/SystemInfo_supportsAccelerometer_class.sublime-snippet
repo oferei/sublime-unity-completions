@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.supportsAccelerometer]]></content>
-	<tabTrigger><![CDATA[SystemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[SystemInfo.supportsAccelerometer]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.supportsAccelerometer]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

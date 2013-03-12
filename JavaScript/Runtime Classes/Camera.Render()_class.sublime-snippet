@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.Render();]]></content>
-	<tabTrigger><![CDATA[Camera]]></tabTrigger>
+	<tabTrigger><![CDATA[Camera.Render]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Render()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

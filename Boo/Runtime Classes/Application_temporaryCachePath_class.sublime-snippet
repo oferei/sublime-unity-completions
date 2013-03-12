@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.temporaryCachePath]]></content>
-	<tabTrigger><![CDATA[Application]]></tabTrigger>
+	<tabTrigger><![CDATA[Application.temporaryCachePath]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.temporaryCachePath]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ToShortArray(${1:array : Int16[]});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.ToShortArray]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ToShortArray(array)]]></description>
+	<description><![CDATA[*(array)]]></description>
 </snippet>

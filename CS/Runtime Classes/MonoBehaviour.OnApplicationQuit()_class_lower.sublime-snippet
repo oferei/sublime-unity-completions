@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnApplicationQuit();]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.OnApplicationQuit]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnApplicationQuit()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

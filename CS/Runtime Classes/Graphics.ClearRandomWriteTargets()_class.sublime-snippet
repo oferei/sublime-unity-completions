@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Graphics.ClearRandomWriteTargets();]]></content>
-	<tabTrigger><![CDATA[Graphics]]></tabTrigger>
+	<tabTrigger><![CDATA[Graphics.ClearRandomWriteTargets]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ClearRandomWriteTargets()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

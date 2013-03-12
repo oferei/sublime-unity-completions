@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.CurveField(${1:position : Rect}, ${2:value : SerializedProperty}, ${3:color : Color}, ${4:ranges : Rect});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.CurveField]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CurveField(position, value, color, ranges)]]></description>
+	<description><![CDATA[*(position, value, color, ranges)]]></description>
 </snippet>

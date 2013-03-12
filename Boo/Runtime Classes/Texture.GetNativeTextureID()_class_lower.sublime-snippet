@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Texture.GetNativeTextureID()]]></content>
-	<tabTrigger><![CDATA[texture]]></tabTrigger>
+	<tabTrigger><![CDATA[texture.GetNativeTextureID]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetNativeTextureID()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

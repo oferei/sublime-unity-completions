@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.SetStaticDoubleField(${1:clazz as IntPtr}, ${2:fieldID as IntPtr}, ${3:val as double})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.SetStaticDoubleField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetStaticDoubleField(clazz, fieldID, val)]]></description>
+	<description><![CDATA[*(clazz, fieldID, val)]]></description>
 </snippet>

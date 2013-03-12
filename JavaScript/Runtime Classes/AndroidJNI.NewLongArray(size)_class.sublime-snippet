@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewLongArray(${1:size : int});]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.NewLongArray]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.NewLongArray(size)]]></description>
+	<description><![CDATA[*(size)]]></description>
 </snippet>

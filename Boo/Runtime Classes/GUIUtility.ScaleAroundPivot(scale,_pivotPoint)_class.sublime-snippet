@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIUtility.ScaleAroundPivot(${1:scale as Vector2}, ${2:pivotPoint as Vector2})]]></content>
-	<tabTrigger><![CDATA[GUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[GUIUtility.ScaleAroundPivot]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ScaleAroundPivot(scale, pivotPoint)]]></description>
+	<description><![CDATA[*(scale, pivotPoint)]]></description>
 </snippet>

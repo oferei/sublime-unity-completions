@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ComputeShader.SetVector(${1:name as string}, ${2:val as Vector4})]]></content>
-	<tabTrigger><![CDATA[ComputeShader]]></tabTrigger>
+	<tabTrigger><![CDATA[ComputeShader.SetVector]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetVector(name, val)]]></description>
+	<description><![CDATA[*(name, val)]]></description>
 </snippet>

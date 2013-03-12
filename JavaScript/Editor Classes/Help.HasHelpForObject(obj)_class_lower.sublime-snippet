@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Help.HasHelpForObject(${1:obj : Object});]]></content>
-	<tabTrigger><![CDATA[help]]></tabTrigger>
+	<tabTrigger><![CDATA[help.HasHelpForObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HasHelpForObject(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

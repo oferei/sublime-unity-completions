@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Repeat(${1:t : float}, ${2:length : float});]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.Repeat]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Repeat(t, length)]]></description>
+	<description><![CDATA[*(t, length)]]></description>
 </snippet>

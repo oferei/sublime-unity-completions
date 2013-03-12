@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[IAchievementDescription.achievedDescription]]></content>
-	<tabTrigger><![CDATA[iAchievementDescription]]></tabTrigger>
+	<tabTrigger><![CDATA[iAchievementDescription.achievedDescription]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.achievedDescription]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

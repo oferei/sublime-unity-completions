@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.RotateAround(${1:point as Vector3}, ${2:axis as Vector3}, ${3:angle as single})]]></content>
-	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<tabTrigger><![CDATA[Transform.RotateAround]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RotateAround(point, axis, angle)]]></description>
+	<description><![CDATA[*(point, axis, angle)]]></description>
 </snippet>

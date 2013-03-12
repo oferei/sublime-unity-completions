@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.Start();]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.Start]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Start()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

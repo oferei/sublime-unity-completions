@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationEvent.functionName]]></content>
-	<tabTrigger><![CDATA[animationEvent]]></tabTrigger>
+	<tabTrigger><![CDATA[animationEvent.functionName]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.functionName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

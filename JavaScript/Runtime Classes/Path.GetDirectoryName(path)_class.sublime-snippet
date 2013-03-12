@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Path.GetDirectoryName(${1:path : String});]]></content>
-	<tabTrigger><![CDATA[Path]]></tabTrigger>
+	<tabTrigger><![CDATA[Path.GetDirectoryName]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetDirectoryName(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

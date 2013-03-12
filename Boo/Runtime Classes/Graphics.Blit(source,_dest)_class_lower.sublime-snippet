@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Graphics.Blit(${1:source as Texture}, ${2:dest as RenderTexture})]]></content>
-	<tabTrigger><![CDATA[graphics]]></tabTrigger>
+	<tabTrigger><![CDATA[graphics.Blit]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Blit(source, dest)]]></description>
+	<description><![CDATA[*(source, dest)]]></description>
 </snippet>

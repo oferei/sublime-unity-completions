@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.DisplayPopupMenu(${1:position as Rect}, ${2:menuItemPath as string}, ${3:command as MenuCommand})]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.DisplayPopupMenu]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DisplayPopupMenu(position, menuItemPath, command)]]></description>
+	<description><![CDATA[*(position, menuItemPath, command)]]></description>
 </snippet>

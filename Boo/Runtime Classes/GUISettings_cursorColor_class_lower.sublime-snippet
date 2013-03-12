@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUISettings.cursorColor]]></content>
-	<tabTrigger><![CDATA[gUISettings]]></tabTrigger>
+	<tabTrigger><![CDATA[gUISettings.cursorColor]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.cursorColor]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

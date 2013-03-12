@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.Toggle(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : boolean});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.Toggle]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Toggle(position, label, value)]]></description>
+	<description><![CDATA[*(position, label, value)]]></description>
 </snippet>

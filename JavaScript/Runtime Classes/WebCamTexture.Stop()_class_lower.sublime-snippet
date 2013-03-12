@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WebCamTexture.Stop();]]></content>
-	<tabTrigger><![CDATA[webCamTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[webCamTexture.Stop]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Stop()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

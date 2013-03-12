@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetModificationProcessor.OnWillCreateAsset(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[AssetModificationProcessor]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetModificationProcessor.OnWillCreateAsset]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.OnWillCreateAsset(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationUtility.GetAnimatableObjects(${1:go : GameObject});]]></content>
-	<tabTrigger><![CDATA[animationUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[animationUtility.GetAnimatableObjects]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetAnimatableObjects(go)]]></description>
+	<description><![CDATA[*(go)]]></description>
 </snippet>

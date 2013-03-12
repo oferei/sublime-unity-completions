@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnDrawGizmos();]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.OnDrawGizmos]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnDrawGizmos()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

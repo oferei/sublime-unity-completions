@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Debug.LogException(${1:exception as Exception})]]></content>
-	<tabTrigger><![CDATA[Debug]]></tabTrigger>
+	<tabTrigger><![CDATA[Debug.LogException]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.LogException(exception)]]></description>
+	<description><![CDATA[*(exception)]]></description>
 </snippet>

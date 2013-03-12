@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetBundle.Load(${1:string name});]]></content>
-	<tabTrigger><![CDATA[AssetBundle]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetBundle.Load]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Load(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Undo.ClearSnapshotTarget();]]></content>
-	<tabTrigger><![CDATA[Undo]]></tabTrigger>
+	<tabTrigger><![CDATA[Undo.ClearSnapshotTarget]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ClearSnapshotTarget()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

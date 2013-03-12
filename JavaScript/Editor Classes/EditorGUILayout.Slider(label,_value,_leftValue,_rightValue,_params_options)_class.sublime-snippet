@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.Slider(${1:label : GUIContent}, ${2:value : float}, ${3:leftValue : float}, ${4:rightValue : float}, ${5:params options : GUILayoutOption[]});]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUILayout.Slider]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Slider(label, value, leftValue, rightValue, params options)]]></description>
+	<description><![CDATA[*(label, value, leftValue, rightValue, params options)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Rigidbody.SetDensity(${1:float density});]]></content>
-	<tabTrigger><![CDATA[Rigidbody]]></tabTrigger>
+	<tabTrigger><![CDATA[Rigidbody.SetDensity]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetDensity(density)]]></description>
+	<description><![CDATA[*(density)]]></description>
 </snippet>

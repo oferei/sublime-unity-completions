@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.Repaint()]]></content>
-	<tabTrigger><![CDATA[Editor]]></tabTrigger>
+	<tabTrigger><![CDATA[Editor.Repaint]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Repaint()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

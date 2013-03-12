@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.IntSlider(${1:position : Rect}, ${2:value : int}, ${3:leftValue : int}, ${4:rightValue : int});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.IntSlider]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.IntSlider(position, value, leftValue, rightValue)]]></description>
+	<description><![CDATA[*(position, value, leftValue, rightValue)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.DropShadowLabel(${1:position as Rect}, ${2:text as string}, ${3:style as GUIStyle})]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.DropShadowLabel]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DropShadowLabel(position, text, style)]]></description>
+	<description><![CDATA[*(position, text, style)]]></description>
 </snippet>

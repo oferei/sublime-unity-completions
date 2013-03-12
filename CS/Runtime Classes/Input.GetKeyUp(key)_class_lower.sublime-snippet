@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetKeyUp(${1:KeyCode key});]]></content>
-	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<tabTrigger><![CDATA[input.GetKeyUp]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetKeyUp(key)]]></description>
+	<description><![CDATA[*(key)]]></description>
 </snippet>

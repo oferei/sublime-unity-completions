@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Shader.WarmupAllShaders();]]></content>
-	<tabTrigger><![CDATA[shader]]></tabTrigger>
+	<tabTrigger><![CDATA[shader.WarmupAllShaders]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.WarmupAllShaders()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

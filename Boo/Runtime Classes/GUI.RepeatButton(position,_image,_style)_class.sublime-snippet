@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.RepeatButton(${1:position as Rect}, ${2:image as Texture}, ${3:style as GUIStyle})]]></content>
-	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<tabTrigger><![CDATA[GUI.RepeatButton]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RepeatButton(position, image, style)]]></description>
+	<description><![CDATA[*(position, image, style)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animator.IsParameterControlledByCurve(${1:id : int});]]></content>
-	<tabTrigger><![CDATA[animator]]></tabTrigger>
+	<tabTrigger><![CDATA[animator.IsParameterControlledByCurve]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.IsParameterControlledByCurve(id)]]></description>
+	<description><![CDATA[*(id)]]></description>
 </snippet>

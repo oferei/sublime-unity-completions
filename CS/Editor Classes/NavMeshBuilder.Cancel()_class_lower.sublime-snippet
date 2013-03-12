@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshBuilder.Cancel();]]></content>
-	<tabTrigger><![CDATA[navMeshBuilder]]></tabTrigger>
+	<tabTrigger><![CDATA[navMeshBuilder.Cancel]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Cancel()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Profiler.AddFramesFromFile(${1:file : String});]]></content>
-	<tabTrigger><![CDATA[Profiler]]></tabTrigger>
+	<tabTrigger><![CDATA[Profiler.AddFramesFromFile]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.AddFramesFromFile(file)]]></description>
+	<description><![CDATA[*(file)]]></description>
 </snippet>

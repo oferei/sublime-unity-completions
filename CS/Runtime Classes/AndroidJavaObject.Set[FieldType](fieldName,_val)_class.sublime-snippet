@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJavaObject.Set<${1:FieldType}>(${2:string fieldName}, ${3:FieldType val});]]></content>
-	<tabTrigger><![CDATA[AndroidJavaObject]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJavaObject.Set]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Set<FieldType>(fieldName, val)]]></description>
+	<description><![CDATA[*<FieldType>(fieldName, val)]]></description>
 </snippet>

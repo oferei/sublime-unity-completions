@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewLocalRef(${1:obj : IntPtr});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.NewLocalRef]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.NewLocalRef(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

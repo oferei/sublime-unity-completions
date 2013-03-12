@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.Width(${1:float width});]]></content>
-	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[GUILayout.Width]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Width(width)]]></description>
+	<description><![CDATA[*(width)]]></description>
 </snippet>

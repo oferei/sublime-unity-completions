@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Bounds.ToString();]]></content>
-	<tabTrigger><![CDATA[bounds]]></tabTrigger>
+	<tabTrigger><![CDATA[bounds.ToString]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ToString()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

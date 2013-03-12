@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.WindowFunction(${1:int id});]]></content>
-	<tabTrigger><![CDATA[GUI]]></tabTrigger>
+	<tabTrigger><![CDATA[GUI.WindowFunction]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.WindowFunction(id)]]></description>
+	<description><![CDATA[*(id)]]></description>
 </snippet>

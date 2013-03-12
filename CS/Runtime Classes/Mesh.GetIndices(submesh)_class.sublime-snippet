@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.GetIndices(${1:int submesh});]]></content>
-	<tabTrigger><![CDATA[Mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[Mesh.GetIndices]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetIndices(submesh)]]></description>
+	<description><![CDATA[*(submesh)]]></description>
 </snippet>

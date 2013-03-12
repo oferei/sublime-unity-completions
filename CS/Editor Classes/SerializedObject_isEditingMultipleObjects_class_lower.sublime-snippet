@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedObject.isEditingMultipleObjects]]></content>
-	<tabTrigger><![CDATA[serializedObject]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedObject.isEditingMultipleObjects]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.isEditingMultipleObjects]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

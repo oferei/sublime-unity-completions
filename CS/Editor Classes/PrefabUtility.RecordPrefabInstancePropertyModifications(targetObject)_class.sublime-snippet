@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabUtility.RecordPrefabInstancePropertyModifications(${1:Object targetObject});]]></content>
-	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[PrefabUtility.RecordPrefabInstancePropertyModifications]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RecordPrefabInstancePropertyModifications(targetObject)]]></description>
+	<description><![CDATA[*(targetObject)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.FloorToInt(${1:float f});]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.FloorToInt]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.FloorToInt(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

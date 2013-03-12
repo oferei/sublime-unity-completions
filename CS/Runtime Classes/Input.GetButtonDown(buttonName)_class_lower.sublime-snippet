@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetButtonDown(${1:string buttonName});]]></content>
-	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<tabTrigger><![CDATA[input.GetButtonDown]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetButtonDown(buttonName)]]></description>
+	<description><![CDATA[*(buttonName)]]></description>
 </snippet>

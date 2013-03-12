@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.Height(${1:float height});]]></content>
-	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayout.Height]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Height(height)]]></description>
+	<description><![CDATA[*(height)]]></description>
 </snippet>

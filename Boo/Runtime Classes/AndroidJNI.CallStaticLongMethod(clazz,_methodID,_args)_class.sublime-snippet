@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallStaticLongMethod(${1:clazz as IntPtr}, ${2:methodID as IntPtr}, ${3:args as (jvalue)})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallStaticLongMethod]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CallStaticLongMethod(clazz, methodID, args)]]></description>
+	<description><![CDATA[*(clazz, methodID, args)]]></description>
 </snippet>

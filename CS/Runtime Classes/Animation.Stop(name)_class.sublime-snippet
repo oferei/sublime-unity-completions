@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.Stop(${1:string name});]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.Stop]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Stop(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

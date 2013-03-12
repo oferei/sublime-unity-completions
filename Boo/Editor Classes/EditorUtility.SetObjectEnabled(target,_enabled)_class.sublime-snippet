@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.SetObjectEnabled(${1:target as Object}, ${2:enabled as bool})]]></content>
-	<tabTrigger><![CDATA[EditorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorUtility.SetObjectEnabled]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetObjectEnabled(target, enabled)]]></description>
+	<description><![CDATA[*(target, enabled)]]></description>
 </snippet>

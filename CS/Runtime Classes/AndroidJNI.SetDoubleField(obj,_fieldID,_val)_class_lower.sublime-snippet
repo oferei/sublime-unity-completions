@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.SetDoubleField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:double val});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.SetDoubleField]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetDoubleField(obj, fieldID, val)]]></description>
+	<description><![CDATA[*(obj, fieldID, val)]]></description>
 </snippet>

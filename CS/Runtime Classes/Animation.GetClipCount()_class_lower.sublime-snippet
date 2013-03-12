@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.GetClipCount();]]></content>
-	<tabTrigger><![CDATA[animation]]></tabTrigger>
+	<tabTrigger><![CDATA[animation.GetClipCount]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetClipCount()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

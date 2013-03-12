@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.ShowUtility();]]></content>
-	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[editorWindow.ShowUtility]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ShowUtility()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

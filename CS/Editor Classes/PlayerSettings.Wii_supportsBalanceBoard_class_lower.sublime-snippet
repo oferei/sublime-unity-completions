@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.Wii.supportsBalanceBoard]]></content>
-	<tabTrigger><![CDATA[playerSettings.Wii]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.Wii.supportsBalanceBoard]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.supportsBalanceBoard]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

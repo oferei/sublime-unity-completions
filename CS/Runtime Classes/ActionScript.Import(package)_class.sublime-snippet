@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ActionScript.Import(${1:string package});]]></content>
-	<tabTrigger><![CDATA[ActionScript]]></tabTrigger>
+	<tabTrigger><![CDATA[ActionScript.Import]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Import(package)]]></description>
+	<description><![CDATA[*(package)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Input.GetJoystickNames();]]></content>
-	<tabTrigger><![CDATA[input]]></tabTrigger>
+	<tabTrigger><![CDATA[input.GetJoystickNames]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetJoystickNames()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

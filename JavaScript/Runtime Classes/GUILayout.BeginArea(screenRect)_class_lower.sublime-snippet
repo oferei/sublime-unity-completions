@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.BeginArea(${1:screenRect : Rect});]]></content>
-	<tabTrigger><![CDATA[gUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[gUILayout.BeginArea]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.BeginArea(screenRect)]]></description>
+	<description><![CDATA[*(screenRect)]]></description>
 </snippet>

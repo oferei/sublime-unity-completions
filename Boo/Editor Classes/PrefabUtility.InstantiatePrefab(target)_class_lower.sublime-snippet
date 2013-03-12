@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabUtility.InstantiatePrefab(${1:target as Object})]]></content>
-	<tabTrigger><![CDATA[prefabUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[prefabUtility.InstantiatePrefab]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.InstantiatePrefab(target)]]></description>
+	<description><![CDATA[*(target)]]></description>
 </snippet>

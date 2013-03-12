@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.RepaintProjectWindow()]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.RepaintProjectWindow]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RepaintProjectWindow()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

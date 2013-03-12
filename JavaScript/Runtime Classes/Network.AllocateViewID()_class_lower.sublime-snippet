@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.AllocateViewID();]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.AllocateViewID]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.AllocateViewID()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

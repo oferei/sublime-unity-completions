@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.DisplayCancelableProgressBar(${1:string title}, ${2:string info}, ${3:float progress});]]></content>
-	<tabTrigger><![CDATA[EditorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorUtility.DisplayCancelableProgressBar]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DisplayCancelableProgressBar(title, info, progress)]]></description>
+	<description><![CDATA[*(title, info, progress)]]></description>
 </snippet>

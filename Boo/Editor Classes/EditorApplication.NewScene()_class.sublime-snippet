@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.NewScene()]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.NewScene]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.NewScene()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

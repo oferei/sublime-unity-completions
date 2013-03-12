@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.HasObjectThumbnail(${1:objType : Type});]]></content>
-	<tabTrigger><![CDATA[EditorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUIUtility.HasObjectThumbnail]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HasObjectThumbnail(objType)]]></description>
+	<description><![CDATA[*(objType)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.CompressTexture(${1:texture as Texture2D}, ${2:format as TextureFormat}, ${3:quality as TextureCompressionQuality})]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.CompressTexture]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CompressTexture(texture, format, quality)]]></description>
+	<description><![CDATA[*(texture, format, quality)]]></description>
 </snippet>

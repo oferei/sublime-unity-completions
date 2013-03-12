@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.GetWindow<${1:T}>(${2:string title});]]></content>
-	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[editorWindow.GetWindow]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetWindow<T>(title)]]></description>
+	<description><![CDATA[*<T>(title)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector2.Dot(${1:lhs as Vector2}, ${2:rhs as Vector2})]]></content>
-	<tabTrigger><![CDATA[vector2]]></tabTrigger>
+	<tabTrigger><![CDATA[vector2.Dot]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Dot(lhs, rhs)]]></description>
+	<description><![CDATA[*(lhs, rhs)]]></description>
 </snippet>

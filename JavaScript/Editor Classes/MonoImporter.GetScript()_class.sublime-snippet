@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoImporter.GetScript();]]></content>
-	<tabTrigger><![CDATA[MonoImporter]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoImporter.GetScript]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetScript()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

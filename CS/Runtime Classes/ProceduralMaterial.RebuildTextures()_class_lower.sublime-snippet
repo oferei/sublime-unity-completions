@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ProceduralMaterial.RebuildTextures();]]></content>
-	<tabTrigger><![CDATA[proceduralMaterial]]></tabTrigger>
+	<tabTrigger><![CDATA[proceduralMaterial.RebuildTextures]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RebuildTextures()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

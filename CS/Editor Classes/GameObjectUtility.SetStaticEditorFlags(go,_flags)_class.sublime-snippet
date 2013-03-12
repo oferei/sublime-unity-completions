@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GameObjectUtility.SetStaticEditorFlags(${1:GameObject go}, ${2:StaticEditorFlags flags});]]></content>
-	<tabTrigger><![CDATA[GameObjectUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[GameObjectUtility.SetStaticEditorFlags]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetStaticEditorFlags(go, flags)]]></description>
+	<description><![CDATA[*(go, flags)]]></description>
 </snippet>

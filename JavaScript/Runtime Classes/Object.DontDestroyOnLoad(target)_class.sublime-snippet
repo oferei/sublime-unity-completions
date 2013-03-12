@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Object.DontDestroyOnLoad(${1:target : Object});]]></content>
-	<tabTrigger><![CDATA[Object]]></tabTrigger>
+	<tabTrigger><![CDATA[Object.DontDestroyOnLoad]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DontDestroyOnLoad(target)]]></description>
+	<description><![CDATA[*(target)]]></description>
 </snippet>

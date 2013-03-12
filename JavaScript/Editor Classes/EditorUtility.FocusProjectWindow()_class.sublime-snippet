@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.FocusProjectWindow();]]></content>
-	<tabTrigger><![CDATA[EditorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorUtility.FocusProjectWindow]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.FocusProjectWindow()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

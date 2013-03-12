@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.forceSingleInstance]]></content>
-	<tabTrigger><![CDATA[PlayerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.forceSingleInstance]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.forceSingleInstance]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

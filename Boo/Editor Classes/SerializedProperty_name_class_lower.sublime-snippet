@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.name]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.name]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.name]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

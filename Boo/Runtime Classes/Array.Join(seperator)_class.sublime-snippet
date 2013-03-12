@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Array.Join(${1:seperator as string})]]></content>
-	<tabTrigger><![CDATA[Array]]></tabTrigger>
+	<tabTrigger><![CDATA[Array.Join]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Join(seperator)]]></description>
+	<description><![CDATA[*(seperator)]]></description>
 </snippet>

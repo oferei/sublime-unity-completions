@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.CombineMeshes(${1:combine : CombineInstance[]}, ${2:mergeSubMeshes : boolean = true}, ${3:useMatrices : boolean = true});]]></content>
-	<tabTrigger><![CDATA[Mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[Mesh.CombineMeshes]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CombineMeshes(combine, mergeSubMeshes, useMatrices)]]></description>
+	<description><![CDATA[*(combine, mergeSubMeshes, useMatrices)]]></description>
 </snippet>

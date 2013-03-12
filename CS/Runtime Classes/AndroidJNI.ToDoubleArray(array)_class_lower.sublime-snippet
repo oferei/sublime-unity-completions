@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ToDoubleArray(${1:double[] array});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.ToDoubleArray]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ToDoubleArray(array)]]></description>
+	<description><![CDATA[*(array)]]></description>
 </snippet>

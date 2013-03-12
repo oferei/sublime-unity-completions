@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WWW.LoadImageIntoTexture(${1:Texture2D tex});]]></content>
-	<tabTrigger><![CDATA[WWW]]></tabTrigger>
+	<tabTrigger><![CDATA[WWW.LoadImageIntoTexture]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LoadImageIntoTexture(tex)]]></description>
+	<description><![CDATA[*(tex)]]></description>
 </snippet>

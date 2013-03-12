@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Material.HasProperty(${1:propertyName as string})]]></content>
-	<tabTrigger><![CDATA[material]]></tabTrigger>
+	<tabTrigger><![CDATA[material.HasProperty]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.HasProperty(propertyName)]]></description>
+	<description><![CDATA[*(propertyName)]]></description>
 </snippet>

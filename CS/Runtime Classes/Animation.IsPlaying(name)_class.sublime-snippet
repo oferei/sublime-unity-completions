@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.IsPlaying(${1:string name});]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.IsPlaying]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.IsPlaying(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

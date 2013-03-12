@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnMouseUp();]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.OnMouseUp]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnMouseUp()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

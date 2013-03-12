@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Font.GetCharacterInfo(${1:char ch}, ${2:CharacterInfo out info}, ${3:int size = 0}, ${4:FontStyle style = FontStyle.Normal});]]></content>
-	<tabTrigger><![CDATA[Font]]></tabTrigger>
+	<tabTrigger><![CDATA[Font.GetCharacterInfo]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetCharacterInfo(ch, out info, size, style)]]></description>
+	<description><![CDATA[*(ch, out info, size, style)]]></description>
 </snippet>

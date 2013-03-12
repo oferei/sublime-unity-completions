@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationUtility.CalculateTransformPath(${1:targetTransform as Transform}, ${2:root as Transform})]]></content>
-	<tabTrigger><![CDATA[AnimationUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[AnimationUtility.CalculateTransformPath]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CalculateTransformPath(targetTransform, root)]]></description>
+	<description><![CDATA[*(targetTransform, root)]]></description>
 </snippet>

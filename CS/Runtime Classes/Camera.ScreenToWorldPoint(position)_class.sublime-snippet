@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Camera.ScreenToWorldPoint(${1:Vector3 position});]]></content>
-	<tabTrigger><![CDATA[Camera]]></tabTrigger>
+	<tabTrigger><![CDATA[Camera.ScreenToWorldPoint]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ScreenToWorldPoint(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

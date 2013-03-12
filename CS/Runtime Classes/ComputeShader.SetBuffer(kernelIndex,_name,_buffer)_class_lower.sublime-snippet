@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ComputeShader.SetBuffer(${1:int kernelIndex}, ${2:string name}, ${3:ComputeBuffer buffer});]]></content>
-	<tabTrigger><![CDATA[computeShader]]></tabTrigger>
+	<tabTrigger><![CDATA[computeShader.SetBuffer]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.SetBuffer(kernelIndex, name, buffer)]]></description>
+	<description><![CDATA[*(kernelIndex, name, buffer)]]></description>
 </snippet>

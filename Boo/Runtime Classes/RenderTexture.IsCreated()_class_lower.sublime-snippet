@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[RenderTexture.IsCreated()]]></content>
-	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<tabTrigger><![CDATA[renderTexture.IsCreated]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.IsCreated()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

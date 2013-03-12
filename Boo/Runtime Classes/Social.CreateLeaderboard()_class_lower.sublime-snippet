@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Social.CreateLeaderboard()]]></content>
-	<tabTrigger><![CDATA[social]]></tabTrigger>
+	<tabTrigger><![CDATA[social.CreateLeaderboard]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CreateLeaderboard()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

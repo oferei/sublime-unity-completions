@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.Android.minSdkVersion]]></content>
-	<tabTrigger><![CDATA[playerSettings.Android]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.Android.minSdkVersion]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.minSdkVersion]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

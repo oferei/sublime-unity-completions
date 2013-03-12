@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.LoadOrtho();]]></content>
-	<tabTrigger><![CDATA[GL]]></tabTrigger>
+	<tabTrigger><![CDATA[GL.LoadOrtho]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LoadOrtho()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Random.Range(${1:min : int}, ${2:max : int});]]></content>
-	<tabTrigger><![CDATA[Random]]></tabTrigger>
+	<tabTrigger><![CDATA[Random.Range]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Range(min, max)]]></description>
+	<description><![CDATA[*(min, max)]]></description>
 </snippet>

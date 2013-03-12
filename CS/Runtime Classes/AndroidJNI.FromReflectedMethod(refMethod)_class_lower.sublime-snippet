@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.FromReflectedMethod(${1:IntPtr refMethod});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.FromReflectedMethod]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.FromReflectedMethod(refMethod)]]></description>
+	<description><![CDATA[*(refMethod)]]></description>
 </snippet>

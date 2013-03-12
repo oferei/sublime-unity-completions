@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.HasObjectThumbnail(${1:Type objType});]]></content>
-	<tabTrigger><![CDATA[EditorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUIUtility.HasObjectThumbnail]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.HasObjectThumbnail(objType)]]></description>
+	<description><![CDATA[*(objType)]]></description>
 </snippet>

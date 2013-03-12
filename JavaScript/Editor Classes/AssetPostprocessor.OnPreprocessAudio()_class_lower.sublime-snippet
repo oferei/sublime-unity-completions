@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPostprocessor.OnPreprocessAudio();]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor]]></tabTrigger>
+	<tabTrigger><![CDATA[assetPostprocessor.OnPreprocessAudio]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnPreprocessAudio()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

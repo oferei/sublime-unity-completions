@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GameObject.GetComponentsInChildren.<${1:T}>();]]></content>
-	<tabTrigger><![CDATA[gameObject]]></tabTrigger>
+	<tabTrigger><![CDATA[gameObject.GetComponentsInChildren]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetComponentsInChildren.<T>()]]></description>
+	<description><![CDATA[*.<T>()]]></description>
 </snippet>

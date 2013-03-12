@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.GetHandleSize(${1:position as Vector3})]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.GetHandleSize]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetHandleSize(position)]]></description>
+	<description><![CDATA[*(position)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Array.Shift();]]></content>
-	<tabTrigger><![CDATA[array]]></tabTrigger>
+	<tabTrigger><![CDATA[array.Shift]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Shift()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

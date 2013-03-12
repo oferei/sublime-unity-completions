@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoScript.FromMonoBehaviour(${1:MonoBehaviour behaviour});]]></content>
-	<tabTrigger><![CDATA[monoScript]]></tabTrigger>
+	<tabTrigger><![CDATA[monoScript.FromMonoBehaviour]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.FromMonoBehaviour(behaviour)]]></description>
+	<description><![CDATA[*(behaviour)]]></description>
 </snippet>

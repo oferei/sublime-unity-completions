@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.UnloadUnusedAssets();]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.UnloadUnusedAssets]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.UnloadUnusedAssets()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

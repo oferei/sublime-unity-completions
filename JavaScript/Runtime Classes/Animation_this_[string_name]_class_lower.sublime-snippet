@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.this [string name]]]></content>
-	<tabTrigger><![CDATA[animation]]></tabTrigger>
+	<tabTrigger><![CDATA[animation.this [string name]]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.this [string name]]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

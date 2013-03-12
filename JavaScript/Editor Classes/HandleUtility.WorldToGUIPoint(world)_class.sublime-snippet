@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.WorldToGUIPoint(${1:world : Vector3});]]></content>
-	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[HandleUtility.WorldToGUIPoint]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.WorldToGUIPoint(world)]]></description>
+	<description><![CDATA[*(world)]]></description>
 </snippet>

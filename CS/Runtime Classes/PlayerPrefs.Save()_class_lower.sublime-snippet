@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerPrefs.Save();]]></content>
-	<tabTrigger><![CDATA[playerPrefs]]></tabTrigger>
+	<tabTrigger><![CDATA[playerPrefs.Save]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Save()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

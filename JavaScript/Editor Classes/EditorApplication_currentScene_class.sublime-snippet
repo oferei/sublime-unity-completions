@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.currentScene]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.currentScene]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.currentScene]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

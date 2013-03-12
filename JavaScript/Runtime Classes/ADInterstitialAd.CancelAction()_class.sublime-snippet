@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ADInterstitialAd.CancelAction();]]></content>
-	<tabTrigger><![CDATA[ADInterstitialAd]]></tabTrigger>
+	<tabTrigger><![CDATA[ADInterstitialAd.CancelAction]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CancelAction()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

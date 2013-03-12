@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.iOS.applicationDisplayName]]></content>
-	<tabTrigger><![CDATA[playerSettings.iOS]]></tabTrigger>
+	<tabTrigger><![CDATA[playerSettings.iOS.applicationDisplayName]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.applicationDisplayName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

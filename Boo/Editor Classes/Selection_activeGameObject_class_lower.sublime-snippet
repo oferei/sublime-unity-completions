@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.activeGameObject]]></content>
-	<tabTrigger><![CDATA[selection]]></tabTrigger>
+	<tabTrigger><![CDATA[selection.activeGameObject]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.activeGameObject]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Array.Pop();]]></content>
-	<tabTrigger><![CDATA[array]]></tabTrigger>
+	<tabTrigger><![CDATA[array.Pop]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Pop()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Matrix4x4.Ortho(${1:float left}, ${2:float right}, ${3:float bottom}, ${4:float top}, ${5:float zNear}, ${6:float zFar});]]></content>
-	<tabTrigger><![CDATA[Matrix4x4]]></tabTrigger>
+	<tabTrigger><![CDATA[Matrix4x4.Ortho]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Ortho(left, right, bottom, top, zNear, zFar)]]></description>
+	<description><![CDATA[*(left, right, bottom, top, zNear, zFar)]]></description>
 </snippet>

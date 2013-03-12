@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorWindow.RemoveNotification();]]></content>
-	<tabTrigger><![CDATA[editorWindow]]></tabTrigger>
+	<tabTrigger><![CDATA[editorWindow.RemoveNotification]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RemoveNotification()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.RenameAsset(${1:string pathName}, ${2:string newName});]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.RenameAsset]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RenameAsset(pathName, newName)]]></description>
+	<description><![CDATA[*(pathName, newName)]]></description>
 </snippet>

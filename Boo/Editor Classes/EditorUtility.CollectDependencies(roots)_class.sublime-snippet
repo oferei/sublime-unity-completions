@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.CollectDependencies(${1:roots as (Object)})]]></content>
-	<tabTrigger><![CDATA[EditorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorUtility.CollectDependencies]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CollectDependencies(roots)]]></description>
+	<description><![CDATA[*(roots)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Help.ShowHelpPage(${1:page as string})]]></content>
-	<tabTrigger><![CDATA[help]]></tabTrigger>
+	<tabTrigger><![CDATA[help.ShowHelpPage]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ShowHelpPage(page)]]></description>
+	<description><![CDATA[*(page)]]></description>
 </snippet>

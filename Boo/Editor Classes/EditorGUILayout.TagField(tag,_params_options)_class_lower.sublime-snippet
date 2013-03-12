@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.TagField(${1:tag as string}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUILayout.TagField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.TagField(tag, params options)]]></description>
+	<description><![CDATA[*(tag, params options)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Quaternion.RotateTowards(${1:from as Quaternion}, ${2:to as Quaternion}, ${3:maxDegreesDelta as single})]]></content>
-	<tabTrigger><![CDATA[quaternion]]></tabTrigger>
+	<tabTrigger><![CDATA[quaternion.RotateTowards]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RotateTowards(from, to, maxDegreesDelta)]]></description>
+	<description><![CDATA[*(from, to, maxDegreesDelta)]]></description>
 </snippet>

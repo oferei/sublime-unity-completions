@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Quaternion.Dot(${1:a : Quaternion}, ${2:b : Quaternion});]]></content>
-	<tabTrigger><![CDATA[quaternion]]></tabTrigger>
+	<tabTrigger><![CDATA[quaternion.Dot]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Dot(a, b)]]></description>
+	<description><![CDATA[*(a, b)]]></description>
 </snippet>

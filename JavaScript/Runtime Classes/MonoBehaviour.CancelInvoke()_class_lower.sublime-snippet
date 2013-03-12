@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.CancelInvoke();]]></content>
-	<tabTrigger><![CDATA[monoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[monoBehaviour.CancelInvoke]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CancelInvoke()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

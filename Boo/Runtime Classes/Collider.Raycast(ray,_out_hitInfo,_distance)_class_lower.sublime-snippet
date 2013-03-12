@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Collider.Raycast(${1:ray as Ray}, ${2:out hitInfo as RaycastHit}, ${3:distance as single})]]></content>
-	<tabTrigger><![CDATA[collider]]></tabTrigger>
+	<tabTrigger><![CDATA[collider.Raycast]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Raycast(ray, out hitInfo, distance)]]></description>
+	<description><![CDATA[*(ray, out hitInfo, distance)]]></description>
 </snippet>

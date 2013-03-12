@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUISettings.selectionColor]]></content>
-	<tabTrigger><![CDATA[gUISettings]]></tabTrigger>
+	<tabTrigger><![CDATA[gUISettings.selectionColor]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.selectionColor]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

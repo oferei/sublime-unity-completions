@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.Label(${1:position as Vector3}, ${2:text as string})]]></content>
-	<tabTrigger><![CDATA[Handles]]></tabTrigger>
+	<tabTrigger><![CDATA[Handles.Label]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Label(position, text)]]></description>
+	<description><![CDATA[*(position, text)]]></description>
 </snippet>

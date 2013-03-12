@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.EqualContents(${1:SerializedProperty x}, ${2:SerializedProperty y});]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.EqualContents]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.EqualContents(x, y)]]></description>
+	<description><![CDATA[*(x, y)]]></description>
 </snippet>

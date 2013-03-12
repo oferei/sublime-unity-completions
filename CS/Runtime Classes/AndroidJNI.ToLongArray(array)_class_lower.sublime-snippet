@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ToLongArray(${1:Int64[] array});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.ToLongArray]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ToLongArray(array)]]></description>
+	<description><![CDATA[*(array)]]></description>
 </snippet>

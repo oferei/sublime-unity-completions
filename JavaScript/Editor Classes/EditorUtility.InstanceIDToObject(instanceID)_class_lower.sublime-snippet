@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.InstanceIDToObject(${1:instanceID : int});]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.InstanceIDToObject]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.InstanceIDToObject(instanceID)]]></description>
+	<description><![CDATA[*(instanceID)]]></description>
 </snippet>

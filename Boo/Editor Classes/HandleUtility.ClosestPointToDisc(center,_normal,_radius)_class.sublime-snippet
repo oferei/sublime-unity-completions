@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.ClosestPointToDisc(${1:center as Vector3}, ${2:normal as Vector3}, ${3:radius as single})]]></content>
-	<tabTrigger><![CDATA[HandleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[HandleUtility.ClosestPointToDisc]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ClosestPointToDisc(center, normal, radius)]]></description>
+	<description><![CDATA[*(center, normal, radius)]]></description>
 </snippet>

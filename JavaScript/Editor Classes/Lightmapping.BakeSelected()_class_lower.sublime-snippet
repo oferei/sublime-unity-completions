@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Lightmapping.BakeSelected();]]></content>
-	<tabTrigger><![CDATA[lightmapping]]></tabTrigger>
+	<tabTrigger><![CDATA[lightmapping.BakeSelected]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.BakeSelected()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

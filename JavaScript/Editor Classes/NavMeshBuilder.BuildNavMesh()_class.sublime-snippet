@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshBuilder.BuildNavMesh();]]></content>
-	<tabTrigger><![CDATA[NavMeshBuilder]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshBuilder.BuildNavMesh]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.BuildNavMesh()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

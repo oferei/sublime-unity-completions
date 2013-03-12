@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.supportsGyroscope]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.supportsGyroscope]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.supportsGyroscope]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

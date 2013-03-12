@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.RemoveRPCs(${1:viewID : NetworkViewID});]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.RemoveRPCs]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.RemoveRPCs(viewID)]]></description>
+	<description><![CDATA[*(viewID)]]></description>
 </snippet>

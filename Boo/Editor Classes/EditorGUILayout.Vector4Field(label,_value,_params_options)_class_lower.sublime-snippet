@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUILayout.Vector4Field(${1:label as string}, ${2:value as Vector4}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUILayout.Vector4Field]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Vector4Field(label, value, params options)]]></description>
+	<description><![CDATA[*(label, value, params options)]]></description>
 </snippet>

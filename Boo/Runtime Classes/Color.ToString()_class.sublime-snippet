@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Color.ToString()]]></content>
-	<tabTrigger><![CDATA[Color]]></tabTrigger>
+	<tabTrigger><![CDATA[Color.ToString]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ToString()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

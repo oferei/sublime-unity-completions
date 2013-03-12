@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationUtility.ConstrainToPolynomialCurve(${1:curve : AnimationCurve});]]></content>
-	<tabTrigger><![CDATA[AnimationUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[AnimationUtility.ConstrainToPolynomialCurve]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ConstrainToPolynomialCurve(curve)]]></description>
+	<description><![CDATA[*(curve)]]></description>
 </snippet>

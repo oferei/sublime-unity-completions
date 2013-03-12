@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Matrix4x4.MultiplyPoint3x4(${1:v as Vector3})]]></content>
-	<tabTrigger><![CDATA[matrix4x4]]></tabTrigger>
+	<tabTrigger><![CDATA[matrix4x4.MultiplyPoint3x4]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.MultiplyPoint3x4(v)]]></description>
+	<description><![CDATA[*(v)]]></description>
 </snippet>

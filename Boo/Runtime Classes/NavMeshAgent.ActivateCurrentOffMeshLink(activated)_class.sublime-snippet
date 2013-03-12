@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NavMeshAgent.ActivateCurrentOffMeshLink(${1:activated as bool})]]></content>
-	<tabTrigger><![CDATA[NavMeshAgent]]></tabTrigger>
+	<tabTrigger><![CDATA[NavMeshAgent.ActivateCurrentOffMeshLink]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ActivateCurrentOffMeshLink(activated)]]></description>
+	<description><![CDATA[*(activated)]]></description>
 </snippet>

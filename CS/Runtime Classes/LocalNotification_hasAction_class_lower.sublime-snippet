@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LocalNotification.hasAction]]></content>
-	<tabTrigger><![CDATA[localNotification]]></tabTrigger>
+	<tabTrigger><![CDATA[localNotification.hasAction]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.hasAction]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

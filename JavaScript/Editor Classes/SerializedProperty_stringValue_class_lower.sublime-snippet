@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.stringValue]]></content>
-	<tabTrigger><![CDATA[serializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedProperty.stringValue]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.stringValue]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

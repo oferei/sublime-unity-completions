@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Sign(${1:float f});]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.Sign]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Sign(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

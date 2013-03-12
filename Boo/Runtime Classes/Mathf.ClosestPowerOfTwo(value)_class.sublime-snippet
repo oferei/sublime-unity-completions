@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.ClosestPowerOfTwo(${1:value as int})]]></content>
-	<tabTrigger><![CDATA[Mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[Mathf.ClosestPowerOfTwo]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ClosestPowerOfTwo(value)]]></description>
+	<description><![CDATA[*(value)]]></description>
 </snippet>

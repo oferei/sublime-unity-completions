@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.NewStringUTF(${1:bytes as string})]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.NewStringUTF]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.NewStringUTF(bytes)]]></description>
+	<description><![CDATA[*(bytes)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.StopAssetEditing();]]></content>
-	<tabTrigger><![CDATA[AssetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetDatabase.StopAssetEditing]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.StopAssetEditing()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.HelpBox(${1:position : Rect}, ${2:message : String}, ${3:type : MessageType});]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.HelpBox]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.HelpBox(position, message, type)]]></description>
+	<description><![CDATA[*(position, message, type)]]></description>
 </snippet>

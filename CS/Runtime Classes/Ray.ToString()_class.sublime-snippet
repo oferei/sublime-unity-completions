@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Ray.ToString();]]></content>
-	<tabTrigger><![CDATA[Ray]]></tabTrigger>
+	<tabTrigger><![CDATA[Ray.ToString]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ToString()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.RemoveRPCs(${1:playerID as NetworkPlayer})]]></content>
-	<tabTrigger><![CDATA[Network]]></tabTrigger>
+	<tabTrigger><![CDATA[Network.RemoveRPCs]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RemoveRPCs(playerID)]]></description>
+	<description><![CDATA[*(playerID)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Debug.DrawRay(${1:start as Vector3}, ${2:dir as Vector3}, ${3:color as Color = Color.white}, ${4:duration as single = 0.0f}, ${5:depthTest as bool = true})]]></content>
-	<tabTrigger><![CDATA[debug]]></tabTrigger>
+	<tabTrigger><![CDATA[debug.DrawRay]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawRay(start, dir, color, duration, depthTest)]]></description>
+	<description><![CDATA[*(start, dir, color, duration, depthTest)]]></description>
 </snippet>

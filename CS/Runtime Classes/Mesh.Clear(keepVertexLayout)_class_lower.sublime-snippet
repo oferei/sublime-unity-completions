@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.Clear(${1:bool keepVertexLayout = true});]]></content>
-	<tabTrigger><![CDATA[mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[mesh.Clear]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Clear(keepVertexLayout)]]></description>
+	<description><![CDATA[*(keepVertexLayout)]]></description>
 </snippet>

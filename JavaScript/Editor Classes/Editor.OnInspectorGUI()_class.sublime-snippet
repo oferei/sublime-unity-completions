@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Editor.OnInspectorGUI();]]></content>
-	<tabTrigger><![CDATA[Editor]]></tabTrigger>
+	<tabTrigger><![CDATA[Editor.OnInspectorGUI]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnInspectorGUI()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

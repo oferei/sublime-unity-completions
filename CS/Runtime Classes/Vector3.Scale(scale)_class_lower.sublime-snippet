@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Vector3.Scale(${1:Vector3 scale});]]></content>
-	<tabTrigger><![CDATA[vector3]]></tabTrigger>
+	<tabTrigger><![CDATA[vector3.Scale]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Scale(scale)]]></description>
+	<description><![CDATA[*(scale)]]></description>
 </snippet>

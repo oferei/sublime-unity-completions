@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ScriptableWizard.OnWizardCreate();]]></content>
-	<tabTrigger><![CDATA[ScriptableWizard]]></tabTrigger>
+	<tabTrigger><![CDATA[ScriptableWizard.OnWizardCreate]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnWizardCreate()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

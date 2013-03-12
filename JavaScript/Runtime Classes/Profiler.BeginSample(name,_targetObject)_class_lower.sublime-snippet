@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Profiler.BeginSample(${1:name : String}, ${2:targetObject : Object});]]></content>
-	<tabTrigger><![CDATA[profiler]]></tabTrigger>
+	<tabTrigger><![CDATA[profiler.BeginSample]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.BeginSample(name, targetObject)]]></description>
+	<description><![CDATA[*(name, targetObject)]]></description>
 </snippet>

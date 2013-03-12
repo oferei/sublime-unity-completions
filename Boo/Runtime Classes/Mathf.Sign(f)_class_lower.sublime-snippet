@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Sign(${1:f as single})]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.Sign]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Sign(f)]]></description>
+	<description><![CDATA[*(f)]]></description>
 </snippet>

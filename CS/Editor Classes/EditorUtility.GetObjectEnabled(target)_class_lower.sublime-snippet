@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorUtility.GetObjectEnabled(${1:Object target});]]></content>
-	<tabTrigger><![CDATA[editorUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[editorUtility.GetObjectEnabled]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetObjectEnabled(target)]]></description>
+	<description><![CDATA[*(target)]]></description>
 </snippet>

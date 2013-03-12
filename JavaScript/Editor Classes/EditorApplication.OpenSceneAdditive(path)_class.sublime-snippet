@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.OpenSceneAdditive(${1:path : String});]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.OpenSceneAdditive]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OpenSceneAdditive(path)]]></description>
+	<description><![CDATA[*(path)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Matrix4x4.SetTRS(${1:pos as Vector3}, ${2:q as Quaternion}, ${3:s as Vector3})]]></content>
-	<tabTrigger><![CDATA[Matrix4x4]]></tabTrigger>
+	<tabTrigger><![CDATA[Matrix4x4.SetTRS]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetTRS(pos, q, s)]]></description>
+	<description><![CDATA[*(pos, q, s)]]></description>
 </snippet>

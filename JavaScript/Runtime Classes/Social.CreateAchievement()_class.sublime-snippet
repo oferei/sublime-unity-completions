@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Social.CreateAchievement();]]></content>
-	<tabTrigger><![CDATA[Social]]></tabTrigger>
+	<tabTrigger><![CDATA[Social.CreateAchievement]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.CreateAchievement()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Color.Lerp(${1:a as Color}, ${2:b as Color}, ${3:t as single})]]></content>
-	<tabTrigger><![CDATA[Color]]></tabTrigger>
+	<tabTrigger><![CDATA[Color.Lerp]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Lerp(a, b, t)]]></description>
+	<description><![CDATA[*(a, b, t)]]></description>
 </snippet>

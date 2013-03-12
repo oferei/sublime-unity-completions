@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.Popup(${1:Rect position}, ${2:int selectedIndex}, ${3:GUIContent[] displayedOptions}, ${4:GUIStyle style = EditorStyles.popup});]]></content>
-	<tabTrigger><![CDATA[editorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[editorGUI.Popup]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Popup(position, selectedIndex, displayedOptions, style)]]></description>
+	<description><![CDATA[*(position, selectedIndex, displayedOptions, style)]]></description>
 </snippet>

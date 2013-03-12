@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:AnimationClip clip}, ${2:string relativePath}, ${3:Type type}, ${4:string propertyName});]]></content>
-	<tabTrigger><![CDATA[animationUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[animationUtility.GetEditorCurve]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetEditorCurve(clip, relativePath, type, propertyName)]]></description>
+	<description><![CDATA[*(clip, relativePath, type, propertyName)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ConfigurableJoint.configuredInWorldSpace]]></content>
-	<tabTrigger><![CDATA[configurableJoint]]></tabTrigger>
+	<tabTrigger><![CDATA[configurableJoint.configuredInWorldSpace]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.configuredInWorldSpace]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

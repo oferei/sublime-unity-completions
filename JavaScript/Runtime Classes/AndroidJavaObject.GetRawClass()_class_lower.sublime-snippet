@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJavaObject.GetRawClass();]]></content>
-	<tabTrigger><![CDATA[androidJavaObject]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJavaObject.GetRawClass]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetRawClass()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

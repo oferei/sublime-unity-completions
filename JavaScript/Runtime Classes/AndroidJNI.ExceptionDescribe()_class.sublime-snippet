@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.ExceptionDescribe();]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.ExceptionDescribe]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ExceptionDescribe()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

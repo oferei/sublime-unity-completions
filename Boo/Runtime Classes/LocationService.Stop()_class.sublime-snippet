@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LocationService.Stop()]]></content>
-	<tabTrigger><![CDATA[LocationService]]></tabTrigger>
+	<tabTrigger><![CDATA[LocationService.Stop]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Stop()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

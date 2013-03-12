@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJavaObject.Dispose();]]></content>
-	<tabTrigger><![CDATA[androidJavaObject]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJavaObject.Dispose]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Dispose()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

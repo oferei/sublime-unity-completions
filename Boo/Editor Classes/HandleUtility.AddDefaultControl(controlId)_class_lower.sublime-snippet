@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.AddDefaultControl(${1:controlId as int})]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.AddDefaultControl]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.AddDefaultControl(controlId)]]></description>
+	<description><![CDATA[*(controlId)]]></description>
 </snippet>

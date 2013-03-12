@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GenericMenu.MenuFunction2(${1:userData : object});]]></content>
-	<tabTrigger><![CDATA[GenericMenu]]></tabTrigger>
+	<tabTrigger><![CDATA[GenericMenu.MenuFunction2]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.MenuFunction2(userData)]]></description>
+	<description><![CDATA[*(userData)]]></description>
 </snippet>

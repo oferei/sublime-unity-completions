@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Plane.Set3Points(${1:a : Vector3}, ${2:b : Vector3}, ${3:c : Vector3});]]></content>
-	<tabTrigger><![CDATA[plane]]></tabTrigger>
+	<tabTrigger><![CDATA[plane.Set3Points]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Set3Points(a, b, c)]]></description>
+	<description><![CDATA[*(a, b, c)]]></description>
 </snippet>

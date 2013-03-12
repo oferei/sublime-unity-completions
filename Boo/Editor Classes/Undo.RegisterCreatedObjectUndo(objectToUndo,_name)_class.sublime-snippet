@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Undo.RegisterCreatedObjectUndo(${1:objectToUndo as Object}, ${2:name as string})]]></content>
-	<tabTrigger><![CDATA[Undo]]></tabTrigger>
+	<tabTrigger><![CDATA[Undo.RegisterCreatedObjectUndo]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.RegisterCreatedObjectUndo(objectToUndo, name)]]></description>
+	<description><![CDATA[*(objectToUndo, name)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServer.ClearHostList();]]></content>
-	<tabTrigger><![CDATA[MasterServer]]></tabTrigger>
+	<tabTrigger><![CDATA[MasterServer.ClearHostList]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ClearHostList()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

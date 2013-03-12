@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.Rewind(${1:string name});]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.Rewind]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Rewind(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

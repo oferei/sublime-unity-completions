@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Social.LoadUsers(${1:userIds : string[]}, ${2:callback : Action<IUserProfile[]>});]]></content>
-	<tabTrigger><![CDATA[Social]]></tabTrigger>
+	<tabTrigger><![CDATA[Social.LoadUsers]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.LoadUsers(userIds, callback)]]></description>
+	<description><![CDATA[*(userIds, callback)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WWWForm.AddField(${1:fieldName as string}, ${2:i as int})]]></content>
-	<tabTrigger><![CDATA[wWWForm]]></tabTrigger>
+	<tabTrigger><![CDATA[wWWForm.AddField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.AddField(fieldName, i)]]></description>
+	<description><![CDATA[*(fieldName, i)]]></description>
 </snippet>

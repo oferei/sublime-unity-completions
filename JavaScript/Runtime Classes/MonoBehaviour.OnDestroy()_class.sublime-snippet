@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.OnDestroy();]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.OnDestroy]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.OnDestroy()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.HierarchyWindowItemCallback(${1:instanceID as int}, ${2:selectionRect as Rect})]]></content>
-	<tabTrigger><![CDATA[EditorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorApplication.HierarchyWindowItemCallback]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.HierarchyWindowItemCallback(instanceID, selectionRect)]]></description>
+	<description><![CDATA[*(instanceID, selectionRect)]]></description>
 </snippet>

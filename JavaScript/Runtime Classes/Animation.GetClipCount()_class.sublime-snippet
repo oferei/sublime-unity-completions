@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Animation.GetClipCount();]]></content>
-	<tabTrigger><![CDATA[Animation]]></tabTrigger>
+	<tabTrigger><![CDATA[Animation.GetClipCount]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetClipCount()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

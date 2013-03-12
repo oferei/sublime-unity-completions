@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AnimationCurve.AddKey(${1:Keyframe key});]]></content>
-	<tabTrigger><![CDATA[AnimationCurve]]></tabTrigger>
+	<tabTrigger><![CDATA[AnimationCurve.AddKey]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.AddKey(key)]]></description>
+	<description><![CDATA[*(key)]]></description>
 </snippet>

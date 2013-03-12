@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HostData.gameName]]></content>
-	<tabTrigger><![CDATA[hostData]]></tabTrigger>
+	<tabTrigger><![CDATA[hostData.gameName]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.gameName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

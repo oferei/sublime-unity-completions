@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedPropertyType.ObjectReference]]></content>
-	<tabTrigger><![CDATA[serializedPropertyType]]></tabTrigger>
+	<tabTrigger><![CDATA[serializedPropertyType.ObjectReference]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.ObjectReference]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

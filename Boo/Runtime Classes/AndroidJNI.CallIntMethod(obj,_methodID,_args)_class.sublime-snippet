@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.CallIntMethod(${1:obj as IntPtr}, ${2:methodID as IntPtr}, ${3:args as (jvalue)})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.CallIntMethod]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.CallIntMethod(obj, methodID, args)]]></description>
+	<description><![CDATA[*(obj, methodID, args)]]></description>
 </snippet>

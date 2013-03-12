@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Debug.Break()]]></content>
-	<tabTrigger><![CDATA[debug]]></tabTrigger>
+	<tabTrigger><![CDATA[debug.Break]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Break()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

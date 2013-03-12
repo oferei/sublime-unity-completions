@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[HandleUtility.DistanceToCircle(${1:Vector3 position}, ${2:float radius});]]></content>
-	<tabTrigger><![CDATA[handleUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[handleUtility.DistanceToCircle]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.DistanceToCircle(position, radius)]]></description>
+	<description><![CDATA[*(position, radius)]]></description>
 </snippet>

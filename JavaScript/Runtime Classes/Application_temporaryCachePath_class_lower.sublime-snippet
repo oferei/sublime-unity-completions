@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.temporaryCachePath]]></content>
-	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<tabTrigger><![CDATA[application.temporaryCachePath]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.temporaryCachePath]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

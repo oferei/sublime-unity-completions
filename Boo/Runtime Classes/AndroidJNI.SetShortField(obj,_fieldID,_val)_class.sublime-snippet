@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.SetShortField(${1:obj as IntPtr}, ${2:fieldID as IntPtr}, ${3:val as Int16})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.SetShortField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.SetShortField(obj, fieldID, val)]]></description>
+	<description><![CDATA[*(obj, fieldID, val)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetDatabase.GetLabels(${1:Object obj});]]></content>
-	<tabTrigger><![CDATA[assetDatabase]]></tabTrigger>
+	<tabTrigger><![CDATA[assetDatabase.GetLabels]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetLabels(obj)]]></description>
+	<description><![CDATA[*(obj)]]></description>
 </snippet>

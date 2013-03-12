@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MaterialPropertyBlock.AddFloat(${1:name : String}, ${2:value : float});]]></content>
-	<tabTrigger><![CDATA[materialPropertyBlock]]></tabTrigger>
+	<tabTrigger><![CDATA[materialPropertyBlock.AddFloat]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.AddFloat(name, value)]]></description>
+	<description><![CDATA[*(name, value)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUILayout.BeginArea(${1:Rect screenRect}, ${2:string text});]]></content>
-	<tabTrigger><![CDATA[GUILayout]]></tabTrigger>
+	<tabTrigger><![CDATA[GUILayout.BeginArea]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.BeginArea(screenRect, text)]]></description>
+	<description><![CDATA[*(screenRect, text)]]></description>
 </snippet>

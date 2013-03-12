@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mesh.GetTopology(${1:submesh as int})]]></content>
-	<tabTrigger><![CDATA[mesh]]></tabTrigger>
+	<tabTrigger><![CDATA[mesh.GetTopology]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetTopology(submesh)]]></description>
+	<description><![CDATA[*(submesh)]]></description>
 </snippet>

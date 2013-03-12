@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.graphicsDeviceVendorID]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.graphicsDeviceVendorID]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.graphicsDeviceVendorID]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[NetworkPlayer.externalIP]]></content>
-	<tabTrigger><![CDATA[NetworkPlayer]]></tabTrigger>
+	<tabTrigger><![CDATA[NetworkPlayer.externalIP]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.externalIP]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

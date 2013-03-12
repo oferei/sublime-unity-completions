@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.Clamp01(${1:value as single})]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.Clamp01]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Clamp01(value)]]></description>
+	<description><![CDATA[*(value)]]></description>
 </snippet>

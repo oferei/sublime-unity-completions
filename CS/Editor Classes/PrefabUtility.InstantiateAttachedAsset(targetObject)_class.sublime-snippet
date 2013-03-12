@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabUtility.InstantiateAttachedAsset(${1:Object targetObject});]]></content>
-	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[PrefabUtility.InstantiateAttachedAsset]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.InstantiateAttachedAsset(targetObject)]]></description>
+	<description><![CDATA[*(targetObject)]]></description>
 </snippet>

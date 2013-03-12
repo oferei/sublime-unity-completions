@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoBehaviour.IsInvoking(${1:string methodName});]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoBehaviour.IsInvoking]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.IsInvoking(methodName)]]></description>
+	<description><![CDATA[*(methodName)]]></description>
 </snippet>

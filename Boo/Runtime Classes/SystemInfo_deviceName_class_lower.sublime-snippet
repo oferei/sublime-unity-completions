@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SystemInfo.deviceName]]></content>
-	<tabTrigger><![CDATA[systemInfo]]></tabTrigger>
+	<tabTrigger><![CDATA[systemInfo.deviceName]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.deviceName]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

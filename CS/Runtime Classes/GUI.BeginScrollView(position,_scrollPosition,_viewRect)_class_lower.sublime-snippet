@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUI.BeginScrollView(${1:Rect position}, ${2:Vector2 scrollPosition}, ${3:Rect viewRect});]]></content>
-	<tabTrigger><![CDATA[gUI]]></tabTrigger>
+	<tabTrigger><![CDATA[gUI.BeginScrollView]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.BeginScrollView(position, scrollPosition, viewRect)]]></description>
+	<description><![CDATA[*(position, scrollPosition, viewRect)]]></description>
 </snippet>

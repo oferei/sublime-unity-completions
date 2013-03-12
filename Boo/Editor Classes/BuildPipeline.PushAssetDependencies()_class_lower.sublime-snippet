@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[BuildPipeline.PushAssetDependencies()]]></content>
-	<tabTrigger><![CDATA[buildPipeline]]></tabTrigger>
+	<tabTrigger><![CDATA[buildPipeline.PushAssetDependencies]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.PushAssetDependencies()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

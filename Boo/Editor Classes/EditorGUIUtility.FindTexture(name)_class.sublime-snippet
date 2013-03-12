@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUIUtility.FindTexture(${1:name as string})]]></content>
-	<tabTrigger><![CDATA[EditorGUIUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUIUtility.FindTexture]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.FindTexture(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

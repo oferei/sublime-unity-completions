@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUIStyle.DrawWithTextSelection(${1:position : Rect}, ${2:content : GUIContent}, ${3:controlID : int}, ${4:firstSelectedCharacter : int}, ${5:lastSelectedCharacter : int});]]></content>
-	<tabTrigger><![CDATA[GUIStyle]]></tabTrigger>
+	<tabTrigger><![CDATA[GUIStyle.DrawWithTextSelection]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.DrawWithTextSelection(position, content, controlID, firstSelectedCharacter, lastSelectedCharacter)]]></description>
+	<description><![CDATA[*(position, content, controlID, firstSelectedCharacter, lastSelectedCharacter)]]></description>
 </snippet>

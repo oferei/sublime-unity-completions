@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GL.PushMatrix();]]></content>
-	<tabTrigger><![CDATA[gL]]></tabTrigger>
+	<tabTrigger><![CDATA[gL.PushMatrix]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.PushMatrix()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

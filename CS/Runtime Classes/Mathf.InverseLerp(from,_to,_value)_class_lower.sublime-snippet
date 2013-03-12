@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Mathf.InverseLerp(${1:float from}, ${2:float to}, ${3:float value});]]></content>
-	<tabTrigger><![CDATA[mathf]]></tabTrigger>
+	<tabTrigger><![CDATA[mathf.InverseLerp]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.InverseLerp(from, to, value)]]></description>
+	<description><![CDATA[*(from, to, value)]]></description>
 </snippet>

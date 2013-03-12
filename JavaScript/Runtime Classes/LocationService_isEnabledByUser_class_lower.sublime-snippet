@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LocationService.isEnabledByUser]]></content>
-	<tabTrigger><![CDATA[locationService]]></tabTrigger>
+	<tabTrigger><![CDATA[locationService.isEnabledByUser]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.isEnabledByUser]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

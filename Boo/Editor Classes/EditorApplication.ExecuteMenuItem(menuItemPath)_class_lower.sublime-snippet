@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorApplication.ExecuteMenuItem(${1:menuItemPath as string})]]></content>
-	<tabTrigger><![CDATA[editorApplication]]></tabTrigger>
+	<tabTrigger><![CDATA[editorApplication.ExecuteMenuItem]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.ExecuteMenuItem(menuItemPath)]]></description>
+	<description><![CDATA[*(menuItemPath)]]></description>
 </snippet>

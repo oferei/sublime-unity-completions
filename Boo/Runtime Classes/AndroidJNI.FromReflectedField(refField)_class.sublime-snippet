@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.FromReflectedField(${1:refField as IntPtr})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.FromReflectedField]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.FromReflectedField(refField)]]></description>
+	<description><![CDATA[*(refField)]]></description>
 </snippet>

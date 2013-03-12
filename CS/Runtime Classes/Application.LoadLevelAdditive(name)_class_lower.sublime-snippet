@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.LoadLevelAdditive(${1:string name});]]></content>
-	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<tabTrigger><![CDATA[application.LoadLevelAdditive]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.LoadLevelAdditive(name)]]></description>
+	<description><![CDATA[*(name)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Selection.Contains(${1:instanceID as int})]]></content>
-	<tabTrigger><![CDATA[selection]]></tabTrigger>
+	<tabTrigger><![CDATA[selection.Contains]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Contains(instanceID)]]></description>
+	<description><![CDATA[*(instanceID)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SerializedProperty.Next(${1:enterChildren : boolean});]]></content>
-	<tabTrigger><![CDATA[SerializedProperty]]></tabTrigger>
+	<tabTrigger><![CDATA[SerializedProperty.Next]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.Next(enterChildren)]]></description>
+	<description><![CDATA[*(enterChildren)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Transform.TransformPoint(${1:float x}, ${2:float y}, ${3:float z});]]></content>
-	<tabTrigger><![CDATA[Transform]]></tabTrigger>
+	<tabTrigger><![CDATA[Transform.TransformPoint]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.TransformPoint(x, y, z)]]></description>
+	<description><![CDATA[*(x, y, z)]]></description>
 </snippet>

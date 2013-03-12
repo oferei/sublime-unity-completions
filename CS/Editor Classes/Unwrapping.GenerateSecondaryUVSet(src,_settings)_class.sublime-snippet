@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Unwrapping.GenerateSecondaryUVSet(${1:Mesh src}, ${2:UnwrapParam settings});]]></content>
-	<tabTrigger><![CDATA[Unwrapping]]></tabTrigger>
+	<tabTrigger><![CDATA[Unwrapping.GenerateSecondaryUVSet]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GenerateSecondaryUVSet(src, settings)]]></description>
+	<description><![CDATA[*(src, settings)]]></description>
 </snippet>

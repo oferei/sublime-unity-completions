@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Handles.DrawCapFunction(${1:controlID as int}, ${2:position as Vector3}, ${3:rotation as Quaternion}, ${4:size as single})]]></content>
-	<tabTrigger><![CDATA[handles]]></tabTrigger>
+	<tabTrigger><![CDATA[handles.DrawCapFunction]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawCapFunction(controlID, position, rotation, size)]]></description>
+	<description><![CDATA[*(controlID, position, rotation, size)]]></description>
 </snippet>

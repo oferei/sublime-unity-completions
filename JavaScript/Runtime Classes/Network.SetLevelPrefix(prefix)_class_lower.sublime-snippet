@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Network.SetLevelPrefix(${1:prefix : int});]]></content>
-	<tabTrigger><![CDATA[network]]></tabTrigger>
+	<tabTrigger><![CDATA[network.SetLevelPrefix]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.SetLevelPrefix(prefix)]]></description>
+	<description><![CDATA[*(prefix)]]></description>
 </snippet>

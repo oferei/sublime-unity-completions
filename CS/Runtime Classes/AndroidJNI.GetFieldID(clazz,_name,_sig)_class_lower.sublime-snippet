@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.GetFieldID(${1:IntPtr clazz}, ${2:string name}, ${3:string sig});]]></content>
-	<tabTrigger><![CDATA[androidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[androidJNI.GetFieldID]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.GetFieldID(clazz, name, sig)]]></description>
+	<description><![CDATA[*(clazz, name, sig)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Social.ShowAchievementsUI();]]></content>
-	<tabTrigger><![CDATA[social]]></tabTrigger>
+	<tabTrigger><![CDATA[social.ShowAchievementsUI]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ShowAchievementsUI()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[ComputeBuffer.Release();]]></content>
-	<tabTrigger><![CDATA[computeBuffer]]></tabTrigger>
+	<tabTrigger><![CDATA[computeBuffer.Release]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.Release()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

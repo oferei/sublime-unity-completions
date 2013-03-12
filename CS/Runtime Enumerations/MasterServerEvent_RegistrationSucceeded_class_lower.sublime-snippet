@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MasterServerEvent.RegistrationSucceeded]]></content>
-	<tabTrigger><![CDATA[masterServerEvent]]></tabTrigger>
+	<tabTrigger><![CDATA[masterServerEvent.RegistrationSucceeded]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.RegistrationSucceeded]]></description>
+	<description><![CDATA[[var]]]></description>
 </snippet>

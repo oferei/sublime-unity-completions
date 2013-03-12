@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Texture2D.PackTextures(${1:textures as (Texture2D)}, ${2:padding as int}, ${3:maximumAtlasSize as int = 2048}, ${4:makeNoLongerReadable as bool = false})]]></content>
-	<tabTrigger><![CDATA[texture2D]]></tabTrigger>
+	<tabTrigger><![CDATA[texture2D.PackTextures]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.PackTextures(textures, padding, maximumAtlasSize, makeNoLongerReadable)]]></description>
+	<description><![CDATA[*(textures, padding, maximumAtlasSize, makeNoLongerReadable)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PlayerSettings.GetScriptingDefineSymbolsForGroup(${1:targetGroup as BuildTargetGroup})]]></content>
-	<tabTrigger><![CDATA[PlayerSettings]]></tabTrigger>
+	<tabTrigger><![CDATA[PlayerSettings.GetScriptingDefineSymbolsForGroup]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetScriptingDefineSymbolsForGroup(targetGroup)]]></description>
+	<description><![CDATA[*(targetGroup)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties(${1:GameObject root}, ${2:string[] propNames}, ${3:object[] values});]]></content>
-	<tabTrigger><![CDATA[AssetPostprocessor]]></tabTrigger>
+	<tabTrigger><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.OnPostprocessGameObjectWithUserProperties(root, propNames, values)]]></description>
+	<description><![CDATA[*(root, propNames, values)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AndroidJNI.DetachCurrentThread()]]></content>
-	<tabTrigger><![CDATA[AndroidJNI]]></tabTrigger>
+	<tabTrigger><![CDATA[AndroidJNI.DetachCurrentThread]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DetachCurrentThread()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

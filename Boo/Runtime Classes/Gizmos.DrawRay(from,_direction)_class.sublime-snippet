@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Gizmos.DrawRay(${1:from as Vector3}, ${2:direction as Vector3})]]></content>
-	<tabTrigger><![CDATA[Gizmos]]></tabTrigger>
+	<tabTrigger><![CDATA[Gizmos.DrawRay]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawRay(from, direction)]]></description>
+	<description><![CDATA[*(from, direction)]]></description>
 </snippet>

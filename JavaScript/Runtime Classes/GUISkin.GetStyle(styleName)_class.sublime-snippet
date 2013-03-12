@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GUISkin.GetStyle(${1:styleName : String});]]></content>
-	<tabTrigger><![CDATA[GUISkin]]></tabTrigger>
+	<tabTrigger><![CDATA[GUISkin.GetStyle]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.GetStyle(styleName)]]></description>
+	<description><![CDATA[*(styleName)]]></description>
 </snippet>

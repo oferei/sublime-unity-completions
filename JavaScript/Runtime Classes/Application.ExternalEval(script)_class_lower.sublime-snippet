@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Application.ExternalEval(${1:script : String});]]></content>
-	<tabTrigger><![CDATA[application]]></tabTrigger>
+	<tabTrigger><![CDATA[application.ExternalEval]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*.ExternalEval(script)]]></description>
+	<description><![CDATA[*(script)]]></description>
 </snippet>

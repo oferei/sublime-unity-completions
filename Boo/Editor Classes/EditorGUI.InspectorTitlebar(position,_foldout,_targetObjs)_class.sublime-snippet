@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EditorGUI.InspectorTitlebar(${1:position as Rect}, ${2:foldout as bool}, ${3:targetObjs as (Object)})]]></content>
-	<tabTrigger><![CDATA[EditorGUI]]></tabTrigger>
+	<tabTrigger><![CDATA[EditorGUI.InspectorTitlebar]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.InspectorTitlebar(position, foldout, targetObjs)]]></description>
+	<description><![CDATA[*(position, foldout, targetObjs)]]></description>
 </snippet>

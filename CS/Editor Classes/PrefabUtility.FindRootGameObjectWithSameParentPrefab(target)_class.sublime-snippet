@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[PrefabUtility.FindRootGameObjectWithSameParentPrefab(${1:GameObject target});]]></content>
-	<tabTrigger><![CDATA[PrefabUtility]]></tabTrigger>
+	<tabTrigger><![CDATA[PrefabUtility.FindRootGameObjectWithSameParentPrefab]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*.FindRootGameObjectWithSameParentPrefab(target)]]></description>
+	<description><![CDATA[*(target)]]></description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MaterialPropertyBlock.Clear()]]></content>
-	<tabTrigger><![CDATA[materialPropertyBlock]]></tabTrigger>
+	<tabTrigger><![CDATA[materialPropertyBlock.Clear]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.Clear()]]></description>
+	<description><![CDATA[*()]]></description>
 </snippet>

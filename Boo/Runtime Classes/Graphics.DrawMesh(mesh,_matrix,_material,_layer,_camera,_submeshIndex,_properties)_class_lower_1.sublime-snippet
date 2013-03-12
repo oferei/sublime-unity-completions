@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Graphics.DrawMesh(${1:mesh as Mesh}, ${2:matrix as Matrix4x4}, ${3:material as Material}, ${4:layer as int}, ${5:camera as Camera = null}, ${6:submeshIndex as int = 0}, ${7:properties as MaterialPropertyBlock = null})]]></content>
-	<tabTrigger><![CDATA[graphics]]></tabTrigger>
+	<tabTrigger><![CDATA[graphics.DrawMesh]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.DrawMesh(mesh, matrix, material, layer, camera, submeshIndex, properties)]]></description>
+	<description><![CDATA[*(mesh, matrix, material, layer, camera, submeshIndex, properties)]]></description>
 </snippet>

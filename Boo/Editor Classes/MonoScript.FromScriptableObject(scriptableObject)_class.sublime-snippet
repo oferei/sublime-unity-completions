@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MonoScript.FromScriptableObject(${1:scriptableObject as ScriptableObject})]]></content>
-	<tabTrigger><![CDATA[MonoScript]]></tabTrigger>
+	<tabTrigger><![CDATA[MonoScript.FromScriptableObject]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.FromScriptableObject(scriptableObject)]]></description>
+	<description><![CDATA[*(scriptableObject)]]></description>
 </snippet>

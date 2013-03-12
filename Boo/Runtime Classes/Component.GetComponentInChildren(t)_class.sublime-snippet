@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[Component.GetComponentInChildren(${1:t as Type})]]></content>
-	<tabTrigger><![CDATA[Component]]></tabTrigger>
+	<tabTrigger><![CDATA[Component.GetComponentInChildren]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*.GetComponentInChildren(t)]]></description>
+	<description><![CDATA[*(t)]]></description>
 </snippet>
