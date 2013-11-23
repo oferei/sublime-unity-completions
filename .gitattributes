@@ -1,8 +1,6 @@
 # Auto detect text files and perform LF normalization
 *        text=auto
 
-
-*.md     text
+*.md                text
 *..sublime-snippet  text
 *.tmLanguage        text
-
