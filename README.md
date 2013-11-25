@@ -13,11 +13,7 @@ After auto-completing a function name use Tab to easily iterate through the para
 
 ### Package Control
 
-*Note: This installation method depends on a [pending update](https://github.com/wbond/package_control_channel/pull/1156)
-to the [Package Control Default Channel](https://github.com/wbond/package_control_channel).
-If this package does not appear in the list please wait a few days or try the manual method described below.*
-
-The best way to install this package is using 
+The easiest way to install this package is using 
 [Package Control](http://wbond.net/sublime_packages/package_control).
 See [installation](http://wbond.net/sublime_packages/package_control/installation)
 and [usage](http://wbond.net/sublime_packages/package_control/usage)
