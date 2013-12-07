@@ -78,6 +78,6 @@ Up to date with Unity version 4.3.1.
 
 ## Generation
 
-The _sublime-completions_ files were generated automatically using
+The _Unity Completions_ package files were generated automatically using
 [this generator](https://github.com/oferei/sublime-unity-completions-generator).
 The data is based on the [Unity Scripting Reference](http://docs.unity3d.com/Documentation/ScriptReference/).
