@@ -28,13 +28,14 @@ from the Sublime Text menu (Preferences | Browse Packages...)
 ## Usage
 
 Simply start typing any Unity term or press Ctrl+Space.
-After auto-completing a function name use Tab to easily iterate through the parameters.
+You don't have to be accurate - a few consonants may be enough, preferably in the right order.
 
 For example, type in <code>gbjact</code> and you will instantly be offered completions with these letters:
 
 ![gbjact](http://oferei.github.io/sublime-unity-completions/complete-gbjact.png)
 
-Notice the type on the right side. Function types include parameter names.
+Notice the type on the right side:
+_[var]_ for variables, _[class]_ for classes or parentheses with parameter names for functions.
 
 Another example. Type in <code>pscast</code> and you will be offered:
 
