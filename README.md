@@ -40,8 +40,9 @@ Another example. Type in <code>pscast</code> and you will be offered:
 
 ![pscast](http://oferei.github.io/sublime-unity-completions/complete-pscast.png)
 
-Notice that functions may appear multiple times if they have different definitions.
-There is no room in the pop-up window for parameters types, only names.
+Notice that functions may appear multiple times if they have several definitions.
+They can be distinguished by the parameter names.
+(The pop-up is too small to include the types...)
 
 Once you select a _function_ completion, a full snippet will be inserted,
 including the parameter types, names and default values:
