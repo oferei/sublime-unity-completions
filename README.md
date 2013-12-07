@@ -34,7 +34,7 @@ For example, type in <code>gbjact</code> and you will instantly be offered compl
 
 ![gbjact](http://oferei.github.io/sublime-unity-completions/complete-gbjact.png)
 
-Notice the type on the right side. Function type include parameter names.
+Notice the type on the right side. Function types include parameter names.
 
 Another example. Type in <code>pscast</code> and you will be offered:
 
