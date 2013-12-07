@@ -47,7 +47,7 @@ They can be distinguished by the parameter names.
 Once you select a _function_ completion, a full snippet will be inserted,
 including the parameter types, names and default values:
 
-![SphereCast](http://oferei.github.io/sublime-unity-completions/func-spherecast.png)
+![SphereCast](http://oferei.github.io/sublime-unity-completions/func-spherecast2.png)
 
 You can then use Tab and Shift+Tab to quickly navigate between the parameters.
 
