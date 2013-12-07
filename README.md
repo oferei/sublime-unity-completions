@@ -30,6 +30,10 @@ from the Sublime Text menu (Preferences | Browse Packages...)
 2. Create a new directory called "Unity Completions"
 3. Copy the contents of this package into the new directory
 
+## Status
+
+Up to date with Unity version 4.3.1.
+
 ## Generation
 
 The _sublime-completions_ files were generated automatically using
