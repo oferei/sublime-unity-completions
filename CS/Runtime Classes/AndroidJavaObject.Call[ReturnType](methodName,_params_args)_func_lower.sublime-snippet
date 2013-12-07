@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJavaObject.Call<${1:ReturnType}>(${2:string methodName}, ${3:object[] params args});]]></content>
-	<tabTrigger><![CDATA[call]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AndroidJavaObject.*<ReturnType>(methodName, params args)]]></description>
-</snippet>

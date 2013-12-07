@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Debug.ClearDeveloperConsole();]]></content>
+	<tabTrigger><![CDATA[clearDeveloperConsole]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Debug.*()]]></description>
+</snippet>

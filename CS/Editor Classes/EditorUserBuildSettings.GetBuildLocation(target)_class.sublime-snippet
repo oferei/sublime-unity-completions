@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUserBuildSettings.GetBuildLocation(${1:BuildTarget target});]]></content>
-	<tabTrigger><![CDATA[EditorUserBuildSettings.GetBuildLocation]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(target)]]></description>
-</snippet>

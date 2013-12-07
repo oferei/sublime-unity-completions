@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Component.SendMessageUpwards(${1:methodName : string}, ${2:options : SendMessageOptions});]]></content>
+	<tabTrigger><![CDATA[SendMessageUpwards]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Component.*(methodName, options)]]></description>
+</snippet>

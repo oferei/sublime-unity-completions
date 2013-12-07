@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Foldout(${1:position : Rect}, ${2:foldout : boolean}, ${3:content : GUIContent}, ${4:toggleOnLabelClick : boolean}, ${5:style : GUIStyle = EditorStyles.foldout});]]></content>
+	<content><![CDATA[EditorGUI.Foldout(${1:position : Rect}, ${2:foldout : bool}, ${3:content : GUIContent}, ${4:toggleOnLabelClick : bool}, ${5:style : GUIStyle = EditorStyles.foldout});]]></content>
 	<tabTrigger><![CDATA[Foldout]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUI.*(position, foldout, content, toggleOnLabelClick, style)]]></description>

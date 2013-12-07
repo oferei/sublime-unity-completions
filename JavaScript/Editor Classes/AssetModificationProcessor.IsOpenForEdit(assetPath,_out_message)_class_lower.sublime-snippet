@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.IsOpenForEdit(${1:assetPath : String}, ${2:out message : String});]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor.IsOpenForEdit]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(assetPath, out message)]]></description>
-</snippet>

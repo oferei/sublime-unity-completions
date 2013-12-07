@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILocalUser.LoadFriends(${1:callback as System.Action<bool>})]]></content>
-	<tabTrigger><![CDATA[LoadFriends]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ILocalUser.*(callback)]]></description>
-</snippet>

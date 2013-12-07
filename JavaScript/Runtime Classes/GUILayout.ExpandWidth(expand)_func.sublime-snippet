@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.ExpandWidth(${1:expand : boolean});]]></content>
+	<content><![CDATA[GUILayout.ExpandWidth(${1:expand : bool});]]></content>
 	<tabTrigger><![CDATA[ExpandWidth]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUILayout.*(expand)]]></description>

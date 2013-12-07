@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.LinecastAll(${1:start : Vector2}, ${2:end : Vector2}, ${3:layerMask : int = DefaultRaycastLayers}, ${4:minDepth : float = -Mathf.Infinity}, ${5:maxDepth : float = Mathf.Infinity});]]></content>
+	<tabTrigger><![CDATA[physics2D.LinecastAll]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(start, end, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

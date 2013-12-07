@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJavaObject.SetStatic<${1:FieldType}>(${2:string fieldName}, ${3:FieldType val});]]></content>
-	<tabTrigger><![CDATA[SetStatic]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AndroidJavaObject.*<FieldType>(fieldName, val)]]></description>
-</snippet>

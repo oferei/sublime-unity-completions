@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ToggleLeft(${1:position as Rect}, ${2:label as GUIContent}, ${3:value as bool}, ${4:labelStyle as GUIStyle = EditorStyles.label})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.ToggleLeft]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, label, value, labelStyle)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Range(${1:fromValue as int}, ${2:valueCount as int})]]></content>
-	<tabTrigger><![CDATA[range]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(fromValue, valueCount)]]></description>
-</snippet>

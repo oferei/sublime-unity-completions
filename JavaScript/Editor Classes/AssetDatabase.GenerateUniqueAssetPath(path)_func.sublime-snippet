@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.GenerateUniqueAssetPath(${1:path : String});]]></content>
+	<content><![CDATA[AssetDatabase.GenerateUniqueAssetPath(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[GenerateUniqueAssetPath]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*(path)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetObjectReferenceValue(${1:GameObject root}, ${2:EditorCurveBinding binding}, ${3:Object targetObject});]]></content>
+	<tabTrigger><![CDATA[animationUtility.GetObjectReferenceValue]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(root, binding, targetObject)]]></description>
+</snippet>

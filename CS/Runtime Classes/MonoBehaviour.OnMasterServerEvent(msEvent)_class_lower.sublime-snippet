@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnMasterServerEvent(${1:MasterServerEvent msEvent});]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnMasterServerEvent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(msEvent)]]></description>
-</snippet>

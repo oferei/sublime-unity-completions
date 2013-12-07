@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HumanTrait.GetMuscleDefaultMax(${1:i : int});]]></content>
+	<tabTrigger><![CDATA[getMuscleDefaultMax]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HumanTrait.*(i)]]></description>
+</snippet>

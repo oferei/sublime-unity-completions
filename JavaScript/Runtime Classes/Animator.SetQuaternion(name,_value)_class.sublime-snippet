@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Animator.SetQuaternion(${1:name : String}, ${2:value : Quaternion});]]></content>
-	<tabTrigger><![CDATA[Animator.SetQuaternion]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(name, value)]]></description>
-</snippet>

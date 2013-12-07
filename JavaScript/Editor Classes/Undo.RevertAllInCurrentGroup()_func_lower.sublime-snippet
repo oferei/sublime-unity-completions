@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RevertAllInCurrentGroup();]]></content>
+	<tabTrigger><![CDATA[revertAllInCurrentGroup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Undo.*()]]></description>
+</snippet>

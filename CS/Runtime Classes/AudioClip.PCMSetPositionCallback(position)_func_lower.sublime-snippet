@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioClip.PCMSetPositionCallback(${1:int position});]]></content>
-	<tabTrigger><![CDATA[pCMSetPositionCallback]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AudioClip.*(position)]]></description>
-</snippet>

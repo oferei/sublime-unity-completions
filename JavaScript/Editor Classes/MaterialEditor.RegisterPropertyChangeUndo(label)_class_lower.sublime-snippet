@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.RegisterPropertyChangeUndo(${1:label : string});]]></content>
+	<tabTrigger><![CDATA[materialEditor.RegisterPropertyChangeUndo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(label)]]></description>
+</snippet>

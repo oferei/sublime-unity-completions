@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Equals(${1:object other});]]></content>
+	<tabTrigger><![CDATA[Vector3.Equals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

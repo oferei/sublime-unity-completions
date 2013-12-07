@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJavaProxy(${1:AndroidJavaClass javaInterface});]]></content>
+	<tabTrigger><![CDATA[AndroidJavaProxy]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(javaInterface)]]></description>
+</snippet>

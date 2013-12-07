@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetByteField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:Byte val});]]></content>
+	<content><![CDATA[AndroidJNI.SetByteField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:byte val});]]></content>
 	<tabTrigger><![CDATA[SetByteField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(obj, fieldID, val)]]></description>

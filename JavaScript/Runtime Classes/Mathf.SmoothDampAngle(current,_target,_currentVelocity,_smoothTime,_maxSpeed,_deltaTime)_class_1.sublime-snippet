@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.SmoothDampAngle(${1:current : float}, ${2:target : float}, ${3:currentVelocity : float}, ${4:smoothTime : float}, ${5:maxSpeed : float = Mathf.Infinity}, ${6:deltaTime : float = Time.deltaTime});]]></content>
+	<tabTrigger><![CDATA[Mathf.SmoothDampAngle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(current, target, currentVelocity, smoothTime, maxSpeed, deltaTime)]]></description>
+</snippet>

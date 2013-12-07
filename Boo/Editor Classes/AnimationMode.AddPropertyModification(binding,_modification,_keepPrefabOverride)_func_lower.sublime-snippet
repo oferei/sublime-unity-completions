@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMode.AddPropertyModification(${1:binding as EditorCurveBinding}, ${2:modification as PropertyModification}, ${3:keepPrefabOverride as bool})]]></content>
+	<tabTrigger><![CDATA[addPropertyModification]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationMode.*(binding, modification, keepPrefabOverride)]]></description>
+</snippet>

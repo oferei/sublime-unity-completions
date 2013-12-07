@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.ResetTrigger(${1:name : string});]]></content>
+	<tabTrigger><![CDATA[ResetTrigger]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(name)]]></description>
+</snippet>

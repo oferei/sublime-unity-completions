@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FileUtil.MoveFileOrDirectory(${1:from : String}, ${2:to : String});]]></content>
+	<content><![CDATA[FileUtil.MoveFileOrDirectory(${1:from : string}, ${2:to : string});]]></content>
 	<tabTrigger><![CDATA[fileUtil.MoveFileOrDirectory]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(from, to)]]></description>

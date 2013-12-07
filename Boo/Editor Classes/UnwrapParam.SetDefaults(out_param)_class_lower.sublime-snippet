@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnwrapParam.SetDefaults(${1:out param as UnwrapParam})]]></content>
-	<tabTrigger><![CDATA[unwrapParam.SetDefaults]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(out param)]]></description>
-</snippet>

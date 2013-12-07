@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationClipCurveData(${1:EditorCurveBinding binding});]]></content>
+	<tabTrigger><![CDATA[AnimationClipCurveData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(binding)]]></description>
+</snippet>

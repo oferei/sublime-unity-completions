@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.GetTexDim(${1:s as Shader}, ${2:propertyIdx as int})]]></content>
+	<tabTrigger><![CDATA[getTexDim]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ShaderUtil.*(s, propertyIdx)]]></description>
+</snippet>

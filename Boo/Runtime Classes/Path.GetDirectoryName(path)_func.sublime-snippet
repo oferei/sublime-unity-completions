@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.GetDirectoryName(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[GetDirectoryName]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Path.*(path)]]></description>
-</snippet>

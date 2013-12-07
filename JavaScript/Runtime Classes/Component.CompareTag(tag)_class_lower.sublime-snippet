@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.CompareTag(${1:tag : String});]]></content>
+	<content><![CDATA[Component.CompareTag(${1:tag : string});]]></content>
 	<tabTrigger><![CDATA[component.CompareTag]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(tag)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.HasKey(${1:key : String});]]></content>
+	<content><![CDATA[EditorPrefs.HasKey(${1:key : string});]]></content>
 	<tabTrigger><![CDATA[hasKey]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorPrefs.*(key)]]></description>

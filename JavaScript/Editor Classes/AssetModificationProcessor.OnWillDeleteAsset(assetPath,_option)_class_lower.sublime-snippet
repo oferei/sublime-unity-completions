@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillDeleteAsset(${1:assetPath : String}, ${2:option : RemoveAssetOptions});]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor.OnWillDeleteAsset]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(assetPath, option)]]></description>
-</snippet>

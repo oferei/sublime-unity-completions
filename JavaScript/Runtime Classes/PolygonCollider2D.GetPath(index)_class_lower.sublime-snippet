@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PolygonCollider2D.GetPath(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[polygonCollider2D.GetPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

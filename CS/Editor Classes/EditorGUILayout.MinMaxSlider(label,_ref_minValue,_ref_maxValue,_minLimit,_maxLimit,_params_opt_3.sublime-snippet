@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.MinMaxSlider(${1:GUIContent label}, ${2:float ref minValue}, ${3:float ref maxValue}, ${4:float minLimit}, ${5:float maxLimit}, ${6:GUILayoutOption[] params options});]]></content>
-	<tabTrigger><![CDATA[MinMaxSlider]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(label, ref minValue, ref maxValue, minLimit, maxLimit, params options)]]></description>
-</snippet>

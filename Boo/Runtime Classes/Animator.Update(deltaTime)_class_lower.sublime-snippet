@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.Update(${1:deltaTime as single})]]></content>
+	<tabTrigger><![CDATA[animator.Update]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(deltaTime)]]></description>
+</snippet>

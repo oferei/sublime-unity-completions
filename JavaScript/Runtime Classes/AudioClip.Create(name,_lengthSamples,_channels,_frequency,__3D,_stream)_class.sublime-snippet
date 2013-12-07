@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioClip.Create(${1:name : String}, ${2:lengthSamples : int}, ${3:channels : int}, ${4:frequency : int}, ${5:_3D : boolean}, ${6:stream : boolean});]]></content>
+	<content><![CDATA[AudioClip.Create(${1:name : string}, ${2:lengthSamples : int}, ${3:channels : int}, ${4:frequency : int}, ${5:_3D : bool}, ${6:stream : bool});]]></content>
 	<tabTrigger><![CDATA[AudioClip.Create]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name, lengthSamples, channels, frequency, _3D, stream)]]></description>

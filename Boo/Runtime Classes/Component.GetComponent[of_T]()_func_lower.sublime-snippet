@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Component.GetComponent[of ${1:T}]()]]></content>
-	<tabTrigger><![CDATA[getComponent]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Component.*[of T]()]]></description>
-</snippet>

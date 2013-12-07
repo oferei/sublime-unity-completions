@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.SubmitIsValid(${1:changeset : ChangeSet}, ${2:assets : AssetList});]]></content>
+	<tabTrigger><![CDATA[versionControl.Provider.SubmitIsValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(changeset, assets)]]></description>
+</snippet>

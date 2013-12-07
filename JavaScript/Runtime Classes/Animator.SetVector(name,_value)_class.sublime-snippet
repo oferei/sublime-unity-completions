@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Animator.SetVector(${1:name : String}, ${2:value : Vector3});]]></content>
-	<tabTrigger><![CDATA[Animator.SetVector]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(name, value)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Tile.CreateOrUpdateSecondary(${1:data : SecondaryTileData});]]></content>
+	<tabTrigger><![CDATA[Tile.CreateOrUpdateSecondary]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[WSA.*(data)]]></description>
+</snippet>

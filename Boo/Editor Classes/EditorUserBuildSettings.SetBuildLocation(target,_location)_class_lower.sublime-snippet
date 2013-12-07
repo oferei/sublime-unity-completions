@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUserBuildSettings.SetBuildLocation(${1:target as BuildTarget}, ${2:location as string})]]></content>
-	<tabTrigger><![CDATA[editorUserBuildSettings.SetBuildLocation]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(target, location)]]></description>
-</snippet>

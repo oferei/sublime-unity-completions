@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ThrowNew(${1:clazz : IntPtr}, ${2:message : String});]]></content>
+	<content><![CDATA[AndroidJNI.ThrowNew(${1:clazz : IntPtr}, ${2:message : string});]]></content>
 	<tabTrigger><![CDATA[throwNew]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(clazz, message)]]></description>

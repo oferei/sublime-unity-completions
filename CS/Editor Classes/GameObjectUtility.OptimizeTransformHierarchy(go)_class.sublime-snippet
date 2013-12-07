@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.OptimizeTransformHierarchy(${1:GameObject go});]]></content>
+	<tabTrigger><![CDATA[GameObjectUtility.OptimizeTransformHierarchy]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(go)]]></description>
+</snippet>

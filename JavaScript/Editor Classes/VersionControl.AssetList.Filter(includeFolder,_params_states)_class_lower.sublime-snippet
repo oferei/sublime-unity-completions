@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.AssetList.Filter(${1:includeFolder : bool}, ${2:params states : States[]});]]></content>
+	<tabTrigger><![CDATA[versionControl.AssetList.Filter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(includeFolder, params states)]]></description>
+</snippet>

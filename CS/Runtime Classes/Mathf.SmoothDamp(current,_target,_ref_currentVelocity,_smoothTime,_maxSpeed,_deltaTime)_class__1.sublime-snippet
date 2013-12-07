@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mathf.SmoothDamp(${1:float current}, ${2:float target}, ${3:float ref currentVelocity}, ${4:float smoothTime}, ${5:float maxSpeed = Mathf.Infinity}, ${6:float deltaTime = Time.deltaTime});]]></content>
-	<tabTrigger><![CDATA[mathf.SmoothDamp]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(current, target, ref currentVelocity, smoothTime, maxSpeed, deltaTime)]]></description>
-</snippet>

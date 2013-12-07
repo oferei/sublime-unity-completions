@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Animator.SetVector(${1:int id}, ${2:Vector3 value});]]></content>
-	<tabTrigger><![CDATA[setVector]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Animator.*(id, value)]]></description>
-</snippet>

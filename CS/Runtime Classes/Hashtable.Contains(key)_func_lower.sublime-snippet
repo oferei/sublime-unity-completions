@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Hashtable.Contains(${1:object key});]]></content>
-	<tabTrigger><![CDATA[contains]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Hashtable.*(key)]]></description>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Ping(${1:address : String});]]></content>
+	<content><![CDATA[Ping(${1:address : string});]]></content>
 	<tabTrigger><![CDATA[Ping]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(address)]]></description>

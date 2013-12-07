@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.GetComponentsInChildren(${1:bool includeInactive});]]></content>
+	<tabTrigger><![CDATA[GameObject.GetComponentsInChildren]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(includeInactive)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToBooleanArray(${1:array as (Boolean)})]]></content>
+	<content><![CDATA[AndroidJNI.ToBooleanArray(${1:array as (bool)})]]></content>
 	<tabTrigger><![CDATA[androidJNI.ToBooleanArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(array)]]></description>

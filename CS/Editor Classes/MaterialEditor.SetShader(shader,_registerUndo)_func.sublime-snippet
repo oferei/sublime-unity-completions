@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.SetShader(${1:Shader shader}, ${2:bool registerUndo});]]></content>
+	<tabTrigger><![CDATA[SetShader]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(shader, registerUndo)]]></description>
+</snippet>

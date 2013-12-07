@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.VectorProperty(${1:MaterialProperty prop}, ${2:string label});]]></content>
+	<tabTrigger><![CDATA[vectorProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(prop, label)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorApplication.ProjectWindowItemCallback(${1:guid : String}, ${2:selectionRect : Rect});]]></content>
-	<tabTrigger><![CDATA[editorApplication.ProjectWindowItemCallback]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(guid, selectionRect)]]></description>
-</snippet>

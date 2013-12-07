@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetObjectReferenceCurveBindings(${1:clip as AnimationClip})]]></content>
+	<tabTrigger><![CDATA[AnimationUtility.GetObjectReferenceCurveBindings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(clip)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.GetMaterialProperties(${1:mats as (Object)})]]></content>
+	<tabTrigger><![CDATA[getMaterialProperties]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(mats)]]></description>
+</snippet>

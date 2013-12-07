@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoImporter.SetDefaultReferences(${1:string[] name}, ${2:Object[] target});]]></content>
-	<tabTrigger><![CDATA[SetDefaultReferences]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MonoImporter.*(name, target)]]></description>
-</snippet>

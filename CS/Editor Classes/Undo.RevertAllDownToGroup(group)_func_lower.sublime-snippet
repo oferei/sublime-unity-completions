@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RevertAllDownToGroup(${1:int group});]]></content>
+	<tabTrigger><![CDATA[revertAllDownToGroup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Undo.*(group)]]></description>
+</snippet>

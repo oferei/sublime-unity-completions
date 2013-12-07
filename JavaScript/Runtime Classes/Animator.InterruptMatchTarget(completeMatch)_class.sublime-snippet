@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.InterruptMatchTarget(${1:completeMatch : boolean = true});]]></content>
+	<content><![CDATA[Animator.InterruptMatchTarget(${1:completeMatch : bool = true});]]></content>
 	<tabTrigger><![CDATA[Animator.InterruptMatchTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(completeMatch)]]></description>

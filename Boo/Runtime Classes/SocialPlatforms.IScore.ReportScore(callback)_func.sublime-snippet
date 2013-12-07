@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialPlatforms.IScore.ReportScore(${1:callback as Action<bool>})]]></content>
+	<tabTrigger><![CDATA[IScore.ReportScore]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SocialPlatforms.*(callback)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnCollisionStay(${1:Collision collisionInfo});]]></content>
-	<tabTrigger><![CDATA[OnCollisionStay]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MonoBehaviour.*(collisionInfo)]]></description>
-</snippet>

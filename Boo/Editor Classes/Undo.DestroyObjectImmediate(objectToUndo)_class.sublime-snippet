@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.DestroyObjectImmediate(${1:objectToUndo as Object})]]></content>
+	<tabTrigger><![CDATA[Undo.DestroyObjectImmediate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(objectToUndo)]]></description>
+</snippet>

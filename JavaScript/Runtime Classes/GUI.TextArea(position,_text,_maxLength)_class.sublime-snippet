@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.TextArea(${1:position : Rect}, ${2:text : String}, ${3:maxLength : int});]]></content>
+	<content><![CDATA[GUI.TextArea(${1:position : Rect}, ${2:text : string}, ${3:maxLength : int});]]></content>
 	<tabTrigger><![CDATA[GUI.TextArea]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, text, maxLength)]]></description>

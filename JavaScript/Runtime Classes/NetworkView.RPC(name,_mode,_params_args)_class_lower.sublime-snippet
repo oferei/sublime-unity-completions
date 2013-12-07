@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NetworkView.RPC(${1:name : String}, ${2:mode : RPCMode}, ${3:params args : object[]});]]></content>
+	<content><![CDATA[NetworkView.RPC(${1:name : string}, ${2:mode : RPCMode}, ${3:params args : object[]});]]></content>
 	<tabTrigger><![CDATA[networkView.RPC]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name, mode, params args)]]></description>

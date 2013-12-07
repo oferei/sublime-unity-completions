@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.FloatProperty(${1:MaterialProperty prop}, ${2:string label});]]></content>
+	<tabTrigger><![CDATA[floatProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(prop, label)]]></description>
+</snippet>

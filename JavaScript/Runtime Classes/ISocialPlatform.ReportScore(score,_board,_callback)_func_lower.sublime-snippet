@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ISocialPlatform.ReportScore(${1:score : Int64}, ${2:board : String}, ${3:callback : System.Action<bool>});]]></content>
-	<tabTrigger><![CDATA[reportScore]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ISocialPlatform.*(score, board, callback)]]></description>
-</snippet>

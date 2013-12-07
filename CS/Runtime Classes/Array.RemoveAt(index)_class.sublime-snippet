@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Array.RemoveAt(${1:int index});]]></content>
-	<tabTrigger><![CDATA[Array.RemoveAt]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(index)]]></description>
-</snippet>

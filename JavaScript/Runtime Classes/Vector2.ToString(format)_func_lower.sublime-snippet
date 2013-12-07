@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.ToString(${1:format : String});]]></content>
+	<content><![CDATA[Vector2.ToString(${1:format : string});]]></content>
 	<tabTrigger><![CDATA[toString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Vector2.*(format)]]></description>

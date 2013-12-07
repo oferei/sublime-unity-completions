@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.ExternalEval(${1:script : String});]]></content>
+	<content><![CDATA[Application.ExternalEval(${1:script : string});]]></content>
 	<tabTrigger><![CDATA[ExternalEval]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Application.*(script)]]></description>

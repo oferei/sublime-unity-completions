@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Checkout(${1:Object asset}, ${2:CheckoutMode mode});]]></content>
+	<tabTrigger><![CDATA[versionControl.Provider.Checkout]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(asset, mode)]]></description>
+</snippet>

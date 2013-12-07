@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawFrustum(${1:center as Vector3}, ${2:fov as single}, ${3:maxRange as single}, ${4:minRange as single}, ${5:aspect as single})]]></content>
+	<tabTrigger><![CDATA[Gizmos.DrawFrustum]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(center, fov, maxRange, minRange, aspect)]]></description>
+</snippet>

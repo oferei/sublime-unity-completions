@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILeaderboard.LoadScores(${1:callback as Action<bool>})]]></content>
-	<tabTrigger><![CDATA[LoadScores]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ILeaderboard.*(callback)]]></description>
-</snippet>

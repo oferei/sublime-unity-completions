@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetTexture(${1:nameID : int}, ${2:texture : Texture});]]></content>
+	<tabTrigger><![CDATA[setTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Material.*(nameID, texture)]]></description>
+</snippet>

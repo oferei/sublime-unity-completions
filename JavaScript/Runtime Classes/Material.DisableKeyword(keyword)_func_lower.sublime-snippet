@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.DisableKeyword(${1:keyword : string});]]></content>
+	<tabTrigger><![CDATA[disableKeyword]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Material.*(keyword)]]></description>
+</snippet>

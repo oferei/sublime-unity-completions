@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetEditorCurveValueType(${1:GameObject root}, ${2:EditorCurveBinding binding});]]></content>
+	<tabTrigger><![CDATA[GetEditorCurveValueType]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationUtility.*(root, binding)]]></description>
+</snippet>

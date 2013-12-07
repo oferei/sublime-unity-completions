@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PolygonCollider2D.SetPath(${1:int index}, ${2:Vector2[] points});]]></content>
+	<tabTrigger><![CDATA[PolygonCollider2D.SetPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, points)]]></description>
+</snippet>

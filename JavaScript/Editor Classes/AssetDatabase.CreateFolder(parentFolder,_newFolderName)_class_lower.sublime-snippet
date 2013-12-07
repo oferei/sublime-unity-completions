@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.CreateFolder(${1:parentFolder : String}, ${2:newFolderName : String});]]></content>
+	<content><![CDATA[AssetDatabase.CreateFolder(${1:parentFolder : string}, ${2:newFolderName : string});]]></content>
 	<tabTrigger><![CDATA[assetDatabase.CreateFolder]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(parentFolder, newFolderName)]]></description>

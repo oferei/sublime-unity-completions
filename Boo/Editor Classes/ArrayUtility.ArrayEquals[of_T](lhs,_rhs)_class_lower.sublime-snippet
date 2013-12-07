@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.ArrayEquals[of ${1:T}](${2:lhs as (T)}, ${3:rhs as (T)})]]></content>
-	<tabTrigger><![CDATA[arrayUtility.ArrayEquals]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of T](lhs, rhs)]]></description>
-</snippet>

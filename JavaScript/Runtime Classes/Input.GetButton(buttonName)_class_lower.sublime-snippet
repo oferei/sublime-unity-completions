@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetButton(${1:buttonName : String});]]></content>
+	<content><![CDATA[Input.GetButton(${1:buttonName : string});]]></content>
 	<tabTrigger><![CDATA[input.GetButton]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(buttonName)]]></description>

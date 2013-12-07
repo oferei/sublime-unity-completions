@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.GetPropertyHeight(${1:prop as MaterialProperty}, ${2:label as string})]]></content>
+	<tabTrigger><![CDATA[getPropertyHeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(prop, label)]]></description>
+</snippet>

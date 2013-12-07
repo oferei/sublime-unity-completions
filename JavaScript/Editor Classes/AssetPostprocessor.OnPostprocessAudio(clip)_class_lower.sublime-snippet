@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAudio(${1:clip : AudioClip});]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAudio]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(clip)]]></description>
-</snippet>

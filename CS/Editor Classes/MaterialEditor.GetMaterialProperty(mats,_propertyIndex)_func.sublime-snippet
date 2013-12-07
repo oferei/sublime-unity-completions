@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.GetMaterialProperty(${1:Object[] mats}, ${2:int propertyIndex});]]></content>
+	<tabTrigger><![CDATA[GetMaterialProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(mats, propertyIndex)]]></description>
+</snippet>

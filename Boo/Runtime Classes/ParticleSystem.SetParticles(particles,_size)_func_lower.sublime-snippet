@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.SetParticles(${1:particles as (ParticleSystem.Particle)}, ${2:size as int})]]></content>
+	<content><![CDATA[ParticleSystem.SetParticles(${1:particles as (Particle)}, ${2:size as int})]]></content>
 	<tabTrigger><![CDATA[setParticles]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[ParticleSystem.*(particles, size)]]></description>

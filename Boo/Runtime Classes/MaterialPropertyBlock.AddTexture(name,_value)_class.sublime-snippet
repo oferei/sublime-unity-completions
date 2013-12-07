@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.AddTexture(${1:name as string}, ${2:value as Texture})]]></content>
+	<tabTrigger><![CDATA[MaterialPropertyBlock.AddTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

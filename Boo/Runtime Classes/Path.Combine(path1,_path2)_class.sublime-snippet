@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.Combine(${1:path1 as string}, ${2:path2 as string})]]></content>
-	<tabTrigger><![CDATA[Path.Combine]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(path1, path2)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Array.Concat(${1:array : Array}, ${2:optionalArray0 : Array}, ${3:optionalArray1 : Array});]]></content>
-	<tabTrigger><![CDATA[Array.Concat]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(array, optionalArray0, optionalArray1)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.VectorProperty(${1:position as Rect}, ${2:prop as MaterialProperty}, ${3:label as string})]]></content>
+	<tabTrigger><![CDATA[MaterialEditor.VectorProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, prop, label)]]></description>
+</snippet>

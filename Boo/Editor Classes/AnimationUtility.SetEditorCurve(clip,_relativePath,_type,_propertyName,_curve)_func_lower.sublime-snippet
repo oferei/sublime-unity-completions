@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.SetEditorCurve(${1:clip as AnimationClip}, ${2:relativePath as string}, ${3:type as Type}, ${4:propertyName as string}, ${5:curve as AnimationCurve})]]></content>
-	<tabTrigger><![CDATA[setEditorCurve]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationUtility.*(clip, relativePath, type, propertyName, curve)]]></description>
-</snippet>

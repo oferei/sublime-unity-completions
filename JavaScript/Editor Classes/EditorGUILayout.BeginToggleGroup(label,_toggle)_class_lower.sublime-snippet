@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.BeginToggleGroup(${1:label : GUIContent}, ${2:toggle : boolean});]]></content>
+	<content><![CDATA[EditorGUILayout.BeginToggleGroup(${1:label : GUIContent}, ${2:toggle : bool});]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.BeginToggleGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(label, toggle)]]></description>

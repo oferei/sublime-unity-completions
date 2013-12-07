@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Hashtable.Remove(${1:object key});]]></content>
-	<tabTrigger><![CDATA[Remove]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Hashtable.*(key)]]></description>
-</snippet>

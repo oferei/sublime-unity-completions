@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.FindIndex(${1:array as (T)}, ${2:match as Predicate<T>})]]></content>
+	<tabTrigger><![CDATA[arrayUtility.FindIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(array, match)]]></description>
+</snippet>

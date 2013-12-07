@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetStoreToolUtils.BuildAssetStoreAssetBundle(${1:Object targetObject}, ${2:string targetPath});]]></content>
-	<tabTrigger><![CDATA[assetStoreToolUtils.BuildAssetStoreAssetBundle]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(targetObject, targetPath)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Tile.DeleteSecondary(${1:string tileId}, ${2:Rect area});]]></content>
+	<tabTrigger><![CDATA[tile.DeleteSecondary]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[WSA.*(tileId, area)]]></description>
+</snippet>

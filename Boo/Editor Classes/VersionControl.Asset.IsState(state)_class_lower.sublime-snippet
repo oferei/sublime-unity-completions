@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Asset.IsState(${1:state as States})]]></content>
+	<tabTrigger><![CDATA[versionControl.Asset.IsState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(state)]]></description>
+</snippet>

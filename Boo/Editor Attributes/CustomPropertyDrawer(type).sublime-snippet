@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomPropertyDrawer(${1:type as System.Type})]]></content>
+	<content><![CDATA[CustomPropertyDrawer(${1:type as Type})]]></content>
 	<tabTrigger><![CDATA[CustomPropertyDrawer]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(type)]]></description>

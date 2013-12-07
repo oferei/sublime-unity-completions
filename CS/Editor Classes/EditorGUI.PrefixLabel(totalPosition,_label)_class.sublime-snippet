@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.PrefixLabel(${1:Rect totalPosition}, ${2:GUIContent label});]]></content>
+	<tabTrigger><![CDATA[EditorGUI.PrefixLabel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(totalPosition, label)]]></description>
+</snippet>

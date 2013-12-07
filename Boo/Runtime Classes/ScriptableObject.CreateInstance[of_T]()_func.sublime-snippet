@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableObject.CreateInstance[of ${1:T}]()]]></content>
-	<tabTrigger><![CDATA[CreateInstance]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ScriptableObject.*[of T]()]]></description>
-</snippet>

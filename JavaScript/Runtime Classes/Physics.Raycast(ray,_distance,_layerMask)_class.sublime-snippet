@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.Raycast(${1:ray : Ray}, ${2:distance : float = Mathf.Infinity}, ${3:layerMask : int = kDefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics.Raycast(${1:ray : Ray}, ${2:distance : float = Mathf.Infinity}, ${3:layerMask : int = DefaultRaycastLayers});]]></content>
 	<tabTrigger><![CDATA[Physics.Raycast]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(ray, distance, layerMask)]]></description>

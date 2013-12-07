@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.ChangeSetMove(${1:asset : Asset}, ${2:changesetID : string});]]></content>
+	<tabTrigger><![CDATA[provider.ChangeSetMove]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VersionControl.*(asset, changesetID)]]></description>
+</snippet>

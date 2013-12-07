@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.GetLatestIsValid(${1:Asset asset});]]></content>
+	<tabTrigger><![CDATA[provider.GetLatestIsValid]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VersionControl.*(asset)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNIHelper.GetMethodID[of ${1:ReturnType}](${2:jclass as System.IntPtr}, ${3:methodName as string}, ${4:args as (object)}, ${5:isStatic as bool})]]></content>
-	<tabTrigger><![CDATA[AndroidJNIHelper.GetMethodID]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of ReturnType](jclass, methodName, args, isStatic)]]></description>
-</snippet>

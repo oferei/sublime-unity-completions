@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.GetChild(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[GetChild]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(index)]]></description>
+</snippet>

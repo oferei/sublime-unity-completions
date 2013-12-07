@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Highlighter.Highlight(${1:windowTitle as string}, ${2:text as string})]]></content>
+	<tabTrigger><![CDATA[highlighter.Highlight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(windowTitle, text)]]></description>
+</snippet>

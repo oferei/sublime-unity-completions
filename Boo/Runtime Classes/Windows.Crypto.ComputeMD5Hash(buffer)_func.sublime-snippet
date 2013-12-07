@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Windows.Crypto.ComputeMD5Hash(${1:buffer as (byte)})]]></content>
+	<tabTrigger><![CDATA[Crypto.ComputeMD5Hash]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Windows.*(buffer)]]></description>
+</snippet>

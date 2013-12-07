@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ISocialPlatform.LoadAchievementDescriptions(${1:callback : System.Action<IAchievementDescription[]>});]]></content>
-	<tabTrigger><![CDATA[ISocialPlatform.LoadAchievementDescriptions]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(callback)]]></description>
-</snippet>

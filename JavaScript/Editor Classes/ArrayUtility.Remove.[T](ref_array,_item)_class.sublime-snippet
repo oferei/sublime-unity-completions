@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.Remove.<${1:T}>(${2:ref array : T[]}, ${3:item : T});]]></content>
-	<tabTrigger><![CDATA[ArrayUtility.Remove]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*.<T>(ref array, item)]]></description>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.AddClip(${1:clip : AnimationClip}, ${2:newName : String});]]></content>
+	<content><![CDATA[Animation.AddClip(${1:clip : AnimationClip}, ${2:newName : string});]]></content>
 	<tabTrigger><![CDATA[addClip]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Animation.*(clip, newName)]]></description>

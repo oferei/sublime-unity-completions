@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.CheckSphere(${1:Vector3 position}, ${2:float radius}, ${3:int layerMask = kDefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics.CheckSphere(${1:Vector3 position}, ${2:float radius}, ${3:int layerMask = DefaultRaycastLayers});]]></content>
 	<tabTrigger><![CDATA[Physics.CheckSphere]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, radius, layerMask)]]></description>

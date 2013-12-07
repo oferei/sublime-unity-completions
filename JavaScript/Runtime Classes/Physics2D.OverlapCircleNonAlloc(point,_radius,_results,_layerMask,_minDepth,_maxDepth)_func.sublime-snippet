@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.OverlapCircleNonAlloc(${1:point : Vector2}, ${2:radius : float}, ${3:results : Collider2D[]}, ${4:layerMask : int = DefaultRaycastLayers}, ${5:minDepth : float = -Mathf.Infinity}, ${6:maxDepth : float = Mathf.Infinity});]]></content>
+	<tabTrigger><![CDATA[OverlapCircleNonAlloc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics2D.*(point, radius, results, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties(${1:root : GameObject}, ${2:propNames : string[]}, ${3:values : object[]});]]></content>
-	<tabTrigger><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(root, propNames, values)]]></description>
-</snippet>

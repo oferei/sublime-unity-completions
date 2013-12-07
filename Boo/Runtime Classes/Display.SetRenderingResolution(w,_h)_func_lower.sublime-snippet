@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Display.SetRenderingResolution(${1:w as int}, ${2:h as int})]]></content>
+	<tabTrigger><![CDATA[setRenderingResolution]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Display.*(w, h)]]></description>
+</snippet>

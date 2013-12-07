@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.ModalWindow(${1:id as int}, ${2:clientRect as Rect}, ${3:func as WindowFunction}, ${4:text as string}, ${5:style as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[modalWindow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUI.*(id, clientRect, func, text, style)]]></description>
+</snippet>

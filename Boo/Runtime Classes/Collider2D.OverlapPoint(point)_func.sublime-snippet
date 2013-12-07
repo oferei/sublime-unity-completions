@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.OverlapPoint(${1:point as Vector2})]]></content>
+	<tabTrigger><![CDATA[OverlapPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Collider2D.*(point)]]></description>
+</snippet>

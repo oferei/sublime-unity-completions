@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetShortField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:Int16 val});]]></content>
+	<content><![CDATA[AndroidJNI.SetShortField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:short val});]]></content>
 	<tabTrigger><![CDATA[setShortField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(obj, fieldID, val)]]></description>

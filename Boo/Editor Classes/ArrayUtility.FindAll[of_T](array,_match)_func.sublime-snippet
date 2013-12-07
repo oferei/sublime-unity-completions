@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.FindAll[of ${1:T}](${2:array as (T)}, ${3:match as Predicate<T>})]]></content>
-	<tabTrigger><![CDATA[FindAll]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ArrayUtility.*[of T](array, match)]]></description>
-</snippet>

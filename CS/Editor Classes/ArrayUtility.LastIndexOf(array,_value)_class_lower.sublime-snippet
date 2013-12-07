@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.LastIndexOf(${1:T[] array}, ${2:T value});]]></content>
+	<tabTrigger><![CDATA[arrayUtility.LastIndexOf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(array, value)]]></description>
+</snippet>

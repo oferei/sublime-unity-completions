@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Toast.Create(${1:xml : string});]]></content>
+	<tabTrigger><![CDATA[toast.Create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[WSA.*(xml)]]></description>
+</snippet>

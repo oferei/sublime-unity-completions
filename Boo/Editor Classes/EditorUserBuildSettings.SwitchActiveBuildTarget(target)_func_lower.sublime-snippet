@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUserBuildSettings.SwitchActiveBuildTarget(${1:target as BuildTarget})]]></content>
-	<tabTrigger><![CDATA[switchActiveBuildTarget]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorUserBuildSettings.*(target)]]></description>
-</snippet>

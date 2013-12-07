@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.IsOpenForEdit(${1:asset : Asset});]]></content>
+	<tabTrigger><![CDATA[versionControl.Provider.IsOpenForEdit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(asset)]]></description>
+</snippet>

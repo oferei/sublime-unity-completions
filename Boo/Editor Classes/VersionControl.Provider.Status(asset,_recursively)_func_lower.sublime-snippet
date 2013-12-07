@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Status(${1:asset as string}, ${2:recursively as bool})]]></content>
+	<tabTrigger><![CDATA[provider.Status]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VersionControl.*(asset, recursively)]]></description>
+</snippet>

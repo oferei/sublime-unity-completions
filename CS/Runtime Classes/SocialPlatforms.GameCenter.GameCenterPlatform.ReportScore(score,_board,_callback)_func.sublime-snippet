@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.ReportScore(${1:long score}, ${2:string board}, ${3:Action<bool> callback});]]></content>
+	<tabTrigger><![CDATA[GameCenter.GameCenterPlatform.ReportScore]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SocialPlatforms.*(score, board, callback)]]></description>
+</snippet>

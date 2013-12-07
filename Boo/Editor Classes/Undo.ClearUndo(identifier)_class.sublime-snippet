@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.ClearUndo(${1:identifier as Object})]]></content>
+	<tabTrigger><![CDATA[Undo.ClearUndo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(identifier)]]></description>
+</snippet>

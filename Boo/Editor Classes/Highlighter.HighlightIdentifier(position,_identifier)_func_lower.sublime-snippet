@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Highlighter.HighlightIdentifier(${1:position as Rect}, ${2:identifier as string})]]></content>
+	<tabTrigger><![CDATA[highlightIdentifier]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Highlighter.*(position, identifier)]]></description>
+</snippet>

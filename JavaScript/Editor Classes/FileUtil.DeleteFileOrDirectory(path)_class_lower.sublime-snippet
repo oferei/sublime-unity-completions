@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FileUtil.DeleteFileOrDirectory(${1:path : String});]]></content>
+	<content><![CDATA[FileUtil.DeleteFileOrDirectory(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[fileUtil.DeleteFileOrDirectory]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

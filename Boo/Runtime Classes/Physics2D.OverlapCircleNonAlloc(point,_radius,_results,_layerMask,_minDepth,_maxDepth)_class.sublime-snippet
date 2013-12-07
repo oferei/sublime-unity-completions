@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.OverlapCircleNonAlloc(${1:point as Vector2}, ${2:radius as single}, ${3:results as (Collider2D)}, ${4:layerMask as int = DefaultRaycastLayers}, ${5:minDepth as single = -Mathf.Infinity}, ${6:maxDepth as single = Mathf.Infinity})]]></content>
+	<tabTrigger><![CDATA[Physics2D.OverlapCircleNonAlloc]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(point, radius, results, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

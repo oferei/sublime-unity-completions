@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMode.IsPropertyAnimated(${1:target as Object}, ${2:propertyPath as string})]]></content>
+	<tabTrigger><![CDATA[animationMode.IsPropertyAnimated]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target, propertyPath)]]></description>
+</snippet>

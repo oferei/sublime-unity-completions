@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMode.SampleAnimationClip(${1:gameObject as GameObject}, ${2:clip as AnimationClip}, ${3:time as single})]]></content>
+	<tabTrigger><![CDATA[animationMode.SampleAnimationClip]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(gameObject, clip, time)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Component.GetComponentsInChildren.<${1:T}>(${2:includeInactive : boolean});]]></content>
-	<tabTrigger><![CDATA[GetComponentsInChildren]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Component.*.<T>(includeInactive)]]></description>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.GetConstructorID(${1:jclass as System.IntPtr}, ${2:args as (object)})]]></content>
+	<content><![CDATA[AndroidJNIHelper.GetConstructorID(${1:jclass as IntPtr}, ${2:args as (object)})]]></content>
 	<tabTrigger><![CDATA[AndroidJNIHelper.GetConstructorID]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(jclass, args)]]></description>

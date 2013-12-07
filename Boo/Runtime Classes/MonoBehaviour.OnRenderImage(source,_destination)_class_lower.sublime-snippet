@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnRenderImage(${1:source as RenderTexture}, ${2:destination as RenderTexture})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnRenderImage]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(source, destination)]]></description>
-</snippet>

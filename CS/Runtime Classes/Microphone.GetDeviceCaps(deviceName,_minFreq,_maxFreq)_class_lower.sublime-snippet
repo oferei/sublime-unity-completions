@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Microphone.GetDeviceCaps(${1:string deviceName}, ${2:int minFreq}, ${3:int maxFreq});]]></content>
+	<tabTrigger><![CDATA[microphone.GetDeviceCaps]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(deviceName, minFreq, maxFreq)]]></description>
+</snippet>

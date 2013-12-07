@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWW.GetTextureFromURL(${1:url : string});]]></content>
+	<tabTrigger><![CDATA[wWW.GetTextureFromURL]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(url)]]></description>
+</snippet>

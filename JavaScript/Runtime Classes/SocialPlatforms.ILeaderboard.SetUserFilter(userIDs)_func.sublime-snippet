@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialPlatforms.ILeaderboard.SetUserFilter(${1:userIDs : string[]});]]></content>
+	<tabTrigger><![CDATA[ILeaderboard.SetUserFilter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SocialPlatforms.*(userIDs)]]></description>
+</snippet>

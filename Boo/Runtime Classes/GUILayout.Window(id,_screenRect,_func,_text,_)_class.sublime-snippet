@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Window(${1:id as int}, ${2:screenRect as Rect}, ${3:func as GUI.WindowFunction}, ${4:text as string}, ${5: as })]]></content>
-	<tabTrigger><![CDATA[GUILayout.Window]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(id, screenRect, func, text, )]]></description>
-</snippet>

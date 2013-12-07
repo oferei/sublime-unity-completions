@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillSaveAssets(${1:paths : string[]});]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor.OnWillSaveAssets]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(paths)]]></description>
-</snippet>

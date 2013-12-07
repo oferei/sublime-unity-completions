@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToReflectedField(${1:clazz : IntPtr}, ${2:fieldID : IntPtr}, ${3:isStatic : boolean});]]></content>
+	<content><![CDATA[AndroidJNI.ToReflectedField(${1:clazz : IntPtr}, ${2:fieldID : IntPtr}, ${3:isStatic : bool});]]></content>
 	<tabTrigger><![CDATA[AndroidJNI.ToReflectedField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(clazz, fieldID, isStatic)]]></description>

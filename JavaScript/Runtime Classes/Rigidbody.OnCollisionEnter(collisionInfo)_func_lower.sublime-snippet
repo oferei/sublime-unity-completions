@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody.OnCollisionEnter(${1:collisionInfo : Collision});]]></content>
-	<tabTrigger><![CDATA[onCollisionEnter]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Rigidbody.*(collisionInfo)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.SetAnimationClips(${1:component : Animation}, ${2:clips : AnimationClip[]});]]></content>
-	<tabTrigger><![CDATA[AnimationUtility.SetAnimationClips]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(component, clips)]]></description>
-</snippet>

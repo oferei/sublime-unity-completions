@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.SetScheduledStartTime(${1:time : double});]]></content>
+	<tabTrigger><![CDATA[audioSource.SetScheduledStartTime]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(time)]]></description>
+</snippet>

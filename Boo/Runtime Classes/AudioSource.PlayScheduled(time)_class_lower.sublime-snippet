@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.PlayScheduled(${1:time as double})]]></content>
+	<tabTrigger><![CDATA[audioSource.PlayScheduled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(time)]]></description>
+</snippet>

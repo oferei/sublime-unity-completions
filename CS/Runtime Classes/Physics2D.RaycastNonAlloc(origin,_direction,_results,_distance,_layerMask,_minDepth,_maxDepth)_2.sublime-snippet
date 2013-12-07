@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.RaycastNonAlloc(${1:Vector2 origin}, ${2:Vector2 direction}, ${3:RaycastHit2D[] results}, ${4:float distance = Mathf.Infinity}, ${5:int layerMask = DefaultRaycastLayers}, ${6:float minDepth = -Mathf.Infinity}, ${7:float maxDepth = Mathf.Infinity});]]></content>
+	<tabTrigger><![CDATA[physics2D.RaycastNonAlloc]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(origin, direction, results, distance, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.StartRecording(${1:frameCount : int});]]></content>
+	<tabTrigger><![CDATA[startRecording]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(frameCount)]]></description>
+</snippet>

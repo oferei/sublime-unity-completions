@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rect.Equals(${1:object other});]]></content>
+	<tabTrigger><![CDATA[equals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Rect.*(other)]]></description>
+</snippet>

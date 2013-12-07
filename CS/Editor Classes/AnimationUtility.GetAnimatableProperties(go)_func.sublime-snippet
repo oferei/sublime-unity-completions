@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.GetAnimatableProperties(${1:GameObject go});]]></content>
-	<tabTrigger><![CDATA[GetAnimatableProperties]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimationUtility.*(go)]]></description>
-</snippet>

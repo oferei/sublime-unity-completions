@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.Add<${1:T}>(${2:T[] ref array}, ${3:T item});]]></content>
-	<tabTrigger><![CDATA[add]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ArrayUtility.*<T>(ref array, item)]]></description>
-</snippet>

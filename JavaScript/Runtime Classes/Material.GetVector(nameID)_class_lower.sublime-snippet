@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetVector(${1:nameID : int});]]></content>
+	<tabTrigger><![CDATA[material.GetVector]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

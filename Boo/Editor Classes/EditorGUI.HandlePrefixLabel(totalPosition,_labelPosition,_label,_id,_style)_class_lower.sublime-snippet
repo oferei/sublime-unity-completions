@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.HandlePrefixLabel(${1:totalPosition as Rect}, ${2:labelPosition as Rect}, ${3:label as GUIContent}, ${4:id as int = 0}, ${5:style as GUIStyle = EditorStyles.label})]]></content>
+	<tabTrigger><![CDATA[editorGUI.HandlePrefixLabel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(totalPosition, labelPosition, label, id, style)]]></description>
+</snippet>

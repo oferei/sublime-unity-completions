@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Help.ShowHelpPage(${1:page : String});]]></content>
+	<content><![CDATA[Help.ShowHelpPage(${1:page : string});]]></content>
 	<tabTrigger><![CDATA[showHelpPage]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Help.*(page)]]></description>

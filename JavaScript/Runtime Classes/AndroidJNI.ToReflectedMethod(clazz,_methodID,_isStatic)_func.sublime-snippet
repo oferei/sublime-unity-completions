@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToReflectedMethod(${1:clazz : IntPtr}, ${2:methodID : IntPtr}, ${3:isStatic : boolean});]]></content>
+	<content><![CDATA[AndroidJNI.ToReflectedMethod(${1:clazz : IntPtr}, ${2:methodID : IntPtr}, ${3:isStatic : bool});]]></content>
 	<tabTrigger><![CDATA[ToReflectedMethod]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(clazz, methodID, isStatic)]]></description>

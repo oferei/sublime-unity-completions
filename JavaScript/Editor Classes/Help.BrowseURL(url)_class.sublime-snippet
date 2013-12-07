@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Help.BrowseURL(${1:url : String});]]></content>
+	<content><![CDATA[Help.BrowseURL(${1:url : string});]]></content>
 	<tabTrigger><![CDATA[Help.BrowseURL]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(url)]]></description>

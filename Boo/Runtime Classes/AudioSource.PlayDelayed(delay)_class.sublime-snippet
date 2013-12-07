@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.PlayDelayed(${1:delay as single})]]></content>
+	<tabTrigger><![CDATA[AudioSource.PlayDelayed]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(delay)]]></description>
+</snippet>

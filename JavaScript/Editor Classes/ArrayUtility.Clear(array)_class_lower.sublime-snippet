@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.Clear(${1:array : T[]});]]></content>
+	<tabTrigger><![CDATA[arrayUtility.Clear]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(array)]]></description>
+</snippet>

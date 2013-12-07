@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DrawRect(${1:rect : Rect}, ${2:color : Color});]]></content>
+	<tabTrigger><![CDATA[editorGUI.DrawRect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rect, color)]]></description>
+</snippet>

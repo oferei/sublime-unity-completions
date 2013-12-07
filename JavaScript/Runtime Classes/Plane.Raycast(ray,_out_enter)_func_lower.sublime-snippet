@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Plane.Raycast(${1:ray : Ray}, ${2:out enter : float});]]></content>
-	<tabTrigger><![CDATA[raycast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Plane.*(ray, out enter)]]></description>
-</snippet>

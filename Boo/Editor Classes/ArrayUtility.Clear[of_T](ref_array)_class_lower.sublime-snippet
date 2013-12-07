@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.Clear[of ${1:T}](${2:ref array as (T)})]]></content>
-	<tabTrigger><![CDATA[arrayUtility.Clear]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of T](ref array)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.Linecast(${1:start : Vector3}, ${2:end : Vector3}, ${3:out hitInfo : RaycastHit}, ${4:layerMask : int = kDefaultRaycastLayers});]]></content>
-	<tabTrigger><![CDATA[linecast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Physics.*(start, end, out hitInfo, layerMask)]]></description>
-</snippet>

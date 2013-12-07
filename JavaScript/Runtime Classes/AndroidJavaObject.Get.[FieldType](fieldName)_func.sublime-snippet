@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJavaObject.Get.<${1:FieldType}>(${2:fieldName : String});]]></content>
-	<tabTrigger><![CDATA[Get]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AndroidJavaObject.*.<FieldType>(fieldName)]]></description>
-</snippet>

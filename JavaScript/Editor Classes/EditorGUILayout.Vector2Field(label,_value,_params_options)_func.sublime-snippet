@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.Vector2Field(${1:label : String}, ${2:value : Vector2}, ${3:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.Vector2Field(${1:label : GUIContent}, ${2:value : Vector2}, ${3:params options : GUILayoutOption[]});]]></content>
 	<tabTrigger><![CDATA[Vector2Field]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>

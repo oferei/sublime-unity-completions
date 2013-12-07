@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetDatabase.IsOpenForEdit(${1:assetObject : UnityEngine.Object}, ${2:out message : String});]]></content>
-	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetDatabase.*(assetObject, out message)]]></description>
-</snippet>

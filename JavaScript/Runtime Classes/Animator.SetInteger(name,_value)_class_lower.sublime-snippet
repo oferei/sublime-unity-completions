@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetInteger(${1:name : String}, ${2:value : int});]]></content>
+	<content><![CDATA[Animator.SetInteger(${1:name : string}, ${2:value : int});]]></content>
 	<tabTrigger><![CDATA[animator.SetInteger]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name, value)]]></description>

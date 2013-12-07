@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeShader.SetBuffer(${1:kernelIndex : int}, ${2:name : String}, ${3:buffer : ComputeBuffer});]]></content>
+	<content><![CDATA[ComputeShader.SetBuffer(${1:kernelIndex : int}, ${2:name : string}, ${3:buffer : ComputeBuffer});]]></content>
 	<tabTrigger><![CDATA[setBuffer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ComputeShader.*(kernelIndex, name, buffer)]]></description>

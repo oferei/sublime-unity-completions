@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.PropertyToID(${1:name : String});]]></content>
+	<content><![CDATA[Shader.PropertyToID(${1:name : string});]]></content>
 	<tabTrigger><![CDATA[shader.PropertyToID]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

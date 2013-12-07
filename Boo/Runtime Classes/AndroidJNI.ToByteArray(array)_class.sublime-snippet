@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToByteArray(${1:array as (Byte)})]]></content>
+	<content><![CDATA[AndroidJNI.ToByteArray(${1:array as (byte)})]]></content>
 	<tabTrigger><![CDATA[AndroidJNI.ToByteArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(array)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.SetAnimationType(${1:clip : AnimationClip}, ${2:type : ModelImporterAnimationType});]]></content>
+	<tabTrigger><![CDATA[setAnimationType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationUtility.*(clip, type)]]></description>
+</snippet>

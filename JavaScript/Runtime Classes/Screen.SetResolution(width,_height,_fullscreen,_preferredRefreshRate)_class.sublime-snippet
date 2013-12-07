@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Screen.SetResolution(${1:width : int}, ${2:height : int}, ${3:fullscreen : boolean}, ${4:preferredRefreshRate : int = 0});]]></content>
+	<content><![CDATA[Screen.SetResolution(${1:width : int}, ${2:height : int}, ${3:fullscreen : bool}, ${4:preferredRefreshRate : int = 0});]]></content>
 	<tabTrigger><![CDATA[Screen.SetResolution]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(width, height, fullscreen, preferredRefreshRate)]]></description>

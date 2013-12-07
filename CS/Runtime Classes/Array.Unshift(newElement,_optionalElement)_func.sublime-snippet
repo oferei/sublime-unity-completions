@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Array.Unshift(${1:object newElement}, ${2:object optionalElement});]]></content>
-	<tabTrigger><![CDATA[Unshift]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Array.*(newElement, optionalElement)]]></description>
-</snippet>

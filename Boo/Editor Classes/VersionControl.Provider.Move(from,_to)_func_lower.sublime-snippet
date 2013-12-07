@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Move(${1:from as string}, ${2:to as string})]]></content>
+	<tabTrigger><![CDATA[provider.Move]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VersionControl.*(from, to)]]></description>
+</snippet>

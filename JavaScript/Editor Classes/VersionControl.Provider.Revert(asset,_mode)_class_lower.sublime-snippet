@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Revert(${1:asset : Asset}, ${2:mode : RevertMode});]]></content>
+	<tabTrigger><![CDATA[versionControl.Provider.Revert]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(asset, mode)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.GetControlRect(${1:hasLabel : bool}, ${2:params options : GUILayoutOption[]});]]></content>
+	<tabTrigger><![CDATA[getControlRect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUILayout.*(hasLabel, params options)]]></description>
+</snippet>

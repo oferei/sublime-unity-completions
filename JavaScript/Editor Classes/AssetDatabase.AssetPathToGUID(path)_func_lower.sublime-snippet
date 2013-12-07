@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.AssetPathToGUID(${1:path : String});]]></content>
+	<content><![CDATA[AssetDatabase.AssetPathToGUID(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[assetPathToGUID]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*(path)]]></description>

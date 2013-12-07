@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshAgent.Warp(${1:Vector3 newPosition});]]></content>
+	<tabTrigger><![CDATA[Warp]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshAgent.*(newPosition)]]></description>
+</snippet>

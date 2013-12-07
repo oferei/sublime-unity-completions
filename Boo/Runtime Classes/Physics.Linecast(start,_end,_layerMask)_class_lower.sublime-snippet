@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.Linecast(${1:start as Vector3}, ${2:end as Vector3}, ${3:layerMask as int = kDefaultRaycastLayers})]]></content>
+	<content><![CDATA[Physics.Linecast(${1:start as Vector3}, ${2:end as Vector3}, ${3:layerMask as int = DefaultRaycastLayers})]]></content>
 	<tabTrigger><![CDATA[physics.Linecast]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(start, end, layerMask)]]></description>

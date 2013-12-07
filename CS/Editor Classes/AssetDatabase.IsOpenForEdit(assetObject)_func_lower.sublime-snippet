@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.IsOpenForEdit(${1:UnityEngine.Object assetObject});]]></content>
+	<content><![CDATA[AssetDatabase.IsOpenForEdit(${1:Object assetObject});]]></content>
 	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(assetObject)]]></description>

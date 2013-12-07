@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.GetProceduralVector(${1:inputName : String});]]></content>
+	<content><![CDATA[ProceduralMaterial.GetProceduralVector(${1:inputName : string});]]></content>
 	<tabTrigger><![CDATA[ProceduralMaterial.GetProceduralVector]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(inputName)]]></description>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILeaderboard.SetUserFilter(${1:string[] userIDs});]]></content>
-	<tabTrigger><![CDATA[setUserFilter]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ILeaderboard.*(userIDs)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HumanTrait.RequiredBone(${1:int i});]]></content>
+	<tabTrigger><![CDATA[requiredBone]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HumanTrait.*(i)]]></description>
+</snippet>

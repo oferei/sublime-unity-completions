@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Delete(${1:asset as Asset})]]></content>
+	<tabTrigger><![CDATA[VersionControl.Provider.Delete]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(asset)]]></description>
+</snippet>

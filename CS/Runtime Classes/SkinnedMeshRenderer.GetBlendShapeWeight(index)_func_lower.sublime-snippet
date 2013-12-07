@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SkinnedMeshRenderer.GetBlendShapeWeight(${1:int index});]]></content>
+	<tabTrigger><![CDATA[getBlendShapeWeight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SkinnedMeshRenderer.*(index)]]></description>
+</snippet>

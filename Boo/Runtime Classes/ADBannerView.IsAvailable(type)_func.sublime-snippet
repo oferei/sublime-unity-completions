@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADBannerView.IsAvailable(${1:type as Type})]]></content>
+	<tabTrigger><![CDATA[IsAvailable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ADBannerView.*(type)]]></description>
+</snippet>

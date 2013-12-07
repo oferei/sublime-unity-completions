@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Microphone.IsRecording(${1:deviceName : String});]]></content>
+	<content><![CDATA[Microphone.IsRecording(${1:deviceName : string});]]></content>
 	<tabTrigger><![CDATA[isRecording]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Microphone.*(deviceName)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.ShowObjectPicker(${1:obj as Object}, ${2:allowSceneObjects as bool}, ${3:searchFilter as string}, ${4:controlID as int})]]></content>
+	<tabTrigger><![CDATA[EditorGUIUtility.ShowObjectPicker]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(obj, allowSceneObjects, searchFilter, controlID)]]></description>
+</snippet>

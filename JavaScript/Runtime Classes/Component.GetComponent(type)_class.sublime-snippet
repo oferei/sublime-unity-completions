@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.GetComponent(${1:type : String});]]></content>
+	<content><![CDATA[Component.GetComponent(${1:type : string});]]></content>
 	<tabTrigger><![CDATA[Component.GetComponent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(type)]]></description>

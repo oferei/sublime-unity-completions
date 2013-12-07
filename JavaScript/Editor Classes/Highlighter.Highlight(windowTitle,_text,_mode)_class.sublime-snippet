@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Highlighter.Highlight(${1:windowTitle : string}, ${2:text : string}, ${3:mode : HighlightSearchMode});]]></content>
+	<tabTrigger><![CDATA[Highlighter.Highlight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(windowTitle, text, mode)]]></description>
+</snippet>

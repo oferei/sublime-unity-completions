@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.Contains.<${1:T}>(${2:array : T[]}, ${3:item : T});]]></content>
-	<tabTrigger><![CDATA[contains]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ArrayUtility.*.<T>(array, item)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.LogCallback(${1:condition : String}, ${2:stackTrace : String}, ${3:type : LogType});]]></content>
-	<tabTrigger><![CDATA[application.LogCallback]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(condition, stackTrace, type)]]></description>
-</snippet>

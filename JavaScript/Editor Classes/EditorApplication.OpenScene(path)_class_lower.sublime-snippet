@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.OpenScene(${1:path : String});]]></content>
+	<content><![CDATA[EditorApplication.OpenScene(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[editorApplication.OpenScene]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

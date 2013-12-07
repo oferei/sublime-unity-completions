@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Vector4Field(${1:position : Rect}, ${2:label : String}, ${3:value : Vector4});]]></content>
+	<content><![CDATA[EditorGUI.Vector4Field(${1:position : Rect}, ${2:label : string}, ${3:value : Vector4});]]></content>
 	<tabTrigger><![CDATA[EditorGUI.Vector4Field]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, label, value)]]></description>

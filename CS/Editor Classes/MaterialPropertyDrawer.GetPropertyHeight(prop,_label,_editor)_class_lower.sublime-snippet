@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyDrawer.GetPropertyHeight(${1:MaterialProperty prop}, ${2:string label}, ${3:MaterialEditor editor});]]></content>
+	<tabTrigger><![CDATA[materialPropertyDrawer.GetPropertyHeight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(prop, label, editor)]]></description>
+</snippet>

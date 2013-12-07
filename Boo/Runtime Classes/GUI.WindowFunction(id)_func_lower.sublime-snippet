@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUI.WindowFunction(${1:id as int})]]></content>
-	<tabTrigger><![CDATA[windowFunction]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GUI.*(id)]]></description>
-</snippet>

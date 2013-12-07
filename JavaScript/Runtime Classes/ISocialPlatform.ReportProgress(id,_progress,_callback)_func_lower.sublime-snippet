@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ISocialPlatform.ReportProgress(${1:id : String}, ${2:progress : double}, ${3:callback : System.Action<bool>});]]></content>
-	<tabTrigger><![CDATA[reportProgress]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ISocialPlatform.*(id, progress, callback)]]></description>
-</snippet>

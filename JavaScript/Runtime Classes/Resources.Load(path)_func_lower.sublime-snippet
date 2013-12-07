@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Resources.Load(${1:path : String});]]></content>
+	<content><![CDATA[Resources.Load(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[load]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Resources.*(path)]]></description>

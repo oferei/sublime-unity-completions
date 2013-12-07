@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorWindow.FocusWindowIfItsOpen[of ${1:T}]()]]></content>
-	<tabTrigger><![CDATA[editorWindow.FocusWindowIfItsOpen]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of T]()]]></description>
-</snippet>

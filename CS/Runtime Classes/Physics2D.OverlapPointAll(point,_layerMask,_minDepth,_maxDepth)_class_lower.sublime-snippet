@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.OverlapPointAll(${1:Vector2 point}, ${2:int layerMask = DefaultRaycastLayers}, ${3:float minDepth = -Mathf.Infinity}, ${4:float maxDepth = Mathf.Infinity});]]></content>
+	<tabTrigger><![CDATA[physics2D.OverlapPointAll]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.ShaderProperty(${1:prop : MaterialProperty}, ${2:label : string});]]></content>
+	<tabTrigger><![CDATA[MaterialEditor.ShaderProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(prop, label)]]></description>
+</snippet>

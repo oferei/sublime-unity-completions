@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.GetControlRect(${1:hasLabel as bool}, ${2:height as single}, ${3:params options as (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.GetControlRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(hasLabel, height, params options)]]></description>
+</snippet>

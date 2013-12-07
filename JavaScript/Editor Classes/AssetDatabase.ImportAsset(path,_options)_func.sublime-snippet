@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.ImportAsset(${1:path : String}, ${2:options : ImportAssetOptions = ImportAssetOptions.Default});]]></content>
+	<content><![CDATA[AssetDatabase.ImportAsset(${1:path : string}, ${2:options : ImportAssetOptions = ImportAssetOptions.Default});]]></content>
 	<tabTrigger><![CDATA[ImportAsset]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*(path, options)]]></description>

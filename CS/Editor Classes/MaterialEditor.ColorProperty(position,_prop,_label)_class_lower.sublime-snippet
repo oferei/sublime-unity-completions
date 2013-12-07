@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.ColorProperty(${1:Rect position}, ${2:MaterialProperty prop}, ${3:string label});]]></content>
+	<tabTrigger><![CDATA[materialEditor.ColorProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, prop, label)]]></description>
+</snippet>

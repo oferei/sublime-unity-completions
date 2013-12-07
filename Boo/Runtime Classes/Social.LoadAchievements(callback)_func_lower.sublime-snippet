@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Social.LoadAchievements(${1:callback as System.Action<IAchievement[]>})]]></content>
+	<content><![CDATA[Social.LoadAchievements(${1:callback as Action<IAchievement[]>})]]></content>
 	<tabTrigger><![CDATA[loadAchievements]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Social.*(callback)]]></description>

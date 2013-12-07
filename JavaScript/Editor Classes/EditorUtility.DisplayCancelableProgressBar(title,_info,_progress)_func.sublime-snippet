@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.DisplayCancelableProgressBar(${1:title : String}, ${2:info : String}, ${3:progress : float});]]></content>
+	<content><![CDATA[EditorUtility.DisplayCancelableProgressBar(${1:title : string}, ${2:info : string}, ${3:progress : float});]]></content>
 	<tabTrigger><![CDATA[DisplayCancelableProgressBar]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorUtility.*(title, info, progress)]]></description>

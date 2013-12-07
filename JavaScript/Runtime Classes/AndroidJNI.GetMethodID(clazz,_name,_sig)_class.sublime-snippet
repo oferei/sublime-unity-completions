@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetMethodID(${1:clazz : IntPtr}, ${2:name : String}, ${3:sig : String});]]></content>
+	<content><![CDATA[AndroidJNI.GetMethodID(${1:clazz : IntPtr}, ${2:name : string}, ${3:sig : string});]]></content>
 	<tabTrigger><![CDATA[AndroidJNI.GetMethodID]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(clazz, name, sig)]]></description>

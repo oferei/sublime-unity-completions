@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cubemap(${1:size : int}, ${2:format : TextureFormat}, ${3:mipmap : boolean});]]></content>
+	<content><![CDATA[Cubemap(${1:size : int}, ${2:format : TextureFormat}, ${3:mipmap : bool});]]></content>
 	<tabTrigger><![CDATA[Cubemap]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(size, format, mipmap)]]></description>

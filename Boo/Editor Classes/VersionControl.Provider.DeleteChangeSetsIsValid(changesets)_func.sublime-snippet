@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.DeleteChangeSetsIsValid(${1:changesets as ChangeSets})]]></content>
+	<tabTrigger><![CDATA[Provider.DeleteChangeSetsIsValid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VersionControl.*(changesets)]]></description>
+</snippet>

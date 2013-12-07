@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.GetWindowWithRect(${1:t : System.Type}, ${2:rect : Rect}, ${3:utility : boolean = false}, ${4:title : String = null});]]></content>
+	<content><![CDATA[EditorWindow.GetWindowWithRect(${1:t : Type}, ${2:rect : Rect}, ${3:utility : bool = false}, ${4:title : string = null});]]></content>
 	<tabTrigger><![CDATA[GetWindowWithRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorWindow.*(t, rect, utility, title)]]></description>

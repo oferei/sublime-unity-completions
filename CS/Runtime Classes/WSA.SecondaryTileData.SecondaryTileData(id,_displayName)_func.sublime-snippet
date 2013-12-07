@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.SecondaryTileData.SecondaryTileData(${1:string id}, ${2:string displayName});]]></content>
+	<tabTrigger><![CDATA[SecondaryTileData.SecondaryTileData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[WSA.*(id, displayName)]]></description>
+</snippet>

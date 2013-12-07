@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.CreatePrefab(${1:path : String}, ${2:go : GameObject}, ${3:options : ReplacePrefabOptions = ReplacePrefabOptions.Default});]]></content>
+	<content><![CDATA[PrefabUtility.CreatePrefab(${1:path : string}, ${2:go : GameObject}, ${3:options : ReplacePrefabOptions = ReplacePrefabOptions.Default});]]></content>
 	<tabTrigger><![CDATA[prefabUtility.CreatePrefab]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path, go, options)]]></description>

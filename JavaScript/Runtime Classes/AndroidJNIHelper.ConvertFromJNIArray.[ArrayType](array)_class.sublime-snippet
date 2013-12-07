@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNIHelper.ConvertFromJNIArray.<${1:ArrayType}>(${2:array : IntPtr});]]></content>
-	<tabTrigger><![CDATA[AndroidJNIHelper.ConvertFromJNIArray]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*.<ArrayType>(array)]]></description>
-</snippet>

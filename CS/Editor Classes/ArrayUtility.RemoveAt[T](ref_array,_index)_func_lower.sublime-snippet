@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.RemoveAt<${1:T}>(${2:T[] ref array}, ${3:int index});]]></content>
-	<tabTrigger><![CDATA[removeAt]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ArrayUtility.*<T>(ref array, index)]]></description>
-</snippet>

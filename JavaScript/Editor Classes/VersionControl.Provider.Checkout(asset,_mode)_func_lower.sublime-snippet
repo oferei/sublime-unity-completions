@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Checkout(${1:asset : Object}, ${2:mode : CheckoutMode});]]></content>
+	<tabTrigger><![CDATA[provider.Checkout]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VersionControl.*(asset, mode)]]></description>
+</snippet>

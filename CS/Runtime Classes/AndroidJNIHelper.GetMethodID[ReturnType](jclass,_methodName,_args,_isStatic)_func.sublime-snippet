@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNIHelper.GetMethodID<${1:ReturnType}>(${2:System.IntPtr jclass}, ${3:string methodName}, ${4:object[] args}, ${5:bool isStatic});]]></content>
-	<tabTrigger><![CDATA[GetMethodID]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AndroidJNIHelper.*<ReturnType>(jclass, methodName, args, isStatic)]]></description>
-</snippet>

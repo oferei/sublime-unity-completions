@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.Contains(${1:T[] array}, ${2:T item});]]></content>
+	<tabTrigger><![CDATA[Contains]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ArrayUtility.*(array, item)]]></description>
+</snippet>

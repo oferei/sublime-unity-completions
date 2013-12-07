@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.AddObjectToAsset(${1:objectToAdd : Object}, ${2:assetPath : String});]]></content>
+	<content><![CDATA[AssetDatabase.AddObjectToAsset(${1:objectToAdd : Object}, ${2:assetPath : string});]]></content>
 	<tabTrigger><![CDATA[addObjectToAsset]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*(objectToAdd, assetPath)]]></description>

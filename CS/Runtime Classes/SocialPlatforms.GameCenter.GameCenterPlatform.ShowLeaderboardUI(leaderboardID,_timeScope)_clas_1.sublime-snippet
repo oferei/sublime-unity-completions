@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.ShowLeaderboardUI(${1:string leaderboardID}, ${2:TimeScope timeScope});]]></content>
+	<tabTrigger><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.ShowLeaderboardUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(leaderboardID, timeScope)]]></description>
+</snippet>

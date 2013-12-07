@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUserBuildSettings.SetBuildLocation(${1:target : BuildTarget}, ${2:location : String});]]></content>
-	<tabTrigger><![CDATA[EditorUserBuildSettings.SetBuildLocation]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(target, location)]]></description>
-</snippet>

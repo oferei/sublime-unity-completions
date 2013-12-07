@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Microphone.GetPosition(${1:deviceName : String});]]></content>
+	<content><![CDATA[Microphone.GetPosition(${1:deviceName : string});]]></content>
 	<tabTrigger><![CDATA[Microphone.GetPosition]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(deviceName)]]></description>

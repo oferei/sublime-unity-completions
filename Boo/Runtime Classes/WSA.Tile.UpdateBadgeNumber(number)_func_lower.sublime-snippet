@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Tile.UpdateBadgeNumber(${1:number as single})]]></content>
+	<tabTrigger><![CDATA[tile.UpdateBadgeNumber]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WSA.*(number)]]></description>
+</snippet>

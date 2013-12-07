@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialProperty.WriteToMaterialPropertyBlock(${1:MaterialPropertyBlock materialblock}, ${2:int changedPropertyMask});]]></content>
+	<tabTrigger><![CDATA[materialProperty.WriteToMaterialPropertyBlock]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(materialblock, changedPropertyMask)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SkinnedMeshRenderer.SetBlendShapeWeight(${1:index : int}, ${2:value : float});]]></content>
+	<tabTrigger><![CDATA[SkinnedMeshRenderer.SetBlendShapeWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

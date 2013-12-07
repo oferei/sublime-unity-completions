@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Lock(${1:asset : Asset}, ${2:locked : bool});]]></content>
+	<tabTrigger><![CDATA[VersionControl.Provider.Lock]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(asset, locked)]]></description>
+</snippet>

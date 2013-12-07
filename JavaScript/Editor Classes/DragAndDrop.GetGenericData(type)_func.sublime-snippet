@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DragAndDrop.GetGenericData(${1:type : String});]]></content>
+	<content><![CDATA[DragAndDrop.GetGenericData(${1:type : string});]]></content>
 	<tabTrigger><![CDATA[GetGenericData]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[DragAndDrop.*(type)]]></description>

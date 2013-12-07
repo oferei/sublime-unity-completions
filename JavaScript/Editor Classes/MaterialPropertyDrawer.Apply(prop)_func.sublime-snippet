@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyDrawer.Apply(${1:prop : MaterialProperty});]]></content>
+	<tabTrigger><![CDATA[Apply]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialPropertyDrawer.*(prop)]]></description>
+</snippet>

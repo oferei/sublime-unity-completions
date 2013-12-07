@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationClip.SetCurve(${1:relativePath : String}, ${2:type : Type}, ${3:propertyName : String}, ${4:curve : AnimationCurve});]]></content>
+	<content><![CDATA[AnimationClip.SetCurve(${1:relativePath : string}, ${2:type : Type}, ${3:propertyName : string}, ${4:curve : AnimationCurve});]]></content>
 	<tabTrigger><![CDATA[SetCurve]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AnimationClip.*(relativePath, type, propertyName, curve)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.InstantiateMaterial(${1:prototypeName : String});]]></content>
+	<content><![CDATA[SubstanceImporter.InstantiateMaterial(${1:prototypeName : string});]]></content>
 	<tabTrigger><![CDATA[SubstanceImporter.InstantiateMaterial]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(prototypeName)]]></description>

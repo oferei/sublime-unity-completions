@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Array.Unshift(${1:newElement as object}, ${2:optionalElement as object})]]></content>
-	<tabTrigger><![CDATA[Array.Unshift]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(newElement, optionalElement)]]></description>
-</snippet>

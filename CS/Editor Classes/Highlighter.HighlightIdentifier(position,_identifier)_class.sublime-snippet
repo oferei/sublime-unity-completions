@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Highlighter.HighlightIdentifier(${1:Rect position}, ${2:string identifier});]]></content>
+	<tabTrigger><![CDATA[Highlighter.HighlightIdentifier]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, identifier)]]></description>
+</snippet>

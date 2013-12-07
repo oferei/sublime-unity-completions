@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarBuilder.BuildGenericAvatar(${1:go as GameObject}, ${2:rootMotionTransformName as string})]]></content>
+	<tabTrigger><![CDATA[BuildGenericAvatar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AvatarBuilder.*(go, rootMotionTransformName)]]></description>
+</snippet>

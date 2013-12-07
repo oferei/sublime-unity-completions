@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.OnPlayerDisconnected(${1:NetworkPlayer player});]]></content>
-	<tabTrigger><![CDATA[Network.OnPlayerDisconnected]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(player)]]></description>
-</snippet>

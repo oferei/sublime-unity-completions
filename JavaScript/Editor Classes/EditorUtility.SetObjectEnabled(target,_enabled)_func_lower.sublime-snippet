@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.SetObjectEnabled(${1:target : Object}, ${2:enabled : boolean});]]></content>
+	<content><![CDATA[EditorUtility.SetObjectEnabled(${1:target : Object}, ${2:enabled : bool});]]></content>
 	<tabTrigger><![CDATA[setObjectEnabled]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorUtility.*(target, enabled)]]></description>

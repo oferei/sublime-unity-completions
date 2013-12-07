@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.GetCachedIcon(${1:path : String});]]></content>
+	<content><![CDATA[AssetDatabase.GetCachedIcon(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[assetDatabase.GetCachedIcon]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

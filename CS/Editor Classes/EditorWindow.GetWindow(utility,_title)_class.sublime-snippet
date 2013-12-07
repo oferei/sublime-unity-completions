@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.GetWindow(${1:bool utility}, ${2:string title});]]></content>
+	<tabTrigger><![CDATA[EditorWindow.GetWindow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(utility, title)]]></description>
+</snippet>

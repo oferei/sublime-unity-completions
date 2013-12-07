@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Undo.RegisterSetTransformParentUndo(${1:transform as Transform}, ${2:newParent as Transform}, ${3:name as string})]]></content>
-	<tabTrigger><![CDATA[registerSetTransformParentUndo]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Undo.*(transform, newParent, name)]]></description>
-</snippet>

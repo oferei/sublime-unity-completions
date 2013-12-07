@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.GetAnimationClips(${1:Animation component});]]></content>
-	<tabTrigger><![CDATA[getAnimationClips]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimationUtility.*(component)]]></description>
-</snippet>

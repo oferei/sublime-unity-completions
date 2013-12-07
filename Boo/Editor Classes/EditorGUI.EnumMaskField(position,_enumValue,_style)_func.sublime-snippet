@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.EnumMaskField(${1:position as Rect}, ${2:enumValue as System.Enum}, ${3:style as GUIStyle = EditorStyles.popup})]]></content>
+	<content><![CDATA[EditorGUI.EnumMaskField(${1:position as Rect}, ${2:enumValue as Enum}, ${3:style as GUIStyle = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[EnumMaskField]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[EditorGUI.*(position, enumValue, style)]]></description>

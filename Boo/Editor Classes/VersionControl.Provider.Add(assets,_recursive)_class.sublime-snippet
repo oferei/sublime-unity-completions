@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Add(${1:assets as AssetList}, ${2:recursive as bool})]]></content>
+	<tabTrigger><![CDATA[VersionControl.Provider.Add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(assets, recursive)]]></description>
+</snippet>

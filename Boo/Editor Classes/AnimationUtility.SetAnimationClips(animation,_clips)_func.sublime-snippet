@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.SetAnimationClips(${1:animation as Animation}, ${2:clips as (AnimationClip)})]]></content>
+	<tabTrigger><![CDATA[SetAnimationClips]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationUtility.*(animation, clips)]]></description>
+</snippet>

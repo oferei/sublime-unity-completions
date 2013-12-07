@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.ApplyMaterialPropertyDrawers(${1:targets as (Object)})]]></content>
+	<tabTrigger><![CDATA[materialEditor.ApplyMaterialPropertyDrawers]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targets)]]></description>
+</snippet>

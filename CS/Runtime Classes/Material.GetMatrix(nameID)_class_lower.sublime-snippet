@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetMatrix(${1:int nameID});]]></content>
+	<tabTrigger><![CDATA[material.GetMatrix]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Tile.CreateOrUpdateSecondary(${1:data as SecondaryTileData}, ${2:area as Rect})]]></content>
+	<tabTrigger><![CDATA[tile.CreateOrUpdateSecondary]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WSA.*(data, area)]]></description>
+</snippet>

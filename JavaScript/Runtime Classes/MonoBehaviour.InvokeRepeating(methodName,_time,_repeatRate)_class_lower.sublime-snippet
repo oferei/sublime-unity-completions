@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.InvokeRepeating(${1:methodName : String}, ${2:time : float}, ${3:repeatRate : float});]]></content>
+	<content><![CDATA[MonoBehaviour.InvokeRepeating(${1:methodName : string}, ${2:time : float}, ${3:repeatRate : float});]]></content>
 	<tabTrigger><![CDATA[monoBehaviour.InvokeRepeating]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(methodName, time, repeatRate)]]></description>

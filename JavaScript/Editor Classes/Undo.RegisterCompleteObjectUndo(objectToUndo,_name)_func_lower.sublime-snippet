@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RegisterCompleteObjectUndo(${1:objectToUndo : Object}, ${2:name : string});]]></content>
+	<tabTrigger><![CDATA[registerCompleteObjectUndo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Undo.*(objectToUndo, name)]]></description>
+</snippet>

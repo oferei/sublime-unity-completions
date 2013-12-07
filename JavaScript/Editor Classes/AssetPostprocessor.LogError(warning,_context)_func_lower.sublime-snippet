@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetPostprocessor.LogError(${1:warning : String}, ${2:context : Object = null});]]></content>
+	<content><![CDATA[AssetPostprocessor.LogError(${1:warning : string}, ${2:context : Object = null});]]></content>
 	<tabTrigger><![CDATA[logError]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetPostprocessor.*(warning, context)]]></description>

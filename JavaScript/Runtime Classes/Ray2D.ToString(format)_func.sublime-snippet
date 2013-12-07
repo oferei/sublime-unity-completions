@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ray2D.ToString(${1:format : string});]]></content>
+	<tabTrigger><![CDATA[ToString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Ray2D.*(format)]]></description>
+</snippet>

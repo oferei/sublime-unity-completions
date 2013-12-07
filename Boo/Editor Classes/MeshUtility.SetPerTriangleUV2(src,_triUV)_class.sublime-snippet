@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MeshUtility.SetPerTriangleUV2(${1:src as Mesh}, ${2:triUV as (Vector2)})]]></content>
+	<tabTrigger><![CDATA[MeshUtility.SetPerTriangleUV2]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(src, triUV)]]></description>
+</snippet>

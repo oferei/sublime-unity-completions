@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WebCamTexture(${1:deviceName : String}, ${2:requestedWidth : int}, ${3:requestedHeight : int}, ${4:requestedFPS : int});]]></content>
+	<content><![CDATA[WebCamTexture(${1:deviceName : string}, ${2:requestedWidth : int}, ${3:requestedHeight : int}, ${4:requestedFPS : int});]]></content>
 	<tabTrigger><![CDATA[webCamTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(deviceName, requestedWidth, requestedHeight, requestedFPS)]]></description>

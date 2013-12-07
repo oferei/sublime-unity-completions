@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.GetRangeLimits(${1:Shader s}, ${2:int propertyIdx}, ${3:int defminmax});]]></content>
+	<tabTrigger><![CDATA[ShaderUtil.GetRangeLimits]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(s, propertyIdx, defminmax)]]></description>
+</snippet>

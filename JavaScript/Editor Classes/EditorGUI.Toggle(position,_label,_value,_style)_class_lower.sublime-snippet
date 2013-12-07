@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Toggle(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : boolean}, ${4:style : GUIStyle});]]></content>
+	<content><![CDATA[EditorGUI.Toggle(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : bool}, ${4:style : GUIStyle});]]></content>
 	<tabTrigger><![CDATA[editorGUI.Toggle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, label, value, style)]]></description>

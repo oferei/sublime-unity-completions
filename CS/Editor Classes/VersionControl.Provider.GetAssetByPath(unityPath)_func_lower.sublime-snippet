@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.GetAssetByPath(${1:string unityPath});]]></content>
+	<tabTrigger><![CDATA[provider.GetAssetByPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VersionControl.*(unityPath)]]></description>
+</snippet>

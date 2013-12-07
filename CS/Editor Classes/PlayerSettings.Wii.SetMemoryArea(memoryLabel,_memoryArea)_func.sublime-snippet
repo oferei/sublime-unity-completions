@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.Wii.SetMemoryArea(${1:WiiMemoryLabel memoryLabel}, ${2:WiiMemoryArea memoryArea});]]></content>
-	<tabTrigger><![CDATA[Wii.SetMemoryArea]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[PlayerSettings.*(memoryLabel, memoryArea)]]></description>
-</snippet>

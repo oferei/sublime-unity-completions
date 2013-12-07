@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.DrawRay(${1:start : Vector3}, ${2:dir : Vector3}, ${3:color : Color = Color.white}, ${4:duration : float = 0.0f}, ${5:depthTest : boolean = true});]]></content>
+	<content><![CDATA[Debug.DrawRay(${1:start : Vector3}, ${2:dir : Vector3}, ${3:color : Color = Color.white}, ${4:duration : float = 0.0f}, ${5:depthTest : bool = true});]]></content>
 	<tabTrigger><![CDATA[Debug.DrawRay]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(start, dir, color, duration, depthTest)]]></description>

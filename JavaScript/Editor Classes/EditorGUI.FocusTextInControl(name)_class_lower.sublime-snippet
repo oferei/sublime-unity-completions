@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.FocusTextInControl(${1:name : string});]]></content>
+	<tabTrigger><![CDATA[editorGUI.FocusTextInControl]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

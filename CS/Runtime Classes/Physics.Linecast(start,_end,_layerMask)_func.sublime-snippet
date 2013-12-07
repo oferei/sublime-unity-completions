@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.Linecast(${1:Vector3 start}, ${2:Vector3 end}, ${3:int layerMask = kDefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics.Linecast(${1:Vector3 start}, ${2:Vector3 end}, ${3:int layerMask = DefaultRaycastLayers});]]></content>
 	<tabTrigger><![CDATA[Linecast]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Physics.*(start, end, layerMask)]]></description>

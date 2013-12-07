@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.Load(${1:path : String});]]></content>
+	<content><![CDATA[EditorGUIUtility.Load(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[editorGUIUtility.Load]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

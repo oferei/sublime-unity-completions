@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.SetActive(${1:value : boolean});]]></content>
+	<content><![CDATA[GameObject.SetActive(${1:value : bool});]]></content>
 	<tabTrigger><![CDATA[SetActive]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GameObject.*(value)]]></description>

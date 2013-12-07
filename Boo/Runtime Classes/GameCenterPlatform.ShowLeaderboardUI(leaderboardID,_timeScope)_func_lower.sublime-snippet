@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameCenterPlatform.ShowLeaderboardUI(${1:leaderboardID as string}, ${2:timeScope as TimeScope})]]></content>
-	<tabTrigger><![CDATA[showLeaderboardUI]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GameCenterPlatform.*(leaderboardID, timeScope)]]></description>
-</snippet>

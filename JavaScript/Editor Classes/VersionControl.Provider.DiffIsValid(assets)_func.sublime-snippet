@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.DiffIsValid(${1:assets : AssetList});]]></content>
+	<tabTrigger><![CDATA[Provider.DiffIsValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VersionControl.*(assets)]]></description>
+</snippet>

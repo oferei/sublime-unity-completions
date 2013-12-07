@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshAgent.ActivateCurrentOffMeshLink(${1:activated : boolean});]]></content>
+	<content><![CDATA[NavMeshAgent.ActivateCurrentOffMeshLink(${1:activated : bool});]]></content>
 	<tabTrigger><![CDATA[ActivateCurrentOffMeshLink]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[NavMeshAgent.*(activated)]]></description>

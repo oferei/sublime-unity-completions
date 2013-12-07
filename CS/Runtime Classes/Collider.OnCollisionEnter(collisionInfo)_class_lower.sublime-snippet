@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Collider.OnCollisionEnter(${1:Collision collisionInfo});]]></content>
-	<tabTrigger><![CDATA[collider.OnCollisionEnter]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(collisionInfo)]]></description>
-</snippet>

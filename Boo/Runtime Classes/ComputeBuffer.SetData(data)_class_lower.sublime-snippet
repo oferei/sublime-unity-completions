@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeBuffer.SetData(${1:data as System.Array})]]></content>
+	<content><![CDATA[ComputeBuffer.SetData(${1:data as Array})]]></content>
 	<tabTrigger><![CDATA[computeBuffer.SetData]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(data)]]></description>

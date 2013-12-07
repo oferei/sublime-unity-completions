@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.GetWindow(${1:title : string}, ${2:params desiredDockNextTo : Type[]});]]></content>
+	<tabTrigger><![CDATA[GetWindow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorWindow.*(title, params desiredDockNextTo)]]></description>
+</snippet>

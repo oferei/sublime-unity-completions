@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorWindow.GetWindowWithRect.<${1:T}>(${2:rect : Rect}, ${3:utility : boolean}, ${4:title : String}, ${5:focus : boolean});]]></content>
-	<tabTrigger><![CDATA[GetWindowWithRect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorWindow.*.<T>(rect, utility, title, focus)]]></description>
-</snippet>

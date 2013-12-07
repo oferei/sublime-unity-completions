@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorWindow.GetWindow(${1:title as string}, ${2:focus as bool})]]></content>
+	<tabTrigger><![CDATA[EditorWindow.GetWindow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(title, focus)]]></description>
+</snippet>

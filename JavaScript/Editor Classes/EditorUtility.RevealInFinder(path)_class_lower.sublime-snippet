@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.RevealInFinder(${1:path : string});]]></content>
+	<tabTrigger><![CDATA[editorUtility.RevealInFinder]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

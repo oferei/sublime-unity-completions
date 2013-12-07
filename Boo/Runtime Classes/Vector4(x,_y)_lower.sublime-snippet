@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Vector4(${1:x as single}, ${2:y as single})]]></content>
-	<tabTrigger><![CDATA[vector4]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(x, y)]]></description>
-</snippet>

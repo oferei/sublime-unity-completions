@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Vector3.OrthoNormalize(${1:ref normal : Vector3}, ${2:ref tangent : Vector3});]]></content>
-	<tabTrigger><![CDATA[vector3.OrthoNormalize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(ref normal, ref tangent)]]></description>
-</snippet>

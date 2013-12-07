@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.Load(${1:name : String});]]></content>
+	<content><![CDATA[AssetBundle.Load(${1:name : string});]]></content>
 	<tabTrigger><![CDATA[AssetBundle.Load]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

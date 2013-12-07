@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameObject.GetComponentsInChildren[of ${1:T}](${2:includeInactive as bool})]]></content>
-	<tabTrigger><![CDATA[getComponentsInChildren]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GameObject.*[of T](includeInactive)]]></description>
-</snippet>

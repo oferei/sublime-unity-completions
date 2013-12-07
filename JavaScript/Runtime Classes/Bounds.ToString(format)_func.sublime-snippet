@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.ToString(${1:format : String});]]></content>
+	<content><![CDATA[Bounds.ToString(${1:format : string});]]></content>
 	<tabTrigger><![CDATA[ToString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Bounds.*(format)]]></description>

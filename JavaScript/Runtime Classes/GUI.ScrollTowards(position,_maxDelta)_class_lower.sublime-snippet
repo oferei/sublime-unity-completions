@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.ScrollTowards(${1:position : Rect}, ${2:maxDelta : float});]]></content>
+	<tabTrigger><![CDATA[gUI.ScrollTowards]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, maxDelta)]]></description>
+</snippet>

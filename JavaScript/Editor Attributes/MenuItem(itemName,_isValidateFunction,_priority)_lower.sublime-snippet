@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MenuItem(${1:itemName : String}, ${2:isValidateFunction : boolean}, ${3:priority : int});]]></content>
+	<content><![CDATA[MenuItem(${1:itemName : string}, ${2:isValidateFunction : bool}, ${3:priority : int});]]></content>
 	<tabTrigger><![CDATA[menuItem]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(itemName, isValidateFunction, priority)]]></description>

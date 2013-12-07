@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.ObjectField(${1:position as Rect}, ${2:obj as Object}, ${3:objType as System.Type}, ${4:allowSceneObjects as bool})]]></content>
+	<content><![CDATA[EditorGUI.ObjectField(${1:position as Rect}, ${2:obj as Object}, ${3:objType as Type}, ${4:allowSceneObjects as bool})]]></content>
 	<tabTrigger><![CDATA[objectField]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[EditorGUI.*(position, obj, objType, allowSceneObjects)]]></description>

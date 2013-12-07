@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Color(${1:r : float}, ${2:g : float}, ${3:b : float}, ${4:a : float});]]></content>
-	<tabTrigger><![CDATA[color]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(r, g, b, a)]]></description>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.Vector2Field(${1:label as string}, ${2:value as Vector2}, ${3:params options as (GUILayoutOption)})]]></content>
+	<content><![CDATA[EditorGUILayout.Vector2Field(${1:label as GUIContent}, ${2:value as Vector2}, ${3:params options as (GUILayoutOption)})]]></content>
 	<tabTrigger><![CDATA[Vector2Field]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>

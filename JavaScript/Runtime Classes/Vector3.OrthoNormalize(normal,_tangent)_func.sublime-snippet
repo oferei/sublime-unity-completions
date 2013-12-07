@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.OrthoNormalize(${1:normal : Vector3}, ${2:tangent : Vector3});]]></content>
+	<tabTrigger><![CDATA[OrthoNormalize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector3.*(normal, tangent)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.LoadAssetAtPath(${1:assetPath as string})]]></content>
+	<tabTrigger><![CDATA[LoadAssetAtPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Resources.*(assetPath)]]></description>
+</snippet>

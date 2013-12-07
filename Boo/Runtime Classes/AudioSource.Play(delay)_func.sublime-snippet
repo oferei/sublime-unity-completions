@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioSource.Play(${1:delay as UInt64 = 0})]]></content>
+	<content><![CDATA[AudioSource.Play(${1:delay as ulong = 0})]]></content>
 	<tabTrigger><![CDATA[Play]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[AudioSource.*(delay)]]></description>

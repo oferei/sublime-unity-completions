@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetTexture(${1:int nameID});]]></content>
+	<tabTrigger><![CDATA[GetTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Material.*(nameID)]]></description>
+</snippet>

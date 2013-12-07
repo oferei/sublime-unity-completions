@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GL.Clear(${1:clearDepth as bool}, ${2:clearColor as bool}, ${3:backgroundColor as Color})]]></content>
-	<tabTrigger><![CDATA[gL.Clear]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(clearDepth, clearColor, backgroundColor)]]></description>
-</snippet>

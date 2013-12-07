@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RecordObjects(${1:Object[] objectsToUndo}, ${2:string name});]]></content>
+	<tabTrigger><![CDATA[recordObjects]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Undo.*(objectsToUndo, name)]]></description>
+</snippet>

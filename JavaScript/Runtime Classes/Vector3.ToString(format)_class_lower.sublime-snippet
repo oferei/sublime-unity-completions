@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector3.ToString(${1:format : String});]]></content>
+	<content><![CDATA[Vector3.ToString(${1:format : string});]]></content>
 	<tabTrigger><![CDATA[vector3.ToString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(format)]]></description>

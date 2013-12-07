@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Vector2(${1:float x}, ${2:float y});]]></content>
-	<tabTrigger><![CDATA[vector2]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(x, y)]]></description>
-</snippet>

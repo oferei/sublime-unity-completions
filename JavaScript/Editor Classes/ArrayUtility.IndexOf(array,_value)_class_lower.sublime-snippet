@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.IndexOf(${1:array : T[]}, ${2:value : T});]]></content>
+	<tabTrigger><![CDATA[arrayUtility.IndexOf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(array, value)]]></description>
+</snippet>

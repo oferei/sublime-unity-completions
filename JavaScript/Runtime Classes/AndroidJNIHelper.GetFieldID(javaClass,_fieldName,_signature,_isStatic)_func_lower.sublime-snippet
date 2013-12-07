@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.GetFieldID(${1:javaClass : IntPtr}, ${2:fieldName : String}, ${3:signature : String = \"\"}, ${4:isStatic : boolean = false});]]></content>
+	<content><![CDATA[AndroidJNIHelper.GetFieldID(${1:javaClass : IntPtr}, ${2:fieldName : string}, ${3:signature : string = \"\"}, ${4:isStatic : bool = false});]]></content>
 	<tabTrigger><![CDATA[getFieldID]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNIHelper.*(javaClass, fieldName, signature, isStatic)]]></description>

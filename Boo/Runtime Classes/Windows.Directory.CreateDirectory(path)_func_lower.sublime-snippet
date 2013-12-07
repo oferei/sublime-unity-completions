@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Windows.Directory.CreateDirectory(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[directory.CreateDirectory]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Windows.*(path)]]></description>
+</snippet>

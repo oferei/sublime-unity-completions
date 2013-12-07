@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.SetGlobalInt(${1:string propertyName}, ${2:int value});]]></content>
+	<tabTrigger><![CDATA[Shader.SetGlobalInt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(propertyName, value)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToBooleanArray(${1:array : Boolean[]});]]></content>
+	<content><![CDATA[AndroidJNI.ToBooleanArray(${1:array : bool[]});]]></content>
 	<tabTrigger><![CDATA[toBooleanArray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(array)]]></description>

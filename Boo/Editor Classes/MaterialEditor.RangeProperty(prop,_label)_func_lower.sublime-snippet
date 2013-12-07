@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.RangeProperty(${1:prop as MaterialProperty}, ${2:label as string})]]></content>
+	<tabTrigger><![CDATA[rangeProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(prop, label)]]></description>
+</snippet>

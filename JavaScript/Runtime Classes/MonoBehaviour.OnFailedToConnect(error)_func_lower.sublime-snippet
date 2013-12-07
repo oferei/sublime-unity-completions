@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnFailedToConnect(${1:error : NetworkConnectionError});]]></content>
-	<tabTrigger><![CDATA[onFailedToConnect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[MonoBehaviour.*(error)]]></description>
-</snippet>

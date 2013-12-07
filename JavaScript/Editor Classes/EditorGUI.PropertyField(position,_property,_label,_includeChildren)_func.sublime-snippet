@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.PropertyField(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:label : GUIContent}, ${4:includeChildren : boolean = false});]]></content>
+	<content><![CDATA[EditorGUI.PropertyField(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:label : GUIContent}, ${4:includeChildren : bool = false});]]></content>
 	<tabTrigger><![CDATA[PropertyField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUI.*(position, property, label, includeChildren)]]></description>

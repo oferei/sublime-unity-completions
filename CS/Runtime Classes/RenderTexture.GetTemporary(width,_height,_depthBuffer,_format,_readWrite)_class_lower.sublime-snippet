@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RenderTexture.GetTemporary(${1:int width}, ${2:int height}, ${3:int depthBuffer = 0}, ${4:RenderTextureFormat format = RenderTextureFormat.Default}, ${5:RenderTextureReadWrite readWrite = RenderTextureReadWrite.Default});]]></content>
-	<tabTrigger><![CDATA[renderTexture.GetTemporary]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(width, height, depthBuffer, format, readWrite)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Color32(${1:r as byte}, ${2:g as byte}, ${3:b as byte}, ${4:a as byte})]]></content>
-	<tabTrigger><![CDATA[color32]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(r, g, b, a)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.CollapseUndoOperations(${1:groupIndex as int})]]></content>
+	<tabTrigger><![CDATA[Undo.CollapseUndoOperations]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(groupIndex)]]></description>
+</snippet>

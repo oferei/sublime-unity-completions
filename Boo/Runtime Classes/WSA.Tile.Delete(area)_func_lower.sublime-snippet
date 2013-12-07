@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Tile.Delete(${1:area as Rect})]]></content>
+	<tabTrigger><![CDATA[tile.Delete]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WSA.*(area)]]></description>
+</snippet>

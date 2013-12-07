@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rect.Contains(${1:Vector3 point}, ${2:bool allowInverse});]]></content>
+	<tabTrigger><![CDATA[rect.Contains]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point, allowInverse)]]></description>
+</snippet>

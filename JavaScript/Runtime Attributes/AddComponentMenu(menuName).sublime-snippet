@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AddComponentMenu(${1:menuName : String});]]></content>
+	<content><![CDATA[AddComponentMenu(${1:menuName : string});]]></content>
 	<tabTrigger><![CDATA[AddComponentMenu]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(menuName)]]></description>

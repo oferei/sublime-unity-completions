@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMesh.GetNavMeshLayerFromName(${1:layerName : String});]]></content>
+	<content><![CDATA[NavMesh.GetNavMeshLayerFromName(${1:layerName : string});]]></content>
 	<tabTrigger><![CDATA[getNavMeshLayerFromName]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[NavMesh.*(layerName)]]></description>

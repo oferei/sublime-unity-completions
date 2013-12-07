@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.Find<${1:T}>(${2:T[] array}, ${3:Predicate<T> match});]]></content>
-	<tabTrigger><![CDATA[arrayUtility.Find]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*<T>(array, match)]]></description>
-</snippet>

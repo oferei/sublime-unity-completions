@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PolygonCollider2D.CreatePrimitive(${1:int sides}, ${2:Vector2 scale = Vector2.one}, ${3:Vector2 offset = Vector2.zero});]]></content>
+	<tabTrigger><![CDATA[createPrimitive]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PolygonCollider2D.*(sides, scale, offset)]]></description>
+</snippet>

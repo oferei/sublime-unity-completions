@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.GetGeneratedTexture(${1:textureName as string})]]></content>
+	<tabTrigger><![CDATA[GetGeneratedTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ProceduralMaterial.*(textureName)]]></description>
+</snippet>

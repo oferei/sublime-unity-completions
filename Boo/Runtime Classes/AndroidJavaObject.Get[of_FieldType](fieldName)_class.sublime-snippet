@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJavaObject.Get[of ${1:FieldType}](${2:fieldName as string})]]></content>
-	<tabTrigger><![CDATA[AndroidJavaObject.Get]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of FieldType](fieldName)]]></description>
-</snippet>

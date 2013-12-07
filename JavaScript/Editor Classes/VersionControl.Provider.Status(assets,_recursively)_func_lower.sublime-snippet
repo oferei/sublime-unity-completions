@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Status(${1:assets : string[]}, ${2:recursively : bool});]]></content>
+	<tabTrigger><![CDATA[provider.Status]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VersionControl.*(assets, recursively)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.Tile.Update(${1:string xml});]]></content>
+	<tabTrigger><![CDATA[wSA.Tile.Update]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(xml)]]></description>
+</snippet>

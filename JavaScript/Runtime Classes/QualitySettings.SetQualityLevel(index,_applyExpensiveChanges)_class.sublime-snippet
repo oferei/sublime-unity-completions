@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[QualitySettings.SetQualityLevel(${1:index : int}, ${2:applyExpensiveChanges : boolean = true});]]></content>
+	<content><![CDATA[QualitySettings.SetQualityLevel(${1:index : int}, ${2:applyExpensiveChanges : bool = true});]]></content>
 	<tabTrigger><![CDATA[QualitySettings.SetQualityLevel]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(index, applyExpensiveChanges)]]></description>

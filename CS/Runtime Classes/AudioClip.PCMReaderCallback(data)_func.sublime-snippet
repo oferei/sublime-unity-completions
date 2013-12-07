@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioClip.PCMReaderCallback(${1:float[] data});]]></content>
-	<tabTrigger><![CDATA[PCMReaderCallback]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AudioClip.*(data)]]></description>
-</snippet>

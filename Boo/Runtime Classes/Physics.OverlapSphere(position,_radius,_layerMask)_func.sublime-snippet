@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.OverlapSphere(${1:position as Vector3}, ${2:radius as single}, ${3:layerMask as int = kAllLayers})]]></content>
+	<content><![CDATA[Physics.OverlapSphere(${1:position as Vector3}, ${2:radius as single}, ${3:layerMask as int = AllLayers})]]></content>
 	<tabTrigger><![CDATA[OverlapSphere]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Physics.*(position, radius, layerMask)]]></description>

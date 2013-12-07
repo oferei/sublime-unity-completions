@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.FocusTextInControl(${1:string name});]]></content>
+	<tabTrigger><![CDATA[editorGUI.FocusTextInControl]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

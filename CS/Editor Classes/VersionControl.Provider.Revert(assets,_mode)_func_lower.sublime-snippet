@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionControl.Provider.Revert(${1:AssetList assets}, ${2:RevertMode mode});]]></content>
+	<tabTrigger><![CDATA[provider.Revert]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VersionControl.*(assets, mode)]]></description>
+</snippet>

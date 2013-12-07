@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.EnumMaskField(${1:label as string}, ${2:enumValue as System.Enum}, ${3:style as GUIStyle}, ${4:params options as (GUILayoutOption)})]]></content>
+	<content><![CDATA[EditorGUILayout.EnumMaskField(${1:label as string}, ${2:enumValue as Enum}, ${3:style as GUIStyle}, ${4:params options as (GUILayoutOption)})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.EnumMaskField]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(label, enumValue, style, params options)]]></description>

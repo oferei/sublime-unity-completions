@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Camera.OnRenderImage(${1:RenderTexture source}, ${2:RenderTexture destination});]]></content>
-	<tabTrigger><![CDATA[Camera.OnRenderImage]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(source, destination)]]></description>
-</snippet>

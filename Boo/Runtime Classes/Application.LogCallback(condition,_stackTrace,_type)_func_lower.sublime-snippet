@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.LogCallback(${1:condition as string}, ${2:stackTrace as string}, ${3:type as LogType})]]></content>
-	<tabTrigger><![CDATA[logCallback]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Application.*(condition, stackTrace, type)]]></description>
-</snippet>

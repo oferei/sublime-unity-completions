@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Caching.MarkAsUsed(${1:url : String}, ${2:version : int});]]></content>
+	<content><![CDATA[Caching.MarkAsUsed(${1:url : string}, ${2:version : int});]]></content>
 	<tabTrigger><![CDATA[markAsUsed]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Caching.*(url, version)]]></description>

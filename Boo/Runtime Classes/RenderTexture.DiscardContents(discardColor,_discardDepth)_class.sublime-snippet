@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.DiscardContents(${1:discardColor as bool}, ${2:discardDepth as bool})]]></content>
+	<tabTrigger><![CDATA[RenderTexture.DiscardContents]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(discardColor, discardDepth)]]></description>
+</snippet>

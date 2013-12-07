@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.TestConnectionNAT(${1:forceTest : boolean = false});]]></content>
+	<content><![CDATA[Network.TestConnectionNAT(${1:forceTest : bool = false});]]></content>
 	<tabTrigger><![CDATA[Network.TestConnectionNAT]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(forceTest)]]></description>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.OnPlayerConnected(${1:player : NetworkPlayer});]]></content>
-	<tabTrigger><![CDATA[onPlayerConnected]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Network.*(player)]]></description>
-</snippet>

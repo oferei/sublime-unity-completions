@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableWizard.DisplayWizard[of ${1:T}](${2:title as string})]]></content>
-	<tabTrigger><![CDATA[displayWizard]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ScriptableWizard.*[of T](title)]]></description>
-</snippet>

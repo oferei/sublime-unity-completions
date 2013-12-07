@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.RenderStaticPreview(${1:assetPath : string}, ${2:subAssets : Object[]}, ${3:width : int}, ${4:height : int});]]></content>
+	<tabTrigger><![CDATA[MaterialEditor.RenderStaticPreview]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assetPath, subAssets, width, height)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StaticOcclusionCulling.GenerateInBackground(${1:float viewCellSize}, ${2:float nearClipPlane}, ${3:float farClipPlane}, ${4:int memoryLimit}, ${5:StaticOcclusionCullingMode mode});]]></content>
-	<tabTrigger><![CDATA[GenerateInBackground]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[StaticOcclusionCulling.*(viewCellSize, nearClipPlane, farClipPlane, memoryLimit, mode)]]></description>
-</snippet>

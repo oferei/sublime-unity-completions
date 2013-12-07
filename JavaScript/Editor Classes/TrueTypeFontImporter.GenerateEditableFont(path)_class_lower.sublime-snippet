@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TrueTypeFontImporter.GenerateEditableFont(${1:path : String});]]></content>
+	<content><![CDATA[TrueTypeFontImporter.GenerateEditableFont(${1:path : string});]]></content>
 	<tabTrigger><![CDATA[trueTypeFontImporter.GenerateEditableFont]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Social.ReportScore(${1:score : Int64}, ${2:board : String}, ${3:callback : System.Action<bool>});]]></content>
+	<content><![CDATA[Social.ReportScore(${1:score : long}, ${2:board : string}, ${3:callback : Action<bool>});]]></content>
 	<tabTrigger><![CDATA[ReportScore]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Social.*(score, board, callback)]]></description>

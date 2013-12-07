@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarBuilder.BuildGenericAvatar(${1:go : GameObject}, ${2:rootMotionTransformName : string});]]></content>
+	<tabTrigger><![CDATA[BuildGenericAvatar]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AvatarBuilder.*(go, rootMotionTransformName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.SupportsStencil(${1:rt : RenderTexture});]]></content>
+	<tabTrigger><![CDATA[RenderTexture.SupportsStencil]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rt)]]></description>
+</snippet>

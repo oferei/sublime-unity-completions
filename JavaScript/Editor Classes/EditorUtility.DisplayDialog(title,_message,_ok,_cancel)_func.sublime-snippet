@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.DisplayDialog(${1:title : String}, ${2:message : String}, ${3:ok : String}, ${4:cancel : String = \"\"});]]></content>
+	<content><![CDATA[EditorUtility.DisplayDialog(${1:title : string}, ${2:message : string}, ${3:ok : string}, ${4:cancel : string = \"\"});]]></content>
 	<tabTrigger><![CDATA[DisplayDialog]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorUtility.*(title, message, ok, cancel)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW.GetAudioClip(${1:threeD : boolean});]]></content>
+	<content><![CDATA[WWW.GetAudioClip(${1:threeD : bool});]]></content>
 	<tabTrigger><![CDATA[wWW.GetAudioClip]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(threeD)]]></description>

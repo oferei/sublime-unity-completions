@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.ArrayEquals<${1:T}>(${2:T[] lhs}, ${3:T[] rhs});]]></content>
-	<tabTrigger><![CDATA[arrayUtility.ArrayEquals]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*<T>(lhs, rhs)]]></description>
-</snippet>
