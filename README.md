@@ -77,16 +77,16 @@ Simply delete the class name manually.
 
 Up to date with Unity version 4.3.1.
 
-## Boo Developers
+## Generation
+
+The _Unity Completions_ package files were generated automatically using
+[this generator](https://github.com/oferei/sublime-unity-completions-generator).
+The data is based on the [Unity Scripting Reference](http://docs.unity3d.com/Documentation/ScriptReference/).
+
+### Boo Developers
 
 Ahoy!
 
 If you're developing in Boo, know that this package recognizes .boo files,
 but I recommend installing [Shammah's Boo package](https://github.com/Shammah/boo-sublime)
 as well if you're into syntax highlighting.
-
-## Generation
-
-The _Unity Completions_ package files were generated automatically using
-[this generator](https://github.com/oferei/sublime-unity-completions-generator).
-The data is based on the [Unity Scripting Reference](http://docs.unity3d.com/Documentation/ScriptReference/).
