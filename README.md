@@ -26,7 +26,7 @@ If that happens you'd see the animation running at the bottom indefinitely:
 This seems to be a bug in Package Control. Try the following:
 
 1. Restart Sublime Text and try again
-2. Check your user settings (Preferences.sublime-settings) and see if the package is listed under "ignored_packages"
+2. Check your user settings (Preferences.sublime-settings) and ensure the package is not listed under "ignored_packages"
 
 ### Manual
 
