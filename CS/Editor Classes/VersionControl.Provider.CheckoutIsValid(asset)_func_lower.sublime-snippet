@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.CheckoutIsValid(${1:Asset asset});]]></content>
-	<tabTrigger><![CDATA[provider.CheckoutIsValid]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VersionControl.*(asset)]]></description>
-</snippet>

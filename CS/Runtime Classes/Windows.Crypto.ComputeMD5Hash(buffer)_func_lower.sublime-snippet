@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Windows.Crypto.ComputeMD5Hash(${1:byte[] buffer});]]></content>
-	<tabTrigger><![CDATA[crypto.ComputeMD5Hash]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Windows.*(buffer)]]></description>
-</snippet>

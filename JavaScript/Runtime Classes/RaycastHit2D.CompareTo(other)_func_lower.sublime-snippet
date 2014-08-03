@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RaycastHit2D.CompareTo(${1:other : RaycastHit2D});]]></content>
-	<tabTrigger><![CDATA[compareTo]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[RaycastHit2D.*(other)]]></description>
-</snippet>

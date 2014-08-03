@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Delete(${1:string assetProjectPath});]]></content>
-	<tabTrigger><![CDATA[provider.Delete]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VersionControl.*(assetProjectPath)]]></description>
-</snippet>

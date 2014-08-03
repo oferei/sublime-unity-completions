@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPreview.GetMiniTypeThumbnail(${1:Type type});]]></content>
+	<tabTrigger><![CDATA[assetPreview.GetMiniTypeThumbnail]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

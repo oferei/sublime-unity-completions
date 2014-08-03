@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Add(${1:assets : AssetList}, ${2:recursive : bool});]]></content>
+	<tabTrigger><![CDATA[Add]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(assets, recursive)]]></description>
+</snippet>

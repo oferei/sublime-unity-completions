@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Windows.Crypto.ComputeMD5Hash(${1:buffer : byte[]});]]></content>
-	<tabTrigger><![CDATA[Windows.Crypto.ComputeMD5Hash]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(buffer)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Windows.File.Exists(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[Windows.File.Exists]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(path)]]></description>
-</snippet>

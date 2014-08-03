@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.CreateOrUpdateSecondary(${1:SecondaryTileData data}, ${2:Rect area});]]></content>
-	<tabTrigger><![CDATA[tile.CreateOrUpdateSecondary]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[WSA.*(data, area)]]></description>
-</snippet>

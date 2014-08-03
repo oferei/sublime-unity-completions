@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.MultiFloatField(${1:position as Rect}, ${2:label as GUIContent}, ${3:subLabels as (GUIContent)}, ${4:values as (single)})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.MultiFloatField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, label, subLabels, values)]]></description>
+</snippet>

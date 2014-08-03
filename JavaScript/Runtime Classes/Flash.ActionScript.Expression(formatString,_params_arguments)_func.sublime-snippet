@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Flash.ActionScript.Expression(${1:formatString : string}, ${2:params arguments : object[]});]]></content>
-	<tabTrigger><![CDATA[ActionScript.Expression]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Flash.*(formatString, params arguments)]]></description>
-</snippet>

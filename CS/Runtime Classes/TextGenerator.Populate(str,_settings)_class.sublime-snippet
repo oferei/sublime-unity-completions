@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator.Populate(${1:string str}, ${2:TextGenerationSettings settings});]]></content>
+	<tabTrigger><![CDATA[TextGenerator.Populate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(str, settings)]]></description>
+</snippet>

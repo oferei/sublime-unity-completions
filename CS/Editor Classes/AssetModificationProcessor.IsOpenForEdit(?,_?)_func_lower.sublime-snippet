@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetModificationProcessor.IsOpenForEdit(${1:string ?}, ${2:string ?});]]></content>
+	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetModificationProcessor.*(?, ?)]]></description>
+</snippet>

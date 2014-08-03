@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.OnFailedToConnect(${1:? as NetworkConnectionError})]]></content>
+	<tabTrigger><![CDATA[network.OnFailedToConnect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(?)]]></description>
+</snippet>

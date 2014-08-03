@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SliderJoint2D.GetMotorForce(${1:timeStep as single})]]></content>
+	<tabTrigger><![CDATA[SliderJoint2D.GetMotorForce]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(timeStep)]]></description>
+</snippet>

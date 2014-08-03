@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimBool.Fade(${1:float from}, ${2:float to});]]></content>
+	<tabTrigger><![CDATA[fade]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimBool.*(from, to)]]></description>
+</snippet>

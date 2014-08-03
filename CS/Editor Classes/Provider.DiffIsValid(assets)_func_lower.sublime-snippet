@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.DiffIsValid(${1:AssetList assets});]]></content>
+	<tabTrigger><![CDATA[diffIsValid]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Provider.*(assets)]]></description>
+</snippet>

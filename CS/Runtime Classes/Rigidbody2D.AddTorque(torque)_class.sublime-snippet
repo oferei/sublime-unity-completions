@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody2D.AddTorque(${1:float torque});]]></content>
-	<tabTrigger><![CDATA[Rigidbody2D.AddTorque]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(torque)]]></description>
-</snippet>

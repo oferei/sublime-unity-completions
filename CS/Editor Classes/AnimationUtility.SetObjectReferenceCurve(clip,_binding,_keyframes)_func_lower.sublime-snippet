@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.SetObjectReferenceCurve(${1:AnimationClip clip}, ${2:EditorCurveBinding binding}, ${3:ObjectReferenceKeyframe[] keyframes});]]></content>
-	<tabTrigger><![CDATA[setObjectReferenceCurve]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimationUtility.*(clip, binding, keyframes)]]></description>
-</snippet>

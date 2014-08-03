@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[File.WriteAllBytes(${1:string path}, ${2:byte[] bytes});]]></content>
+	<tabTrigger><![CDATA[writeAllBytes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[File.*(path, bytes)]]></description>
+</snippet>

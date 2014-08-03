@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.Exists(${1:tileId as string})]]></content>
-	<tabTrigger><![CDATA[tile.Exists]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[WSA.*(tileId)]]></description>
-</snippet>

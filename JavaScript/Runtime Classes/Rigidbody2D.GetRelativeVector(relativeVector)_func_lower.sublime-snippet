@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.GetRelativeVector(${1:relativeVector : Vector2});]]></content>
+	<tabTrigger><![CDATA[getRelativeVector]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Rigidbody2D.*(relativeVector)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Delete(${1:assetProjectPath : string});]]></content>
+	<tabTrigger><![CDATA[Provider.Delete]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assetProjectPath)]]></description>
+</snippet>

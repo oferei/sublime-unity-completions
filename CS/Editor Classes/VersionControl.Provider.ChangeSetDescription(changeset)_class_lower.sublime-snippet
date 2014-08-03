@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.ChangeSetDescription(${1:ChangeSet changeset});]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.ChangeSetDescription]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(changeset)]]></description>
-</snippet>

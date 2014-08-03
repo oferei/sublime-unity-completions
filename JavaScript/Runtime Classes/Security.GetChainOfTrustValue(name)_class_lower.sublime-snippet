@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Security.GetChainOfTrustValue(${1:name : string});]]></content>
-	<tabTrigger><![CDATA[security.GetChainOfTrustValue]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(name)]]></description>
-</snippet>

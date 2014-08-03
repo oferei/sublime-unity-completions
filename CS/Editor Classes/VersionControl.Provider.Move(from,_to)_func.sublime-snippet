@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Move(${1:string from}, ${2:string to});]]></content>
-	<tabTrigger><![CDATA[Provider.Move]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VersionControl.*(from, to)]]></description>
-</snippet>

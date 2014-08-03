@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.ChangeSetMove(${1:asset as Asset}, ${2:changesetID as string})]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.ChangeSetMove]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(asset, changesetID)]]></description>
-</snippet>

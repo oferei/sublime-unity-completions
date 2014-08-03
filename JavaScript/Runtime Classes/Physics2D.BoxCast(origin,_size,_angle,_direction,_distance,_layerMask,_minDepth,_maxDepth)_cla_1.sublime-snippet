@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.BoxCast(${1:origin : Vector2}, ${2:size : Vector2}, ${3:angle : float}, ${4:direction : Vector2}, ${5:distance : float = Mathf.Infinity}, ${6:layerMask : int = DefaultRaycastLayers}, ${7:minDepth : float = -Mathf.Infinity}, ${8:maxDepth : float = Mathf.Infinity});]]></content>
+	<tabTrigger><![CDATA[Physics2D.BoxCast]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(origin, size, angle, direction, distance, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

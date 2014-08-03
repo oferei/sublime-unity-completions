@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.GetLatestIsValid(${1:assets : AssetList});]]></content>
+	<tabTrigger><![CDATA[GetLatestIsValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(assets)]]></description>
+</snippet>

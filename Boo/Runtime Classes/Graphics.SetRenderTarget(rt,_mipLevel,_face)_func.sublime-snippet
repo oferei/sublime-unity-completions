@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:rt as RenderTexture}, ${2:mipLevel as int}, ${3:face as CubemapFace})]]></content>
+	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Graphics.*(rt, mipLevel, face)]]></description>
+</snippet>

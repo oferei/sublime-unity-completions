@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Packer.GetTexturesForAtlas(${1:atlasName : string});]]></content>
+	<tabTrigger><![CDATA[getTexturesForAtlas]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Packer.*(atlasName)]]></description>
+</snippet>

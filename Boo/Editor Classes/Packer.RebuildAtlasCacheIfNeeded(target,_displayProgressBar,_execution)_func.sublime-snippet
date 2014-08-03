@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Packer.RebuildAtlasCacheIfNeeded(${1:target as BuildTarget}, ${2:displayProgressBar as bool = false}, ${3:execution as Execution = Execution.Normal})]]></content>
+	<tabTrigger><![CDATA[RebuildAtlasCacheIfNeeded]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Packer.*(target, displayProgressBar, execution)]]></description>
+</snippet>

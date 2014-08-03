@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StaticOcclusionCulling.Compute(${1:? as single}, ${2:? as single}, ${3:? as single}, ${4:? as int}, ${5:? as StaticOcclusionCullingMode})]]></content>
+	<tabTrigger><![CDATA[StaticOcclusionCulling.Compute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(?, ?, ?, ?, ?)]]></description>
+</snippet>

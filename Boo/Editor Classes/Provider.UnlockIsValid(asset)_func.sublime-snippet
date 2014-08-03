@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.UnlockIsValid(${1:asset as Asset})]]></content>
+	<tabTrigger><![CDATA[UnlockIsValid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(asset)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.OnCollisionStay2D(${1:Collision2D ?});]]></content>
+	<tabTrigger><![CDATA[collider2D.OnCollisionStay2D]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(?)]]></description>
+</snippet>

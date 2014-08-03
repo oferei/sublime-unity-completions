@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Revert(${1:asset : Asset}, ${2:mode : RevertMode});]]></content>
+	<tabTrigger><![CDATA[Revert]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(asset, mode)]]></description>
+</snippet>

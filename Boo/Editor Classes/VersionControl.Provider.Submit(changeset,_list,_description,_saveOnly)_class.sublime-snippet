@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Submit(${1:changeset as ChangeSet}, ${2:list as AssetList}, ${3:description as string}, ${4:saveOnly as bool})]]></content>
-	<tabTrigger><![CDATA[VersionControl.Provider.Submit]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(changeset, list, description, saveOnly)]]></description>
-</snippet>

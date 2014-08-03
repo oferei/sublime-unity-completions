@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DistanceJoint2D.GetReactionTorque(${1:float timeStep});]]></content>
+	<tabTrigger><![CDATA[DistanceJoint2D.GetReactionTorque]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(timeStep)]]></description>
+</snippet>

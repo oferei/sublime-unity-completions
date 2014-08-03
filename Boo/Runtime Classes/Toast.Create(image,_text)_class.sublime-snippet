@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Toast.Create(${1:image as string}, ${2:text as string})]]></content>
+	<tabTrigger><![CDATA[Toast.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(image, text)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.CreateOrUpdateSecondary(${1:SecondaryTileData data});]]></content>
+	<tabTrigger><![CDATA[CreateOrUpdateSecondary]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tile.*(data)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.IScore.ReportScore(${1:callback : Action<bool>});]]></content>
-	<tabTrigger><![CDATA[socialPlatforms.IScore.ReportScore]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(callback)]]></description>
-</snippet>

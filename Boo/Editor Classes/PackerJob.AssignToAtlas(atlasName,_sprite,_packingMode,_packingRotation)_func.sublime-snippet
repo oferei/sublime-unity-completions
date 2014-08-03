@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackerJob.AssignToAtlas(${1:atlasName as string}, ${2:sprite as Sprite}, ${3:packingMode as SpritePackingMode}, ${4:packingRotation as SpritePackingRotation})]]></content>
+	<tabTrigger><![CDATA[AssignToAtlas]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PackerJob.*(atlasName, sprite, packingMode, packingRotation)]]></description>
+</snippet>

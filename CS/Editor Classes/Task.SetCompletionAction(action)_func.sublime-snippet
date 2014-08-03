@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Task.SetCompletionAction(${1:CompletionAction action});]]></content>
+	<tabTrigger><![CDATA[SetCompletionAction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Task.*(action)]]></description>
+</snippet>

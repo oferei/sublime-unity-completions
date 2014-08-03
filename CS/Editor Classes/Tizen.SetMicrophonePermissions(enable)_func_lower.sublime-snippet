@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tizen.SetMicrophonePermissions(${1:bool enable});]]></content>
+	<tabTrigger><![CDATA[setMicrophonePermissions]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tizen.*(enable)]]></description>
+</snippet>

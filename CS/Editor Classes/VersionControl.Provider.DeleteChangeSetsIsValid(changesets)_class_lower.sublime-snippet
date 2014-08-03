@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.DeleteChangeSetsIsValid(${1:ChangeSets changesets});]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.DeleteChangeSetsIsValid]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(changesets)]]></description>
-</snippet>

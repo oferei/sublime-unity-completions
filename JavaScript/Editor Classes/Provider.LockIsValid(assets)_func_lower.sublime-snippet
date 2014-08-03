@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.LockIsValid(${1:assets : AssetList});]]></content>
+	<tabTrigger><![CDATA[lockIsValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(assets)]]></description>
+</snippet>

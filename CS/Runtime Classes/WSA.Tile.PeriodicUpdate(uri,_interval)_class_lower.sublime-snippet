@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.PeriodicUpdate(${1:string uri}, ${2:float interval});]]></content>
-	<tabTrigger><![CDATA[wSA.Tile.PeriodicUpdate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(uri, interval)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.DoRotationHandle(${1:rotation as Quaternion}, ${2:position as Vector3})]]></content>
-	<tabTrigger><![CDATA[handles.DoRotationHandle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(rotation, position)]]></description>
-</snippet>

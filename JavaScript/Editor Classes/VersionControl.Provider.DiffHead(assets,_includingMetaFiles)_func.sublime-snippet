@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.DiffHead(${1:assets : AssetList}, ${2:includingMetaFiles : bool});]]></content>
-	<tabTrigger><![CDATA[Provider.DiffHead]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(assets, includingMetaFiles)]]></description>
-</snippet>

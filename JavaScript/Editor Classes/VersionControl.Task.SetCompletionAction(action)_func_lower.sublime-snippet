@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Task.SetCompletionAction(${1:action : CompletionAction});]]></content>
-	<tabTrigger><![CDATA[task.SetCompletionAction]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(action)]]></description>
-</snippet>

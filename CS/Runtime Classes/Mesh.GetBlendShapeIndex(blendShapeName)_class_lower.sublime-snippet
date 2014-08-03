@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mesh.GetBlendShapeIndex(${1:string blendShapeName});]]></content>
-	<tabTrigger><![CDATA[mesh.GetBlendShapeIndex]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(blendShapeName)]]></description>
-</snippet>

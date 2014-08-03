@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.GetLatest(${1:AssetList assets});]]></content>
+	<tabTrigger><![CDATA[GetLatest]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Provider.*(assets)]]></description>
+</snippet>

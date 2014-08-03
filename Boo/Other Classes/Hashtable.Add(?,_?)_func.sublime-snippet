@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.Add(${1:? as object}, ${2:? as object})]]></content>
+	<tabTrigger><![CDATA[Add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Hashtable.*(?, ?)]]></description>
+</snippet>

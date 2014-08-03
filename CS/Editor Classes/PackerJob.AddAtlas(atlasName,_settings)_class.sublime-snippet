@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackerJob.AddAtlas(${1:string atlasName}, ${2:AtlasSettings settings});]]></content>
+	<tabTrigger><![CDATA[PackerJob.AddAtlas]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(atlasName, settings)]]></description>
+</snippet>

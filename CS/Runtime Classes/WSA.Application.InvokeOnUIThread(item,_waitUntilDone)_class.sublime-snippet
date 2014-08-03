@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Application.InvokeOnUIThread(${1:AppCallbackItem item}, ${2:bool waitUntilDone});]]></content>
-	<tabTrigger><![CDATA[WSA.Application.InvokeOnUIThread]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(item, waitUntilDone)]]></description>
-</snippet>

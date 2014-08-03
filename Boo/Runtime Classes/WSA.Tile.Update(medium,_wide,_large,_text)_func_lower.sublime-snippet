@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.Update(${1:medium as string}, ${2:wide as string}, ${3:large as string}, ${4:text as string})]]></content>
-	<tabTrigger><![CDATA[tile.Update]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[WSA.*(medium, wide, large, text)]]></description>
-</snippet>

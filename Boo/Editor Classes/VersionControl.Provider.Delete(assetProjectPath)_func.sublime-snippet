@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Delete(${1:assetProjectPath as string})]]></content>
-	<tabTrigger><![CDATA[Provider.Delete]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VersionControl.*(assetProjectPath)]]></description>
-</snippet>

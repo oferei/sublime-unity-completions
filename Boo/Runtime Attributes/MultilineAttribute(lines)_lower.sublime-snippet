@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultilineAttribute(${1:lines as int})]]></content>
+	<tabTrigger><![CDATA[multilineAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(lines)]]></description>
+</snippet>

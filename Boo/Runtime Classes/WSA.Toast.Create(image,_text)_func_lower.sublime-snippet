@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Toast.Create(${1:image as string}, ${2:text as string})]]></content>
-	<tabTrigger><![CDATA[toast.Create]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[WSA.*(image, text)]]></description>
-</snippet>

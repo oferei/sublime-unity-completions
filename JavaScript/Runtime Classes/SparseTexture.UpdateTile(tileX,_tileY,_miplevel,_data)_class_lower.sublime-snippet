@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SparseTexture.UpdateTile(${1:tileX : int}, ${2:tileY : int}, ${3:miplevel : int}, ${4:data : Color32[]});]]></content>
+	<tabTrigger><![CDATA[sparseTexture.UpdateTile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tileX, tileY, miplevel, data)]]></description>
+</snippet>

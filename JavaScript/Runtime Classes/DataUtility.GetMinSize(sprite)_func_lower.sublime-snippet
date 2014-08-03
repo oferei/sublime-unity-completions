@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DataUtility.GetMinSize(${1:sprite : Sprite});]]></content>
+	<tabTrigger><![CDATA[getMinSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DataUtility.*(sprite)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.Delete(${1:Rect area});]]></content>
+	<tabTrigger><![CDATA[delete]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tile.*(area)]]></description>
+</snippet>

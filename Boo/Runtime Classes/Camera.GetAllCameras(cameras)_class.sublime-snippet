@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.GetAllCameras(${1:cameras as (Camera)})]]></content>
+	<tabTrigger><![CDATA[Camera.GetAllCameras]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(cameras)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.DeleteSecondary(${1:string tileId});]]></content>
+	<tabTrigger><![CDATA[Tile.DeleteSecondary]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(tileId)]]></description>
+</snippet>

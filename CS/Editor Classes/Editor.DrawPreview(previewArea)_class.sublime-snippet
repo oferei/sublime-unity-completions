@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Editor.DrawPreview(${1:Rect previewArea});]]></content>
+	<tabTrigger><![CDATA[Editor.DrawPreview]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(previewArea)]]></description>
+</snippet>

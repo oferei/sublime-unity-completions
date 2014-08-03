@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.DeleteChangeSets(${1:ChangeSets changesets});]]></content>
+	<tabTrigger><![CDATA[deleteChangeSets]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Provider.*(changesets)]]></description>
+</snippet>

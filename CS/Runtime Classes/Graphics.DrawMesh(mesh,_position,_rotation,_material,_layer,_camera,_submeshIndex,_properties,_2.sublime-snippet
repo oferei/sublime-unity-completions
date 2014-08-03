@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:Material material}, ${5:int layer}, ${6:Camera camera}, ${7:int submeshIndex}, ${8:MaterialPropertyBlock properties}, ${9:bool castShadows}, ${10:bool receiveShadows});]]></content>
+	<tabTrigger><![CDATA[graphics.DrawMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh, position, rotation, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows)]]></description>
+</snippet>

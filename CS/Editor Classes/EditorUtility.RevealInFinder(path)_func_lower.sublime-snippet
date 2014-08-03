@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUtility.RevealInFinder(${1:string path});]]></content>
-	<tabTrigger><![CDATA[revealInFinder]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorUtility.*(path)]]></description>
-</snippet>

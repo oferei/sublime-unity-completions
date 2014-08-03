@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomPreviewAttribute(${1:type as Type})]]></content>
+	<tabTrigger><![CDATA[CustomPreviewAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

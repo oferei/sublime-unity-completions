@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorUtility.OptimizeTransformHierarchy(${1:go as GameObject}, ${2:exposedTransforms as (string)})]]></content>
+	<tabTrigger><![CDATA[OptimizeTransformHierarchy]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorUtility.*(go, exposedTransforms)]]></description>
+</snippet>

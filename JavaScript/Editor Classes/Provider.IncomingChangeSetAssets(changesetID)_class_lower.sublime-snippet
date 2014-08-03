@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.IncomingChangeSetAssets(${1:changesetID : string});]]></content>
+	<tabTrigger><![CDATA[provider.IncomingChangeSetAssets]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(changesetID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.UpdateBadgeImage(${1:image : string});]]></content>
+	<tabTrigger><![CDATA[tile.UpdateBadgeImage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(image)]]></description>
+</snippet>

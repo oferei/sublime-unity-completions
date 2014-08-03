@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.AddIsValid(${1:assets : AssetList});]]></content>
+	<tabTrigger><![CDATA[AddIsValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(assets)]]></description>
+</snippet>

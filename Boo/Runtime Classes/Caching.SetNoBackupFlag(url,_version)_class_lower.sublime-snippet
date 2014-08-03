@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Caching.SetNoBackupFlag(${1:url as string}, ${2:version as int})]]></content>
-	<tabTrigger><![CDATA[caching.SetNoBackupFlag]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(url, version)]]></description>
-</snippet>

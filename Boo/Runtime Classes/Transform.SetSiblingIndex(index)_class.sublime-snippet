@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.SetSiblingIndex(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[Transform.SetSiblingIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

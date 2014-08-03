@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.NaturalCompare(${1:string a}, ${2:string b});]]></content>
+	<tabTrigger><![CDATA[NaturalCompare]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(a, b)]]></description>
+</snippet>

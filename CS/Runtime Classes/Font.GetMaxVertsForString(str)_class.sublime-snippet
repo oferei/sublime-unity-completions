@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Font.GetMaxVertsForString(${1:string str});]]></content>
+	<tabTrigger><![CDATA[Font.GetMaxVertsForString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(str)]]></description>
+</snippet>

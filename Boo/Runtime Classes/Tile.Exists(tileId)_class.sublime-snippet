@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.Exists(${1:tileId as string})]]></content>
+	<tabTrigger><![CDATA[Tile.Exists]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tileId)]]></description>
+</snippet>

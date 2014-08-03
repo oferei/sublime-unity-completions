@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.ResolveIsValid(${1:AssetList assets});]]></content>
+	<tabTrigger><![CDATA[provider.ResolveIsValid]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(assets)]]></description>
+</snippet>

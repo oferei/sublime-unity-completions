@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Component.GetComponentsInParent<${1:T}>();]]></content>
+	<tabTrigger><![CDATA[GetComponentsInParent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Component.*<T>()]]></description>
+</snippet>

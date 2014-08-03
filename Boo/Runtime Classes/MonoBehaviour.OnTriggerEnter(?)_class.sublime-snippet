@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnTriggerEnter(${1:? as Collider})]]></content>
+	<tabTrigger><![CDATA[MonoBehaviour.OnTriggerEnter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(?)]]></description>
+</snippet>

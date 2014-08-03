@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Undo.AddComponent(${1:GameObject gameObject});]]></content>
-	<tabTrigger><![CDATA[AddComponent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Undo.*(gameObject)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPreview.GetAssetPreview(${1:Object asset});]]></content>
+	<tabTrigger><![CDATA[AssetPreview.GetAssetPreview]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(asset)]]></description>
+</snippet>

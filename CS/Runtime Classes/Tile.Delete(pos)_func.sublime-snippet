@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.Delete(${1:Vector2 pos});]]></content>
+	<tabTrigger><![CDATA[Delete]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tile.*(pos)]]></description>
+</snippet>

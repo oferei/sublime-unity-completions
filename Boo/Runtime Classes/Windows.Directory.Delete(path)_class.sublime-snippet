@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Windows.Directory.Delete(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[Windows.Directory.Delete]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(path)]]></description>
-</snippet>

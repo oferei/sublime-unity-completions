@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PopupWindowContent.OnGUI(${1:Rect rect});]]></content>
+	<tabTrigger><![CDATA[popupWindowContent.OnGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rect)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.DeleteChangeSets(${1:changesets as ChangeSets})]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.DeleteChangeSets]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(changesets)]]></description>
-</snippet>

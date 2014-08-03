@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Flash.ActionScript.Statement(${1:formatString as string}, ${2:params arguments as (object)})]]></content>
-	<tabTrigger><![CDATA[flash.ActionScript.Statement]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(formatString, params arguments)]]></description>
-</snippet>

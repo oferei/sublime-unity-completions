@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.DeleteSecondary(${1:tileId : string}, ${2:pos : Vector2});]]></content>
-	<tabTrigger><![CDATA[Tile.DeleteSecondary]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[WSA.*(tileId, pos)]]></description>
-</snippet>

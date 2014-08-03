@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.GetTemplate(${1:templ as TileTemplate})]]></content>
+	<tabTrigger><![CDATA[GetTemplate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Tile.*(templ)]]></description>
+</snippet>

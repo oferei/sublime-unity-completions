@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.SetAnimationType(${1:clip as AnimationClip}, ${2:type as ModelImporterAnimationType})]]></content>
-	<tabTrigger><![CDATA[SetAnimationType]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationUtility.*(clip, type)]]></description>
-</snippet>

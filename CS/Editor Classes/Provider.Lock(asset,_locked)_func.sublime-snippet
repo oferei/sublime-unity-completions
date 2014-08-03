@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Lock(${1:Asset asset}, ${2:bool locked});]]></content>
+	<tabTrigger><![CDATA[Lock]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Provider.*(asset, locked)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.GetAssetByGUID(${1:guid : string});]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.GetAssetByGUID]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(guid)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Undo.RegisterCompleteObjectUndo(${1:objectToUndo as Object}, ${2:name as string})]]></content>
-	<tabTrigger><![CDATA[Undo.RegisterCompleteObjectUndo]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(objectToUndo, name)]]></description>
-</snippet>

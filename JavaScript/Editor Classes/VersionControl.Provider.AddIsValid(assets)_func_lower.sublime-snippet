@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.AddIsValid(${1:assets : AssetList});]]></content>
-	<tabTrigger><![CDATA[provider.AddIsValid]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(assets)]]></description>
-</snippet>

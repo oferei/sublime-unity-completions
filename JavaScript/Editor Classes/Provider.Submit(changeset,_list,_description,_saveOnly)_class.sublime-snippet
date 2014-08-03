@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Submit(${1:changeset : ChangeSet}, ${2:list : AssetList}, ${3:description : string}, ${4:saveOnly : bool});]]></content>
+	<tabTrigger><![CDATA[Provider.Submit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(changeset, list, description, saveOnly)]]></description>
+</snippet>

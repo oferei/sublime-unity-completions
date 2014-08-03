@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimQuaternion(${1:value as Quaternion})]]></content>
+	<tabTrigger><![CDATA[animQuaternion]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

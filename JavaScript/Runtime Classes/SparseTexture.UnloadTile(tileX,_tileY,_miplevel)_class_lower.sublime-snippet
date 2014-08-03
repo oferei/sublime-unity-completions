@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SparseTexture.UnloadTile(${1:tileX : int}, ${2:tileY : int}, ${3:miplevel : int});]]></content>
+	<tabTrigger><![CDATA[sparseTexture.UnloadTile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tileX, tileY, miplevel)]]></description>
+</snippet>

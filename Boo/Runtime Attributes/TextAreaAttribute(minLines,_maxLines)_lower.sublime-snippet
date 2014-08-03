@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextAreaAttribute(${1:minLines as int}, ${2:maxLines as int})]]></content>
+	<tabTrigger><![CDATA[textAreaAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(minLines, maxLines)]]></description>
+</snippet>

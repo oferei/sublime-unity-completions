@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectPreview.Initialize(${1:targets as (Object)})]]></content>
+	<tabTrigger><![CDATA[ObjectPreview.Initialize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targets)]]></description>
+</snippet>

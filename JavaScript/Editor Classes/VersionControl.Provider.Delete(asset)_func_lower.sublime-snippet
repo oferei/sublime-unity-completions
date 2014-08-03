@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Delete(${1:asset : Asset});]]></content>
-	<tabTrigger><![CDATA[provider.Delete]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(asset)]]></description>
-</snippet>

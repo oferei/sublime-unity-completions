@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Security.GetChainOfTrustValue(${1:string name});]]></content>
-	<tabTrigger><![CDATA[getChainOfTrustValue]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Security.*(name)]]></description>
-</snippet>

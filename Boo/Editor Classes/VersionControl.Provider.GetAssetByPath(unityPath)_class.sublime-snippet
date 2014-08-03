@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.GetAssetByPath(${1:unityPath as string})]]></content>
-	<tabTrigger><![CDATA[VersionControl.Provider.GetAssetByPath]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(unityPath)]]></description>
-</snippet>

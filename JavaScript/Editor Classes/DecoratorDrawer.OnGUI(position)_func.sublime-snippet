@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DecoratorDrawer.OnGUI(${1:position : Rect});]]></content>
+	<tabTrigger><![CDATA[OnGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DecoratorDrawer.*(position)]]></description>
+</snippet>

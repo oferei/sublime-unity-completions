@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Event.PopEvent(${1:Event outEvent});]]></content>
+	<tabTrigger><![CDATA[popEvent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Event.*(outEvent)]]></description>
+</snippet>

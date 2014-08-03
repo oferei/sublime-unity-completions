@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RangeAttribute(${1:min : float}, ${2:max : float});]]></content>
+	<tabTrigger><![CDATA[RangeAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(min, max)]]></description>
+</snippet>

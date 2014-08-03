@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.DeleteSecondary(${1:tileId as string}, ${2:area as Rect})]]></content>
+	<tabTrigger><![CDATA[deleteSecondary]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Tile.*(tileId, area)]]></description>
+</snippet>

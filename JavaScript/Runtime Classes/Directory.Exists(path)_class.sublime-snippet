@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Directory.Exists(${1:path : string});]]></content>
+	<tabTrigger><![CDATA[Directory.Exists]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

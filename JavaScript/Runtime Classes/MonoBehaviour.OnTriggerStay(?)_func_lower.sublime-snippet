@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnTriggerStay(${1:? : Collider});]]></content>
+	<tabTrigger><![CDATA[onTriggerStay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MonoBehaviour.*(?)]]></description>
+</snippet>

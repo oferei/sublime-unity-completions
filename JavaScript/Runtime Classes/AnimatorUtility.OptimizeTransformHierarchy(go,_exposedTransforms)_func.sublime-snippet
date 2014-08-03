@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorUtility.OptimizeTransformHierarchy(${1:go : GameObject}, ${2:exposedTransforms : string[]});]]></content>
+	<tabTrigger><![CDATA[OptimizeTransformHierarchy]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorUtility.*(go, exposedTransforms)]]></description>
+</snippet>

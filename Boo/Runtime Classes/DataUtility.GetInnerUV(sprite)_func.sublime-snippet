@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DataUtility.GetInnerUV(${1:sprite as Sprite})]]></content>
+	<tabTrigger><![CDATA[GetInnerUV]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DataUtility.*(sprite)]]></description>
+</snippet>

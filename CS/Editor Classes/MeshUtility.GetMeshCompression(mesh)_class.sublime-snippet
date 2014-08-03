@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MeshUtility.GetMeshCompression(${1:Mesh mesh});]]></content>
+	<tabTrigger><![CDATA[MeshUtility.GetMeshCompression]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh)]]></description>
+</snippet>

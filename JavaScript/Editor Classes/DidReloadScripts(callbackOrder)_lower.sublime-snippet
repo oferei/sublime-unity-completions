@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DidReloadScripts(${1:callbackOrder : int});]]></content>
+	<tabTrigger><![CDATA[didReloadScripts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(callbackOrder)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:? : AnimationClip}, ${2:? : string}, ${3:? : Type}, ${4:? : string});]]></content>
+	<tabTrigger><![CDATA[GetEditorCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationUtility.*(?, ?, ?, ?)]]></description>
+</snippet>

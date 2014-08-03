@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.ChangeSetMove(${1:AssetList assets}, ${2:string changesetID});]]></content>
+	<tabTrigger><![CDATA[changeSetMove]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Provider.*(assets, changesetID)]]></description>
+</snippet>

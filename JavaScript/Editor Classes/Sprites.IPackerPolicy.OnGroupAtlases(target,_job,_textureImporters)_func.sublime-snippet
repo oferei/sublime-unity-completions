@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Sprites.IPackerPolicy.OnGroupAtlases(${1:target : BuildTarget}, ${2:job : PackerJob}, ${3:textureImporters : TextureImporter[]});]]></content>
-	<tabTrigger><![CDATA[IPackerPolicy.OnGroupAtlases]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Sprites.*(target, job, textureImporters)]]></description>
-</snippet>

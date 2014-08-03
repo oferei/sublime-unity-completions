@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.GetSecondary(${1:tileId as string})]]></content>
-	<tabTrigger><![CDATA[tile.GetSecondary]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[WSA.*(tileId)]]></description>
-</snippet>

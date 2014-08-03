@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.GetVector(${1:vector as Vector2})]]></content>
+	<tabTrigger><![CDATA[getVector]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rigidbody2D.*(vector)]]></description>
+</snippet>

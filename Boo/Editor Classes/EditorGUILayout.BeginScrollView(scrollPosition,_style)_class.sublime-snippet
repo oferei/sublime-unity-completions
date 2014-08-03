@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.BeginScrollView(${1:scrollPosition as Vector2}, ${2:style as GUIStyle})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.BeginScrollView]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(scrollPosition, style)]]></description>
-</snippet>

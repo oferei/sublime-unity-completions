@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[File.Delete(${1:path : string});]]></content>
+	<tabTrigger><![CDATA[delete]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[File.*(path)]]></description>
+</snippet>

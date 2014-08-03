@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.CalculateObliqueMatrix(${1:clipPlane : Vector4});]]></content>
+	<tabTrigger><![CDATA[camera.CalculateObliqueMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(clipPlane)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MeshUtility.SetMeshCompression(${1:Mesh mesh}, ${2:ModelImporterMeshCompression compression});]]></content>
+	<tabTrigger><![CDATA[meshUtility.SetMeshCompression]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh, compression)]]></description>
+</snippet>

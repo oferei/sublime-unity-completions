@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WheelJoint2D.GetMotorTorque(${1:timeStep as single})]]></content>
+	<tabTrigger><![CDATA[wheelJoint2D.GetMotorTorque]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(timeStep)]]></description>
+</snippet>

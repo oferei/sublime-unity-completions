@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.IconContent(${1:name as string}, ${2:tooltip as string})]]></content>
+	<tabTrigger><![CDATA[EditorGUIUtility.IconContent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, tooltip)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUI.ScrollTowards(${1:position as Rect}, ${2:maxDelta as single})]]></content>
-	<tabTrigger><![CDATA[GUI.ScrollTowards]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(position, maxDelta)]]></description>
-</snippet>

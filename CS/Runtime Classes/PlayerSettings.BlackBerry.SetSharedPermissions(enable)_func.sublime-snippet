@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.BlackBerry.SetSharedPermissions(${1:bool enable});]]></content>
-	<tabTrigger><![CDATA[BlackBerry.SetSharedPermissions]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[PlayerSettings.*(enable)]]></description>
-</snippet>

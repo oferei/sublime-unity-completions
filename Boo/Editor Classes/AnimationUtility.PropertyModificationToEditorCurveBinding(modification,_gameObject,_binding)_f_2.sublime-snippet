@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.PropertyModificationToEditorCurveBinding(${1:modification as PropertyModification}, ${2:gameObject as GameObject}, ${3:binding as EditorCurveBinding})]]></content>
-	<tabTrigger><![CDATA[propertyModificationToEditorCurveBinding]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationUtility.*(modification, gameObject, binding)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginFadeGroup(${1:value as single})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.BeginFadeGroup]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

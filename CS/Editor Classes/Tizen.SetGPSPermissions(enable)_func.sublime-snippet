@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tizen.SetGPSPermissions(${1:bool enable});]]></content>
+	<tabTrigger><![CDATA[SetGPSPermissions]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tizen.*(enable)]]></description>
+</snippet>

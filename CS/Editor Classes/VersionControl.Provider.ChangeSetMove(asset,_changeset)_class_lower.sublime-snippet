@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.ChangeSetMove(${1:Asset asset}, ${2:ChangeSet changeset});]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.ChangeSetMove]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(asset, changeset)]]></description>
-</snippet>

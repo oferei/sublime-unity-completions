@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.IncomingChangeSetAssets(${1:changesetID : string});]]></content>
-	<tabTrigger><![CDATA[provider.IncomingChangeSetAssets]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(changesetID)]]></description>
-</snippet>

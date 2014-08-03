@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.Update(${1:xml as string})]]></content>
+	<tabTrigger><![CDATA[update]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Tile.*(xml)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Delete(${1:assets as AssetList})]]></content>
+	<tabTrigger><![CDATA[Delete]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(assets)]]></description>
+</snippet>

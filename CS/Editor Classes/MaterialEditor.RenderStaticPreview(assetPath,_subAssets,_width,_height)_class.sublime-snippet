@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaterialEditor.RenderStaticPreview(${1:string assetPath}, ${2:Object[] subAssets}, ${3:int width}, ${4:int height});]]></content>
-	<tabTrigger><![CDATA[MaterialEditor.RenderStaticPreview]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(assetPath, subAssets, width, height)]]></description>
-</snippet>

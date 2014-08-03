@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectPreview.DrawPreview(${1:previewArea : Rect});]]></content>
+	<tabTrigger><![CDATA[drawPreview]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ObjectPreview.*(previewArea)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.IAchievement.ReportProgress(${1:callback as Action<bool>})]]></content>
-	<tabTrigger><![CDATA[socialPlatforms.IAchievement.ReportProgress]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(callback)]]></description>
-</snippet>

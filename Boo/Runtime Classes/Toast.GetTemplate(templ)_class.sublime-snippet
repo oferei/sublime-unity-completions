@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Toast.GetTemplate(${1:templ as ToastTemplate})]]></content>
+	<tabTrigger><![CDATA[Toast.GetTemplate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(templ)]]></description>
+</snippet>

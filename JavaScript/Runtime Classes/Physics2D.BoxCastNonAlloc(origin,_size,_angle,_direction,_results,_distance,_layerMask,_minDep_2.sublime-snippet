@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.BoxCastNonAlloc(${1:origin : Vector2}, ${2:size : Vector2}, ${3:angle : float}, ${4:direction : Vector2}, ${5:results : RaycastHit2D[]}, ${6:distance : float = Mathf.Infinity}, ${7:layerMask : int = DefaultRaycastLayers}, ${8:minDepth : float = -Mathf.Infinity}, ${9:maxDepth : float = Mathf.Infinity});]]></content>
+	<tabTrigger><![CDATA[physics2D.BoxCastNonAlloc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(origin, size, angle, direction, results, distance, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

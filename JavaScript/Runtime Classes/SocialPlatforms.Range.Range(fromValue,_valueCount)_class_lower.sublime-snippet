@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.Range.Range(${1:fromValue : int}, ${2:valueCount : int});]]></content>
-	<tabTrigger><![CDATA[socialPlatforms.Range.Range]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(fromValue, valueCount)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.GetLatest(${1:asset as Asset})]]></content>
-	<tabTrigger><![CDATA[provider.GetLatest]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VersionControl.*(asset)]]></description>
-</snippet>

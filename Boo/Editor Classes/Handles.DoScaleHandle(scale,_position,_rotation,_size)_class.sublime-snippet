@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.DoScaleHandle(${1:scale as Vector3}, ${2:position as Vector3}, ${3:rotation as Quaternion}, ${4:size as single})]]></content>
-	<tabTrigger><![CDATA[Handles.DoScaleHandle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(scale, position, rotation, size)]]></description>
-</snippet>

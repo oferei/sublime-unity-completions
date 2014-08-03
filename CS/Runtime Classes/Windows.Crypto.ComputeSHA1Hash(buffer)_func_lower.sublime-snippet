@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Windows.Crypto.ComputeSHA1Hash(${1:byte[] buffer});]]></content>
-	<tabTrigger><![CDATA[crypto.ComputeSHA1Hash]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Windows.*(buffer)]]></description>
-</snippet>

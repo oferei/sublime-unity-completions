@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.PeriodicBadgeUpdate(${1:uri : string}, ${2:interval : float});]]></content>
-	<tabTrigger><![CDATA[WSA.Tile.PeriodicBadgeUpdate]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(uri, interval)]]></description>
-</snippet>

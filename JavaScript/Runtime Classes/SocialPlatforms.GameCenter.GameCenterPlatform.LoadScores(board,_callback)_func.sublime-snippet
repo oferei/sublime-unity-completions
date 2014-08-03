@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.LoadScores(${1:board : ILeaderboard}, ${2:callback : Action<bool>});]]></content>
-	<tabTrigger><![CDATA[GameCenter.GameCenterPlatform.LoadScores]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[SocialPlatforms.*(board, callback)]]></description>
-</snippet>

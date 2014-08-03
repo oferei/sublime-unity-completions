@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.Update(${1:string medium}, ${2:string wide}, ${3:string large}, ${4:string text});]]></content>
+	<tabTrigger><![CDATA[update]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tile.*(medium, wide, large, text)]]></description>
+</snippet>

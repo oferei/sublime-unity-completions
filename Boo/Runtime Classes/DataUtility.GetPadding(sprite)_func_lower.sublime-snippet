@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DataUtility.GetPadding(${1:sprite as Sprite})]]></content>
+	<tabTrigger><![CDATA[getPadding]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DataUtility.*(sprite)]]></description>
+</snippet>

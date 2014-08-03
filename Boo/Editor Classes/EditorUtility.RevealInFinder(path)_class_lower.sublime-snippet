@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUtility.RevealInFinder(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[editorUtility.RevealInFinder]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(path)]]></description>
-</snippet>

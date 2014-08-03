@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Path.GetFileName(${1:? : string});]]></content>
+	<tabTrigger><![CDATA[GetFileName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Path.*(?)]]></description>
+</snippet>

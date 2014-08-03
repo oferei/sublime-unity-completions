@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.GetAllCameras(${1:Camera[] cameras});]]></content>
+	<tabTrigger><![CDATA[camera.GetAllCameras]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(cameras)]]></description>
+</snippet>

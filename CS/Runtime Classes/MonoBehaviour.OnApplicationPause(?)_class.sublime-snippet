@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnApplicationPause(${1:bool ?});]]></content>
+	<tabTrigger><![CDATA[MonoBehaviour.OnApplicationPause]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(?)]]></description>
+</snippet>

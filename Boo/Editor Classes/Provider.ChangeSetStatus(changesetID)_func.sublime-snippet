@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.ChangeSetStatus(${1:changesetID as string})]]></content>
+	<tabTrigger><![CDATA[ChangeSetStatus]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(changesetID)]]></description>
+</snippet>

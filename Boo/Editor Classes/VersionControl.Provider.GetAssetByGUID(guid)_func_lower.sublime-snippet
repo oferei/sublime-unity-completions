@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.GetAssetByGUID(${1:guid as string})]]></content>
-	<tabTrigger><![CDATA[provider.GetAssetByGUID]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VersionControl.*(guid)]]></description>
-</snippet>

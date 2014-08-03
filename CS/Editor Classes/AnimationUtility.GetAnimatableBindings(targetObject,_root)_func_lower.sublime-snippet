@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.GetAnimatableBindings(${1:GameObject targetObject}, ${2:GameObject root});]]></content>
-	<tabTrigger><![CDATA[getAnimatableBindings]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimationUtility.*(targetObject, root)]]></description>
-</snippet>

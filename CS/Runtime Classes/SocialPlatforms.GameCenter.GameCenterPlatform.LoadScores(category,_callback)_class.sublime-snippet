@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.LoadScores(${1:string category}, ${2:Action<IScore[]> callback});]]></content>
-	<tabTrigger><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.LoadScores]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(category, callback)]]></description>
-</snippet>

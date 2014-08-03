@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HeaderAttribute(${1:string header});]]></content>
+	<tabTrigger><![CDATA[headerAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(header)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SparseTexture.UpdateTile(${1:int tileX}, ${2:int tileY}, ${3:int miplevel}, ${4:Color32[] data});]]></content>
+	<tabTrigger><![CDATA[UpdateTile]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SparseTexture.*(tileX, tileY, miplevel, data)]]></description>
+</snippet>

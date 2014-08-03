@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Submit(${1:changeset as ChangeSet}, ${2:list as AssetList}, ${3:description as string}, ${4:saveOnly as bool})]]></content>
+	<tabTrigger><![CDATA[submit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(changeset, list, description, saveOnly)]]></description>
+</snippet>

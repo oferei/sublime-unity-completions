@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.AddRelativeForce(${1:relativeForce as Vector2}, ${2:mode as ForceMode2D = ForceMode2D.Force})]]></content>
+	<tabTrigger><![CDATA[Rigidbody2D.AddRelativeForce]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(relativeForce, mode)]]></description>
+</snippet>

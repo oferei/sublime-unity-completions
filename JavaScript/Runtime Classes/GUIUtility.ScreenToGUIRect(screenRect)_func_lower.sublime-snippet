@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUIUtility.ScreenToGUIRect(${1:screenRect : Rect});]]></content>
-	<tabTrigger><![CDATA[screenToGUIRect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GUIUtility.*(screenRect)]]></description>
-</snippet>

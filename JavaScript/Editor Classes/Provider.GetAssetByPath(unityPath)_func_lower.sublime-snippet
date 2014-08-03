@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.GetAssetByPath(${1:unityPath : string});]]></content>
+	<tabTrigger><![CDATA[getAssetByPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(unityPath)]]></description>
+</snippet>

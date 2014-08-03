@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.AssetList.FilterCount(${1:includeFolder : bool}, ${2:params states : States[]});]]></content>
-	<tabTrigger><![CDATA[assetList.FilterCount]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(includeFolder, params states)]]></description>
-</snippet>

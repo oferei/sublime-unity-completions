@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectPreview.OnInteractivePreviewGUI(${1:r as Rect}, ${2:background as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[objectPreview.OnInteractivePreviewGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(r, background)]]></description>
+</snippet>

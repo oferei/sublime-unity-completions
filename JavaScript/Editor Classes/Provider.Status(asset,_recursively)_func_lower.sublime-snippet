@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Status(${1:asset : string}, ${2:recursively : bool});]]></content>
+	<tabTrigger><![CDATA[status]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Provider.*(asset, recursively)]]></description>
+</snippet>

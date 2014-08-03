@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Sprites.IPackerPolicy.OnGroupAtlases(${1:target as BuildTarget}, ${2:job as PackerJob}, ${3:textureImporters as (TextureImporter)})]]></content>
-	<tabTrigger><![CDATA[iPackerPolicy.OnGroupAtlases]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Sprites.*(target, job, textureImporters)]]></description>
-</snippet>

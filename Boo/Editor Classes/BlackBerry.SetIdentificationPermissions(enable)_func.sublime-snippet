@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlackBerry.SetIdentificationPermissions(${1:enable as bool})]]></content>
+	<tabTrigger><![CDATA[SetIdentificationPermissions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BlackBerry.*(enable)]]></description>
+</snippet>

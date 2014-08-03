@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Status(${1:asset : string});]]></content>
-	<tabTrigger><![CDATA[provider.Status]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VersionControl.*(asset)]]></description>
-</snippet>

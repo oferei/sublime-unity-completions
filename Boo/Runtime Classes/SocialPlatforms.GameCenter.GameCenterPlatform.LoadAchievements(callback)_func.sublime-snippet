@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.LoadAchievements(${1:callback as Action<IAchievement[]>})]]></content>
-	<tabTrigger><![CDATA[GameCenter.GameCenterPlatform.LoadAchievements]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[SocialPlatforms.*(callback)]]></description>
-</snippet>

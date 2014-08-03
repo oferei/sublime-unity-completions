@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Task.SetCompletionAction(${1:CompletionAction action});]]></content>
-	<tabTrigger><![CDATA[VersionControl.Task.SetCompletionAction]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(action)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.ResetAllAchievements(${1:callback : Action<bool>});]]></content>
-	<tabTrigger><![CDATA[GameCenter.GameCenterPlatform.ResetAllAchievements]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[SocialPlatforms.*(callback)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.IsComponentAddedToPrefabInstance(${1:source as Object})]]></content>
-	<tabTrigger><![CDATA[prefabUtility.IsComponentAddedToPrefabInstance]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(source)]]></description>
-</snippet>

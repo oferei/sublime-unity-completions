@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.RevertIsValid(${1:asset as Asset}, ${2:mode as RevertMode})]]></content>
+	<tabTrigger><![CDATA[provider.RevertIsValid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(asset, mode)]]></description>
+</snippet>

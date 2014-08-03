@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameCenterPlatform.ResetAllAchievements(${1:callback as Action<bool>})]]></content>
+	<tabTrigger><![CDATA[resetAllAchievements]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GameCenterPlatform.*(callback)]]></description>
+</snippet>

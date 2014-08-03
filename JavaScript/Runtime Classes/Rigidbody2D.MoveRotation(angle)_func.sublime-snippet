@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.MoveRotation(${1:angle : float});]]></content>
+	<tabTrigger><![CDATA[MoveRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Rigidbody2D.*(angle)]]></description>
+</snippet>

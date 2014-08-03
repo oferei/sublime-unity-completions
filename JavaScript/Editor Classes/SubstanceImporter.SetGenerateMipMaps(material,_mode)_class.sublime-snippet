@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.SetGenerateMipMaps(${1:material : ProceduralMaterial}, ${2:mode : bool});]]></content>
+	<tabTrigger><![CDATA[SubstanceImporter.SetGenerateMipMaps]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(material, mode)]]></description>
+</snippet>

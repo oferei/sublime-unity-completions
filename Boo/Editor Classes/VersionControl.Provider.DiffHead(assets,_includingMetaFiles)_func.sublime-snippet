@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.DiffHead(${1:assets as AssetList}, ${2:includingMetaFiles as bool})]]></content>
-	<tabTrigger><![CDATA[Provider.DiffHead]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VersionControl.*(assets, includingMetaFiles)]]></description>
-</snippet>

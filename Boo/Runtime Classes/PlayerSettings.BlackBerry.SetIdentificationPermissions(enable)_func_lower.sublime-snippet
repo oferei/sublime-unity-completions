@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.BlackBerry.SetIdentificationPermissions(${1:enable as bool})]]></content>
-	<tabTrigger><![CDATA[blackBerry.SetIdentificationPermissions]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PlayerSettings.*(enable)]]></description>
-</snippet>

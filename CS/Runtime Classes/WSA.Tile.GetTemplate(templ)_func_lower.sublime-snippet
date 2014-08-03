@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.GetTemplate(${1:TileTemplate templ});]]></content>
-	<tabTrigger><![CDATA[tile.GetTemplate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[WSA.*(templ)]]></description>
-</snippet>

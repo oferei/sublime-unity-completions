@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator.GetCharacters(${1:UICharInfo[] characters});]]></content>
+	<tabTrigger><![CDATA[getCharacters]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TextGenerator.*(characters)]]></description>
+</snippet>

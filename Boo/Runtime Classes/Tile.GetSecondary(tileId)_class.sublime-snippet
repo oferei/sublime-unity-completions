@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tile.GetSecondary(${1:tileId as string})]]></content>
+	<tabTrigger><![CDATA[Tile.GetSecondary]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tileId)]]></description>
+</snippet>

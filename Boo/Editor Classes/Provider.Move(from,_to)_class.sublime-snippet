@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.Move(${1:from as string}, ${2:to as string})]]></content>
+	<tabTrigger><![CDATA[Provider.Move]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(from, to)]]></description>
+</snippet>

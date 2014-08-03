@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObject.AddComponent[of ${1:T}]()]]></content>
+	<tabTrigger><![CDATA[addComponent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GameObject.*[of T]()]]></description>
+</snippet>

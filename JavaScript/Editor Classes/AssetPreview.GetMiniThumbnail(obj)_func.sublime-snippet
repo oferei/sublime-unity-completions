@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPreview.GetMiniThumbnail(${1:obj : Object});]]></content>
+	<tabTrigger><![CDATA[GetMiniThumbnail]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AssetPreview.*(obj)]]></description>
+</snippet>

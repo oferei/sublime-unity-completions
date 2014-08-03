@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.DiffHead(${1:assets as AssetList}, ${2:includingMetaFiles as bool})]]></content>
+	<tabTrigger><![CDATA[DiffHead]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(assets, includingMetaFiles)]]></description>
+</snippet>

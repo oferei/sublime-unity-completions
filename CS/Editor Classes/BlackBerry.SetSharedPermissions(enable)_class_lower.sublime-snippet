@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlackBerry.SetSharedPermissions(${1:bool enable});]]></content>
+	<tabTrigger><![CDATA[blackBerry.SetSharedPermissions]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(enable)]]></description>
+</snippet>

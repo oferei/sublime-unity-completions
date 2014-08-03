@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody2D.AddTorque(${1:torque as single})]]></content>
-	<tabTrigger><![CDATA[AddTorque]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Rigidbody2D.*(torque)]]></description>
-</snippet>

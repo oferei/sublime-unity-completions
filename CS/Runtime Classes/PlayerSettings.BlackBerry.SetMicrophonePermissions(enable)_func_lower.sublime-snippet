@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.BlackBerry.SetMicrophonePermissions(${1:bool enable});]]></content>
-	<tabTrigger><![CDATA[blackBerry.SetMicrophonePermissions]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[PlayerSettings.*(enable)]]></description>
-</snippet>

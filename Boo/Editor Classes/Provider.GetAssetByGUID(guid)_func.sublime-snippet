@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.GetAssetByGUID(${1:guid as string})]]></content>
+	<tabTrigger><![CDATA[GetAssetByGUID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(guid)]]></description>
+</snippet>

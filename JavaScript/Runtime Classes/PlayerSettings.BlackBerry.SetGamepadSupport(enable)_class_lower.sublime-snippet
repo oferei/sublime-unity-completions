@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.BlackBerry.SetGamepadSupport(${1:enable : bool});]]></content>
-	<tabTrigger><![CDATA[playerSettings.BlackBerry.SetGamepadSupport]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(enable)]]></description>
-</snippet>

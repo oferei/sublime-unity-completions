@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.ILocalUser.Authenticate(${1:Action<bool> callback});]]></content>
-	<tabTrigger><![CDATA[iLocalUser.Authenticate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[SocialPlatforms.*(callback)]]></description>
-</snippet>

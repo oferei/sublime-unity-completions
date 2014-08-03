@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Caching.ResetNoBackupFlag(${1:url : string}, ${2:version : int});]]></content>
-	<tabTrigger><![CDATA[ResetNoBackupFlag]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Caching.*(url, version)]]></description>
-</snippet>

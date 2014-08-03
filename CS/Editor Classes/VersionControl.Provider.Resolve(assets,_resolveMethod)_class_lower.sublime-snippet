@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Resolve(${1:AssetList assets}, ${2:ResolveMethod resolveMethod});]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.Resolve]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(assets, resolveMethod)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.Provider.Merge(${1:assets : AssetList}, ${2:method : MergeMethod});]]></content>
-	<tabTrigger><![CDATA[versionControl.Provider.Merge]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(assets, method)]]></description>
-</snippet>

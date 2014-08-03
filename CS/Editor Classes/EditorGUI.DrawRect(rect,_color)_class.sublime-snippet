@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUI.DrawRect(${1:Rect rect}, ${2:Color color});]]></content>
-	<tabTrigger><![CDATA[EditorGUI.DrawRect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(rect, color)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture2D.LoadRawTextureData(${1:byte[] data});]]></content>
-	<tabTrigger><![CDATA[texture2D.LoadRawTextureData]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(data)]]></description>
-</snippet>

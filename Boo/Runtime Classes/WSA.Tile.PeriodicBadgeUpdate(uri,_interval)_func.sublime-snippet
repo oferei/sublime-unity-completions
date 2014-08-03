@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WSA.Tile.PeriodicBadgeUpdate(${1:uri as string}, ${2:interval as single})]]></content>
-	<tabTrigger><![CDATA[Tile.PeriodicBadgeUpdate]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[WSA.*(uri, interval)]]></description>
-</snippet>

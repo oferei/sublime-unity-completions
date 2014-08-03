@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VersionControl.AssetList.Filter(${1:bool includeFolder}, ${2:States[] params states});]]></content>
-	<tabTrigger><![CDATA[assetList.Filter]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VersionControl.*(includeFolder, params states)]]></description>
-</snippet>

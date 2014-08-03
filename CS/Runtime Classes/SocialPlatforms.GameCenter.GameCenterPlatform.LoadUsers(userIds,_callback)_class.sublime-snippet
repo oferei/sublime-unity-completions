@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.LoadUsers(${1:string[] userIds}, ${2:Action<IUserProfile[]> callback});]]></content>
-	<tabTrigger><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.LoadUsers]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(userIds, callback)]]></description>
-</snippet>

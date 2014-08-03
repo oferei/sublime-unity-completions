@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameObjectUtility.DeoptimizeTransformHierarchy(${1:go : GameObject});]]></content>
-	<tabTrigger><![CDATA[GameObjectUtility.DeoptimizeTransformHierarchy]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(go)]]></description>
-</snippet>

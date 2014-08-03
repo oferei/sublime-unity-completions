@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SocialPlatforms.GameCenter.GameCenterPlatform.ReportProgress(${1:string id}, ${2:double progress}, ${3:Action<bool> callback});]]></content>
-	<tabTrigger><![CDATA[socialPlatforms.GameCenter.GameCenterPlatform.ReportProgress]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(id, progress, callback)]]></description>
-</snippet>
