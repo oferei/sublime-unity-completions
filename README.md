@@ -91,7 +91,7 @@ Simply delete the class name manually.
 
 ## Status
 
-Up to date with Unity version 4.3.1.
+Up to date with Unity version 4.5.2.
 
 ## Generation
 
@@ -104,5 +104,5 @@ The data is based on the [Unity Scripting Reference](http://docs.unity3d.com/Doc
 Ahoy!
 
 If you're developing in Boo, know that this package recognizes .boo files,
-but I recommend installing [Shammah's Boo package](https://github.com/Shammah/boo-sublime)
+but I recommend installing the [Boo package](https://github.com/Shammah/boo-sublime)
 as well if you're into syntax highlighting.
