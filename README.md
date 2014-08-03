@@ -24,6 +24,7 @@ If that happens you'd see the animation running at the bottom indefinitely:
 ![Installing](http://oferei.github.io/sublime-unity-completions/installing-package.gif)
 
 This seems to be a bug in Package Control. Try the following:
+
 1. Restart Sublime Text and re-install
 2. Check your user settings (Preferences.sublime-settings) and see if the package is listed under "ignored_packages"
 
