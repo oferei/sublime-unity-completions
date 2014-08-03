@@ -4,6 +4,11 @@
 This package provides auto-completions for [Unity](http://www.unity3d.com/) classes, variables and functions.
 It works with all Unity-supported languages: JavaScript, C# and Boo.
 
+There is a <a href="https://github.com/oferei/sublime-unity-completions-light">lighter version</a> of this package.
+The light package shows a less nice pop-up menu for auto-completions,
+but on the other hand does not add any time to Sublime Text's loading time.
+If you open and close Sublime Text quite frequently, I recommend using the light version.
+
 ## Installation
 
 ### Package Control
@@ -30,6 +35,7 @@ You are welcome to try the following solutions:
 1. Wait a little longer - it may take a few (3-5) minutes!
 2. Restart Sublime Text and try again, this time standing on one foot
 3. Check your user settings (Preferences.sublime-settings) and make sure the package is not listed under "ignored_packages"
+4. Consider using <a href="https://github.com/oferei/sublime-unity-completions-light">Unity Completions Light</a>
 
 ### Manual
 
