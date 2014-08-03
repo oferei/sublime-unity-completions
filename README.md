@@ -23,10 +23,13 @@ If that happens you'd see the animation running at the bottom indefinitely:
 
 ![Installing](http://oferei.github.io/sublime-unity-completions/installing-package.gif)
 
-This seems to be a bug in Package Control. Try the following:
+This seems to be a bug in Package Control.
+Im not sure what causes it - perhaps the relatively large size of this package.
+You are welcome to try the following solutions:
 
-1. Restart Sublime Text and try again
-2. Check your user settings (Preferences.sublime-settings) and ensure the package is not listed under "ignored_packages"
+1. Wait a little longer - it may take a few minutes! (I clocked it once over 3 minutes)
+2. Restart Sublime Text and try again, this time standing on one foot
+3. Check your user settings (Preferences.sublime-settings) and make sure the package is not listed under "ignored_packages"
 
 ### Manual
 
