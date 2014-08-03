@@ -5,9 +5,9 @@ This package provides auto-completions for [Unity](http://www.unity3d.com/) clas
 It works with all Unity-supported languages: JavaScript, C# and Boo.
 
 There is a <a href="https://github.com/oferei/sublime-unity-completions-light">lighter version</a> of this package.
-The light package shows a less nice pop-up menu for auto-completions,
-but on the other hand does not add any time to Sublime Text's loading time.
-If you open and close Sublime Text quite frequently, I recommend using the light version.
+The auto-completions pop-up menu shown by the light package is not as nice,
+but on the other hand the light package does not add any delay to Sublime Text's loading time.
+If you open and close Sublime Text frequently, I recommend using the light version.
 
 ## Installation
 
