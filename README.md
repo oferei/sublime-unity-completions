@@ -29,7 +29,7 @@ If that happens you'd see the animation running at the bottom indefinitely:
 ![Installing](http://oferei.github.io/sublime-unity-completions/installing-package.gif)
 
 This seems to be a bug in Package Control.
-Im not sure what causes it - perhaps the relatively large size of this package.
+I'm not sure what causes it - perhaps the relatively large size of this package.
 You are welcome to try the following solutions:
 
 1. Wait a little longer - it may take a few (3-5) minutes!
