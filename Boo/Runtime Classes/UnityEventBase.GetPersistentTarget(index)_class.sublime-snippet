@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventBase.GetPersistentTarget(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[UnityEventBase.GetPersistentTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

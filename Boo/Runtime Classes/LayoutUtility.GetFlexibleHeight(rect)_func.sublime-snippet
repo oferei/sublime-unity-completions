@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutUtility.GetFlexibleHeight(${1:rect as RectTransform})]]></content>
+	<tabTrigger><![CDATA[GetFlexibleHeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LayoutUtility.*(rect)]]></description>
+</snippet>

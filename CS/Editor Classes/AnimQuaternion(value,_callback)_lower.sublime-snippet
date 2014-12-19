@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimQuaternion(${1:Quaternion value}, ${2:UnityAction callback});]]></content>
+	<tabTrigger><![CDATA[animQuaternion]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(value, callback)]]></description>
+</snippet>

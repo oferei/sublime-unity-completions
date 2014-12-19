@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Text.GetTextAnchorPivot(${1:anchor as TextAnchor})]]></content>
+	<tabTrigger><![CDATA[GetTextAnchorPivot]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Text.*(anchor)]]></description>
+</snippet>

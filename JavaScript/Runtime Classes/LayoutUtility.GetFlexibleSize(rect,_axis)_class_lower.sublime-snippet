@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutUtility.GetFlexibleSize(${1:rect : RectTransform}, ${2:axis : int});]]></content>
+	<tabTrigger><![CDATA[layoutUtility.GetFlexibleSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rect, axis)]]></description>
+</snippet>

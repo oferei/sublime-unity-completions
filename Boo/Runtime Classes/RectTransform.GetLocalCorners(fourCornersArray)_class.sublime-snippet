@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransform.GetLocalCorners(${1:fourCornersArray as (Vector3)})]]></content>
+	<tabTrigger><![CDATA[RectTransform.GetLocalCorners]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fourCornersArray)]]></description>
+</snippet>

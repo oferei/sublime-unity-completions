@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInputModule.FindCommonRoot(${1:GameObject g1}, ${2:GameObject g2});]]></content>
+	<tabTrigger><![CDATA[findCommonRoot]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[BaseInputModule.*(g1, g2)]]></description>
+</snippet>

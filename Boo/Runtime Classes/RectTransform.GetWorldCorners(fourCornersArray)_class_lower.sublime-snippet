@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransform.GetWorldCorners(${1:fourCornersArray as (Vector3)})]]></content>
+	<tabTrigger><![CDATA[rectTransform.GetWorldCorners]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fourCornersArray)]]></description>
+</snippet>

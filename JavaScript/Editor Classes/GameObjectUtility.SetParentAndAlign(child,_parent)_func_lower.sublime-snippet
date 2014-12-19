@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.SetParentAndAlign(${1:child : GameObject}, ${2:parent : GameObject});]]></content>
+	<tabTrigger><![CDATA[setParentAndAlign]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GameObjectUtility.*(child, parent)]]></description>
+</snippet>

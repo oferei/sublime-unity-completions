@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.SetMaterial(${1:material as Material}, ${2:texture as Texture})]]></content>
+	<tabTrigger><![CDATA[canvasRenderer.SetMaterial]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(material, texture)]]></description>
+</snippet>

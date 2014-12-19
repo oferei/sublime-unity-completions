@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selectable.OnDeselect(${1:BaseEventData eventData});]]></content>
+	<tabTrigger><![CDATA[selectable.OnDeselect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

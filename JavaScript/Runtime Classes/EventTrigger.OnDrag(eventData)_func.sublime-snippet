@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventTrigger.OnDrag(${1:eventData : PointerEventData});]]></content>
+	<tabTrigger><![CDATA[OnDrag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EventTrigger.*(eventData)]]></description>
+</snippet>

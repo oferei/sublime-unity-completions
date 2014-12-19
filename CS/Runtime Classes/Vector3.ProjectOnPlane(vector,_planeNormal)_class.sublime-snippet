@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.ProjectOnPlane(${1:Vector3 vector}, ${2:Vector3 planeNormal});]]></content>
+	<tabTrigger><![CDATA[Vector3.ProjectOnPlane]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(vector, planeNormal)]]></description>
+</snippet>

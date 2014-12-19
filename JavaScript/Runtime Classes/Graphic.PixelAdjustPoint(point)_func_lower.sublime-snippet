@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphic.PixelAdjustPoint(${1:point : Vector2});]]></content>
+	<tabTrigger><![CDATA[pixelAdjustPoint]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphic.*(point)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventBase.GetPersistentMethodName(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[getPersistentMethodName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UnityEventBase.*(index)]]></description>
+</snippet>

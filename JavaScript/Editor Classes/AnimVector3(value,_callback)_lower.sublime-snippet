@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimVector3(${1:value : Vector3}, ${2:callback : UnityAction});]]></content>
+	<tabTrigger><![CDATA[animVector3]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value, callback)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInputModule.IsPointerOverGameObject(${1:pointerId as int})]]></content>
+	<tabTrigger><![CDATA[IsPointerOverGameObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BaseInputModule.*(pointerId)]]></description>
+</snippet>

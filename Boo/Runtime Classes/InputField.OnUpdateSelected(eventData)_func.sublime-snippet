@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.OnUpdateSelected(${1:eventData as BaseEventData})]]></content>
+	<tabTrigger><![CDATA[OnUpdateSelected]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[InputField.*(eventData)]]></description>
+</snippet>

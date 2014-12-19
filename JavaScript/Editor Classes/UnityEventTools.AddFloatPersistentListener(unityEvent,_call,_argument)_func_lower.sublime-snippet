@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventTools.AddFloatPersistentListener(${1:unityEvent : UnityEventBase}, ${2:call : UnityAction<float>}, ${3:argument : float});]]></content>
+	<tabTrigger><![CDATA[addFloatPersistentListener]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UnityEventTools.*(unityEvent, call, argument)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasGroup.IsRaycastLocationValid(${1:Vector2 sp}, ${2:Camera eventCamera});]]></content>
+	<tabTrigger><![CDATA[canvasGroup.IsRaycastLocationValid]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(sp, eventCamera)]]></description>
+</snippet>

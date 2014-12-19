@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FormerlySerializedAsAttribute(${1:oldName : string});]]></content>
+	<tabTrigger><![CDATA[FormerlySerializedAsAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(oldName)]]></description>
+</snippet>

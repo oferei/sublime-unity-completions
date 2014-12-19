@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Button.OnPointerClick(${1:eventData as PointerEventData})]]></content>
+	<tabTrigger><![CDATA[button.OnPointerClick]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

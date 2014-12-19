@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransformUtility.FlipLayoutAxes(${1:rect : RectTransform}, ${2:keepPositioning : bool}, ${3:recursive : bool});]]></content>
+	<tabTrigger><![CDATA[RectTransformUtility.FlipLayoutAxes]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rect, keepPositioning, recursive)]]></description>
+</snippet>

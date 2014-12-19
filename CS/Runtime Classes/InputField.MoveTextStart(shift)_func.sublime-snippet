@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.MoveTextStart(${1:bool shift});]]></content>
+	<tabTrigger><![CDATA[MoveTextStart]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[InputField.*(shift)]]></description>
+</snippet>

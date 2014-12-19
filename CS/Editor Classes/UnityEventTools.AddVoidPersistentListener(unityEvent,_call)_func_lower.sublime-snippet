@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventTools.AddVoidPersistentListener(${1:UnityEventBase unityEvent}, ${2:UnityAction call});]]></content>
+	<tabTrigger><![CDATA[addVoidPersistentListener]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityEventTools.*(unityEvent, call)]]></description>
+</snippet>

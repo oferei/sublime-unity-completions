@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selectable.FindSelectable(${1:dir : Vector3});]]></content>
+	<tabTrigger><![CDATA[selectable.FindSelectable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(dir)]]></description>
+</snippet>

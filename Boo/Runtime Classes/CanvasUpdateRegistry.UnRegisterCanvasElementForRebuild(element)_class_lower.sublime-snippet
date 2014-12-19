@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasUpdateRegistry.UnRegisterCanvasElementForRebuild(${1:element as ICanvasElement})]]></content>
+	<tabTrigger><![CDATA[canvasUpdateRegistry.UnRegisterCanvasElementForRebuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(element)]]></description>
+</snippet>

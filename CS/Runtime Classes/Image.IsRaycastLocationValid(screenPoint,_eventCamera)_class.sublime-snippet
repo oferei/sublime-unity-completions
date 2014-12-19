@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Image.IsRaycastLocationValid(${1:Vector2 screenPoint}, ${2:Camera eventCamera});]]></content>
+	<tabTrigger><![CDATA[Image.IsRaycastLocationValid]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(screenPoint, eventCamera)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scrollbar.OnBeginDrag(${1:eventData : PointerEventData});]]></content>
+	<tabTrigger><![CDATA[OnBeginDrag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Scrollbar.*(eventData)]]></description>
+</snippet>

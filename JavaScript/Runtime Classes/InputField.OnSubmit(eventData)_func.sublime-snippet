@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.OnSubmit(${1:eventData : BaseEventData});]]></content>
+	<tabTrigger><![CDATA[OnSubmit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputField.*(eventData)]]></description>
+</snippet>

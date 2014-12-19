@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransform.SetInsetAndSizeFromParentEdge(${1:edge : Edge}, ${2:inset : float}, ${3:size : float});]]></content>
+	<tabTrigger><![CDATA[RectTransform.SetInsetAndSizeFromParentEdge]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(edge, inset, size)]]></description>
+</snippet>

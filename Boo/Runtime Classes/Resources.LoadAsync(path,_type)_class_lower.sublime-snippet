@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Resources.LoadAsync(${1:path as string}, ${2:type as Type})]]></content>
+	<tabTrigger><![CDATA[resources.LoadAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path, type)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.TransformVector(${1:vector : Vector3});]]></content>
+	<tabTrigger><![CDATA[transformVector]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(vector)]]></description>
+</snippet>

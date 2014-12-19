@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExecuteEvents.ExecuteHierarchy(${1:GameObject root}, ${2:BaseEventData eventData}, ${3:EventFunction<T> callbackFunction});]]></content>
+	<tabTrigger><![CDATA[executeHierarchy]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ExecuteEvents.*(root, eventData, callbackFunction)]]></description>
+</snippet>

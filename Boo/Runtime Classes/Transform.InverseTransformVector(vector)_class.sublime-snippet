@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.InverseTransformVector(${1:vector as Vector3})]]></content>
+	<tabTrigger><![CDATA[Transform.InverseTransformVector]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(vector)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator(${1:initialCapacity : int});]]></content>
+	<tabTrigger><![CDATA[textGenerator]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(initialCapacity)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutUtility.GetPreferredWidth(${1:rect : RectTransform});]]></content>
+	<tabTrigger><![CDATA[GetPreferredWidth]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LayoutUtility.*(rect)]]></description>
+</snippet>

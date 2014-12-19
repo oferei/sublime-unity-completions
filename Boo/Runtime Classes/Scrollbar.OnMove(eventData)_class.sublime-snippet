@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scrollbar.OnMove(${1:eventData as AxisEventData})]]></content>
+	<tabTrigger><![CDATA[Scrollbar.OnMove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

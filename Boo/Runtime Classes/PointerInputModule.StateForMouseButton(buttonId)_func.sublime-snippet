@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PointerInputModule.StateForMouseButton(${1:buttonId as int})]]></content>
+	<tabTrigger><![CDATA[StateForMouseButton]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PointerInputModule.*(buttonId)]]></description>
+</snippet>

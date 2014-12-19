@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TextGenerator.GetVerts(${1:UIVertex[] verts});]]></content>
-	<tabTrigger><![CDATA[getVerts]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[TextGenerator.*(verts)]]></description>
-</snippet>

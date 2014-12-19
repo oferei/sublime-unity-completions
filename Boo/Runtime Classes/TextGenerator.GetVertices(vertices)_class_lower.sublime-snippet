@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator.GetVertices(${1:vertices as List<UIVertex>})]]></content>
+	<tabTrigger><![CDATA[textGenerator.GetVertices]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(vertices)]]></description>
+</snippet>

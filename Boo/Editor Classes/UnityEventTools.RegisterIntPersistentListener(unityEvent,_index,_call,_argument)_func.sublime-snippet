@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventTools.RegisterIntPersistentListener(${1:unityEvent as UnityEventBase}, ${2:index as int}, ${3:call as UnityAction<int>}, ${4:argument as int})]]></content>
+	<tabTrigger><![CDATA[RegisterIntPersistentListener]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UnityEventTools.*(unityEvent, index, call, argument)]]></description>
+</snippet>

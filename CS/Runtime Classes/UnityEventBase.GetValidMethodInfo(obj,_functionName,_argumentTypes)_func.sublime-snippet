@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventBase.GetValidMethodInfo(${1:object obj}, ${2:string functionName}, ${3:Type[] argumentTypes});]]></content>
+	<tabTrigger><![CDATA[GetValidMethodInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityEventBase.*(obj, functionName, argumentTypes)]]></description>
+</snippet>

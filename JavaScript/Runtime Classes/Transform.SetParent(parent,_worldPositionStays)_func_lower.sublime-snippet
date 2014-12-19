@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.SetParent(${1:parent : Transform}, ${2:worldPositionStays : bool});]]></content>
+	<tabTrigger><![CDATA[setParent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(parent, worldPositionStays)]]></description>
+</snippet>

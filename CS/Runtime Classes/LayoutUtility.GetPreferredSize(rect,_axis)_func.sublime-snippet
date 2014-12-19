@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutUtility.GetPreferredSize(${1:RectTransform rect}, ${2:int axis});]]></content>
+	<tabTrigger><![CDATA[GetPreferredSize]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[LayoutUtility.*(rect, axis)]]></description>
+</snippet>

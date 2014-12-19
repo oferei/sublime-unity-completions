@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExecuteEvents.GetEventHandler(${1:root : GameObject});]]></content>
+	<tabTrigger><![CDATA[getEventHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ExecuteEvents.*(root)]]></description>
+</snippet>

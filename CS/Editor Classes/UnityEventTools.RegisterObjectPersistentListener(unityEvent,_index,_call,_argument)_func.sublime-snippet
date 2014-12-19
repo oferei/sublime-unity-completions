@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventTools.RegisterObjectPersistentListener(${1:UnityEventBase unityEvent}, ${2:int index}, ${3:UnityAction<T> call}, ${4:T argument});]]></content>
+	<tabTrigger><![CDATA[RegisterObjectPersistentListener]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityEventTools.*(unityEvent, index, call, argument)]]></description>
+</snippet>

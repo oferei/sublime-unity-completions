@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator.GetPreferredHeight(${1:str : string}, ${2:settings : TextGenerationSettings});]]></content>
+	<tabTrigger><![CDATA[textGenerator.GetPreferredHeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(str, settings)]]></description>
+</snippet>

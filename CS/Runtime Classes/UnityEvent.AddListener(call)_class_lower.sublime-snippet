@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEvent.AddListener(${1:UnityAction call});]]></content>
+	<tabTrigger><![CDATA[unityEvent.AddListener]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(call)]]></description>
+</snippet>

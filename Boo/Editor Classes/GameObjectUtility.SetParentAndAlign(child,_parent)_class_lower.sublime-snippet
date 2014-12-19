@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.SetParentAndAlign(${1:child as GameObject}, ${2:parent as GameObject})]]></content>
+	<tabTrigger><![CDATA[gameObjectUtility.SetParentAndAlign]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(child, parent)]]></description>
+</snippet>

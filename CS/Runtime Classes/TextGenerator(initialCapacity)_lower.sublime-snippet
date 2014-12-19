@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator(${1:int initialCapacity});]]></content>
+	<tabTrigger><![CDATA[textGenerator]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(initialCapacity)]]></description>
+</snippet>

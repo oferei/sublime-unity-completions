@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutUtility.GetLayoutProperty(${1:RectTransform rect}, ${2:Func<ILayoutElement,float> property}, ${3:float defaultValue}, ${4:ILayoutElement source});]]></content>
+	<tabTrigger><![CDATA[GetLayoutProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[LayoutUtility.*(rect, property, defaultValue, source)]]></description>
+</snippet>

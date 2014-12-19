@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransformUtility.PixelAdjustRect(${1:rectTransform as RectTransform}, ${2:canvas as Canvas})]]></content>
+	<tabTrigger><![CDATA[PixelAdjustRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RectTransformUtility.*(rectTransform, canvas)]]></description>
+</snippet>

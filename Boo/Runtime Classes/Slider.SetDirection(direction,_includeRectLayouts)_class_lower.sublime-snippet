@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Slider.SetDirection(${1:direction as Direction}, ${2:includeRectLayouts as bool})]]></content>
+	<tabTrigger><![CDATA[slider.SetDirection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(direction, includeRectLayouts)]]></description>
+</snippet>

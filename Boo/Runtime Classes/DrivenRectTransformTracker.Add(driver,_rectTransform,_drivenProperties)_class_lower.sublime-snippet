@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrivenRectTransformTracker.Add(${1:driver as Object}, ${2:rectTransform as RectTransform}, ${3:drivenProperties as DrivenTransformProperties})]]></content>
+	<tabTrigger><![CDATA[drivenRectTransformTracker.Add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(driver, rectTransform, drivenProperties)]]></description>
+</snippet>

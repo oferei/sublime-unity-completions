@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventTrigger.OnDrag(${1:eventData as PointerEventData})]]></content>
+	<tabTrigger><![CDATA[eventTrigger.OnDrag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

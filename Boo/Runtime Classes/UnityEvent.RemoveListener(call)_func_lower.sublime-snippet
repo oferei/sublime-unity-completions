@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEvent.RemoveListener(${1:call as UnityAction})]]></content>
+	<tabTrigger><![CDATA[removeListener]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UnityEvent.*(call)]]></description>
+</snippet>

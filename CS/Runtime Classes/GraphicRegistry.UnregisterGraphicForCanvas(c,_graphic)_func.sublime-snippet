@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas(${1:Canvas c}, ${2:Graphic graphic});]]></content>
+	<tabTrigger><![CDATA[UnregisterGraphicForCanvas]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GraphicRegistry.*(c, graphic)]]></description>
+</snippet>

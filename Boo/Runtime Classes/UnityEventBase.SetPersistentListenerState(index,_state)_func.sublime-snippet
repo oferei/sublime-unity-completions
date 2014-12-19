@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventBase.SetPersistentListenerState(${1:index as int}, ${2:state as UnityEventCallState})]]></content>
+	<tabTrigger><![CDATA[SetPersistentListenerState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UnityEventBase.*(index, state)]]></description>
+</snippet>

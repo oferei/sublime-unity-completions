@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventTools.AddPersistentListener(${1:unityEvent as UnityEventBase})]]></content>
+	<tabTrigger><![CDATA[addPersistentListener]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UnityEventTools.*(unityEvent)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Text.GetGenerationSettings(${1:extents : Vector2});]]></content>
+	<tabTrigger><![CDATA[GetGenerationSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Text.*(extents)]]></description>
+</snippet>

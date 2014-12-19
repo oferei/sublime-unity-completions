@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scrollbar.Rebuild(${1:executing : CanvasUpdate});]]></content>
+	<tabTrigger><![CDATA[Scrollbar.Rebuild]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(executing)]]></description>
+</snippet>

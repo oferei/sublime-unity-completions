@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInputModule.FindFirstRaycast(${1:candidates as List<RaycastResult>})]]></content>
+	<tabTrigger><![CDATA[baseInputModule.FindFirstRaycast]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(candidates)]]></description>
+</snippet>

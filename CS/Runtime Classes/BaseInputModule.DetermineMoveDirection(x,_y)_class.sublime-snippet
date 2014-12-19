@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInputModule.DetermineMoveDirection(${1:float x}, ${2:float y});]]></content>
+	<tabTrigger><![CDATA[BaseInputModule.DetermineMoveDirection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(x, y)]]></description>
+</snippet>

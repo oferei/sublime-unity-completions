@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutUtility.GetFlexibleWidth(${1:rect as RectTransform})]]></content>
+	<tabTrigger><![CDATA[GetFlexibleWidth]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LayoutUtility.*(rect)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransformUtility.PixelAdjustPoint(${1:Vector2 point}, ${2:Transform elementTransform}, ${3:Canvas canvas});]]></content>
+	<tabTrigger><![CDATA[RectTransformUtility.PixelAdjustPoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point, elementTransform, canvas)]]></description>
+</snippet>

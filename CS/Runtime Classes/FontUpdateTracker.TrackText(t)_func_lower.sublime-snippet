@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FontUpdateTracker.TrackText(${1:Text t});]]></content>
+	<tabTrigger><![CDATA[trackText]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[FontUpdateTracker.*(t)]]></description>
+</snippet>

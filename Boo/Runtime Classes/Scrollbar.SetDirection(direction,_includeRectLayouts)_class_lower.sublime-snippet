@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scrollbar.SetDirection(${1:direction as Direction}, ${2:includeRectLayouts as bool})]]></content>
+	<tabTrigger><![CDATA[scrollbar.SetDirection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(direction, includeRectLayouts)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphic.CrossFadeAlpha(${1:alpha as single}, ${2:duration as single}, ${3:ignoreTimeScale as bool})]]></content>
+	<tabTrigger><![CDATA[graphic.CrossFadeAlpha]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(alpha, duration, ignoreTimeScale)]]></description>
+</snippet>

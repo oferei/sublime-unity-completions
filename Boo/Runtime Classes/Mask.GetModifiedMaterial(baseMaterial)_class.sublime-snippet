@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mask.GetModifiedMaterial(${1:baseMaterial as Material})]]></content>
+	<tabTrigger><![CDATA[Mask.GetModifiedMaterial]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(baseMaterial)]]></description>
+</snippet>

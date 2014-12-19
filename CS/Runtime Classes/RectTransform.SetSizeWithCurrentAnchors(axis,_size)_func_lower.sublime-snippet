@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:Axis axis}, ${2:float size});]]></content>
+	<tabTrigger><![CDATA[setSizeWithCurrentAnchors]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RectTransform.*(axis, size)]]></description>
+</snippet>

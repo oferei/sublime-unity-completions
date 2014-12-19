@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventTools.AddStringPersistentListener(${1:unityEvent : UnityEventBase}, ${2:call : UnityAction<string>}, ${3:argument : string});]]></content>
+	<tabTrigger><![CDATA[unityEventTools.AddStringPersistentListener]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(unityEvent, call, argument)]]></description>
+</snippet>

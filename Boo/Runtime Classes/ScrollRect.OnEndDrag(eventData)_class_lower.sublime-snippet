@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollRect.OnEndDrag(${1:eventData as PointerEventData})]]></content>
+	<tabTrigger><![CDATA[scrollRect.OnEndDrag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

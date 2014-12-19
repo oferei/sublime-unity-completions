@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator.GetVertices(${1:vertices : List<UIVertex>});]]></content>
+	<tabTrigger><![CDATA[getVertices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextGenerator.*(vertices)]]></description>
+</snippet>

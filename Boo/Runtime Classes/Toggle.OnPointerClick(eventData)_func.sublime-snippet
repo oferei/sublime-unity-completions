@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Toggle.OnPointerClick(${1:eventData as PointerEventData})]]></content>
+	<tabTrigger><![CDATA[OnPointerClick]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Toggle.*(eventData)]]></description>
+</snippet>

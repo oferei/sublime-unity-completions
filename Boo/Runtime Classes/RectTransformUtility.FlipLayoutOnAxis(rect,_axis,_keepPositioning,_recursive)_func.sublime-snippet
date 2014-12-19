@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransformUtility.FlipLayoutOnAxis(${1:rect as RectTransform}, ${2:axis as int}, ${3:keepPositioning as bool}, ${4:recursive as bool})]]></content>
+	<tabTrigger><![CDATA[FlipLayoutOnAxis]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RectTransformUtility.*(rect, axis, keepPositioning, recursive)]]></description>
+</snippet>

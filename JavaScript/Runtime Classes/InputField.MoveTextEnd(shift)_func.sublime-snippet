@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.MoveTextEnd(${1:shift : bool});]]></content>
+	<tabTrigger><![CDATA[MoveTextEnd]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputField.*(shift)]]></description>
+</snippet>

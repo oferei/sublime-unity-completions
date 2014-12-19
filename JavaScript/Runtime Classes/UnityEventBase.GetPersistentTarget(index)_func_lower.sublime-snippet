@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityEventBase.GetPersistentTarget(${1:index : int});]]></content>
+	<tabTrigger><![CDATA[getPersistentTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UnityEventBase.*(index)]]></description>
+</snippet>
