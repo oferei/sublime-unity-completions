@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HeaderAttribute(${1:string header});]]></content>
+	<content><![CDATA[HeaderAttribute(${1:string header})]]></content>
 	<tabTrigger><![CDATA[HeaderAttribute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(header)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ShaderUtil.GetRangeLimits(${1:s : Shader}, ${2:propertyIdx : int}, ${3:defminmax : int});]]></content>
+	<content><![CDATA[ShaderUtil.GetRangeLimits(${1:s : Shader}, ${2:propertyIdx : int}, ${3:defminmax : int})]]></content>
 	<tabTrigger><![CDATA[getRangeLimits]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ShaderUtil.*(s, propertyIdx, defminmax)]]></description>

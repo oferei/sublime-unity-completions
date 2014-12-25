@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawWireCube(${1:center : Vector3}, ${2:size : Vector3});]]></content>
+	<content><![CDATA[Gizmos.DrawWireCube(${1:center : Vector3}, ${2:size : Vector3})]]></content>
 	<tabTrigger><![CDATA[Gizmos.DrawWireCube]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(center, size)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.MultiFloatField(${1:position : Rect}, ${2:subLabels : GUIContent[]}, ${3:values : float[]});]]></content>
+	<content><![CDATA[EditorGUI.MultiFloatField(${1:position : Rect}, ${2:subLabels : GUIContent[]}, ${3:values : float[]})]]></content>
 	<tabTrigger><![CDATA[multiFloatField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUI.*(position, subLabels, values)]]></description>

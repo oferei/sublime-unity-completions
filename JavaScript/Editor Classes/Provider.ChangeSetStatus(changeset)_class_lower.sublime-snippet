@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.ChangeSetStatus(${1:changeset : ChangeSet});]]></content>
+	<content><![CDATA[Provider.ChangeSetStatus(${1:changeset : ChangeSet})]]></content>
 	<tabTrigger><![CDATA[provider.ChangeSetStatus]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(changeset)]]></description>

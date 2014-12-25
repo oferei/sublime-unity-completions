@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextureImporter.ClearPlatformTextureSettings(${1:string platform});]]></content>
+	<content><![CDATA[TextureImporter.ClearPlatformTextureSettings(${1:string platform})]]></content>
 	<tabTrigger><![CDATA[textureImporter.ClearPlatformTextureSettings]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(platform)]]></description>

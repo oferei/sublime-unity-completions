@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.Blend(${1:animation : string}, ${2:targetWeight : float = 1.0F}, ${3:fadeLength : float = 0.3F});]]></content>
+	<content><![CDATA[Animation.Blend(${1:animation : string}, ${2:targetWeight : float = 1.0F}, ${3:fadeLength : float = 0.3F})]]></content>
 	<tabTrigger><![CDATA[Blend]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Animation.*(animation, targetWeight, fadeLength)]]></description>

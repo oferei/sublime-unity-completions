@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.CopyFrom(${1:Camera other});]]></content>
+	<content><![CDATA[Camera.CopyFrom(${1:Camera other})]]></content>
 	<tabTrigger><![CDATA[CopyFrom]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Camera.*(other)]]></description>

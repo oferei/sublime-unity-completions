@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioListener.GetSpectrumData(${1:float[] samples}, ${2:int channel}, ${3:FFTWindow window});]]></content>
+	<content><![CDATA[AudioListener.GetSpectrumData(${1:float[] samples}, ${2:int channel}, ${3:FFTWindow window})]]></content>
 	<tabTrigger><![CDATA[audioListener.GetSpectrumData]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(samples, channel, window)]]></description>

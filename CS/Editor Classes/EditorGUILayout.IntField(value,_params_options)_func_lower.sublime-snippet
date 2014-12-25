@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.IntField(${1:int value}, ${2:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.IntField(${1:int value}, ${2:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[intField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(value, params options)]]></description>

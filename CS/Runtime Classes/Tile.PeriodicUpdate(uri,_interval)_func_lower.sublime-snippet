@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.PeriodicUpdate(${1:string uri}, ${2:float interval});]]></content>
+	<content><![CDATA[Tile.PeriodicUpdate(${1:string uri}, ${2:float interval})]]></content>
 	<tabTrigger><![CDATA[periodicUpdate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Tile.*(uri, interval)]]></description>

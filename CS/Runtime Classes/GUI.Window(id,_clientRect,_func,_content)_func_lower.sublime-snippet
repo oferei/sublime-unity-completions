@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.Window(${1:int id}, ${2:Rect clientRect}, ${3:WindowFunction func}, ${4:GUIContent content});]]></content>
+	<content><![CDATA[GUI.Window(${1:int id}, ${2:Rect clientRect}, ${3:WindowFunction func}, ${4:GUIContent content})]]></content>
 	<tabTrigger><![CDATA[window]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(id, clientRect, func, content)]]></description>

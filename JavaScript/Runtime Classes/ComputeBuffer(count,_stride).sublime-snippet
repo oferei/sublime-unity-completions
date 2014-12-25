@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeBuffer(${1:count : int}, ${2:stride : int});]]></content>
+	<content><![CDATA[ComputeBuffer(${1:count : int}, ${2:stride : int})]]></content>
 	<tabTrigger><![CDATA[ComputeBuffer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(count, stride)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.Label(${1:Vector3 position}, ${2:Texture image});]]></content>
+	<content><![CDATA[Handles.Label(${1:Vector3 position}, ${2:Texture image})]]></content>
 	<tabTrigger><![CDATA[Handles.Label]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, image)]]></description>

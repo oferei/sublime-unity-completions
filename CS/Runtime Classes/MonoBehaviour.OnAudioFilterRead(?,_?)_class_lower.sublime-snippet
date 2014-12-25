@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnAudioFilterRead(${1:float[] ?}, ${2:int ?});]]></content>
+	<content><![CDATA[MonoBehaviour.OnAudioFilterRead(${1:float[] ?}, ${2:int ?})]]></content>
 	<tabTrigger><![CDATA[monoBehaviour.OnAudioFilterRead]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(?, ?)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BuildPipeline.BuildAssetBundle(${1:Object mainAsset}, ${2:Object[] assets}, ${3:string pathName}, ${4:uint crc}, ${5:BuildAssetBundleOptions assetBundleOptions = BuildAssetBundleOptions.CollectDependencies | BuildAssetBundleOptions.CompleteAssets}, ${6:BuildTarget targetPlatform = BuildTarget.WebPlayer});]]></content>
+	<content><![CDATA[BuildPipeline.BuildAssetBundle(${1:Object mainAsset}, ${2:Object[] assets}, ${3:string pathName}, ${4:uint crc}, ${5:BuildAssetBundleOptions assetBundleOptions = BuildAssetBundleOptions.CollectDependencies | BuildAssetBundleOptions.CompleteAssets}, ${6:BuildTarget targetPlatform = BuildTarget.WebPlayer})]]></content>
 	<tabTrigger><![CDATA[buildPipeline.BuildAssetBundle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(mainAsset, assets, pathName, crc, assetBundleOptions, targetPlatform)]]></description>

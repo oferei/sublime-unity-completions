@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.InspectorTitlebar(${1:foldout : bool}, ${2:targetObj : Object});]]></content>
+	<content><![CDATA[EditorGUILayout.InspectorTitlebar(${1:foldout : bool}, ${2:targetObj : Object})]]></content>
 	<tabTrigger><![CDATA[inspectorTitlebar]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(foldout, targetObj)]]></description>

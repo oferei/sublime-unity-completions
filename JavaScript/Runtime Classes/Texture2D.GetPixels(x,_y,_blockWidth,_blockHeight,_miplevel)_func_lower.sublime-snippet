@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.GetPixels(${1:x : int}, ${2:y : int}, ${3:blockWidth : int}, ${4:blockHeight : int}, ${5:miplevel : int = 0});]]></content>
+	<content><![CDATA[Texture2D.GetPixels(${1:x : int}, ${2:y : int}, ${3:blockWidth : int}, ${4:blockHeight : int}, ${5:miplevel : int = 0})]]></content>
 	<tabTrigger><![CDATA[getPixels]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Texture2D.*(x, y, blockWidth, blockHeight, miplevel)]]></description>

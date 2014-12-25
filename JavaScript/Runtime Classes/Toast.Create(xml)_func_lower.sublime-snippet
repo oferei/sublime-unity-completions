@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Toast.Create(${1:xml : string});]]></content>
+	<content><![CDATA[Toast.Create(${1:xml : string})]]></content>
 	<tabTrigger><![CDATA[create]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Toast.*(xml)]]></description>

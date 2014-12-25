@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.LogError(${1:message : object}, ${2:context : Object});]]></content>
+	<content><![CDATA[Debug.LogError(${1:message : object}, ${2:context : Object})]]></content>
 	<tabTrigger><![CDATA[debug.LogError]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(message, context)]]></description>

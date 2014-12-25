@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SerializedProperty.InsertArrayElementAtIndex(${1:index : int});]]></content>
+	<content><![CDATA[SerializedProperty.InsertArrayElementAtIndex(${1:index : int})]]></content>
 	<tabTrigger><![CDATA[SerializedProperty.InsertArrayElementAtIndex]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(index)]]></description>

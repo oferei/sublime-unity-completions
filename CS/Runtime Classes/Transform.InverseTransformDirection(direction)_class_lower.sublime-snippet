@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.InverseTransformDirection(${1:Vector3 direction});]]></content>
+	<content><![CDATA[Transform.InverseTransformDirection(${1:Vector3 direction})]]></content>
 	<tabTrigger><![CDATA[transform.InverseTransformDirection]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(direction)]]></description>

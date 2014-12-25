@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.DrawColorSwatch(${1:Rect position}, ${2:Color color});]]></content>
+	<content><![CDATA[EditorGUIUtility.DrawColorSwatch(${1:Rect position}, ${2:Color color})]]></content>
 	<tabTrigger><![CDATA[EditorGUIUtility.DrawColorSwatch]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, color)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnParticleCollision(${1:? : GameObject});]]></content>
+	<content><![CDATA[MonoBehaviour.OnParticleCollision(${1:? : GameObject})]]></content>
 	<tabTrigger><![CDATA[MonoBehaviour.OnParticleCollision]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?)]]></description>

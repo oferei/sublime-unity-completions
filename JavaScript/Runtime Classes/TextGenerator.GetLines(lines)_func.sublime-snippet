@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextGenerator.GetLines(${1:lines : List<UILineInfo>});]]></content>
+	<content><![CDATA[TextGenerator.GetLines(${1:lines : List<UILineInfo>})]]></content>
 	<tabTrigger><![CDATA[GetLines]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[TextGenerator.*(lines)]]></description>

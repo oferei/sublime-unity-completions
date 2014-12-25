@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.Scale(${1:scale : Vector2});]]></content>
+	<content><![CDATA[Vector2.Scale(${1:scale : Vector2})]]></content>
 	<tabTrigger><![CDATA[Scale]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Vector2.*(scale)]]></description>

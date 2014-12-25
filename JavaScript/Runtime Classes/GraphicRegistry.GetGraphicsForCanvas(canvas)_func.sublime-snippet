@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GraphicRegistry.GetGraphicsForCanvas(${1:canvas : Canvas});]]></content>
+	<content><![CDATA[GraphicRegistry.GetGraphicsForCanvas(${1:canvas : Canvas})]]></content>
 	<tabTrigger><![CDATA[GetGraphicsForCanvas]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GraphicRegistry.*(canvas)]]></description>

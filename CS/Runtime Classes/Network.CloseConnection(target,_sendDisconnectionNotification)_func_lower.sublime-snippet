@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.CloseConnection(${1:NetworkPlayer target}, ${2:bool sendDisconnectionNotification});]]></content>
+	<content><![CDATA[Network.CloseConnection(${1:NetworkPlayer target}, ${2:bool sendDisconnectionNotification})]]></content>
 	<tabTrigger><![CDATA[closeConnection]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Network.*(target, sendDisconnectionNotification)]]></description>

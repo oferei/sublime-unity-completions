@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:axis : Axis}, ${2:size : float});]]></content>
+	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:axis : Axis}, ${2:size : float})]]></content>
 	<tabTrigger><![CDATA[SetSizeWithCurrentAnchors]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RectTransform.*(axis, size)]]></description>

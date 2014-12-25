@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomEditor(${1:Type inspectedType});]]></content>
+	<content><![CDATA[CustomEditor(${1:Type inspectedType})]]></content>
 	<tabTrigger><![CDATA[CustomEditor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(inspectedType)]]></description>

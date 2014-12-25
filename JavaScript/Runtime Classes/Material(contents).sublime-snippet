@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material(${1:contents : string});]]></content>
+	<content><![CDATA[Material(${1:contents : string})]]></content>
 	<tabTrigger><![CDATA[Material]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(contents)]]></description>

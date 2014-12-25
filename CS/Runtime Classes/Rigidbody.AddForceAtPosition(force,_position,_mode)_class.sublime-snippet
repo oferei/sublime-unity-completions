@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.AddForceAtPosition(${1:Vector3 force}, ${2:Vector3 position}, ${3:ForceMode mode = ForceMode.Force});]]></content>
+	<content><![CDATA[Rigidbody.AddForceAtPosition(${1:Vector3 force}, ${2:Vector3 position}, ${3:ForceMode mode = ForceMode.Force})]]></content>
 	<tabTrigger><![CDATA[Rigidbody.AddForceAtPosition]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(force, position, mode)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.FreeMoveHandle(${1:Vector3 position}, ${2:Quaternion rotation}, ${3:float size}, ${4:Vector3 snap}, ${5:DrawCapFunction capFunc});]]></content>
+	<content><![CDATA[Handles.FreeMoveHandle(${1:Vector3 position}, ${2:Quaternion rotation}, ${3:float size}, ${4:Vector3 snap}, ${5:DrawCapFunction capFunc})]]></content>
 	<tabTrigger><![CDATA[FreeMoveHandle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(position, rotation, size, snap, capFunc)]]></description>

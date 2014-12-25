@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ObjectPreview.OnInteractivePreviewGUI(${1:r : Rect}, ${2:background : GUIStyle});]]></content>
+	<content><![CDATA[ObjectPreview.OnInteractivePreviewGUI(${1:r : Rect}, ${2:background : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[onInteractivePreviewGUI]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ObjectPreview.*(r, background)]]></description>

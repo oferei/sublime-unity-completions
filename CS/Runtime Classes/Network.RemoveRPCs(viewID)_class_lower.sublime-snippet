@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.RemoveRPCs(${1:NetworkViewID viewID});]]></content>
+	<content><![CDATA[Network.RemoveRPCs(${1:NetworkViewID viewID})]]></content>
 	<tabTrigger><![CDATA[network.RemoveRPCs]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(viewID)]]></description>

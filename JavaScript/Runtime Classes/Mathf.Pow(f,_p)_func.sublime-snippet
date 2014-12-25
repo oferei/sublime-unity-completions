@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Pow(${1:f : float}, ${2:p : float});]]></content>
+	<content><![CDATA[Mathf.Pow(${1:f : float}, ${2:p : float})]]></content>
 	<tabTrigger><![CDATA[Pow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mathf.*(f, p)]]></description>

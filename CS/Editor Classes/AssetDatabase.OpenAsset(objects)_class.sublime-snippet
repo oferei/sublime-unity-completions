@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.OpenAsset(${1:Object[] objects});]]></content>
+	<content><![CDATA[AssetDatabase.OpenAsset(${1:Object[] objects})]]></content>
 	<tabTrigger><![CDATA[AssetDatabase.OpenAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(objects)]]></description>

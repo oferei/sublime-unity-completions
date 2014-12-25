@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas(${1:c : Canvas}, ${2:graphic : Graphic});]]></content>
+	<content><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas(${1:c : Canvas}, ${2:graphic : Graphic})]]></content>
 	<tabTrigger><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(c, graphic)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnAnimatorIK(${1:? : int});]]></content>
+	<content><![CDATA[MonoBehaviour.OnAnimatorIK(${1:? : int})]]></content>
 	<tabTrigger><![CDATA[OnAnimatorIK]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MonoBehaviour.*(?)]]></description>

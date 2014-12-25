@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransformUtility.FlipLayoutAxes(${1:RectTransform rect}, ${2:bool keepPositioning}, ${3:bool recursive});]]></content>
+	<content><![CDATA[RectTransformUtility.FlipLayoutAxes(${1:RectTransform rect}, ${2:bool keepPositioning}, ${3:bool recursive})]]></content>
 	<tabTrigger><![CDATA[rectTransformUtility.FlipLayoutAxes]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rect, keepPositioning, recursive)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.InverseTransformPoint(${1:x : float}, ${2:y : float}, ${3:z : float});]]></content>
+	<content><![CDATA[Transform.InverseTransformPoint(${1:x : float}, ${2:y : float}, ${3:z : float})]]></content>
 	<tabTrigger><![CDATA[transform.InverseTransformPoint]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(x, y, z)]]></description>

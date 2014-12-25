@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.GetInterpolatedNormal(${1:x : float}, ${2:y : float});]]></content>
+	<content><![CDATA[TerrainData.GetInterpolatedNormal(${1:x : float}, ${2:y : float})]]></content>
 	<tabTrigger><![CDATA[GetInterpolatedNormal]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[TerrainData.*(x, y)]]></description>

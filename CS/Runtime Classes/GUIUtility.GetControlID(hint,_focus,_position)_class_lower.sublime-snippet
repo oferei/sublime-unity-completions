@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.GetControlID(${1:int hint}, ${2:FocusType focus}, ${3:Rect position});]]></content>
+	<content><![CDATA[GUIUtility.GetControlID(${1:int hint}, ${2:FocusType focus}, ${3:Rect position})]]></content>
 	<tabTrigger><![CDATA[gUIUtility.GetControlID]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(hint, focus, position)]]></description>

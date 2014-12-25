@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.ScrollTo(${1:Rect position});]]></content>
+	<content><![CDATA[GUI.ScrollTo(${1:Rect position})]]></content>
 	<tabTrigger><![CDATA[GUI.ScrollTo]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position)]]></description>

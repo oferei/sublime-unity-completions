@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ObjectNames.GetClassName(${1:obj : Object});]]></content>
+	<content><![CDATA[ObjectNames.GetClassName(${1:obj : Object})]]></content>
 	<tabTrigger><![CDATA[getClassName]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ObjectNames.*(obj)]]></description>

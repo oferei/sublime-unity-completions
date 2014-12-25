@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.RaycastAll(${1:Vector2 origin}, ${2:Vector2 direction}, ${3:float distance = Mathf.Infinity}, ${4:int layerMask = DefaultRaycastLayers}, ${5:float minDepth = -Mathf.Infinity}, ${6:float maxDepth = Mathf.Infinity});]]></content>
+	<content><![CDATA[Physics2D.RaycastAll(${1:Vector2 origin}, ${2:Vector2 direction}, ${3:float distance = Mathf.Infinity}, ${4:int layerMask = DefaultRaycastLayers}, ${5:float minDepth = -Mathf.Infinity}, ${6:float maxDepth = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[raycastAll]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Physics2D.*(origin, direction, distance, layerMask, minDepth, maxDepth)]]></description>

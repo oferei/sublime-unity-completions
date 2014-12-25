@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.RevertAllInCurrentGroup();]]></content>
+	<content><![CDATA[Undo.RevertAllInCurrentGroup()]]></content>
 	<tabTrigger><![CDATA[undo.RevertAllInCurrentGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*()]]></description>

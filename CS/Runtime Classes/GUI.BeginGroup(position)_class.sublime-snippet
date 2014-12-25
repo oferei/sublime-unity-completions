@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.BeginGroup(${1:Rect position});]]></content>
+	<content><![CDATA[GUI.BeginGroup(${1:Rect position})]]></content>
 	<tabTrigger><![CDATA[GUI.BeginGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position)]]></description>

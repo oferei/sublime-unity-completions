@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.MoveTowards(${1:float current}, ${2:float target}, ${3:float maxDelta});]]></content>
+	<content><![CDATA[Mathf.MoveTowards(${1:float current}, ${2:float target}, ${3:float maxDelta})]]></content>
 	<tabTrigger><![CDATA[Mathf.MoveTowards]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(current, target, maxDelta)]]></description>

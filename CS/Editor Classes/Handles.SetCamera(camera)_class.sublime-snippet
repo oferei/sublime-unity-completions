@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.SetCamera(${1:Camera camera});]]></content>
+	<content><![CDATA[Handles.SetCamera(${1:Camera camera})]]></content>
 	<tabTrigger><![CDATA[Handles.SetCamera]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(camera)]]></description>

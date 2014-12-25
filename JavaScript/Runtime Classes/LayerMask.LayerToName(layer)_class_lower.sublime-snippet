@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayerMask.LayerToName(${1:layer : int});]]></content>
+	<content><![CDATA[LayerMask.LayerToName(${1:layer : int})]]></content>
 	<tabTrigger><![CDATA[layerMask.LayerToName]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(layer)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetMouseButtonDown(${1:int button});]]></content>
+	<content><![CDATA[Input.GetMouseButtonDown(${1:int button})]]></content>
 	<tabTrigger><![CDATA[Input.GetMouseButtonDown]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(button)]]></description>

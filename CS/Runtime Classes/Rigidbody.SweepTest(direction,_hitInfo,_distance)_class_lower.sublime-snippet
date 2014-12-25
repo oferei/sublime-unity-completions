@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.SweepTest(${1:Vector3 direction}, ${2:RaycastHit hitInfo}, ${3:float distance = Mathf.Infinity});]]></content>
+	<content><![CDATA[Rigidbody.SweepTest(${1:Vector3 direction}, ${2:RaycastHit hitInfo}, ${3:float distance = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[rigidbody.SweepTest]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(direction, hitInfo, distance)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationCurve.RemoveKey(${1:int index});]]></content>
+	<content><![CDATA[AnimationCurve.RemoveKey(${1:int index})]]></content>
 	<tabTrigger><![CDATA[RemoveKey]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AnimationCurve.*(index)]]></description>

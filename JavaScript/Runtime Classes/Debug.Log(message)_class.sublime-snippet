@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.Log(${1:message : object});]]></content>
+	<content><![CDATA[Debug.Log(${1:message : object})]]></content>
 	<tabTrigger><![CDATA[Debug.Log]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(message)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Asin(${1:f : float});]]></content>
+	<content><![CDATA[Mathf.Asin(${1:f : float})]]></content>
 	<tabTrigger><![CDATA[Mathf.Asin]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(f)]]></description>

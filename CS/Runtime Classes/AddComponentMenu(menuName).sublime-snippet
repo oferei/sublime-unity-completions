@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AddComponentMenu(${1:string menuName});]]></content>
+	<content><![CDATA[AddComponentMenu(${1:string menuName})]]></content>
 	<tabTrigger><![CDATA[AddComponentMenu]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(menuName)]]></description>

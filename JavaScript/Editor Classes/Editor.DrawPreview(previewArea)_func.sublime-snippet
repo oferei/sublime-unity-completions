@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Editor.DrawPreview(${1:previewArea : Rect});]]></content>
+	<content><![CDATA[Editor.DrawPreview(${1:previewArea : Rect})]]></content>
 	<tabTrigger><![CDATA[DrawPreview]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Editor.*(previewArea)]]></description>

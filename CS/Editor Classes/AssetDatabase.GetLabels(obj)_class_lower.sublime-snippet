@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.GetLabels(${1:Object obj});]]></content>
+	<content><![CDATA[AssetDatabase.GetLabels(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.GetLabels]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj)]]></description>

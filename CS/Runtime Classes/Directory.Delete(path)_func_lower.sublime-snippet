@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Directory.Delete(${1:string path});]]></content>
+	<content><![CDATA[Directory.Delete(${1:string path})]]></content>
 	<tabTrigger><![CDATA[delete]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Directory.*(path)]]></description>

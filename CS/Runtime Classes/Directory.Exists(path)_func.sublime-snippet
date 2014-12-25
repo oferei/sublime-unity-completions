@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Directory.Exists(${1:string path});]]></content>
+	<content><![CDATA[Directory.Exists(${1:string path})]]></content>
 	<tabTrigger><![CDATA[Exists]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Directory.*(path)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.ScaleSlider(${1:float scale}, ${2:Vector3 position}, ${3:Vector3 direction}, ${4:Quaternion rotation}, ${5:float size}, ${6:float snap});]]></content>
+	<content><![CDATA[Handles.ScaleSlider(${1:float scale}, ${2:Vector3 position}, ${3:Vector3 direction}, ${4:Quaternion rotation}, ${5:float size}, ${6:float snap})]]></content>
 	<tabTrigger><![CDATA[Handles.ScaleSlider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(scale, position, direction, rotation, size, snap)]]></description>

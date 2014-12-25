@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.BeginVertical(${1:GUIStyle style}, ${2:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.BeginVertical(${1:GUIStyle style}, ${2:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.BeginVertical]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(style, params options)]]></description>

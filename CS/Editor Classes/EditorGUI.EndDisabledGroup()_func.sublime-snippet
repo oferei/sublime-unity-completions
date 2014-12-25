@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.EndDisabledGroup();]]></content>
+	<content><![CDATA[EditorGUI.EndDisabledGroup()]]></content>
 	<tabTrigger><![CDATA[EndDisabledGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUI.*()]]></description>

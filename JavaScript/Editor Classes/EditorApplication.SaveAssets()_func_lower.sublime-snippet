@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.SaveAssets();]]></content>
+	<content><![CDATA[EditorApplication.SaveAssets()]]></content>
 	<tabTrigger><![CDATA[saveAssets]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorApplication.*()]]></description>

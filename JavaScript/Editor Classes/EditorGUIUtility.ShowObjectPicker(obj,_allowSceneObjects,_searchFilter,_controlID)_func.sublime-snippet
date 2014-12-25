@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.ShowObjectPicker(${1:obj : Object}, ${2:allowSceneObjects : bool}, ${3:searchFilter : string}, ${4:controlID : int});]]></content>
+	<content><![CDATA[EditorGUIUtility.ShowObjectPicker(${1:obj : Object}, ${2:allowSceneObjects : bool}, ${3:searchFilter : string}, ${4:controlID : int})]]></content>
 	<tabTrigger><![CDATA[ShowObjectPicker]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUIUtility.*(obj, allowSceneObjects, searchFilter, controlID)]]></description>

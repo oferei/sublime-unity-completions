@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.QueueGameViewInputEvent(${1:Event evt});]]></content>
+	<content><![CDATA[EditorGUIUtility.QueueGameViewInputEvent(${1:Event evt})]]></content>
 	<tabTrigger><![CDATA[editorGUIUtility.QueueGameViewInputEvent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(evt)]]></description>

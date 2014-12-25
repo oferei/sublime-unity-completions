@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJavaObject.Get(${1:string fieldName});]]></content>
+	<content><![CDATA[AndroidJavaObject.Get(${1:string fieldName})]]></content>
 	<tabTrigger><![CDATA[get]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJavaObject.*(fieldName)]]></description>

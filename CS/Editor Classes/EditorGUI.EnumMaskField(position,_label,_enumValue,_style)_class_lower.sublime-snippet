@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.EnumMaskField(${1:Rect position}, ${2:GUIContent label}, ${3:Enum enumValue}, ${4:GUIStyle style = EditorStyles.popup});]]></content>
+	<content><![CDATA[EditorGUI.EnumMaskField(${1:Rect position}, ${2:GUIContent label}, ${3:Enum enumValue}, ${4:GUIStyle style = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[editorGUI.EnumMaskField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, label, enumValue, style)]]></description>

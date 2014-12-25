@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.ExtractOggFile(${1:Object obj}, ${2:string path});]]></content>
+	<content><![CDATA[EditorUtility.ExtractOggFile(${1:Object obj}, ${2:string path})]]></content>
 	<tabTrigger><![CDATA[extractOggFile]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorUtility.*(obj, path)]]></description>

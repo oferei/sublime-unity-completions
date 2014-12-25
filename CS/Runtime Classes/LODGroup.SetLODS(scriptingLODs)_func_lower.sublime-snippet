@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LODGroup.SetLODS(${1:LOD[] scriptingLODs});]]></content>
+	<content><![CDATA[LODGroup.SetLODS(${1:LOD[] scriptingLODs})]]></content>
 	<tabTrigger><![CDATA[setLODS]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[LODGroup.*(scriptingLODs)]]></description>

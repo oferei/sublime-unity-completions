@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.Unload(${1:unloadAllLoadedObjects : bool});]]></content>
+	<content><![CDATA[AssetBundle.Unload(${1:unloadAllLoadedObjects : bool})]]></content>
 	<tabTrigger><![CDATA[AssetBundle.Unload]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(unloadAllLoadedObjects)]]></description>

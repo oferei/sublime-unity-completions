@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.HasKey(${1:string key});]]></content>
+	<content><![CDATA[EditorPrefs.HasKey(${1:string key})]]></content>
 	<tabTrigger><![CDATA[hasKey]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorPrefs.*(key)]]></description>

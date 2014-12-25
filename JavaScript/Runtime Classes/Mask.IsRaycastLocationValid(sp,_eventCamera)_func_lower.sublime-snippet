@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mask.IsRaycastLocationValid(${1:sp : Vector2}, ${2:eventCamera : Camera});]]></content>
+	<content><![CDATA[Mask.IsRaycastLocationValid(${1:sp : Vector2}, ${2:eventCamera : Camera})]]></content>
 	<tabTrigger><![CDATA[isRaycastLocationValid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mask.*(sp, eventCamera)]]></description>

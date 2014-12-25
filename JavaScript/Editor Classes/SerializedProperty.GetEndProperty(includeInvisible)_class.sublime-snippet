@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SerializedProperty.GetEndProperty(${1:includeInvisible : bool = false});]]></content>
+	<content><![CDATA[SerializedProperty.GetEndProperty(${1:includeInvisible : bool = false})]]></content>
 	<tabTrigger><![CDATA[SerializedProperty.GetEndProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(includeInvisible)]]></description>

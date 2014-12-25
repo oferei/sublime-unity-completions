@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.CallCharMethod(${1:IntPtr obj}, ${2:IntPtr methodID}, ${3:jvalue[] args});]]></content>
+	<content><![CDATA[AndroidJNI.CallCharMethod(${1:IntPtr obj}, ${2:IntPtr methodID}, ${3:jvalue[] args})]]></content>
 	<tabTrigger><![CDATA[AndroidJNI.CallCharMethod]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj, methodID, args)]]></description>

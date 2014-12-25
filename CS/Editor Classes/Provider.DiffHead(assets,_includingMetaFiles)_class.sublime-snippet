@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.DiffHead(${1:AssetList assets}, ${2:bool includingMetaFiles});]]></content>
+	<content><![CDATA[Provider.DiffHead(${1:AssetList assets}, ${2:bool includingMetaFiles})]]></content>
 	<tabTrigger><![CDATA[Provider.DiffHead]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(assets, includingMetaFiles)]]></description>

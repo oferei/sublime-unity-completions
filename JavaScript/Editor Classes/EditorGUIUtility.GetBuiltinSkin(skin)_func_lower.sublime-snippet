@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.GetBuiltinSkin(${1:skin : EditorSkin});]]></content>
+	<content><![CDATA[EditorGUIUtility.GetBuiltinSkin(${1:skin : EditorSkin})]]></content>
 	<tabTrigger><![CDATA[getBuiltinSkin]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUIUtility.*(skin)]]></description>

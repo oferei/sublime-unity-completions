@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnAudioFilterRead(${1:? : float[]}, ${2:? : int});]]></content>
+	<content><![CDATA[MonoBehaviour.OnAudioFilterRead(${1:? : float[]}, ${2:? : int})]]></content>
 	<tabTrigger><![CDATA[onAudioFilterRead]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MonoBehaviour.*(?, ?)]]></description>

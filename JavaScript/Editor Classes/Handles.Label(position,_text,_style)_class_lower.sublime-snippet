@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.Label(${1:position : Vector3}, ${2:text : string}, ${3:style : GUIStyle});]]></content>
+	<content><![CDATA[Handles.Label(${1:position : Vector3}, ${2:text : string}, ${3:style : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[handles.Label]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, text, style)]]></description>

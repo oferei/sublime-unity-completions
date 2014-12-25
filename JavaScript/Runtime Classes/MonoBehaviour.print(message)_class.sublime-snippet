@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.print(${1:message : object});]]></content>
+	<content><![CDATA[MonoBehaviour.print(${1:message : object})]]></content>
 	<tabTrigger><![CDATA[MonoBehaviour.print]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(message)]]></description>

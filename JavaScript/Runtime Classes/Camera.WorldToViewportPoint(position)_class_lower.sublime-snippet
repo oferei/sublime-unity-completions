@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.WorldToViewportPoint(${1:position : Vector3});]]></content>
+	<content><![CDATA[Camera.WorldToViewportPoint(${1:position : Vector3})]]></content>
 	<tabTrigger><![CDATA[camera.WorldToViewportPoint]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position)]]></description>

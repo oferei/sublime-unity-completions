@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.RemoveClip(${1:AnimationClip clip});]]></content>
+	<content><![CDATA[Animation.RemoveClip(${1:AnimationClip clip})]]></content>
 	<tabTrigger><![CDATA[animation.RemoveClip]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(clip)]]></description>

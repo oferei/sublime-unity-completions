@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.SetInt(${1:int nameID}, ${2:int value});]]></content>
+	<content><![CDATA[Material.SetInt(${1:int nameID}, ${2:int value})]]></content>
 	<tabTrigger><![CDATA[SetInt]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Material.*(nameID, value)]]></description>

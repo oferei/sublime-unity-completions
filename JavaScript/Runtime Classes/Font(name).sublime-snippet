@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Font(${1:name : string});]]></content>
+	<content><![CDATA[Font(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[Font]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

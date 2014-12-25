@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.UnregisterForRemoteNotifications();]]></content>
+	<content><![CDATA[NotificationServices.UnregisterForRemoteNotifications()]]></content>
 	<tabTrigger><![CDATA[NotificationServices.UnregisterForRemoteNotifications]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*()]]></description>

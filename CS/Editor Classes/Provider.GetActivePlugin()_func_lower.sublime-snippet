@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.GetActivePlugin();]]></content>
+	<content><![CDATA[Provider.GetActivePlugin()]]></content>
 	<tabTrigger><![CDATA[getActivePlugin]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Provider.*()]]></description>

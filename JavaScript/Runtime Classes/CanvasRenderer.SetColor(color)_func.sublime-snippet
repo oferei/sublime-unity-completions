@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasRenderer.SetColor(${1:color : Color});]]></content>
+	<content><![CDATA[CanvasRenderer.SetColor(${1:color : Color})]]></content>
 	<tabTrigger><![CDATA[SetColor]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CanvasRenderer.*(color)]]></description>

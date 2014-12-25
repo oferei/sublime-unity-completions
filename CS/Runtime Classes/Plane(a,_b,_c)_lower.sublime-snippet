@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Plane(${1:Vector3 a}, ${2:Vector3 b}, ${3:Vector3 c});]]></content>
+	<content><![CDATA[Plane(${1:Vector3 a}, ${2:Vector3 b}, ${3:Vector3 c})]]></content>
 	<tabTrigger><![CDATA[plane]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(a, b, c)]]></description>

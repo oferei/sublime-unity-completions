@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.ShowAsDropDown(${1:buttonRect : Rect}, ${2:windowSize : Vector2});]]></content>
+	<content><![CDATA[EditorWindow.ShowAsDropDown(${1:buttonRect : Rect}, ${2:windowSize : Vector2})]]></content>
 	<tabTrigger><![CDATA[editorWindow.ShowAsDropDown]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(buttonRect, windowSize)]]></description>

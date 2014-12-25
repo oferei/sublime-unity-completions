@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Button(${1:Texture image}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[GUILayout.Button(${1:Texture image}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[GUILayout.Button]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(image, style, params options)]]></description>

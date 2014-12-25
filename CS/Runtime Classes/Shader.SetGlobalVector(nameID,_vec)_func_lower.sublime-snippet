@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.SetGlobalVector(${1:int nameID}, ${2:Vector4 vec});]]></content>
+	<content><![CDATA[Shader.SetGlobalVector(${1:int nameID}, ${2:Vector4 vec})]]></content>
 	<tabTrigger><![CDATA[setGlobalVector]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Shader.*(nameID, vec)]]></description>

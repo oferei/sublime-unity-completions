@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.OpenSceneAdditive(${1:string path});]]></content>
+	<content><![CDATA[EditorApplication.OpenSceneAdditive(${1:string path})]]></content>
 	<tabTrigger><![CDATA[EditorApplication.OpenSceneAdditive]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(path)]]></description>

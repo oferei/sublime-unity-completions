@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InputField.OnUpdateSelected(${1:eventData : BaseEventData});]]></content>
+	<content><![CDATA[InputField.OnUpdateSelected(${1:eventData : BaseEventData})]]></content>
 	<tabTrigger><![CDATA[onUpdateSelected]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[InputField.*(eventData)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.Find(${1:string name});]]></content>
+	<content><![CDATA[GameObject.Find(${1:string name})]]></content>
 	<tabTrigger><![CDATA[GameObject.Find]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(name)]]></description>

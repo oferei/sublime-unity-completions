@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.Compress(${1:bool highQuality});]]></content>
+	<content><![CDATA[Texture2D.Compress(${1:bool highQuality})]]></content>
 	<tabTrigger><![CDATA[texture2D.Compress]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(highQuality)]]></description>

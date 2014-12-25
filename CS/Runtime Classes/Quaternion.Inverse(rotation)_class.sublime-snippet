@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.Inverse(${1:Quaternion rotation});]]></content>
+	<content><![CDATA[Quaternion.Inverse(${1:Quaternion rotation})]]></content>
 	<tabTrigger><![CDATA[Quaternion.Inverse]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rotation)]]></description>

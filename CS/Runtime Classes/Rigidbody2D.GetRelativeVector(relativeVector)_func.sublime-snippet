@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.GetRelativeVector(${1:Vector2 relativeVector});]]></content>
+	<content><![CDATA[Rigidbody2D.GetRelativeVector(${1:Vector2 relativeVector})]]></content>
 	<tabTrigger><![CDATA[GetRelativeVector]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Rigidbody2D.*(relativeVector)]]></description>

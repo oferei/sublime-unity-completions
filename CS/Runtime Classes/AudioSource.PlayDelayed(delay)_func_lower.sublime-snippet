@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioSource.PlayDelayed(${1:float delay});]]></content>
+	<content><![CDATA[AudioSource.PlayDelayed(${1:float delay})]]></content>
 	<tabTrigger><![CDATA[playDelayed]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AudioSource.*(delay)]]></description>

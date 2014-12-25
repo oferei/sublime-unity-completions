@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.SetGlobalShaderProperty(${1:string propertyName});]]></content>
+	<content><![CDATA[RenderTexture.SetGlobalShaderProperty(${1:string propertyName})]]></content>
 	<tabTrigger><![CDATA[SetGlobalShaderProperty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RenderTexture.*(propertyName)]]></description>

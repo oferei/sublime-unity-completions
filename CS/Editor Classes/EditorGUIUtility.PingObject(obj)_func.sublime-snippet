@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.PingObject(${1:Object obj});]]></content>
+	<content><![CDATA[EditorGUIUtility.PingObject(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[PingObject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUIUtility.*(obj)]]></description>

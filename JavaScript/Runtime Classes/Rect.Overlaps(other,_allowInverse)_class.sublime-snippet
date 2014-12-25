@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.Overlaps(${1:other : Rect}, ${2:allowInverse : bool});]]></content>
+	<content><![CDATA[Rect.Overlaps(${1:other : Rect}, ${2:allowInverse : bool})]]></content>
 	<tabTrigger><![CDATA[Rect.Overlaps]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(other, allowInverse)]]></description>

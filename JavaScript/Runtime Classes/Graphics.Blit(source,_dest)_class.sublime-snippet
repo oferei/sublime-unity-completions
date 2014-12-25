@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.Blit(${1:source : Texture}, ${2:dest : RenderTexture});]]></content>
+	<content><![CDATA[Graphics.Blit(${1:source : Texture}, ${2:dest : RenderTexture})]]></content>
 	<tabTrigger><![CDATA[Graphics.Blit]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(source, dest)]]></description>

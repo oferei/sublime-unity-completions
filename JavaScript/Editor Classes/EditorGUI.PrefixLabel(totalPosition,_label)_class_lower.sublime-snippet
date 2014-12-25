@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.PrefixLabel(${1:totalPosition : Rect}, ${2:label : GUIContent});]]></content>
+	<content><![CDATA[EditorGUI.PrefixLabel(${1:totalPosition : Rect}, ${2:label : GUIContent})]]></content>
 	<tabTrigger><![CDATA[editorGUI.PrefixLabel]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(totalPosition, label)]]></description>

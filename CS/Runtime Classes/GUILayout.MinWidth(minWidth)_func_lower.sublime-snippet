@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.MinWidth(${1:float minWidth});]]></content>
+	<content><![CDATA[GUILayout.MinWidth(${1:float minWidth})]]></content>
 	<tabTrigger><![CDATA[minWidth]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUILayout.*(minWidth)]]></description>

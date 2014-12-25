@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObjectUtility.GetStaticEditorFlags(${1:GameObject go});]]></content>
+	<content><![CDATA[GameObjectUtility.GetStaticEditorFlags(${1:GameObject go})]]></content>
 	<tabTrigger><![CDATA[GameObjectUtility.GetStaticEditorFlags]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(go)]]></description>

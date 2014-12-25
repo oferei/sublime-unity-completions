@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationCurve.Linear(${1:timeStart : float}, ${2:valueStart : float}, ${3:timeEnd : float}, ${4:valueEnd : float});]]></content>
+	<content><![CDATA[AnimationCurve.Linear(${1:timeStart : float}, ${2:valueStart : float}, ${3:timeEnd : float}, ${4:valueEnd : float})]]></content>
 	<tabTrigger><![CDATA[Linear]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AnimationCurve.*(timeStart, valueStart, timeEnd, valueEnd)]]></description>

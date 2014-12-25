@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransformUtility.ScreenPointToWorldPointInRectangle(${1:rect : RectTransform}, ${2:screenPoint : Vector2}, ${3:cam : Camera}, ${4:worldPoint : Vector3});]]></content>
+	<content><![CDATA[RectTransformUtility.ScreenPointToWorldPointInRectangle(${1:rect : RectTransform}, ${2:screenPoint : Vector2}, ${3:cam : Camera}, ${4:worldPoint : Vector3})]]></content>
 	<tabTrigger><![CDATA[rectTransformUtility.ScreenPointToWorldPointInRectangle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(rect, screenPoint, cam, worldPoint)]]></description>

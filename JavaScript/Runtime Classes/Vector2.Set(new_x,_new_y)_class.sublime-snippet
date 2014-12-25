@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.Set(${1:new_x : float}, ${2:new_y : float});]]></content>
+	<content><![CDATA[Vector2.Set(${1:new_x : float}, ${2:new_y : float})]]></content>
 	<tabTrigger><![CDATA[Vector2.Set]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(new_x, new_y)]]></description>

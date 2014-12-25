@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToFloatArray(${1:array : float[]});]]></content>
+	<content><![CDATA[AndroidJNI.ToFloatArray(${1:array : float[]})]]></content>
 	<tabTrigger><![CDATA[ToFloatArray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(array)]]></description>

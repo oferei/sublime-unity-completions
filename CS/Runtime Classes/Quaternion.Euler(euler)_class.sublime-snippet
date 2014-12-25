@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.Euler(${1:Vector3 euler});]]></content>
+	<content><![CDATA[Quaternion.Euler(${1:Vector3 euler})]]></content>
 	<tabTrigger><![CDATA[Quaternion.Euler]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(euler)]]></description>

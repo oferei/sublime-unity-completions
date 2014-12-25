@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:Material material}, ${5:int layer}, ${6:Camera camera = null}, ${7:int submeshIndex = 0}, ${8:MaterialPropertyBlock properties = null});]]></content>
+	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:Material material}, ${5:int layer}, ${6:Camera camera = null}, ${7:int submeshIndex = 0}, ${8:MaterialPropertyBlock properties = null})]]></content>
 	<tabTrigger><![CDATA[graphics.DrawMesh]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(mesh, position, rotation, material, layer, camera, submeshIndex, properties)]]></description>

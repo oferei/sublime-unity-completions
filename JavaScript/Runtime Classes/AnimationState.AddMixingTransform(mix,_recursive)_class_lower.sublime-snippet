@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationState.AddMixingTransform(${1:mix : Transform}, ${2:recursive : bool = true});]]></content>
+	<content><![CDATA[AnimationState.AddMixingTransform(${1:mix : Transform}, ${2:recursive : bool = true})]]></content>
 	<tabTrigger><![CDATA[animationState.AddMixingTransform]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(mix, recursive)]]></description>

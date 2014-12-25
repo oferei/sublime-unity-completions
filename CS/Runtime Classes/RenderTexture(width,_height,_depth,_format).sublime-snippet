@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture(${1:int width}, ${2:int height}, ${3:int depth}, ${4:RenderTextureFormat format});]]></content>
+	<content><![CDATA[RenderTexture(${1:int width}, ${2:int height}, ${3:int depth}, ${4:RenderTextureFormat format})]]></content>
 	<tabTrigger><![CDATA[RenderTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(width, height, depth, format)]]></description>

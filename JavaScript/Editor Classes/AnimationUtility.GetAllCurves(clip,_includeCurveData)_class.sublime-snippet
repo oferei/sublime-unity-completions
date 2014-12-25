@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.GetAllCurves(${1:clip : AnimationClip}, ${2:includeCurveData : bool = true});]]></content>
+	<content><![CDATA[AnimationUtility.GetAllCurves(${1:clip : AnimationClip}, ${2:includeCurveData : bool = true})]]></content>
 	<tabTrigger><![CDATA[AnimationUtility.GetAllCurves]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(clip, includeCurveData)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.LoadLevelAdditive(${1:name : string});]]></content>
+	<content><![CDATA[Application.LoadLevelAdditive(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[Application.LoadLevelAdditive]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

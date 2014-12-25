@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.EnumMaskField(${1:position : Rect}, ${2:enumValue : Enum}, ${3:style : GUIStyle = EditorStyles.popup});]]></content>
+	<content><![CDATA[EditorGUI.EnumMaskField(${1:position : Rect}, ${2:enumValue : Enum}, ${3:style : GUIStyle = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.EnumMaskField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, enumValue, style)]]></description>

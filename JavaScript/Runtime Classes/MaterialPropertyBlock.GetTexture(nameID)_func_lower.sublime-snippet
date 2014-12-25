@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyBlock.GetTexture(${1:nameID : int});]]></content>
+	<content><![CDATA[MaterialPropertyBlock.GetTexture(${1:nameID : int})]]></content>
 	<tabTrigger><![CDATA[getTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MaterialPropertyBlock.*(nameID)]]></description>

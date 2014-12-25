@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetBooleanField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : bool});]]></content>
+	<content><![CDATA[AndroidJNI.SetBooleanField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : bool})]]></content>
 	<tabTrigger><![CDATA[setBooleanField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(obj, fieldID, val)]]></description>

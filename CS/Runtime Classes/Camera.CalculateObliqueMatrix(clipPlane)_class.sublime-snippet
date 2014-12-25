@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.CalculateObliqueMatrix(${1:Vector4 clipPlane});]]></content>
+	<content><![CDATA[Camera.CalculateObliqueMatrix(${1:Vector4 clipPlane})]]></content>
 	<tabTrigger><![CDATA[Camera.CalculateObliqueMatrix]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(clipPlane)]]></description>

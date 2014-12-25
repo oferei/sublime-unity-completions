@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Toast.Create(${1:image : string}, ${2:text : string});]]></content>
+	<content><![CDATA[Toast.Create(${1:image : string}, ${2:text : string})]]></content>
 	<tabTrigger><![CDATA[Create]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Toast.*(image, text)]]></description>

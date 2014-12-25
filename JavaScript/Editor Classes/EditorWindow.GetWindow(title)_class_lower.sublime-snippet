@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.GetWindow(${1:title : string});]]></content>
+	<content><![CDATA[EditorWindow.GetWindow(${1:title : string})]]></content>
 	<tabTrigger><![CDATA[editorWindow.GetWindow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(title)]]></description>

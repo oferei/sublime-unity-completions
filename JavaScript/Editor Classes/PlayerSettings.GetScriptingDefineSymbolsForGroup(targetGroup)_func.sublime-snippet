@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerSettings.GetScriptingDefineSymbolsForGroup(${1:targetGroup : BuildTargetGroup});]]></content>
+	<content><![CDATA[PlayerSettings.GetScriptingDefineSymbolsForGroup(${1:targetGroup : BuildTargetGroup})]]></content>
 	<tabTrigger><![CDATA[GetScriptingDefineSymbolsForGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PlayerSettings.*(targetGroup)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectOffset.Add(${1:rect : Rect});]]></content>
+	<content><![CDATA[RectOffset.Add(${1:rect : Rect})]]></content>
 	<tabTrigger><![CDATA[add]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RectOffset.*(rect)]]></description>

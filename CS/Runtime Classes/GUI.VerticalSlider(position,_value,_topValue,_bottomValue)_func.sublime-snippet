@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.VerticalSlider(${1:Rect position}, ${2:float value}, ${3:float topValue}, ${4:float bottomValue});]]></content>
+	<content><![CDATA[GUI.VerticalSlider(${1:Rect position}, ${2:float value}, ${3:float topValue}, ${4:float bottomValue})]]></content>
 	<tabTrigger><![CDATA[VerticalSlider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(position, value, topValue, bottomValue)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Profiler.EndSample();]]></content>
+	<content><![CDATA[Profiler.EndSample()]]></content>
 	<tabTrigger><![CDATA[profiler.EndSample]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*()]]></description>

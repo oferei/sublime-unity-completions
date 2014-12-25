@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.GetAllCameras(${1:cameras : Camera[]});]]></content>
+	<content><![CDATA[Camera.GetAllCameras(${1:cameras : Camera[]})]]></content>
 	<tabTrigger><![CDATA[GetAllCameras]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Camera.*(cameras)]]></description>

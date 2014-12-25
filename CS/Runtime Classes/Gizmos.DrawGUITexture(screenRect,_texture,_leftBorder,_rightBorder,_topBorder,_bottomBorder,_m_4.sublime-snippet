@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawGUITexture(${1:Rect screenRect}, ${2:Texture texture}, ${3:int leftBorder}, ${4:int rightBorder}, ${5:int topBorder}, ${6:int bottomBorder}, ${7:Material mat = null});]]></content>
+	<content><![CDATA[Gizmos.DrawGUITexture(${1:Rect screenRect}, ${2:Texture texture}, ${3:int leftBorder}, ${4:int rightBorder}, ${5:int topBorder}, ${6:int bottomBorder}, ${7:Material mat = null})]]></content>
 	<tabTrigger><![CDATA[drawGUITexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Gizmos.*(screenRect, texture, leftBorder, rightBorder, topBorder, bottomBorder, mat)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.SetGenerateAllOutputs(${1:ProceduralMaterial material}, ${2:bool generated});]]></content>
+	<content><![CDATA[SubstanceImporter.SetGenerateAllOutputs(${1:ProceduralMaterial material}, ${2:bool generated})]]></content>
 	<tabTrigger><![CDATA[substanceImporter.SetGenerateAllOutputs]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(material, generated)]]></description>

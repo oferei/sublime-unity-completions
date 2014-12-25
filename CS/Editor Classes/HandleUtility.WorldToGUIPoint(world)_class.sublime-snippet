@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.WorldToGUIPoint(${1:Vector3 world});]]></content>
+	<content><![CDATA[HandleUtility.WorldToGUIPoint(${1:Vector3 world})]]></content>
 	<tabTrigger><![CDATA[HandleUtility.WorldToGUIPoint]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(world)]]></description>

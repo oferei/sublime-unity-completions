@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.CrossFade(${1:string animation}, ${2:float fadeLength = 0.3F}, ${3:PlayMode mode = PlayMode.StopSameLayer});]]></content>
+	<content><![CDATA[Animation.CrossFade(${1:string animation}, ${2:float fadeLength = 0.3F}, ${3:PlayMode mode = PlayMode.StopSameLayer})]]></content>
 	<tabTrigger><![CDATA[CrossFade]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animation.*(animation, fadeLength, mode)]]></description>

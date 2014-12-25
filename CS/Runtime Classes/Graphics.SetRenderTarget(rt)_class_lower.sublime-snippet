@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderTexture rt});]]></content>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderTexture rt})]]></content>
 	<tabTrigger><![CDATA[graphics.SetRenderTarget]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rt)]]></description>

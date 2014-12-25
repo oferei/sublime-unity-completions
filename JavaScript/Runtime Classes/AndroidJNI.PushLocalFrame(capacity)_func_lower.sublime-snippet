@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.PushLocalFrame(${1:capacity : int});]]></content>
+	<content><![CDATA[AndroidJNI.PushLocalFrame(${1:capacity : int})]]></content>
 	<tabTrigger><![CDATA[pushLocalFrame]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(capacity)]]></description>

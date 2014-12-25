@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.BeginScrollView(${1:position : Rect}, ${2:scrollPosition : Vector2}, ${3:viewRect : Rect});]]></content>
+	<content><![CDATA[GUI.BeginScrollView(${1:position : Rect}, ${2:scrollPosition : Vector2}, ${3:viewRect : Rect})]]></content>
 	<tabTrigger><![CDATA[BeginScrollView]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(position, scrollPosition, viewRect)]]></description>

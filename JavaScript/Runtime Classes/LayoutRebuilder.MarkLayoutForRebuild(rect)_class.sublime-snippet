@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayoutRebuilder.MarkLayoutForRebuild(${1:rect : RectTransform});]]></content>
+	<content><![CDATA[LayoutRebuilder.MarkLayoutForRebuild(${1:rect : RectTransform})]]></content>
 	<tabTrigger><![CDATA[LayoutRebuilder.MarkLayoutForRebuild]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(rect)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransform.GetWorldCorners(${1:Vector3[] fourCornersArray});]]></content>
+	<content><![CDATA[RectTransform.GetWorldCorners(${1:Vector3[] fourCornersArray})]]></content>
 	<tabTrigger><![CDATA[GetWorldCorners]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RectTransform.*(fourCornersArray)]]></description>

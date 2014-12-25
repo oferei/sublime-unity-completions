@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.SetFloat(${1:propertyName : string}, ${2:value : float});]]></content>
+	<content><![CDATA[Material.SetFloat(${1:propertyName : string}, ${2:value : float})]]></content>
 	<tabTrigger><![CDATA[Material.SetFloat]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(propertyName, value)]]></description>

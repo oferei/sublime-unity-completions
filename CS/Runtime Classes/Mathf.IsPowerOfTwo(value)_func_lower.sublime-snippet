@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.IsPowerOfTwo(${1:int value});]]></content>
+	<content><![CDATA[Mathf.IsPowerOfTwo(${1:int value})]]></content>
 	<tabTrigger><![CDATA[isPowerOfTwo]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(value)]]></description>

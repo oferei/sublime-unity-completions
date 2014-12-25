@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasRenderer.SetMaterial(${1:Material material}, ${2:Texture texture});]]></content>
+	<content><![CDATA[CanvasRenderer.SetMaterial(${1:Material material}, ${2:Texture texture})]]></content>
 	<tabTrigger><![CDATA[setMaterial]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[CanvasRenderer.*(material, texture)]]></description>

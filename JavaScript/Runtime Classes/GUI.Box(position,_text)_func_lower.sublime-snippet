@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.Box(${1:position : Rect}, ${2:text : string});]]></content>
+	<content><![CDATA[GUI.Box(${1:position : Rect}, ${2:text : string})]]></content>
 	<tabTrigger><![CDATA[box]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(position, text)]]></description>

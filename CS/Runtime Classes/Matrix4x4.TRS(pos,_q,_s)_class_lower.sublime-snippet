@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.TRS(${1:Vector3 pos}, ${2:Quaternion q}, ${3:Vector3 s});]]></content>
+	<content><![CDATA[Matrix4x4.TRS(${1:Vector3 pos}, ${2:Quaternion q}, ${3:Vector3 s})]]></content>
 	<tabTrigger><![CDATA[matrix4x4.TRS]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(pos, q, s)]]></description>

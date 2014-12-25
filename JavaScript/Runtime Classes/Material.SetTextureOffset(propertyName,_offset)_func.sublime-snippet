@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.SetTextureOffset(${1:propertyName : string}, ${2:offset : Vector2});]]></content>
+	<content><![CDATA[Material.SetTextureOffset(${1:propertyName : string}, ${2:offset : Vector2})]]></content>
 	<tabTrigger><![CDATA[SetTextureOffset]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Material.*(propertyName, offset)]]></description>

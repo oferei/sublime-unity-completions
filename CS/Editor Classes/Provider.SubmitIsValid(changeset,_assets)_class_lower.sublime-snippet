@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.SubmitIsValid(${1:ChangeSet changeset}, ${2:AssetList assets});]]></content>
+	<content><![CDATA[Provider.SubmitIsValid(${1:ChangeSet changeset}, ${2:AssetList assets})]]></content>
 	<tabTrigger><![CDATA[provider.SubmitIsValid]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(changeset, assets)]]></description>

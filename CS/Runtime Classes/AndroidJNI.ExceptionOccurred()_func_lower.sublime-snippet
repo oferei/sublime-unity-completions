@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ExceptionOccurred();]]></content>
+	<content><![CDATA[AndroidJNI.ExceptionOccurred()]]></content>
 	<tabTrigger><![CDATA[exceptionOccurred]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*()]]></description>

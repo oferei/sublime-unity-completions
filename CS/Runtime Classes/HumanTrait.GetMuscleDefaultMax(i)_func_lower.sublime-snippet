@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HumanTrait.GetMuscleDefaultMax(${1:int i});]]></content>
+	<content><![CDATA[HumanTrait.GetMuscleDefaultMax(${1:int i})]]></content>
 	<tabTrigger><![CDATA[getMuscleDefaultMax]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[HumanTrait.*(i)]]></description>

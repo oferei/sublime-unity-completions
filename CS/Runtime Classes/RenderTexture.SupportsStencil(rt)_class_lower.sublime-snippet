@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.SupportsStencil(${1:RenderTexture rt});]]></content>
+	<content><![CDATA[RenderTexture.SupportsStencil(${1:RenderTexture rt})]]></content>
 	<tabTrigger><![CDATA[renderTexture.SupportsStencil]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rt)]]></description>

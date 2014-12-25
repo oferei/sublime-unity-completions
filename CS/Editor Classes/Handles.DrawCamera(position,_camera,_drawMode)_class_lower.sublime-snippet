@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawCamera(${1:Rect position}, ${2:Camera camera}, ${3:DrawCameraMode drawMode = DrawCameraMode.Normal});]]></content>
+	<content><![CDATA[Handles.DrawCamera(${1:Rect position}, ${2:Camera camera}, ${3:DrawCameraMode drawMode = DrawCameraMode.Normal})]]></content>
 	<tabTrigger><![CDATA[handles.DrawCamera]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, camera, drawMode)]]></description>

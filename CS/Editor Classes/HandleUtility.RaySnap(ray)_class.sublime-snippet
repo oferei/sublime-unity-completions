@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.RaySnap(${1:Ray ray});]]></content>
+	<content><![CDATA[HandleUtility.RaySnap(${1:Ray ray})]]></content>
 	<tabTrigger><![CDATA[HandleUtility.RaySnap]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(ray)]]></description>

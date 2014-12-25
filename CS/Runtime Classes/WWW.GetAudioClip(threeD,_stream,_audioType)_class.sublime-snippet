@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW.GetAudioClip(${1:bool threeD}, ${2:bool stream}, ${3:AudioType audioType});]]></content>
+	<content><![CDATA[WWW.GetAudioClip(${1:bool threeD}, ${2:bool stream}, ${3:AudioType audioType})]]></content>
 	<tabTrigger><![CDATA[WWW.GetAudioClip]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(threeD, stream, audioType)]]></description>

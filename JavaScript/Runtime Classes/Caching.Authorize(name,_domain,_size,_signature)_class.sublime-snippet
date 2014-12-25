@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Caching.Authorize(${1:name : string}, ${2:domain : string}, ${3:size : long}, ${4:signature : string});]]></content>
+	<content><![CDATA[Caching.Authorize(${1:name : string}, ${2:domain : string}, ${3:size : long}, ${4:signature : string})]]></content>
 	<tabTrigger><![CDATA[Caching.Authorize]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name, domain, size, signature)]]></description>

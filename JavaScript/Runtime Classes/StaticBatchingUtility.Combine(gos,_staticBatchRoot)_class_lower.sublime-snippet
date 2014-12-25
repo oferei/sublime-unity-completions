@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[StaticBatchingUtility.Combine(${1:gos : GameObject[]}, ${2:staticBatchRoot : GameObject});]]></content>
+	<content><![CDATA[StaticBatchingUtility.Combine(${1:gos : GameObject[]}, ${2:staticBatchRoot : GameObject})]]></content>
 	<tabTrigger><![CDATA[staticBatchingUtility.Combine]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(gos, staticBatchRoot)]]></description>

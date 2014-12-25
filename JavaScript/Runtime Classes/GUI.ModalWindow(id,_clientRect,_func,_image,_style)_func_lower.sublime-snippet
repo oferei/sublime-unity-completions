@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.ModalWindow(${1:id : int}, ${2:clientRect : Rect}, ${3:func : WindowFunction}, ${4:image : Texture}, ${5:style : GUIStyle});]]></content>
+	<content><![CDATA[GUI.ModalWindow(${1:id : int}, ${2:clientRect : Rect}, ${3:func : WindowFunction}, ${4:image : Texture}, ${5:style : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[modalWindow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(id, clientRect, func, image, style)]]></description>

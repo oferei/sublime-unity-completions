@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.SetAlphamaps(${1:x : int}, ${2:y : int}, ${3:map : float[,,]});]]></content>
+	<content><![CDATA[TerrainData.SetAlphamaps(${1:x : int}, ${2:y : int}, ${3:map : float[,,]})]]></content>
 	<tabTrigger><![CDATA[TerrainData.SetAlphamaps]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(x, y, map)]]></description>

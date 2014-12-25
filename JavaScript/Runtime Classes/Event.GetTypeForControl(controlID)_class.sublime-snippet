@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Event.GetTypeForControl(${1:controlID : int});]]></content>
+	<content><![CDATA[Event.GetTypeForControl(${1:controlID : int})]]></content>
 	<tabTrigger><![CDATA[Event.GetTypeForControl]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(controlID)]]></description>

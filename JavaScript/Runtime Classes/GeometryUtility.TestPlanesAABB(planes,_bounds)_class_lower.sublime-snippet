@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GeometryUtility.TestPlanesAABB(${1:planes : Plane[]}, ${2:bounds : Bounds});]]></content>
+	<content><![CDATA[GeometryUtility.TestPlanesAABB(${1:planes : Plane[]}, ${2:bounds : Bounds})]]></content>
 	<tabTrigger><![CDATA[geometryUtility.TestPlanesAABB]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(planes, bounds)]]></description>

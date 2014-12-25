@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.ToString(${1:format : string});]]></content>
+	<content><![CDATA[Matrix4x4.ToString(${1:format : string})]]></content>
 	<tabTrigger><![CDATA[toString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Matrix4x4.*(format)]]></description>

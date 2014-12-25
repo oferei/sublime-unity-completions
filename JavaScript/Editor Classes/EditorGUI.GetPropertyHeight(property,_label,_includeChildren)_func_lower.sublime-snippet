@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.GetPropertyHeight(${1:property : SerializedProperty}, ${2:label : GUIContent = null}, ${3:includeChildren : bool = true});]]></content>
+	<content><![CDATA[EditorGUI.GetPropertyHeight(${1:property : SerializedProperty}, ${2:label : GUIContent = null}, ${3:includeChildren : bool = true})]]></content>
 	<tabTrigger><![CDATA[getPropertyHeight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUI.*(property, label, includeChildren)]]></description>

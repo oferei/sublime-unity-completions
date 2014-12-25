@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW.LoadImageIntoTexture(${1:Texture2D tex});]]></content>
+	<content><![CDATA[WWW.LoadImageIntoTexture(${1:Texture2D tex})]]></content>
 	<tabTrigger><![CDATA[loadImageIntoTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[WWW.*(tex)]]></description>

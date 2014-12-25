@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.DeleteKey(${1:string key});]]></content>
+	<content><![CDATA[EditorPrefs.DeleteKey(${1:string key})]]></content>
 	<tabTrigger><![CDATA[deleteKey]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorPrefs.*(key)]]></description>

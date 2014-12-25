@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SerializedObject.UpdateIfDirtyOrScript();]]></content>
+	<content><![CDATA[SerializedObject.UpdateIfDirtyOrScript()]]></content>
 	<tabTrigger><![CDATA[updateIfDirtyOrScript]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[SerializedObject.*()]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Clamp(${1:value : int}, ${2:min : int}, ${3:max : int});]]></content>
+	<content><![CDATA[Mathf.Clamp(${1:value : int}, ${2:min : int}, ${3:max : int})]]></content>
 	<tabTrigger><![CDATA[Mathf.Clamp]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value, min, max)]]></description>

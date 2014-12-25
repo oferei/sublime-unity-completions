@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawSolidArc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:from : Vector3}, ${4:angle : float}, ${5:radius : float});]]></content>
+	<content><![CDATA[Handles.DrawSolidArc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:from : Vector3}, ${4:angle : float}, ${5:radius : float})]]></content>
 	<tabTrigger><![CDATA[DrawSolidArc]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handles.*(center, normal, from, angle, radius)]]></description>

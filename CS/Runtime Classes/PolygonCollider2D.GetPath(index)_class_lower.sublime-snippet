@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PolygonCollider2D.GetPath(${1:int index});]]></content>
+	<content><![CDATA[PolygonCollider2D.GetPath(${1:int index})]]></content>
 	<tabTrigger><![CDATA[polygonCollider2D.GetPath]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index)]]></description>

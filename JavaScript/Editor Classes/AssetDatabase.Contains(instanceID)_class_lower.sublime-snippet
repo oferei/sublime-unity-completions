@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.Contains(${1:instanceID : int});]]></content>
+	<content><![CDATA[AssetDatabase.Contains(${1:instanceID : int})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.Contains]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(instanceID)]]></description>

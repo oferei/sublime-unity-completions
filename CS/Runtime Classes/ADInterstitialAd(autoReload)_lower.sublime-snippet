@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ADInterstitialAd(${1:bool autoReload});]]></content>
+	<content><![CDATA[ADInterstitialAd(${1:bool autoReload})]]></content>
 	<tabTrigger><![CDATA[aDInterstitialAd]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(autoReload)]]></description>

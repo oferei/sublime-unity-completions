@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.GetAveragePing(${1:player : NetworkPlayer});]]></content>
+	<content><![CDATA[Network.GetAveragePing(${1:player : NetworkPlayer})]]></content>
 	<tabTrigger><![CDATA[Network.GetAveragePing]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(player)]]></description>

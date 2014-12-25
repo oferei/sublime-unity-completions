@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextureImporter.GetPlatformTextureSettings(${1:platform : string}, ${2:maxTextureSize : int}, ${3:textureFormat : TextureImporterFormat});]]></content>
+	<content><![CDATA[TextureImporter.GetPlatformTextureSettings(${1:platform : string}, ${2:maxTextureSize : int}, ${3:textureFormat : TextureImporterFormat})]]></content>
 	<tabTrigger><![CDATA[TextureImporter.GetPlatformTextureSettings]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(platform, maxTextureSize, textureFormat)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextGenerator.GetPreferredHeight(${1:string str}, ${2:TextGenerationSettings settings});]]></content>
+	<content><![CDATA[TextGenerator.GetPreferredHeight(${1:string str}, ${2:TextGenerationSettings settings})]]></content>
 	<tabTrigger><![CDATA[textGenerator.GetPreferredHeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(str, settings)]]></description>

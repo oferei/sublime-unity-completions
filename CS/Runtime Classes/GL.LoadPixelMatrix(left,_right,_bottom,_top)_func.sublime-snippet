@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.LoadPixelMatrix(${1:float left}, ${2:float right}, ${3:float bottom}, ${4:float top});]]></content>
+	<content><![CDATA[GL.LoadPixelMatrix(${1:float left}, ${2:float right}, ${3:float bottom}, ${4:float top})]]></content>
 	<tabTrigger><![CDATA[LoadPixelMatrix]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GL.*(left, right, bottom, top)]]></description>

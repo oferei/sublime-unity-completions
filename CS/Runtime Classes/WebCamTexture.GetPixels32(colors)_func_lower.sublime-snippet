@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WebCamTexture.GetPixels32(${1:Color32[] colors = null});]]></content>
+	<content><![CDATA[WebCamTexture.GetPixels32(${1:Color32[] colors = null})]]></content>
 	<tabTrigger><![CDATA[getPixels32]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[WebCamTexture.*(colors)]]></description>

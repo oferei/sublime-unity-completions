@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DrawGizmo(${1:gizmo : GizmoType});]]></content>
+	<content><![CDATA[DrawGizmo(${1:gizmo : GizmoType})]]></content>
 	<tabTrigger><![CDATA[drawGizmo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(gizmo)]]></description>

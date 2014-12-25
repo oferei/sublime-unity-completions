@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleEmitter.Emit(${1:int count});]]></content>
+	<content><![CDATA[ParticleEmitter.Emit(${1:int count})]]></content>
 	<tabTrigger><![CDATA[emit]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[ParticleEmitter.*(count)]]></description>

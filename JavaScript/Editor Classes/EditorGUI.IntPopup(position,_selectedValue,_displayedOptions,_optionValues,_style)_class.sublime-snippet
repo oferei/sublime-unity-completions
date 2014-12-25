@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.IntPopup(${1:position : Rect}, ${2:selectedValue : int}, ${3:displayedOptions : GUIContent[]}, ${4:optionValues : int[]}, ${5:style : GUIStyle = EditorStyles.popup});]]></content>
+	<content><![CDATA[EditorGUI.IntPopup(${1:position : Rect}, ${2:selectedValue : int}, ${3:displayedOptions : GUIContent[]}, ${4:optionValues : int[]}, ${5:style : GUIStyle = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.IntPopup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, selectedValue, displayedOptions, optionValues, style)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.CollapseUndoOperations(${1:groupIndex : int});]]></content>
+	<content><![CDATA[Undo.CollapseUndoOperations(${1:groupIndex : int})]]></content>
 	<tabTrigger><![CDATA[CollapseUndoOperations]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Undo.*(groupIndex)]]></description>

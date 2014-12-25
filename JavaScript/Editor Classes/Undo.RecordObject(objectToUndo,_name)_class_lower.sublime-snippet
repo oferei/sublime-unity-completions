@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.RecordObject(${1:objectToUndo : Object}, ${2:name : string});]]></content>
+	<content><![CDATA[Undo.RecordObject(${1:objectToUndo : Object}, ${2:name : string})]]></content>
 	<tabTrigger><![CDATA[undo.RecordObject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(objectToUndo, name)]]></description>

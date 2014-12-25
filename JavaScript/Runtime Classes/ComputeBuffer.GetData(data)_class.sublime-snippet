@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeBuffer.GetData(${1:data : Array});]]></content>
+	<content><![CDATA[ComputeBuffer.GetData(${1:data : Array})]]></content>
 	<tabTrigger><![CDATA[ComputeBuffer.GetData]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(data)]]></description>

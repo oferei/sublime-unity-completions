@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MenuItem(${1:string itemName});]]></content>
+	<content><![CDATA[MenuItem(${1:string itemName})]]></content>
 	<tabTrigger><![CDATA[menuItem]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(itemName)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIElement.GetScreenRect(${1:camera : Camera = null});]]></content>
+	<content><![CDATA[GUIElement.GetScreenRect(${1:camera : Camera = null})]]></content>
 	<tabTrigger><![CDATA[GetScreenRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUIElement.*(camera)]]></description>

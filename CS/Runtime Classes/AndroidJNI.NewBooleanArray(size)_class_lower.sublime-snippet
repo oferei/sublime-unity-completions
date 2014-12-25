@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.NewBooleanArray(${1:int size});]]></content>
+	<content><![CDATA[AndroidJNI.NewBooleanArray(${1:int size})]]></content>
 	<tabTrigger><![CDATA[androidJNI.NewBooleanArray]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(size)]]></description>

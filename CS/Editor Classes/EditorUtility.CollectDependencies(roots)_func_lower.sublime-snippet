@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.CollectDependencies(${1:Object[] roots});]]></content>
+	<content><![CDATA[EditorUtility.CollectDependencies(${1:Object[] roots})]]></content>
 	<tabTrigger><![CDATA[collectDependencies]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorUtility.*(roots)]]></description>

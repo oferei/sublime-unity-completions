@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.UnlockIsValid(${1:asset : Asset});]]></content>
+	<content><![CDATA[Provider.UnlockIsValid(${1:asset : Asset})]]></content>
 	<tabTrigger><![CDATA[unlockIsValid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(asset)]]></description>

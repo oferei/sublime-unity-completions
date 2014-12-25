@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.LoadProjectionMatrix(${1:Matrix4x4 mat});]]></content>
+	<content><![CDATA[GL.LoadProjectionMatrix(${1:Matrix4x4 mat})]]></content>
 	<tabTrigger><![CDATA[GL.LoadProjectionMatrix]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(mat)]]></description>

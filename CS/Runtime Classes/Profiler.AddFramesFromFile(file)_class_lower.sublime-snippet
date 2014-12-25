@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Profiler.AddFramesFromFile(${1:string file});]]></content>
+	<content><![CDATA[Profiler.AddFramesFromFile(${1:string file})]]></content>
 	<tabTrigger><![CDATA[profiler.AddFramesFromFile]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(file)]]></description>

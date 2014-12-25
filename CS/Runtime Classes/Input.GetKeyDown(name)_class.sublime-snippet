@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetKeyDown(${1:string name});]]></content>
+	<content><![CDATA[Input.GetKeyDown(${1:string name})]]></content>
 	<tabTrigger><![CDATA[Input.GetKeyDown]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(name)]]></description>

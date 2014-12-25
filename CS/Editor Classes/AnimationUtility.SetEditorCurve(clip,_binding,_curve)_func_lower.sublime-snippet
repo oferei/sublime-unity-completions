@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.SetEditorCurve(${1:AnimationClip clip}, ${2:EditorCurveBinding binding}, ${3:AnimationCurve curve});]]></content>
+	<content><![CDATA[AnimationUtility.SetEditorCurve(${1:AnimationClip clip}, ${2:EditorCurveBinding binding}, ${3:AnimationCurve curve})]]></content>
 	<tabTrigger><![CDATA[setEditorCurve]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AnimationUtility.*(clip, binding, curve)]]></description>

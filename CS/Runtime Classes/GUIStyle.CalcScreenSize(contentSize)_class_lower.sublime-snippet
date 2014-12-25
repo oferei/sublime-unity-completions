@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.CalcScreenSize(${1:Vector2 contentSize});]]></content>
+	<content><![CDATA[GUIStyle.CalcScreenSize(${1:Vector2 contentSize})]]></content>
 	<tabTrigger><![CDATA[gUIStyle.CalcScreenSize]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(contentSize)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetVersion();]]></content>
+	<content><![CDATA[AndroidJNI.GetVersion()]]></content>
 	<tabTrigger><![CDATA[GetVersion]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*()]]></description>

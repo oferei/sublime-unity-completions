@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeShader.Dispatch(${1:kernelIndex : int}, ${2:threadsX : int}, ${3:threadsY : int}, ${4:threadsZ : int});]]></content>
+	<content><![CDATA[ComputeShader.Dispatch(${1:kernelIndex : int}, ${2:threadsX : int}, ${3:threadsY : int}, ${4:threadsZ : int})]]></content>
 	<tabTrigger><![CDATA[Dispatch]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ComputeShader.*(kernelIndex, threadsX, threadsY, threadsZ)]]></description>

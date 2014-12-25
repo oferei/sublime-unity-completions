@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.IsSubAsset(${1:Object obj});]]></content>
+	<content><![CDATA[AssetDatabase.IsSubAsset(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[IsSubAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(obj)]]></description>

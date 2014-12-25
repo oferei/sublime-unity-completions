@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Microphone.Start(${1:deviceName : string}, ${2:loop : bool}, ${3:lengthSec : int}, ${4:frequency : int});]]></content>
+	<content><![CDATA[Microphone.Start(${1:deviceName : string}, ${2:loop : bool}, ${3:lengthSec : int}, ${4:frequency : int})]]></content>
 	<tabTrigger><![CDATA[Microphone.Start]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(deviceName, loop, lengthSec, frequency)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DecoratorDrawer.OnGUI(${1:position : Rect});]]></content>
+	<content><![CDATA[DecoratorDrawer.OnGUI(${1:position : Rect})]]></content>
 	<tabTrigger><![CDATA[decoratorDrawer.OnGUI]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BlackBerry.SetGPSPermissions(${1:bool enable});]]></content>
+	<content><![CDATA[BlackBerry.SetGPSPermissions(${1:bool enable})]]></content>
 	<tabTrigger><![CDATA[SetGPSPermissions]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[BlackBerry.*(enable)]]></description>

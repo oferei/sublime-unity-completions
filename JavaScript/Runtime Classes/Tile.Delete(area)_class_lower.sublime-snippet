@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.Delete(${1:area : Rect});]]></content>
+	<content><![CDATA[Tile.Delete(${1:area : Rect})]]></content>
 	<tabTrigger><![CDATA[tile.Delete]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(area)]]></description>

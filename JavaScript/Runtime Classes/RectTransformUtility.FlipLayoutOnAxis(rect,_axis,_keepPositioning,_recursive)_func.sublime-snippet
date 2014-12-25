@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransformUtility.FlipLayoutOnAxis(${1:rect : RectTransform}, ${2:axis : int}, ${3:keepPositioning : bool}, ${4:recursive : bool});]]></content>
+	<content><![CDATA[RectTransformUtility.FlipLayoutOnAxis(${1:rect : RectTransform}, ${2:axis : int}, ${3:keepPositioning : bool}, ${4:recursive : bool})]]></content>
 	<tabTrigger><![CDATA[FlipLayoutOnAxis]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RectTransformUtility.*(rect, axis, keepPositioning, recursive)]]></description>

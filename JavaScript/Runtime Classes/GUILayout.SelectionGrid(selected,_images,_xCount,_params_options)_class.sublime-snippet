@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.SelectionGrid(${1:selected : int}, ${2:images : Texture[]}, ${3:xCount : int}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.SelectionGrid(${1:selected : int}, ${2:images : Texture[]}, ${3:xCount : int}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[GUILayout.SelectionGrid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(selected, images, xCount, params options)]]></description>

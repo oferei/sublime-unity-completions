@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.GetRayIntersectionNonAlloc(${1:ray : Ray}, ${2:results : RaycastHit2D[]}, ${3:distance : float = Mathf.Infinity}, ${4:layerMask : int = DefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics2D.GetRayIntersectionNonAlloc(${1:ray : Ray}, ${2:results : RaycastHit2D[]}, ${3:distance : float = Mathf.Infinity}, ${4:layerMask : int = DefaultRaycastLayers})]]></content>
 	<tabTrigger><![CDATA[Physics2D.GetRayIntersectionNonAlloc]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(ray, results, distance, layerMask)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Ray(${1:origin : Vector3}, ${2:direction : Vector3});]]></content>
+	<content><![CDATA[Ray(${1:origin : Vector3}, ${2:direction : Vector3})]]></content>
 	<tabTrigger><![CDATA[Ray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(origin, direction)]]></description>

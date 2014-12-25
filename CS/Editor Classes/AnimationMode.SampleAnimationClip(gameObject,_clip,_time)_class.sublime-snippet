@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationMode.SampleAnimationClip(${1:GameObject gameObject}, ${2:AnimationClip clip}, ${3:float time});]]></content>
+	<content><![CDATA[AnimationMode.SampleAnimationClip(${1:GameObject gameObject}, ${2:AnimationClip clip}, ${3:float time})]]></content>
 	<tabTrigger><![CDATA[AnimationMode.SampleAnimationClip]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(gameObject, clip, time)]]></description>

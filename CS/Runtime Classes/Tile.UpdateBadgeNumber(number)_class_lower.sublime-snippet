@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.UpdateBadgeNumber(${1:float number});]]></content>
+	<content><![CDATA[Tile.UpdateBadgeNumber(${1:float number})]]></content>
 	<tabTrigger><![CDATA[tile.UpdateBadgeNumber]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(number)]]></description>

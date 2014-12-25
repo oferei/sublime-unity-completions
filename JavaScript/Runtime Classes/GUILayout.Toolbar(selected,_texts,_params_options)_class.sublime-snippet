@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Toolbar(${1:selected : int}, ${2:texts : string[]}, ${3:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.Toolbar(${1:selected : int}, ${2:texts : string[]}, ${3:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[GUILayout.Toolbar]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(selected, texts, params options)]]></description>

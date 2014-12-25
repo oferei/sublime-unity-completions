@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawRay(${1:Ray r});]]></content>
+	<content><![CDATA[Gizmos.DrawRay(${1:Ray r})]]></content>
 	<tabTrigger><![CDATA[gizmos.DrawRay]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(r)]]></description>

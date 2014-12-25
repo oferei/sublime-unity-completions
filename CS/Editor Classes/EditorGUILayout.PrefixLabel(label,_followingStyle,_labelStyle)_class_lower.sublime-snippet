@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.PrefixLabel(${1:GUIContent label}, ${2:GUIStyle followingStyle}, ${3:GUIStyle labelStyle});]]></content>
+	<content><![CDATA[EditorGUILayout.PrefixLabel(${1:GUIContent label}, ${2:GUIStyle followingStyle}, ${3:GUIStyle labelStyle})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.PrefixLabel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(label, followingStyle, labelStyle)]]></description>

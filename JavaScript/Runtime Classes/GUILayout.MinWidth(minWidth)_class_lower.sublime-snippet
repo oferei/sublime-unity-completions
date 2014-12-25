@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.MinWidth(${1:minWidth : float});]]></content>
+	<content><![CDATA[GUILayout.MinWidth(${1:minWidth : float})]]></content>
 	<tabTrigger><![CDATA[gUILayout.MinWidth]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(minWidth)]]></description>

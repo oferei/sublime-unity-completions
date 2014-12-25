@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerSettings.SetAspectRatio(${1:AspectRatio aspectRatio}, ${2:bool enable});]]></content>
+	<content><![CDATA[PlayerSettings.SetAspectRatio(${1:AspectRatio aspectRatio}, ${2:bool enable})]]></content>
 	<tabTrigger><![CDATA[PlayerSettings.SetAspectRatio]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(aspectRatio, enable)]]></description>

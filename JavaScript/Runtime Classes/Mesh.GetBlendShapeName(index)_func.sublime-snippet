@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.GetBlendShapeName(${1:index : int});]]></content>
+	<content><![CDATA[Mesh.GetBlendShapeName(${1:index : int})]]></content>
 	<tabTrigger><![CDATA[GetBlendShapeName]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mesh.*(index)]]></description>

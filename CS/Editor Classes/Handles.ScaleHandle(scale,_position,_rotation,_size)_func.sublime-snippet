@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.ScaleHandle(${1:Vector3 scale}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size});]]></content>
+	<content><![CDATA[Handles.ScaleHandle(${1:Vector3 scale}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size})]]></content>
 	<tabTrigger><![CDATA[ScaleHandle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(scale, position, rotation, size)]]></description>

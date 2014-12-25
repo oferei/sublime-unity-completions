@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SparseTexture.UpdateTileRaw(${1:int tileX}, ${2:int tileY}, ${3:int miplevel}, ${4:byte[] data});]]></content>
+	<content><![CDATA[SparseTexture.UpdateTileRaw(${1:int tileX}, ${2:int tileY}, ${3:int miplevel}, ${4:byte[] data})]]></content>
 	<tabTrigger><![CDATA[updateTileRaw]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SparseTexture.*(tileX, tileY, miplevel, data)]]></description>

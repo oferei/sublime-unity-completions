@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.DrawWithTextSelection(${1:Rect position}, ${2:GUIContent content}, ${3:int controlID}, ${4:int firstSelectedCharacter}, ${5:int lastSelectedCharacter});]]></content>
+	<content><![CDATA[GUIStyle.DrawWithTextSelection(${1:Rect position}, ${2:GUIContent content}, ${3:int controlID}, ${4:int firstSelectedCharacter}, ${5:int lastSelectedCharacter})]]></content>
 	<tabTrigger><![CDATA[gUIStyle.DrawWithTextSelection]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, content, controlID, firstSelectedCharacter, lastSelectedCharacter)]]></description>

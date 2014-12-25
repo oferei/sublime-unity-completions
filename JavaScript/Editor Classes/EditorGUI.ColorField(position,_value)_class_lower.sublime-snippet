@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.ColorField(${1:position : Rect}, ${2:value : Color});]]></content>
+	<content><![CDATA[EditorGUI.ColorField(${1:position : Rect}, ${2:value : Color})]]></content>
 	<tabTrigger><![CDATA[editorGUI.ColorField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, value)]]></description>

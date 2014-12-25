@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.SetNextControlName(${1:string name});]]></content>
+	<content><![CDATA[GUI.SetNextControlName(${1:string name})]]></content>
 	<tabTrigger><![CDATA[setNextControlName]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(name)]]></description>

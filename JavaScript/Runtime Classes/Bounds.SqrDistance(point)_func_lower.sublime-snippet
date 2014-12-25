@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.SqrDistance(${1:point : Vector3});]]></content>
+	<content><![CDATA[Bounds.SqrDistance(${1:point : Vector3})]]></content>
 	<tabTrigger><![CDATA[sqrDistance]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Bounds.*(point)]]></description>

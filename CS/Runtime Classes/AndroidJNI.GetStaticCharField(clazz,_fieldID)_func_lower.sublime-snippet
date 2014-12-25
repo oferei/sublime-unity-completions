@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetStaticCharField(${1:IntPtr clazz}, ${2:IntPtr fieldID});]]></content>
+	<content><![CDATA[AndroidJNI.GetStaticCharField(${1:IntPtr clazz}, ${2:IntPtr fieldID})]]></content>
 	<tabTrigger><![CDATA[getStaticCharField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(clazz, fieldID)]]></description>

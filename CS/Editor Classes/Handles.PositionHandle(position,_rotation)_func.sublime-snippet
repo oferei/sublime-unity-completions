@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.PositionHandle(${1:Vector3 position}, ${2:Quaternion rotation});]]></content>
+	<content><![CDATA[Handles.PositionHandle(${1:Vector3 position}, ${2:Quaternion rotation})]]></content>
 	<tabTrigger><![CDATA[PositionHandle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(position, rotation)]]></description>

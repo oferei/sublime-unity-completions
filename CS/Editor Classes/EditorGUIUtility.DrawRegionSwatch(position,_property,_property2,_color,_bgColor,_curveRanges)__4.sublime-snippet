@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.DrawRegionSwatch(${1:Rect position}, ${2:SerializedProperty property}, ${3:SerializedProperty property2}, ${4:Color color}, ${5:Color bgColor}, ${6:Rect curveRanges});]]></content>
+	<content><![CDATA[EditorGUIUtility.DrawRegionSwatch(${1:Rect position}, ${2:SerializedProperty property}, ${3:SerializedProperty property2}, ${4:Color color}, ${5:Color bgColor}, ${6:Rect curveRanges})]]></content>
 	<tabTrigger><![CDATA[drawRegionSwatch]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUIUtility.*(position, property, property2, color, bgColor, curveRanges)]]></description>

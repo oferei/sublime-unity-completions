@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnApplicationFocus(${1:? : bool});]]></content>
+	<content><![CDATA[MonoBehaviour.OnApplicationFocus(${1:? : bool})]]></content>
 	<tabTrigger><![CDATA[monoBehaviour.OnApplicationFocus]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?)]]></description>

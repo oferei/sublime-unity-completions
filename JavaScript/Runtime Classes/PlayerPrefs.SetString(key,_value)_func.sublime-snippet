@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerPrefs.SetString(${1:key : string}, ${2:value : string});]]></content>
+	<content><![CDATA[PlayerPrefs.SetString(${1:key : string}, ${2:value : string})]]></content>
 	<tabTrigger><![CDATA[SetString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PlayerPrefs.*(key, value)]]></description>

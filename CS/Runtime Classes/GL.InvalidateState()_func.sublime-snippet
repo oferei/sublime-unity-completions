@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.InvalidateState();]]></content>
+	<content><![CDATA[GL.InvalidateState()]]></content>
 	<tabTrigger><![CDATA[InvalidateState]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GL.*()]]></description>

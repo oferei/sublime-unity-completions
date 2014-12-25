@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.Angle(${1:from : Vector2}, ${2:to : Vector2});]]></content>
+	<content><![CDATA[Vector2.Angle(${1:from : Vector2}, ${2:to : Vector2})]]></content>
 	<tabTrigger><![CDATA[angle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Vector2.*(from, to)]]></description>

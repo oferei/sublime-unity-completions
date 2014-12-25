@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.OnHierarchyChange();]]></content>
+	<content><![CDATA[EditorWindow.OnHierarchyChange()]]></content>
 	<tabTrigger><![CDATA[onHierarchyChange]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorWindow.*()]]></description>

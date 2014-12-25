@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.RadiusHandle(${1:rotation : Quaternion}, ${2:position : Vector3}, ${3:radius : float}, ${4:handlesOnly : bool});]]></content>
+	<content><![CDATA[Handles.RadiusHandle(${1:rotation : Quaternion}, ${2:position : Vector3}, ${3:radius : float}, ${4:handlesOnly : bool})]]></content>
 	<tabTrigger><![CDATA[handles.RadiusHandle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(rotation, position, radius, handlesOnly)]]></description>

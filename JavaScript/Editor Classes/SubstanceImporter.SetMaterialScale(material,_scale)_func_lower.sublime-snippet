@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.SetMaterialScale(${1:material : ProceduralMaterial}, ${2:scale : Vector2});]]></content>
+	<content><![CDATA[SubstanceImporter.SetMaterialScale(${1:material : ProceduralMaterial}, ${2:scale : Vector2})]]></content>
 	<tabTrigger><![CDATA[setMaterialScale]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[SubstanceImporter.*(material, scale)]]></description>

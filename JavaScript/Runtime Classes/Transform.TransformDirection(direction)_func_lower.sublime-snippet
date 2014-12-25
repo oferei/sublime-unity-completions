@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.TransformDirection(${1:direction : Vector3});]]></content>
+	<content><![CDATA[Transform.TransformDirection(${1:direction : Vector3})]]></content>
 	<tabTrigger><![CDATA[transformDirection]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Transform.*(direction)]]></description>

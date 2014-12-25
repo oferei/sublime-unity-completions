@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cubemap.GetPixel(${1:face : CubemapFace}, ${2:x : int}, ${3:y : int});]]></content>
+	<content><![CDATA[Cubemap.GetPixel(${1:face : CubemapFace}, ${2:x : int}, ${3:y : int})]]></content>
 	<tabTrigger><![CDATA[GetPixel]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Cubemap.*(face, x, y)]]></description>

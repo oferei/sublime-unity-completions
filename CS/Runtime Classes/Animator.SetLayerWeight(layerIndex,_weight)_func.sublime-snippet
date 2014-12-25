@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetLayerWeight(${1:int layerIndex}, ${2:float weight});]]></content>
+	<content><![CDATA[Animator.SetLayerWeight(${1:int layerIndex}, ${2:float weight})]]></content>
 	<tabTrigger><![CDATA[SetLayerWeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animator.*(layerIndex, weight)]]></description>

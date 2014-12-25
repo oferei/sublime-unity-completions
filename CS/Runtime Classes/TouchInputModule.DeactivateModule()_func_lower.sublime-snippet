@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TouchInputModule.DeactivateModule();]]></content>
+	<content><![CDATA[TouchInputModule.DeactivateModule()]]></content>
 	<tabTrigger><![CDATA[deactivateModule]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[TouchInputModule.*()]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.LookLikeControls(${1:labelWidth : float = 0}, ${2:fieldWidth : float = 0});]]></content>
+	<content><![CDATA[EditorGUIUtility.LookLikeControls(${1:labelWidth : float = 0}, ${2:fieldWidth : float = 0})]]></content>
 	<tabTrigger><![CDATA[editorGUIUtility.LookLikeControls]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(labelWidth, fieldWidth)]]></description>

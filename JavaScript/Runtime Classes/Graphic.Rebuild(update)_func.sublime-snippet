@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.Rebuild(${1:update : CanvasUpdate});]]></content>
+	<content><![CDATA[Graphic.Rebuild(${1:update : CanvasUpdate})]]></content>
 	<tabTrigger><![CDATA[Rebuild]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Graphic.*(update)]]></description>

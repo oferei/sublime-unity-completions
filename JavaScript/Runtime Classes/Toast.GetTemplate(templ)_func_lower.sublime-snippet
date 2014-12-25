@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Toast.GetTemplate(${1:templ : ToastTemplate});]]></content>
+	<content><![CDATA[Toast.GetTemplate(${1:templ : ToastTemplate})]]></content>
 	<tabTrigger><![CDATA[getTemplate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Toast.*(templ)]]></description>

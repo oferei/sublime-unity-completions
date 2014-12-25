@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.FloatField(${1:float value}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.FloatField(${1:float value}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[FloatField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(value, style, params options)]]></description>

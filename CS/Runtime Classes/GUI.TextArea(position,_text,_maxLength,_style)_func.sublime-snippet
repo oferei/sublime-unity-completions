@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.TextArea(${1:Rect position}, ${2:string text}, ${3:int maxLength}, ${4:GUIStyle style});]]></content>
+	<content><![CDATA[GUI.TextArea(${1:Rect position}, ${2:string text}, ${3:int maxLength}, ${4:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[TextArea]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(position, text, maxLength, style)]]></description>

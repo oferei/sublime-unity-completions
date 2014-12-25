@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ShaderUtil.GetPropertyName(${1:s : Shader}, ${2:propertyIdx : int});]]></content>
+	<content><![CDATA[ShaderUtil.GetPropertyName(${1:s : Shader}, ${2:propertyIdx : int})]]></content>
 	<tabTrigger><![CDATA[getPropertyName]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ShaderUtil.*(s, propertyIdx)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.InspectorTitlebar(${1:bool foldout}, ${2:Object[] targetObjs});]]></content>
+	<content><![CDATA[EditorGUILayout.InspectorTitlebar(${1:bool foldout}, ${2:Object[] targetObjs})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.InspectorTitlebar]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(foldout, targetObjs)]]></description>

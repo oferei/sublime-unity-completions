@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DataUtility.GetPadding(${1:Sprite sprite});]]></content>
+	<content><![CDATA[DataUtility.GetPadding(${1:Sprite sprite})]]></content>
 	<tabTrigger><![CDATA[DataUtility.GetPadding]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(sprite)]]></description>

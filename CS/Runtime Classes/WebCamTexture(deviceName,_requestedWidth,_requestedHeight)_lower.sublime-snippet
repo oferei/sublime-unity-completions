@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WebCamTexture(${1:string deviceName}, ${2:int requestedWidth}, ${3:int requestedHeight});]]></content>
+	<content><![CDATA[WebCamTexture(${1:string deviceName}, ${2:int requestedWidth}, ${3:int requestedHeight})]]></content>
 	<tabTrigger><![CDATA[webCamTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(deviceName, requestedWidth, requestedHeight)]]></description>

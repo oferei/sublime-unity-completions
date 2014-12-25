@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BuildPipeline.BuildAssetBundle(${1:mainAsset : Object}, ${2:assets : Object[]}, ${3:pathName : string}, ${4:crc : uint}, ${5:assetBundleOptions : BuildAssetBundleOptions = BuildAssetBundleOptions.CollectDependencies | BuildAssetBundleOptions.CompleteAssets}, ${6:targetPlatform : BuildTarget = BuildTarget.WebPlayer});]]></content>
+	<content><![CDATA[BuildPipeline.BuildAssetBundle(${1:mainAsset : Object}, ${2:assets : Object[]}, ${3:pathName : string}, ${4:crc : uint}, ${5:assetBundleOptions : BuildAssetBundleOptions = BuildAssetBundleOptions.CollectDependencies | BuildAssetBundleOptions.CompleteAssets}, ${6:targetPlatform : BuildTarget = BuildTarget.WebPlayer})]]></content>
 	<tabTrigger><![CDATA[BuildPipeline.BuildAssetBundle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(mainAsset, assets, pathName, crc, assetBundleOptions, targetPlatform)]]></description>

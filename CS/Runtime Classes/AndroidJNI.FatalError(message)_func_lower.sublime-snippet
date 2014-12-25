@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.FatalError(${1:string message});]]></content>
+	<content><![CDATA[AndroidJNI.FatalError(${1:string message})]]></content>
 	<tabTrigger><![CDATA[fatalError]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(message)]]></description>

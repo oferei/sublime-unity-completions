@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Toggle(${1:Rect position}, ${2:bool value});]]></content>
+	<content><![CDATA[EditorGUI.Toggle(${1:Rect position}, ${2:bool value})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.Toggle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, value)]]></description>

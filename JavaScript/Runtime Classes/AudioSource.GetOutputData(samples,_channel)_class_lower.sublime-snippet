@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioSource.GetOutputData(${1:samples : float[]}, ${2:channel : int});]]></content>
+	<content><![CDATA[AudioSource.GetOutputData(${1:samples : float[]}, ${2:channel : int})]]></content>
 	<tabTrigger><![CDATA[audioSource.GetOutputData]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(samples, channel)]]></description>

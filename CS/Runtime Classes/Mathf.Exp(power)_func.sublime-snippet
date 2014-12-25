@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Exp(${1:float power});]]></content>
+	<content><![CDATA[Mathf.Exp(${1:float power})]]></content>
 	<tabTrigger><![CDATA[Exp]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(power)]]></description>

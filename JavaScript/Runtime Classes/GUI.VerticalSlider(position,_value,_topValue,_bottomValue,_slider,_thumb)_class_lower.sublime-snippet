@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.VerticalSlider(${1:position : Rect}, ${2:value : float}, ${3:topValue : float}, ${4:bottomValue : float}, ${5:slider : GUIStyle}, ${6:thumb : GUIStyle});]]></content>
+	<content><![CDATA[GUI.VerticalSlider(${1:position : Rect}, ${2:value : float}, ${3:topValue : float}, ${4:bottomValue : float}, ${5:slider : GUIStyle}, ${6:thumb : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[gUI.VerticalSlider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, value, topValue, bottomValue, slider, thumb)]]></description>

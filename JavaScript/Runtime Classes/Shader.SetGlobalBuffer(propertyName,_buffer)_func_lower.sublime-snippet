@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.SetGlobalBuffer(${1:propertyName : string}, ${2:buffer : ComputeBuffer});]]></content>
+	<content><![CDATA[Shader.SetGlobalBuffer(${1:propertyName : string}, ${2:buffer : ComputeBuffer})]]></content>
 	<tabTrigger><![CDATA[setGlobalBuffer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Shader.*(propertyName, buffer)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.Angle(${1:Vector2 from}, ${2:Vector2 to});]]></content>
+	<content><![CDATA[Vector2.Angle(${1:Vector2 from}, ${2:Vector2 to})]]></content>
 	<tabTrigger><![CDATA[vector2.Angle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(from, to)]]></description>

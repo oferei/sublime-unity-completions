@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MeshUtility.SetPerTriangleUV2(${1:src : Mesh}, ${2:triUV : Vector2[]});]]></content>
+	<content><![CDATA[MeshUtility.SetPerTriangleUV2(${1:src : Mesh}, ${2:triUV : Vector2[]})]]></content>
 	<tabTrigger><![CDATA[setPerTriangleUV2]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MeshUtility.*(src, triUV)]]></description>

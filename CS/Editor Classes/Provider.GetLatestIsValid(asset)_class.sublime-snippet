@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.GetLatestIsValid(${1:Asset asset});]]></content>
+	<content><![CDATA[Provider.GetLatestIsValid(${1:Asset asset})]]></content>
 	<tabTrigger><![CDATA[Provider.GetLatestIsValid]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(asset)]]></description>

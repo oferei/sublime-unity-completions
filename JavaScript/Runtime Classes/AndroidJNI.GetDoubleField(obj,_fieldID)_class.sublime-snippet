@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetDoubleField(${1:obj : IntPtr}, ${2:fieldID : IntPtr});]]></content>
+	<content><![CDATA[AndroidJNI.GetDoubleField(${1:obj : IntPtr}, ${2:fieldID : IntPtr})]]></content>
 	<tabTrigger><![CDATA[AndroidJNI.GetDoubleField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(obj, fieldID)]]></description>

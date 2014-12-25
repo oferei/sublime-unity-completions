@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetFloat(${1:name : string}, ${2:value : float});]]></content>
+	<content><![CDATA[Animator.SetFloat(${1:name : string}, ${2:value : float})]]></content>
 	<tabTrigger><![CDATA[animator.SetFloat]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name, value)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.GetVector(${1:vector : Vector2});]]></content>
+	<content><![CDATA[Rigidbody2D.GetVector(${1:vector : Vector2})]]></content>
 	<tabTrigger><![CDATA[Rigidbody2D.GetVector]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(vector)]]></description>

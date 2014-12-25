@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.Destroy(${1:Object obj}, ${2:float t = 0.0F});]]></content>
+	<content><![CDATA[Object.Destroy(${1:Object obj}, ${2:float t = 0.0F})]]></content>
 	<tabTrigger><![CDATA[Destroy]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Object.*(obj, t)]]></description>

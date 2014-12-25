@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextAreaAttribute(${1:minLines : int}, ${2:maxLines : int});]]></content>
+	<content><![CDATA[TextAreaAttribute(${1:minLines : int}, ${2:maxLines : int})]]></content>
 	<tabTrigger><![CDATA[textAreaAttribute]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(minLines, maxLines)]]></description>

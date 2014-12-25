@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.IsInstanceOf(${1:IntPtr obj}, ${2:IntPtr clazz});]]></content>
+	<content><![CDATA[AndroidJNI.IsInstanceOf(${1:IntPtr obj}, ${2:IntPtr clazz})]]></content>
 	<tabTrigger><![CDATA[isInstanceOf]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(obj, clazz)]]></description>

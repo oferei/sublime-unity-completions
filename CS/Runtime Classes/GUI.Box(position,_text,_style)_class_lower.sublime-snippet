@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.Box(${1:Rect position}, ${2:string text}, ${3:GUIStyle style});]]></content>
+	<content><![CDATA[GUI.Box(${1:Rect position}, ${2:string text}, ${3:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[gUI.Box]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, text, style)]]></description>

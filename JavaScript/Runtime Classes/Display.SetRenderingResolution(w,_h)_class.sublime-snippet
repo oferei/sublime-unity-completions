@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Display.SetRenderingResolution(${1:w : int}, ${2:h : int});]]></content>
+	<content><![CDATA[Display.SetRenderingResolution(${1:w : int}, ${2:h : int})]]></content>
 	<tabTrigger><![CDATA[Display.SetRenderingResolution]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(w, h)]]></description>

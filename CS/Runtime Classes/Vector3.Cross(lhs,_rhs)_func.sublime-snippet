@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector3.Cross(${1:Vector3 lhs}, ${2:Vector3 rhs});]]></content>
+	<content><![CDATA[Vector3.Cross(${1:Vector3 lhs}, ${2:Vector3 rhs})]]></content>
 	<tabTrigger><![CDATA[Cross]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Vector3.*(lhs, rhs)]]></description>

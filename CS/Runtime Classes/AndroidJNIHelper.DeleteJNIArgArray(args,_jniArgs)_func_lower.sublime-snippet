@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.DeleteJNIArgArray(${1:object[] args}, ${2:jvalue[] jniArgs});]]></content>
+	<content><![CDATA[AndroidJNIHelper.DeleteJNIArgArray(${1:object[] args}, ${2:jvalue[] jniArgs})]]></content>
 	<tabTrigger><![CDATA[deleteJNIArgArray]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNIHelper.*(args, jniArgs)]]></description>

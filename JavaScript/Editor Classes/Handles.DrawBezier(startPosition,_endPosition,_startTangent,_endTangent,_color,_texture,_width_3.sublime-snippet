@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawBezier(${1:startPosition : Vector3}, ${2:endPosition : Vector3}, ${3:startTangent : Vector3}, ${4:endTangent : Vector3}, ${5:color : Color}, ${6:texture : Texture2D}, ${7:width : float});]]></content>
+	<content><![CDATA[Handles.DrawBezier(${1:startPosition : Vector3}, ${2:endPosition : Vector3}, ${3:startTangent : Vector3}, ${4:endTangent : Vector3}, ${5:color : Color}, ${6:texture : Texture2D}, ${7:width : float})]]></content>
 	<tabTrigger><![CDATA[DrawBezier]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handles.*(startPosition, endPosition, startTangent, endTangent, color, texture, width)]]></description>

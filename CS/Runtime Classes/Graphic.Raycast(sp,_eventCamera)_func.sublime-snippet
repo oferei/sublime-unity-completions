@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.Raycast(${1:Vector2 sp}, ${2:Camera eventCamera});]]></content>
+	<content><![CDATA[Graphic.Raycast(${1:Vector2 sp}, ${2:Camera eventCamera})]]></content>
 	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Graphic.*(sp, eventCamera)]]></description>

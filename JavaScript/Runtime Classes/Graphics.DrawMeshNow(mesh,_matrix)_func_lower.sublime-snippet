@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMeshNow(${1:mesh : Mesh}, ${2:matrix : Matrix4x4});]]></content>
+	<content><![CDATA[Graphics.DrawMeshNow(${1:mesh : Mesh}, ${2:matrix : Matrix4x4})]]></content>
 	<tabTrigger><![CDATA[drawMeshNow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Graphics.*(mesh, matrix)]]></description>

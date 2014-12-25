@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector3.Reflect(${1:Vector3 inDirection}, ${2:Vector3 inNormal});]]></content>
+	<content><![CDATA[Vector3.Reflect(${1:Vector3 inDirection}, ${2:Vector3 inNormal})]]></content>
 	<tabTrigger><![CDATA[reflect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Vector3.*(inDirection, inNormal)]]></description>

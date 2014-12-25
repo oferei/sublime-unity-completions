@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.IsAssignableFrom(${1:clazz1 : IntPtr}, ${2:clazz2 : IntPtr});]]></content>
+	<content><![CDATA[AndroidJNI.IsAssignableFrom(${1:clazz1 : IntPtr}, ${2:clazz2 : IntPtr})]]></content>
 	<tabTrigger><![CDATA[AndroidJNI.IsAssignableFrom]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(clazz1, clazz2)]]></description>

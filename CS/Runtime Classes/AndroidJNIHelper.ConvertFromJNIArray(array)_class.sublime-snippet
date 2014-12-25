@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.ConvertFromJNIArray(${1:IntPtr array});]]></content>
+	<content><![CDATA[AndroidJNIHelper.ConvertFromJNIArray(${1:IntPtr array})]]></content>
 	<tabTrigger><![CDATA[AndroidJNIHelper.ConvertFromJNIArray]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(array)]]></description>

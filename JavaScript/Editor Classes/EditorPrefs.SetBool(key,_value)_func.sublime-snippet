@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.SetBool(${1:key : string}, ${2:value : bool});]]></content>
+	<content><![CDATA[EditorPrefs.SetBool(${1:key : string}, ${2:value : bool})]]></content>
 	<tabTrigger><![CDATA[SetBool]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorPrefs.*(key, value)]]></description>

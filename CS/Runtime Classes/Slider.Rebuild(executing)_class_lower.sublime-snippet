@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Slider.Rebuild(${1:CanvasUpdate executing});]]></content>
+	<content><![CDATA[Slider.Rebuild(${1:CanvasUpdate executing})]]></content>
 	<tabTrigger><![CDATA[slider.Rebuild]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(executing)]]></description>

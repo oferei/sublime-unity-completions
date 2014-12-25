@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawLine(${1:Vector3 p1}, ${2:Vector3 p2});]]></content>
+	<content><![CDATA[Handles.DrawLine(${1:Vector3 p1}, ${2:Vector3 p2})]]></content>
 	<tabTrigger><![CDATA[drawLine]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(p1, p2)]]></description>

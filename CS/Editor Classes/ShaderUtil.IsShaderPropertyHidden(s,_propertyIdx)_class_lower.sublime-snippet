@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ShaderUtil.IsShaderPropertyHidden(${1:Shader s}, ${2:int propertyIdx});]]></content>
+	<content><![CDATA[ShaderUtil.IsShaderPropertyHidden(${1:Shader s}, ${2:int propertyIdx})]]></content>
 	<tabTrigger><![CDATA[shaderUtil.IsShaderPropertyHidden]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(s, propertyIdx)]]></description>

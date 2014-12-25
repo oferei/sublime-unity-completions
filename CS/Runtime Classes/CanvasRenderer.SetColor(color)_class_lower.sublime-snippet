@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasRenderer.SetColor(${1:Color color});]]></content>
+	<content><![CDATA[CanvasRenderer.SetColor(${1:Color color})]]></content>
 	<tabTrigger><![CDATA[canvasRenderer.SetColor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(color)]]></description>

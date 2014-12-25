@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.DragWindow(${1:Rect position});]]></content>
+	<content><![CDATA[GUI.DragWindow(${1:Rect position})]]></content>
 	<tabTrigger><![CDATA[GUI.DragWindow]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position)]]></description>

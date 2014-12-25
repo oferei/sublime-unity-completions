@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Help.HasHelpForObject(${1:Object obj});]]></content>
+	<content><![CDATA[Help.HasHelpForObject(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[Help.HasHelpForObject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj)]]></description>

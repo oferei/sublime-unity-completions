@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.Draw(${1:Rect position}, ${2:bool isHover}, ${3:bool isActive}, ${4:bool on}, ${5:bool hasKeyboardFocus});]]></content>
+	<content><![CDATA[GUIStyle.Draw(${1:Rect position}, ${2:bool isHover}, ${3:bool isActive}, ${4:bool on}, ${5:bool hasKeyboardFocus})]]></content>
 	<tabTrigger><![CDATA[draw]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUIStyle.*(position, isHover, isActive, on, hasKeyboardFocus)]]></description>

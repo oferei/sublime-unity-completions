@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.RegisterPropertyChangeUndo(${1:label : string});]]></content>
+	<content><![CDATA[MaterialEditor.RegisterPropertyChangeUndo(${1:label : string})]]></content>
 	<tabTrigger><![CDATA[RegisterPropertyChangeUndo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MaterialEditor.*(label)]]></description>

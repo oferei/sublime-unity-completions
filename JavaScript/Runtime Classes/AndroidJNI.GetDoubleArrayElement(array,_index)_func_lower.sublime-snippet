@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetDoubleArrayElement(${1:array : IntPtr}, ${2:index : int});]]></content>
+	<content><![CDATA[AndroidJNI.GetDoubleArrayElement(${1:array : IntPtr}, ${2:index : int})]]></content>
 	<tabTrigger><![CDATA[getDoubleArrayElement]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(array, index)]]></description>

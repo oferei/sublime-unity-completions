@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.GetFloat(${1:key : string}, ${2:defaultValue : float = 0.0F});]]></content>
+	<content><![CDATA[EditorPrefs.GetFloat(${1:key : string}, ${2:defaultValue : float = 0.0F})]]></content>
 	<tabTrigger><![CDATA[editorPrefs.GetFloat]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(key, defaultValue)]]></description>

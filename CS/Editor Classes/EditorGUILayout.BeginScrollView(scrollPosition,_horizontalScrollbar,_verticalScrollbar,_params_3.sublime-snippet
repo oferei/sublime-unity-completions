@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.BeginScrollView(${1:Vector2 scrollPosition}, ${2:GUIStyle horizontalScrollbar}, ${3:GUIStyle verticalScrollbar}, ${4:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.BeginScrollView(${1:Vector2 scrollPosition}, ${2:GUIStyle horizontalScrollbar}, ${3:GUIStyle verticalScrollbar}, ${4:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[BeginScrollView]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(scrollPosition, horizontalScrollbar, verticalScrollbar, params options)]]></description>

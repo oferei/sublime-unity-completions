@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.CollectDeepHierarchy(${1:roots : Object[]});]]></content>
+	<content><![CDATA[EditorUtility.CollectDeepHierarchy(${1:roots : Object[]})]]></content>
 	<tabTrigger><![CDATA[EditorUtility.CollectDeepHierarchy]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(roots)]]></description>

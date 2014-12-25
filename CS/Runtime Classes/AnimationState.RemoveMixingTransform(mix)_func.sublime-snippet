@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationState.RemoveMixingTransform(${1:Transform mix});]]></content>
+	<content><![CDATA[AnimationState.RemoveMixingTransform(${1:Transform mix})]]></content>
 	<tabTrigger><![CDATA[RemoveMixingTransform]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AnimationState.*(mix)]]></description>

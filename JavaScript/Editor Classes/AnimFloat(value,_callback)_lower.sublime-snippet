@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimFloat(${1:value : float}, ${2:callback : UnityAction});]]></content>
+	<content><![CDATA[AnimFloat(${1:value : float}, ${2:callback : UnityAction})]]></content>
 	<tabTrigger><![CDATA[animFloat]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value, callback)]]></description>

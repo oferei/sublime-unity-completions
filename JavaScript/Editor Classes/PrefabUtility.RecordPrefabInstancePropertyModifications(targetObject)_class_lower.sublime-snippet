@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.RecordPrefabInstancePropertyModifications(${1:targetObject : Object});]]></content>
+	<content><![CDATA[PrefabUtility.RecordPrefabInstancePropertyModifications(${1:targetObject : Object})]]></content>
 	<tabTrigger><![CDATA[prefabUtility.RecordPrefabInstancePropertyModifications]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(targetObject)]]></description>

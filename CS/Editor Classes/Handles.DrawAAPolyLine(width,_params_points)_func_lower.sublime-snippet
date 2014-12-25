@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawAAPolyLine(${1:float width}, ${2:Vector3[] params points});]]></content>
+	<content><![CDATA[Handles.DrawAAPolyLine(${1:float width}, ${2:Vector3[] params points})]]></content>
 	<tabTrigger><![CDATA[drawAAPolyLine]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(width, params points)]]></description>

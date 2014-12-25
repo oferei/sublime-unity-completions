@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJavaObject.Call(${1:methodName : string}, ${2:params args : object[]});]]></content>
+	<content><![CDATA[AndroidJavaObject.Call(${1:methodName : string}, ${2:params args : object[]})]]></content>
 	<tabTrigger><![CDATA[call]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJavaObject.*(methodName, params args)]]></description>

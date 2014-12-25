@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GraphicRebuildTracker.TrackGraphic(${1:Graphic g});]]></content>
+	<content><![CDATA[GraphicRebuildTracker.TrackGraphic(${1:Graphic g})]]></content>
 	<tabTrigger><![CDATA[TrackGraphic]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GraphicRebuildTracker.*(g)]]></description>

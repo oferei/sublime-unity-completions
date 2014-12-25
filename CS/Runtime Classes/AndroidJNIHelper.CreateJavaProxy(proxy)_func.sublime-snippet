@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.CreateJavaProxy(${1:AndroidJavaProxy proxy});]]></content>
+	<content><![CDATA[AndroidJNIHelper.CreateJavaProxy(${1:AndroidJavaProxy proxy})]]></content>
 	<tabTrigger><![CDATA[CreateJavaProxy]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNIHelper.*(proxy)]]></description>

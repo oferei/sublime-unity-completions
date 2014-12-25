@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HingeJoint2D.GetReactionTorque(${1:timeStep : float});]]></content>
+	<content><![CDATA[HingeJoint2D.GetReactionTorque(${1:timeStep : float})]]></content>
 	<tabTrigger><![CDATA[hingeJoint2D.GetReactionTorque]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(timeStep)]]></description>

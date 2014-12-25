@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.OpenAsset(${1:objects : Object[]});]]></content>
+	<content><![CDATA[AssetDatabase.OpenAsset(${1:objects : Object[]})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.OpenAsset]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(objects)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.ToString(${1:string format});]]></content>
+	<content><![CDATA[Matrix4x4.ToString(${1:string format})]]></content>
 	<tabTrigger><![CDATA[ToString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Matrix4x4.*(format)]]></description>

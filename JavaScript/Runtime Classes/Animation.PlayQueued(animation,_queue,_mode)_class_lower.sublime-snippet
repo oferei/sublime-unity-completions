@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.PlayQueued(${1:animation : string}, ${2:queue : QueueMode = QueueMode.CompleteOthers}, ${3:mode : PlayMode = PlayMode.StopSameLayer});]]></content>
+	<content><![CDATA[Animation.PlayQueued(${1:animation : string}, ${2:queue : QueueMode = QueueMode.CompleteOthers}, ${3:mode : PlayMode = PlayMode.StopSameLayer})]]></content>
 	<tabTrigger><![CDATA[animation.PlayQueued]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(animation, queue, mode)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.GetRelativePointVelocity(${1:relativePoint : Vector3});]]></content>
+	<content><![CDATA[Rigidbody.GetRelativePointVelocity(${1:relativePoint : Vector3})]]></content>
 	<tabTrigger><![CDATA[rigidbody.GetRelativePointVelocity]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(relativePoint)]]></description>

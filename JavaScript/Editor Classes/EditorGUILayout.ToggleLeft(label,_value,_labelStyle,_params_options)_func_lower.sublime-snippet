@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.ToggleLeft(${1:label : GUIContent}, ${2:value : bool}, ${3:labelStyle : GUIStyle}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.ToggleLeft(${1:label : GUIContent}, ${2:value : bool}, ${3:labelStyle : GUIStyle}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[toggleLeft]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(label, value, labelStyle, params options)]]></description>

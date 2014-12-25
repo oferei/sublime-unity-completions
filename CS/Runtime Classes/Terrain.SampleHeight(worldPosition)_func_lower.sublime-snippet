@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Terrain.SampleHeight(${1:Vector3 worldPosition});]]></content>
+	<content><![CDATA[Terrain.SampleHeight(${1:Vector3 worldPosition})]]></content>
 	<tabTrigger><![CDATA[sampleHeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Terrain.*(worldPosition)]]></description>

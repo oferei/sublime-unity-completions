@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LODUtility.CalculateLODGroupBoundingBox(${1:LODGroup group});]]></content>
+	<content><![CDATA[LODUtility.CalculateLODGroupBoundingBox(${1:LODGroup group})]]></content>
 	<tabTrigger><![CDATA[LODUtility.CalculateLODGroupBoundingBox]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(group)]]></description>

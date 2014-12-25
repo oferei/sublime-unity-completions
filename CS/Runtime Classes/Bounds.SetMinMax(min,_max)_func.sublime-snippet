@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.SetMinMax(${1:Vector3 min}, ${2:Vector3 max});]]></content>
+	<content><![CDATA[Bounds.SetMinMax(${1:Vector3 min}, ${2:Vector3 max})]]></content>
 	<tabTrigger><![CDATA[SetMinMax]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Bounds.*(min, max)]]></description>

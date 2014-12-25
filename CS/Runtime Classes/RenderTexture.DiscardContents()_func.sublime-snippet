@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.DiscardContents();]]></content>
+	<content><![CDATA[RenderTexture.DiscardContents()]]></content>
 	<tabTrigger><![CDATA[DiscardContents]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RenderTexture.*()]]></description>

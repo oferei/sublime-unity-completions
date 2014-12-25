@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.Pause(${1:withChildren : bool = true});]]></content>
+	<content><![CDATA[ParticleSystem.Pause(${1:withChildren : bool = true})]]></content>
 	<tabTrigger><![CDATA[Pause]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ParticleSystem.*(withChildren)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DataUtility.GetSpriteUVs(${1:Sprite sprite}, ${2:bool getAtlasData});]]></content>
+	<content><![CDATA[DataUtility.GetSpriteUVs(${1:Sprite sprite}, ${2:bool getAtlasData})]]></content>
 	<tabTrigger><![CDATA[getSpriteUVs]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[DataUtility.*(sprite, getAtlasData)]]></description>

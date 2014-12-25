@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Toolbar(${1:int selected}, ${2:GUIContent[] contents}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[GUILayout.Toolbar(${1:int selected}, ${2:GUIContent[] contents}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[GUILayout.Toolbar]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(selected, contents, style, params options)]]></description>

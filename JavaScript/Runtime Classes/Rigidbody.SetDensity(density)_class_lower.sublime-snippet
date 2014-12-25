@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.SetDensity(${1:density : float});]]></content>
+	<content><![CDATA[Rigidbody.SetDensity(${1:density : float})]]></content>
 	<tabTrigger><![CDATA[rigidbody.SetDensity]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(density)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PopupWindow.Show(${1:activatorRect : Rect}, ${2:windowContent : PopupWindowContent});]]></content>
+	<content><![CDATA[PopupWindow.Show(${1:activatorRect : Rect}, ${2:windowContent : PopupWindowContent})]]></content>
 	<tabTrigger><![CDATA[show]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PopupWindow.*(activatorRect, windowContent)]]></description>

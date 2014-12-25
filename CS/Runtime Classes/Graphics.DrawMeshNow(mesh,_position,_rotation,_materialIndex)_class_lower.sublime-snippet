@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMeshNow(${1:Mesh mesh}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:int materialIndex});]]></content>
+	<content><![CDATA[Graphics.DrawMeshNow(${1:Mesh mesh}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:int materialIndex})]]></content>
 	<tabTrigger><![CDATA[graphics.DrawMeshNow]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(mesh, position, rotation, materialIndex)]]></description>

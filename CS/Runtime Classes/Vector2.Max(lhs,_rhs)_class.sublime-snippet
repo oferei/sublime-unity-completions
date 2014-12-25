@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.Max(${1:Vector2 lhs}, ${2:Vector2 rhs});]]></content>
+	<content><![CDATA[Vector2.Max(${1:Vector2 lhs}, ${2:Vector2 rhs})]]></content>
 	<tabTrigger><![CDATA[Vector2.Max]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(lhs, rhs)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.ToString(${1:string format});]]></content>
+	<content><![CDATA[Quaternion.ToString(${1:string format})]]></content>
 	<tabTrigger><![CDATA[ToString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Quaternion.*(format)]]></description>

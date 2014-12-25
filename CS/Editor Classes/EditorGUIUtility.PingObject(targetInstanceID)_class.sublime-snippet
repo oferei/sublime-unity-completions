@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.PingObject(${1:int targetInstanceID});]]></content>
+	<content><![CDATA[EditorGUIUtility.PingObject(${1:int targetInstanceID})]]></content>
 	<tabTrigger><![CDATA[EditorGUIUtility.PingObject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(targetInstanceID)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ArrayUtility.FindIndex(${1:array : T[]}, ${2:match : Predicate<T>});]]></content>
+	<content><![CDATA[ArrayUtility.FindIndex(${1:array : T[]}, ${2:match : Predicate<T>})]]></content>
 	<tabTrigger><![CDATA[ArrayUtility.FindIndex]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(array, match)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SkinnedCloth.SetEnabledFading(${1:bool enabled}, ${2:float interpolationTime = 0.5f});]]></content>
+	<content><![CDATA[SkinnedCloth.SetEnabledFading(${1:bool enabled}, ${2:float interpolationTime = 0.5f})]]></content>
 	<tabTrigger><![CDATA[setEnabledFading]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SkinnedCloth.*(enabled, interpolationTime)]]></description>

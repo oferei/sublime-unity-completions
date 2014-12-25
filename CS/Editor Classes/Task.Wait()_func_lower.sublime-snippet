@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Task.Wait();]]></content>
+	<content><![CDATA[Task.Wait()]]></content>
 	<tabTrigger><![CDATA[wait]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Task.*()]]></description>

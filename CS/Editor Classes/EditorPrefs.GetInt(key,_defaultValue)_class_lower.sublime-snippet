@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.GetInt(${1:string key}, ${2:int defaultValue = 0});]]></content>
+	<content><![CDATA[EditorPrefs.GetInt(${1:string key}, ${2:int defaultValue = 0})]]></content>
 	<tabTrigger><![CDATA[editorPrefs.GetInt]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(key, defaultValue)]]></description>

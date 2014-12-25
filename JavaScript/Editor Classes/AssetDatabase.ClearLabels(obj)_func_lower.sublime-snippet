@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.ClearLabels(${1:obj : Object});]]></content>
+	<content><![CDATA[AssetDatabase.ClearLabels(${1:obj : Object})]]></content>
 	<tabTrigger><![CDATA[clearLabels]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*(obj)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.GetLatest(${1:assets : AssetList});]]></content>
+	<content><![CDATA[Provider.GetLatest(${1:assets : AssetList})]]></content>
 	<tabTrigger><![CDATA[Provider.GetLatest]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(assets)]]></description>

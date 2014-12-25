@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Checkout(${1:asset : Object}, ${2:mode : CheckoutMode});]]></content>
+	<content><![CDATA[Provider.Checkout(${1:asset : Object}, ${2:mode : CheckoutMode})]]></content>
 	<tabTrigger><![CDATA[Checkout]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(asset, mode)]]></description>

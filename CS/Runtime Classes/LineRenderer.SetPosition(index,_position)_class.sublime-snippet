@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LineRenderer.SetPosition(${1:int index}, ${2:Vector3 position});]]></content>
+	<content><![CDATA[LineRenderer.SetPosition(${1:int index}, ${2:Vector3 position})]]></content>
 	<tabTrigger><![CDATA[LineRenderer.SetPosition]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index, position)]]></description>

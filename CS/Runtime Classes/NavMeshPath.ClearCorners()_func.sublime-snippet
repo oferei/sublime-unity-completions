@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshPath.ClearCorners();]]></content>
+	<content><![CDATA[NavMeshPath.ClearCorners()]]></content>
 	<tabTrigger><![CDATA[ClearCorners]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NavMeshPath.*()]]></description>

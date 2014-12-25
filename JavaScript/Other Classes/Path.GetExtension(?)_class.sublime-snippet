@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Path.GetExtension(${1:? : string});]]></content>
+	<content><![CDATA[Path.GetExtension(${1:? : string})]]></content>
 	<tabTrigger><![CDATA[Path.GetExtension]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?)]]></description>

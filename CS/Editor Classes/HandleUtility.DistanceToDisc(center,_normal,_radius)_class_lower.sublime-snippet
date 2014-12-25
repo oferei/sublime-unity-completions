@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.DistanceToDisc(${1:Vector3 center}, ${2:Vector3 normal}, ${3:float radius});]]></content>
+	<content><![CDATA[HandleUtility.DistanceToDisc(${1:Vector3 center}, ${2:Vector3 normal}, ${3:float radius})]]></content>
 	<tabTrigger><![CDATA[handleUtility.DistanceToDisc]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(center, normal, radius)]]></description>

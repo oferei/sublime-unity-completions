@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.LerpAngle(${1:float a}, ${2:float b}, ${3:float t});]]></content>
+	<content><![CDATA[Mathf.LerpAngle(${1:float a}, ${2:float b}, ${3:float t})]]></content>
 	<tabTrigger><![CDATA[Mathf.LerpAngle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(a, b, t)]]></description>

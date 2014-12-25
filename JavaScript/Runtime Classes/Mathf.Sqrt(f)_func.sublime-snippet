@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Sqrt(${1:f : float});]]></content>
+	<content><![CDATA[Mathf.Sqrt(${1:f : float})]]></content>
 	<tabTrigger><![CDATA[Sqrt]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mathf.*(f)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.EnumPopup(${1:Enum selected}, ${2:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.EnumPopup(${1:Enum selected}, ${2:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.EnumPopup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(selected, params options)]]></description>

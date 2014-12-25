@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectOffset.Remove(${1:Rect rect});]]></content>
+	<content><![CDATA[RectOffset.Remove(${1:Rect rect})]]></content>
 	<tabTrigger><![CDATA[RectOffset.Remove]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rect)]]></description>

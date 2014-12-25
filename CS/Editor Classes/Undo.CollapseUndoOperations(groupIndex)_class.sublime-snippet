@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.CollapseUndoOperations(${1:int groupIndex});]]></content>
+	<content><![CDATA[Undo.CollapseUndoOperations(${1:int groupIndex})]]></content>
 	<tabTrigger><![CDATA[Undo.CollapseUndoOperations]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(groupIndex)]]></description>

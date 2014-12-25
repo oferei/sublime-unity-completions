@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.TextureProperty(${1:MaterialProperty prop}, ${2:string label});]]></content>
+	<content><![CDATA[MaterialEditor.TextureProperty(${1:MaterialProperty prop}, ${2:string label})]]></content>
 	<tabTrigger><![CDATA[MaterialEditor.TextureProperty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(prop, label)]]></description>

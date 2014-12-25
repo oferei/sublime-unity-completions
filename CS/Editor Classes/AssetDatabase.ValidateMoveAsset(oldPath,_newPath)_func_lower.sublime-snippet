@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.ValidateMoveAsset(${1:string oldPath}, ${2:string newPath});]]></content>
+	<content><![CDATA[AssetDatabase.ValidateMoveAsset(${1:string oldPath}, ${2:string newPath})]]></content>
 	<tabTrigger><![CDATA[validateMoveAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(oldPath, newPath)]]></description>

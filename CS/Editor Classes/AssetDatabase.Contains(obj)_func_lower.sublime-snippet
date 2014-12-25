@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.Contains(${1:Object obj});]]></content>
+	<content><![CDATA[AssetDatabase.Contains(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[contains]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(obj)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.CreateEmptyPrefab(${1:path : string});]]></content>
+	<content><![CDATA[PrefabUtility.CreateEmptyPrefab(${1:path : string})]]></content>
 	<tabTrigger><![CDATA[prefabUtility.CreateEmptyPrefab]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

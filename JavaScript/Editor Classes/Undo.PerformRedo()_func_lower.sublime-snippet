@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.PerformRedo();]]></content>
+	<content><![CDATA[Undo.PerformRedo()]]></content>
 	<tabTrigger><![CDATA[performRedo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Undo.*()]]></description>

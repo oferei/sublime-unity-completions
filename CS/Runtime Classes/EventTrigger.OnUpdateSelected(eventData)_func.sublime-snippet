@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EventTrigger.OnUpdateSelected(${1:BaseEventData eventData});]]></content>
+	<content><![CDATA[EventTrigger.OnUpdateSelected(${1:BaseEventData eventData})]]></content>
 	<tabTrigger><![CDATA[OnUpdateSelected]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EventTrigger.*(eventData)]]></description>

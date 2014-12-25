@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnTriggerExit(${1:Collider ?});]]></content>
+	<content><![CDATA[MonoBehaviour.OnTriggerExit(${1:Collider ?})]]></content>
 	<tabTrigger><![CDATA[monoBehaviour.OnTriggerExit]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(?)]]></description>

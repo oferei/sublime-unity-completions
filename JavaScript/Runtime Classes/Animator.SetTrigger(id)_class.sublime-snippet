@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetTrigger(${1:id : int});]]></content>
+	<content><![CDATA[Animator.SetTrigger(${1:id : int})]]></content>
 	<tabTrigger><![CDATA[Animator.SetTrigger]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(id)]]></description>

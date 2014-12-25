@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawFrustum(${1:center : Vector3}, ${2:fov : float}, ${3:maxRange : float}, ${4:minRange : float}, ${5:aspect : float});]]></content>
+	<content><![CDATA[Gizmos.DrawFrustum(${1:center : Vector3}, ${2:fov : float}, ${3:maxRange : float}, ${4:minRange : float}, ${5:aspect : float})]]></content>
 	<tabTrigger><![CDATA[gizmos.DrawFrustum]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(center, fov, maxRange, minRange, aspect)]]></description>

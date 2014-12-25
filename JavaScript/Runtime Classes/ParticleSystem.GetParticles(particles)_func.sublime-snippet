@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.GetParticles(${1:particles : Particle[]});]]></content>
+	<content><![CDATA[ParticleSystem.GetParticles(${1:particles : Particle[]})]]></content>
 	<tabTrigger><![CDATA[GetParticles]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ParticleSystem.*(particles)]]></description>

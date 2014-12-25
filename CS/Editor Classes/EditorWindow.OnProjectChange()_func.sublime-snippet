@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.OnProjectChange();]]></content>
+	<content><![CDATA[EditorWindow.OnProjectChange()]]></content>
 	<tabTrigger><![CDATA[OnProjectChange]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorWindow.*()]]></description>

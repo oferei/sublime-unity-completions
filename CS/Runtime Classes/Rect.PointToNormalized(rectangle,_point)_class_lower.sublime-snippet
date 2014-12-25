@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.PointToNormalized(${1:Rect rectangle}, ${2:Vector2 point});]]></content>
+	<content><![CDATA[Rect.PointToNormalized(${1:Rect rectangle}, ${2:Vector2 point})]]></content>
 	<tabTrigger><![CDATA[rect.PointToNormalized]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rectangle, point)]]></description>

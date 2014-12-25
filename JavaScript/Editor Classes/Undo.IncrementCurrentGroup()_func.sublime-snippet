@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.IncrementCurrentGroup();]]></content>
+	<content><![CDATA[Undo.IncrementCurrentGroup()]]></content>
 	<tabTrigger><![CDATA[IncrementCurrentGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Undo.*()]]></description>

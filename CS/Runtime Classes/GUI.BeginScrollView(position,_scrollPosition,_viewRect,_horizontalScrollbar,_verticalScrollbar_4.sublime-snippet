@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.BeginScrollView(${1:Rect position}, ${2:Vector2 scrollPosition}, ${3:Rect viewRect}, ${4:GUIStyle horizontalScrollbar}, ${5:GUIStyle verticalScrollbar});]]></content>
+	<content><![CDATA[GUI.BeginScrollView(${1:Rect position}, ${2:Vector2 scrollPosition}, ${3:Rect viewRect}, ${4:GUIStyle horizontalScrollbar}, ${5:GUIStyle verticalScrollbar})]]></content>
 	<tabTrigger><![CDATA[beginScrollView]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(position, scrollPosition, viewRect, horizontalScrollbar, verticalScrollbar)]]></description>

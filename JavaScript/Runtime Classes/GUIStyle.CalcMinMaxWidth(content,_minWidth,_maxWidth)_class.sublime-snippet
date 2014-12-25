@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.CalcMinMaxWidth(${1:content : GUIContent}, ${2:minWidth : float}, ${3:maxWidth : float});]]></content>
+	<content><![CDATA[GUIStyle.CalcMinMaxWidth(${1:content : GUIContent}, ${2:minWidth : float}, ${3:maxWidth : float})]]></content>
 	<tabTrigger><![CDATA[GUIStyle.CalcMinMaxWidth]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(content, minWidth, maxWidth)]]></description>

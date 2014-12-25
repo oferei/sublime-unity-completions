@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawSolidRectangleWithOutline(${1:Vector3[] verts}, ${2:Color faceColor}, ${3:Color outlineColor});]]></content>
+	<content><![CDATA[Handles.DrawSolidRectangleWithOutline(${1:Vector3[] verts}, ${2:Color faceColor}, ${3:Color outlineColor})]]></content>
 	<tabTrigger><![CDATA[drawSolidRectangleWithOutline]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(verts, faceColor, outlineColor)]]></description>

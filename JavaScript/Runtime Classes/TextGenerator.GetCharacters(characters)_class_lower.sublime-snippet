@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextGenerator.GetCharacters(${1:characters : List<UICharInfo>});]]></content>
+	<content><![CDATA[TextGenerator.GetCharacters(${1:characters : List<UICharInfo>})]]></content>
 	<tabTrigger><![CDATA[textGenerator.GetCharacters]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(characters)]]></description>

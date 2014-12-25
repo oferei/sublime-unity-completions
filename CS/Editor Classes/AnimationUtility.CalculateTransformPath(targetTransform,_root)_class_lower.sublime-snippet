@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.CalculateTransformPath(${1:Transform targetTransform}, ${2:Transform root});]]></content>
+	<content><![CDATA[AnimationUtility.CalculateTransformPath(${1:Transform targetTransform}, ${2:Transform root})]]></content>
 	<tabTrigger><![CDATA[animationUtility.CalculateTransformPath]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(targetTransform, root)]]></description>

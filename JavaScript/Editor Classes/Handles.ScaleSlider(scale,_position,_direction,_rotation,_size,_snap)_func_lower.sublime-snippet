@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.ScaleSlider(${1:scale : float}, ${2:position : Vector3}, ${3:direction : Vector3}, ${4:rotation : Quaternion}, ${5:size : float}, ${6:snap : float});]]></content>
+	<content><![CDATA[Handles.ScaleSlider(${1:scale : float}, ${2:position : Vector3}, ${3:direction : Vector3}, ${4:rotation : Quaternion}, ${5:size : float}, ${6:snap : float})]]></content>
 	<tabTrigger><![CDATA[scaleSlider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handles.*(scale, position, direction, rotation, size, snap)]]></description>

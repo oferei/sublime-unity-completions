@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.Update(${1:float deltaTime});]]></content>
+	<content><![CDATA[Animator.Update(${1:float deltaTime})]]></content>
 	<tabTrigger><![CDATA[Update]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animator.*(deltaTime)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Plane.GetDistanceToPoint(${1:Vector3 inPt});]]></content>
+	<content><![CDATA[Plane.GetDistanceToPoint(${1:Vector3 inPt})]]></content>
 	<tabTrigger><![CDATA[GetDistanceToPoint]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Plane.*(inPt)]]></description>

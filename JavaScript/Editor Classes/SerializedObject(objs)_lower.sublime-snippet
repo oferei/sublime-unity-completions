@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SerializedObject(${1:objs : Object[]});]]></content>
+	<content><![CDATA[SerializedObject(${1:objs : Object[]})]]></content>
 	<tabTrigger><![CDATA[serializedObject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(objs)]]></description>

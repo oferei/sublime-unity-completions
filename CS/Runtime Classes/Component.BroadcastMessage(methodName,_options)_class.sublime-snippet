@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.BroadcastMessage(${1:string methodName}, ${2:SendMessageOptions options});]]></content>
+	<content><![CDATA[Component.BroadcastMessage(${1:string methodName}, ${2:SendMessageOptions options})]]></content>
 	<tabTrigger><![CDATA[Component.BroadcastMessage]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(methodName, options)]]></description>

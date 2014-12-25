@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.FormatBytes(${1:int bytes});]]></content>
+	<content><![CDATA[EditorUtility.FormatBytes(${1:int bytes})]]></content>
 	<tabTrigger><![CDATA[EditorUtility.FormatBytes]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(bytes)]]></description>

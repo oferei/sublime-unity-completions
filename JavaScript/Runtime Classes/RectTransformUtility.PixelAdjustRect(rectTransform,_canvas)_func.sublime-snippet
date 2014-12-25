@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransformUtility.PixelAdjustRect(${1:rectTransform : RectTransform}, ${2:canvas : Canvas});]]></content>
+	<content><![CDATA[RectTransformUtility.PixelAdjustRect(${1:rectTransform : RectTransform}, ${2:canvas : Canvas})]]></content>
 	<tabTrigger><![CDATA[PixelAdjustRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RectTransformUtility.*(rectTransform, canvas)]]></description>

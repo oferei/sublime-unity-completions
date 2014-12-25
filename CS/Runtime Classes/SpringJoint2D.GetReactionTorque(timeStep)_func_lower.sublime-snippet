@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SpringJoint2D.GetReactionTorque(${1:float timeStep});]]></content>
+	<content><![CDATA[SpringJoint2D.GetReactionTorque(${1:float timeStep})]]></content>
 	<tabTrigger><![CDATA[getReactionTorque]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SpringJoint2D.*(timeStep)]]></description>

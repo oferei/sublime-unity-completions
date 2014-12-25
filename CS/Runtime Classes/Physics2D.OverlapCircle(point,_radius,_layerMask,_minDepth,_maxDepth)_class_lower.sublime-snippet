@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapCircle(${1:Vector2 point}, ${2:float radius}, ${3:int layerMask = DefaultRaycastLayers}, ${4:float minDepth = -Mathf.Infinity}, ${5:float maxDepth = Mathf.Infinity});]]></content>
+	<content><![CDATA[Physics2D.OverlapCircle(${1:Vector2 point}, ${2:float radius}, ${3:int layerMask = DefaultRaycastLayers}, ${4:float minDepth = -Mathf.Infinity}, ${5:float maxDepth = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[physics2D.OverlapCircle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(point, radius, layerMask, minDepth, maxDepth)]]></description>

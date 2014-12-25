@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Plane.GetSide(${1:Vector3 inPt});]]></content>
+	<content><![CDATA[Plane.GetSide(${1:Vector3 inPt})]]></content>
 	<tabTrigger><![CDATA[GetSide]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Plane.*(inPt)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetFloatField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:float val});]]></content>
+	<content><![CDATA[AndroidJNI.SetFloatField(${1:IntPtr obj}, ${2:IntPtr fieldID}, ${3:float val})]]></content>
 	<tabTrigger><![CDATA[SetFloatField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(obj, fieldID, val)]]></description>

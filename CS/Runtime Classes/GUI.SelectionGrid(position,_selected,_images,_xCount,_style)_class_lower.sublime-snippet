@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.SelectionGrid(${1:Rect position}, ${2:int selected}, ${3:Texture[] images}, ${4:int xCount}, ${5:GUIStyle style});]]></content>
+	<content><![CDATA[GUI.SelectionGrid(${1:Rect position}, ${2:int selected}, ${3:Texture[] images}, ${4:int xCount}, ${5:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[gUI.SelectionGrid]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, selected, images, xCount, style)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeBuffer(${1:int count}, ${2:int stride});]]></content>
+	<content><![CDATA[ComputeBuffer(${1:int count}, ${2:int stride})]]></content>
 	<tabTrigger><![CDATA[computeBuffer]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(count, stride)]]></description>

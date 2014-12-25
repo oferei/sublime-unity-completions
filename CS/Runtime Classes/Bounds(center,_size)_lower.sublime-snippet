@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds(${1:Vector3 center}, ${2:Vector3 size});]]></content>
+	<content><![CDATA[Bounds(${1:Vector3 center}, ${2:Vector3 size})]]></content>
 	<tabTrigger><![CDATA[bounds]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(center, size)]]></description>

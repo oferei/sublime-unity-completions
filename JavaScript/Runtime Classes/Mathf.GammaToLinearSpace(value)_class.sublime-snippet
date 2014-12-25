@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.GammaToLinearSpace(${1:value : float});]]></content>
+	<content><![CDATA[Mathf.GammaToLinearSpace(${1:value : float})]]></content>
 	<tabTrigger><![CDATA[Mathf.GammaToLinearSpace]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value)]]></description>

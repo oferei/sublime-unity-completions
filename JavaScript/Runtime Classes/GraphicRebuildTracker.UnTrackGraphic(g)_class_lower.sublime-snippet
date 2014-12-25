@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GraphicRebuildTracker.UnTrackGraphic(${1:g : Graphic});]]></content>
+	<content><![CDATA[GraphicRebuildTracker.UnTrackGraphic(${1:g : Graphic})]]></content>
 	<tabTrigger><![CDATA[graphicRebuildTracker.UnTrackGraphic]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(g)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.GetAnimationEvents(${1:clip : AnimationClip});]]></content>
+	<content><![CDATA[AnimationUtility.GetAnimationEvents(${1:clip : AnimationClip})]]></content>
 	<tabTrigger><![CDATA[animationUtility.GetAnimationEvents]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(clip)]]></description>

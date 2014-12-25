@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.Begin(${1:mode : int});]]></content>
+	<content><![CDATA[GL.Begin(${1:mode : int})]]></content>
 	<tabTrigger><![CDATA[GL.Begin]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(mode)]]></description>

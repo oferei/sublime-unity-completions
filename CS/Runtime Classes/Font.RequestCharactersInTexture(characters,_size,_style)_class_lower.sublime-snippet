@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Font.RequestCharactersInTexture(${1:string characters}, ${2:int size = 0}, ${3:FontStyle style = FontStyle.Normal});]]></content>
+	<content><![CDATA[Font.RequestCharactersInTexture(${1:string characters}, ${2:int size = 0}, ${3:FontStyle style = FontStyle.Normal})]]></content>
 	<tabTrigger><![CDATA[font.RequestCharactersInTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(characters, size, style)]]></description>

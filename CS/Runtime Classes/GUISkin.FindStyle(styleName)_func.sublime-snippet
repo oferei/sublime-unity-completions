@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUISkin.FindStyle(${1:string styleName});]]></content>
+	<content><![CDATA[GUISkin.FindStyle(${1:string styleName})]]></content>
 	<tabTrigger><![CDATA[FindStyle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUISkin.*(styleName)]]></description>

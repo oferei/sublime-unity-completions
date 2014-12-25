@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.MoveRotation(${1:Quaternion rot});]]></content>
+	<content><![CDATA[Rigidbody.MoveRotation(${1:Quaternion rot})]]></content>
 	<tabTrigger><![CDATA[rigidbody.MoveRotation]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rot)]]></description>

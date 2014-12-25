@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.StartCoroutine(${1:string methodName}, ${2:object value = null});]]></content>
+	<content><![CDATA[MonoBehaviour.StartCoroutine(${1:string methodName}, ${2:object value = null})]]></content>
 	<tabTrigger><![CDATA[StartCoroutine]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MonoBehaviour.*(methodName, value)]]></description>

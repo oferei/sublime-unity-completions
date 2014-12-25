@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Foldout(${1:Rect position}, ${2:bool foldout}, ${3:GUIContent content}, ${4:GUIStyle style = EditorStyles.foldout});]]></content>
+	<content><![CDATA[EditorGUI.Foldout(${1:Rect position}, ${2:bool foldout}, ${3:GUIContent content}, ${4:GUIStyle style = EditorStyles.foldout})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.Foldout]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, foldout, content, style)]]></description>

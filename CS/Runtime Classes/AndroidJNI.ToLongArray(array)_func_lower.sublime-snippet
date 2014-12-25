@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ToLongArray(${1:long[] array});]]></content>
+	<content><![CDATA[AndroidJNI.ToLongArray(${1:long[] array})]]></content>
 	<tabTrigger><![CDATA[toLongArray]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(array)]]></description>

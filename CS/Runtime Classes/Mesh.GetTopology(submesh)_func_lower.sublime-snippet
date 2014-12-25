@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.GetTopology(${1:int submesh});]]></content>
+	<content><![CDATA[Mesh.GetTopology(${1:int submesh})]]></content>
 	<tabTrigger><![CDATA[getTopology]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mesh.*(submesh)]]></description>

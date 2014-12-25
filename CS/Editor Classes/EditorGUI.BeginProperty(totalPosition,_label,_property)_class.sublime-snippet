@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.BeginProperty(${1:Rect totalPosition}, ${2:GUIContent label}, ${3:SerializedProperty property});]]></content>
+	<content><![CDATA[EditorGUI.BeginProperty(${1:Rect totalPosition}, ${2:GUIContent label}, ${3:SerializedProperty property})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.BeginProperty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(totalPosition, label, property)]]></description>

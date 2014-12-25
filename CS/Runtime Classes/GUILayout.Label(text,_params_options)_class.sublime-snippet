@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Label(${1:string text}, ${2:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[GUILayout.Label(${1:string text}, ${2:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[GUILayout.Label]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(text, params options)]]></description>

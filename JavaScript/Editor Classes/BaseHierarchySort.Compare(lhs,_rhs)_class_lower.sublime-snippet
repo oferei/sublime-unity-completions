@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BaseHierarchySort.Compare(${1:lhs : GameObject}, ${2:rhs : GameObject});]]></content>
+	<content><![CDATA[BaseHierarchySort.Compare(${1:lhs : GameObject}, ${2:rhs : GameObject})]]></content>
 	<tabTrigger><![CDATA[baseHierarchySort.Compare]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(lhs, rhs)]]></description>

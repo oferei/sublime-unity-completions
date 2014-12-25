@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.NextPowerOfTwo(${1:value : int});]]></content>
+	<content><![CDATA[Mathf.NextPowerOfTwo(${1:value : int})]]></content>
 	<tabTrigger><![CDATA[nextPowerOfTwo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mathf.*(value)]]></description>

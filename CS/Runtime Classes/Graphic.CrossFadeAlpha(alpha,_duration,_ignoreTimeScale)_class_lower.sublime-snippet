@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.CrossFadeAlpha(${1:float alpha}, ${2:float duration}, ${3:bool ignoreTimeScale});]]></content>
+	<content><![CDATA[Graphic.CrossFadeAlpha(${1:float alpha}, ${2:float duration}, ${3:bool ignoreTimeScale})]]></content>
 	<tabTrigger><![CDATA[graphic.CrossFadeAlpha]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(alpha, duration, ignoreTimeScale)]]></description>

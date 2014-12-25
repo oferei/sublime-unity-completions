@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioSource.PlayClipAtPoint(${1:AudioClip clip}, ${2:Vector3 position}, ${3:float volume = 1.0F});]]></content>
+	<content><![CDATA[AudioSource.PlayClipAtPoint(${1:AudioClip clip}, ${2:Vector3 position}, ${3:float volume = 1.0F})]]></content>
 	<tabTrigger><![CDATA[playClipAtPoint]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AudioSource.*(clip, position, volume)]]></description>

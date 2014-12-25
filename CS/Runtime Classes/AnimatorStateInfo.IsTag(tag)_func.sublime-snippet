@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimatorStateInfo.IsTag(${1:string tag});]]></content>
+	<content><![CDATA[AnimatorStateInfo.IsTag(${1:string tag})]]></content>
 	<tabTrigger><![CDATA[IsTag]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AnimatorStateInfo.*(tag)]]></description>

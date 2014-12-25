@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.MinMaxRect(${1:float left}, ${2:float top}, ${3:float right}, ${4:float bottom});]]></content>
+	<content><![CDATA[Rect.MinMaxRect(${1:float left}, ${2:float top}, ${3:float right}, ${4:float bottom})]]></content>
 	<tabTrigger><![CDATA[Rect.MinMaxRect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(left, top, right, bottom)]]></description>

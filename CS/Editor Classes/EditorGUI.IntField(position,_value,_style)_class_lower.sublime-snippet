@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.IntField(${1:Rect position}, ${2:int value}, ${3:GUIStyle style = EditorStyles.numberField});]]></content>
+	<content><![CDATA[EditorGUI.IntField(${1:Rect position}, ${2:int value}, ${3:GUIStyle style = EditorStyles.numberField})]]></content>
 	<tabTrigger><![CDATA[editorGUI.IntField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, value, style)]]></description>

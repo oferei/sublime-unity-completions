@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.ShowNotification(${1:GUIContent notification});]]></content>
+	<content><![CDATA[EditorWindow.ShowNotification(${1:GUIContent notification})]]></content>
 	<tabTrigger><![CDATA[editorWindow.ShowNotification]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(notification)]]></description>

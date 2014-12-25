@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TooltipAttribute(${1:tooltip : string});]]></content>
+	<content><![CDATA[TooltipAttribute(${1:tooltip : string})]]></content>
 	<tabTrigger><![CDATA[tooltipAttribute]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(tooltip)]]></description>

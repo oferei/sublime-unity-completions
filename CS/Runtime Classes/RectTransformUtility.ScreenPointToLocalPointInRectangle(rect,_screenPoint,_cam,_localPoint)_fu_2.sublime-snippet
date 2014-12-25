@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransformUtility.ScreenPointToLocalPointInRectangle(${1:RectTransform rect}, ${2:Vector2 screenPoint}, ${3:Camera cam}, ${4:Vector2 localPoint});]]></content>
+	<content><![CDATA[RectTransformUtility.ScreenPointToLocalPointInRectangle(${1:RectTransform rect}, ${2:Vector2 screenPoint}, ${3:Camera cam}, ${4:Vector2 localPoint})]]></content>
 	<tabTrigger><![CDATA[screenPointToLocalPointInRectangle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RectTransformUtility.*(rect, screenPoint, cam, localPoint)]]></description>

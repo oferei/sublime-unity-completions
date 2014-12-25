@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.MultiplyVector(${1:Vector3 v});]]></content>
+	<content><![CDATA[Matrix4x4.MultiplyVector(${1:Vector3 v})]]></content>
 	<tabTrigger><![CDATA[multiplyVector]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Matrix4x4.*(v)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Selection.Contains(${1:Object obj});]]></content>
+	<content><![CDATA[Selection.Contains(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[Selection.Contains]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj)]]></description>

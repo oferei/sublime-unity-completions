@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WheelJoint2D.GetMotorTorque(${1:float timeStep});]]></content>
+	<content><![CDATA[WheelJoint2D.GetMotorTorque(${1:float timeStep})]]></content>
 	<tabTrigger><![CDATA[WheelJoint2D.GetMotorTorque]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(timeStep)]]></description>

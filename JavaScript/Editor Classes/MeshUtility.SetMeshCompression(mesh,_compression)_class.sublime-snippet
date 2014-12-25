@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MeshUtility.SetMeshCompression(${1:mesh : Mesh}, ${2:compression : ModelImporterMeshCompression});]]></content>
+	<content><![CDATA[MeshUtility.SetMeshCompression(${1:mesh : Mesh}, ${2:compression : ModelImporterMeshCompression})]]></content>
 	<tabTrigger><![CDATA[MeshUtility.SetMeshCompression]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(mesh, compression)]]></description>

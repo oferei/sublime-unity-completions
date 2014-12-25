@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.ClearWithSkybox(${1:bool clearDepth}, ${2:Camera camera});]]></content>
+	<content><![CDATA[GL.ClearWithSkybox(${1:bool clearDepth}, ${2:Camera camera})]]></content>
 	<tabTrigger><![CDATA[clearWithSkybox]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GL.*(clearDepth, camera)]]></description>

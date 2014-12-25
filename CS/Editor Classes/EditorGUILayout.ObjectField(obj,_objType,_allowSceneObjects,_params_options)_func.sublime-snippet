@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.ObjectField(${1:Object obj}, ${2:Type objType}, ${3:bool allowSceneObjects}, ${4:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.ObjectField(${1:Object obj}, ${2:Type objType}, ${3:bool allowSceneObjects}, ${4:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[ObjectField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(obj, objType, allowSceneObjects, params options)]]></description>

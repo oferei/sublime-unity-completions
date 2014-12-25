@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EventTrigger.OnMove(${1:AxisEventData eventData});]]></content>
+	<content><![CDATA[EventTrigger.OnMove(${1:AxisEventData eventData})]]></content>
 	<tabTrigger><![CDATA[OnMove]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EventTrigger.*(eventData)]]></description>

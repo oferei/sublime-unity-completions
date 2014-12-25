@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.ExternalCall(${1:functionName : string}, ${2:params args : object[]});]]></content>
+	<content><![CDATA[Application.ExternalCall(${1:functionName : string}, ${2:params args : object[]})]]></content>
 	<tabTrigger><![CDATA[application.ExternalCall]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(functionName, params args)]]></description>

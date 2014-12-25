@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MultilineAttribute(${1:int lines});]]></content>
+	<content><![CDATA[MultilineAttribute(${1:int lines})]]></content>
 	<tabTrigger><![CDATA[MultilineAttribute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(lines)]]></description>

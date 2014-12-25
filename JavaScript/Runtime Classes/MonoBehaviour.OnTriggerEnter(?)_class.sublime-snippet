@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnTriggerEnter(${1:? : Collider});]]></content>
+	<content><![CDATA[MonoBehaviour.OnTriggerEnter(${1:? : Collider})]]></content>
 	<tabTrigger><![CDATA[MonoBehaviour.OnTriggerEnter]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?)]]></description>

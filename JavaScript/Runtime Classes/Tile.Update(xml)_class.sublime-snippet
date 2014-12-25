@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.Update(${1:xml : string});]]></content>
+	<content><![CDATA[Tile.Update(${1:xml : string})]]></content>
 	<tabTrigger><![CDATA[Tile.Update]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(xml)]]></description>

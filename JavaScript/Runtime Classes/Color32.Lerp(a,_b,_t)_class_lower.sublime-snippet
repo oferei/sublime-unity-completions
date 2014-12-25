@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Color32.Lerp(${1:a : Color32}, ${2:b : Color32}, ${3:t : float});]]></content>
+	<content><![CDATA[Color32.Lerp(${1:a : Color32}, ${2:b : Color32}, ${3:t : float})]]></content>
 	<tabTrigger><![CDATA[color32.Lerp]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(a, b, t)]]></description>

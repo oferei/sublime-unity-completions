@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.FindPrefabRoot(${1:source : GameObject});]]></content>
+	<content><![CDATA[PrefabUtility.FindPrefabRoot(${1:source : GameObject})]]></content>
 	<tabTrigger><![CDATA[findPrefabRoot]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PrefabUtility.*(source)]]></description>

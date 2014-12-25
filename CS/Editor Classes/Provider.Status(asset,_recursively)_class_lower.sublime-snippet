@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Status(${1:string asset}, ${2:bool recursively});]]></content>
+	<content><![CDATA[Provider.Status(${1:string asset}, ${2:bool recursively})]]></content>
 	<tabTrigger><![CDATA[provider.Status]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(asset, recursively)]]></description>

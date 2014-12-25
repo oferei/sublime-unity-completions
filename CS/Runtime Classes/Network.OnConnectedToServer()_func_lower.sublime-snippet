@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.OnConnectedToServer();]]></content>
+	<content><![CDATA[Network.OnConnectedToServer()]]></content>
 	<tabTrigger><![CDATA[onConnectedToServer]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Network.*()]]></description>

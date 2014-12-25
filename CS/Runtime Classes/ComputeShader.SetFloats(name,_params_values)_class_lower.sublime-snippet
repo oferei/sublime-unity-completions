@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeShader.SetFloats(${1:string name}, ${2:float[] params values});]]></content>
+	<content><![CDATA[ComputeShader.SetFloats(${1:string name}, ${2:float[] params values})]]></content>
 	<tabTrigger><![CDATA[computeShader.SetFloats]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(name, params values)]]></description>

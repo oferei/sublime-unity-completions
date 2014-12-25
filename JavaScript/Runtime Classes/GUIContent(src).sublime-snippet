@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIContent(${1:src : GUIContent});]]></content>
+	<content><![CDATA[GUIContent(${1:src : GUIContent})]]></content>
 	<tabTrigger><![CDATA[GUIContent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(src)]]></description>

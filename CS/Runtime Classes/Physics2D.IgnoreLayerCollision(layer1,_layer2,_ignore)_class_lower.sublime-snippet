@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.IgnoreLayerCollision(${1:int layer1}, ${2:int layer2}, ${3:bool ignore = true});]]></content>
+	<content><![CDATA[Physics2D.IgnoreLayerCollision(${1:int layer1}, ${2:int layer2}, ${3:bool ignore = true})]]></content>
 	<tabTrigger><![CDATA[physics2D.IgnoreLayerCollision]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(layer1, layer2, ignore)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.TextArea(${1:string text}, ${2:int maxLength}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[GUILayout.TextArea(${1:string text}, ${2:int maxLength}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[TextArea]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUILayout.*(text, maxLength, style, params options)]]></description>

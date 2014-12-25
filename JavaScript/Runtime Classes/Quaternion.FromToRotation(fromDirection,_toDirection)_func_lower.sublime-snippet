@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.FromToRotation(${1:fromDirection : Vector3}, ${2:toDirection : Vector3});]]></content>
+	<content><![CDATA[Quaternion.FromToRotation(${1:fromDirection : Vector3}, ${2:toDirection : Vector3})]]></content>
 	<tabTrigger><![CDATA[fromToRotation]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Quaternion.*(fromDirection, toDirection)]]></description>

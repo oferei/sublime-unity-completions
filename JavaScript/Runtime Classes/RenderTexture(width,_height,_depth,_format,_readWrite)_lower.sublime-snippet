@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture(${1:width : int}, ${2:height : int}, ${3:depth : int}, ${4:format : RenderTextureFormat}, ${5:readWrite : RenderTextureReadWrite});]]></content>
+	<content><![CDATA[RenderTexture(${1:width : int}, ${2:height : int}, ${3:depth : int}, ${4:format : RenderTextureFormat}, ${5:readWrite : RenderTextureReadWrite})]]></content>
 	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(width, height, depth, format, readWrite)]]></description>

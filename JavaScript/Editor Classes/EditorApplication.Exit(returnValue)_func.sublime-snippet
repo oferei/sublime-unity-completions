@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.Exit(${1:returnValue : int});]]></content>
+	<content><![CDATA[EditorApplication.Exit(${1:returnValue : int})]]></content>
 	<tabTrigger><![CDATA[Exit]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorApplication.*(returnValue)]]></description>

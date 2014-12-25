@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.GetAnimatorTransitionInfo(${1:int layerIndex});]]></content>
+	<content><![CDATA[Animator.GetAnimatorTransitionInfo(${1:int layerIndex})]]></content>
 	<tabTrigger><![CDATA[Animator.GetAnimatorTransitionInfo]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(layerIndex)]]></description>

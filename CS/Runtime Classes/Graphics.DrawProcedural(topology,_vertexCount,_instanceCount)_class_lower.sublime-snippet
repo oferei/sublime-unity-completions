@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawProcedural(${1:MeshTopology topology}, ${2:int vertexCount}, ${3:int instanceCount = 1});]]></content>
+	<content><![CDATA[Graphics.DrawProcedural(${1:MeshTopology topology}, ${2:int vertexCount}, ${3:int instanceCount = 1})]]></content>
 	<tabTrigger><![CDATA[graphics.DrawProcedural]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(topology, vertexCount, instanceCount)]]></description>

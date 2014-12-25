@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Text.GetTextAnchorPivot(${1:anchor : TextAnchor});]]></content>
+	<content><![CDATA[Text.GetTextAnchorPivot(${1:anchor : TextAnchor})]]></content>
 	<tabTrigger><![CDATA[GetTextAnchorPivot]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Text.*(anchor)]]></description>

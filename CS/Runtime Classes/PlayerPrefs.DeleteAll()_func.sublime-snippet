@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerPrefs.DeleteAll();]]></content>
+	<content><![CDATA[PlayerPrefs.DeleteAll()]]></content>
 	<tabTrigger><![CDATA[DeleteAll]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[PlayerPrefs.*()]]></description>

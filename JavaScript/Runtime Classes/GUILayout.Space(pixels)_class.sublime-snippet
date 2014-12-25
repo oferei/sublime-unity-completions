@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Space(${1:pixels : float});]]></content>
+	<content><![CDATA[GUILayout.Space(${1:pixels : float})]]></content>
 	<tabTrigger><![CDATA[GUILayout.Space]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(pixels)]]></description>

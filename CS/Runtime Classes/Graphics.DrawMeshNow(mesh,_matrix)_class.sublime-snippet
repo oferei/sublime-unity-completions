@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMeshNow(${1:Mesh mesh}, ${2:Matrix4x4 matrix});]]></content>
+	<content><![CDATA[Graphics.DrawMeshNow(${1:Mesh mesh}, ${2:Matrix4x4 matrix})]]></content>
 	<tabTrigger><![CDATA[Graphics.DrawMeshNow]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(mesh, matrix)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WebCamTexture(${1:deviceName : string});]]></content>
+	<content><![CDATA[WebCamTexture(${1:deviceName : string})]]></content>
 	<tabTrigger><![CDATA[webCamTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(deviceName)]]></description>

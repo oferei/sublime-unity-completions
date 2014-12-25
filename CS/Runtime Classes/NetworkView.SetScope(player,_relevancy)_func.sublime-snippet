@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NetworkView.SetScope(${1:NetworkPlayer player}, ${2:bool relevancy});]]></content>
+	<content><![CDATA[NetworkView.SetScope(${1:NetworkPlayer player}, ${2:bool relevancy})]]></content>
 	<tabTrigger><![CDATA[SetScope]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NetworkView.*(player, relevancy)]]></description>

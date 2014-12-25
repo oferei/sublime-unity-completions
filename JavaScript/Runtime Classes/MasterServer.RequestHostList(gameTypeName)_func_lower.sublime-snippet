@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MasterServer.RequestHostList(${1:gameTypeName : string});]]></content>
+	<content><![CDATA[MasterServer.RequestHostList(${1:gameTypeName : string})]]></content>
 	<tabTrigger><![CDATA[requestHostList]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MasterServer.*(gameTypeName)]]></description>

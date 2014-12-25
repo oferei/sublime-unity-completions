@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.ReconnectToLastPrefab(${1:GameObject go});]]></content>
+	<content><![CDATA[PrefabUtility.ReconnectToLastPrefab(${1:GameObject go})]]></content>
 	<tabTrigger><![CDATA[reconnectToLastPrefab]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[PrefabUtility.*(go)]]></description>

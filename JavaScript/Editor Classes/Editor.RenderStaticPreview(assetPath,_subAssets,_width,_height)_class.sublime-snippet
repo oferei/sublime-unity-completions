@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Editor.RenderStaticPreview(${1:assetPath : string}, ${2:subAssets : Object[]}, ${3:width : int}, ${4:height : int});]]></content>
+	<content><![CDATA[Editor.RenderStaticPreview(${1:assetPath : string}, ${2:subAssets : Object[]}, ${3:width : int}, ${4:height : int})]]></content>
 	<tabTrigger><![CDATA[Editor.RenderStaticPreview]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(assetPath, subAssets, width, height)]]></description>

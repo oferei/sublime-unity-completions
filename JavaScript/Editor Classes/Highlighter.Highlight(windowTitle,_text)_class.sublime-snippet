@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Highlighter.Highlight(${1:windowTitle : string}, ${2:text : string});]]></content>
+	<content><![CDATA[Highlighter.Highlight(${1:windowTitle : string}, ${2:text : string})]]></content>
 	<tabTrigger><![CDATA[Highlighter.Highlight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(windowTitle, text)]]></description>

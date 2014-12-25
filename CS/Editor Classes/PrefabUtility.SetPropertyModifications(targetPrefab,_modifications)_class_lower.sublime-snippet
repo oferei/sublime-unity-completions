@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.SetPropertyModifications(${1:Object targetPrefab}, ${2:PropertyModification[] modifications});]]></content>
+	<content><![CDATA[PrefabUtility.SetPropertyModifications(${1:Object targetPrefab}, ${2:PropertyModification[] modifications})]]></content>
 	<tabTrigger><![CDATA[prefabUtility.SetPropertyModifications]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(targetPrefab, modifications)]]></description>

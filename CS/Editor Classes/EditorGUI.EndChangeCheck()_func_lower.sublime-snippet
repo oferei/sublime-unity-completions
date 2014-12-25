@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.EndChangeCheck();]]></content>
+	<content><![CDATA[EditorGUI.EndChangeCheck()]]></content>
 	<tabTrigger><![CDATA[endChangeCheck]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUI.*()]]></description>

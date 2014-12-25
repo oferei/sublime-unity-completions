@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.SetDetailResolution(${1:int detailResolution}, ${2:int resolutionPerPatch});]]></content>
+	<content><![CDATA[TerrainData.SetDetailResolution(${1:int detailResolution}, ${2:int resolutionPerPatch})]]></content>
 	<tabTrigger><![CDATA[setDetailResolution]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[TerrainData.*(detailResolution, resolutionPerPatch)]]></description>

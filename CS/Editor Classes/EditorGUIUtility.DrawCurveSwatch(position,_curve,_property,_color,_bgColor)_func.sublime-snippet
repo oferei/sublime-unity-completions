@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.DrawCurveSwatch(${1:Rect position}, ${2:AnimationCurve curve}, ${3:SerializedProperty property}, ${4:Color color}, ${5:Color bgColor});]]></content>
+	<content><![CDATA[EditorGUIUtility.DrawCurveSwatch(${1:Rect position}, ${2:AnimationCurve curve}, ${3:SerializedProperty property}, ${4:Color color}, ${5:Color bgColor})]]></content>
 	<tabTrigger><![CDATA[DrawCurveSwatch]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUIUtility.*(position, curve, property, color, bgColor)]]></description>

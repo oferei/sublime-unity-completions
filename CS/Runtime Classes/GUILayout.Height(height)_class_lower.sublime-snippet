@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Height(${1:float height});]]></content>
+	<content><![CDATA[GUILayout.Height(${1:float height})]]></content>
 	<tabTrigger><![CDATA[gUILayout.Height]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(height)]]></description>

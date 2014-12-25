@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.Destroy(${1:NetworkViewID viewID});]]></content>
+	<content><![CDATA[Network.Destroy(${1:NetworkViewID viewID})]]></content>
 	<tabTrigger><![CDATA[destroy]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Network.*(viewID)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.GetString(${1:string key}, ${2:string defaultValue = \"\"});]]></content>
+	<content><![CDATA[EditorPrefs.GetString(${1:string key}, ${2:string defaultValue = \"\"})]]></content>
 	<tabTrigger><![CDATA[EditorPrefs.GetString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(key, defaultValue)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Renderer.SetPropertyBlock(${1:properties : MaterialPropertyBlock});]]></content>
+	<content><![CDATA[Renderer.SetPropertyBlock(${1:properties : MaterialPropertyBlock})]]></content>
 	<tabTrigger><![CDATA[setPropertyBlock]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Renderer.*(properties)]]></description>

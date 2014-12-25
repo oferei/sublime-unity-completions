@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.GetLayerName(${1:int layerIndex});]]></content>
+	<content><![CDATA[Animator.GetLayerName(${1:int layerIndex})]]></content>
 	<tabTrigger><![CDATA[animator.GetLayerName]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(layerIndex)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshAgent.Move(${1:Vector3 offset});]]></content>
+	<content><![CDATA[NavMeshAgent.Move(${1:Vector3 offset})]]></content>
 	<tabTrigger><![CDATA[move]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NavMeshAgent.*(offset)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MouseButtonEventData.PressedThisFrame();]]></content>
+	<content><![CDATA[MouseButtonEventData.PressedThisFrame()]]></content>
 	<tabTrigger><![CDATA[pressedThisFrame]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MouseButtonEventData.*()]]></description>

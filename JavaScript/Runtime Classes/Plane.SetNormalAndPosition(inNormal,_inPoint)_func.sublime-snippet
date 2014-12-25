@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Plane.SetNormalAndPosition(${1:inNormal : Vector3}, ${2:inPoint : Vector3});]]></content>
+	<content><![CDATA[Plane.SetNormalAndPosition(${1:inNormal : Vector3}, ${2:inPoint : Vector3})]]></content>
 	<tabTrigger><![CDATA[SetNormalAndPosition]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Plane.*(inNormal, inPoint)]]></description>

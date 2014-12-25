@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MenuItem(${1:string itemName}, ${2:bool isValidateFunction});]]></content>
+	<content><![CDATA[MenuItem(${1:string itemName}, ${2:bool isValidateFunction})]]></content>
 	<tabTrigger><![CDATA[MenuItem]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(itemName, isValidateFunction)]]></description>

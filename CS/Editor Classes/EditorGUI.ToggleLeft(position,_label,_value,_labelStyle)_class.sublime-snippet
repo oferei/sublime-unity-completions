@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.ToggleLeft(${1:Rect position}, ${2:GUIContent label}, ${3:bool value}, ${4:GUIStyle labelStyle = EditorStyles.label});]]></content>
+	<content><![CDATA[EditorGUI.ToggleLeft(${1:Rect position}, ${2:GUIContent label}, ${3:bool value}, ${4:GUIStyle labelStyle = EditorStyles.label})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.ToggleLeft]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, label, value, labelStyle)]]></description>

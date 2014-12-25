@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FileUtil.ReplaceFile(${1:string src}, ${2:string dst});]]></content>
+	<content><![CDATA[FileUtil.ReplaceFile(${1:string src}, ${2:string dst})]]></content>
 	<tabTrigger><![CDATA[FileUtil.ReplaceFile]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(src, dst)]]></description>

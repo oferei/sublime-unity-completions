@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NetworkView.Find(${1:NetworkViewID viewID});]]></content>
+	<content><![CDATA[NetworkView.Find(${1:NetworkViewID viewID})]]></content>
 	<tabTrigger><![CDATA[find]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NetworkView.*(viewID)]]></description>

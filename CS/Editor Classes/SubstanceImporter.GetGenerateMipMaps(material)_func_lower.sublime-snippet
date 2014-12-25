@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.GetGenerateMipMaps(${1:ProceduralMaterial material});]]></content>
+	<content><![CDATA[SubstanceImporter.GetGenerateMipMaps(${1:ProceduralMaterial material})]]></content>
 	<tabTrigger><![CDATA[getGenerateMipMaps]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SubstanceImporter.*(material)]]></description>

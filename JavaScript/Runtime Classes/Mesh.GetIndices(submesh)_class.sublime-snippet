@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.GetIndices(${1:submesh : int});]]></content>
+	<content><![CDATA[Mesh.GetIndices(${1:submesh : int})]]></content>
 	<tabTrigger><![CDATA[Mesh.GetIndices]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(submesh)]]></description>

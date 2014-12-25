@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.Instantiate(${1:prefab : Object}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:group : int});]]></content>
+	<content><![CDATA[Network.Instantiate(${1:prefab : Object}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:group : int})]]></content>
 	<tabTrigger><![CDATA[Instantiate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Network.*(prefab, position, rotation, group)]]></description>

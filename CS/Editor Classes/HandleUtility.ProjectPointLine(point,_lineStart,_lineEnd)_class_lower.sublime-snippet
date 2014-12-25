@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.ProjectPointLine(${1:Vector3 point}, ${2:Vector3 lineStart}, ${3:Vector3 lineEnd});]]></content>
+	<content><![CDATA[HandleUtility.ProjectPointLine(${1:Vector3 point}, ${2:Vector3 lineStart}, ${3:Vector3 lineEnd})]]></content>
 	<tabTrigger><![CDATA[handleUtility.ProjectPointLine]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(point, lineStart, lineEnd)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnJointBreak(${1:? : float});]]></content>
+	<content><![CDATA[MonoBehaviour.OnJointBreak(${1:? : float})]]></content>
 	<tabTrigger><![CDATA[OnJointBreak]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MonoBehaviour.*(?)]]></description>

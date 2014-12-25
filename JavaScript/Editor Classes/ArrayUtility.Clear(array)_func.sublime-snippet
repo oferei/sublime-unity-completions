@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ArrayUtility.Clear(${1:array : T[]});]]></content>
+	<content><![CDATA[ArrayUtility.Clear(${1:array : T[]})]]></content>
 	<tabTrigger><![CDATA[Clear]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ArrayUtility.*(array)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.Throw(${1:obj : IntPtr});]]></content>
+	<content><![CDATA[AndroidJNI.Throw(${1:obj : IntPtr})]]></content>
 	<tabTrigger><![CDATA[androidJNI.Throw]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(obj)]]></description>

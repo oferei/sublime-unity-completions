@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.Rotate(${1:eulerAngles : Vector3}, ${2:relativeTo : Space = Space.Self});]]></content>
+	<content><![CDATA[Transform.Rotate(${1:eulerAngles : Vector3}, ${2:relativeTo : Space = Space.Self})]]></content>
 	<tabTrigger><![CDATA[rotate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Transform.*(eulerAngles, relativeTo)]]></description>

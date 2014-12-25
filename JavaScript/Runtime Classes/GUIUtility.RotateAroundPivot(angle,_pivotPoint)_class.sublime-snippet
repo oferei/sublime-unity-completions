@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.RotateAroundPivot(${1:angle : float}, ${2:pivotPoint : Vector2});]]></content>
+	<content><![CDATA[GUIUtility.RotateAroundPivot(${1:angle : float}, ${2:pivotPoint : Vector2})]]></content>
 	<tabTrigger><![CDATA[GUIUtility.RotateAroundPivot]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(angle, pivotPoint)]]></description>

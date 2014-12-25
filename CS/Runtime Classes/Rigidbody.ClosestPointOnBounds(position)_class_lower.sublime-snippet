@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.ClosestPointOnBounds(${1:Vector3 position});]]></content>
+	<content><![CDATA[Rigidbody.ClosestPointOnBounds(${1:Vector3 position})]]></content>
 	<tabTrigger><![CDATA[rigidbody.ClosestPointOnBounds]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.SetDirty(${1:Object target});]]></content>
+	<content><![CDATA[EditorUtility.SetDirty(${1:Object target})]]></content>
 	<tabTrigger><![CDATA[setDirty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorUtility.*(target)]]></description>

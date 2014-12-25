@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.IconContent(${1:string name}, ${2:string tooltip});]]></content>
+	<content><![CDATA[EditorGUIUtility.IconContent(${1:string name}, ${2:string tooltip})]]></content>
 	<tabTrigger><![CDATA[IconContent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUIUtility.*(name, tooltip)]]></description>

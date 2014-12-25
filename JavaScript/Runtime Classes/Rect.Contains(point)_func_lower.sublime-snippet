@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.Contains(${1:point : Vector3});]]></content>
+	<content><![CDATA[Rect.Contains(${1:point : Vector3})]]></content>
 	<tabTrigger><![CDATA[contains]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Rect.*(point)]]></description>

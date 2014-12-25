@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GenericMenu.AddSeparator(${1:string path});]]></content>
+	<content><![CDATA[GenericMenu.AddSeparator(${1:string path})]]></content>
 	<tabTrigger><![CDATA[GenericMenu.AddSeparator]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(path)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.GetComponentsInChildren<${1:T}>(${2:bool includeInactive});]]></content>
+	<content><![CDATA[Component.GetComponentsInChildren<${1:T}>(${2:bool includeInactive})]]></content>
 	<tabTrigger><![CDATA[component.GetComponentsInChildren]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*<T>(includeInactive)]]></description>

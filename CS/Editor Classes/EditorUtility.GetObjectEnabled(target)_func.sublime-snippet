@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.GetObjectEnabled(${1:Object target});]]></content>
+	<content><![CDATA[EditorUtility.GetObjectEnabled(${1:Object target})]]></content>
 	<tabTrigger><![CDATA[GetObjectEnabled]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorUtility.*(target)]]></description>

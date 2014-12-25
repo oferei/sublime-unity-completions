@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.SetParent(${1:Transform parent}, ${2:bool worldPositionStays});]]></content>
+	<content><![CDATA[Transform.SetParent(${1:Transform parent}, ${2:bool worldPositionStays})]]></content>
 	<tabTrigger><![CDATA[setParent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Transform.*(parent, worldPositionStays)]]></description>

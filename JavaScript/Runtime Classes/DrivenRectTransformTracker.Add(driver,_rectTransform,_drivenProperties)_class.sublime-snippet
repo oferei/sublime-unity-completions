@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DrivenRectTransformTracker.Add(${1:driver : Object}, ${2:rectTransform : RectTransform}, ${3:drivenProperties : DrivenTransformProperties});]]></content>
+	<content><![CDATA[DrivenRectTransformTracker.Add(${1:driver : Object}, ${2:rectTransform : RectTransform}, ${3:drivenProperties : DrivenTransformProperties})]]></content>
 	<tabTrigger><![CDATA[DrivenRectTransformTracker.Add]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(driver, rectTransform, drivenProperties)]]></description>

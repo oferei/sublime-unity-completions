@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.WriteImportSettingsIfDirty(${1:string path});]]></content>
+	<content><![CDATA[AssetDatabase.WriteImportSettingsIfDirty(${1:string path})]]></content>
 	<tabTrigger><![CDATA[WriteImportSettingsIfDirty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(path)]]></description>

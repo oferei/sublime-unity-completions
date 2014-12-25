@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.RepeatButton(${1:position : Rect}, ${2:content : GUIContent});]]></content>
+	<content><![CDATA[GUI.RepeatButton(${1:position : Rect}, ${2:content : GUIContent})]]></content>
 	<tabTrigger><![CDATA[repeatButton]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(position, content)]]></description>

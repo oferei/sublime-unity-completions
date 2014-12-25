@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SkinnedMeshRenderer.BakeMesh(${1:Mesh mesh});]]></content>
+	<content><![CDATA[SkinnedMeshRenderer.BakeMesh(${1:Mesh mesh})]]></content>
 	<tabTrigger><![CDATA[bakeMesh]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SkinnedMeshRenderer.*(mesh)]]></description>

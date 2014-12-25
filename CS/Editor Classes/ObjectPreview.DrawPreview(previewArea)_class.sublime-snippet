@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ObjectPreview.DrawPreview(${1:Rect previewArea});]]></content>
+	<content><![CDATA[ObjectPreview.DrawPreview(${1:Rect previewArea})]]></content>
 	<tabTrigger><![CDATA[ObjectPreview.DrawPreview]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(previewArea)]]></description>

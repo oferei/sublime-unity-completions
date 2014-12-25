@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUISkin.GetStyle(${1:styleName : string});]]></content>
+	<content><![CDATA[GUISkin.GetStyle(${1:styleName : string})]]></content>
 	<tabTrigger><![CDATA[GUISkin.GetStyle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(styleName)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.Translate(${1:Vector3 translation}, ${2:Transform relativeTo});]]></content>
+	<content><![CDATA[Transform.Translate(${1:Vector3 translation}, ${2:Transform relativeTo})]]></content>
 	<tabTrigger><![CDATA[transform.Translate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(translation, relativeTo)]]></description>

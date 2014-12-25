@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.GetLastPing(${1:NetworkPlayer player});]]></content>
+	<content><![CDATA[Network.GetLastPing(${1:NetworkPlayer player})]]></content>
 	<tabTrigger><![CDATA[GetLastPing]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Network.*(player)]]></description>

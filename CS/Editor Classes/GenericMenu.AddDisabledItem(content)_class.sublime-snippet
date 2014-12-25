@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GenericMenu.AddDisabledItem(${1:GUIContent content});]]></content>
+	<content><![CDATA[GenericMenu.AddDisabledItem(${1:GUIContent content})]]></content>
 	<tabTrigger><![CDATA[GenericMenu.AddDisabledItem]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(content)]]></description>

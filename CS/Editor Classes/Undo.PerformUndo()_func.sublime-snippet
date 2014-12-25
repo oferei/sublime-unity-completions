@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.PerformUndo();]]></content>
+	<content><![CDATA[Undo.PerformUndo()]]></content>
 	<tabTrigger><![CDATA[PerformUndo]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Undo.*()]]></description>

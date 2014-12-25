@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.FloatField(${1:label : GUIContent}, ${2:value : float}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.FloatField(${1:label : GUIContent}, ${2:value : float}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[EditorGUILayout.FloatField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(label, value, style, params options)]]></description>

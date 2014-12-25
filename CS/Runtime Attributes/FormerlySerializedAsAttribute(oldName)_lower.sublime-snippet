@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FormerlySerializedAsAttribute(${1:string oldName});]]></content>
+	<content><![CDATA[FormerlySerializedAsAttribute(${1:string oldName})]]></content>
 	<tabTrigger><![CDATA[formerlySerializedAsAttribute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(oldName)]]></description>

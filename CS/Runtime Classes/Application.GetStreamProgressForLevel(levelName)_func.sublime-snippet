@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.GetStreamProgressForLevel(${1:string levelName});]]></content>
+	<content><![CDATA[Application.GetStreamProgressForLevel(${1:string levelName})]]></content>
 	<tabTrigger><![CDATA[GetStreamProgressForLevel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Application.*(levelName)]]></description>

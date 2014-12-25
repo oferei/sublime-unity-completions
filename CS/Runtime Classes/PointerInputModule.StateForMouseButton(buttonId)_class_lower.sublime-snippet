@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PointerInputModule.StateForMouseButton(${1:int buttonId});]]></content>
+	<content><![CDATA[PointerInputModule.StateForMouseButton(${1:int buttonId})]]></content>
 	<tabTrigger><![CDATA[pointerInputModule.StateForMouseButton]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(buttonId)]]></description>

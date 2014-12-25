@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.RepeatButton(${1:Rect position}, ${2:Texture image});]]></content>
+	<content><![CDATA[GUI.RepeatButton(${1:Rect position}, ${2:Texture image})]]></content>
 	<tabTrigger><![CDATA[repeatButton]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(position, image)]]></description>

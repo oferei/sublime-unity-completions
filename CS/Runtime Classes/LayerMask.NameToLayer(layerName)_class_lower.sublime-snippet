@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayerMask.NameToLayer(${1:string layerName});]]></content>
+	<content><![CDATA[LayerMask.NameToLayer(${1:string layerName})]]></content>
 	<tabTrigger><![CDATA[layerMask.NameToLayer]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(layerName)]]></description>

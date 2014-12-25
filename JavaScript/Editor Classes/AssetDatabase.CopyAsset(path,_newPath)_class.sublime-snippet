@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.CopyAsset(${1:path : string}, ${2:newPath : string});]]></content>
+	<content><![CDATA[AssetDatabase.CopyAsset(${1:path : string}, ${2:newPath : string})]]></content>
 	<tabTrigger><![CDATA[AssetDatabase.CopyAsset]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path, newPath)]]></description>

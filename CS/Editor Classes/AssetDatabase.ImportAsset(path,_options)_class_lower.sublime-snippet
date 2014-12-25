@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.ImportAsset(${1:string path}, ${2:ImportAssetOptions options = ImportAssetOptions.Default});]]></content>
+	<content><![CDATA[AssetDatabase.ImportAsset(${1:string path}, ${2:ImportAssetOptions options = ImportAssetOptions.Default})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.ImportAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(path, options)]]></description>

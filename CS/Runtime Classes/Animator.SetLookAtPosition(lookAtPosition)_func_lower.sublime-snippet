@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetLookAtPosition(${1:Vector3 lookAtPosition});]]></content>
+	<content><![CDATA[Animator.SetLookAtPosition(${1:Vector3 lookAtPosition})]]></content>
 	<tabTrigger><![CDATA[setLookAtPosition]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animator.*(lookAtPosition)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.GetHeights(${1:xBase : int}, ${2:yBase : int}, ${3:width : int}, ${4:height : int});]]></content>
+	<content><![CDATA[TerrainData.GetHeights(${1:xBase : int}, ${2:yBase : int}, ${3:width : int}, ${4:height : int})]]></content>
 	<tabTrigger><![CDATA[TerrainData.GetHeights]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(xBase, yBase, width, height)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.DiscardContents(${1:discardColor : bool}, ${2:discardDepth : bool});]]></content>
+	<content><![CDATA[RenderTexture.DiscardContents(${1:discardColor : bool}, ${2:discardDepth : bool})]]></content>
 	<tabTrigger><![CDATA[discardContents]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RenderTexture.*(discardColor, discardDepth)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.CancelInvoke(${1:methodName : string});]]></content>
+	<content><![CDATA[MonoBehaviour.CancelInvoke(${1:methodName : string})]]></content>
 	<tabTrigger><![CDATA[cancelInvoke]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MonoBehaviour.*(methodName)]]></description>

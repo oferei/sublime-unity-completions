@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawAAPolyLine(${1:lineTex : Texture2D}, ${2:width : float}, ${3:params points : Vector3[]});]]></content>
+	<content><![CDATA[Handles.DrawAAPolyLine(${1:lineTex : Texture2D}, ${2:width : float}, ${3:params points : Vector3[]})]]></content>
 	<tabTrigger><![CDATA[handles.DrawAAPolyLine]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(lineTex, width, params points)]]></description>

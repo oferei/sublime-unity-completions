@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ExecuteEvents.CanHandleEvent(${1:GameObject go});]]></content>
+	<content><![CDATA[ExecuteEvents.CanHandleEvent(${1:GameObject go})]]></content>
 	<tabTrigger><![CDATA[ExecuteEvents.CanHandleEvent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(go)]]></description>

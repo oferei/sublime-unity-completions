@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnPlayerDisconnected(${1:NetworkPlayer ?});]]></content>
+	<content><![CDATA[MonoBehaviour.OnPlayerDisconnected(${1:NetworkPlayer ?})]]></content>
 	<tabTrigger><![CDATA[onPlayerDisconnected]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MonoBehaviour.*(?)]]></description>

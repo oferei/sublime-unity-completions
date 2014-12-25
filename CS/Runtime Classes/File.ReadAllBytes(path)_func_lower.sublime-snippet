@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[File.ReadAllBytes(${1:string path});]]></content>
+	<content><![CDATA[File.ReadAllBytes(${1:string path})]]></content>
 	<tabTrigger><![CDATA[readAllBytes]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[File.*(path)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.NewGlobalRef(${1:IntPtr obj});]]></content>
+	<content><![CDATA[AndroidJNI.NewGlobalRef(${1:IntPtr obj})]]></content>
 	<tabTrigger><![CDATA[androidJNI.NewGlobalRef]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj)]]></description>

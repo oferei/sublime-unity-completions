@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Display.SetRenderingResolution(${1:int w}, ${2:int h});]]></content>
+	<content><![CDATA[Display.SetRenderingResolution(${1:int w}, ${2:int h})]]></content>
 	<tabTrigger><![CDATA[display.SetRenderingResolution]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(w, h)]]></description>

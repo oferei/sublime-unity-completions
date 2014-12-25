@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.GetInterpolatedHeight(${1:float x}, ${2:float y});]]></content>
+	<content><![CDATA[TerrainData.GetInterpolatedHeight(${1:float x}, ${2:float y})]]></content>
 	<tabTrigger><![CDATA[terrainData.GetInterpolatedHeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(x, y)]]></description>

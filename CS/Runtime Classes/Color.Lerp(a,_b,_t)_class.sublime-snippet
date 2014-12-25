@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Color.Lerp(${1:Color a}, ${2:Color b}, ${3:float t});]]></content>
+	<content><![CDATA[Color.Lerp(${1:Color a}, ${2:Color b}, ${3:float t})]]></content>
 	<tabTrigger><![CDATA[Color.Lerp]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(a, b, t)]]></description>

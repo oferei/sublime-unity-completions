@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BuildPipeline.BuildStreamedSceneAssetBundle(${1:string[] levels}, ${2:string locationPath}, ${3:BuildTarget target}, ${4:BuildOptions options = 0});]]></content>
+	<content><![CDATA[BuildPipeline.BuildStreamedSceneAssetBundle(${1:string[] levels}, ${2:string locationPath}, ${3:BuildTarget target}, ${4:BuildOptions options = 0})]]></content>
 	<tabTrigger><![CDATA[buildStreamedSceneAssetBundle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[BuildPipeline.*(levels, locationPath, target, options)]]></description>

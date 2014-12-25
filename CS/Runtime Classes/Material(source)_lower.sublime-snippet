@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material(${1:Material source});]]></content>
+	<content><![CDATA[Material(${1:Material source})]]></content>
 	<tabTrigger><![CDATA[material]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(source)]]></description>

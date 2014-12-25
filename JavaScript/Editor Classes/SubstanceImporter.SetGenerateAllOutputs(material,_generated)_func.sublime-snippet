@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.SetGenerateAllOutputs(${1:material : ProceduralMaterial}, ${2:generated : bool});]]></content>
+	<content><![CDATA[SubstanceImporter.SetGenerateAllOutputs(${1:material : ProceduralMaterial}, ${2:generated : bool})]]></content>
 	<tabTrigger><![CDATA[SetGenerateAllOutputs]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[SubstanceImporter.*(material, generated)]]></description>

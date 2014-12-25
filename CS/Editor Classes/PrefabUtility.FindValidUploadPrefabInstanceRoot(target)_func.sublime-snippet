@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.FindValidUploadPrefabInstanceRoot(${1:GameObject target});]]></content>
+	<content><![CDATA[PrefabUtility.FindValidUploadPrefabInstanceRoot(${1:GameObject target})]]></content>
 	<tabTrigger><![CDATA[FindValidUploadPrefabInstanceRoot]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[PrefabUtility.*(target)]]></description>

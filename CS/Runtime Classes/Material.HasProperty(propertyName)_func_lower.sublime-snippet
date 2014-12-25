@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.HasProperty(${1:string propertyName});]]></content>
+	<content><![CDATA[Material.HasProperty(${1:string propertyName})]]></content>
 	<tabTrigger><![CDATA[hasProperty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Material.*(propertyName)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObjectUtility.SetNavMeshLayer(${1:GameObject go}, ${2:int layer});]]></content>
+	<content><![CDATA[GameObjectUtility.SetNavMeshLayer(${1:GameObject go}, ${2:int layer})]]></content>
 	<tabTrigger><![CDATA[SetNavMeshLayer]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GameObjectUtility.*(go, layer)]]></description>

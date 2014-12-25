@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.LoadLevelAdditiveAsync(${1:int index});]]></content>
+	<content><![CDATA[Application.LoadLevelAdditiveAsync(${1:int index})]]></content>
 	<tabTrigger><![CDATA[Application.LoadLevelAdditiveAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index)]]></description>

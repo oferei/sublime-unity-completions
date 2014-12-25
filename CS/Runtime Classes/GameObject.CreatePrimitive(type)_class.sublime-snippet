@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.CreatePrimitive(${1:PrimitiveType type});]]></content>
+	<content><![CDATA[GameObject.CreatePrimitive(${1:PrimitiveType type})]]></content>
 	<tabTrigger><![CDATA[GameObject.CreatePrimitive]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(type)]]></description>

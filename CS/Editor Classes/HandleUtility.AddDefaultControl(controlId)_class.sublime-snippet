@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.AddDefaultControl(${1:int controlId});]]></content>
+	<content><![CDATA[HandleUtility.AddDefaultControl(${1:int controlId})]]></content>
 	<tabTrigger><![CDATA[HandleUtility.AddDefaultControl]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(controlId)]]></description>

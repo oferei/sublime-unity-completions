@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FontUpdateTracker.TrackText(${1:t : Text});]]></content>
+	<content><![CDATA[FontUpdateTracker.TrackText(${1:t : Text})]]></content>
 	<tabTrigger><![CDATA[FontUpdateTracker.TrackText]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(t)]]></description>

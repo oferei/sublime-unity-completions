@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.CloneMaterial(${1:ProceduralMaterial material});]]></content>
+	<content><![CDATA[SubstanceImporter.CloneMaterial(${1:ProceduralMaterial material})]]></content>
 	<tabTrigger><![CDATA[substanceImporter.CloneMaterial]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(material)]]></description>

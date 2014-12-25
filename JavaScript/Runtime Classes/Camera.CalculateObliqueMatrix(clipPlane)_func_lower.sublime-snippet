@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.CalculateObliqueMatrix(${1:clipPlane : Vector4});]]></content>
+	<content><![CDATA[Camera.CalculateObliqueMatrix(${1:clipPlane : Vector4})]]></content>
 	<tabTrigger><![CDATA[calculateObliqueMatrix]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Camera.*(clipPlane)]]></description>

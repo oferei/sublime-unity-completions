@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetList.FilterCount(${1:bool includeFolder}, ${2:States[] params states});]]></content>
+	<content><![CDATA[AssetList.FilterCount(${1:bool includeFolder}, ${2:States[] params states})]]></content>
 	<tabTrigger><![CDATA[FilterCount]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetList.*(includeFolder, params states)]]></description>

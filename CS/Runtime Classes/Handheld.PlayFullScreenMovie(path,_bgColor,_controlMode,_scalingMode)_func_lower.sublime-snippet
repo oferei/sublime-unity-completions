@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handheld.PlayFullScreenMovie(${1:string path}, ${2:Color bgColor = Color.black}, ${3:FullScreenMovieControlMode controlMode = FullScreenMovieControlMode.Full}, ${4:FullScreenMovieScalingMode scalingMode = FullScreenMovieScalingMode.AspectFit});]]></content>
+	<content><![CDATA[Handheld.PlayFullScreenMovie(${1:string path}, ${2:Color bgColor = Color.black}, ${3:FullScreenMovieControlMode controlMode = FullScreenMovieControlMode.Full}, ${4:FullScreenMovieScalingMode scalingMode = FullScreenMovieScalingMode.AspectFit})]]></content>
 	<tabTrigger><![CDATA[playFullScreenMovie]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handheld.*(path, bgColor, controlMode, scalingMode)]]></description>

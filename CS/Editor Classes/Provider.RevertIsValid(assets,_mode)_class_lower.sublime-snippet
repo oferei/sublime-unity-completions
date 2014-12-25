@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.RevertIsValid(${1:AssetList assets}, ${2:RevertMode mode});]]></content>
+	<content><![CDATA[Provider.RevertIsValid(${1:AssetList assets}, ${2:RevertMode mode})]]></content>
 	<tabTrigger><![CDATA[provider.RevertIsValid]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(assets, mode)]]></description>

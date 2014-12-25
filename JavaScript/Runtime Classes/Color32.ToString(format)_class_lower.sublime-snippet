@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Color32.ToString(${1:format : string});]]></content>
+	<content><![CDATA[Color32.ToString(${1:format : string})]]></content>
 	<tabTrigger><![CDATA[color32.ToString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(format)]]></description>

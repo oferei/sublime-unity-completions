@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.ExpandHeight(${1:expand : bool});]]></content>
+	<content><![CDATA[GUILayout.ExpandHeight(${1:expand : bool})]]></content>
 	<tabTrigger><![CDATA[gUILayout.ExpandHeight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(expand)]]></description>

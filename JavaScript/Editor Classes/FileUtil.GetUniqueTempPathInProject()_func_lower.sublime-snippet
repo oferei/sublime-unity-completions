@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FileUtil.GetUniqueTempPathInProject();]]></content>
+	<content><![CDATA[FileUtil.GetUniqueTempPathInProject()]]></content>
 	<tabTrigger><![CDATA[getUniqueTempPathInProject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[FileUtil.*()]]></description>

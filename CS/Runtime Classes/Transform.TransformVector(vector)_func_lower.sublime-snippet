@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.TransformVector(${1:Vector3 vector});]]></content>
+	<content><![CDATA[Transform.TransformVector(${1:Vector3 vector})]]></content>
 	<tabTrigger><![CDATA[transformVector]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Transform.*(vector)]]></description>

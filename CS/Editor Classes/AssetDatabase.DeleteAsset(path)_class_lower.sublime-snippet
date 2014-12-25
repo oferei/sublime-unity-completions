@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.DeleteAsset(${1:string path});]]></content>
+	<content><![CDATA[AssetDatabase.DeleteAsset(${1:string path})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.DeleteAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(path)]]></description>

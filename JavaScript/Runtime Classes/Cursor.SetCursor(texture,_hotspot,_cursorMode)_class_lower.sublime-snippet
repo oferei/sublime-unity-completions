@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cursor.SetCursor(${1:texture : Texture2D}, ${2:hotspot : Vector2}, ${3:cursorMode : CursorMode});]]></content>
+	<content><![CDATA[Cursor.SetCursor(${1:texture : Texture2D}, ${2:hotspot : Vector2}, ${3:cursorMode : CursorMode})]]></content>
 	<tabTrigger><![CDATA[cursor.SetCursor]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(texture, hotspot, cursorMode)]]></description>

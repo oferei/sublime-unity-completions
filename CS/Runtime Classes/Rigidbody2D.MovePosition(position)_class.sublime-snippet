@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.MovePosition(${1:Vector2 position});]]></content>
+	<content><![CDATA[Rigidbody2D.MovePosition(${1:Vector2 position})]]></content>
 	<tabTrigger><![CDATA[Rigidbody2D.MovePosition]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position)]]></description>

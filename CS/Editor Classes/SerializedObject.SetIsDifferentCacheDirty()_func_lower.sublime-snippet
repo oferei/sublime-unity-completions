@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SerializedObject.SetIsDifferentCacheDirty();]]></content>
+	<content><![CDATA[SerializedObject.SetIsDifferentCacheDirty()]]></content>
 	<tabTrigger><![CDATA[setIsDifferentCacheDirty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SerializedObject.*()]]></description>

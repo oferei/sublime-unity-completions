@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.Set(${1:left : float}, ${2:top : float}, ${3:width : float}, ${4:height : float});]]></content>
+	<content><![CDATA[Rect.Set(${1:left : float}, ${2:top : float}, ${3:width : float}, ${4:height : float})]]></content>
 	<tabTrigger><![CDATA[Rect.Set]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(left, top, width, height)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Max(${1:int a}, ${2:int b});]]></content>
+	<content><![CDATA[Mathf.Max(${1:int a}, ${2:int b})]]></content>
 	<tabTrigger><![CDATA[Max]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(a, b)]]></description>

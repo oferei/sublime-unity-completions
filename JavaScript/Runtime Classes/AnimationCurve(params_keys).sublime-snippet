@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationCurve(${1:params keys : Keyframe[]});]]></content>
+	<content><![CDATA[AnimationCurve(${1:params keys : Keyframe[]})]]></content>
 	<tabTrigger><![CDATA[AnimationCurve]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(params keys)]]></description>

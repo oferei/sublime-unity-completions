@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawRay(${1:from : Vector3}, ${2:direction : Vector3});]]></content>
+	<content><![CDATA[Gizmos.DrawRay(${1:from : Vector3}, ${2:direction : Vector3})]]></content>
 	<tabTrigger><![CDATA[DrawRay]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Gizmos.*(from, direction)]]></description>

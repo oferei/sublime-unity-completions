@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.DistancePointLine(${1:point : Vector3}, ${2:lineStart : Vector3}, ${3:lineEnd : Vector3});]]></content>
+	<content><![CDATA[HandleUtility.DistancePointLine(${1:point : Vector3}, ${2:lineStart : Vector3}, ${3:lineEnd : Vector3})]]></content>
 	<tabTrigger><![CDATA[DistancePointLine]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[HandleUtility.*(point, lineStart, lineEnd)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.RoundToInt(${1:f : float});]]></content>
+	<content><![CDATA[Mathf.RoundToInt(${1:f : float})]]></content>
 	<tabTrigger><![CDATA[mathf.RoundToInt]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(f)]]></description>

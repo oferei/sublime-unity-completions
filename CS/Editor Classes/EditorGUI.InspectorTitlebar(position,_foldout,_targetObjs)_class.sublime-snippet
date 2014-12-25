@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.InspectorTitlebar(${1:Rect position}, ${2:bool foldout}, ${3:Object[] targetObjs});]]></content>
+	<content><![CDATA[EditorGUI.InspectorTitlebar(${1:Rect position}, ${2:bool foldout}, ${3:Object[] targetObjs})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.InspectorTitlebar]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, foldout, targetObjs)]]></description>

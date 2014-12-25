@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.DragWindow(${1:position : Rect});]]></content>
+	<content><![CDATA[GUI.DragWindow(${1:position : Rect})]]></content>
 	<tabTrigger><![CDATA[dragWindow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(position)]]></description>

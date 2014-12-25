@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnNetworkInstantiate(${1:NetworkMessageInfo ?});]]></content>
+	<content><![CDATA[MonoBehaviour.OnNetworkInstantiate(${1:NetworkMessageInfo ?})]]></content>
 	<tabTrigger><![CDATA[onNetworkInstantiate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MonoBehaviour.*(?)]]></description>

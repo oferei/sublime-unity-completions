@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MultilineAttribute(${1:lines : int});]]></content>
+	<content><![CDATA[MultilineAttribute(${1:lines : int})]]></content>
 	<tabTrigger><![CDATA[multilineAttribute]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(lines)]]></description>

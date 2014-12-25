@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.PixelAdjustPoint(${1:Vector2 point});]]></content>
+	<content><![CDATA[Graphic.PixelAdjustPoint(${1:Vector2 point})]]></content>
 	<tabTrigger><![CDATA[Graphic.PixelAdjustPoint]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(point)]]></description>

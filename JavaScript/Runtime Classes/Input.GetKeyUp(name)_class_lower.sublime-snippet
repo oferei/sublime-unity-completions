@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetKeyUp(${1:name : string});]]></content>
+	<content><![CDATA[Input.GetKeyUp(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[input.GetKeyUp]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

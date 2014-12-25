@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.SetGlobalColor(${1:int nameID}, ${2:Color color});]]></content>
+	<content><![CDATA[Shader.SetGlobalColor(${1:int nameID}, ${2:Color color})]]></content>
 	<tabTrigger><![CDATA[shader.SetGlobalColor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(nameID, color)]]></description>

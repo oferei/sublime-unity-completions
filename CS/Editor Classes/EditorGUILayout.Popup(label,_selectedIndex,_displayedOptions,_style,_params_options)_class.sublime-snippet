@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.Popup(${1:GUIContent label}, ${2:int selectedIndex}, ${3:GUIContent[] displayedOptions}, ${4:GUIStyle style}, ${5:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.Popup(${1:GUIContent label}, ${2:int selectedIndex}, ${3:GUIContent[] displayedOptions}, ${4:GUIStyle style}, ${5:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[EditorGUILayout.Popup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(label, selectedIndex, displayedOptions, style, params options)]]></description>

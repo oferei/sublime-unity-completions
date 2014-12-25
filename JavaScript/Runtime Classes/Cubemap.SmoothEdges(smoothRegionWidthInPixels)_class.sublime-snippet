@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cubemap.SmoothEdges(${1:smoothRegionWidthInPixels : int = 1});]]></content>
+	<content><![CDATA[Cubemap.SmoothEdges(${1:smoothRegionWidthInPixels : int = 1})]]></content>
 	<tabTrigger><![CDATA[Cubemap.SmoothEdges]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(smoothRegionWidthInPixels)]]></description>

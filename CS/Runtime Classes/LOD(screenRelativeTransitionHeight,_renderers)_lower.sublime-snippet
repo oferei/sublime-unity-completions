@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LOD(${1:float screenRelativeTransitionHeight}, ${2:Renderer[] renderers});]]></content>
+	<content><![CDATA[LOD(${1:float screenRelativeTransitionHeight}, ${2:Renderer[] renderers})]]></content>
 	<tabTrigger><![CDATA[lOD]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(screenRelativeTransitionHeight, renderers)]]></description>

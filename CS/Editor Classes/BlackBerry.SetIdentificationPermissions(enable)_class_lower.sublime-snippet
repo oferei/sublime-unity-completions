@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BlackBerry.SetIdentificationPermissions(${1:bool enable});]]></content>
+	<content><![CDATA[BlackBerry.SetIdentificationPermissions(${1:bool enable})]]></content>
 	<tabTrigger><![CDATA[blackBerry.SetIdentificationPermissions]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(enable)]]></description>

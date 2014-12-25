@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.IntersectRay(${1:Ray ray});]]></content>
+	<content><![CDATA[Bounds.IntersectRay(${1:Ray ray})]]></content>
 	<tabTrigger><![CDATA[Bounds.IntersectRay]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(ray)]]></description>

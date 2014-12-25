@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.UnregisterDirtyVerticesCallback(${1:UnityAction action});]]></content>
+	<content><![CDATA[Graphic.UnregisterDirtyVerticesCallback(${1:UnityAction action})]]></content>
 	<tabTrigger><![CDATA[unregisterDirtyVerticesCallback]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Graphic.*(action)]]></description>

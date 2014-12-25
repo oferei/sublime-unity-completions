@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.GetChild(${1:int index});]]></content>
+	<content><![CDATA[Transform.GetChild(${1:int index})]]></content>
 	<tabTrigger><![CDATA[GetChild]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Transform.*(index)]]></description>

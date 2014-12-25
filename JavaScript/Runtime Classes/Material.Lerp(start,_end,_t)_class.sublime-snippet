@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.Lerp(${1:start : Material}, ${2:end : Material}, ${3:t : float});]]></content>
+	<content><![CDATA[Material.Lerp(${1:start : Material}, ${2:end : Material}, ${3:t : float})]]></content>
 	<tabTrigger><![CDATA[Material.Lerp]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(start, end, t)]]></description>

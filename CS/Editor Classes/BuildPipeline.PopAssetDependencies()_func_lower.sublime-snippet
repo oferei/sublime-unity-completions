@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BuildPipeline.PopAssetDependencies();]]></content>
+	<content><![CDATA[BuildPipeline.PopAssetDependencies()]]></content>
 	<tabTrigger><![CDATA[popAssetDependencies]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[BuildPipeline.*()]]></description>

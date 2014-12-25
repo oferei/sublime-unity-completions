@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.Encapsulate(${1:point : Vector3});]]></content>
+	<content><![CDATA[Bounds.Encapsulate(${1:point : Vector3})]]></content>
 	<tabTrigger><![CDATA[bounds.Encapsulate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(point)]]></description>

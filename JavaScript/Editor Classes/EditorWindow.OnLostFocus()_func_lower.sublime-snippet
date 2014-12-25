@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.OnLostFocus();]]></content>
+	<content><![CDATA[EditorWindow.OnLostFocus()]]></content>
 	<tabTrigger><![CDATA[onLostFocus]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorWindow.*()]]></description>

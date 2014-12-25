@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Slider.SetDirection(${1:Direction direction}, ${2:bool includeRectLayouts});]]></content>
+	<content><![CDATA[Slider.SetDirection(${1:Direction direction}, ${2:bool includeRectLayouts})]]></content>
 	<tabTrigger><![CDATA[setDirection]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Slider.*(direction, includeRectLayouts)]]></description>

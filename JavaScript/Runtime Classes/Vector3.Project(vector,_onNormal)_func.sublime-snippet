@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector3.Project(${1:vector : Vector3}, ${2:onNormal : Vector3});]]></content>
+	<content><![CDATA[Vector3.Project(${1:vector : Vector3}, ${2:onNormal : Vector3})]]></content>
 	<tabTrigger><![CDATA[Project]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Vector3.*(vector, onNormal)]]></description>

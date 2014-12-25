@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.TexCoord2(${1:float x}, ${2:float y});]]></content>
+	<content><![CDATA[GL.TexCoord2(${1:float x}, ${2:float y})]]></content>
 	<tabTrigger><![CDATA[TexCoord2]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GL.*(x, y)]]></description>

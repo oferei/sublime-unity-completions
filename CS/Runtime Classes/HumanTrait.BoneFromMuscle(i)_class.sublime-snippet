@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HumanTrait.BoneFromMuscle(${1:int i});]]></content>
+	<content><![CDATA[HumanTrait.BoneFromMuscle(${1:int i})]]></content>
 	<tabTrigger><![CDATA[HumanTrait.BoneFromMuscle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(i)]]></description>

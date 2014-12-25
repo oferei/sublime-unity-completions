@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameCenterPlatform.ResetAllAchievements(${1:Action<bool> callback});]]></content>
+	<content><![CDATA[GameCenterPlatform.ResetAllAchievements(${1:Action<bool> callback})]]></content>
 	<tabTrigger><![CDATA[GameCenterPlatform.ResetAllAchievements]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(callback)]]></description>

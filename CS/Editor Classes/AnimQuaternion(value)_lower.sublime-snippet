@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimQuaternion(${1:Quaternion value});]]></content>
+	<content><![CDATA[AnimQuaternion(${1:Quaternion value})]]></content>
 	<tabTrigger><![CDATA[animQuaternion]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(value)]]></description>

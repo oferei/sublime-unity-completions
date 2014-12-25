@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.SetGlobalColor(${1:string propertyName}, ${2:Color color});]]></content>
+	<content><![CDATA[Shader.SetGlobalColor(${1:string propertyName}, ${2:Color color})]]></content>
 	<tabTrigger><![CDATA[Shader.SetGlobalColor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(propertyName, color)]]></description>

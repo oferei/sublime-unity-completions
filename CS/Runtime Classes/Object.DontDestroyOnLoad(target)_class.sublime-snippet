@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.DontDestroyOnLoad(${1:Object target});]]></content>
+	<content><![CDATA[Object.DontDestroyOnLoad(${1:Object target})]]></content>
 	<tabTrigger><![CDATA[Object.DontDestroyOnLoad]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(target)]]></description>

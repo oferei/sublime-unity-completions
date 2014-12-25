@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.SetString(${1:string key}, ${2:string value});]]></content>
+	<content><![CDATA[EditorPrefs.SetString(${1:string key}, ${2:string value})]]></content>
 	<tabTrigger><![CDATA[editorPrefs.SetString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(key, value)]]></description>

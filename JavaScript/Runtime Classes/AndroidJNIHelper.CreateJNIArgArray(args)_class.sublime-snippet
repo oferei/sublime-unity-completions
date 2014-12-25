@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.CreateJNIArgArray(${1:args : object[]});]]></content>
+	<content><![CDATA[AndroidJNIHelper.CreateJNIArgArray(${1:args : object[]})]]></content>
 	<tabTrigger><![CDATA[AndroidJNIHelper.CreateJNIArgArray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(args)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.LoadLevelAsync(${1:levelName : string});]]></content>
+	<content><![CDATA[Application.LoadLevelAsync(${1:levelName : string})]]></content>
 	<tabTrigger><![CDATA[loadLevelAsync]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Application.*(levelName)]]></description>

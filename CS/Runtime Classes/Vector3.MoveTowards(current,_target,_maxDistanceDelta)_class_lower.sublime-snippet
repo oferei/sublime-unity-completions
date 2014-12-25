@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector3.MoveTowards(${1:Vector3 current}, ${2:Vector3 target}, ${3:float maxDistanceDelta});]]></content>
+	<content><![CDATA[Vector3.MoveTowards(${1:Vector3 current}, ${2:Vector3 target}, ${3:float maxDistanceDelta})]]></content>
 	<tabTrigger><![CDATA[vector3.MoveTowards]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(current, target, maxDistanceDelta)]]></description>

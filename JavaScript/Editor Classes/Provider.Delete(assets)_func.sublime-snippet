@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Delete(${1:assets : AssetList});]]></content>
+	<content><![CDATA[Provider.Delete(${1:assets : AssetList})]]></content>
 	<tabTrigger><![CDATA[Delete]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(assets)]]></description>

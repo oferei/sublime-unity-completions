@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.StringToHash(${1:name : string});]]></content>
+	<content><![CDATA[Animator.StringToHash(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[StringToHash]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Animator.*(name)]]></description>

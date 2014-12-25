@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GradientColorKey(${1:Color col}, ${2:float time});]]></content>
+	<content><![CDATA[GradientColorKey(${1:Color col}, ${2:float time})]]></content>
 	<tabTrigger><![CDATA[GradientColorKey]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(col, time)]]></description>

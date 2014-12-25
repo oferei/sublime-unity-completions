@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.Toggle(${1:Rect position}, ${2:bool value}, ${3:Texture image});]]></content>
+	<content><![CDATA[GUI.Toggle(${1:Rect position}, ${2:bool value}, ${3:Texture image})]]></content>
 	<tabTrigger><![CDATA[gUI.Toggle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, value, image)]]></description>

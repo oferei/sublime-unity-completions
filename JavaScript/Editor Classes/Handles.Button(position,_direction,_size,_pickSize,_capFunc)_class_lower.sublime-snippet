@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.Button(${1:position : Vector3}, ${2:direction : Quaternion}, ${3:size : float}, ${4:pickSize : float}, ${5:capFunc : DrawCapFunction});]]></content>
+	<content><![CDATA[Handles.Button(${1:position : Vector3}, ${2:direction : Quaternion}, ${3:size : float}, ${4:pickSize : float}, ${5:capFunc : DrawCapFunction})]]></content>
 	<tabTrigger><![CDATA[handles.Button]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, direction, size, pickSize, capFunc)]]></description>

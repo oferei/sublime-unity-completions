@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.RepeatButton(${1:Rect position}, ${2:GUIContent content});]]></content>
+	<content><![CDATA[GUI.RepeatButton(${1:Rect position}, ${2:GUIContent content})]]></content>
 	<tabTrigger><![CDATA[gUI.RepeatButton]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, content)]]></description>

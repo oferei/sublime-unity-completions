@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawDottedLine(${1:p1 : Vector3}, ${2:p2 : Vector3}, ${3:screenSpaceSize : float});]]></content>
+	<content><![CDATA[Handles.DrawDottedLine(${1:p1 : Vector3}, ${2:p2 : Vector3}, ${3:screenSpaceSize : float})]]></content>
 	<tabTrigger><![CDATA[handles.DrawDottedLine]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(p1, p2, screenSpaceSize)]]></description>

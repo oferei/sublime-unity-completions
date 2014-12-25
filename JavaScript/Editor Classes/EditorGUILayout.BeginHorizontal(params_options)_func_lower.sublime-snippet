@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.BeginHorizontal(${1:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.BeginHorizontal(${1:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[beginHorizontal]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(params options)]]></description>

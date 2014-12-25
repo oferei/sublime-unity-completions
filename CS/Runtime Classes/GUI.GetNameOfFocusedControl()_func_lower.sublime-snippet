@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.GetNameOfFocusedControl();]]></content>
+	<content><![CDATA[GUI.GetNameOfFocusedControl()]]></content>
 	<tabTrigger><![CDATA[getNameOfFocusedControl]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*()]]></description>

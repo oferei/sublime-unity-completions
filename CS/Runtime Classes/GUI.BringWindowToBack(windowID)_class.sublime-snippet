@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.BringWindowToBack(${1:int windowID});]]></content>
+	<content><![CDATA[GUI.BringWindowToBack(${1:int windowID})]]></content>
 	<tabTrigger><![CDATA[GUI.BringWindowToBack]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(windowID)]]></description>

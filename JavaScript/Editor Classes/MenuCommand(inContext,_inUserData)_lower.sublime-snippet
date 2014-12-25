@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MenuCommand(${1:inContext : Object}, ${2:inUserData : int});]]></content>
+	<content><![CDATA[MenuCommand(${1:inContext : Object}, ${2:inUserData : int})]]></content>
 	<tabTrigger><![CDATA[menuCommand]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(inContext, inUserData)]]></description>

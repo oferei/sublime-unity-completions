@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.OnSelectionChange();]]></content>
+	<content><![CDATA[EditorWindow.OnSelectionChange()]]></content>
 	<tabTrigger><![CDATA[OnSelectionChange]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorWindow.*()]]></description>

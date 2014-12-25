@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.ShowNotification(${1:notification : GUIContent});]]></content>
+	<content><![CDATA[EditorWindow.ShowNotification(${1:notification : GUIContent})]]></content>
 	<tabTrigger><![CDATA[EditorWindow.ShowNotification]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(notification)]]></description>

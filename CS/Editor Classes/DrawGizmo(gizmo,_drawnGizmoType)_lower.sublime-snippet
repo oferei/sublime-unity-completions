@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DrawGizmo(${1:GizmoType gizmo}, ${2:Type drawnGizmoType});]]></content>
+	<content><![CDATA[DrawGizmo(${1:GizmoType gizmo}, ${2:Type drawnGizmoType})]]></content>
 	<tabTrigger><![CDATA[drawGizmo]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(gizmo, drawnGizmoType)]]></description>

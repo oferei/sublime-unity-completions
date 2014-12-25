@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.RepaintHierarchyWindow();]]></content>
+	<content><![CDATA[EditorApplication.RepaintHierarchyWindow()]]></content>
 	<tabTrigger><![CDATA[RepaintHierarchyWindow]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorApplication.*()]]></description>

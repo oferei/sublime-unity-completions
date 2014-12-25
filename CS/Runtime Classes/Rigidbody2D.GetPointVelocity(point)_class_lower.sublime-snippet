@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.GetPointVelocity(${1:Vector2 point});]]></content>
+	<content><![CDATA[Rigidbody2D.GetPointVelocity(${1:Vector2 point})]]></content>
 	<tabTrigger><![CDATA[rigidbody2D.GetPointVelocity]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(point)]]></description>

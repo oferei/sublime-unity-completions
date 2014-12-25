@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InputField.MoveTextStart(${1:shift : bool});]]></content>
+	<content><![CDATA[InputField.MoveTextStart(${1:shift : bool})]]></content>
 	<tabTrigger><![CDATA[inputField.MoveTextStart]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(shift)]]></description>

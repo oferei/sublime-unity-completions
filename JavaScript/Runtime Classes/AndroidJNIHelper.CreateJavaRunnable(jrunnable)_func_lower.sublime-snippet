@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.CreateJavaRunnable(${1:jrunnable : AndroidJavaRunnable});]]></content>
+	<content><![CDATA[AndroidJNIHelper.CreateJavaRunnable(${1:jrunnable : AndroidJavaRunnable})]]></content>
 	<tabTrigger><![CDATA[createJavaRunnable]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNIHelper.*(jrunnable)]]></description>

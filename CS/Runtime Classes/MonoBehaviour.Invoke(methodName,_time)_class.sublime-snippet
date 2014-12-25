@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.Invoke(${1:string methodName}, ${2:float time});]]></content>
+	<content><![CDATA[MonoBehaviour.Invoke(${1:string methodName}, ${2:float time})]]></content>
 	<tabTrigger><![CDATA[MonoBehaviour.Invoke]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(methodName, time)]]></description>

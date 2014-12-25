@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material(${1:Shader shader});]]></content>
+	<content><![CDATA[Material(${1:Shader shader})]]></content>
 	<tabTrigger><![CDATA[Material]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(shader)]]></description>

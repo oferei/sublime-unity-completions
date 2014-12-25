@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DataUtility.GetPadding(${1:sprite : Sprite});]]></content>
+	<content><![CDATA[DataUtility.GetPadding(${1:sprite : Sprite})]]></content>
 	<tabTrigger><![CDATA[getPadding]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[DataUtility.*(sprite)]]></description>

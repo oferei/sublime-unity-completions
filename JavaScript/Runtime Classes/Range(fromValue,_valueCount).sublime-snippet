@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Range(${1:fromValue : int}, ${2:valueCount : int});]]></content>
+	<content><![CDATA[Range(${1:fromValue : int}, ${2:valueCount : int})]]></content>
 	<tabTrigger><![CDATA[Range]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(fromValue, valueCount)]]></description>

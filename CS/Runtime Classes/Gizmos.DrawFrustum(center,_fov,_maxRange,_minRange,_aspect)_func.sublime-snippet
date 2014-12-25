@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawFrustum(${1:Vector3 center}, ${2:float fov}, ${3:float maxRange}, ${4:float minRange}, ${5:float aspect});]]></content>
+	<content><![CDATA[Gizmos.DrawFrustum(${1:Vector3 center}, ${2:float fov}, ${3:float maxRange}, ${4:float minRange}, ${5:float aspect})]]></content>
 	<tabTrigger><![CDATA[DrawFrustum]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Gizmos.*(center, fov, maxRange, minRange, aspect)]]></description>

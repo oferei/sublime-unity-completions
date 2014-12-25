@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.MultiTexCoord(${1:int unit}, ${2:Vector3 v});]]></content>
+	<content><![CDATA[GL.MultiTexCoord(${1:int unit}, ${2:Vector3 v})]]></content>
 	<tabTrigger><![CDATA[MultiTexCoord]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GL.*(unit, v)]]></description>

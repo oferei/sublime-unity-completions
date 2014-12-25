@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.GetStateObject(${1:Type t}, ${2:int controlID});]]></content>
+	<content><![CDATA[GUIUtility.GetStateObject(${1:Type t}, ${2:int controlID})]]></content>
 	<tabTrigger><![CDATA[GetStateObject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUIUtility.*(t, controlID)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.OnFailedToConnect(${1:NetworkConnectionError ?});]]></content>
+	<content><![CDATA[Network.OnFailedToConnect(${1:NetworkConnectionError ?})]]></content>
 	<tabTrigger><![CDATA[onFailedToConnect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Network.*(?)]]></description>

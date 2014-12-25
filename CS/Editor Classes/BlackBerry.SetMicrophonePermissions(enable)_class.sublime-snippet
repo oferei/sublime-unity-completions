@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BlackBerry.SetMicrophonePermissions(${1:bool enable});]]></content>
+	<content><![CDATA[BlackBerry.SetMicrophonePermissions(${1:bool enable})]]></content>
 	<tabTrigger><![CDATA[BlackBerry.SetMicrophonePermissions]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(enable)]]></description>

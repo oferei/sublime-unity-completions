@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ExecuteEvents.Execute(${1:GameObject target}, ${2:BaseEventData eventData}, ${3:EventFunction<T> functor});]]></content>
+	<content><![CDATA[ExecuteEvents.Execute(${1:GameObject target}, ${2:BaseEventData eventData}, ${3:EventFunction<T> functor})]]></content>
 	<tabTrigger><![CDATA[ExecuteEvents.Execute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(target, eventData, functor)]]></description>

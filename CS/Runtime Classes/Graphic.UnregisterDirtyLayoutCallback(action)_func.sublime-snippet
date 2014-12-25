@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.UnregisterDirtyLayoutCallback(${1:UnityAction action});]]></content>
+	<content><![CDATA[Graphic.UnregisterDirtyLayoutCallback(${1:UnityAction action})]]></content>
 	<tabTrigger><![CDATA[UnregisterDirtyLayoutCallback]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Graphic.*(action)]]></description>

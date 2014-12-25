@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LineRenderer.SetVertexCount(${1:count : int});]]></content>
+	<content><![CDATA[LineRenderer.SetVertexCount(${1:count : int})]]></content>
 	<tabTrigger><![CDATA[setVertexCount]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[LineRenderer.*(count)]]></description>

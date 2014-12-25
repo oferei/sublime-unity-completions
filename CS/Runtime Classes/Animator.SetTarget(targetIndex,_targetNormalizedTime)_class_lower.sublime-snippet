@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetTarget(${1:AvatarTarget targetIndex}, ${2:float targetNormalizedTime});]]></content>
+	<content><![CDATA[Animator.SetTarget(${1:AvatarTarget targetIndex}, ${2:float targetNormalizedTime})]]></content>
 	<tabTrigger><![CDATA[animator.SetTarget]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(targetIndex, targetNormalizedTime)]]></description>

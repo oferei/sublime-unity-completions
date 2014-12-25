@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Abs(${1:value : int});]]></content>
+	<content><![CDATA[Mathf.Abs(${1:value : int})]]></content>
 	<tabTrigger><![CDATA[mathf.Abs]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value)]]></description>

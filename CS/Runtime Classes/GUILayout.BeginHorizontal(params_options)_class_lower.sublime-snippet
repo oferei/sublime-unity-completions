@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.BeginHorizontal(${1:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[GUILayout.BeginHorizontal(${1:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[gUILayout.BeginHorizontal]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(params options)]]></description>

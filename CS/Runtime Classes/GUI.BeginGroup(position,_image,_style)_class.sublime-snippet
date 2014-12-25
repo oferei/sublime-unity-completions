@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.BeginGroup(${1:Rect position}, ${2:Texture image}, ${3:GUIStyle style});]]></content>
+	<content><![CDATA[GUI.BeginGroup(${1:Rect position}, ${2:Texture image}, ${3:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[GUI.BeginGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, image, style)]]></description>

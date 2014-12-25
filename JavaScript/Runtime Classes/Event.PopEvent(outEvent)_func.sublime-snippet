@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Event.PopEvent(${1:outEvent : Event});]]></content>
+	<content><![CDATA[Event.PopEvent(${1:outEvent : Event})]]></content>
 	<tabTrigger><![CDATA[PopEvent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Event.*(outEvent)]]></description>

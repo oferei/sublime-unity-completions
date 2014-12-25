@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetStringUTFLength(${1:IntPtr str});]]></content>
+	<content><![CDATA[AndroidJNI.GetStringUTFLength(${1:IntPtr str})]]></content>
 	<tabTrigger><![CDATA[GetStringUTFLength]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(str)]]></description>

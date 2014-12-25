@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.LerpAngle(${1:a : float}, ${2:b : float}, ${3:t : float});]]></content>
+	<content><![CDATA[Mathf.LerpAngle(${1:a : float}, ${2:b : float}, ${3:t : float})]]></content>
 	<tabTrigger><![CDATA[mathf.LerpAngle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(a, b, t)]]></description>

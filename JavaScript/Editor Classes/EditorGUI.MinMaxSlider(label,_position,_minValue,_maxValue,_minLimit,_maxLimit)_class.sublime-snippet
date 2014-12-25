@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.MinMaxSlider(${1:label : GUIContent}, ${2:position : Rect}, ${3:minValue : float}, ${4:maxValue : float}, ${5:minLimit : float}, ${6:maxLimit : float});]]></content>
+	<content><![CDATA[EditorGUI.MinMaxSlider(${1:label : GUIContent}, ${2:position : Rect}, ${3:minValue : float}, ${4:maxValue : float}, ${5:minLimit : float}, ${6:maxLimit : float})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.MinMaxSlider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(label, position, minValue, maxValue, minLimit, maxLimit)]]></description>

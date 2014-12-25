@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventBase.RemoveAllListeners();]]></content>
+	<content><![CDATA[UnityEventBase.RemoveAllListeners()]]></content>
 	<tabTrigger><![CDATA[removeAllListeners]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[UnityEventBase.*()]]></description>

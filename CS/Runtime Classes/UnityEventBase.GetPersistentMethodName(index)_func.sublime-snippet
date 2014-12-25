@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventBase.GetPersistentMethodName(${1:int index});]]></content>
+	<content><![CDATA[UnityEventBase.GetPersistentMethodName(${1:int index})]]></content>
 	<tabTrigger><![CDATA[GetPersistentMethodName]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[UnityEventBase.*(index)]]></description>

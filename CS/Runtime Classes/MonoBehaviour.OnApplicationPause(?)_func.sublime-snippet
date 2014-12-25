@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnApplicationPause(${1:bool ?});]]></content>
+	<content><![CDATA[MonoBehaviour.OnApplicationPause(${1:bool ?})]]></content>
 	<tabTrigger><![CDATA[OnApplicationPause]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MonoBehaviour.*(?)]]></description>

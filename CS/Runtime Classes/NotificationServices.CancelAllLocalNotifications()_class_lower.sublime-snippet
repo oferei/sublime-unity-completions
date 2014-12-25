@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.CancelAllLocalNotifications();]]></content>
+	<content><![CDATA[NotificationServices.CancelAllLocalNotifications()]]></content>
 	<tabTrigger><![CDATA[notificationServices.CancelAllLocalNotifications]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*()]]></description>

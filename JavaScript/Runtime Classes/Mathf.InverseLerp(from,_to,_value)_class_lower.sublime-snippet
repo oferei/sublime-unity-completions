@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.InverseLerp(${1:from : float}, ${2:to : float}, ${3:value : float});]]></content>
+	<content><![CDATA[Mathf.InverseLerp(${1:from : float}, ${2:to : float}, ${3:value : float})]]></content>
 	<tabTrigger><![CDATA[mathf.InverseLerp]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(from, to, value)]]></description>

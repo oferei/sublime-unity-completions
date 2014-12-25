@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.PropertyField(${1:SerializedProperty property}, ${2:GUIContent label}, ${3:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.PropertyField(${1:SerializedProperty property}, ${2:GUIContent label}, ${3:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[PropertyField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(property, label, params options)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWWForm.AddField(${1:fieldName : string}, ${2:value : string}, ${3:e : Encoding = System.Text.Encoding.UTF8});]]></content>
+	<content><![CDATA[WWWForm.AddField(${1:fieldName : string}, ${2:value : string}, ${3:e : Encoding = System.Text.Encoding.UTF8})]]></content>
 	<tabTrigger><![CDATA[wWWForm.AddField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(fieldName, value, e)]]></description>

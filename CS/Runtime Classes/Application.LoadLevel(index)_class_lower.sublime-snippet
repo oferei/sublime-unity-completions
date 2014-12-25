@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.LoadLevel(${1:int index});]]></content>
+	<content><![CDATA[Application.LoadLevel(${1:int index})]]></content>
 	<tabTrigger><![CDATA[application.LoadLevel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index)]]></description>

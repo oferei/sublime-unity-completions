@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.Translate(${1:float x}, ${2:float y}, ${3:float z}, ${4:Transform relativeTo});]]></content>
+	<content><![CDATA[Transform.Translate(${1:float x}, ${2:float y}, ${3:float z}, ${4:Transform relativeTo})]]></content>
 	<tabTrigger><![CDATA[transform.Translate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(x, y, z, relativeTo)]]></description>

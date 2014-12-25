@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WebCamTexture.GetPixel(${1:int x}, ${2:int y});]]></content>
+	<content><![CDATA[WebCamTexture.GetPixel(${1:int x}, ${2:int y})]]></content>
 	<tabTrigger><![CDATA[webCamTexture.GetPixel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(x, y)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.LoadRequired(${1:string path});]]></content>
+	<content><![CDATA[EditorGUIUtility.LoadRequired(${1:string path})]]></content>
 	<tabTrigger><![CDATA[LoadRequired]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUIUtility.*(path)]]></description>

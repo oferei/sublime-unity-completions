@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.ImportPackage(${1:string packagePath}, ${2:bool interactive});]]></content>
+	<content><![CDATA[AssetDatabase.ImportPackage(${1:string packagePath}, ${2:bool interactive})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.ImportPackage]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(packagePath, interactive)]]></description>

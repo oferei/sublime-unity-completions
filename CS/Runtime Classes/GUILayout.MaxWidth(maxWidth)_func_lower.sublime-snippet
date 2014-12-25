@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.MaxWidth(${1:float maxWidth});]]></content>
+	<content><![CDATA[GUILayout.MaxWidth(${1:float maxWidth})]]></content>
 	<tabTrigger><![CDATA[maxWidth]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUILayout.*(maxWidth)]]></description>

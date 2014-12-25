@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomPropertyDrawer(${1:Type type}, ${2:bool useForChildren});]]></content>
+	<content><![CDATA[CustomPropertyDrawer(${1:Type type}, ${2:bool useForChildren})]]></content>
 	<tabTrigger><![CDATA[customPropertyDrawer]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(type, useForChildren)]]></description>

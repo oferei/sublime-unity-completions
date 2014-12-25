@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimBool(${1:value : bool});]]></content>
+	<content><![CDATA[AnimBool(${1:value : bool})]]></content>
 	<tabTrigger><![CDATA[AnimBool]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value)]]></description>

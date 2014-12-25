@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.Log(${1:object message});]]></content>
+	<content><![CDATA[Debug.Log(${1:object message})]]></content>
 	<tabTrigger><![CDATA[Debug.Log]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(message)]]></description>

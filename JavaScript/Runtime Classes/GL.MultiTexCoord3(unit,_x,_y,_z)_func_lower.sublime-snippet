@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.MultiTexCoord3(${1:unit : int}, ${2:x : float}, ${3:y : float}, ${4:z : float});]]></content>
+	<content><![CDATA[GL.MultiTexCoord3(${1:unit : int}, ${2:x : float}, ${3:y : float}, ${4:z : float})]]></content>
 	<tabTrigger><![CDATA[multiTexCoord3]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GL.*(unit, x, y, z)]]></description>

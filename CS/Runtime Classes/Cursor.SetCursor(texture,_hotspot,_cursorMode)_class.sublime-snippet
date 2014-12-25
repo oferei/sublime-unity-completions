@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cursor.SetCursor(${1:Texture2D texture}, ${2:Vector2 hotspot}, ${3:CursorMode cursorMode});]]></content>
+	<content><![CDATA[Cursor.SetCursor(${1:Texture2D texture}, ${2:Vector2 hotspot}, ${3:CursorMode cursorMode})]]></content>
 	<tabTrigger><![CDATA[Cursor.SetCursor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(texture, hotspot, cursorMode)]]></description>

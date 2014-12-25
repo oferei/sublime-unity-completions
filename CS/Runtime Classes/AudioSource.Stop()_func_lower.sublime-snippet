@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioSource.Stop();]]></content>
+	<content><![CDATA[AudioSource.Stop()]]></content>
 	<tabTrigger><![CDATA[stop]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AudioSource.*()]]></description>

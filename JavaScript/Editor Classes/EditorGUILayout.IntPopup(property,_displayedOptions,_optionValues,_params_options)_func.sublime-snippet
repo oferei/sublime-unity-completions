@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.IntPopup(${1:property : SerializedProperty}, ${2:displayedOptions : GUIContent[]}, ${3:optionValues : int[]}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.IntPopup(${1:property : SerializedProperty}, ${2:displayedOptions : GUIContent[]}, ${3:optionValues : int[]}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[IntPopup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(property, displayedOptions, optionValues, params options)]]></description>

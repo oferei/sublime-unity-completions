@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.VerticalSlider(${1:value : float}, ${2:leftValue : float}, ${3:rightValue : float}, ${4:slider : GUIStyle}, ${5:thumb : GUIStyle}, ${6:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.VerticalSlider(${1:value : float}, ${2:leftValue : float}, ${3:rightValue : float}, ${4:slider : GUIStyle}, ${5:thumb : GUIStyle}, ${6:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[VerticalSlider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUILayout.*(value, leftValue, rightValue, slider, thumb, params options)]]></description>

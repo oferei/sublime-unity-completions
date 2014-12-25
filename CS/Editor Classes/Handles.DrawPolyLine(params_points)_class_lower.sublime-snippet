@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawPolyLine(${1:Vector3[] params points});]]></content>
+	<content><![CDATA[Handles.DrawPolyLine(${1:Vector3[] params points})]]></content>
 	<tabTrigger><![CDATA[handles.DrawPolyLine]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(params points)]]></description>

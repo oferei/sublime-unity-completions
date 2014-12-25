@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect(${1:float left}, ${2:float top}, ${3:float width}, ${4:float height});]]></content>
+	<content><![CDATA[Rect(${1:float left}, ${2:float top}, ${3:float width}, ${4:float height})]]></content>
 	<tabTrigger><![CDATA[rect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(left, top, width, height)]]></description>

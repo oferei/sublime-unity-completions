@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.IntSlider(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:leftValue : int}, ${4:rightValue : int}, ${5:label : GUIContent});]]></content>
+	<content><![CDATA[EditorGUI.IntSlider(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:leftValue : int}, ${4:rightValue : int}, ${5:label : GUIContent})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.IntSlider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, property, leftValue, rightValue, label)]]></description>

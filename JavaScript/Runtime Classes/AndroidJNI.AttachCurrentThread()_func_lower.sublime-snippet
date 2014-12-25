@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.AttachCurrentThread();]]></content>
+	<content><![CDATA[AndroidJNI.AttachCurrentThread()]]></content>
 	<tabTrigger><![CDATA[attachCurrentThread]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*()]]></description>

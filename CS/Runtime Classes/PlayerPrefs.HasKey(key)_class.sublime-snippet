@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerPrefs.HasKey(${1:string key});]]></content>
+	<content><![CDATA[PlayerPrefs.HasKey(${1:string key})]]></content>
 	<tabTrigger><![CDATA[PlayerPrefs.HasKey]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(key)]]></description>

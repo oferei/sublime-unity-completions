@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.PropertyField(${1:property : SerializedProperty}, ${2:label : GUIContent}, ${3:includeChildren : bool}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.PropertyField(${1:property : SerializedProperty}, ${2:label : GUIContent}, ${3:includeChildren : bool}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[PropertyField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(property, label, includeChildren, params options)]]></description>

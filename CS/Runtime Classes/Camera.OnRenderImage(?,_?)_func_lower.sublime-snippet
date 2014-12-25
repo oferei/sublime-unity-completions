@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.OnRenderImage(${1:RenderTexture ?}, ${2:RenderTexture ?});]]></content>
+	<content><![CDATA[Camera.OnRenderImage(${1:RenderTexture ?}, ${2:RenderTexture ?})]]></content>
 	<tabTrigger><![CDATA[onRenderImage]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Camera.*(?, ?)]]></description>

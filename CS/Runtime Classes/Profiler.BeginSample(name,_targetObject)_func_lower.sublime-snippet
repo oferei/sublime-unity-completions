@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Profiler.BeginSample(${1:string name}, ${2:Object targetObject});]]></content>
+	<content><![CDATA[Profiler.BeginSample(${1:string name}, ${2:Object targetObject})]]></content>
 	<tabTrigger><![CDATA[beginSample]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Profiler.*(name, targetObject)]]></description>

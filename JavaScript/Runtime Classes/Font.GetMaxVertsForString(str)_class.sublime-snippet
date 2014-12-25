@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Font.GetMaxVertsForString(${1:str : string});]]></content>
+	<content><![CDATA[Font.GetMaxVertsForString(${1:str : string})]]></content>
 	<tabTrigger><![CDATA[Font.GetMaxVertsForString]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(str)]]></description>

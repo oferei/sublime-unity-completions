@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.BeginFadeGroup(${1:value : float});]]></content>
+	<content><![CDATA[EditorGUILayout.BeginFadeGroup(${1:value : float})]]></content>
 	<tabTrigger><![CDATA[beginFadeGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(value)]]></description>

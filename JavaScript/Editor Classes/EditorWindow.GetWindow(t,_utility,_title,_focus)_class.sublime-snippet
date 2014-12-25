@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.GetWindow(${1:t : Type}, ${2:utility : bool = false}, ${3:title : string = null}, ${4:focus : bool = true});]]></content>
+	<content><![CDATA[EditorWindow.GetWindow(${1:t : Type}, ${2:utility : bool = false}, ${3:title : string = null}, ${4:focus : bool = true})]]></content>
 	<tabTrigger><![CDATA[EditorWindow.GetWindow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(t, utility, title, focus)]]></description>

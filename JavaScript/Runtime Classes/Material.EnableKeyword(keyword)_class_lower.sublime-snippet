@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.EnableKeyword(${1:keyword : string});]]></content>
+	<content><![CDATA[Material.EnableKeyword(${1:keyword : string})]]></content>
 	<tabTrigger><![CDATA[material.EnableKeyword]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(keyword)]]></description>

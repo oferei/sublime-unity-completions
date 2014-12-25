@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimFloat(${1:float value});]]></content>
+	<content><![CDATA[AnimFloat(${1:float value})]]></content>
 	<tabTrigger><![CDATA[AnimFloat]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(value)]]></description>

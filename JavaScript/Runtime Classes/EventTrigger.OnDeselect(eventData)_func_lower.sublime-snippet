@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EventTrigger.OnDeselect(${1:eventData : BaseEventData});]]></content>
+	<content><![CDATA[EventTrigger.OnDeselect(${1:eventData : BaseEventData})]]></content>
 	<tabTrigger><![CDATA[onDeselect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EventTrigger.*(eventData)]]></description>

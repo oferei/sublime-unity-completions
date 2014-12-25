@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Slider(${1:Rect position}, ${2:SerializedProperty property}, ${3:float leftValue}, ${4:float rightValue});]]></content>
+	<content><![CDATA[EditorGUI.Slider(${1:Rect position}, ${2:SerializedProperty property}, ${3:float leftValue}, ${4:float rightValue})]]></content>
 	<tabTrigger><![CDATA[editorGUI.Slider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, property, leftValue, rightValue)]]></description>

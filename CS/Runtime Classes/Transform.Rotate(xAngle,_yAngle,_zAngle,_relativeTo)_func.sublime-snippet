@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.Rotate(${1:float xAngle}, ${2:float yAngle}, ${3:float zAngle}, ${4:Space relativeTo = Space.Self});]]></content>
+	<content><![CDATA[Transform.Rotate(${1:float xAngle}, ${2:float yAngle}, ${3:float zAngle}, ${4:Space relativeTo = Space.Self})]]></content>
 	<tabTrigger><![CDATA[Rotate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Transform.*(xAngle, yAngle, zAngle, relativeTo)]]></description>

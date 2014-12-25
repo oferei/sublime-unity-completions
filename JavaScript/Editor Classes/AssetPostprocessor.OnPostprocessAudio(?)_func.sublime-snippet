@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAudio(${1:? : AudioClip});]]></content>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessAudio(${1:? : AudioClip})]]></content>
 	<tabTrigger><![CDATA[OnPostprocessAudio]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetPostprocessor.*(?)]]></description>

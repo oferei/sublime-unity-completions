@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.LookAt(${1:target : Transform}, ${2:worldUp : Vector3 = Vector3.up});]]></content>
+	<content><![CDATA[Transform.LookAt(${1:target : Transform}, ${2:worldUp : Vector3 = Vector3.up})]]></content>
 	<tabTrigger><![CDATA[Transform.LookAt]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(target, worldUp)]]></description>

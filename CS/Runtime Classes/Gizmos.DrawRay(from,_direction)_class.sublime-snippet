@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gizmos.DrawRay(${1:Vector3 from}, ${2:Vector3 direction});]]></content>
+	<content><![CDATA[Gizmos.DrawRay(${1:Vector3 from}, ${2:Vector3 direction})]]></content>
 	<tabTrigger><![CDATA[Gizmos.DrawRay]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(from, direction)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WaitForSeconds(${1:float seconds});]]></content>
+	<content><![CDATA[WaitForSeconds(${1:float seconds})]]></content>
 	<tabTrigger><![CDATA[waitForSeconds]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(seconds)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.FocusWindow(${1:windowID : int});]]></content>
+	<content><![CDATA[GUI.FocusWindow(${1:windowID : int})]]></content>
 	<tabTrigger><![CDATA[GUI.FocusWindow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(windowID)]]></description>

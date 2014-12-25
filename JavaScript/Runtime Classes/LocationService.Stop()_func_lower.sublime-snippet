@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LocationService.Stop();]]></content>
+	<content><![CDATA[LocationService.Stop()]]></content>
 	<tabTrigger><![CDATA[stop]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[LocationService.*()]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DidReloadScripts(${1:int callbackOrder});]]></content>
+	<content><![CDATA[DidReloadScripts(${1:int callbackOrder})]]></content>
 	<tabTrigger><![CDATA[DidReloadScripts]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(callbackOrder)]]></description>

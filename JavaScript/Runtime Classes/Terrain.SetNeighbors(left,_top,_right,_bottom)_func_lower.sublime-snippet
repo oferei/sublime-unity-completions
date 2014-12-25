@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Terrain.SetNeighbors(${1:left : Terrain}, ${2:top : Terrain}, ${3:right : Terrain}, ${4:bottom : Terrain});]]></content>
+	<content><![CDATA[Terrain.SetNeighbors(${1:left : Terrain}, ${2:top : Terrain}, ${3:right : Terrain}, ${4:bottom : Terrain})]]></content>
 	<tabTrigger><![CDATA[setNeighbors]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Terrain.*(left, top, right, bottom)]]></description>

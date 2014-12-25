@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.ToString(${1:string format});]]></content>
+	<content><![CDATA[Bounds.ToString(${1:string format})]]></content>
 	<tabTrigger><![CDATA[bounds.ToString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(format)]]></description>

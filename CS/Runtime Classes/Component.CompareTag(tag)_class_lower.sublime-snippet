@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.CompareTag(${1:string tag});]]></content>
+	<content><![CDATA[Component.CompareTag(${1:string tag})]]></content>
 	<tabTrigger><![CDATA[component.CompareTag]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(tag)]]></description>

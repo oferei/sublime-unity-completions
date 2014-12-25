@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.SnapValue(${1:val : float}, ${2:snap : float});]]></content>
+	<content><![CDATA[Handles.SnapValue(${1:val : float}, ${2:snap : float})]]></content>
 	<tabTrigger><![CDATA[Handles.SnapValue]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(val, snap)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.DisconnectPrefabInstance(${1:Object targetObject});]]></content>
+	<content><![CDATA[PrefabUtility.DisconnectPrefabInstance(${1:Object targetObject})]]></content>
 	<tabTrigger><![CDATA[PrefabUtility.DisconnectPrefabInstance]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(targetObject)]]></description>

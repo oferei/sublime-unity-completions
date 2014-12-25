@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.NewLocalRef(${1:IntPtr obj});]]></content>
+	<content><![CDATA[AndroidJNI.NewLocalRef(${1:IntPtr obj})]]></content>
 	<tabTrigger><![CDATA[androidJNI.NewLocalRef]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj)]]></description>

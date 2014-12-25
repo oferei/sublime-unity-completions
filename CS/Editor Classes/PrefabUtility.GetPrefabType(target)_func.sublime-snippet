@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PrefabUtility.GetPrefabType(${1:Object target});]]></content>
+	<content><![CDATA[PrefabUtility.GetPrefabType(${1:Object target})]]></content>
 	<tabTrigger><![CDATA[GetPrefabType]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[PrefabUtility.*(target)]]></description>

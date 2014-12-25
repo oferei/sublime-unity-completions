@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioSource.SetScheduledStartTime(${1:double time});]]></content>
+	<content><![CDATA[AudioSource.SetScheduledStartTime(${1:double time})]]></content>
 	<tabTrigger><![CDATA[setScheduledStartTime]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AudioSource.*(time)]]></description>

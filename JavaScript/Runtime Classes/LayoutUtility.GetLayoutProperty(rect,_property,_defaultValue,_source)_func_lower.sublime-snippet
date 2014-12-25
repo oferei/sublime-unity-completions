@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayoutUtility.GetLayoutProperty(${1:rect : RectTransform}, ${2:property : Func<ILayoutElement,float>}, ${3:defaultValue : float}, ${4:source : ILayoutElement});]]></content>
+	<content><![CDATA[LayoutUtility.GetLayoutProperty(${1:rect : RectTransform}, ${2:property : Func<ILayoutElement,float>}, ${3:defaultValue : float}, ${4:source : ILayoutElement})]]></content>
 	<tabTrigger><![CDATA[getLayoutProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[LayoutUtility.*(rect, property, defaultValue, source)]]></description>

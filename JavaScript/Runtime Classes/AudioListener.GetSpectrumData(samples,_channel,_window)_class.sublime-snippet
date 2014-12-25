@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioListener.GetSpectrumData(${1:samples : float[]}, ${2:channel : int}, ${3:window : FFTWindow});]]></content>
+	<content><![CDATA[AudioListener.GetSpectrumData(${1:samples : float[]}, ${2:channel : int}, ${3:window : FFTWindow})]]></content>
 	<tabTrigger><![CDATA[AudioListener.GetSpectrumData]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(samples, channel, window)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.DistancePointToLineSegment(${1:Vector2 p}, ${2:Vector2 a}, ${3:Vector2 b});]]></content>
+	<content><![CDATA[HandleUtility.DistancePointToLineSegment(${1:Vector2 p}, ${2:Vector2 a}, ${3:Vector2 b})]]></content>
 	<tabTrigger><![CDATA[distancePointToLineSegment]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[HandleUtility.*(p, a, b)]]></description>

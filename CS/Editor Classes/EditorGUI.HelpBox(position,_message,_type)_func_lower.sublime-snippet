@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.HelpBox(${1:Rect position}, ${2:string message}, ${3:MessageType type});]]></content>
+	<content><![CDATA[EditorGUI.HelpBox(${1:Rect position}, ${2:string message}, ${3:MessageType type})]]></content>
 	<tabTrigger><![CDATA[helpBox]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUI.*(position, message, type)]]></description>

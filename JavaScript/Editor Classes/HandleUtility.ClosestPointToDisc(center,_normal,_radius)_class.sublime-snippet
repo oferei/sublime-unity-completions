@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.ClosestPointToDisc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:radius : float});]]></content>
+	<content><![CDATA[HandleUtility.ClosestPointToDisc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:radius : float})]]></content>
 	<tabTrigger><![CDATA[HandleUtility.ClosestPointToDisc]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(center, normal, radius)]]></description>

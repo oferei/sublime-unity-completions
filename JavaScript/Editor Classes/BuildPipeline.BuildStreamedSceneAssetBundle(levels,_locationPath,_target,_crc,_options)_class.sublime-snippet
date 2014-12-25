@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BuildPipeline.BuildStreamedSceneAssetBundle(${1:levels : string[]}, ${2:locationPath : string}, ${3:target : BuildTarget}, ${4:crc : uint}, ${5:options : BuildOptions = 0});]]></content>
+	<content><![CDATA[BuildPipeline.BuildStreamedSceneAssetBundle(${1:levels : string[]}, ${2:locationPath : string}, ${3:target : BuildTarget}, ${4:crc : uint}, ${5:options : BuildOptions = 0})]]></content>
 	<tabTrigger><![CDATA[BuildPipeline.BuildStreamedSceneAssetBundle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(levels, locationPath, target, crc, options)]]></description>

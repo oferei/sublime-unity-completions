@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.SetBuffer(${1:propertyName : string}, ${2:buffer : ComputeBuffer});]]></content>
+	<content><![CDATA[Material.SetBuffer(${1:propertyName : string}, ${2:buffer : ComputeBuffer})]]></content>
 	<tabTrigger><![CDATA[material.SetBuffer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(propertyName, buffer)]]></description>

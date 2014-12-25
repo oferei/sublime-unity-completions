@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.ClearUndo(${1:identifier : Object});]]></content>
+	<content><![CDATA[Undo.ClearUndo(${1:identifier : Object})]]></content>
 	<tabTrigger><![CDATA[clearUndo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Undo.*(identifier)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.MaxWidth(${1:maxWidth : float});]]></content>
+	<content><![CDATA[GUILayout.MaxWidth(${1:maxWidth : float})]]></content>
 	<tabTrigger><![CDATA[gUILayout.MaxWidth]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(maxWidth)]]></description>

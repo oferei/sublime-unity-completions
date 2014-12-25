@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.AddClip(${1:AnimationClip clip}, ${2:string newName});]]></content>
+	<content><![CDATA[Animation.AddClip(${1:AnimationClip clip}, ${2:string newName})]]></content>
 	<tabTrigger><![CDATA[addClip]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animation.*(clip, newName)]]></description>

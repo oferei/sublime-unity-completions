@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransformUtility.RectangleContainsScreenPoint(${1:rect : RectTransform}, ${2:screenPoint : Vector2}, ${3:cam : Camera});]]></content>
+	<content><![CDATA[RectTransformUtility.RectangleContainsScreenPoint(${1:rect : RectTransform}, ${2:screenPoint : Vector2}, ${3:cam : Camera})]]></content>
 	<tabTrigger><![CDATA[RectangleContainsScreenPoint]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RectTransformUtility.*(rect, screenPoint, cam)]]></description>

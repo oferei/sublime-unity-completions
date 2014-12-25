@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.Disc(${1:rotation : Quaternion}, ${2:position : Vector3}, ${3:axis : Vector3}, ${4:size : float}, ${5:cutoffPlane : bool}, ${6:snap : float});]]></content>
+	<content><![CDATA[Handles.Disc(${1:rotation : Quaternion}, ${2:position : Vector3}, ${3:axis : Vector3}, ${4:size : float}, ${5:cutoffPlane : bool}, ${6:snap : float})]]></content>
 	<tabTrigger><![CDATA[Disc]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handles.*(rotation, position, axis, size, cutoffPlane, snap)]]></description>

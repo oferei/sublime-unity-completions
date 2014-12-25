@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.AddObjectToAsset(${1:Object objectToAdd}, ${2:Object assetObject});]]></content>
+	<content><![CDATA[AssetDatabase.AddObjectToAsset(${1:Object objectToAdd}, ${2:Object assetObject})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.AddObjectToAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(objectToAdd, assetObject)]]></description>

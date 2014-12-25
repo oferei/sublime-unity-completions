@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Slider(${1:position : Rect}, ${2:value : float}, ${3:leftValue : float}, ${4:rightValue : float});]]></content>
+	<content><![CDATA[EditorGUI.Slider(${1:position : Rect}, ${2:value : float}, ${3:leftValue : float}, ${4:rightValue : float})]]></content>
 	<tabTrigger><![CDATA[editorGUI.Slider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, value, leftValue, rightValue)]]></description>

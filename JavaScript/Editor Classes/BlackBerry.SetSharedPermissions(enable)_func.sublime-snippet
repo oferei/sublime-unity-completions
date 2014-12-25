@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BlackBerry.SetSharedPermissions(${1:enable : bool});]]></content>
+	<content><![CDATA[BlackBerry.SetSharedPermissions(${1:enable : bool})]]></content>
 	<tabTrigger><![CDATA[SetSharedPermissions]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[BlackBerry.*(enable)]]></description>

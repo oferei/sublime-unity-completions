@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.GetCursorPixelPosition(${1:position : Rect}, ${2:content : GUIContent}, ${3:cursorStringIndex : int});]]></content>
+	<content><![CDATA[GUIStyle.GetCursorPixelPosition(${1:position : Rect}, ${2:content : GUIContent}, ${3:cursorStringIndex : int})]]></content>
 	<tabTrigger><![CDATA[GetCursorPixelPosition]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUIStyle.*(position, content, cursorStringIndex)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture3D(${1:int width}, ${2:int height}, ${3:int depth}, ${4:TextureFormat format}, ${5:bool mipmap});]]></content>
+	<content><![CDATA[Texture3D(${1:int width}, ${2:int height}, ${3:int depth}, ${4:TextureFormat format}, ${5:bool mipmap})]]></content>
 	<tabTrigger><![CDATA[texture3D]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(width, height, depth, format, mipmap)]]></description>

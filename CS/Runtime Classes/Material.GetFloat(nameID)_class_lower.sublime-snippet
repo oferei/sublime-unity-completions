@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.GetFloat(${1:int nameID});]]></content>
+	<content><![CDATA[Material.GetFloat(${1:int nameID})]]></content>
 	<tabTrigger><![CDATA[material.GetFloat]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(nameID)]]></description>

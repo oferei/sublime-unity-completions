@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.LogException(${1:Exception exception}, ${2:Object context});]]></content>
+	<content><![CDATA[Debug.LogException(${1:Exception exception}, ${2:Object context})]]></content>
 	<tabTrigger><![CDATA[LogException]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Debug.*(exception, context)]]></description>

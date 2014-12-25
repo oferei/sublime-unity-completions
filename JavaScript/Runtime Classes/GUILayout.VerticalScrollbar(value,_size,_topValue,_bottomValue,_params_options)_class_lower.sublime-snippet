@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.VerticalScrollbar(${1:value : float}, ${2:size : float}, ${3:topValue : float}, ${4:bottomValue : float}, ${5:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.VerticalScrollbar(${1:value : float}, ${2:size : float}, ${3:topValue : float}, ${4:bottomValue : float}, ${5:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[gUILayout.VerticalScrollbar]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value, size, topValue, bottomValue, params options)]]></description>

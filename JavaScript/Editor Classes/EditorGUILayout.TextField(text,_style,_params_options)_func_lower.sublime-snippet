@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.TextField(${1:text : string}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.TextField(${1:text : string}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[textField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(text, style, params options)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.IntPopup(${1:string label}, ${2:int selectedValue}, ${3:string[] displayedOptions}, ${4:int[] optionValues}, ${5:GUIStyle style}, ${6:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.IntPopup(${1:string label}, ${2:int selectedValue}, ${3:string[] displayedOptions}, ${4:int[] optionValues}, ${5:GUIStyle style}, ${6:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[IntPopup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(label, selectedValue, displayedOptions, optionValues, style, params options)]]></description>

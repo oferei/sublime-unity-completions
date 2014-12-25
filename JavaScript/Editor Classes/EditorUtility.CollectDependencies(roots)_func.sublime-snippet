@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.CollectDependencies(${1:roots : Object[]});]]></content>
+	<content><![CDATA[EditorUtility.CollectDependencies(${1:roots : Object[]})]]></content>
 	<tabTrigger><![CDATA[CollectDependencies]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorUtility.*(roots)]]></description>

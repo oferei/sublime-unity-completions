@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.RectField(${1:value : Rect}, ${2:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.RectField(${1:value : Rect}, ${2:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[RectField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(value, params options)]]></description>

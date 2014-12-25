@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.Emit(${1:count : int});]]></content>
+	<content><![CDATA[ParticleSystem.Emit(${1:count : int})]]></content>
 	<tabTrigger><![CDATA[emit]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ParticleSystem.*(count)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.GetAssetByGUID(${1:guid : string});]]></content>
+	<content><![CDATA[Provider.GetAssetByGUID(${1:guid : string})]]></content>
 	<tabTrigger><![CDATA[GetAssetByGUID]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(guid)]]></description>

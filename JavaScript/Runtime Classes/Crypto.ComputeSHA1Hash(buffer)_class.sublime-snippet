@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Crypto.ComputeSHA1Hash(${1:buffer : byte[]});]]></content>
+	<content><![CDATA[Crypto.ComputeSHA1Hash(${1:buffer : byte[]})]]></content>
 	<tabTrigger><![CDATA[Crypto.ComputeSHA1Hash]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(buffer)]]></description>

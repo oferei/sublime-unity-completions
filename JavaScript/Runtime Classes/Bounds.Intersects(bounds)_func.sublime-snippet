@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.Intersects(${1:bounds : Bounds});]]></content>
+	<content><![CDATA[Bounds.Intersects(${1:bounds : Bounds})]]></content>
 	<tabTrigger><![CDATA[Intersects]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Bounds.*(bounds)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject(${1:string name});]]></content>
+	<content><![CDATA[GameObject(${1:string name})]]></content>
 	<tabTrigger><![CDATA[gameObject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(name)]]></description>

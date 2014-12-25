@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PopupWindow.Show(${1:Rect activatorRect}, ${2:PopupWindowContent windowContent});]]></content>
+	<content><![CDATA[PopupWindow.Show(${1:Rect activatorRect}, ${2:PopupWindowContent windowContent})]]></content>
 	<tabTrigger><![CDATA[PopupWindow.Show]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(activatorRect, windowContent)]]></description>

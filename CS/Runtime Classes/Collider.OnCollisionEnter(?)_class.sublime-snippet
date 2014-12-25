@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Collider.OnCollisionEnter(${1:Collision ?});]]></content>
+	<content><![CDATA[Collider.OnCollisionEnter(${1:Collision ?})]]></content>
 	<tabTrigger><![CDATA[Collider.OnCollisionEnter]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(?)]]></description>

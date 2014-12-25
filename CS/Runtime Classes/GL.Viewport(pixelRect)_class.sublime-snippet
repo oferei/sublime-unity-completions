@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.Viewport(${1:Rect pixelRect});]]></content>
+	<content><![CDATA[GL.Viewport(${1:Rect pixelRect})]]></content>
 	<tabTrigger><![CDATA[GL.Viewport]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(pixelRect)]]></description>

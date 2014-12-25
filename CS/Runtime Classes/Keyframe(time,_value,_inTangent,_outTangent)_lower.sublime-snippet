@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Keyframe(${1:float time}, ${2:float value}, ${3:float inTangent}, ${4:float outTangent});]]></content>
+	<content><![CDATA[Keyframe(${1:float time}, ${2:float value}, ${3:float inTangent}, ${4:float outTangent})]]></content>
 	<tabTrigger><![CDATA[keyframe]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(time, value, inTangent, outTangent)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.CallStaticStringMethod(${1:clazz : IntPtr}, ${2:methodID : IntPtr}, ${3:args : jvalue[]});]]></content>
+	<content><![CDATA[AndroidJNI.CallStaticStringMethod(${1:clazz : IntPtr}, ${2:methodID : IntPtr}, ${3:args : jvalue[]})]]></content>
 	<tabTrigger><![CDATA[callStaticStringMethod]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(clazz, methodID, args)]]></description>

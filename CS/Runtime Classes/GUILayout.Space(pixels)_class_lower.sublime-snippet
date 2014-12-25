@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Space(${1:float pixels});]]></content>
+	<content><![CDATA[GUILayout.Space(${1:float pixels})]]></content>
 	<tabTrigger><![CDATA[gUILayout.Space]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(pixels)]]></description>

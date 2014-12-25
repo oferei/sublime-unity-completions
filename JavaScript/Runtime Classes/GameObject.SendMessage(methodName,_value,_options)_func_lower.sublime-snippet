@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.SendMessage(${1:methodName : string}, ${2:value : object = null}, ${3:options : SendMessageOptions = SendMessageOptions.RequireReceiver});]]></content>
+	<content><![CDATA[GameObject.SendMessage(${1:methodName : string}, ${2:value : object = null}, ${3:options : SendMessageOptions = SendMessageOptions.RequireReceiver})]]></content>
 	<tabTrigger><![CDATA[sendMessage]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GameObject.*(methodName, value, options)]]></description>

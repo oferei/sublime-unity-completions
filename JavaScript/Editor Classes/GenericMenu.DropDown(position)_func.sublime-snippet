@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GenericMenu.DropDown(${1:position : Rect});]]></content>
+	<content><![CDATA[GenericMenu.DropDown(${1:position : Rect})]]></content>
 	<tabTrigger><![CDATA[DropDown]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GenericMenu.*(position)]]></description>

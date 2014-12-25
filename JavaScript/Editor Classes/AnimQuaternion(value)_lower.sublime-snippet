@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimQuaternion(${1:value : Quaternion});]]></content>
+	<content><![CDATA[AnimQuaternion(${1:value : Quaternion})]]></content>
 	<tabTrigger><![CDATA[animQuaternion]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value)]]></description>

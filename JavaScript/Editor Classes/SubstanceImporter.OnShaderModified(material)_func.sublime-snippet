@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.OnShaderModified(${1:material : ProceduralMaterial});]]></content>
+	<content><![CDATA[SubstanceImporter.OnShaderModified(${1:material : ProceduralMaterial})]]></content>
 	<tabTrigger><![CDATA[OnShaderModified]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[SubstanceImporter.*(material)]]></description>

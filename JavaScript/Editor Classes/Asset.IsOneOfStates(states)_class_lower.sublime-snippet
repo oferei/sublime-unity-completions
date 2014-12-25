@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Asset.IsOneOfStates(${1:states : States[]});]]></content>
+	<content><![CDATA[Asset.IsOneOfStates(${1:states : States[]})]]></content>
 	<tabTrigger><![CDATA[asset.IsOneOfStates]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(states)]]></description>

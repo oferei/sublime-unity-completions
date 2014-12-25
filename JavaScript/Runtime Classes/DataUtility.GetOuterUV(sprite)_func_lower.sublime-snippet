@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DataUtility.GetOuterUV(${1:sprite : Sprite});]]></content>
+	<content><![CDATA[DataUtility.GetOuterUV(${1:sprite : Sprite})]]></content>
 	<tabTrigger><![CDATA[getOuterUV]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[DataUtility.*(sprite)]]></description>

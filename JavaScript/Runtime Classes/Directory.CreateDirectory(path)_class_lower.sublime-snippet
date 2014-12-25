@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Directory.CreateDirectory(${1:path : string});]]></content>
+	<content><![CDATA[Directory.CreateDirectory(${1:path : string})]]></content>
 	<tabTrigger><![CDATA[directory.CreateDirectory]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path)]]></description>

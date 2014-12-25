@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DragAndDrop.SetGenericData(${1:string type}, ${2:object data});]]></content>
+	<content><![CDATA[DragAndDrop.SetGenericData(${1:string type}, ${2:object data})]]></content>
 	<tabTrigger><![CDATA[dragAndDrop.SetGenericData]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(type, data)]]></description>

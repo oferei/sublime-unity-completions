@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUserBuildSettings.SwitchActiveBuildTarget(${1:target : BuildTarget});]]></content>
+	<content><![CDATA[EditorUserBuildSettings.SwitchActiveBuildTarget(${1:target : BuildTarget})]]></content>
 	<tabTrigger><![CDATA[EditorUserBuildSettings.SwitchActiveBuildTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(target)]]></description>

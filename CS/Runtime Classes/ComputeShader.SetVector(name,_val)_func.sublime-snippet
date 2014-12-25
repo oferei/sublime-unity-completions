@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeShader.SetVector(${1:string name}, ${2:Vector4 val});]]></content>
+	<content><![CDATA[ComputeShader.SetVector(${1:string name}, ${2:Vector4 val})]]></content>
 	<tabTrigger><![CDATA[SetVector]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[ComputeShader.*(name, val)]]></description>

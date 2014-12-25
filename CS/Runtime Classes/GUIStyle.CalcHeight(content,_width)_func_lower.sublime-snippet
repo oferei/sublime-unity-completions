@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.CalcHeight(${1:GUIContent content}, ${2:float width});]]></content>
+	<content><![CDATA[GUIStyle.CalcHeight(${1:GUIContent content}, ${2:float width})]]></content>
 	<tabTrigger><![CDATA[calcHeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUIStyle.*(content, width)]]></description>

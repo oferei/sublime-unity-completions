@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetArrayLength(${1:array : IntPtr});]]></content>
+	<content><![CDATA[AndroidJNI.GetArrayLength(${1:array : IntPtr})]]></content>
 	<tabTrigger><![CDATA[androidJNI.GetArrayLength]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(array)]]></description>

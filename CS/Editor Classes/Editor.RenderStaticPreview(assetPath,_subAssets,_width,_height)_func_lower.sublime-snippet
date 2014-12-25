@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Editor.RenderStaticPreview(${1:string assetPath}, ${2:Object[] subAssets}, ${3:int width}, ${4:int height});]]></content>
+	<content><![CDATA[Editor.RenderStaticPreview(${1:string assetPath}, ${2:Object[] subAssets}, ${3:int width}, ${4:int height})]]></content>
 	<tabTrigger><![CDATA[renderStaticPreview]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Editor.*(assetPath, subAssets, width, height)]]></description>

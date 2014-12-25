@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Crypto.ComputeSHA1Hash(${1:byte[] buffer});]]></content>
+	<content><![CDATA[Crypto.ComputeSHA1Hash(${1:byte[] buffer})]]></content>
 	<tabTrigger><![CDATA[crypto.ComputeSHA1Hash]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(buffer)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Hashtable.Remove(${1:object ?});]]></content>
+	<content><![CDATA[Hashtable.Remove(${1:object ?})]]></content>
 	<tabTrigger><![CDATA[Remove]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Hashtable.*(?)]]></description>

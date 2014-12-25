@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomEditor(${1:inspectedType : Type}, ${2:editorForChildClasses : bool});]]></content>
+	<content><![CDATA[CustomEditor(${1:inspectedType : Type}, ${2:editorForChildClasses : bool})]]></content>
 	<tabTrigger><![CDATA[CustomEditor]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(inspectedType, editorForChildClasses)]]></description>

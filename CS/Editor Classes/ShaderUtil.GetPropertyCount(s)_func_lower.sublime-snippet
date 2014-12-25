@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ShaderUtil.GetPropertyCount(${1:Shader s});]]></content>
+	<content><![CDATA[ShaderUtil.GetPropertyCount(${1:Shader s})]]></content>
 	<tabTrigger><![CDATA[getPropertyCount]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[ShaderUtil.*(s)]]></description>

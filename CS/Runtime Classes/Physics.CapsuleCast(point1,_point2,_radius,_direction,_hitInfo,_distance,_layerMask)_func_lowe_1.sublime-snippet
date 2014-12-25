@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.CapsuleCast(${1:Vector3 point1}, ${2:Vector3 point2}, ${3:float radius}, ${4:Vector3 direction}, ${5:RaycastHit hitInfo}, ${6:float distance = Mathf.Infinity}, ${7:int layerMask = DefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics.CapsuleCast(${1:Vector3 point1}, ${2:Vector3 point2}, ${3:float radius}, ${4:Vector3 direction}, ${5:RaycastHit hitInfo}, ${6:float distance = Mathf.Infinity}, ${7:int layerMask = DefaultRaycastLayers})]]></content>
 	<tabTrigger><![CDATA[capsuleCast]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Physics.*(point1, point2, radius, direction, hitInfo, distance, layerMask)]]></description>

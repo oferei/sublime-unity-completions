@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.CrossFadeColor(${1:targetColor : Color}, ${2:duration : float}, ${3:ignoreTimeScale : bool}, ${4:useAlpha : bool});]]></content>
+	<content><![CDATA[Graphic.CrossFadeColor(${1:targetColor : Color}, ${2:duration : float}, ${3:ignoreTimeScale : bool}, ${4:useAlpha : bool})]]></content>
 	<tabTrigger><![CDATA[Graphic.CrossFadeColor]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(targetColor, duration, ignoreTimeScale, useAlpha)]]></description>

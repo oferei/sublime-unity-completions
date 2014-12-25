@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BaseInputModule.FindCommonRoot(${1:g1 : GameObject}, ${2:g2 : GameObject});]]></content>
+	<content><![CDATA[BaseInputModule.FindCommonRoot(${1:g1 : GameObject}, ${2:g2 : GameObject})]]></content>
 	<tabTrigger><![CDATA[findCommonRoot]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[BaseInputModule.*(g1, g2)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector4.Lerp(${1:Vector4 from}, ${2:Vector4 to}, ${3:float t});]]></content>
+	<content><![CDATA[Vector4.Lerp(${1:Vector4 from}, ${2:Vector4 to}, ${3:float t})]]></content>
 	<tabTrigger><![CDATA[vector4.Lerp]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(from, to, t)]]></description>

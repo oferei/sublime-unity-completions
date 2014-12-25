@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.BeginHorizontal(${1:style : GUIStyle}, ${2:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.BeginHorizontal(${1:style : GUIStyle}, ${2:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[GUILayout.BeginHorizontal]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(style, params options)]]></description>

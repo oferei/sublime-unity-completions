@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.GetControlID(${1:focus : FocusType}, ${2:position : Rect});]]></content>
+	<content><![CDATA[GUIUtility.GetControlID(${1:focus : FocusType}, ${2:position : Rect})]]></content>
 	<tabTrigger><![CDATA[GUIUtility.GetControlID]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(focus, position)]]></description>

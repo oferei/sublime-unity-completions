@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.GetComponentsInParent(${1:t : Type}, ${2:includeInactive : bool = false});]]></content>
+	<content><![CDATA[Component.GetComponentsInParent(${1:t : Type}, ${2:includeInactive : bool = false})]]></content>
 	<tabTrigger><![CDATA[component.GetComponentsInParent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(t, includeInactive)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ObjectNames.NicifyVariableName(${1:name : string});]]></content>
+	<content><![CDATA[ObjectNames.NicifyVariableName(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[nicifyVariableName]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ObjectNames.*(name)]]></description>

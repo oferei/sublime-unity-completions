@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.RenameAsset(${1:pathName : string}, ${2:newName : string});]]></content>
+	<content><![CDATA[AssetDatabase.RenameAsset(${1:pathName : string}, ${2:newName : string})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.RenameAsset]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(pathName, newName)]]></description>

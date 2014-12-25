@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Event.KeyboardEvent(${1:key : string});]]></content>
+	<content><![CDATA[Event.KeyboardEvent(${1:key : string})]]></content>
 	<tabTrigger><![CDATA[Event.KeyboardEvent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(key)]]></description>

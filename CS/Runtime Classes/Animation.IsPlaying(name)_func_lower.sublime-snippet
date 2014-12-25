@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.IsPlaying(${1:string name});]]></content>
+	<content><![CDATA[Animation.IsPlaying(${1:string name})]]></content>
 	<tabTrigger><![CDATA[isPlaying]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animation.*(name)]]></description>

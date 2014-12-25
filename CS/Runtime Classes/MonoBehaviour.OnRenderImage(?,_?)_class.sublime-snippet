@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnRenderImage(${1:RenderTexture ?}, ${2:RenderTexture ?});]]></content>
+	<content><![CDATA[MonoBehaviour.OnRenderImage(${1:RenderTexture ?}, ${2:RenderTexture ?})]]></content>
 	<tabTrigger><![CDATA[MonoBehaviour.OnRenderImage]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(?, ?)]]></description>

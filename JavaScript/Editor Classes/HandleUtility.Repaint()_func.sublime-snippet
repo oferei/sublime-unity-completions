@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.Repaint();]]></content>
+	<content><![CDATA[HandleUtility.Repaint()]]></content>
 	<tabTrigger><![CDATA[Repaint]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[HandleUtility.*()]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.TexCoord(${1:Vector3 v});]]></content>
+	<content><![CDATA[GL.TexCoord(${1:Vector3 v})]]></content>
 	<tabTrigger><![CDATA[GL.TexCoord]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(v)]]></description>

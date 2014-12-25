@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.ProgressBar(${1:Rect position}, ${2:float value}, ${3:string text});]]></content>
+	<content><![CDATA[EditorGUI.ProgressBar(${1:Rect position}, ${2:float value}, ${3:string text})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.ProgressBar]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, value, text)]]></description>

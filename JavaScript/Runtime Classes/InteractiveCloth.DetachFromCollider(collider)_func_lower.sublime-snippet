@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InteractiveCloth.DetachFromCollider(${1:collider : Collider});]]></content>
+	<content><![CDATA[InteractiveCloth.DetachFromCollider(${1:collider : Collider})]]></content>
 	<tabTrigger><![CDATA[detachFromCollider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[InteractiveCloth.*(collider)]]></description>

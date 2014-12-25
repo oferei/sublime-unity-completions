@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.ClearWithSkybox(${1:clearDepth : bool}, ${2:camera : Camera});]]></content>
+	<content><![CDATA[GL.ClearWithSkybox(${1:clearDepth : bool}, ${2:camera : Camera})]]></content>
 	<tabTrigger><![CDATA[gL.ClearWithSkybox]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(clearDepth, camera)]]></description>

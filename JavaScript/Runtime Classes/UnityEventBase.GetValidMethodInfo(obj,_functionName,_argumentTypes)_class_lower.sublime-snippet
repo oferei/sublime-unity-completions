@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventBase.GetValidMethodInfo(${1:obj : object}, ${2:functionName : string}, ${3:argumentTypes : Type[]});]]></content>
+	<content><![CDATA[UnityEventBase.GetValidMethodInfo(${1:obj : object}, ${2:functionName : string}, ${3:argumentTypes : Type[]})]]></content>
 	<tabTrigger><![CDATA[unityEventBase.GetValidMethodInfo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(obj, functionName, argumentTypes)]]></description>

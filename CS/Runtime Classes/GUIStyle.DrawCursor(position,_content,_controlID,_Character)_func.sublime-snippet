@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.DrawCursor(${1:Rect position}, ${2:GUIContent content}, ${3:int controlID}, ${4:int Character});]]></content>
+	<content><![CDATA[GUIStyle.DrawCursor(${1:Rect position}, ${2:GUIContent content}, ${3:int controlID}, ${4:int Character})]]></content>
 	<tabTrigger><![CDATA[DrawCursor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUIStyle.*(position, content, controlID, Character)]]></description>

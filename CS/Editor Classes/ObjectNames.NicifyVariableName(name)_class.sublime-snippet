@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ObjectNames.NicifyVariableName(${1:string name});]]></content>
+	<content><![CDATA[ObjectNames.NicifyVariableName(${1:string name})]]></content>
 	<tabTrigger><![CDATA[ObjectNames.NicifyVariableName]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(name)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.Rotate(${1:axis : Vector3}, ${2:angle : float}, ${3:relativeTo : Space = Space.Self});]]></content>
+	<content><![CDATA[Transform.Rotate(${1:axis : Vector3}, ${2:angle : float}, ${3:relativeTo : Space = Space.Self})]]></content>
 	<tabTrigger><![CDATA[Transform.Rotate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(axis, angle, relativeTo)]]></description>

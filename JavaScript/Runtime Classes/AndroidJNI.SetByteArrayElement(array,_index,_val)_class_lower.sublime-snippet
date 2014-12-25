@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetByteArrayElement(${1:array : IntPtr}, ${2:index : int}, ${3:val : sbyte});]]></content>
+	<content><![CDATA[AndroidJNI.SetByteArrayElement(${1:array : IntPtr}, ${2:index : int}, ${3:val : sbyte})]]></content>
 	<tabTrigger><![CDATA[androidJNI.SetByteArrayElement]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(array, index, val)]]></description>

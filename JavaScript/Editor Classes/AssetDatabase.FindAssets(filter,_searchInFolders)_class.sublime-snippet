@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.FindAssets(${1:filter : string}, ${2:searchInFolders : string[]});]]></content>
+	<content><![CDATA[AssetDatabase.FindAssets(${1:filter : string}, ${2:searchInFolders : string[]})]]></content>
 	<tabTrigger><![CDATA[AssetDatabase.FindAssets]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(filter, searchInFolders)]]></description>

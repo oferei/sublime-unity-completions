@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJavaProxy(${1:javaInterface : AndroidJavaClass});]]></content>
+	<content><![CDATA[AndroidJavaProxy(${1:javaInterface : AndroidJavaClass})]]></content>
 	<tabTrigger><![CDATA[androidJavaProxy]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(javaInterface)]]></description>

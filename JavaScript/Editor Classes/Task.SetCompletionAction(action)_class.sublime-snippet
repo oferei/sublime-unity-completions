@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Task.SetCompletionAction(${1:action : CompletionAction});]]></content>
+	<content><![CDATA[Task.SetCompletionAction(${1:action : CompletionAction})]]></content>
 	<tabTrigger><![CDATA[Task.SetCompletionAction]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(action)]]></description>

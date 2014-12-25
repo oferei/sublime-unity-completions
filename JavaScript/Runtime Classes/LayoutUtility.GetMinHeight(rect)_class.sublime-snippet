@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayoutUtility.GetMinHeight(${1:rect : RectTransform});]]></content>
+	<content><![CDATA[LayoutUtility.GetMinHeight(${1:rect : RectTransform})]]></content>
 	<tabTrigger><![CDATA[LayoutUtility.GetMinHeight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(rect)]]></description>

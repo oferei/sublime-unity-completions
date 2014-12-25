@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.AddCursorRect(${1:position : Rect}, ${2:mouse : MouseCursor}, ${3:controlID : int});]]></content>
+	<content><![CDATA[EditorGUIUtility.AddCursorRect(${1:position : Rect}, ${2:mouse : MouseCursor}, ${3:controlID : int})]]></content>
 	<tabTrigger><![CDATA[AddCursorRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUIUtility.*(position, mouse, controlID)]]></description>

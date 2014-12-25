@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextGenerator.Populate(${1:str : string}, ${2:settings : TextGenerationSettings});]]></content>
+	<content><![CDATA[TextGenerator.Populate(${1:str : string}, ${2:settings : TextGenerationSettings})]]></content>
 	<tabTrigger><![CDATA[textGenerator.Populate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(str, settings)]]></description>

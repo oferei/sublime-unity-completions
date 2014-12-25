@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[File.ReadAllBytes(${1:path : string});]]></content>
+	<content><![CDATA[File.ReadAllBytes(${1:path : string})]]></content>
 	<tabTrigger><![CDATA[readAllBytes]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[File.*(path)]]></description>

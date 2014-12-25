@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.GetComponent<${1:T}>();]]></content>
+	<content><![CDATA[Component.GetComponent<${1:T}>()]]></content>
 	<tabTrigger><![CDATA[Component.GetComponent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*<T>()]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.Destroy(${1:viewID : NetworkViewID});]]></content>
+	<content><![CDATA[Network.Destroy(${1:viewID : NetworkViewID})]]></content>
 	<tabTrigger><![CDATA[network.Destroy]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(viewID)]]></description>

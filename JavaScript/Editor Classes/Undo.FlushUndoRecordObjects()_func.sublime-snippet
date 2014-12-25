@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.FlushUndoRecordObjects();]]></content>
+	<content><![CDATA[Undo.FlushUndoRecordObjects()]]></content>
 	<tabTrigger><![CDATA[FlushUndoRecordObjects]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Undo.*()]]></description>

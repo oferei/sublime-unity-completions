@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEvent.AddListener(${1:call : UnityAction});]]></content>
+	<content><![CDATA[UnityEvent.AddListener(${1:call : UnityAction})]]></content>
 	<tabTrigger><![CDATA[unityEvent.AddListener]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(call)]]></description>

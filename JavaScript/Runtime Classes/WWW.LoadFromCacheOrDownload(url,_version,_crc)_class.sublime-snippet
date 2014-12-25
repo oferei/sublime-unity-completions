@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW.LoadFromCacheOrDownload(${1:url : string}, ${2:version : int}, ${3:crc : uint = 0});]]></content>
+	<content><![CDATA[WWW.LoadFromCacheOrDownload(${1:url : string}, ${2:version : int}, ${3:crc : uint = 0})]]></content>
 	<tabTrigger><![CDATA[WWW.LoadFromCacheOrDownload]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(url, version, crc)]]></description>

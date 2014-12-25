@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Highlighter.HighlightIdentifier(${1:Rect position}, ${2:string identifier});]]></content>
+	<content><![CDATA[Highlighter.HighlightIdentifier(${1:Rect position}, ${2:string identifier})]]></content>
 	<tabTrigger><![CDATA[highlighter.HighlightIdentifier]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, identifier)]]></description>

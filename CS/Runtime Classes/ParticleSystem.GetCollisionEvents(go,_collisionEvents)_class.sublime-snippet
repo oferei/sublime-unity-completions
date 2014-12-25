@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.GetCollisionEvents(${1:GameObject go}, ${2:CollisionEvent[] collisionEvents});]]></content>
+	<content><![CDATA[ParticleSystem.GetCollisionEvents(${1:GameObject go}, ${2:CollisionEvent[] collisionEvents})]]></content>
 	<tabTrigger><![CDATA[ParticleSystem.GetCollisionEvents]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(go, collisionEvents)]]></description>

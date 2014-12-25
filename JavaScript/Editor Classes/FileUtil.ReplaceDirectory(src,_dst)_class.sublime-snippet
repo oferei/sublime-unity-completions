@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FileUtil.ReplaceDirectory(${1:src : string}, ${2:dst : string});]]></content>
+	<content><![CDATA[FileUtil.ReplaceDirectory(${1:src : string}, ${2:dst : string})]]></content>
 	<tabTrigger><![CDATA[FileUtil.ReplaceDirectory]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(src, dst)]]></description>

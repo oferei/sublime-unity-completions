@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.PointOnLineParameter(${1:Vector3 point}, ${2:Vector3 linePoint}, ${3:Vector3 lineDirection});]]></content>
+	<content><![CDATA[HandleUtility.PointOnLineParameter(${1:Vector3 point}, ${2:Vector3 linePoint}, ${3:Vector3 lineDirection})]]></content>
 	<tabTrigger><![CDATA[PointOnLineParameter]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[HandleUtility.*(point, linePoint, lineDirection)]]></description>

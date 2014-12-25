@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector4.Scale(${1:Vector4 a}, ${2:Vector4 b});]]></content>
+	<content><![CDATA[Vector4.Scale(${1:Vector4 a}, ${2:Vector4 b})]]></content>
 	<tabTrigger><![CDATA[vector4.Scale]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(a, b)]]></description>

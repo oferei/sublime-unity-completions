@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Color.ToString(${1:string format});]]></content>
+	<content><![CDATA[Color.ToString(${1:string format})]]></content>
 	<tabTrigger><![CDATA[Color.ToString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(format)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PackerJob.AssignToAtlas(${1:atlasName : string}, ${2:sprite : Sprite}, ${3:packingMode : SpritePackingMode}, ${4:packingRotation : SpritePackingRotation});]]></content>
+	<content><![CDATA[PackerJob.AssignToAtlas(${1:atlasName : string}, ${2:sprite : Sprite}, ${3:packingMode : SpritePackingMode}, ${4:packingRotation : SpritePackingRotation})]]></content>
 	<tabTrigger><![CDATA[packerJob.AssignToAtlas]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(atlasName, sprite, packingMode, packingRotation)]]></description>

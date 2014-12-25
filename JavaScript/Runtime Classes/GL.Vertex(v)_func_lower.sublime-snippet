@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.Vertex(${1:v : Vector3});]]></content>
+	<content><![CDATA[GL.Vertex(${1:v : Vector3})]]></content>
 	<tabTrigger><![CDATA[vertex]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GL.*(v)]]></description>

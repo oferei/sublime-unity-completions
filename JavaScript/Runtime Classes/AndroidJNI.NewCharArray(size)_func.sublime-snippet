@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.NewCharArray(${1:size : int});]]></content>
+	<content><![CDATA[AndroidJNI.NewCharArray(${1:size : int})]]></content>
 	<tabTrigger><![CDATA[NewCharArray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(size)]]></description>

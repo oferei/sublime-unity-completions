@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FileUtil.CopyFileOrDirectoryFollowSymlinks(${1:string from}, ${2:string to});]]></content>
+	<content><![CDATA[FileUtil.CopyFileOrDirectoryFollowSymlinks(${1:string from}, ${2:string to})]]></content>
 	<tabTrigger><![CDATA[FileUtil.CopyFileOrDirectoryFollowSymlinks]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(from, to)]]></description>

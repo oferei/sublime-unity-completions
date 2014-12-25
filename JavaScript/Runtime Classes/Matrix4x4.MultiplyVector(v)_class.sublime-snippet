@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.MultiplyVector(${1:v : Vector3});]]></content>
+	<content><![CDATA[Matrix4x4.MultiplyVector(${1:v : Vector3})]]></content>
 	<tabTrigger><![CDATA[Matrix4x4.MultiplyVector]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(v)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TouchInputModule.IsModuleSupported();]]></content>
+	<content><![CDATA[TouchInputModule.IsModuleSupported()]]></content>
 	<tabTrigger><![CDATA[IsModuleSupported]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[TouchInputModule.*()]]></description>

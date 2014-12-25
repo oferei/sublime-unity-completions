@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayoutUtility.GetPreferredSize(${1:rect : RectTransform}, ${2:axis : int});]]></content>
+	<content><![CDATA[LayoutUtility.GetPreferredSize(${1:rect : RectTransform}, ${2:axis : int})]]></content>
 	<tabTrigger><![CDATA[LayoutUtility.GetPreferredSize]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(rect, axis)]]></description>

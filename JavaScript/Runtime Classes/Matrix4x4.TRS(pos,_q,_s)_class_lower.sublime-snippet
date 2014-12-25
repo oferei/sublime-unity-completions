@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.TRS(${1:pos : Vector3}, ${2:q : Quaternion}, ${3:s : Vector3});]]></content>
+	<content><![CDATA[Matrix4x4.TRS(${1:pos : Vector3}, ${2:q : Quaternion}, ${3:s : Vector3})]]></content>
 	<tabTrigger><![CDATA[matrix4x4.TRS]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(pos, q, s)]]></description>

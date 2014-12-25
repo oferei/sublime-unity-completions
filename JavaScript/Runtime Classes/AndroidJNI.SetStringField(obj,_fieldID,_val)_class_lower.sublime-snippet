@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetStringField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : string});]]></content>
+	<content><![CDATA[AndroidJNI.SetStringField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : string})]]></content>
 	<tabTrigger><![CDATA[androidJNI.SetStringField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(obj, fieldID, val)]]></description>

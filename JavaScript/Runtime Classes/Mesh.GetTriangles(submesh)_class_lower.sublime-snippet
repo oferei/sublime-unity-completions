@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.GetTriangles(${1:submesh : int});]]></content>
+	<content><![CDATA[Mesh.GetTriangles(${1:submesh : int})]]></content>
 	<tabTrigger><![CDATA[mesh.GetTriangles]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(submesh)]]></description>

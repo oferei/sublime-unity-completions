@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PackerJob.AddAtlas(${1:atlasName : string}, ${2:settings : AtlasSettings});]]></content>
+	<content><![CDATA[PackerJob.AddAtlas(${1:atlasName : string}, ${2:settings : AtlasSettings})]]></content>
 	<tabTrigger><![CDATA[AddAtlas]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PackerJob.*(atlasName, settings)]]></description>

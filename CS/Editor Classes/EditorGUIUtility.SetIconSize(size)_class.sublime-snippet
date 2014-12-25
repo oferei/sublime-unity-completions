@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.SetIconSize(${1:Vector2 size});]]></content>
+	<content><![CDATA[EditorGUIUtility.SetIconSize(${1:Vector2 size})]]></content>
 	<tabTrigger><![CDATA[EditorGUIUtility.SetIconSize]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(size)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.ReleaseTemporary(${1:temp : RenderTexture});]]></content>
+	<content><![CDATA[RenderTexture.ReleaseTemporary(${1:temp : RenderTexture})]]></content>
 	<tabTrigger><![CDATA[RenderTexture.ReleaseTemporary]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(temp)]]></description>

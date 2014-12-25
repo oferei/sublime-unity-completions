@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.NewStringUTF(${1:string bytes});]]></content>
+	<content><![CDATA[AndroidJNI.NewStringUTF(${1:string bytes})]]></content>
 	<tabTrigger><![CDATA[NewStringUTF]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(bytes)]]></description>

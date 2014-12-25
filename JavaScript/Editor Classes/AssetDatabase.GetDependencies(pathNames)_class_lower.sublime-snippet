@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.GetDependencies(${1:pathNames : string[]});]]></content>
+	<content><![CDATA[AssetDatabase.GetDependencies(${1:pathNames : string[]})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.GetDependencies]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(pathNames)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.GetRow(${1:i : int});]]></content>
+	<content><![CDATA[Matrix4x4.GetRow(${1:i : int})]]></content>
 	<tabTrigger><![CDATA[matrix4x4.GetRow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(i)]]></description>

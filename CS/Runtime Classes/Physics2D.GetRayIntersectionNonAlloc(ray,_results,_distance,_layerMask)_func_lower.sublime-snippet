@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.GetRayIntersectionNonAlloc(${1:Ray ray}, ${2:RaycastHit2D[] results}, ${3:float distance = Mathf.Infinity}, ${4:int layerMask = DefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics2D.GetRayIntersectionNonAlloc(${1:Ray ray}, ${2:RaycastHit2D[] results}, ${3:float distance = Mathf.Infinity}, ${4:int layerMask = DefaultRaycastLayers})]]></content>
 	<tabTrigger><![CDATA[getRayIntersectionNonAlloc]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Physics2D.*(ray, results, distance, layerMask)]]></description>

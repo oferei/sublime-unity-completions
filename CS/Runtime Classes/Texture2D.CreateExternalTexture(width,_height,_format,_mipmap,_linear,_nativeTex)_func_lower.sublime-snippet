@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.CreateExternalTexture(${1:int width}, ${2:int height}, ${3:TextureFormat format}, ${4:bool mipmap}, ${5:bool linear}, ${6:IntPtr nativeTex});]]></content>
+	<content><![CDATA[Texture2D.CreateExternalTexture(${1:int width}, ${2:int height}, ${3:TextureFormat format}, ${4:bool mipmap}, ${5:bool linear}, ${6:IntPtr nativeTex})]]></content>
 	<tabTrigger><![CDATA[createExternalTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Texture2D.*(width, height, format, mipmap, linear, nativeTex)]]></description>

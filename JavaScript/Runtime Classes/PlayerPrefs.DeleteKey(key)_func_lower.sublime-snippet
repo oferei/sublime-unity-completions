@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerPrefs.DeleteKey(${1:key : string});]]></content>
+	<content><![CDATA[PlayerPrefs.DeleteKey(${1:key : string})]]></content>
 	<tabTrigger><![CDATA[deleteKey]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PlayerPrefs.*(key)]]></description>

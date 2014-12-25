@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetFloat(${1:string name}, ${2:float value}, ${3:float dampTime}, ${4:float deltaTime});]]></content>
+	<content><![CDATA[Animator.SetFloat(${1:string name}, ${2:float value}, ${3:float dampTime}, ${4:float deltaTime})]]></content>
 	<tabTrigger><![CDATA[setFloat]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animator.*(name, value, dampTime, deltaTime)]]></description>

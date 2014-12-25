@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.ReleaseTemporary(${1:RenderTexture temp});]]></content>
+	<content><![CDATA[RenderTexture.ReleaseTemporary(${1:RenderTexture temp})]]></content>
 	<tabTrigger><![CDATA[ReleaseTemporary]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RenderTexture.*(temp)]]></description>

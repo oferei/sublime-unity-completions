@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.EndScrollView(${1:bool handleScrollWheel});]]></content>
+	<content><![CDATA[GUI.EndScrollView(${1:bool handleScrollWheel})]]></content>
 	<tabTrigger><![CDATA[EndScrollView]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(handleScrollWheel)]]></description>

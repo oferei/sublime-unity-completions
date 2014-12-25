@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cubemap.SmoothEdges(${1:int smoothRegionWidthInPixels = 1});]]></content>
+	<content><![CDATA[Cubemap.SmoothEdges(${1:int smoothRegionWidthInPixels = 1})]]></content>
 	<tabTrigger><![CDATA[smoothEdges]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Cubemap.*(smoothRegionWidthInPixels)]]></description>

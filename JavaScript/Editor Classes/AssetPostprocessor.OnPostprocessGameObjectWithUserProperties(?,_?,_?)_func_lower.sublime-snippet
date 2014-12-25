@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties(${1:? : GameObject}, ${2:? : string[]}, ${3:? : object[]});]]></content>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties(${1:? : GameObject}, ${2:? : string[]}, ${3:? : object[]})]]></content>
 	<tabTrigger><![CDATA[onPostprocessGameObjectWithUserProperties]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetPostprocessor.*(?, ?, ?)]]></description>

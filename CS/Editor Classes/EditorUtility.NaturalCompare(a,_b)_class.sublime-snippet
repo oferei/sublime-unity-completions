@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.NaturalCompare(${1:string a}, ${2:string b});]]></content>
+	<content><![CDATA[EditorUtility.NaturalCompare(${1:string a}, ${2:string b})]]></content>
 	<tabTrigger><![CDATA[EditorUtility.NaturalCompare]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(a, b)]]></description>

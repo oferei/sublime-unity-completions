@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.Find(${1:name : string});]]></content>
+	<content><![CDATA[Shader.Find(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[shader.Find]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

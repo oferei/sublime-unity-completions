@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyDrawer.GetPropertyHeight(${1:prop : MaterialProperty}, ${2:label : string}, ${3:editor : MaterialEditor});]]></content>
+	<content><![CDATA[MaterialPropertyDrawer.GetPropertyHeight(${1:prop : MaterialProperty}, ${2:label : string}, ${3:editor : MaterialEditor})]]></content>
 	<tabTrigger><![CDATA[GetPropertyHeight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MaterialPropertyDrawer.*(prop, label, editor)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.GetMaterialProperty(${1:mats : Object[]}, ${2:name : string});]]></content>
+	<content><![CDATA[MaterialEditor.GetMaterialProperty(${1:mats : Object[]}, ${2:name : string})]]></content>
 	<tabTrigger><![CDATA[GetMaterialProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MaterialEditor.*(mats, name)]]></description>

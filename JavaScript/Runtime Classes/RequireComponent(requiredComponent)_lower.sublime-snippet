@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RequireComponent(${1:requiredComponent : Type});]]></content>
+	<content><![CDATA[RequireComponent(${1:requiredComponent : Type})]]></content>
 	<tabTrigger><![CDATA[requireComponent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(requiredComponent)]]></description>

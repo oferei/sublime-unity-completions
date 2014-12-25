@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScriptableWizard.DisplayWizard(${1:string title}, ${2:string createButtonName}, ${3:string otherButtonName});]]></content>
+	<content><![CDATA[ScriptableWizard.DisplayWizard(${1:string title}, ${2:string createButtonName}, ${3:string otherButtonName})]]></content>
 	<tabTrigger><![CDATA[ScriptableWizard.DisplayWizard]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(title, createButtonName, otherButtonName)]]></description>

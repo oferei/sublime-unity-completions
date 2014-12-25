@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody.AddRelativeTorque(${1:float x}, ${2:float y}, ${3:float z}, ${4:ForceMode mode = ForceMode.Force});]]></content>
+	<content><![CDATA[Rigidbody.AddRelativeTorque(${1:float x}, ${2:float y}, ${3:float z}, ${4:ForceMode mode = ForceMode.Force})]]></content>
 	<tabTrigger><![CDATA[Rigidbody.AddRelativeTorque]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(x, y, z, mode)]]></description>

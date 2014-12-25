@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds(${1:center : Vector3}, ${2:size : Vector3});]]></content>
+	<content><![CDATA[Bounds(${1:center : Vector3}, ${2:size : Vector3})]]></content>
 	<tabTrigger><![CDATA[bounds]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(center, size)]]></description>

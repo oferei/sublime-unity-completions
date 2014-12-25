@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.GetAnimationUpdateRate(${1:ProceduralMaterial material});]]></content>
+	<content><![CDATA[SubstanceImporter.GetAnimationUpdateRate(${1:ProceduralMaterial material})]]></content>
 	<tabTrigger><![CDATA[SubstanceImporter.GetAnimationUpdateRate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(material)]]></description>

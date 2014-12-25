@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.HelpBox(${1:string message}, ${2:MessageType type});]]></content>
+	<content><![CDATA[EditorGUILayout.HelpBox(${1:string message}, ${2:MessageType type})]]></content>
 	<tabTrigger><![CDATA[HelpBox]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(message, type)]]></description>

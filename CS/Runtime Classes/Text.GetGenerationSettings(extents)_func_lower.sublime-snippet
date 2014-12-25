@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Text.GetGenerationSettings(${1:Vector2 extents});]]></content>
+	<content><![CDATA[Text.GetGenerationSettings(${1:Vector2 extents})]]></content>
 	<tabTrigger><![CDATA[getGenerationSettings]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Text.*(extents)]]></description>

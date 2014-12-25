@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.GetTextureOffset(${1:string propertyName});]]></content>
+	<content><![CDATA[Material.GetTextureOffset(${1:string propertyName})]]></content>
 	<tabTrigger><![CDATA[Material.GetTextureOffset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(propertyName)]]></description>

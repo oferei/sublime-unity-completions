@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.ClampMagnitude(${1:vector : Vector2}, ${2:maxLength : float});]]></content>
+	<content><![CDATA[Vector2.ClampMagnitude(${1:vector : Vector2}, ${2:maxLength : float})]]></content>
 	<tabTrigger><![CDATA[vector2.ClampMagnitude]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(vector, maxLength)]]></description>

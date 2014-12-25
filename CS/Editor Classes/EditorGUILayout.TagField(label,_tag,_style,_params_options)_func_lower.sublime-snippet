@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.TagField(${1:GUIContent label}, ${2:string tag}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.TagField(${1:GUIContent label}, ${2:string tag}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[tagField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(label, tag, style, params options)]]></description>

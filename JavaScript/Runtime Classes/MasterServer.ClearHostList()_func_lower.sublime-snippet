@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MasterServer.ClearHostList();]]></content>
+	<content><![CDATA[MasterServer.ClearHostList()]]></content>
 	<tabTrigger><![CDATA[clearHostList]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MasterServer.*()]]></description>

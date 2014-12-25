@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawTexture(${1:screenRect : Rect}, ${2:texture : Texture}, ${3:leftBorder : int}, ${4:rightBorder : int}, ${5:topBorder : int}, ${6:bottomBorder : int}, ${7:mat : Material = null});]]></content>
+	<content><![CDATA[Graphics.DrawTexture(${1:screenRect : Rect}, ${2:texture : Texture}, ${3:leftBorder : int}, ${4:rightBorder : int}, ${5:topBorder : int}, ${6:bottomBorder : int}, ${7:mat : Material = null})]]></content>
 	<tabTrigger><![CDATA[drawTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Graphics.*(screenRect, texture, leftBorder, rightBorder, topBorder, bottomBorder, mat)]]></description>

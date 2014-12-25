@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyBlock.GetTexture(${1:string name});]]></content>
+	<content><![CDATA[MaterialPropertyBlock.GetTexture(${1:string name})]]></content>
 	<tabTrigger><![CDATA[getTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MaterialPropertyBlock.*(name)]]></description>

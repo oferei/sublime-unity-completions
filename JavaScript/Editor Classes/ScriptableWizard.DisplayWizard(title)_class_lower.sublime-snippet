@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScriptableWizard.DisplayWizard(${1:title : string});]]></content>
+	<content><![CDATA[ScriptableWizard.DisplayWizard(${1:title : string})]]></content>
 	<tabTrigger><![CDATA[scriptableWizard.DisplayWizard]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(title)]]></description>

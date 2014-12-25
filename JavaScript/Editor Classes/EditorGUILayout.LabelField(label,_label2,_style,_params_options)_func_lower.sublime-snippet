@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.LabelField(${1:label : GUIContent}, ${2:label2 : GUIContent}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.LabelField(${1:label : GUIContent}, ${2:label2 : GUIContent}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[labelField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(label, label2, style, params options)]]></description>

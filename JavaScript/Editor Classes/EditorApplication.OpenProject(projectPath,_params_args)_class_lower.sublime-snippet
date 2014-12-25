@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.OpenProject(${1:projectPath : string}, ${2:params args : string[]});]]></content>
+	<content><![CDATA[EditorApplication.OpenProject(${1:projectPath : string}, ${2:params args : string[]})]]></content>
 	<tabTrigger><![CDATA[editorApplication.OpenProject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(projectPath, params args)]]></description>

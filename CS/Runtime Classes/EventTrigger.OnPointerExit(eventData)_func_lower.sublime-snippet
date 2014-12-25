@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EventTrigger.OnPointerExit(${1:PointerEventData eventData});]]></content>
+	<content><![CDATA[EventTrigger.OnPointerExit(${1:PointerEventData eventData})]]></content>
 	<tabTrigger><![CDATA[onPointerExit]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EventTrigger.*(eventData)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.Dot(${1:Quaternion a}, ${2:Quaternion b});]]></content>
+	<content><![CDATA[Quaternion.Dot(${1:Quaternion a}, ${2:Quaternion b})]]></content>
 	<tabTrigger><![CDATA[Quaternion.Dot]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(a, b)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[iPhone.SetNoBackupFlag(${1:string path});]]></content>
+	<content><![CDATA[iPhone.SetNoBackupFlag(${1:string path})]]></content>
 	<tabTrigger><![CDATA[iPhone.SetNoBackupFlag]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(path)]]></description>

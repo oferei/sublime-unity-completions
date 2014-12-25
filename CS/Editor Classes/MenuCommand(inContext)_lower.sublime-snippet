@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MenuCommand(${1:Object inContext});]]></content>
+	<content><![CDATA[MenuCommand(${1:Object inContext})]]></content>
 	<tabTrigger><![CDATA[menuCommand]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(inContext)]]></description>

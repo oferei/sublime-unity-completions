@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LineRenderer.SetColors(${1:Color start}, ${2:Color end});]]></content>
+	<content><![CDATA[LineRenderer.SetColors(${1:Color start}, ${2:Color end})]]></content>
 	<tabTrigger><![CDATA[lineRenderer.SetColors]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(start, end)]]></description>

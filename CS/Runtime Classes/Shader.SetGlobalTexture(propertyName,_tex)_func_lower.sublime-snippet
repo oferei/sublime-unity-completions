@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.SetGlobalTexture(${1:string propertyName}, ${2:Texture tex});]]></content>
+	<content><![CDATA[Shader.SetGlobalTexture(${1:string propertyName}, ${2:Texture tex})]]></content>
 	<tabTrigger><![CDATA[setGlobalTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Shader.*(propertyName, tex)]]></description>

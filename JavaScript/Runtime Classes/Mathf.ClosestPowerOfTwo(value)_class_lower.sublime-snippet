@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.ClosestPowerOfTwo(${1:value : int});]]></content>
+	<content><![CDATA[Mathf.ClosestPowerOfTwo(${1:value : int})]]></content>
 	<tabTrigger><![CDATA[mathf.ClosestPowerOfTwo]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(value)]]></description>

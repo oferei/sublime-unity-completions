@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.PickRectObjects(${1:Rect rect});]]></content>
+	<content><![CDATA[HandleUtility.PickRectObjects(${1:Rect rect})]]></content>
 	<tabTrigger><![CDATA[PickRectObjects]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[HandleUtility.*(rect)]]></description>

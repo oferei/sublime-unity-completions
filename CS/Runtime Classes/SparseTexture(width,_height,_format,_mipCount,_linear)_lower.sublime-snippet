@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SparseTexture(${1:int width}, ${2:int height}, ${3:TextureFormat format}, ${4:int mipCount}, ${5:bool linear});]]></content>
+	<content><![CDATA[SparseTexture(${1:int width}, ${2:int height}, ${3:TextureFormat format}, ${4:int mipCount}, ${5:bool linear})]]></content>
 	<tabTrigger><![CDATA[sparseTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(width, height, format, mipCount, linear)]]></description>

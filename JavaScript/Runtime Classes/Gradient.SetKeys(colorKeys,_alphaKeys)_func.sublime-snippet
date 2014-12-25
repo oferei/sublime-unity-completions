@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gradient.SetKeys(${1:colorKeys : GradientColorKey[]}, ${2:alphaKeys : GradientAlphaKey[]});]]></content>
+	<content><![CDATA[Gradient.SetKeys(${1:colorKeys : GradientColorKey[]}, ${2:alphaKeys : GradientAlphaKey[]})]]></content>
 	<tabTrigger><![CDATA[SetKeys]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Gradient.*(colorKeys, alphaKeys)]]></description>

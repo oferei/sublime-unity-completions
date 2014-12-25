@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.PushCamera(${1:camera : Camera});]]></content>
+	<content><![CDATA[HandleUtility.PushCamera(${1:camera : Camera})]]></content>
 	<tabTrigger><![CDATA[handleUtility.PushCamera]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(camera)]]></description>

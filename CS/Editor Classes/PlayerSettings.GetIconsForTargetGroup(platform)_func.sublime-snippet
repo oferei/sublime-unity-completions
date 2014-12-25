@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerSettings.GetIconsForTargetGroup(${1:BuildTargetGroup platform});]]></content>
+	<content><![CDATA[PlayerSettings.GetIconsForTargetGroup(${1:BuildTargetGroup platform})]]></content>
 	<tabTrigger><![CDATA[GetIconsForTargetGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[PlayerSettings.*(platform)]]></description>

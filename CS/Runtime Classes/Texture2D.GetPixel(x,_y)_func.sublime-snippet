@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.GetPixel(${1:int x}, ${2:int y});]]></content>
+	<content><![CDATA[Texture2D.GetPixel(${1:int x}, ${2:int y})]]></content>
 	<tabTrigger><![CDATA[GetPixel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Texture2D.*(x, y)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW(${1:string url}, ${2:byte[] postData});]]></content>
+	<content><![CDATA[WWW(${1:string url}, ${2:byte[] postData})]]></content>
 	<tabTrigger><![CDATA[wWW]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(url, postData)]]></description>

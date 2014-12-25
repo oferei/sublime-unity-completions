@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.HasProperty(${1:nameID : int});]]></content>
+	<content><![CDATA[Material.HasProperty(${1:nameID : int})]]></content>
 	<tabTrigger><![CDATA[hasProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Material.*(nameID)]]></description>

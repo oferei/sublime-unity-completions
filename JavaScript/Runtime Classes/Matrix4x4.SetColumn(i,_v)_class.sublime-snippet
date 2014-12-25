@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.SetColumn(${1:i : int}, ${2:v : Vector4});]]></content>
+	<content><![CDATA[Matrix4x4.SetColumn(${1:i : int}, ${2:v : Vector4})]]></content>
 	<tabTrigger><![CDATA[Matrix4x4.SetColumn]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(i, v)]]></description>

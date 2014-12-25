@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Vector2Field(${1:Rect position}, ${2:GUIContent label}, ${3:Vector2 value});]]></content>
+	<content><![CDATA[EditorGUI.Vector2Field(${1:Rect position}, ${2:GUIContent label}, ${3:Vector2 value})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.Vector2Field]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, label, value)]]></description>

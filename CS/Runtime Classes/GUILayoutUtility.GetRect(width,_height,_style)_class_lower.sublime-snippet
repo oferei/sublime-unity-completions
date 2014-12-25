@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayoutUtility.GetRect(${1:float width}, ${2:float height}, ${3:GUIStyle style});]]></content>
+	<content><![CDATA[GUILayoutUtility.GetRect(${1:float width}, ${2:float height}, ${3:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[gUILayoutUtility.GetRect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(width, height, style)]]></description>

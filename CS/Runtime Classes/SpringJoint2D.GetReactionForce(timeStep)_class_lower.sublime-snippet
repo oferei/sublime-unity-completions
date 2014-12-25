@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SpringJoint2D.GetReactionForce(${1:float timeStep});]]></content>
+	<content><![CDATA[SpringJoint2D.GetReactionForce(${1:float timeStep})]]></content>
 	<tabTrigger><![CDATA[springJoint2D.GetReactionForce]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(timeStep)]]></description>

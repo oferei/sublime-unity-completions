@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.SaveFilePanelInProject(${1:string title}, ${2:string defaultName}, ${3:string extension}, ${4:string message});]]></content>
+	<content><![CDATA[EditorUtility.SaveFilePanelInProject(${1:string title}, ${2:string defaultName}, ${3:string extension}, ${4:string message})]]></content>
 	<tabTrigger><![CDATA[editorUtility.SaveFilePanelInProject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(title, defaultName, extension, message)]]></description>

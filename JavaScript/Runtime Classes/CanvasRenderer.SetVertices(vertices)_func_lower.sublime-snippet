@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasRenderer.SetVertices(${1:vertices : List<UIVertex>});]]></content>
+	<content><![CDATA[CanvasRenderer.SetVertices(${1:vertices : List<UIVertex>})]]></content>
 	<tabTrigger><![CDATA[setVertices]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CanvasRenderer.*(vertices)]]></description>

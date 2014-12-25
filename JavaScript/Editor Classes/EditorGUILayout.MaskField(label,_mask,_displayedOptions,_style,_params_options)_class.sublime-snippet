@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.MaskField(${1:label : string}, ${2:mask : int}, ${3:displayedOptions : string[]}, ${4:style : GUIStyle}, ${5:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.MaskField(${1:label : string}, ${2:mask : int}, ${3:displayedOptions : string[]}, ${4:style : GUIStyle}, ${5:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[EditorGUILayout.MaskField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(label, mask, displayedOptions, style, params options)]]></description>

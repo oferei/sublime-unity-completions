@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.PopLocalFrame(${1:result : IntPtr});]]></content>
+	<content><![CDATA[AndroidJNI.PopLocalFrame(${1:result : IntPtr})]]></content>
 	<tabTrigger><![CDATA[PopLocalFrame]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(result)]]></description>

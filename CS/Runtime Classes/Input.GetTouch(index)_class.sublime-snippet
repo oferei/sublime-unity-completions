@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetTouch(${1:int index});]]></content>
+	<content><![CDATA[Input.GetTouch(${1:int index})]]></content>
 	<tabTrigger><![CDATA[Input.GetTouch]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index)]]></description>

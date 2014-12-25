@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.DrawCursor(${1:position : Rect}, ${2:content : GUIContent}, ${3:controlID : int}, ${4:Character : int});]]></content>
+	<content><![CDATA[GUIStyle.DrawCursor(${1:position : Rect}, ${2:content : GUIContent}, ${3:controlID : int}, ${4:Character : int})]]></content>
 	<tabTrigger><![CDATA[gUIStyle.DrawCursor]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, content, controlID, Character)]]></description>

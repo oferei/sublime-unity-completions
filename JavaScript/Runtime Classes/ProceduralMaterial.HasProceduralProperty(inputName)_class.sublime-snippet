@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.HasProceduralProperty(${1:inputName : string});]]></content>
+	<content><![CDATA[ProceduralMaterial.HasProceduralProperty(${1:inputName : string})]]></content>
 	<tabTrigger><![CDATA[ProceduralMaterial.HasProceduralProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(inputName)]]></description>

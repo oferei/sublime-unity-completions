@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PropertyDrawer.GetPropertyHeight(${1:SerializedProperty property}, ${2:GUIContent label});]]></content>
+	<content><![CDATA[PropertyDrawer.GetPropertyHeight(${1:SerializedProperty property}, ${2:GUIContent label})]]></content>
 	<tabTrigger><![CDATA[PropertyDrawer.GetPropertyHeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(property, label)]]></description>

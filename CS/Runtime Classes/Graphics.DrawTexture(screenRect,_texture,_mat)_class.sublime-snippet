@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawTexture(${1:Rect screenRect}, ${2:Texture texture}, ${3:Material mat = null});]]></content>
+	<content><![CDATA[Graphics.DrawTexture(${1:Rect screenRect}, ${2:Texture texture}, ${3:Material mat = null})]]></content>
 	<tabTrigger><![CDATA[Graphics.DrawTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(screenRect, texture, mat)]]></description>

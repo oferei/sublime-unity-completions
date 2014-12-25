@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.SetObjectEnabled(${1:Object target}, ${2:bool enabled});]]></content>
+	<content><![CDATA[EditorUtility.SetObjectEnabled(${1:Object target}, ${2:bool enabled})]]></content>
 	<tabTrigger><![CDATA[editorUtility.SetObjectEnabled]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(target, enabled)]]></description>

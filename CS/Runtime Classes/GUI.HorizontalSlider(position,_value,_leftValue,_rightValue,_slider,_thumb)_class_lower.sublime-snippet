@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.HorizontalSlider(${1:Rect position}, ${2:float value}, ${3:float leftValue}, ${4:float rightValue}, ${5:GUIStyle slider}, ${6:GUIStyle thumb});]]></content>
+	<content><![CDATA[GUI.HorizontalSlider(${1:Rect position}, ${2:float value}, ${3:float leftValue}, ${4:float rightValue}, ${5:GUIStyle slider}, ${6:GUIStyle thumb})]]></content>
 	<tabTrigger><![CDATA[gUI.HorizontalSlider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, value, leftValue, rightValue, slider, thumb)]]></description>

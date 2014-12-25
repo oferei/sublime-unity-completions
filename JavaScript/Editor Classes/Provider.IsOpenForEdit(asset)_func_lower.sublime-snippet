@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.IsOpenForEdit(${1:asset : Asset});]]></content>
+	<content><![CDATA[Provider.IsOpenForEdit(${1:asset : Asset})]]></content>
 	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(asset)]]></description>

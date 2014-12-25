@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AvatarBuilder.BuildHumanAvatar(${1:go : GameObject}, ${2:monoHumanDescription : HumanDescription});]]></content>
+	<content><![CDATA[AvatarBuilder.BuildHumanAvatar(${1:go : GameObject}, ${2:monoHumanDescription : HumanDescription})]]></content>
 	<tabTrigger><![CDATA[buildHumanAvatar]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AvatarBuilder.*(go, monoHumanDescription)]]></description>

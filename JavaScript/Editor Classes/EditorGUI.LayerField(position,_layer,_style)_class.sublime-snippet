@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.LayerField(${1:position : Rect}, ${2:layer : int}, ${3:style : GUIStyle = EditorStyles.popup});]]></content>
+	<content><![CDATA[EditorGUI.LayerField(${1:position : Rect}, ${2:layer : int}, ${3:style : GUIStyle = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.LayerField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, layer, style)]]></description>

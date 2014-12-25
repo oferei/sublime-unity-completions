@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetPreview.GetMiniThumbnail(${1:Object obj});]]></content>
+	<content><![CDATA[AssetPreview.GetMiniThumbnail(${1:Object obj})]]></content>
 	<tabTrigger><![CDATA[getMiniThumbnail]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetPreview.*(obj)]]></description>

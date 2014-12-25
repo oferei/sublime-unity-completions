@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.RenderWithShader(${1:shader : Shader}, ${2:replacementTag : string});]]></content>
+	<content><![CDATA[Camera.RenderWithShader(${1:shader : Shader}, ${2:replacementTag : string})]]></content>
 	<tabTrigger><![CDATA[camera.RenderWithShader]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(shader, replacementTag)]]></description>

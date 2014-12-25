@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIContent(${1:string text}, ${2:Texture image});]]></content>
+	<content><![CDATA[GUIContent(${1:string text}, ${2:Texture image})]]></content>
 	<tabTrigger><![CDATA[GUIContent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(text, image)]]></description>

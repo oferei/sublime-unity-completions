@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Clamp(${1:int value}, ${2:int min}, ${3:int max});]]></content>
+	<content><![CDATA[Mathf.Clamp(${1:int value}, ${2:int min}, ${3:int max})]]></content>
 	<tabTrigger><![CDATA[Clamp]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(value, min, max)]]></description>

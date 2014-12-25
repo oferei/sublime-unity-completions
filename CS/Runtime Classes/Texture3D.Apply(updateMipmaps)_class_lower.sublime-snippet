@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture3D.Apply(${1:bool updateMipmaps = true});]]></content>
+	<content><![CDATA[Texture3D.Apply(${1:bool updateMipmaps = true})]]></content>
 	<tabTrigger><![CDATA[texture3D.Apply]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(updateMipmaps)]]></description>

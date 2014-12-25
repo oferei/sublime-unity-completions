@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.GetWindowWithRect(${1:Rect rect}, ${2:bool utility}, ${3:string title}, ${4:bool focus});]]></content>
+	<content><![CDATA[EditorWindow.GetWindowWithRect(${1:Rect rect}, ${2:bool utility}, ${3:string title}, ${4:bool focus})]]></content>
 	<tabTrigger><![CDATA[getWindowWithRect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorWindow.*(rect, utility, title, focus)]]></description>

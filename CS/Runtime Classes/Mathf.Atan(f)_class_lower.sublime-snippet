@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Atan(${1:float f});]]></content>
+	<content><![CDATA[Mathf.Atan(${1:float f})]]></content>
 	<tabTrigger><![CDATA[mathf.Atan]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(f)]]></description>

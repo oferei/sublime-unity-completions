@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.PingPong(${1:float t}, ${2:float length});]]></content>
+	<content><![CDATA[Mathf.PingPong(${1:float t}, ${2:float length})]]></content>
 	<tabTrigger><![CDATA[PingPong]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(t, length)]]></description>

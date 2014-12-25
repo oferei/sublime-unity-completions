@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshAgent.SetDestination(${1:Vector3 target});]]></content>
+	<content><![CDATA[NavMeshAgent.SetDestination(${1:Vector3 target})]]></content>
 	<tabTrigger><![CDATA[SetDestination]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NavMeshAgent.*(target)]]></description>

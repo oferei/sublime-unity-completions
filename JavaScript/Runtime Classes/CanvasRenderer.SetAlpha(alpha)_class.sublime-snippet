@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasRenderer.SetAlpha(${1:alpha : float});]]></content>
+	<content><![CDATA[CanvasRenderer.SetAlpha(${1:alpha : float})]]></content>
 	<tabTrigger><![CDATA[CanvasRenderer.SetAlpha]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(alpha)]]></description>

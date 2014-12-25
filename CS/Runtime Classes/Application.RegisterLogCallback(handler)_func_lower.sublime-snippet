@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.RegisterLogCallback(${1:LogCallback handler});]]></content>
+	<content><![CDATA[Application.RegisterLogCallback(${1:LogCallback handler})]]></content>
 	<tabTrigger><![CDATA[registerLogCallback]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Application.*(handler)]]></description>

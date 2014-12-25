@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PopupWindowContent.OnGUI(${1:Rect rect});]]></content>
+	<content><![CDATA[PopupWindowContent.OnGUI(${1:Rect rect})]]></content>
 	<tabTrigger><![CDATA[PopupWindowContent.OnGUI]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rect)]]></description>

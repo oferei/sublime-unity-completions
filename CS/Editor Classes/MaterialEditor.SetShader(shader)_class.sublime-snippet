@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.SetShader(${1:Shader shader});]]></content>
+	<content><![CDATA[MaterialEditor.SetShader(${1:Shader shader})]]></content>
 	<tabTrigger><![CDATA[MaterialEditor.SetShader]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(shader)]]></description>

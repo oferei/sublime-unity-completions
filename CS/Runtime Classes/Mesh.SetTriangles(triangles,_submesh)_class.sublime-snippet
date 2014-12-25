@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.SetTriangles(${1:int[] triangles}, ${2:int submesh});]]></content>
+	<content><![CDATA[Mesh.SetTriangles(${1:int[] triangles}, ${2:int submesh})]]></content>
 	<tabTrigger><![CDATA[Mesh.SetTriangles]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(triangles, submesh)]]></description>

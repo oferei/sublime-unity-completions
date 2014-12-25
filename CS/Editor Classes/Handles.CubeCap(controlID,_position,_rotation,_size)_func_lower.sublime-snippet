@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.CubeCap(${1:int controlID}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size});]]></content>
+	<content><![CDATA[Handles.CubeCap(${1:int controlID}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size})]]></content>
 	<tabTrigger><![CDATA[cubeCap]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(controlID, position, rotation, size)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MouseButtonEventData.ReleasedThisFrame();]]></content>
+	<content><![CDATA[MouseButtonEventData.ReleasedThisFrame()]]></content>
 	<tabTrigger><![CDATA[releasedThisFrame]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MouseButtonEventData.*()]]></description>

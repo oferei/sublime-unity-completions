@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.BeginDisabledGroup(${1:disabled : bool});]]></content>
+	<content><![CDATA[EditorGUI.BeginDisabledGroup(${1:disabled : bool})]]></content>
 	<tabTrigger><![CDATA[editorGUI.BeginDisabledGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(disabled)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObjectUtility.GetNavMeshLayer(${1:go : GameObject});]]></content>
+	<content><![CDATA[GameObjectUtility.GetNavMeshLayer(${1:go : GameObject})]]></content>
 	<tabTrigger><![CDATA[getNavMeshLayer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GameObjectUtility.*(go)]]></description>

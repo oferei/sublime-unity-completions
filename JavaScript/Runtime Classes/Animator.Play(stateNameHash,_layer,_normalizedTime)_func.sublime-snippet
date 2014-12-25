@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.Play(${1:stateNameHash : int}, ${2:layer : int = -1}, ${3:normalizedTime : float = float.NegativeInfinity});]]></content>
+	<content><![CDATA[Animator.Play(${1:stateNameHash : int}, ${2:layer : int = -1}, ${3:normalizedTime : float = float.NegativeInfinity})]]></content>
 	<tabTrigger><![CDATA[Play]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Animator.*(stateNameHash, layer, normalizedTime)]]></description>

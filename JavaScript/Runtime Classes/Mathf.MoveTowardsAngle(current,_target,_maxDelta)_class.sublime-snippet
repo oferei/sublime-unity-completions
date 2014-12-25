@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.MoveTowardsAngle(${1:current : float}, ${2:target : float}, ${3:maxDelta : float});]]></content>
+	<content><![CDATA[Mathf.MoveTowardsAngle(${1:current : float}, ${2:target : float}, ${3:maxDelta : float})]]></content>
 	<tabTrigger><![CDATA[Mathf.MoveTowardsAngle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(current, target, maxDelta)]]></description>

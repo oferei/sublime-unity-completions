@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ArrayUtility.RemoveAt(${1:array : T[]}, ${2:index : int});]]></content>
+	<content><![CDATA[ArrayUtility.RemoveAt(${1:array : T[]}, ${2:index : int})]]></content>
 	<tabTrigger><![CDATA[arrayUtility.RemoveAt]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(array, index)]]></description>

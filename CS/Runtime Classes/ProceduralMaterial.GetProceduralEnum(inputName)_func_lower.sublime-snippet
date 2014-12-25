@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.GetProceduralEnum(${1:string inputName});]]></content>
+	<content><![CDATA[ProceduralMaterial.GetProceduralEnum(${1:string inputName})]]></content>
 	<tabTrigger><![CDATA[getProceduralEnum]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[ProceduralMaterial.*(inputName)]]></description>

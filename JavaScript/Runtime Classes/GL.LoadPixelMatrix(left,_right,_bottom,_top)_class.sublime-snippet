@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.LoadPixelMatrix(${1:left : float}, ${2:right : float}, ${3:bottom : float}, ${4:top : float});]]></content>
+	<content><![CDATA[GL.LoadPixelMatrix(${1:left : float}, ${2:right : float}, ${3:bottom : float}, ${4:top : float})]]></content>
 	<tabTrigger><![CDATA[GL.LoadPixelMatrix]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(left, right, bottom, top)]]></description>

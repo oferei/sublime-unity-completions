@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIContent(${1:GUIContent src});]]></content>
+	<content><![CDATA[GUIContent(${1:GUIContent src})]]></content>
 	<tabTrigger><![CDATA[gUIContent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(src)]]></description>

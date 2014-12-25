@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.OverlapSphere(${1:position : Vector3}, ${2:radius : float}, ${3:layerMask : int = AllLayers});]]></content>
+	<content><![CDATA[Physics.OverlapSphere(${1:position : Vector3}, ${2:radius : float}, ${3:layerMask : int = AllLayers})]]></content>
 	<tabTrigger><![CDATA[physics.OverlapSphere]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, radius, layerMask)]]></description>

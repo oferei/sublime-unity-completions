@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LightProbes.GetInterpolatedLightProbe(${1:position : Vector3}, ${2:renderer : Renderer}, ${3:coefficients : float[]});]]></content>
+	<content><![CDATA[LightProbes.GetInterpolatedLightProbe(${1:position : Vector3}, ${2:renderer : Renderer}, ${3:coefficients : float[]})]]></content>
 	<tabTrigger><![CDATA[getInterpolatedLightProbe]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[LightProbes.*(position, renderer, coefficients)]]></description>

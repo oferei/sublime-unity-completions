@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyDrawer.OnGUI(${1:position : Rect}, ${2:prop : MaterialProperty}, ${3:label : string}, ${4:editor : MaterialEditor});]]></content>
+	<content><![CDATA[MaterialPropertyDrawer.OnGUI(${1:position : Rect}, ${2:prop : MaterialProperty}, ${3:label : string}, ${4:editor : MaterialEditor})]]></content>
 	<tabTrigger><![CDATA[MaterialPropertyDrawer.OnGUI]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, prop, label, editor)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransform.GetWorldCorners(${1:fourCornersArray : Vector3[]});]]></content>
+	<content><![CDATA[RectTransform.GetWorldCorners(${1:fourCornersArray : Vector3[]})]]></content>
 	<tabTrigger><![CDATA[getWorldCorners]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[RectTransform.*(fourCornersArray)]]></description>

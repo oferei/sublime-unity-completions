@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Crypto.ComputeMD5Hash(${1:buffer : byte[]});]]></content>
+	<content><![CDATA[Crypto.ComputeMD5Hash(${1:buffer : byte[]})]]></content>
 	<tabTrigger><![CDATA[ComputeMD5Hash]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Crypto.*(buffer)]]></description>

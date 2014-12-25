@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawSolidDisc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:radius : float});]]></content>
+	<content><![CDATA[Handles.DrawSolidDisc(${1:center : Vector3}, ${2:normal : Vector3}, ${3:radius : float})]]></content>
 	<tabTrigger><![CDATA[handles.DrawSolidDisc]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(center, normal, radius)]]></description>

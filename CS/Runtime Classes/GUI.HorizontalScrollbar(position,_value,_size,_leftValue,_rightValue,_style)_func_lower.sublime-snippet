@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.HorizontalScrollbar(${1:Rect position}, ${2:float value}, ${3:float size}, ${4:float leftValue}, ${5:float rightValue}, ${6:GUIStyle style});]]></content>
+	<content><![CDATA[GUI.HorizontalScrollbar(${1:Rect position}, ${2:float value}, ${3:float size}, ${4:float leftValue}, ${5:float rightValue}, ${6:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[horizontalScrollbar]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(position, value, size, leftValue, rightValue, style)]]></description>

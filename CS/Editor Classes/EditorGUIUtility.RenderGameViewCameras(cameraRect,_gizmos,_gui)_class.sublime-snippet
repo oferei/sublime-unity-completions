@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.RenderGameViewCameras(${1:Rect cameraRect}, ${2:bool gizmos}, ${3:bool gui});]]></content>
+	<content><![CDATA[EditorGUIUtility.RenderGameViewCameras(${1:Rect cameraRect}, ${2:bool gizmos}, ${3:bool gui})]]></content>
 	<tabTrigger><![CDATA[EditorGUIUtility.RenderGameViewCameras]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(cameraRect, gizmos, gui)]]></description>

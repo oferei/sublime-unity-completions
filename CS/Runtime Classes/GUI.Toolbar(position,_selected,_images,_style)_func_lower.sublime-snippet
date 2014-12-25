@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.Toolbar(${1:Rect position}, ${2:int selected}, ${3:Texture[] images}, ${4:GUIStyle style});]]></content>
+	<content><![CDATA[GUI.Toolbar(${1:Rect position}, ${2:int selected}, ${3:Texture[] images}, ${4:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[toolbar]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(position, selected, images, style)]]></description>

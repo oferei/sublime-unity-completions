@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.GetStateObject(${1:t : Type}, ${2:controlID : int});]]></content>
+	<content><![CDATA[GUIUtility.GetStateObject(${1:t : Type}, ${2:controlID : int})]]></content>
 	<tabTrigger><![CDATA[gUIUtility.GetStateObject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(t, controlID)]]></description>

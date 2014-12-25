@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.SelectionGrid(${1:position : Rect}, ${2:selected : int}, ${3:content : GUIContent[]}, ${4:xCount : int});]]></content>
+	<content><![CDATA[GUI.SelectionGrid(${1:position : Rect}, ${2:selected : int}, ${3:content : GUIContent[]}, ${4:xCount : int})]]></content>
 	<tabTrigger><![CDATA[SelectionGrid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(position, selected, content, xCount)]]></description>

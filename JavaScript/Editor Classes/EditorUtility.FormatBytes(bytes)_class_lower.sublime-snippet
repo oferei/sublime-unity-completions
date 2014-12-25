@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.FormatBytes(${1:bytes : int});]]></content>
+	<content><![CDATA[EditorUtility.FormatBytes(${1:bytes : int})]]></content>
 	<tabTrigger><![CDATA[editorUtility.FormatBytes]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(bytes)]]></description>

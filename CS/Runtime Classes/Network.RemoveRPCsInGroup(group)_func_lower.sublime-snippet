@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.RemoveRPCsInGroup(${1:int group});]]></content>
+	<content><![CDATA[Network.RemoveRPCsInGroup(${1:int group})]]></content>
 	<tabTrigger><![CDATA[removeRPCsInGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Network.*(group)]]></description>

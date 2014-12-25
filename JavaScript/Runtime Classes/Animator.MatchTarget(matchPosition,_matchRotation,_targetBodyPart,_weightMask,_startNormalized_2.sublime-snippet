@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.MatchTarget(${1:matchPosition : Vector3}, ${2:matchRotation : Quaternion}, ${3:targetBodyPart : AvatarTarget}, ${4:weightMask : MatchTargetWeightMask}, ${5:startNormalizedTime : float}, ${6:targetNormalizedTime : float = 1});]]></content>
+	<content><![CDATA[Animator.MatchTarget(${1:matchPosition : Vector3}, ${2:matchRotation : Quaternion}, ${3:targetBodyPart : AvatarTarget}, ${4:weightMask : MatchTargetWeightMask}, ${5:startNormalizedTime : float}, ${6:targetNormalizedTime : float = 1})]]></content>
 	<tabTrigger><![CDATA[animator.MatchTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(matchPosition, matchRotation, targetBodyPart, weightMask, startNormalizedTime, targetNormalizedTime)]]></description>

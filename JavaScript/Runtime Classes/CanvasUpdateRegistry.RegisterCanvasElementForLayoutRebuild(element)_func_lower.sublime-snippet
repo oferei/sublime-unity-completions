@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasUpdateRegistry.RegisterCanvasElementForLayoutRebuild(${1:element : ICanvasElement});]]></content>
+	<content><![CDATA[CanvasUpdateRegistry.RegisterCanvasElementForLayoutRebuild(${1:element : ICanvasElement})]]></content>
 	<tabTrigger><![CDATA[registerCanvasElementForLayoutRebuild]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CanvasUpdateRegistry.*(element)]]></description>

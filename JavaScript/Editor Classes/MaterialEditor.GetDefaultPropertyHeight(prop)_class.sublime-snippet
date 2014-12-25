@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.GetDefaultPropertyHeight(${1:prop : MaterialProperty});]]></content>
+	<content><![CDATA[MaterialEditor.GetDefaultPropertyHeight(${1:prop : MaterialProperty})]]></content>
 	<tabTrigger><![CDATA[MaterialEditor.GetDefaultPropertyHeight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(prop)]]></description>

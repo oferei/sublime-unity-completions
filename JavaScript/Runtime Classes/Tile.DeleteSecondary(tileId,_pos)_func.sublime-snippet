@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.DeleteSecondary(${1:tileId : string}, ${2:pos : Vector2});]]></content>
+	<content><![CDATA[Tile.DeleteSecondary(${1:tileId : string}, ${2:pos : Vector2})]]></content>
 	<tabTrigger><![CDATA[DeleteSecondary]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Tile.*(tileId, pos)]]></description>

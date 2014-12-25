@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.SetLookRotation(${1:Vector3 view}, ${2:Vector3 up = Vector3.up});]]></content>
+	<content><![CDATA[Quaternion.SetLookRotation(${1:Vector3 view}, ${2:Vector3 up = Vector3.up})]]></content>
 	<tabTrigger><![CDATA[quaternion.SetLookRotation]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(view, up)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Highlighter.Highlight(${1:string windowTitle}, ${2:string text}, ${3:HighlightSearchMode mode});]]></content>
+	<content><![CDATA[Highlighter.Highlight(${1:string windowTitle}, ${2:string text}, ${3:HighlightSearchMode mode})]]></content>
 	<tabTrigger><![CDATA[highlight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Highlighter.*(windowTitle, text, mode)]]></description>

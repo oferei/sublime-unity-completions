@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralTexture(${1:string inputName}, ${2:Texture2D value});]]></content>
+	<content><![CDATA[ProceduralMaterial.SetProceduralTexture(${1:string inputName}, ${2:Texture2D value})]]></content>
 	<tabTrigger><![CDATA[ProceduralMaterial.SetProceduralTexture]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(inputName, value)]]></description>

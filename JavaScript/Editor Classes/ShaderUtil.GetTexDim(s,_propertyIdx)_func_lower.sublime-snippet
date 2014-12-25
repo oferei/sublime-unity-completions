@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ShaderUtil.GetTexDim(${1:s : Shader}, ${2:propertyIdx : int});]]></content>
+	<content><![CDATA[ShaderUtil.GetTexDim(${1:s : Shader}, ${2:propertyIdx : int})]]></content>
 	<tabTrigger><![CDATA[getTexDim]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ShaderUtil.*(s, propertyIdx)]]></description>

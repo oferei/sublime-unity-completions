@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Microphone.End(${1:string deviceName});]]></content>
+	<content><![CDATA[Microphone.End(${1:string deviceName})]]></content>
 	<tabTrigger><![CDATA[microphone.End]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(deviceName)]]></description>

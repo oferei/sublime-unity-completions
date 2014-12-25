@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.GetRayIntersectionAll(${1:ray : Ray}, ${2:distance : float = Mathf.Infinity}, ${3:layerMask : int = DefaultRaycastLayers});]]></content>
+	<content><![CDATA[Physics2D.GetRayIntersectionAll(${1:ray : Ray}, ${2:distance : float = Mathf.Infinity}, ${3:layerMask : int = DefaultRaycastLayers})]]></content>
 	<tabTrigger><![CDATA[GetRayIntersectionAll]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Physics2D.*(ray, distance, layerMask)]]></description>

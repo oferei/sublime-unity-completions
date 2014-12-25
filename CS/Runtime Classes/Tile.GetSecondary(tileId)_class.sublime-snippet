@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.GetSecondary(${1:string tileId});]]></content>
+	<content><![CDATA[Tile.GetSecondary(${1:string tileId})]]></content>
 	<tabTrigger><![CDATA[Tile.GetSecondary]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(tileId)]]></description>

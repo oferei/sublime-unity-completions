@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ObjectPreview.Initialize(${1:Object[] targets});]]></content>
+	<content><![CDATA[ObjectPreview.Initialize(${1:Object[] targets})]]></content>
 	<tabTrigger><![CDATA[objectPreview.Initialize]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(targets)]]></description>

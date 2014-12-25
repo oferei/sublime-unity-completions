@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:AnimationClip ?}, ${2:string ?}, ${3:Type ?}, ${4:string ?});]]></content>
+	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:AnimationClip ?}, ${2:string ?}, ${3:Type ?}, ${4:string ?})]]></content>
 	<tabTrigger><![CDATA[animationUtility.GetEditorCurve]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(?, ?, ?, ?)]]></description>

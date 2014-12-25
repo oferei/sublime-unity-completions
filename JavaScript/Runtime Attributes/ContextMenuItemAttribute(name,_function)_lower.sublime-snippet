@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ContextMenuItemAttribute(${1:name : string}, ${2:function : string});]]></content>
+	<content><![CDATA[ContextMenuItemAttribute(${1:name : string}, ${2:function : string})]]></content>
 	<tabTrigger><![CDATA[contextMenuItemAttribute]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name, function)]]></description>

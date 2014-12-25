@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BaseInputModule.IsModuleSupported();]]></content>
+	<content><![CDATA[BaseInputModule.IsModuleSupported()]]></content>
 	<tabTrigger><![CDATA[isModuleSupported]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[BaseInputModule.*()]]></description>

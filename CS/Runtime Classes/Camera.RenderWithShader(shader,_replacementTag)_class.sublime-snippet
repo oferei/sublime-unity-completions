@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.RenderWithShader(${1:Shader shader}, ${2:string replacementTag});]]></content>
+	<content><![CDATA[Camera.RenderWithShader(${1:Shader shader}, ${2:string replacementTag})]]></content>
 	<tabTrigger><![CDATA[Camera.RenderWithShader]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(shader, replacementTag)]]></description>

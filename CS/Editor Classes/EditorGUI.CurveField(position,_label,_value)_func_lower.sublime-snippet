@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.CurveField(${1:Rect position}, ${2:GUIContent label}, ${3:AnimationCurve value});]]></content>
+	<content><![CDATA[EditorGUI.CurveField(${1:Rect position}, ${2:GUIContent label}, ${3:AnimationCurve value})]]></content>
 	<tabTrigger><![CDATA[curveField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUI.*(position, label, value)]]></description>

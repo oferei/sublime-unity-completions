@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.CombineMeshes(${1:CombineInstance[] combine}, ${2:bool mergeSubMeshes = true}, ${3:bool useMatrices = true});]]></content>
+	<content><![CDATA[Mesh.CombineMeshes(${1:CombineInstance[] combine}, ${2:bool mergeSubMeshes = true}, ${3:bool useMatrices = true})]]></content>
 	<tabTrigger><![CDATA[Mesh.CombineMeshes]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(combine, mergeSubMeshes, useMatrices)]]></description>

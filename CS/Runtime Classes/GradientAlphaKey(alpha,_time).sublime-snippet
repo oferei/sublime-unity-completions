@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GradientAlphaKey(${1:float alpha}, ${2:float time});]]></content>
+	<content><![CDATA[GradientAlphaKey(${1:float alpha}, ${2:float time})]]></content>
 	<tabTrigger><![CDATA[GradientAlphaKey]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(alpha, time)]]></description>

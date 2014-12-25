@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.BeginProperty(${1:totalPosition : Rect}, ${2:label : GUIContent}, ${3:property : SerializedProperty});]]></content>
+	<content><![CDATA[EditorGUI.BeginProperty(${1:totalPosition : Rect}, ${2:label : GUIContent}, ${3:property : SerializedProperty})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.BeginProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(totalPosition, label, property)]]></description>

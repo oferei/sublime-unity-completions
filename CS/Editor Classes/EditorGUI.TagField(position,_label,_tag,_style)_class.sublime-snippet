@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.TagField(${1:Rect position}, ${2:GUIContent label}, ${3:string tag}, ${4:GUIStyle style = EditorStyles.popup});]]></content>
+	<content><![CDATA[EditorGUI.TagField(${1:Rect position}, ${2:GUIContent label}, ${3:string tag}, ${4:GUIStyle style = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.TagField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, label, tag, style)]]></description>

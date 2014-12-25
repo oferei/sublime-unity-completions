@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.GetTemplate(${1:templ : TileTemplate});]]></content>
+	<content><![CDATA[Tile.GetTemplate(${1:templ : TileTemplate})]]></content>
 	<tabTrigger><![CDATA[getTemplate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Tile.*(templ)]]></description>

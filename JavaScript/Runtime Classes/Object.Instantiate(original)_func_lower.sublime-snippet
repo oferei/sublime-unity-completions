@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.Instantiate(${1:original : Object});]]></content>
+	<content><![CDATA[Object.Instantiate(${1:original : Object})]]></content>
 	<tabTrigger><![CDATA[instantiate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Object.*(original)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.BeginVertical(${1:style : GUIStyle}, ${2:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.BeginVertical(${1:style : GUIStyle}, ${2:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[EditorGUILayout.BeginVertical]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(style, params options)]]></description>

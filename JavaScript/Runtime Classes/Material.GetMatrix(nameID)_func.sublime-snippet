@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.GetMatrix(${1:nameID : int});]]></content>
+	<content><![CDATA[Material.GetMatrix(${1:nameID : int})]]></content>
 	<tabTrigger><![CDATA[GetMatrix]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Material.*(nameID)]]></description>

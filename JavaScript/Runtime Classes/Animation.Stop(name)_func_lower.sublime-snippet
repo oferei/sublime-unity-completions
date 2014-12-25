@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.Stop(${1:name : string});]]></content>
+	<content><![CDATA[Animation.Stop(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[stop]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Animation.*(name)]]></description>

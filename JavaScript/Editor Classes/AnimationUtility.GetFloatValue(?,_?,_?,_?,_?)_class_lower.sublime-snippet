@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.GetFloatValue(${1:? : GameObject}, ${2:? : string}, ${3:? : Type}, ${4:? : string}, ${5:? : float});]]></content>
+	<content><![CDATA[AnimationUtility.GetFloatValue(${1:? : GameObject}, ${2:? : string}, ${3:? : Type}, ${4:? : string}, ${5:? : float})]]></content>
 	<tabTrigger><![CDATA[animationUtility.GetFloatValue]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?, ?, ?, ?, ?)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GeometryUtility.CalculateFrustumPlanes(${1:Matrix4x4 worldToProjectionMatrix});]]></content>
+	<content><![CDATA[GeometryUtility.CalculateFrustumPlanes(${1:Matrix4x4 worldToProjectionMatrix})]]></content>
 	<tabTrigger><![CDATA[geometryUtility.CalculateFrustumPlanes]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(worldToProjectionMatrix)]]></description>

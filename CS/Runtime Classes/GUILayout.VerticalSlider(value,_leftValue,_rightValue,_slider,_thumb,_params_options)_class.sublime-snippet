@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.VerticalSlider(${1:float value}, ${2:float leftValue}, ${3:float rightValue}, ${4:GUIStyle slider}, ${5:GUIStyle thumb}, ${6:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[GUILayout.VerticalSlider(${1:float value}, ${2:float leftValue}, ${3:float rightValue}, ${4:GUIStyle slider}, ${5:GUIStyle thumb}, ${6:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[GUILayout.VerticalSlider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(value, leftValue, rightValue, slider, thumb, params options)]]></description>

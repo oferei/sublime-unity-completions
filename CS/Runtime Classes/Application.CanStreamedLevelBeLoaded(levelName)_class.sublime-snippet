@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.CanStreamedLevelBeLoaded(${1:string levelName});]]></content>
+	<content><![CDATA[Application.CanStreamedLevelBeLoaded(${1:string levelName})]]></content>
 	<tabTrigger><![CDATA[Application.CanStreamedLevelBeLoaded]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(levelName)]]></description>

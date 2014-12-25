@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.SetHeights(${1:int xBase}, ${2:int yBase}, ${3:float[,] heights});]]></content>
+	<content><![CDATA[TerrainData.SetHeights(${1:int xBase}, ${2:int yBase}, ${3:float[,] heights})]]></content>
 	<tabTrigger><![CDATA[setHeights]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[TerrainData.*(xBase, yBase, heights)]]></description>

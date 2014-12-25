@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextureImporter.ReadTextureImportInstructions(${1:? : TextureImportInstructions});]]></content>
+	<content><![CDATA[TextureImporter.ReadTextureImportInstructions(${1:? : TextureImportInstructions})]]></content>
 	<tabTrigger><![CDATA[textureImporter.ReadTextureImportInstructions]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?)]]></description>

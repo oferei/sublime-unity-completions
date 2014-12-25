@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Caching.IsVersionCached(${1:url : string}, ${2:version : int});]]></content>
+	<content><![CDATA[Caching.IsVersionCached(${1:url : string}, ${2:version : int})]]></content>
 	<tabTrigger><![CDATA[isVersionCached]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Caching.*(url, version)]]></description>

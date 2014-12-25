@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.DistancePointToLine(${1:Vector2 p}, ${2:Vector2 a}, ${3:Vector2 b});]]></content>
+	<content><![CDATA[HandleUtility.DistancePointToLine(${1:Vector2 p}, ${2:Vector2 a}, ${3:Vector2 b})]]></content>
 	<tabTrigger><![CDATA[HandleUtility.DistancePointToLine]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(p, a, b)]]></description>

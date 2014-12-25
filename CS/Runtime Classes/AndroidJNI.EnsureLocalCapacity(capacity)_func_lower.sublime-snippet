@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.EnsureLocalCapacity(${1:int capacity});]]></content>
+	<content><![CDATA[AndroidJNI.EnsureLocalCapacity(${1:int capacity})]]></content>
 	<tabTrigger><![CDATA[ensureLocalCapacity]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJNI.*(capacity)]]></description>

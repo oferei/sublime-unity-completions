@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextGenerator(${1:initialCapacity : int});]]></content>
+	<content><![CDATA[TextGenerator(${1:initialCapacity : int})]]></content>
 	<tabTrigger><![CDATA[TextGenerator]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(initialCapacity)]]></description>

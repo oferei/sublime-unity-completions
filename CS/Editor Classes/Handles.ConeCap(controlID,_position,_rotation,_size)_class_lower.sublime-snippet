@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.ConeCap(${1:int controlID}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size});]]></content>
+	<content><![CDATA[Handles.ConeCap(${1:int controlID}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:float size})]]></content>
 	<tabTrigger><![CDATA[handles.ConeCap]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(controlID, position, rotation, size)]]></description>

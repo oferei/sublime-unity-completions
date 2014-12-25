@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.RevertAllDownToGroup(${1:int group});]]></content>
+	<content><![CDATA[Undo.RevertAllDownToGroup(${1:int group})]]></content>
 	<tabTrigger><![CDATA[Undo.RevertAllDownToGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(group)]]></description>

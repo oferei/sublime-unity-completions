@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.RegisterForRemoteNotificationTypes(${1:notificationTypes : RemoteNotificationType});]]></content>
+	<content><![CDATA[NotificationServices.RegisterForRemoteNotificationTypes(${1:notificationTypes : RemoteNotificationType})]]></content>
 	<tabTrigger><![CDATA[RegisterForRemoteNotificationTypes]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[NotificationServices.*(notificationTypes)]]></description>

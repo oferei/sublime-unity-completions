@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Bounds.Expand(${1:Vector3 amount});]]></content>
+	<content><![CDATA[Bounds.Expand(${1:Vector3 amount})]]></content>
 	<tabTrigger><![CDATA[Bounds.Expand]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(amount)]]></description>

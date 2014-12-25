@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.TextField(${1:position : Rect}, ${2:text : string}, ${3:maxLength : int}, ${4:style : GUIStyle});]]></content>
+	<content><![CDATA[GUI.TextField(${1:position : Rect}, ${2:text : string}, ${3:maxLength : int}, ${4:style : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[GUI.TextField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, text, maxLength, style)]]></description>

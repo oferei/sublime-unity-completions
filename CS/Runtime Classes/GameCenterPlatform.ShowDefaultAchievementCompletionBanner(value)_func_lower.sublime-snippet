@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameCenterPlatform.ShowDefaultAchievementCompletionBanner(${1:bool value});]]></content>
+	<content><![CDATA[GameCenterPlatform.ShowDefaultAchievementCompletionBanner(${1:bool value})]]></content>
 	<tabTrigger><![CDATA[showDefaultAchievementCompletionBanner]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GameCenterPlatform.*(value)]]></description>

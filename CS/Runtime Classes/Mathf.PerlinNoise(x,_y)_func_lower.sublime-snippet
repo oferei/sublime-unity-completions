@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.PerlinNoise(${1:float x}, ${2:float y});]]></content>
+	<content><![CDATA[Mathf.PerlinNoise(${1:float x}, ${2:float y})]]></content>
 	<tabTrigger><![CDATA[perlinNoise]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(x, y)]]></description>

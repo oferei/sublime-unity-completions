@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.DropShadowLabel(${1:Rect position}, ${2:string text});]]></content>
+	<content><![CDATA[EditorGUI.DropShadowLabel(${1:Rect position}, ${2:string text})]]></content>
 	<tabTrigger><![CDATA[editorGUI.DropShadowLabel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, text)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CharacterController.Move(${1:Vector3 motion});]]></content>
+	<content><![CDATA[CharacterController.Move(${1:Vector3 motion})]]></content>
 	<tabTrigger><![CDATA[move]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[CharacterController.*(motion)]]></description>

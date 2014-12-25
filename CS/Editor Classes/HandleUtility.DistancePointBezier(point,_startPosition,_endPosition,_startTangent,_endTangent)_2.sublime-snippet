@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.DistancePointBezier(${1:Vector3 point}, ${2:Vector3 startPosition}, ${3:Vector3 endPosition}, ${4:Vector3 startTangent}, ${5:Vector3 endTangent});]]></content>
+	<content><![CDATA[HandleUtility.DistancePointBezier(${1:Vector3 point}, ${2:Vector3 startPosition}, ${3:Vector3 endPosition}, ${4:Vector3 startTangent}, ${5:Vector3 endTangent})]]></content>
 	<tabTrigger><![CDATA[handleUtility.DistancePointBezier]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(point, startPosition, endPosition, startTangent, endTangent)]]></description>

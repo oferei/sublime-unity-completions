@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.FloatField(${1:Rect position}, ${2:GUIContent label}, ${3:float value}, ${4:GUIStyle style = EditorStyles.numberField});]]></content>
+	<content><![CDATA[EditorGUI.FloatField(${1:Rect position}, ${2:GUIContent label}, ${3:float value}, ${4:GUIStyle style = EditorStyles.numberField})]]></content>
 	<tabTrigger><![CDATA[editorGUI.FloatField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, label, value, style)]]></description>

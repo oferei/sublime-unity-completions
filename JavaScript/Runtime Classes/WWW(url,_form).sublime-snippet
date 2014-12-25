@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW(${1:url : string}, ${2:form : WWWForm});]]></content>
+	<content><![CDATA[WWW(${1:url : string}, ${2:form : WWWForm})]]></content>
 	<tabTrigger><![CDATA[WWW]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(url, form)]]></description>

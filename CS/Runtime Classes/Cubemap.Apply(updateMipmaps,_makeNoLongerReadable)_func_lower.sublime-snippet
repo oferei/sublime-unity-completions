@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cubemap.Apply(${1:bool updateMipmaps = true}, ${2:bool makeNoLongerReadable = false});]]></content>
+	<content><![CDATA[Cubemap.Apply(${1:bool updateMipmaps = true}, ${2:bool makeNoLongerReadable = false})]]></content>
 	<tabTrigger><![CDATA[apply]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Cubemap.*(updateMipmaps, makeNoLongerReadable)]]></description>

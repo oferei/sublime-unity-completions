@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HandleUtility.WorldPointToSizedRect(${1:position : Vector3}, ${2:content : GUIContent}, ${3:style : GUIStyle});]]></content>
+	<content><![CDATA[HandleUtility.WorldPointToSizedRect(${1:position : Vector3}, ${2:content : GUIContent}, ${3:style : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[HandleUtility.WorldPointToSizedRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, content, style)]]></description>

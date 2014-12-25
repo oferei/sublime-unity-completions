@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SecondaryTileData(${1:string id}, ${2:string displayName});]]></content>
+	<content><![CDATA[SecondaryTileData(${1:string id}, ${2:string displayName})]]></content>
 	<tabTrigger><![CDATA[SecondaryTileData]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(id, displayName)]]></description>

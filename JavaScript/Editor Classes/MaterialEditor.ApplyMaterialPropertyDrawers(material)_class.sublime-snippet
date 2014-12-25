@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.ApplyMaterialPropertyDrawers(${1:material : Material});]]></content>
+	<content><![CDATA[MaterialEditor.ApplyMaterialPropertyDrawers(${1:material : Material})]]></content>
 	<tabTrigger><![CDATA[MaterialEditor.ApplyMaterialPropertyDrawers]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(material)]]></description>

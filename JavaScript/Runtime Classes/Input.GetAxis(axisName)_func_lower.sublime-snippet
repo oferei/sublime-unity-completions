@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetAxis(${1:axisName : string});]]></content>
+	<content><![CDATA[Input.GetAxis(${1:axisName : string})]]></content>
 	<tabTrigger><![CDATA[getAxis]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Input.*(axisName)]]></description>

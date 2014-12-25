@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.Set(${1:float new_x}, ${2:float new_y}, ${3:float new_z}, ${4:float new_w});]]></content>
+	<content><![CDATA[Quaternion.Set(${1:float new_x}, ${2:float new_y}, ${3:float new_z}, ${4:float new_w})]]></content>
 	<tabTrigger><![CDATA[quaternion.Set]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(new_x, new_y, new_z, new_w)]]></description>

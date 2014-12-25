@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PropertyDrawer.OnGUI(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:label : GUIContent});]]></content>
+	<content><![CDATA[PropertyDrawer.OnGUI(${1:position : Rect}, ${2:property : SerializedProperty}, ${3:label : GUIContent})]]></content>
 	<tabTrigger><![CDATA[propertyDrawer.OnGUI]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, property, label)]]></description>

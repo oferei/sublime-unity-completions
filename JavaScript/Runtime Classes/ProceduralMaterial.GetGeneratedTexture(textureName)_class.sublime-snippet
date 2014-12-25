@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.GetGeneratedTexture(${1:textureName : string});]]></content>
+	<content><![CDATA[ProceduralMaterial.GetGeneratedTexture(${1:textureName : string})]]></content>
 	<tabTrigger><![CDATA[ProceduralMaterial.GetGeneratedTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(textureName)]]></description>

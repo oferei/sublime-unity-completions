@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.Delete(${1:Rect area});]]></content>
+	<content><![CDATA[Tile.Delete(${1:Rect area})]]></content>
 	<tabTrigger><![CDATA[Tile.Delete]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(area)]]></description>

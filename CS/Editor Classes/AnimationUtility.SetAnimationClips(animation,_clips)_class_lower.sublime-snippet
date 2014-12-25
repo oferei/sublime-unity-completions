@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.SetAnimationClips(${1:Animation animation}, ${2:AnimationClip[] clips});]]></content>
+	<content><![CDATA[AnimationUtility.SetAnimationClips(${1:Animation animation}, ${2:AnimationClip[] clips})]]></content>
 	<tabTrigger><![CDATA[animationUtility.SetAnimationClips]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(animation, clips)]]></description>

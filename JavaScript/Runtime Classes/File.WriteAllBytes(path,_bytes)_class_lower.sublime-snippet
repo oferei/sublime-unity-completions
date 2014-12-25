@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[File.WriteAllBytes(${1:path : string}, ${2:bytes : byte[]});]]></content>
+	<content><![CDATA[File.WriteAllBytes(${1:path : string}, ${2:bytes : byte[]})]]></content>
 	<tabTrigger><![CDATA[file.WriteAllBytes]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(path, bytes)]]></description>

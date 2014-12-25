@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.PresentLocalNotificationNow(${1:LocalNotification notification});]]></content>
+	<content><![CDATA[NotificationServices.PresentLocalNotificationNow(${1:LocalNotification notification})]]></content>
 	<tabTrigger><![CDATA[presentLocalNotificationNow]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NotificationServices.*(notification)]]></description>

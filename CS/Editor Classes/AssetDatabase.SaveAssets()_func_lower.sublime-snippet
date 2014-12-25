@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.SaveAssets();]]></content>
+	<content><![CDATA[AssetDatabase.SaveAssets()]]></content>
 	<tabTrigger><![CDATA[saveAssets]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*()]]></description>

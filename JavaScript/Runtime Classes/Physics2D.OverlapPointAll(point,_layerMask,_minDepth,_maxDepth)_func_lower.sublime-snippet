@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapPointAll(${1:point : Vector2}, ${2:layerMask : int = DefaultRaycastLayers}, ${3:minDepth : float = -Mathf.Infinity}, ${4:maxDepth : float = Mathf.Infinity});]]></content>
+	<content><![CDATA[Physics2D.OverlapPointAll(${1:point : Vector2}, ${2:layerMask : int = DefaultRaycastLayers}, ${3:minDepth : float = -Mathf.Infinity}, ${4:maxDepth : float = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[overlapPointAll]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Physics2D.*(point, layerMask, minDepth, maxDepth)]]></description>

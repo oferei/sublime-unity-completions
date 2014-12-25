@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.GetCurrentAnimatorStateInfo(${1:int layerIndex});]]></content>
+	<content><![CDATA[Animator.GetCurrentAnimatorStateInfo(${1:int layerIndex})]]></content>
 	<tabTrigger><![CDATA[getCurrentAnimatorStateInfo]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animator.*(layerIndex)]]></description>

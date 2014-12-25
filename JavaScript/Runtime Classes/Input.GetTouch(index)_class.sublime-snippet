@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetTouch(${1:index : int});]]></content>
+	<content><![CDATA[Input.GetTouch(${1:index : int})]]></content>
 	<tabTrigger><![CDATA[Input.GetTouch]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(index)]]></description>

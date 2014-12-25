@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillMoveAsset(${1:string ?}, ${2:string ?});]]></content>
+	<content><![CDATA[AssetModificationProcessor.OnWillMoveAsset(${1:string ?}, ${2:string ?})]]></content>
 	<tabTrigger><![CDATA[assetModificationProcessor.OnWillMoveAsset]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(?, ?)]]></description>

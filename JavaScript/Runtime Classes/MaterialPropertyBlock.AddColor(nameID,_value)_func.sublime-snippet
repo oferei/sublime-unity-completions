@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyBlock.AddColor(${1:nameID : int}, ${2:value : Color});]]></content>
+	<content><![CDATA[MaterialPropertyBlock.AddColor(${1:nameID : int}, ${2:value : Color})]]></content>
 	<tabTrigger><![CDATA[AddColor]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[MaterialPropertyBlock.*(nameID, value)]]></description>

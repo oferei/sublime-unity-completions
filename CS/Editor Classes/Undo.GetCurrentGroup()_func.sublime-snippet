@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.GetCurrentGroup();]]></content>
+	<content><![CDATA[Undo.GetCurrentGroup()]]></content>
 	<tabTrigger><![CDATA[GetCurrentGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Undo.*()]]></description>

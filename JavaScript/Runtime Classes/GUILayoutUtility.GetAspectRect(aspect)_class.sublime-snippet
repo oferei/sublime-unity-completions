@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayoutUtility.GetAspectRect(${1:aspect : float});]]></content>
+	<content><![CDATA[GUILayoutUtility.GetAspectRect(${1:aspect : float})]]></content>
 	<tabTrigger><![CDATA[GUILayoutUtility.GetAspectRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(aspect)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Security.PrefetchSocketPolicy(${1:string ip}, ${2:int atPort}, ${3:int timeout = 3000});]]></content>
+	<content><![CDATA[Security.PrefetchSocketPolicy(${1:string ip}, ${2:int atPort}, ${3:int timeout = 3000})]]></content>
 	<tabTrigger><![CDATA[Security.PrefetchSocketPolicy]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(ip, atPort, timeout)]]></description>

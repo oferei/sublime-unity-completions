@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationMode.IsPropertyAnimated(${1:target : Object}, ${2:propertyPath : string});]]></content>
+	<content><![CDATA[AnimationMode.IsPropertyAnimated(${1:target : Object}, ${2:propertyPath : string})]]></content>
 	<tabTrigger><![CDATA[isPropertyAnimated]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AnimationMode.*(target, propertyPath)]]></description>

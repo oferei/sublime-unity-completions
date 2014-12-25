@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[HeaderAttribute(${1:header : string});]]></content>
+	<content><![CDATA[HeaderAttribute(${1:header : string})]]></content>
 	<tabTrigger><![CDATA[headerAttribute]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(header)]]></description>

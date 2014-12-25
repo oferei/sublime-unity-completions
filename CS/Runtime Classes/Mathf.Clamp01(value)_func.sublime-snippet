@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Clamp01(${1:float value});]]></content>
+	<content><![CDATA[Mathf.Clamp01(${1:float value})]]></content>
 	<tabTrigger><![CDATA[Clamp01]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(value)]]></description>

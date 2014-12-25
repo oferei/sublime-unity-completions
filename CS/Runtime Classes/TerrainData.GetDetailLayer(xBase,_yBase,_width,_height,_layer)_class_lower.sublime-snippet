@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TerrainData.GetDetailLayer(${1:int xBase}, ${2:int yBase}, ${3:int width}, ${4:int height}, ${5:int layer});]]></content>
+	<content><![CDATA[TerrainData.GetDetailLayer(${1:int xBase}, ${2:int yBase}, ${3:int width}, ${4:int height}, ${5:int layer})]]></content>
 	<tabTrigger><![CDATA[terrainData.GetDetailLayer]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(xBase, yBase, width, height, layer)]]></description>

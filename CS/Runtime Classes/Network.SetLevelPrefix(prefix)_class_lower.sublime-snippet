@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Network.SetLevelPrefix(${1:int prefix});]]></content>
+	<content><![CDATA[Network.SetLevelPrefix(${1:int prefix})]]></content>
 	<tabTrigger><![CDATA[network.SetLevelPrefix]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(prefix)]]></description>

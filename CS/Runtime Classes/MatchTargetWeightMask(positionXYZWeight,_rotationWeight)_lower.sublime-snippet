@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MatchTargetWeightMask(${1:Vector3 positionXYZWeight}, ${2:float rotationWeight});]]></content>
+	<content><![CDATA[MatchTargetWeightMask(${1:Vector3 positionXYZWeight}, ${2:float rotationWeight})]]></content>
 	<tabTrigger><![CDATA[matchTargetWeightMask]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(positionXYZWeight, rotationWeight)]]></description>

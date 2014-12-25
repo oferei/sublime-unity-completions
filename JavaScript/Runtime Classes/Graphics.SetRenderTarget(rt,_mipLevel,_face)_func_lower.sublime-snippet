@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:rt : RenderTexture}, ${2:mipLevel : int}, ${3:face : CubemapFace});]]></content>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:rt : RenderTexture}, ${2:mipLevel : int}, ${3:face : CubemapFace})]]></content>
 	<tabTrigger><![CDATA[setRenderTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Graphics.*(rt, mipLevel, face)]]></description>

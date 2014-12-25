@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InputField.ScreenToLocal(${1:screen : Vector2});]]></content>
+	<content><![CDATA[InputField.ScreenToLocal(${1:screen : Vector2})]]></content>
 	<tabTrigger><![CDATA[ScreenToLocal]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[InputField.*(screen)]]></description>

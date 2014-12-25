@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.Vector4Field(${1:string label}, ${2:Vector4 value}, ${3:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.Vector4Field(${1:string label}, ${2:Vector4 value}, ${3:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[Vector4Field]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>

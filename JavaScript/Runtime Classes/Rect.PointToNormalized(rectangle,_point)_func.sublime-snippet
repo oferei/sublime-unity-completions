@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.PointToNormalized(${1:rectangle : Rect}, ${2:point : Vector2});]]></content>
+	<content><![CDATA[Rect.PointToNormalized(${1:rectangle : Rect}, ${2:point : Vector2})]]></content>
 	<tabTrigger><![CDATA[PointToNormalized]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Rect.*(rectangle, point)]]></description>

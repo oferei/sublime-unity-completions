@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TouchScreenKeyboard.Open(${1:string text}, ${2:TouchScreenKeyboardType keyboardType = TouchScreenKeyboardType.Default}, ${3:bool autocorrection = true}, ${4:bool multiline = false}, ${5:bool secure = false}, ${6:bool alert = false}, ${7:string textPlaceholder = \"\"});]]></content>
+	<content><![CDATA[TouchScreenKeyboard.Open(${1:string text}, ${2:TouchScreenKeyboardType keyboardType = TouchScreenKeyboardType.Default}, ${3:bool autocorrection = true}, ${4:bool multiline = false}, ${5:bool secure = false}, ${6:bool alert = false}, ${7:string textPlaceholder = \"\"})]]></content>
 	<tabTrigger><![CDATA[Open]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[TouchScreenKeyboard.*(text, keyboardType, autocorrection, multiline, secure, alert, textPlaceholder)]]></description>

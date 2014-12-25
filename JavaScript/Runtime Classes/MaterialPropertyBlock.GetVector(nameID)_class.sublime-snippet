@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyBlock.GetVector(${1:nameID : int});]]></content>
+	<content><![CDATA[MaterialPropertyBlock.GetVector(${1:nameID : int})]]></content>
 	<tabTrigger><![CDATA[MaterialPropertyBlock.GetVector]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(nameID)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralFloat(${1:inputName : string}, ${2:value : float});]]></content>
+	<content><![CDATA[ProceduralMaterial.SetProceduralFloat(${1:inputName : string}, ${2:value : float})]]></content>
 	<tabTrigger><![CDATA[SetProceduralFloat]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ProceduralMaterial.*(inputName, value)]]></description>

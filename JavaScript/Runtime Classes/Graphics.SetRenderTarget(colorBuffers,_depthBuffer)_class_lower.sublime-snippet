@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffers : RenderBuffer[]}, ${2:depthBuffer : RenderBuffer});]]></content>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffers : RenderBuffer[]}, ${2:depthBuffer : RenderBuffer})]]></content>
 	<tabTrigger><![CDATA[graphics.SetRenderTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(colorBuffers, depthBuffer)]]></description>

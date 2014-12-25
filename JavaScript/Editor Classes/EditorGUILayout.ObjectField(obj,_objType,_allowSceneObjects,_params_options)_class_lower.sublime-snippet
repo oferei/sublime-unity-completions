@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.ObjectField(${1:obj : Object}, ${2:objType : Type}, ${3:allowSceneObjects : bool}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.ObjectField(${1:obj : Object}, ${2:objType : Type}, ${3:allowSceneObjects : bool}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.ObjectField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(obj, objType, allowSceneObjects, params options)]]></description>

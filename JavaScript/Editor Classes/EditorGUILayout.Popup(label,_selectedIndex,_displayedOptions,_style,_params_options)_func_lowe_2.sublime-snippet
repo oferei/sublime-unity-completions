@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.Popup(${1:label : GUIContent}, ${2:selectedIndex : int}, ${3:displayedOptions : GUIContent[]}, ${4:style : GUIStyle}, ${5:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.Popup(${1:label : GUIContent}, ${2:selectedIndex : int}, ${3:displayedOptions : GUIContent[]}, ${4:style : GUIStyle}, ${5:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[popup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(label, selectedIndex, displayedOptions, style, params options)]]></description>

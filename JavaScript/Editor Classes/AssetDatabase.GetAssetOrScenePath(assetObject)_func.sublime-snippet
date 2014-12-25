@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.GetAssetOrScenePath(${1:assetObject : Object});]]></content>
+	<content><![CDATA[AssetDatabase.GetAssetOrScenePath(${1:assetObject : Object})]]></content>
 	<tabTrigger><![CDATA[GetAssetOrScenePath]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*(assetObject)]]></description>

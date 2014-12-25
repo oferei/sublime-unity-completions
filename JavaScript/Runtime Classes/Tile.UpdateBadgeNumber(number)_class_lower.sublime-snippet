@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.UpdateBadgeNumber(${1:number : float});]]></content>
+	<content><![CDATA[Tile.UpdateBadgeNumber(${1:number : float})]]></content>
 	<tabTrigger><![CDATA[tile.UpdateBadgeNumber]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(number)]]></description>

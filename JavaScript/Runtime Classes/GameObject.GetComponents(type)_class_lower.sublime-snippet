@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.GetComponents(${1:type : Type});]]></content>
+	<content><![CDATA[GameObject.GetComponents(${1:type : Type})]]></content>
 	<tabTrigger><![CDATA[gameObject.GetComponents]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(type)]]></description>

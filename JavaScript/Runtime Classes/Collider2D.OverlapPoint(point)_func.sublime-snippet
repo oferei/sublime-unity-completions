@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Collider2D.OverlapPoint(${1:point : Vector2});]]></content>
+	<content><![CDATA[Collider2D.OverlapPoint(${1:point : Vector2})]]></content>
 	<tabTrigger><![CDATA[OverlapPoint]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Collider2D.*(point)]]></description>

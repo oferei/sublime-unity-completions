@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorPrefs.GetBool(${1:string key}, ${2:bool defaultValue = false});]]></content>
+	<content><![CDATA[EditorPrefs.GetBool(${1:string key}, ${2:bool defaultValue = false})]]></content>
 	<tabTrigger><![CDATA[GetBool]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorPrefs.*(key, defaultValue)]]></description>

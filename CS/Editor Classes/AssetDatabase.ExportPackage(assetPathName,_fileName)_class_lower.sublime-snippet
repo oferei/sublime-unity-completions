@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.ExportPackage(${1:string assetPathName}, ${2:string fileName});]]></content>
+	<content><![CDATA[AssetDatabase.ExportPackage(${1:string assetPathName}, ${2:string fileName})]]></content>
 	<tabTrigger><![CDATA[assetDatabase.ExportPackage]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(assetPathName, fileName)]]></description>

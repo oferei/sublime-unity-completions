@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.Euler(${1:float x}, ${2:float y}, ${3:float z});]]></content>
+	<content><![CDATA[Quaternion.Euler(${1:float x}, ${2:float y}, ${3:float z})]]></content>
 	<tabTrigger><![CDATA[euler]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Quaternion.*(x, y, z)]]></description>

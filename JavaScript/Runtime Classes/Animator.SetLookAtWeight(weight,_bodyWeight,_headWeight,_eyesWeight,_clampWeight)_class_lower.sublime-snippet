@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetLookAtWeight(${1:weight : float}, ${2:bodyWeight : float = 0.00f}, ${3:headWeight : float = 1.00f}, ${4:eyesWeight : float = 0.00f}, ${5:clampWeight : float = 0.50f});]]></content>
+	<content><![CDATA[Animator.SetLookAtWeight(${1:weight : float}, ${2:bodyWeight : float = 0.00f}, ${3:headWeight : float = 1.00f}, ${4:eyesWeight : float = 0.00f}, ${5:clampWeight : float = 0.50f})]]></content>
 	<tabTrigger><![CDATA[animator.SetLookAtWeight]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(weight, bodyWeight, headWeight, eyesWeight, clampWeight)]]></description>

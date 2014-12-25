@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Undo.DestroyObjectImmediate(${1:objectToUndo : Object});]]></content>
+	<content><![CDATA[Undo.DestroyObjectImmediate(${1:objectToUndo : Object})]]></content>
 	<tabTrigger><![CDATA[Undo.DestroyObjectImmediate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(objectToUndo)]]></description>

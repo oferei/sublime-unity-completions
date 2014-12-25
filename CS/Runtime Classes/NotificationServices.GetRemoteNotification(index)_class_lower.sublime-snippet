@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.GetRemoteNotification(${1:int index});]]></content>
+	<content><![CDATA[NotificationServices.GetRemoteNotification(${1:int index})]]></content>
 	<tabTrigger><![CDATA[notificationServices.GetRemoteNotification]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index)]]></description>

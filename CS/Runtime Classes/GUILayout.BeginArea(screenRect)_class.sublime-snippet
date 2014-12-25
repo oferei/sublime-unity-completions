@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.BeginArea(${1:Rect screenRect});]]></content>
+	<content><![CDATA[GUILayout.BeginArea(${1:Rect screenRect})]]></content>
 	<tabTrigger><![CDATA[GUILayout.BeginArea]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(screenRect)]]></description>

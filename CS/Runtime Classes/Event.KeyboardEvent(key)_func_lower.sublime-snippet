@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Event.KeyboardEvent(${1:string key});]]></content>
+	<content><![CDATA[Event.KeyboardEvent(${1:string key})]]></content>
 	<tabTrigger><![CDATA[keyboardEvent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Event.*(key)]]></description>

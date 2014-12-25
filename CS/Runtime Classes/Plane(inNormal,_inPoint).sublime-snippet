@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Plane(${1:Vector3 inNormal}, ${2:Vector3 inPoint});]]></content>
+	<content><![CDATA[Plane(${1:Vector3 inNormal}, ${2:Vector3 inPoint})]]></content>
 	<tabTrigger><![CDATA[Plane]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(inNormal, inPoint)]]></description>

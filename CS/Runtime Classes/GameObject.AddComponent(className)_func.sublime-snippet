@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.AddComponent(${1:string className});]]></content>
+	<content><![CDATA[GameObject.AddComponent(${1:string className})]]></content>
 	<tabTrigger><![CDATA[AddComponent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GameObject.*(className)]]></description>

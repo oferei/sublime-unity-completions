@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture3D.Apply(${1:updateMipmaps : bool = true});]]></content>
+	<content><![CDATA[Texture3D.Apply(${1:updateMipmaps : bool = true})]]></content>
 	<tabTrigger><![CDATA[Texture3D.Apply]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(updateMipmaps)]]></description>

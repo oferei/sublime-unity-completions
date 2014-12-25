@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.ScaleAroundPivot(${1:scale : Vector2}, ${2:pivotPoint : Vector2});]]></content>
+	<content><![CDATA[GUIUtility.ScaleAroundPivot(${1:scale : Vector2}, ${2:pivotPoint : Vector2})]]></content>
 	<tabTrigger><![CDATA[gUIUtility.ScaleAroundPivot]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(scale, pivotPoint)]]></description>

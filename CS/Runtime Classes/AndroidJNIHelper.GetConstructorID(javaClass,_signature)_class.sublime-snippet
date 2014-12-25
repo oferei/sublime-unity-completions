@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.GetConstructorID(${1:IntPtr javaClass}, ${2:string signature = \"\"});]]></content>
+	<content><![CDATA[AndroidJNIHelper.GetConstructorID(${1:IntPtr javaClass}, ${2:string signature = \"\"})]]></content>
 	<tabTrigger><![CDATA[AndroidJNIHelper.GetConstructorID]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(javaClass, signature)]]></description>

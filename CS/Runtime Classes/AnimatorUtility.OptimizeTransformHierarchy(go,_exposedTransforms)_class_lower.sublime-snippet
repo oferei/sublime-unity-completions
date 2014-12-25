@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimatorUtility.OptimizeTransformHierarchy(${1:GameObject go}, ${2:string[] exposedTransforms});]]></content>
+	<content><![CDATA[AnimatorUtility.OptimizeTransformHierarchy(${1:GameObject go}, ${2:string[] exposedTransforms})]]></content>
 	<tabTrigger><![CDATA[animatorUtility.OptimizeTransformHierarchy]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(go, exposedTransforms)]]></description>

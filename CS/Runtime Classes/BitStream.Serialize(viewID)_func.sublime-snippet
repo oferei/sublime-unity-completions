@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BitStream.Serialize(${1:NetworkViewID viewID});]]></content>
+	<content><![CDATA[BitStream.Serialize(${1:NetworkViewID viewID})]]></content>
 	<tabTrigger><![CDATA[Serialize]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[BitStream.*(viewID)]]></description>

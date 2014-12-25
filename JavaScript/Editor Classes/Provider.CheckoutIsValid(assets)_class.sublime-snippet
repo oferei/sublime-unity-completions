@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.CheckoutIsValid(${1:assets : AssetList});]]></content>
+	<content><![CDATA[Provider.CheckoutIsValid(${1:assets : AssetList})]]></content>
 	<tabTrigger><![CDATA[Provider.CheckoutIsValid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(assets)]]></description>

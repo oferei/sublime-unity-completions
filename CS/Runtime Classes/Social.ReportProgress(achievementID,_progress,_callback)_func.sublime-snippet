@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Social.ReportProgress(${1:string achievementID}, ${2:double progress}, ${3:Action<bool> callback});]]></content>
+	<content><![CDATA[Social.ReportProgress(${1:string achievementID}, ${2:double progress}, ${3:Action<bool> callback})]]></content>
 	<tabTrigger><![CDATA[ReportProgress]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Social.*(achievementID, progress, callback)]]></description>

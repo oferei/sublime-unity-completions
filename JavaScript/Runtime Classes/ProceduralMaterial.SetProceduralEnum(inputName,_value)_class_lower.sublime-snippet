@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralEnum(${1:inputName : string}, ${2:value : int});]]></content>
+	<content><![CDATA[ProceduralMaterial.SetProceduralEnum(${1:inputName : string}, ${2:value : int})]]></content>
 	<tabTrigger><![CDATA[proceduralMaterial.SetProceduralEnum]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(inputName, value)]]></description>

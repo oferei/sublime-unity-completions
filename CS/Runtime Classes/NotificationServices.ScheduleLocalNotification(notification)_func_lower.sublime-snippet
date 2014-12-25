@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.ScheduleLocalNotification(${1:LocalNotification notification});]]></content>
+	<content><![CDATA[NotificationServices.ScheduleLocalNotification(${1:LocalNotification notification})]]></content>
 	<tabTrigger><![CDATA[scheduleLocalNotification]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NotificationServices.*(notification)]]></description>

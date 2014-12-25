@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Transform.SetSiblingIndex(${1:index : int});]]></content>
+	<content><![CDATA[Transform.SetSiblingIndex(${1:index : int})]]></content>
 	<tabTrigger><![CDATA[setSiblingIndex]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Transform.*(index)]]></description>

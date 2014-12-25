@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.GetSignature(${1:obj : object});]]></content>
+	<content><![CDATA[AndroidJNIHelper.GetSignature(${1:obj : object})]]></content>
 	<tabTrigger><![CDATA[getSignature]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNIHelper.*(obj)]]></description>

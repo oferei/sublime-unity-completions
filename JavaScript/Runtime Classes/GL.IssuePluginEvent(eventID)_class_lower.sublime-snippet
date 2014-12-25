@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.IssuePluginEvent(${1:eventID : int});]]></content>
+	<content><![CDATA[GL.IssuePluginEvent(${1:eventID : int})]]></content>
 	<tabTrigger><![CDATA[gL.IssuePluginEvent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(eventID)]]></description>

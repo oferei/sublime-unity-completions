@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Editor.OnPreviewGUI(${1:r : Rect}, ${2:background : GUIStyle});]]></content>
+	<content><![CDATA[Editor.OnPreviewGUI(${1:r : Rect}, ${2:background : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[OnPreviewGUI]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Editor.*(r, background)]]></description>

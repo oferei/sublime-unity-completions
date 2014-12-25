@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Move(${1:from : string}, ${2:to : string});]]></content>
+	<content><![CDATA[Provider.Move(${1:from : string}, ${2:to : string})]]></content>
 	<tabTrigger><![CDATA[Move]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(from, to)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.SetSelectedWireframeHidden(${1:Renderer renderer}, ${2:bool enabled});]]></content>
+	<content><![CDATA[EditorUtility.SetSelectedWireframeHidden(${1:Renderer renderer}, ${2:bool enabled})]]></content>
 	<tabTrigger><![CDATA[SetSelectedWireframeHidden]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorUtility.*(renderer, enabled)]]></description>

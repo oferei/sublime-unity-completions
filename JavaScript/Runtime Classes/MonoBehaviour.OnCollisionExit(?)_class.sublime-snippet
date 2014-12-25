@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.OnCollisionExit(${1:? : Collision});]]></content>
+	<content><![CDATA[MonoBehaviour.OnCollisionExit(${1:? : Collision})]]></content>
 	<tabTrigger><![CDATA[MonoBehaviour.OnCollisionExit]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?)]]></description>

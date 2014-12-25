@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioClip.Create(${1:string name}, ${2:int lengthSamples}, ${3:int channels}, ${4:int frequency}, ${5:bool _3D}, ${6:bool stream}, ${7:PCMReaderCallback pcmreadercallback});]]></content>
+	<content><![CDATA[AudioClip.Create(${1:string name}, ${2:int lengthSamples}, ${3:int channels}, ${4:int frequency}, ${5:bool _3D}, ${6:bool stream}, ${7:PCMReaderCallback pcmreadercallback})]]></content>
 	<tabTrigger><![CDATA[Create]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AudioClip.*(name, lengthSamples, channels, frequency, _3D, stream, pcmreadercallback)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture.MarkRestoreExpected();]]></content>
+	<content><![CDATA[RenderTexture.MarkRestoreExpected()]]></content>
 	<tabTrigger><![CDATA[markRestoreExpected]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RenderTexture.*()]]></description>

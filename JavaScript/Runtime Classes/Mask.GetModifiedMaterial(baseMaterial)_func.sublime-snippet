@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mask.GetModifiedMaterial(${1:baseMaterial : Material});]]></content>
+	<content><![CDATA[Mask.GetModifiedMaterial(${1:baseMaterial : Material})]]></content>
 	<tabTrigger><![CDATA[GetModifiedMaterial]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mask.*(baseMaterial)]]></description>

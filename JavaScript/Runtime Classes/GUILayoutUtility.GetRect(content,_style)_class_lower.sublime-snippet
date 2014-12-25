@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayoutUtility.GetRect(${1:content : GUIContent}, ${2:style : GUIStyle});]]></content>
+	<content><![CDATA[GUILayoutUtility.GetRect(${1:content : GUIContent}, ${2:style : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[gUILayoutUtility.GetRect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(content, style)]]></description>

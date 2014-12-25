@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.BeginScrollView(${1:position : Rect}, ${2:scrollPosition : Vector2}, ${3:viewRect : Rect}, ${4:alwaysShowHorizontal : bool}, ${5:alwaysShowVertical : bool}, ${6:horizontalScrollbar : GUIStyle}, ${7:verticalScrollbar : GUIStyle});]]></content>
+	<content><![CDATA[GUI.BeginScrollView(${1:position : Rect}, ${2:scrollPosition : Vector2}, ${3:viewRect : Rect}, ${4:alwaysShowHorizontal : bool}, ${5:alwaysShowVertical : bool}, ${6:horizontalScrollbar : GUIStyle}, ${7:verticalScrollbar : GUIStyle})]]></content>
 	<tabTrigger><![CDATA[beginScrollView]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(position, scrollPosition, viewRect, alwaysShowHorizontal, alwaysShowVertical, horizontalScrollbar, verticalScrollbar)]]></description>

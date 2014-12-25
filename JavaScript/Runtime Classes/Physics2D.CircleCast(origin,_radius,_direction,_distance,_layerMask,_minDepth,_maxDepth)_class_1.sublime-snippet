@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.CircleCast(${1:origin : Vector2}, ${2:radius : float}, ${3:direction : Vector2}, ${4:distance : float = Mathf.Infinity}, ${5:layerMask : int = DefaultRaycastLayers}, ${6:minDepth : float = -Mathf.Infinity}, ${7:maxDepth : float = Mathf.Infinity});]]></content>
+	<content><![CDATA[Physics2D.CircleCast(${1:origin : Vector2}, ${2:radius : float}, ${3:direction : Vector2}, ${4:distance : float = Mathf.Infinity}, ${5:layerMask : int = DefaultRaycastLayers}, ${6:minDepth : float = -Mathf.Infinity}, ${7:maxDepth : float = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[Physics2D.CircleCast]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(origin, radius, direction, distance, layerMask, minDepth, maxDepth)]]></description>

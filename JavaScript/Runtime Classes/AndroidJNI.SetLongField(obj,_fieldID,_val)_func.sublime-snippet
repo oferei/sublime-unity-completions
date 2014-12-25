@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.SetLongField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : long});]]></content>
+	<content><![CDATA[AndroidJNI.SetLongField(${1:obj : IntPtr}, ${2:fieldID : IntPtr}, ${3:val : long})]]></content>
 	<tabTrigger><![CDATA[SetLongField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*(obj, fieldID, val)]]></description>

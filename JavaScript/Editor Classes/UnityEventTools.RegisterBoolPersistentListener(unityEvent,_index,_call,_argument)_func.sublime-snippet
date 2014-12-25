@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventTools.RegisterBoolPersistentListener(${1:unityEvent : UnityEventBase}, ${2:index : int}, ${3:call : UnityAction<bool>}, ${4:argument : bool});]]></content>
+	<content><![CDATA[UnityEventTools.RegisterBoolPersistentListener(${1:unityEvent : UnityEventBase}, ${2:index : int}, ${3:call : UnityAction<bool>}, ${4:argument : bool})]]></content>
 	<tabTrigger><![CDATA[RegisterBoolPersistentListener]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[UnityEventTools.*(unityEvent, index, call, argument)]]></description>

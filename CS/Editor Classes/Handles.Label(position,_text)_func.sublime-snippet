@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.Label(${1:Vector3 position}, ${2:string text});]]></content>
+	<content><![CDATA[Handles.Label(${1:Vector3 position}, ${2:string text})]]></content>
 	<tabTrigger><![CDATA[Label]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Handles.*(position, text)]]></description>

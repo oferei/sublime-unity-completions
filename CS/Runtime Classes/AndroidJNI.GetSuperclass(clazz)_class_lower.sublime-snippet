@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.GetSuperclass(${1:IntPtr clazz});]]></content>
+	<content><![CDATA[AndroidJNI.GetSuperclass(${1:IntPtr clazz})]]></content>
 	<tabTrigger><![CDATA[androidJNI.GetSuperclass]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(clazz)]]></description>

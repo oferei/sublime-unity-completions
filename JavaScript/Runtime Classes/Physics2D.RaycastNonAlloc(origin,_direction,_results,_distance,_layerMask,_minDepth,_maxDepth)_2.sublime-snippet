@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.RaycastNonAlloc(${1:origin : Vector2}, ${2:direction : Vector2}, ${3:results : RaycastHit2D[]}, ${4:distance : float = Mathf.Infinity}, ${5:layerMask : int = DefaultRaycastLayers}, ${6:minDepth : float = -Mathf.Infinity}, ${7:maxDepth : float = Mathf.Infinity});]]></content>
+	<content><![CDATA[Physics2D.RaycastNonAlloc(${1:origin : Vector2}, ${2:direction : Vector2}, ${3:results : RaycastHit2D[]}, ${4:distance : float = Mathf.Infinity}, ${5:layerMask : int = DefaultRaycastLayers}, ${6:minDepth : float = -Mathf.Infinity}, ${7:maxDepth : float = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[physics2D.RaycastNonAlloc]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(origin, direction, results, distance, layerMask, minDepth, maxDepth)]]></description>

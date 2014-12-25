@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJavaClass(${1:string className});]]></content>
+	<content><![CDATA[AndroidJavaClass(${1:string className})]]></content>
 	<tabTrigger><![CDATA[AndroidJavaClass]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(className)]]></description>

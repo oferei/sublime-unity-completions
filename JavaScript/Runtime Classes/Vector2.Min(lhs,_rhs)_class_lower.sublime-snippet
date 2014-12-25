@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.Min(${1:lhs : Vector2}, ${2:rhs : Vector2});]]></content>
+	<content><![CDATA[Vector2.Min(${1:lhs : Vector2}, ${2:rhs : Vector2})]]></content>
 	<tabTrigger><![CDATA[vector2.Min]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(lhs, rhs)]]></description>

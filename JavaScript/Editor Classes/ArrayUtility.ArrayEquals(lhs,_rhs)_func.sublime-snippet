@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ArrayUtility.ArrayEquals(${1:lhs : T[]}, ${2:rhs : T[]});]]></content>
+	<content><![CDATA[ArrayUtility.ArrayEquals(${1:lhs : T[]}, ${2:rhs : T[]})]]></content>
 	<tabTrigger><![CDATA[ArrayEquals]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ArrayUtility.*(lhs, rhs)]]></description>

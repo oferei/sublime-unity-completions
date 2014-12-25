@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.GetIKRotationWeight(${1:AvatarIKGoal goal});]]></content>
+	<content><![CDATA[Animator.GetIKRotationWeight(${1:AvatarIKGoal goal})]]></content>
 	<tabTrigger><![CDATA[Animator.GetIKRotationWeight]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(goal)]]></description>

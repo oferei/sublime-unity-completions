@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Log(${1:float f}, ${2:float p});]]></content>
+	<content><![CDATA[Mathf.Log(${1:float f}, ${2:float p})]]></content>
 	<tabTrigger><![CDATA[Log]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(f, p)]]></description>

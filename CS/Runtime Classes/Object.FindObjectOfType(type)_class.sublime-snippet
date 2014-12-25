@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.FindObjectOfType(${1:Type type});]]></content>
+	<content><![CDATA[Object.FindObjectOfType(${1:Type type})]]></content>
 	<tabTrigger><![CDATA[Object.FindObjectOfType]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(type)]]></description>

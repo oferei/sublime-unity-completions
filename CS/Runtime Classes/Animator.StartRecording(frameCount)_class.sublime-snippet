@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.StartRecording(${1:int frameCount});]]></content>
+	<content><![CDATA[Animator.StartRecording(${1:int frameCount})]]></content>
 	<tabTrigger><![CDATA[Animator.StartRecording]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(frameCount)]]></description>

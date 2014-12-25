@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.IntSlider(${1:label : GUIContent}, ${2:value : int}, ${3:leftValue : int}, ${4:rightValue : int}, ${5:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.IntSlider(${1:label : GUIContent}, ${2:value : int}, ${3:leftValue : int}, ${4:rightValue : int}, ${5:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[intSlider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUILayout.*(label, value, leftValue, rightValue, params options)]]></description>

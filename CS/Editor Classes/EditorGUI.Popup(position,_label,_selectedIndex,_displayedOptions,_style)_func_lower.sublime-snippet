@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.Popup(${1:Rect position}, ${2:GUIContent label}, ${3:int selectedIndex}, ${4:GUIContent[] displayedOptions}, ${5:GUIStyle style = EditorStyles.popup});]]></content>
+	<content><![CDATA[EditorGUI.Popup(${1:Rect position}, ${2:GUIContent label}, ${3:int selectedIndex}, ${4:GUIContent[] displayedOptions}, ${5:GUIStyle style = EditorStyles.popup})]]></content>
 	<tabTrigger><![CDATA[popup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUI.*(position, label, selectedIndex, displayedOptions, style)]]></description>

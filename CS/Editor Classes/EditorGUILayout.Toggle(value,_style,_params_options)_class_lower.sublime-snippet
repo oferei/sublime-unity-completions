@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.Toggle(${1:bool value}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.Toggle(${1:bool value}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.Toggle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(value, style, params options)]]></description>

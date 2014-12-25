@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Hashtable.Add(${1:? : object}, ${2:? : object});]]></content>
+	<content><![CDATA[Hashtable.Add(${1:? : object}, ${2:? : object})]]></content>
 	<tabTrigger><![CDATA[add]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Hashtable.*(?, ?)]]></description>

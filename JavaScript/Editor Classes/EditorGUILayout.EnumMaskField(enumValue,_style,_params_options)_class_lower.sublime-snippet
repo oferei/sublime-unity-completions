@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.EnumMaskField(${1:enumValue : Enum}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[EditorGUILayout.EnumMaskField(${1:enumValue : Enum}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.EnumMaskField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(enumValue, style, params options)]]></description>

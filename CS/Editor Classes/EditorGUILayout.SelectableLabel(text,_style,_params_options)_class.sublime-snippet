@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.SelectableLabel(${1:string text}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options});]]></content>
+	<content><![CDATA[EditorGUILayout.SelectableLabel(${1:string text}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
 	<tabTrigger><![CDATA[EditorGUILayout.SelectableLabel]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(text, style, params options)]]></description>

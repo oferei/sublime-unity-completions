@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObjectUtility.SetParentAndAlign(${1:GameObject child}, ${2:GameObject parent});]]></content>
+	<content><![CDATA[GameObjectUtility.SetParentAndAlign(${1:GameObject child}, ${2:GameObject parent})]]></content>
 	<tabTrigger><![CDATA[setParentAndAlign]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GameObjectUtility.*(child, parent)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PolygonCollider2D.CreatePrimitive(${1:sides : int}, ${2:scale : Vector2 = Vector2.one}, ${3:offset : Vector2 = Vector2.zero});]]></content>
+	<content><![CDATA[PolygonCollider2D.CreatePrimitive(${1:sides : int}, ${2:scale : Vector2 = Vector2.one}, ${3:offset : Vector2 = Vector2.zero})]]></content>
 	<tabTrigger><![CDATA[createPrimitive]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PolygonCollider2D.*(sides, scale, offset)]]></description>

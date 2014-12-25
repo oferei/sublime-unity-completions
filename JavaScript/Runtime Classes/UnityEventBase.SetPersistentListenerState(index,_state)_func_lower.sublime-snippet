@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventBase.SetPersistentListenerState(${1:index : int}, ${2:state : UnityEventCallState});]]></content>
+	<content><![CDATA[UnityEventBase.SetPersistentListenerState(${1:index : int}, ${2:state : UnityEventCallState})]]></content>
 	<tabTrigger><![CDATA[setPersistentListenerState]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[UnityEventBase.*(index, state)]]></description>

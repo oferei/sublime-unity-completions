@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WWW(${1:url : string}, ${2:postData : byte[]}, ${3:headers : Dictionary<string,string>});]]></content>
+	<content><![CDATA[WWW(${1:url : string}, ${2:postData : byte[]}, ${3:headers : Dictionary<string,string>})]]></content>
 	<tabTrigger><![CDATA[wWW]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(url, postData, headers)]]></description>

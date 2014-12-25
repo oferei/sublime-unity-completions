@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.Slider(${1:Vector3 position}, ${2:Vector3 direction}, ${3:float size}, ${4:DrawCapFunction drawFunc}, ${5:float snap});]]></content>
+	<content><![CDATA[Handles.Slider(${1:Vector3 position}, ${2:Vector3 direction}, ${3:float size}, ${4:DrawCapFunction drawFunc}, ${5:float snap})]]></content>
 	<tabTrigger><![CDATA[handles.Slider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, direction, size, drawFunc, snap)]]></description>

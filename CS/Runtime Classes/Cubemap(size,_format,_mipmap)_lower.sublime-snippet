@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cubemap(${1:int size}, ${2:TextureFormat format}, ${3:bool mipmap});]]></content>
+	<content><![CDATA[Cubemap(${1:int size}, ${2:TextureFormat format}, ${3:bool mipmap})]]></content>
 	<tabTrigger><![CDATA[cubemap]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(size, format, mipmap)]]></description>

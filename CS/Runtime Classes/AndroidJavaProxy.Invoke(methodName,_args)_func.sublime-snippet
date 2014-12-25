@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJavaProxy.Invoke(${1:string methodName}, ${2:object[] args});]]></content>
+	<content><![CDATA[AndroidJavaProxy.Invoke(${1:string methodName}, ${2:object[] args})]]></content>
 	<tabTrigger><![CDATA[Invoke]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AndroidJavaProxy.*(methodName, args)]]></description>

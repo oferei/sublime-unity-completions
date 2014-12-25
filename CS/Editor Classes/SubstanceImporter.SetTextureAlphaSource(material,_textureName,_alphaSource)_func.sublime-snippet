@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SubstanceImporter.SetTextureAlphaSource(${1:ProceduralMaterial material}, ${2:string textureName}, ${3:ProceduralOutputType alphaSource});]]></content>
+	<content><![CDATA[SubstanceImporter.SetTextureAlphaSource(${1:ProceduralMaterial material}, ${2:string textureName}, ${3:ProceduralOutputType alphaSource})]]></content>
 	<tabTrigger><![CDATA[SetTextureAlphaSource]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SubstanceImporter.*(material, textureName, alphaSource)]]></description>

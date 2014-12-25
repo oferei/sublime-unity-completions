@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TooltipAttribute(${1:string tooltip});]]></content>
+	<content><![CDATA[TooltipAttribute(${1:string tooltip})]]></content>
 	<tabTrigger><![CDATA[tooltipAttribute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(tooltip)]]></description>

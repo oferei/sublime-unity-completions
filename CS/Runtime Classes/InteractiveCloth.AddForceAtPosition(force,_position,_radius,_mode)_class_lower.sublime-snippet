@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InteractiveCloth.AddForceAtPosition(${1:Vector3 force}, ${2:Vector3 position}, ${3:float radius}, ${4:ForceMode mode = ForceMode.Force});]]></content>
+	<content><![CDATA[InteractiveCloth.AddForceAtPosition(${1:Vector3 force}, ${2:Vector3 position}, ${3:float radius}, ${4:ForceMode mode = ForceMode.Force})]]></content>
 	<tabTrigger><![CDATA[interactiveCloth.AddForceAtPosition]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(force, position, radius, mode)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.Refresh(${1:ImportAssetOptions options = ImportAssetOptions.Default});]]></content>
+	<content><![CDATA[AssetDatabase.Refresh(${1:ImportAssetOptions options = ImportAssetOptions.Default})]]></content>
 	<tabTrigger><![CDATA[Refresh]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(options)]]></description>

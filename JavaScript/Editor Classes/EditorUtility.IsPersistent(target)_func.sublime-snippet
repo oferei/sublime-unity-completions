@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.IsPersistent(${1:target : Object});]]></content>
+	<content><![CDATA[EditorUtility.IsPersistent(${1:target : Object})]]></content>
 	<tabTrigger><![CDATA[IsPersistent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorUtility.*(target)]]></description>

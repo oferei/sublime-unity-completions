@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Status(${1:assets : string[]});]]></content>
+	<content><![CDATA[Provider.Status(${1:assets : string[]})]]></content>
 	<tabTrigger><![CDATA[status]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(assets)]]></description>

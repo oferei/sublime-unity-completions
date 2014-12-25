@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.Rewind(${1:name : string});]]></content>
+	<content><![CDATA[Animation.Rewind(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[Animation.Rewind]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

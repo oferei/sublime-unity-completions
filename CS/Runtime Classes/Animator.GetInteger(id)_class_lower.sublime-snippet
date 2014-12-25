@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.GetInteger(${1:int id});]]></content>
+	<content><![CDATA[Animator.GetInteger(${1:int id})]]></content>
 	<tabTrigger><![CDATA[animator.GetInteger]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(id)]]></description>

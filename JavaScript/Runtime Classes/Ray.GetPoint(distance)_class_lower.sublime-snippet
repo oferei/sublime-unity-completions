@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Ray.GetPoint(${1:distance : float});]]></content>
+	<content><![CDATA[Ray.GetPoint(${1:distance : float})]]></content>
 	<tabTrigger><![CDATA[ray.GetPoint]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(distance)]]></description>

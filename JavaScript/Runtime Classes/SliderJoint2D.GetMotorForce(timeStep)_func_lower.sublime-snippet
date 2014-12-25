@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SliderJoint2D.GetMotorForce(${1:timeStep : float});]]></content>
+	<content><![CDATA[SliderJoint2D.GetMotorForce(${1:timeStep : float})]]></content>
 	<tabTrigger><![CDATA[getMotorForce]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[SliderJoint2D.*(timeStep)]]></description>

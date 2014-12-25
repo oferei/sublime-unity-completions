@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.GetAssetPath(${1:Object assetObject});]]></content>
+	<content><![CDATA[AssetDatabase.GetAssetPath(${1:Object assetObject})]]></content>
 	<tabTrigger><![CDATA[getAssetPath]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetDatabase.*(assetObject)]]></description>

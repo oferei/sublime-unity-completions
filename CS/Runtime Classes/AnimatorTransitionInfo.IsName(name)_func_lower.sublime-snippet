@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimatorTransitionInfo.IsName(${1:string name});]]></content>
+	<content><![CDATA[AnimatorTransitionInfo.IsName(${1:string name})]]></content>
 	<tabTrigger><![CDATA[isName]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AnimatorTransitionInfo.*(name)]]></description>

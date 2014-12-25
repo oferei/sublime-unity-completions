@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Quaternion.Angle(${1:a : Quaternion}, ${2:b : Quaternion});]]></content>
+	<content><![CDATA[Quaternion.Angle(${1:a : Quaternion}, ${2:b : Quaternion})]]></content>
 	<tabTrigger><![CDATA[angle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Quaternion.*(a, b)]]></description>

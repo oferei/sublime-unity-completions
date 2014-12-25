@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animation.CrossFadeQueued(${1:string animation}, ${2:float fadeLength = 0.3F}, ${3:QueueMode queue = QueueMode.CompleteOthers}, ${4:PlayMode mode = PlayMode.StopSameLayer});]]></content>
+	<content><![CDATA[Animation.CrossFadeQueued(${1:string animation}, ${2:float fadeLength = 0.3F}, ${3:QueueMode queue = QueueMode.CompleteOthers}, ${4:PlayMode mode = PlayMode.StopSameLayer})]]></content>
 	<tabTrigger><![CDATA[crossFadeQueued]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animation.*(animation, fadeLength, queue, mode)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.PackTextures(${1:textures : Texture2D[]}, ${2:padding : int}, ${3:maximumAtlasSize : int = 2048}, ${4:makeNoLongerReadable : bool = false});]]></content>
+	<content><![CDATA[Texture2D.PackTextures(${1:textures : Texture2D[]}, ${2:padding : int}, ${3:maximumAtlasSize : int = 2048}, ${4:makeNoLongerReadable : bool = false})]]></content>
 	<tabTrigger><![CDATA[Texture2D.PackTextures]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(textures, padding, maximumAtlasSize, makeNoLongerReadable)]]></description>

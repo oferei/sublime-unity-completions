@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.Load(${1:string name}, ${2:Type type});]]></content>
+	<content><![CDATA[AssetBundle.Load(${1:string name}, ${2:Type type})]]></content>
 	<tabTrigger><![CDATA[load]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetBundle.*(name, type)]]></description>

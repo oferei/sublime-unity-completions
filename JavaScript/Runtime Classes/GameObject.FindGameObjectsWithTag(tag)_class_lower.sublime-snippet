@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.FindGameObjectsWithTag(${1:tag : string});]]></content>
+	<content><![CDATA[GameObject.FindGameObjectsWithTag(${1:tag : string})]]></content>
 	<tabTrigger><![CDATA[gameObject.FindGameObjectsWithTag]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(tag)]]></description>

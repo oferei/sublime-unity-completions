@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.MultiPropertyField(${1:Rect position}, ${2:GUIContent[] subLabels}, ${3:SerializedProperty valuesIterator}, ${4:GUIContent label});]]></content>
+	<content><![CDATA[EditorGUI.MultiPropertyField(${1:Rect position}, ${2:GUIContent[] subLabels}, ${3:SerializedProperty valuesIterator}, ${4:GUIContent label})]]></content>
 	<tabTrigger><![CDATA[EditorGUI.MultiPropertyField]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, subLabels, valuesIterator, label)]]></description>

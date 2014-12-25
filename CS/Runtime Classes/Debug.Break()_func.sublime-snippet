@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.Break();]]></content>
+	<content><![CDATA[Debug.Break()]]></content>
 	<tabTrigger><![CDATA[Break]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Debug.*()]]></description>

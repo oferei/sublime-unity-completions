@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PreferenceItem(${1:name : string});]]></content>
+	<content><![CDATA[PreferenceItem(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[PreferenceItem]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

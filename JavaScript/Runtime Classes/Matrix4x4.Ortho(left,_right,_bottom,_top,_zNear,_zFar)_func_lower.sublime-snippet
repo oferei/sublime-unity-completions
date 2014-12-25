@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Matrix4x4.Ortho(${1:left : float}, ${2:right : float}, ${3:bottom : float}, ${4:top : float}, ${5:zNear : float}, ${6:zFar : float});]]></content>
+	<content><![CDATA[Matrix4x4.Ortho(${1:left : float}, ${2:right : float}, ${3:bottom : float}, ${4:top : float}, ${5:zNear : float}, ${6:zFar : float})]]></content>
 	<tabTrigger><![CDATA[ortho]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Matrix4x4.*(left, right, bottom, top, zNear, zFar)]]></description>

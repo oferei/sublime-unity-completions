@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.RepeatButton(${1:text : string}, ${2:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.RepeatButton(${1:text : string}, ${2:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[gUILayout.RepeatButton]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(text, params options)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.ClearCache();]]></content>
+	<content><![CDATA[Provider.ClearCache()]]></content>
 	<tabTrigger><![CDATA[clearCache]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Provider.*()]]></description>

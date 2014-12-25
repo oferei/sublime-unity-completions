@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BlackBerry.SetCameraPermissions(${1:enable : bool});]]></content>
+	<content><![CDATA[BlackBerry.SetCameraPermissions(${1:enable : bool})]]></content>
 	<tabTrigger><![CDATA[setCameraPermissions]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[BlackBerry.*(enable)]]></description>

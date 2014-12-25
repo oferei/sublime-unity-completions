@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphic.RegisterDirtyMaterialCallback(${1:UnityAction action});]]></content>
+	<content><![CDATA[Graphic.RegisterDirtyMaterialCallback(${1:UnityAction action})]]></content>
 	<tabTrigger><![CDATA[RegisterDirtyMaterialCallback]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Graphic.*(action)]]></description>

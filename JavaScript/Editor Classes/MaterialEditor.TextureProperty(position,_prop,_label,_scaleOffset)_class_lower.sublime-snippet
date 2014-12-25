@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.TextureProperty(${1:position : Rect}, ${2:prop : MaterialProperty}, ${3:label : string}, ${4:scaleOffset : bool});]]></content>
+	<content><![CDATA[MaterialEditor.TextureProperty(${1:position : Rect}, ${2:prop : MaterialProperty}, ${3:label : string}, ${4:scaleOffset : bool})]]></content>
 	<tabTrigger><![CDATA[materialEditor.TextureProperty]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, prop, label, scaleOffset)]]></description>

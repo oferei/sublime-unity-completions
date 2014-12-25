@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.LogException(${1:exception : Exception});]]></content>
+	<content><![CDATA[Debug.LogException(${1:exception : Exception})]]></content>
 	<tabTrigger><![CDATA[debug.LogException]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(exception)]]></description>

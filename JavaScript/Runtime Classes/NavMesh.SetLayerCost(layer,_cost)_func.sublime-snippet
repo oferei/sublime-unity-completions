@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMesh.SetLayerCost(${1:layer : int}, ${2:cost : float});]]></content>
+	<content><![CDATA[NavMesh.SetLayerCost(${1:layer : int}, ${2:cost : float})]]></content>
 	<tabTrigger><![CDATA[SetLayerCost]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[NavMesh.*(layer, cost)]]></description>

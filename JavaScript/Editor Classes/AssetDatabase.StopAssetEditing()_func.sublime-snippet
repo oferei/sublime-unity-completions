@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.StopAssetEditing();]]></content>
+	<content><![CDATA[AssetDatabase.StopAssetEditing()]]></content>
 	<tabTrigger><![CDATA[StopAssetEditing]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AssetDatabase.*()]]></description>

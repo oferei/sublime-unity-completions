@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.ClearCamera(${1:position : Rect}, ${2:camera : Camera});]]></content>
+	<content><![CDATA[Handles.ClearCamera(${1:position : Rect}, ${2:camera : Camera})]]></content>
 	<tabTrigger><![CDATA[ClearCamera]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handles.*(position, camera)]]></description>

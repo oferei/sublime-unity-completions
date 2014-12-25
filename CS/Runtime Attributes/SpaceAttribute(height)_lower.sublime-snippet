@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SpaceAttribute(${1:float height});]]></content>
+	<content><![CDATA[SpaceAttribute(${1:float height})]]></content>
 	<tabTrigger><![CDATA[spaceAttribute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(height)]]></description>

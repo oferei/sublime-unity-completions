@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Input.GetKey(${1:name : string});]]></content>
+	<content><![CDATA[Input.GetKey(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[input.GetKey]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(name)]]></description>

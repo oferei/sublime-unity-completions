@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.Exists(${1:string tileId});]]></content>
+	<content><![CDATA[Tile.Exists(${1:string tileId})]]></content>
 	<tabTrigger><![CDATA[exists]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Tile.*(tileId)]]></description>

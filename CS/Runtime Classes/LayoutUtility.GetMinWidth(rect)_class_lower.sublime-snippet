@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayoutUtility.GetMinWidth(${1:RectTransform rect});]]></content>
+	<content><![CDATA[LayoutUtility.GetMinWidth(${1:RectTransform rect})]]></content>
 	<tabTrigger><![CDATA[layoutUtility.GetMinWidth]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(rect)]]></description>

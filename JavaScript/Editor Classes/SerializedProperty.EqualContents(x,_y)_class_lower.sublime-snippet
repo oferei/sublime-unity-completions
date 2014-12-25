@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SerializedProperty.EqualContents(${1:x : SerializedProperty}, ${2:y : SerializedProperty});]]></content>
+	<content><![CDATA[SerializedProperty.EqualContents(${1:x : SerializedProperty}, ${2:y : SerializedProperty})]]></content>
 	<tabTrigger><![CDATA[serializedProperty.EqualContents]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(x, y)]]></description>

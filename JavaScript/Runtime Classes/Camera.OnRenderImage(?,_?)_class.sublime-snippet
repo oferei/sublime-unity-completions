@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.OnRenderImage(${1:? : RenderTexture}, ${2:? : RenderTexture});]]></content>
+	<content><![CDATA[Camera.OnRenderImage(${1:? : RenderTexture}, ${2:? : RenderTexture})]]></content>
 	<tabTrigger><![CDATA[Camera.OnRenderImage]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(?, ?)]]></description>

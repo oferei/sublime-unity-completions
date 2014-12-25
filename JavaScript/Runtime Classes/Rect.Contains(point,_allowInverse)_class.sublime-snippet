@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.Contains(${1:point : Vector3}, ${2:allowInverse : bool});]]></content>
+	<content><![CDATA[Rect.Contains(${1:point : Vector3}, ${2:allowInverse : bool})]]></content>
 	<tabTrigger><![CDATA[Rect.Contains]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(point, allowInverse)]]></description>

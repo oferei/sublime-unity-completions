@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DotCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float});]]></content>
+	<content><![CDATA[Handles.DotCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float})]]></content>
 	<tabTrigger><![CDATA[DotCap]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handles.*(controlID, position, rotation, size)]]></description>

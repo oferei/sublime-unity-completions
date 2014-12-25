@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScriptableObject.CreateInstance(${1:className : string});]]></content>
+	<content><![CDATA[ScriptableObject.CreateInstance(${1:className : string})]]></content>
 	<tabTrigger><![CDATA[scriptableObject.CreateInstance]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(className)]]></description>

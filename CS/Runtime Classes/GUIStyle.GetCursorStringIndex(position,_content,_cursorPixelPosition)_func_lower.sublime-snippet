@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.GetCursorStringIndex(${1:Rect position}, ${2:GUIContent content}, ${3:Vector2 cursorPixelPosition});]]></content>
+	<content><![CDATA[GUIStyle.GetCursorStringIndex(${1:Rect position}, ${2:GUIContent content}, ${3:Vector2 cursorPixelPosition})]]></content>
 	<tabTrigger><![CDATA[getCursorStringIndex]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUIStyle.*(position, content, cursorPixelPosition)]]></description>

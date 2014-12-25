@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.CommandEvent(${1:string commandName});]]></content>
+	<content><![CDATA[EditorGUIUtility.CommandEvent(${1:string commandName})]]></content>
 	<tabTrigger><![CDATA[commandEvent]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorGUIUtility.*(commandName)]]></description>

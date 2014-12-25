@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AudioClip.SetData(${1:float[] data}, ${2:int offsetSamples});]]></content>
+	<content><![CDATA[AudioClip.SetData(${1:float[] data}, ${2:int offsetSamples})]]></content>
 	<tabTrigger><![CDATA[audioClip.SetData]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(data, offsetSamples)]]></description>

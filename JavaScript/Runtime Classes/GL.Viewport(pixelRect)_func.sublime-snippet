@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GL.Viewport(${1:pixelRect : Rect});]]></content>
+	<content><![CDATA[GL.Viewport(${1:pixelRect : Rect})]]></content>
 	<tabTrigger><![CDATA[Viewport]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GL.*(pixelRect)]]></description>

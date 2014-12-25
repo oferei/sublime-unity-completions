@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Joint.OnJointBreak(${1:float ?});]]></content>
+	<content><![CDATA[Joint.OnJointBreak(${1:float ?})]]></content>
 	<tabTrigger><![CDATA[onJointBreak]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Joint.*(?)]]></description>

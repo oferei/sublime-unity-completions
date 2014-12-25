@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.ApplyMaterialPropertyDrawers(${1:Object[] targets});]]></content>
+	<content><![CDATA[MaterialEditor.ApplyMaterialPropertyDrawers(${1:Object[] targets})]]></content>
 	<tabTrigger><![CDATA[ApplyMaterialPropertyDrawers]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MaterialEditor.*(targets)]]></description>

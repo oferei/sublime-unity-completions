@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.SetIconSize(${1:size : Vector2});]]></content>
+	<content><![CDATA[EditorGUIUtility.SetIconSize(${1:size : Vector2})]]></content>
 	<tabTrigger><![CDATA[setIconSize]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUIUtility.*(size)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GenericMenu.AddDisabledItem(${1:content : GUIContent});]]></content>
+	<content><![CDATA[GenericMenu.AddDisabledItem(${1:content : GUIContent})]]></content>
 	<tabTrigger><![CDATA[GenericMenu.AddDisabledItem]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(content)]]></description>

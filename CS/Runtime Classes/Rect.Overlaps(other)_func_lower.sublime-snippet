@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rect.Overlaps(${1:Rect other});]]></content>
+	<content><![CDATA[Rect.Overlaps(${1:Rect other})]]></content>
 	<tabTrigger><![CDATA[overlaps]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Rect.*(other)]]></description>

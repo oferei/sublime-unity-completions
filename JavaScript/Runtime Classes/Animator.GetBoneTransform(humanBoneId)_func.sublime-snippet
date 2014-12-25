@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.GetBoneTransform(${1:humanBoneId : HumanBodyBones});]]></content>
+	<content><![CDATA[Animator.GetBoneTransform(${1:humanBoneId : HumanBodyBones})]]></content>
 	<tabTrigger><![CDATA[GetBoneTransform]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Animator.*(humanBoneId)]]></description>

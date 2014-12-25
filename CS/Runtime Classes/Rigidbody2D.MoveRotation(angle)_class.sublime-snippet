@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.MoveRotation(${1:float angle});]]></content>
+	<content><![CDATA[Rigidbody2D.MoveRotation(${1:float angle})]]></content>
 	<tabTrigger><![CDATA[Rigidbody2D.MoveRotation]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(angle)]]></description>

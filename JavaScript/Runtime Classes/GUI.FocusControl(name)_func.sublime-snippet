@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.FocusControl(${1:name : string});]]></content>
+	<content><![CDATA[GUI.FocusControl(${1:name : string})]]></content>
 	<tabTrigger><![CDATA[FocusControl]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUI.*(name)]]></description>

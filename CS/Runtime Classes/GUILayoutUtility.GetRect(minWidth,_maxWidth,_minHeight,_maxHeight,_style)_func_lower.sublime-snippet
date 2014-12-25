@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayoutUtility.GetRect(${1:float minWidth}, ${2:float maxWidth}, ${3:float minHeight}, ${4:float maxHeight}, ${5:GUIStyle style});]]></content>
+	<content><![CDATA[GUILayoutUtility.GetRect(${1:float minWidth}, ${2:float maxWidth}, ${3:float minHeight}, ${4:float maxHeight}, ${5:GUIStyle style})]]></content>
 	<tabTrigger><![CDATA[getRect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUILayoutUtility.*(minWidth, maxWidth, minHeight, maxHeight, style)]]></description>

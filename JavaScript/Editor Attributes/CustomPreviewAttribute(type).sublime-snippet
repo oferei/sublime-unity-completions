@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomPreviewAttribute(${1:type : Type});]]></content>
+	<content><![CDATA[CustomPreviewAttribute(${1:type : Type})]]></content>
 	<tabTrigger><![CDATA[CustomPreviewAttribute]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(type)]]></description>

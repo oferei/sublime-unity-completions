@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Gradient.Evaluate(${1:time : float});]]></content>
+	<content><![CDATA[Gradient.Evaluate(${1:time : float})]]></content>
 	<tabTrigger><![CDATA[Evaluate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Gradient.*(time)]]></description>

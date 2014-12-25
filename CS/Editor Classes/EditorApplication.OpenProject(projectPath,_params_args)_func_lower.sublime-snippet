@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorApplication.OpenProject(${1:string projectPath}, ${2:string[] params args});]]></content>
+	<content><![CDATA[EditorApplication.OpenProject(${1:string projectPath}, ${2:string[] params args})]]></content>
 	<tabTrigger><![CDATA[openProject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[EditorApplication.*(projectPath, params args)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Ray.ToString(${1:string format});]]></content>
+	<content><![CDATA[Ray.ToString(${1:string format})]]></content>
 	<tabTrigger><![CDATA[ray.ToString]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(format)]]></description>

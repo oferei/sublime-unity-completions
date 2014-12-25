@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.Resize(${1:width : int}, ${2:height : int});]]></content>
+	<content><![CDATA[Texture2D.Resize(${1:width : int}, ${2:height : int})]]></content>
 	<tabTrigger><![CDATA[Resize]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Texture2D.*(width, height)]]></description>

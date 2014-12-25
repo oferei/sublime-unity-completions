@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetTrigger(${1:string name});]]></content>
+	<content><![CDATA[Animator.SetTrigger(${1:string name})]]></content>
 	<tabTrigger><![CDATA[Animator.SetTrigger]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(name)]]></description>

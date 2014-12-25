@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CrashReport.RemoveAll();]]></content>
+	<content><![CDATA[CrashReport.RemoveAll()]]></content>
 	<tabTrigger><![CDATA[removeAll]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CrashReport.*()]]></description>

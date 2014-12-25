@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Application.RequestUserAuthorization(${1:mode : UserAuthorization});]]></content>
+	<content><![CDATA[Application.RequestUserAuthorization(${1:mode : UserAuthorization})]]></content>
 	<tabTrigger><![CDATA[requestUserAuthorization]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Application.*(mode)]]></description>

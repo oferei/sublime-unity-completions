@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNI.ExceptionDescribe();]]></content>
+	<content><![CDATA[AndroidJNI.ExceptionDescribe()]]></content>
 	<tabTrigger><![CDATA[exceptionDescribe]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AndroidJNI.*()]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.SendEvent(${1:e : Event});]]></content>
+	<content><![CDATA[EditorWindow.SendEvent(${1:e : Event})]]></content>
 	<tabTrigger><![CDATA[editorWindow.SendEvent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(e)]]></description>

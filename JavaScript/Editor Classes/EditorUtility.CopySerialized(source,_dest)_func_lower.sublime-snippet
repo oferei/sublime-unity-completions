@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.CopySerialized(${1:source : Object}, ${2:dest : Object});]]></content>
+	<content><![CDATA[EditorUtility.CopySerialized(${1:source : Object}, ${2:dest : Object})]]></content>
 	<tabTrigger><![CDATA[copySerialized]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorUtility.*(source, dest)]]></description>

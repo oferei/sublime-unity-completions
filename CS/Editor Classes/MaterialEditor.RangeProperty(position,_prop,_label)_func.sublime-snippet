@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialEditor.RangeProperty(${1:Rect position}, ${2:MaterialProperty prop}, ${3:string label});]]></content>
+	<content><![CDATA[MaterialEditor.RangeProperty(${1:Rect position}, ${2:MaterialProperty prop}, ${3:string label})]]></content>
 	<tabTrigger><![CDATA[RangeProperty]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[MaterialEditor.*(position, prop, label)]]></description>

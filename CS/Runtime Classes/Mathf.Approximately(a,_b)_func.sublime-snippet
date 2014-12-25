@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mathf.Approximately(${1:float a}, ${2:float b});]]></content>
+	<content><![CDATA[Mathf.Approximately(${1:float a}, ${2:float b})]]></content>
 	<tabTrigger><![CDATA[Approximately]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mathf.*(a, b)]]></description>

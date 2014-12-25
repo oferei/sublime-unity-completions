@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorUtility.SaveFilePanelInProject(${1:title : string}, ${2:defaultName : string}, ${3:extension : string}, ${4:message : string});]]></content>
+	<content><![CDATA[EditorUtility.SaveFilePanelInProject(${1:title : string}, ${2:defaultName : string}, ${3:extension : string}, ${4:message : string})]]></content>
 	<tabTrigger><![CDATA[editorUtility.SaveFilePanelInProject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(title, defaultName, extension, message)]]></description>

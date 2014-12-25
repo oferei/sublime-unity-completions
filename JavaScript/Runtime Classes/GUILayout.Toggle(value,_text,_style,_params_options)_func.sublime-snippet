@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Toggle(${1:value : bool}, ${2:text : string}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]});]]></content>
+	<content><![CDATA[GUILayout.Toggle(${1:value : bool}, ${2:text : string}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[Toggle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUILayout.*(value, text, style, params options)]]></description>

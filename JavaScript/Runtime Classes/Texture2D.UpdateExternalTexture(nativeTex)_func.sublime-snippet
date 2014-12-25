@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.UpdateExternalTexture(${1:nativeTex : IntPtr});]]></content>
+	<content><![CDATA[Texture2D.UpdateExternalTexture(${1:nativeTex : IntPtr})]]></content>
 	<tabTrigger><![CDATA[UpdateExternalTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Texture2D.*(nativeTex)]]></description>

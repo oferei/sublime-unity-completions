@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Camera.SetTargetBuffers(${1:RenderBuffer[] colorBuffer}, ${2:RenderBuffer depthBuffer});]]></content>
+	<content><![CDATA[Camera.SetTargetBuffers(${1:RenderBuffer[] colorBuffer}, ${2:RenderBuffer depthBuffer})]]></content>
 	<tabTrigger><![CDATA[setTargetBuffers]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Camera.*(colorBuffer, depthBuffer)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ToggleGroup.RegisterToggle(${1:toggle : Toggle});]]></content>
+	<content><![CDATA[ToggleGroup.RegisterToggle(${1:toggle : Toggle})]]></content>
 	<tabTrigger><![CDATA[toggleGroup.RegisterToggle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(toggle)]]></description>
