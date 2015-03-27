@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hash128.Parse(${1:string hashString})]]></content>
+	<tabTrigger><![CDATA[Hash128.Parse]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(hashString)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateMachine.GetStateMachineTransitions(${1:sourceStateMachine as Animations.AnimatorStateMachine})]]></content>
+	<tabTrigger><![CDATA[AnimatorStateMachine.GetStateMachineTransitions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(sourceStateMachine)]]></description>
+</snippet>

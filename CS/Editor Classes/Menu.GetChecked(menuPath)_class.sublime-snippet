@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Menu.GetChecked(${1:string menuPath})]]></content>
+	<tabTrigger><![CDATA[Menu.GetChecked]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(menuPath)]]></description>
+</snippet>

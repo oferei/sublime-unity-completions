@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.GetCommandBuffers(${1:evt : Rendering.CameraEvent})]]></content>
+	<tabTrigger><![CDATA[Camera.GetCommandBuffers]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(evt)]]></description>
+</snippet>

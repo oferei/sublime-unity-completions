@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.CreateAnimatorControllerAtPathWithClip(${1:path : string}, ${2:clip : AnimationClip})]]></content>
+	<tabTrigger><![CDATA[createAnimatorControllerAtPathWithClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(path, clip)]]></description>
+</snippet>

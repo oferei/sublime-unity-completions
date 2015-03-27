@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RequireComponent(${1:requiredComponent : iOS.ADBannerView.Type}, ${2:requiredComponent2 : iOS.ADBannerView.Type}, ${3:requiredComponent3 : iOS.ADBannerView.Type})]]></content>
+	<tabTrigger><![CDATA[requireComponent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(requiredComponent, requiredComponent2, requiredComponent3)]]></description>
+</snippet>

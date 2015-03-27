@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.SetCompatibleWithEditor(${1:bool enable})]]></content>
+	<tabTrigger><![CDATA[PluginImporter.SetCompatibleWithEditor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(enable)]]></description>
+</snippet>

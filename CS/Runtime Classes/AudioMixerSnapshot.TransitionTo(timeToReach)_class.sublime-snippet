@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioMixerSnapshot.TransitionTo(${1:float timeToReach})]]></content>
+	<tabTrigger><![CDATA[AudioMixerSnapshot.TransitionTo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(timeToReach)]]></description>
+</snippet>

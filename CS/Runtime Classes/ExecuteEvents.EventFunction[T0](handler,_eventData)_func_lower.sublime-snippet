@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExecuteEvents.EventFunction<T0>(${1:T1 handler}, ${2:EventSystems.BaseEventData eventData})]]></content>
+	<tabTrigger><![CDATA[eventFunction<T0>]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ExecuteEvents.*(handler, eventData)]]></description>
+</snippet>

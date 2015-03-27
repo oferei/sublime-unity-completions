@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody.SweepTestAll(${1:Vector3 direction}, ${2:float distance = Mathf.Infinity})]]></content>
-	<tabTrigger><![CDATA[rigidbody.SweepTestAll]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(direction, distance)]]></description>
-</snippet>

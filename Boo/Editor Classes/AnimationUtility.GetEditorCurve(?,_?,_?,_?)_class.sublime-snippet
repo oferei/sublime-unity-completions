@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:? as AnimationClip}, ${2:? as string}, ${3:? as Type}, ${4:? as string})]]></content>
-	<tabTrigger><![CDATA[AnimationUtility.GetEditorCurve]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(?, ?, ?, ?)]]></description>
-</snippet>

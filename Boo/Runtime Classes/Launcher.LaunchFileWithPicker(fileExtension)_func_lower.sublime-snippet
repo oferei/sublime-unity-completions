@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Launcher.LaunchFileWithPicker(${1:fileExtension as string})]]></content>
+	<tabTrigger><![CDATA[launchFileWithPicker]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Launcher.*(fileExtension)]]></description>
+</snippet>

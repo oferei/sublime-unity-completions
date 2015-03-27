@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.DefaultPreviewGUI(${1:r : Rect}, ${2:background : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[DefaultPreviewGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialEditor.*(r, background)]]></description>
+</snippet>

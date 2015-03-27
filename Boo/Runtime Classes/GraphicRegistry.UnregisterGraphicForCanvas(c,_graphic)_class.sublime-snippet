@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas(${1:c as Canvas}, ${2:graphic as Graphic})]]></content>
+	<content><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas(${1:c as Canvas}, ${2:graphic as UI.Graphic})]]></content>
 	<tabTrigger><![CDATA[GraphicRegistry.UnregisterGraphicForCanvas]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(c, graphic)]]></description>

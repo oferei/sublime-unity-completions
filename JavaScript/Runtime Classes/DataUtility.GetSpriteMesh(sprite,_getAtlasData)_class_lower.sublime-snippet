@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DataUtility.GetSpriteMesh(${1:sprite : Sprite}, ${2:getAtlasData : bool})]]></content>
-	<tabTrigger><![CDATA[dataUtility.GetSpriteMesh]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(sprite, getAtlasData)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioListener.GetSpectrumData(${1:samples as (single)}, ${2:channel as int}, ${3:window as FFTWindow})]]></content>
-	<tabTrigger><![CDATA[getSpectrumData]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AudioListener.*(samples, channel, window)]]></description>
-</snippet>

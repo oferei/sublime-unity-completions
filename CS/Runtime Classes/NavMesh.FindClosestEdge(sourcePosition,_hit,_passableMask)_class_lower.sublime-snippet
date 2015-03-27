@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NavMesh.FindClosestEdge(${1:Vector3 sourcePosition}, ${2:NavMeshHit hit}, ${3:int passableMask})]]></content>
-	<tabTrigger><![CDATA[navMesh.FindClosestEdge]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(sourcePosition, hit, passableMask)]]></description>
-</snippet>

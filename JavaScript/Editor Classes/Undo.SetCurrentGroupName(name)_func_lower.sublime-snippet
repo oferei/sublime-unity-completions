@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.SetCurrentGroupName(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[setCurrentGroupName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Undo.*(name)]]></description>
+</snippet>

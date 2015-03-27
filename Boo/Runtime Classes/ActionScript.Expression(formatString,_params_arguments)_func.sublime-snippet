@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ActionScript.Expression(${1:formatString as string}, ${2:params arguments as (object)})]]></content>
-	<tabTrigger><![CDATA[Expression]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ActionScript.*(formatString, params arguments)]]></description>
-</snippet>

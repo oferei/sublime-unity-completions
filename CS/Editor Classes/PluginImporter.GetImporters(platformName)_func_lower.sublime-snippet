@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.GetImporters(${1:string platformName})]]></content>
+	<tabTrigger><![CDATA[getImporters]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PluginImporter.*(platformName)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Slider.OnMove(${1:AxisEventData eventData})]]></content>
+	<content><![CDATA[Slider.OnMove(${1:EventSystems.AxisEventData eventData})]]></content>
 	<tabTrigger><![CDATA[Slider.OnMove]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(eventData)]]></description>

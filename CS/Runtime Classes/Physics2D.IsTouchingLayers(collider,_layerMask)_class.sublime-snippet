@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.IsTouchingLayers(${1:Collider2D collider}, ${2:int layerMask = AllLayers})]]></content>
+	<tabTrigger><![CDATA[Physics2D.IsTouchingLayers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(collider, layerMask)]]></description>
+</snippet>

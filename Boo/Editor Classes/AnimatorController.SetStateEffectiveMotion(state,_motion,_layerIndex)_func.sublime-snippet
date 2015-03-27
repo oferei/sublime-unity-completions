@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.SetStateEffectiveMotion(${1:state as Animations.AnimatorState}, ${2:motion as Motion}, ${3:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[SetStateEffectiveMotion]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorController.*(state, motion, layerIndex)]]></description>
+</snippet>

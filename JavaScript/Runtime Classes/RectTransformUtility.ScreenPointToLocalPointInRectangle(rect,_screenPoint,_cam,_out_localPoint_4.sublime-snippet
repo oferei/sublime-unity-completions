@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectTransformUtility.ScreenPointToLocalPointInRectangle(${1:rect : RectTransform}, ${2:screenPoint : Vector2}, ${3:cam : Camera}, ${4:out localPoint : Vector2})]]></content>
+	<tabTrigger><![CDATA[screenPointToLocalPointInRectangle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RectTransformUtility.*(rect, screenPoint, cam, out localPoint)]]></description>
+</snippet>

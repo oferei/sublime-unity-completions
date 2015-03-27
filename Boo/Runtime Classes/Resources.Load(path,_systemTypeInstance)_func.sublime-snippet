@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Resources.Load(${1:path as string}, ${2:systemTypeInstance as Type})]]></content>
+	<content><![CDATA[Resources.Load(${1:path as string}, ${2:systemTypeInstance as iOS.ADBannerView.Type})]]></content>
 	<tabTrigger><![CDATA[Load]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Resources.*(path, systemTypeInstance)]]></description>

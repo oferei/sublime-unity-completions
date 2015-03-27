@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.GetComponentsInParent(${1:type as Type}, ${2:includeInactive as bool = false})]]></content>
+	<content><![CDATA[GameObject.GetComponentsInParent(${1:type as iOS.ADBannerView.Type}, ${2:includeInactive as bool = false})]]></content>
 	<tabTrigger><![CDATA[GetComponentsInParent]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[GameObject.*(type, includeInactive)]]></description>

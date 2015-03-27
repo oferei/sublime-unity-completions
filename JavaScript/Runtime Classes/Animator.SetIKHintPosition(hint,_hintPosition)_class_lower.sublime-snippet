@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetIKHintPosition(${1:hint : AvatarIKHint}, ${2:hintPosition : Vector3})]]></content>
+	<tabTrigger><![CDATA[animator.SetIKHintPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(hint, hintPosition)]]></description>
+</snippet>

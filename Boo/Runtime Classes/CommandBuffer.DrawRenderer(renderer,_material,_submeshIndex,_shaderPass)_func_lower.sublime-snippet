@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawRenderer(${1:renderer as Renderer}, ${2:material as Material}, ${3:submeshIndex as int = 0}, ${4:shaderPass as int = -1})]]></content>
+	<tabTrigger><![CDATA[drawRenderer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(renderer, material, submeshIndex, shaderPass)]]></description>
+</snippet>

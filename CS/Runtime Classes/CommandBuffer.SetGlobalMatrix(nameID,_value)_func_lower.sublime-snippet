@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalMatrix(${1:int nameID}, ${2:Matrix4x4 value})]]></content>
+	<tabTrigger><![CDATA[setGlobalMatrix]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(nameID, value)]]></description>
+</snippet>

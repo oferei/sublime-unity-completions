@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorState.AddTransition(${1:destinationState as Animations.AnimatorState}, ${2:defaultExitTime as bool})]]></content>
+	<tabTrigger><![CDATA[AnimatorState.AddTransition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(destinationState, defaultExitTime)]]></description>
+</snippet>

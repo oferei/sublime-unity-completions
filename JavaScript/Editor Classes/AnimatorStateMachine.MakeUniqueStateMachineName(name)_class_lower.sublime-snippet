@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateMachine.MakeUniqueStateMachineName(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[animatorStateMachine.MakeUniqueStateMachineName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

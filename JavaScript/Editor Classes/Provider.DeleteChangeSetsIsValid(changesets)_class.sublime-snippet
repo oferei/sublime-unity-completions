@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.DeleteChangeSetsIsValid(${1:changesets : ChangeSets})]]></content>
+	<content><![CDATA[Provider.DeleteChangeSetsIsValid(${1:changesets : VersionControl.ChangeSets})]]></content>
 	<tabTrigger><![CDATA[Provider.DeleteChangeSetsIsValid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(changesets)]]></description>

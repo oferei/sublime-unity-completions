@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InteractiveCloth.AttachToCollider(${1:collider : Collider}, ${2:tearable : bool = false}, ${3:twoWayInteraction : bool = false})]]></content>
-	<tabTrigger><![CDATA[attachToCollider]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[InteractiveCloth.*(collider, tearable, twoWayInteraction)]]></description>
-</snippet>

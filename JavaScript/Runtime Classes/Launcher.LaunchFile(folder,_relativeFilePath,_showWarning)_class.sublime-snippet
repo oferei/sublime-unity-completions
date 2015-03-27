@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Launcher.LaunchFile(${1:folder : WSA.Folder}, ${2:relativeFilePath : string}, ${3:showWarning : bool})]]></content>
+	<tabTrigger><![CDATA[Launcher.LaunchFile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(folder, relativeFilePath, showWarning)]]></description>
+</snippet>

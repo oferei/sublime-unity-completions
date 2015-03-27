@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.MakeUniqueLayerName(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[AnimatorController.MakeUniqueLayerName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

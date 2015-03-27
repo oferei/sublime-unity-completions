@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DoubleField(${1:Rect position}, ${2:GUIContent label}, ${3:double value}, ${4:GUIStyle style = EditorStyles.numberField})]]></content>
+	<tabTrigger><![CDATA[doubleField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, label, value, style)]]></description>
+</snippet>

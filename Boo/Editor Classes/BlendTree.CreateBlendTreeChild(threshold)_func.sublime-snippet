@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendTree.CreateBlendTreeChild(${1:threshold as single})]]></content>
+	<tabTrigger><![CDATA[CreateBlendTreeChild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BlendTree.*(threshold)]]></description>
+</snippet>

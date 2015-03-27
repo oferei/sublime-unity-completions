@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPointerEnterHandler.OnPointerEnter(${1:EventSystems.PointerEventData eventData})]]></content>
+	<tabTrigger><![CDATA[OnPointerEnter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IPointerEnterHandler.*(eventData)]]></description>
+</snippet>

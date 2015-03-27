@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClothSphereColliderPair(${1:SphereCollider a}, ${2:SphereCollider b})]]></content>
+	<tabTrigger><![CDATA[clothSphereColliderPair]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(a, b)]]></description>
+</snippet>

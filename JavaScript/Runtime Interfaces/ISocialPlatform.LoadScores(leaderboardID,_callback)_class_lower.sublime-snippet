@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISocialPlatform.LoadScores(${1:leaderboardID : string}, ${2:callback : Action<IScore[]>})]]></content>
+	<tabTrigger><![CDATA[iSocialPlatform.LoadScores]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(leaderboardID, callback)]]></description>
+</snippet>

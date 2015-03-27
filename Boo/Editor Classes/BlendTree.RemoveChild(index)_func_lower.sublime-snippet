@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendTree.RemoveChild(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[removeChild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BlendTree.*(index)]]></description>
+</snippet>

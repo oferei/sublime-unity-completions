@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.GetCompatibleWithPlatform(${1:platform : BuildTarget})]]></content>
+	<tabTrigger><![CDATA[pluginImporter.GetCompatibleWithPlatform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(platform)]]></description>
+</snippet>

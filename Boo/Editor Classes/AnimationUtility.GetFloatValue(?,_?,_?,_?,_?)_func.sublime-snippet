@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.GetFloatValue(${1:? as GameObject}, ${2:? as string}, ${3:? as Type}, ${4:? as string}, ${5:? as single})]]></content>
-	<tabTrigger><![CDATA[GetFloatValue]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationUtility.*(?, ?, ?, ?, ?)]]></description>
-</snippet>

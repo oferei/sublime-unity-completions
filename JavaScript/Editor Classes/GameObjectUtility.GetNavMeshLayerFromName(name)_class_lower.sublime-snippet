@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameObjectUtility.GetNavMeshLayerFromName(${1:name : string})]]></content>
-	<tabTrigger><![CDATA[gameObjectUtility.GetNavMeshLayerFromName]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(name)]]></description>
-</snippet>

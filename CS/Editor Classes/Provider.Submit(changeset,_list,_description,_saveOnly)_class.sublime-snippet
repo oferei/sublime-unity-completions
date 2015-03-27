@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Submit(${1:ChangeSet changeset}, ${2:AssetList list}, ${3:string description}, ${4:bool saveOnly})]]></content>
+	<content><![CDATA[Provider.Submit(${1:VersionControl.ChangeSet changeset}, ${2:VersionControl.AssetList list}, ${3:string description}, ${4:bool saveOnly})]]></content>
 	<tabTrigger><![CDATA[Provider.Submit]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(changeset, list, description, saveOnly)]]></description>

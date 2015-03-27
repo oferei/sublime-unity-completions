@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Menu.SetChecked(${1:string menuPath}, ${2:bool isChecked})]]></content>
+	<tabTrigger><![CDATA[Menu.SetChecked]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(menuPath, isChecked)]]></description>
+</snippet>

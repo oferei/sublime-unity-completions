@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Display.RelativeMouseAt(${1:inputMouseCoordinates : Vector3})]]></content>
+	<tabTrigger><![CDATA[Display.RelativeMouseAt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inputMouseCoordinates)]]></description>
+</snippet>

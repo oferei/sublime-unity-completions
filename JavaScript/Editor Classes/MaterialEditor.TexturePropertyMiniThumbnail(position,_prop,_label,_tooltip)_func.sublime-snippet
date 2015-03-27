@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TexturePropertyMiniThumbnail(${1:position : Rect}, ${2:prop : MaterialProperty}, ${3:label : string}, ${4:tooltip : string})]]></content>
+	<tabTrigger><![CDATA[TexturePropertyMiniThumbnail]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialEditor.*(position, prop, label, tooltip)]]></description>
+</snippet>

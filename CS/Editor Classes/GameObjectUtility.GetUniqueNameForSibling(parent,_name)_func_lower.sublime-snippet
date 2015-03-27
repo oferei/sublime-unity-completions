@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.GetUniqueNameForSibling(${1:Transform parent}, ${2:string name})]]></content>
+	<tabTrigger><![CDATA[getUniqueNameForSibling]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GameObjectUtility.*(parent, name)]]></description>
+</snippet>

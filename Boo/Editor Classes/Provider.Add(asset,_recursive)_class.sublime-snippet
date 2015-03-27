@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Add(${1:asset as Asset}, ${2:recursive as bool})]]></content>
+	<content><![CDATA[Provider.Add(${1:asset as VersionControl.Asset}, ${2:recursive as bool})]]></content>
 	<tabTrigger><![CDATA[Provider.Add]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(asset, recursive)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Merge(${1:assets as AssetList}, ${2:method as MergeMethod})]]></content>
+	<content><![CDATA[Provider.Merge(${1:assets as VersionControl.AssetList}, ${2:method as VersionControl.MergeMethod})]]></content>
 	<tabTrigger><![CDATA[Merge]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Provider.*(assets, method)]]></description>

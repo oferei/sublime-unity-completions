@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2DRaycaster.Raycast(${1:EventSystems.PointerEventData eventData}, ${2:List<RaycastResult> resultAppendList})]]></content>
+	<tabTrigger><![CDATA[raycast]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Physics2DRaycaster.*(eventData, resultAppendList)]]></description>
+</snippet>

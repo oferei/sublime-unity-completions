@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightProbes.GetInterpolatedProbe(${1:position : Vector3}, ${2:renderer : Renderer}, ${3:out probe : Rendering.SphericalHarmonicsL2})]]></content>
+	<tabTrigger><![CDATA[lightProbes.GetInterpolatedProbe]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, renderer, out probe)]]></description>
+</snippet>

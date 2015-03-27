@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.AddParameter(${1:paramater as AnimatorControllerParameter})]]></content>
+	<tabTrigger><![CDATA[AnimatorController.AddParameter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(paramater)]]></description>
+</snippet>

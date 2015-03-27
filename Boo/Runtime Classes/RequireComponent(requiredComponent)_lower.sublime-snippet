@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequireComponent(${1:requiredComponent as Type})]]></content>
-	<tabTrigger><![CDATA[requireComponent]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(requiredComponent)]]></description>
-</snippet>

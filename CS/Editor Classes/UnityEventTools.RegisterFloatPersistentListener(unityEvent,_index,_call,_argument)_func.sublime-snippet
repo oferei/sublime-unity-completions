@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventTools.RegisterFloatPersistentListener(${1:UnityEventBase unityEvent}, ${2:int index}, ${3:UnityAction<float> call}, ${4:float argument})]]></content>
+	<content><![CDATA[UnityEventTools.RegisterFloatPersistentListener(${1:Events.UnityEventBase unityEvent}, ${2:int index}, ${3:UnityAction<float> call}, ${4:float argument})]]></content>
 	<tabTrigger><![CDATA[RegisterFloatPersistentListener]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[UnityEventTools.*(unityEvent, index, call, argument)]]></description>

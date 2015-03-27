@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetStartOffset(${1:int axis}, ${2:float requiredSpaceWithoutPadding})]]></content>
+	<tabTrigger><![CDATA[layoutGroup.GetStartOffset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(axis, requiredSpaceWithoutPadding)]]></description>
+</snippet>

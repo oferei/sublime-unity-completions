@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Selectable.OnMove(${1:eventData as AxisEventData})]]></content>
+	<content><![CDATA[Selectable.OnMove(${1:eventData as EventSystems.AxisEventData})]]></content>
 	<tabTrigger><![CDATA[OnMove]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Selectable.*(eventData)]]></description>

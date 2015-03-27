@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TextureScaleOffsetProperty(${1:position : Rect}, ${2:scaleOffset : Vector4})]]></content>
+	<tabTrigger><![CDATA[textureScaleOffsetProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialEditor.*(position, scaleOffset)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioMixer.TransitionToSnapshots(${1:snapshots as (AudioMixerSnapshot)}, ${2:weights as (single)}, ${3:timeToReach as single})]]></content>
+	<tabTrigger><![CDATA[audioMixer.TransitionToSnapshots]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(snapshots, weights, timeToReach)]]></description>
+</snippet>

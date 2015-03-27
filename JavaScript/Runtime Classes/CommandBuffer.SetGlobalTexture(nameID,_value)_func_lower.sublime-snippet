@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalTexture(${1:nameID : int}, ${2:value : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[setGlobalTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(nameID, value)]]></description>
+</snippet>

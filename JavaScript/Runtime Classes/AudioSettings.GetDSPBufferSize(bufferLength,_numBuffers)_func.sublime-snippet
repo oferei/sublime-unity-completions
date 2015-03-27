@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioSettings.GetDSPBufferSize(${1:bufferLength : int}, ${2:numBuffers : int})]]></content>
-	<tabTrigger><![CDATA[GetDSPBufferSize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AudioSettings.*(bufferLength, numBuffers)]]></description>
-</snippet>

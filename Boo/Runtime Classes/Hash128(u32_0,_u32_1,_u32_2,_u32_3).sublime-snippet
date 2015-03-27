@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hash128(${1:u32_0 as uint}, ${2:u32_1 as uint}, ${3:u32_2 as uint}, ${4:u32_3 as uint})]]></content>
+	<tabTrigger><![CDATA[Hash128]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(u32_0, u32_1, u32_2, u32_3)]]></description>
+</snippet>

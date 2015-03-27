@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioMixer.FindSnapshot(${1:string name})]]></content>
+	<tabTrigger><![CDATA[findSnapshot]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AudioMixer.*(name)]]></description>
+</snippet>

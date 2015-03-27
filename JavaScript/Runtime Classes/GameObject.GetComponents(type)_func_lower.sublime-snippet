@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameObject.GetComponents(${1:type : Type})]]></content>
+	<content><![CDATA[GameObject.GetComponents(${1:type : iOS.ADBannerView.Type})]]></content>
 	<tabTrigger><![CDATA[getComponents]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GameObject.*(type)]]></description>

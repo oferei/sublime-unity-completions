@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.RemoveAssetBundleName(${1:assetBundleName as string}, ${2:forceRemove as bool})]]></content>
+	<tabTrigger><![CDATA[removeAssetBundleName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(assetBundleName, forceRemove)]]></description>
+</snippet>

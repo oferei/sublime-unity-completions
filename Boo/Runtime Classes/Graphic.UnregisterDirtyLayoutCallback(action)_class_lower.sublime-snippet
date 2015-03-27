@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphic.UnregisterDirtyLayoutCallback(${1:action as UnityAction})]]></content>
-	<tabTrigger><![CDATA[graphic.UnregisterDirtyLayoutCallback]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(action)]]></description>
-</snippet>

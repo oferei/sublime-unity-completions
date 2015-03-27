@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.AddMotion(${1:Motion motion})]]></content>
+	<tabTrigger><![CDATA[AddMotion]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimatorController.*(motion)]]></description>
+</snippet>

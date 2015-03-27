@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.MakeUniqueParameterName(${1:string name})]]></content>
+	<tabTrigger><![CDATA[MakeUniqueParameterName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimatorController.*(name)]]></description>
+</snippet>

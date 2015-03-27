@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInputModule.HandlePointerExitAndEnter(${1:EventSystems.PointerEventData currentPointerData}, ${2:GameObject newEnterTarget})]]></content>
+	<tabTrigger><![CDATA[BaseInputModule.HandlePointerExitAndEnter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(currentPointerData, newEnterTarget)]]></description>
+</snippet>

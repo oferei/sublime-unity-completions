@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.GetEditorData(${1:string key})]]></content>
+	<tabTrigger><![CDATA[pluginImporter.GetEditorData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

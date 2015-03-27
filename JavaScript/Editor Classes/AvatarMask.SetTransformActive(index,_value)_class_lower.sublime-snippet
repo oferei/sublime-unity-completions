@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarMask.SetTransformActive(${1:index : int}, ${2:value : bool})]]></content>
+	<tabTrigger><![CDATA[avatarMask.SetTransformActive]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

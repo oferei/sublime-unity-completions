@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasScaler.SetReferencePixelsPerUnit(${1:referencePixelsPerUnit as single})]]></content>
+	<tabTrigger><![CDATA[CanvasScaler.SetReferencePixelsPerUnit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(referencePixelsPerUnit)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventSystemEditor.OnPreviewGUI(${1:rect : Rect}, ${2:background : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[onPreviewGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EventSystemEditor.*(rect, background)]]></description>
+</snippet>

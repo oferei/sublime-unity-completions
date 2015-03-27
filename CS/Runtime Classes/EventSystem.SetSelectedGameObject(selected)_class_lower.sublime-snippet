@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventSystem.SetSelectedGameObject(${1:GameObject selected})]]></content>
-	<tabTrigger><![CDATA[eventSystem.SetSelectedGameObject]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(selected)]]></description>
-</snippet>

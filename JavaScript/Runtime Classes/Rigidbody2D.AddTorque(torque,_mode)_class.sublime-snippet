@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.AddTorque(${1:torque : float}, ${2:mode : ForceMode2D = ForceMode2D.Force})]]></content>
+	<tabTrigger><![CDATA[Rigidbody2D.AddTorque]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(torque, mode)]]></description>
+</snippet>

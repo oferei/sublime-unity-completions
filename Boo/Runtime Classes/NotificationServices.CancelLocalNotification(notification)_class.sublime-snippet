@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.CancelLocalNotification(${1:notification as LocalNotification})]]></content>
+	<content><![CDATA[NotificationServices.CancelLocalNotification(${1:notification as iOS.LocalNotification})]]></content>
 	<tabTrigger><![CDATA[NotificationServices.CancelLocalNotification]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(notification)]]></description>

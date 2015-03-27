@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BaseEventData(${1:eventSystem : EventSystem})]]></content>
+	<content><![CDATA[BaseEventData(${1:eventSystem : EventSystems.EventSystem})]]></content>
 	<tabTrigger><![CDATA[BaseEventData]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(eventSystem)]]></description>

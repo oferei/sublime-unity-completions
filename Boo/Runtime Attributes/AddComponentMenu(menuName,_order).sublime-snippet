@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddComponentMenu(${1:menuName as string}, ${2:order as int})]]></content>
+	<tabTrigger><![CDATA[AddComponentMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(menuName, order)]]></description>
+</snippet>

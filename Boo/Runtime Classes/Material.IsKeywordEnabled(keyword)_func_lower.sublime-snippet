@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.IsKeywordEnabled(${1:keyword as string})]]></content>
+	<tabTrigger><![CDATA[isKeywordEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Material.*(keyword)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetTotalFlexibleSize(${1:axis as int})]]></content>
+	<tabTrigger><![CDATA[layoutGroup.GetTotalFlexibleSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(axis)]]></description>
+</snippet>

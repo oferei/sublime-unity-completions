@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.SetVector(${1:int nameID}, ${2:Vector4 value})]]></content>
+	<tabTrigger><![CDATA[MaterialPropertyBlock.SetVector]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID, value)]]></description>
+</snippet>

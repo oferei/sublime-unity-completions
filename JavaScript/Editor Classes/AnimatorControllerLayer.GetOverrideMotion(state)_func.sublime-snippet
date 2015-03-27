@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerLayer.GetOverrideMotion(${1:state : Animations.AnimatorState})]]></content>
+	<tabTrigger><![CDATA[GetOverrideMotion]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorControllerLayer.*(state)]]></description>
+</snippet>

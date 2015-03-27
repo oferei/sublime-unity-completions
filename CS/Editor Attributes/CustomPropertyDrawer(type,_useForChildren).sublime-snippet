@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomPropertyDrawer(${1:iOS.ADBannerView.Type type}, ${2:bool useForChildren})]]></content>
+	<tabTrigger><![CDATA[CustomPropertyDrawer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(type, useForChildren)]]></description>
+</snippet>

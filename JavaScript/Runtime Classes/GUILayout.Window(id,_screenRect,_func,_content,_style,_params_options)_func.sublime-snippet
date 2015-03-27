@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUILayout.Window(${1:id : int}, ${2:screenRect : Rect}, ${3:func : WindowFunction}, ${4:content : GUIContent}, ${5:style : GUIStyle}, ${6:params options : GUILayoutOption[]})]]></content>
+	<content><![CDATA[GUILayout.Window(${1:id : int}, ${2:screenRect : Rect}, ${3:func : GUI.WindowFunction}, ${4:content : GUIContent}, ${5:style : GUIStyle}, ${6:params options : GUILayoutOption[]})]]></content>
 	<tabTrigger><![CDATA[Window]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GUILayout.*(id, screenRect, func, content, style, params options)]]></description>

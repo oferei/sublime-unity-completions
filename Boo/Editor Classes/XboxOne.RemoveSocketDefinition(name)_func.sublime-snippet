@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XboxOne.RemoveSocketDefinition(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[RemoveSocketDefinition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[XboxOne.*(name)]]></description>
+</snippet>

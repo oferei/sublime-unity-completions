@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AreaScope.GUILayout.AreaScope(${1:Rect screenRect}, ${2:string text})]]></content>
+	<tabTrigger><![CDATA[AreaScope.GUILayout.AreaScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(screenRect, text)]]></description>
+</snippet>

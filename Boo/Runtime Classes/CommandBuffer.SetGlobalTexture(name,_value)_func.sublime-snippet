@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalTexture(${1:name as string}, ${2:value as Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[SetGlobalTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(name, value)]]></description>
+</snippet>

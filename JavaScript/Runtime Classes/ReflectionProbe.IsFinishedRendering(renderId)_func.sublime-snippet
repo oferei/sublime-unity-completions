@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReflectionProbe.IsFinishedRendering(${1:renderId : int})]]></content>
+	<tabTrigger><![CDATA[IsFinishedRendering]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ReflectionProbe.*(renderId)]]></description>
+</snippet>

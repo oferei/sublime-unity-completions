@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.ReleaseTemporaryRT(${1:int nameID})]]></content>
+	<tabTrigger><![CDATA[ReleaseTemporaryRT]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(nameID)]]></description>
+</snippet>

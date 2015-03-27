@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundleManifest.GetAllDependencies(${1:assetBundleName as string})]]></content>
+	<tabTrigger><![CDATA[GetAllDependencies]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetBundleManifest.*(assetBundleName)]]></description>
+</snippet>

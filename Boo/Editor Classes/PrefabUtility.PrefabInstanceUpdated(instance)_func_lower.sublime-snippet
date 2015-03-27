@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.PrefabInstanceUpdated(${1:instance as GameObject})]]></content>
+	<tabTrigger><![CDATA[prefabInstanceUpdated]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(instance)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider.Raycast(${1:ray : Ray}, ${2:out hitInfo : RaycastHit}, ${3:maxDistance : float})]]></content>
+	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Collider.*(ray, out hitInfo, maxDistance)]]></description>
+</snippet>

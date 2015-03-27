@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Display.Activate(${1:width as int}, ${2:height as int}, ${3:refreshRate as int})]]></content>
+	<tabTrigger><![CDATA[display.Activate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, refreshRate)]]></description>
+</snippet>

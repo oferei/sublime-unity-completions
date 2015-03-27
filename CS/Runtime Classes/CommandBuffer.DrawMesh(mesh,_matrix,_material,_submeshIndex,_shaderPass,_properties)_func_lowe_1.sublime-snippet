@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawMesh(${1:Mesh mesh}, ${2:Matrix4x4 matrix}, ${3:Material material}, ${4:int submeshIndex = 0}, ${5:int shaderPass = -1}, ${6:MaterialPropertyBlock properties = null})]]></content>
+	<tabTrigger><![CDATA[drawMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(mesh, matrix, material, submeshIndex, shaderPass, properties)]]></description>
+</snippet>

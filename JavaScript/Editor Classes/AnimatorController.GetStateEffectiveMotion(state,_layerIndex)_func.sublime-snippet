@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.GetStateEffectiveMotion(${1:state : Animations.AnimatorState}, ${2:layerIndex : int})]]></content>
+	<tabTrigger><![CDATA[GetStateEffectiveMotion]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(state, layerIndex)]]></description>
+</snippet>

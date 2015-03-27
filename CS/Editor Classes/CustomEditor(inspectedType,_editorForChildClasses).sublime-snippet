@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CustomEditor(${1:Type inspectedType}, ${2:bool editorForChildClasses})]]></content>
-	<tabTrigger><![CDATA[CustomEditor]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(inspectedType, editorForChildClasses)]]></description>
-</snippet>

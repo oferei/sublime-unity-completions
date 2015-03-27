@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NotificationServices.PresentLocalNotificationNow(${1:notification : LocalNotification})]]></content>
+	<content><![CDATA[NotificationServices.PresentLocalNotificationNow(${1:notification : iOS.LocalNotification})]]></content>
 	<tabTrigger><![CDATA[notificationServices.PresentLocalNotificationNow]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(notification)]]></description>

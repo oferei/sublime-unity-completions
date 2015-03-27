@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundleManifest.GetAssetBundleHash(${1:assetBundleName : string})]]></content>
+	<tabTrigger><![CDATA[AssetBundleManifest.GetAssetBundleHash]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assetBundleName)]]></description>
+</snippet>

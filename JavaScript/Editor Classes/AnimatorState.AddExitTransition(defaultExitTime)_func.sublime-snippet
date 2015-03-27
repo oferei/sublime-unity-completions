@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorState.AddExitTransition(${1:defaultExitTime : bool})]]></content>
+	<tabTrigger><![CDATA[AddExitTransition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorState.*(defaultExitTime)]]></description>
+</snippet>

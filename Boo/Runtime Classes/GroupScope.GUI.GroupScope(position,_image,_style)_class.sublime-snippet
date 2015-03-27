@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GroupScope.GUI.GroupScope(${1:position as Rect}, ${2:image as Texture}, ${3:style as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[GroupScope.GUI.GroupScope]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, image, style)]]></description>
+</snippet>

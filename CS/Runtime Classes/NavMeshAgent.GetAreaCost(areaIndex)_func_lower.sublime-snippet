@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshAgent.GetAreaCost(${1:int areaIndex})]]></content>
+	<tabTrigger><![CDATA[getAreaCost]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshAgent.*(areaIndex)]]></description>
+</snippet>

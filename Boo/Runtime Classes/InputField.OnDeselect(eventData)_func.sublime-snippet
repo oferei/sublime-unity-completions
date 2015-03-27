@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InputField.OnDeselect(${1:eventData as BaseEventData})]]></content>
+	<content><![CDATA[InputField.OnDeselect(${1:eventData as EventSystems.BaseEventData})]]></content>
 	<tabTrigger><![CDATA[OnDeselect]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[InputField.*(eventData)]]></description>

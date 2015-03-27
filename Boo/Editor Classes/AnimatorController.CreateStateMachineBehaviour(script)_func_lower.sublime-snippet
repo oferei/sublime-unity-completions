@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.CreateStateMachineBehaviour(${1:script as MonoScript})]]></content>
+	<tabTrigger><![CDATA[createStateMachineBehaviour]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorController.*(script)]]></description>
+</snippet>

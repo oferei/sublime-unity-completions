@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GroupScope.GUI.GroupScope(${1:Rect position}, ${2:GUIContent content})]]></content>
+	<tabTrigger><![CDATA[gUI.GroupScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GroupScope.*(position, content)]]></description>
+</snippet>

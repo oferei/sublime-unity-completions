@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BaseEventData(${1:eventSystem as EventSystem})]]></content>
+	<content><![CDATA[BaseEventData(${1:eventSystem as EventSystems.EventSystem})]]></content>
 	<tabTrigger><![CDATA[BaseEventData]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(eventSystem)]]></description>

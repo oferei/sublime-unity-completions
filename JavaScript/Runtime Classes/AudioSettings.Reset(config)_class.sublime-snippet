@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSettings.Reset(${1:config : AudioConfiguration})]]></content>
+	<tabTrigger><![CDATA[AudioSettings.Reset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(config)]]></description>
+</snippet>

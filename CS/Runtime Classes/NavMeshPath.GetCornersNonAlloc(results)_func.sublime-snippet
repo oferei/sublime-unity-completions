@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshPath.GetCornersNonAlloc(${1:Vector3[] results})]]></content>
+	<tabTrigger><![CDATA[GetCornersNonAlloc]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshPath.*(results)]]></description>
+</snippet>

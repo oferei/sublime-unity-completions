@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetAssetPathsFromAssetBundleAndAssetName(${1:string assetBundleName}, ${2:string assetName})]]></content>
+	<tabTrigger><![CDATA[assetDatabase.GetAssetPathsFromAssetBundleAndAssetName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(assetBundleName, assetName)]]></description>
+</snippet>

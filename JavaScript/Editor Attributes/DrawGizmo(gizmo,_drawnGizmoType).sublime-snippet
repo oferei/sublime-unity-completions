@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawGizmo(${1:gizmo : GizmoType}, ${2:drawnGizmoType : iOS.ADBannerView.Type})]]></content>
+	<tabTrigger><![CDATA[DrawGizmo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gizmo, drawnGizmoType)]]></description>
+</snippet>

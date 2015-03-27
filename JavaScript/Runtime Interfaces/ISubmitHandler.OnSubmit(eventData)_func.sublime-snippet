@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISubmitHandler.OnSubmit(${1:eventData : EventSystems.BaseEventData})]]></content>
+	<tabTrigger><![CDATA[OnSubmit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ISubmitHandler.*(eventData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.SetStateEffectiveMotion(${1:Animations.AnimatorState state}, ${2:Motion motion})]]></content>
+	<tabTrigger><![CDATA[animatorController.SetStateEffectiveMotion]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(state, motion)]]></description>
+</snippet>

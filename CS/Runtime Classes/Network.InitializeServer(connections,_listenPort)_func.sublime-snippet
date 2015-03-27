@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.InitializeServer(${1:int connections}, ${2:int listenPort})]]></content>
+	<tabTrigger><![CDATA[InitializeServer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Network.*(connections, listenPort)]]></description>
+</snippet>

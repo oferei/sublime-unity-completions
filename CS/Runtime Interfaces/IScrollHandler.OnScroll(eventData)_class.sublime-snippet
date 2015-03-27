@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IScrollHandler.OnScroll(${1:EventSystems.PointerEventData eventData})]]></content>
+	<tabTrigger><![CDATA[IScrollHandler.OnScroll]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

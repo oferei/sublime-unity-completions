@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.CreateAnimatorControllerAtPath(${1:path : string})]]></content>
+	<tabTrigger><![CDATA[animatorController.CreateAnimatorControllerAtPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

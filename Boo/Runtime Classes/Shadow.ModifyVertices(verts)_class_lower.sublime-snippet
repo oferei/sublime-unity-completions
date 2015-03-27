@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shadow.ModifyVertices(${1:verts as List<UIVertex>})]]></content>
+	<tabTrigger><![CDATA[shadow.ModifyVertices]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(verts)]]></description>
+</snippet>

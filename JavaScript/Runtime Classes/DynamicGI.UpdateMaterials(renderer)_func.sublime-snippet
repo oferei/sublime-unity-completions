@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicGI.UpdateMaterials(${1:renderer : Renderer})]]></content>
+	<tabTrigger><![CDATA[UpdateMaterials]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DynamicGI.*(renderer)]]></description>
+</snippet>

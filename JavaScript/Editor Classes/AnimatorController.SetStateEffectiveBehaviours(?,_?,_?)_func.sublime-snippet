@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.SetStateEffectiveBehaviours(${1:? : AnimatorState}, ${2:? : int}, ${3:? : StateMachineBehaviourInfo[]})]]></content>
+	<tabTrigger><![CDATA[SetStateEffectiveBehaviours]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(?, ?, ?)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:mesh : Mesh}, ${2:matrix : Matrix4x4}, ${3:material : Material}, ${4:layer : int}, ${5:camera : Camera = null}, ${6:submeshIndex : int = 0}, ${7:properties : MaterialPropertyBlock = null})]]></content>
-	<tabTrigger><![CDATA[Graphics.DrawMesh]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(mesh, matrix, material, layer, camera, submeshIndex, properties)]]></description>
-</snippet>

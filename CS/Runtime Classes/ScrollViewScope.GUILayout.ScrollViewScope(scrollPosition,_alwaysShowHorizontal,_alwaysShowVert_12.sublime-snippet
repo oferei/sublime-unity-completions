@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollViewScope.GUILayout.ScrollViewScope(${1:Vector2 scrollPosition}, ${2:bool alwaysShowHorizontal}, ${3:bool alwaysShowVertical}, ${4:GUIStyle horizontalScrollbar}, ${5:GUIStyle verticalScrollbar}, ${6:GUIStyle background}, ${7:GUILayoutOption[] params options})]]></content>
+	<tabTrigger><![CDATA[gUILayout.ScrollViewScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScrollViewScope.*(scrollPosition, alwaysShowHorizontal, alwaysShowVertical, horizontalScrollbar, verticalScrollbar, background, params options)]]></description>
+</snippet>

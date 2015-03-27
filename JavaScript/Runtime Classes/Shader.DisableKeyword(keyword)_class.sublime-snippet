@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.DisableKeyword(${1:keyword : string})]]></content>
+	<tabTrigger><![CDATA[Shader.DisableKeyword]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(keyword)]]></description>
+</snippet>

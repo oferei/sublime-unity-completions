@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.AddMotion(${1:motion as Motion})]]></content>
+	<tabTrigger><![CDATA[animatorController.AddMotion]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(motion)]]></description>
+</snippet>

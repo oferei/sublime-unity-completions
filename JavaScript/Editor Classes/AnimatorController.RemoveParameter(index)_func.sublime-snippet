@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.RemoveParameter(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[RemoveParameter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(index)]]></description>
+</snippet>

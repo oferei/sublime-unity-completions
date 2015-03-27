@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Asset.IsState(${1:state as States})]]></content>
+	<content><![CDATA[Asset.IsState(${1:state as VersionControl.Asset.States})]]></content>
 	<tabTrigger><![CDATA[asset.IsState]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(state)]]></description>

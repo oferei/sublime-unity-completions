@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.PrefabInstanceUpdated(${1:GameObject instance})]]></content>
+	<tabTrigger><![CDATA[PrefabInstanceUpdated]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(instance)]]></description>
+</snippet>

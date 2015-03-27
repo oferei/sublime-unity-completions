@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.CreateOrUpdateSecondary(${1:data as SecondaryTileData}, ${2:pos as Vector2})]]></content>
+	<content><![CDATA[Tile.CreateOrUpdateSecondary(${1:data as WSA.SecondaryTileData}, ${2:pos as Vector2})]]></content>
 	<tabTrigger><![CDATA[createOrUpdateSecondary]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Tile.*(data, pos)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawWireMesh(${1:Mesh mesh}, ${2:Vector3 position = Vector3.zero}, ${3:Quaternion rotation = Quaternion.identity}, ${4:Vector3 scale = Vector3.one})]]></content>
+	<tabTrigger><![CDATA[gizmos.DrawWireMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh, position, rotation, scale)]]></description>
+</snippet>

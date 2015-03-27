@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.RemoveCommandBuffer(${1:evt as Rendering.CameraEvent}, ${2:buffer as Rendering.CommandBuffer})]]></content>
+	<tabTrigger><![CDATA[Camera.RemoveCommandBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(evt, buffer)]]></description>
+</snippet>

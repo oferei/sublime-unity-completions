@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorTransitionBase.RemoveCondition(${1:condition as Animations.AnimatorCondition})]]></content>
+	<tabTrigger><![CDATA[AnimatorTransitionBase.RemoveCondition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(condition)]]></description>
+</snippet>

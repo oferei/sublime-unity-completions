@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Bounds.IntersectRay(${1:ray as Ray}, ${2:distance as single})]]></content>
-	<tabTrigger><![CDATA[bounds.IntersectRay]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(ray, distance)]]></description>
-</snippet>

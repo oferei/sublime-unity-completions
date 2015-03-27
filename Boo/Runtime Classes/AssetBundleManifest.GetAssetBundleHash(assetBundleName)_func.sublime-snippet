@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundleManifest.GetAssetBundleHash(${1:assetBundleName as string})]]></content>
+	<tabTrigger><![CDATA[GetAssetBundleHash]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetBundleManifest.*(assetBundleName)]]></description>
+</snippet>

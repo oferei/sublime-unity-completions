@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomPreviewAttribute(${1:Type type})]]></content>
+	<content><![CDATA[CustomPreviewAttribute(${1:iOS.ADBannerView.Type type})]]></content>
 	<tabTrigger><![CDATA[customPreviewAttribute]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(type)]]></description>

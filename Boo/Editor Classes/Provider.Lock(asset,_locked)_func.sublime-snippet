@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Lock(${1:asset as Asset}, ${2:locked as bool})]]></content>
+	<content><![CDATA[Provider.Lock(${1:asset as VersionControl.Asset}, ${2:locked as bool})]]></content>
 	<tabTrigger><![CDATA[Lock]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Provider.*(asset, locked)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicGI.SetEmissive(${1:? as Renderer}, ${2:? as Color}, ${3:? as int})]]></content>
+	<tabTrigger><![CDATA[setEmissive]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DynamicGI.*(?, ?, ?)]]></description>
+</snippet>

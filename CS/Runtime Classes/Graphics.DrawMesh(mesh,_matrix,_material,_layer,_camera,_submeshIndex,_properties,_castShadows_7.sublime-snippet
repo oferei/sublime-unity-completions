@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Matrix4x4 matrix}, ${3:Material material}, ${4:int layer}, ${5:Camera camera}, ${6:int submeshIndex}, ${7:MaterialPropertyBlock properties}, ${8:Rendering.ShadowCastingMode castShadows}, ${9:bool receiveShadows = true})]]></content>
+	<tabTrigger><![CDATA[DrawMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphics.*(mesh, matrix, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows)]]></description>
+</snippet>

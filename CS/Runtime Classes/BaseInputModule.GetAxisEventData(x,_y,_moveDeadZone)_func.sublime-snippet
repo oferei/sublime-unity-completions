@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInputModule.GetAxisEventData(${1:float x}, ${2:float y}, ${3:float moveDeadZone})]]></content>
+	<tabTrigger><![CDATA[GetAxisEventData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[BaseInputModule.*(x, y, moveDeadZone)]]></description>
+</snippet>

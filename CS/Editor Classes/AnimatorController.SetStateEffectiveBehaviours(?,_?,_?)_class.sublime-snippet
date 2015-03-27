@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.SetStateEffectiveBehaviours(${1:AnimatorState ?}, ${2:int ?}, ${3:StateMachineBehaviourInfo[] ?})]]></content>
+	<tabTrigger><![CDATA[AnimatorController.SetStateEffectiveBehaviours]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(?, ?, ?)]]></description>
+</snippet>

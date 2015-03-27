@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEvent.AddListener(${1:call as UnityAction})]]></content>
+	<content><![CDATA[UnityEvent.AddListener(${1:call as Events.UnityAction})]]></content>
 	<tabTrigger><![CDATA[AddListener]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[UnityEvent.*(call)]]></description>

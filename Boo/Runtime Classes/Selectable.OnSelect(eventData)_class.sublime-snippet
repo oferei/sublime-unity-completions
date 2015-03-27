@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Selectable.OnSelect(${1:eventData as BaseEventData})]]></content>
+	<content><![CDATA[Selectable.OnSelect(${1:eventData as EventSystems.BaseEventData})]]></content>
 	<tabTrigger><![CDATA[Selectable.OnSelect]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(eventData)]]></description>

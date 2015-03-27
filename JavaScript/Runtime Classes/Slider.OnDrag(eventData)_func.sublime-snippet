@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Slider.OnDrag(${1:eventData : PointerEventData})]]></content>
+	<content><![CDATA[Slider.OnDrag(${1:eventData : EventSystems.PointerEventData})]]></content>
 	<tabTrigger><![CDATA[OnDrag]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Slider.*(eventData)]]></description>

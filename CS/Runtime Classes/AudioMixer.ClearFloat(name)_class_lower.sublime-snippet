@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioMixer.ClearFloat(${1:string name})]]></content>
+	<tabTrigger><![CDATA[audioMixer.ClearFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

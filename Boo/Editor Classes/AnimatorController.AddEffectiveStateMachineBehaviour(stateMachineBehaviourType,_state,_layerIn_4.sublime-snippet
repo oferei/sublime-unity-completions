@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.AddEffectiveStateMachineBehaviour(${1:stateMachineBehaviourType as iOS.ADBannerView.Type}, ${2:state as Animations.AnimatorState}, ${3:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[addEffectiveStateMachineBehaviour]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorController.*(stateMachineBehaviourType, state, layerIndex)]]></description>
+</snippet>

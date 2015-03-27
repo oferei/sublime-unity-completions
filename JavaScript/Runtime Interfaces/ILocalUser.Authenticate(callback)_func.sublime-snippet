@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILocalUser.Authenticate(${1:callback : Action<bool>})]]></content>
+	<tabTrigger><![CDATA[Authenticate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ILocalUser.*(callback)]]></description>
+</snippet>

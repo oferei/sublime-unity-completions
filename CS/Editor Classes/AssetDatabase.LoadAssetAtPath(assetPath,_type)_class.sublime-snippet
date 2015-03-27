@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetDatabase.LoadAssetAtPath(${1:string assetPath}, ${2:Type type})]]></content>
+	<content><![CDATA[AssetDatabase.LoadAssetAtPath(${1:string assetPath}, ${2:iOS.ADBannerView.Type type})]]></content>
 	<tabTrigger><![CDATA[AssetDatabase.LoadAssetAtPath]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(assetPath, type)]]></description>

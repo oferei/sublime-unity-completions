@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseAnimValue<T0>.BeginAnimating(${1:newTarget : T}, ${2:newStart : T})]]></content>
+	<tabTrigger><![CDATA[beginAnimating]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BaseAnimValue<T0>.*(newTarget, newStart)]]></description>
+</snippet>

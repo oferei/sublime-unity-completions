@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransform.SetInsetAndSizeFromParentEdge(${1:edge as Edge}, ${2:inset as single}, ${3:size as single})]]></content>
+	<content><![CDATA[RectTransform.SetInsetAndSizeFromParentEdge(${1:edge as RectTransform.Edge}, ${2:inset as single}, ${3:size as single})]]></content>
 	<tabTrigger><![CDATA[rectTransform.SetInsetAndSizeFromParentEdge]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(edge, inset, size)]]></description>

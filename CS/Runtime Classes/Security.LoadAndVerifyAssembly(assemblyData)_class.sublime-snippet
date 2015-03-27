@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Security.LoadAndVerifyAssembly(${1:byte[] assemblyData})]]></content>
+	<tabTrigger><![CDATA[Security.LoadAndVerifyAssembly]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(assemblyData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AreaScope.GUILayout.AreaScope(${1:Rect screenRect}, ${2:string text}, ${3:GUIStyle style})]]></content>
+	<tabTrigger><![CDATA[gUILayout.AreaScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AreaScope.*(screenRect, text, style)]]></description>
+</snippet>

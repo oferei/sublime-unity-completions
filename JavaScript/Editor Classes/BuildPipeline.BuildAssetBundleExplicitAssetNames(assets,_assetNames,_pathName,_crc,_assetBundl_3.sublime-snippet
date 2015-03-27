@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BuildPipeline.BuildAssetBundleExplicitAssetNames(${1:assets : Object[]}, ${2:assetNames : string[]}, ${3:pathName : string}, ${4:crc : uint}, ${5:assetBundleOptions : BuildAssetBundleOptions = BuildAssetBundleOptions.CollectDependencies | BuildAssetBundleOptions.CompleteAssets}, ${6:targetPlatform : BuildTarget = BuildTarget.WebPlayer})]]></content>
-	<tabTrigger><![CDATA[BuildAssetBundleExplicitAssetNames]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[BuildPipeline.*(assets, assetNames, pathName, crc, assetBundleOptions, targetPlatform)]]></description>
-</snippet>

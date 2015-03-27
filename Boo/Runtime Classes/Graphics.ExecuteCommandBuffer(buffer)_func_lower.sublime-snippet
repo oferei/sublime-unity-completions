@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.ExecuteCommandBuffer(${1:buffer as Rendering.CommandBuffer})]]></content>
+	<tabTrigger><![CDATA[executeCommandBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Graphics.*(buffer)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SetTreeInstance(${1:index as int}, ${2:instance as TreeInstance})]]></content>
+	<tabTrigger><![CDATA[TerrainData.SetTreeInstance]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index, instance)]]></description>
+</snippet>

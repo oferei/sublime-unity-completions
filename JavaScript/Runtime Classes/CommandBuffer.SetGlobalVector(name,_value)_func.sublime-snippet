@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalVector(${1:name : string}, ${2:value : Vector4})]]></content>
+	<tabTrigger><![CDATA[SetGlobalVector]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(name, value)]]></description>
+</snippet>

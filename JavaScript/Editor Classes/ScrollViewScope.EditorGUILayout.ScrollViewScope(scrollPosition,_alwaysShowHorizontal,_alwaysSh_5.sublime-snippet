@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollViewScope.EditorGUILayout.ScrollViewScope(${1:scrollPosition : Vector2}, ${2:alwaysShowHorizontal : bool}, ${3:alwaysShowVertical : bool}, ${4:horizontalScrollbar : GUIStyle}, ${5:verticalScrollbar : GUIStyle}, ${6:background : GUIStyle}, ${7:params options : GUILayoutOption[]})]]></content>
+	<tabTrigger><![CDATA[ScrollViewScope.EditorGUILayout.ScrollViewScope]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scrollPosition, alwaysShowHorizontal, alwaysShowVertical, horizontalScrollbar, verticalScrollbar, background, params options)]]></description>
+</snippet>

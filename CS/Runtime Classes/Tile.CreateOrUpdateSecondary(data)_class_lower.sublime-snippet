@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.CreateOrUpdateSecondary(${1:SecondaryTileData data})]]></content>
+	<content><![CDATA[Tile.CreateOrUpdateSecondary(${1:WSA.SecondaryTileData data})]]></content>
 	<tabTrigger><![CDATA[tile.CreateOrUpdateSecondary]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(data)]]></description>

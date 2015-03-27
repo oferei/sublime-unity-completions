@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.HelpBoxWithButton(${1:messageContent : GUIContent}, ${2:buttonContent : GUIContent})]]></content>
+	<tabTrigger><![CDATA[helpBoxWithButton]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialEditor.*(messageContent, buttonContent)]]></description>
+</snippet>

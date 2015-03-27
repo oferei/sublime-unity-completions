@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Device.ResetNoBackupFlag(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[Device.ResetNoBackupFlag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

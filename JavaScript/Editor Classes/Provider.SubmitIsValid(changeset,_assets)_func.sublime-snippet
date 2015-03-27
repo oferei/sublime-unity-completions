@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.SubmitIsValid(${1:changeset : ChangeSet}, ${2:assets : AssetList})]]></content>
+	<content><![CDATA[Provider.SubmitIsValid(${1:changeset : VersionControl.ChangeSet}, ${2:assets : VersionControl.AssetList})]]></content>
 	<tabTrigger><![CDATA[SubmitIsValid]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(changeset, assets)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GroupScope.GUI.GroupScope(${1:position : Rect}, ${2:text : string})]]></content>
+	<tabTrigger><![CDATA[GUI.GroupScope]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GroupScope.*(position, text)]]></description>
+</snippet>

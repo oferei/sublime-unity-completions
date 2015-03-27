@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Resolve(${1:assets as AssetList}, ${2:resolveMethod as ResolveMethod})]]></content>
+	<content><![CDATA[Provider.Resolve(${1:assets as VersionControl.AssetList}, ${2:resolveMethod as VersionControl.ResolveMethod})]]></content>
 	<tabTrigger><![CDATA[provider.Resolve]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(assets, resolveMethod)]]></description>

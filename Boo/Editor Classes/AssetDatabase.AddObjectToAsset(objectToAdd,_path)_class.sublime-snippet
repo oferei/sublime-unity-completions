@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.AddObjectToAsset(${1:objectToAdd as Object}, ${2:path as string})]]></content>
+	<tabTrigger><![CDATA[AssetDatabase.AddObjectToAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(objectToAdd, path)]]></description>
+</snippet>

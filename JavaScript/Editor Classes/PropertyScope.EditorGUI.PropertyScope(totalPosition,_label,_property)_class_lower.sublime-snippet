@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyScope.EditorGUI.PropertyScope(${1:totalPosition : Rect}, ${2:label : GUIContent}, ${3:property : SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[propertyScope.EditorGUI.PropertyScope]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(totalPosition, label, property)]]></description>
+</snippet>

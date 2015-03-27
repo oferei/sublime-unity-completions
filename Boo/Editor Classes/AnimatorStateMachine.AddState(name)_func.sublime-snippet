@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateMachine.AddState(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[AddState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorStateMachine.*(name)]]></description>
+</snippet>

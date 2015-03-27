@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameObjectUtility.GetNavMeshLayer(${1:GameObject go})]]></content>
-	<tabTrigger><![CDATA[GameObjectUtility.GetNavMeshLayer]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(go)]]></description>
-</snippet>

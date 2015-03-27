@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimVector3(${1:value as Vector3}, ${2:callback as UnityAction})]]></content>
+	<content><![CDATA[AnimVector3(${1:value as Vector3}, ${2:callback as Events.UnityAction})]]></content>
 	<tabTrigger><![CDATA[animVector3]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(value, callback)]]></description>

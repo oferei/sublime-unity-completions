@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioMixer.FindMatchingGroups(${1:string subPath})]]></content>
+	<tabTrigger><![CDATA[findMatchingGroups]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AudioMixer.*(subPath)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticlePhysicsExtensions.GetCollisionEvents(${1:ParticleSystem ps}, ${2:GameObject go}, ${3:ParticleCollisionEvent[] collisionEvents})]]></content>
+	<tabTrigger><![CDATA[GetCollisionEvents]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ParticlePhysicsExtensions.*(ps, go, collisionEvents)]]></description>
+</snippet>

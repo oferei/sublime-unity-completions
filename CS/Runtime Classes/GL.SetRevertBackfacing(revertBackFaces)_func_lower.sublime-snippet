@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GL.SetRevertBackfacing(${1:bool revertBackFaces})]]></content>
-	<tabTrigger><![CDATA[setRevertBackfacing]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GL.*(revertBackFaces)]]></description>
-</snippet>

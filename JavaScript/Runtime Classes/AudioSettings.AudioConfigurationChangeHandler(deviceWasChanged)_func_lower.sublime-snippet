@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSettings.AudioConfigurationChangeHandler(${1:deviceWasChanged : bool})]]></content>
+	<tabTrigger><![CDATA[audioConfigurationChangeHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AudioSettings.*(deviceWasChanged)]]></description>
+</snippet>

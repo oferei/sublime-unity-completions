@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequireComponent(${1:Type requiredComponent}, ${2:Type requiredComponent2}, ${3:Type requiredComponent3})]]></content>
-	<tabTrigger><![CDATA[RequireComponent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(requiredComponent, requiredComponent2, requiredComponent3)]]></description>
-</snippet>

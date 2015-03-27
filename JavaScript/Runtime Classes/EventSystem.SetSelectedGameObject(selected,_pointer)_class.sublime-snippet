@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EventSystem.SetSelectedGameObject(${1:selected : GameObject}, ${2:pointer : BaseEventData})]]></content>
+	<content><![CDATA[EventSystem.SetSelectedGameObject(${1:selected : GameObject}, ${2:pointer : EventSystems.BaseEventData})]]></content>
 	<tabTrigger><![CDATA[EventSystem.SetSelectedGameObject]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(selected, pointer)]]></description>

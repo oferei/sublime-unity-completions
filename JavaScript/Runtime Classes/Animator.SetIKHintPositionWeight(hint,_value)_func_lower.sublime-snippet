@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetIKHintPositionWeight(${1:hint : AvatarIKHint}, ${2:value : float})]]></content>
+	<tabTrigger><![CDATA[setIKHintPositionWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(hint, value)]]></description>
+</snippet>

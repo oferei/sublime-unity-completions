@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetTotalPreferredSize(${1:axis : int})]]></content>
+	<tabTrigger><![CDATA[getTotalPreferredSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LayoutGroup.*(axis)]]></description>
+</snippet>

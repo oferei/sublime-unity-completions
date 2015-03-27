@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BaseRaycaster.Raycast(${1:PointerEventData eventData}, ${2:List<RaycastResult> resultAppendList})]]></content>
+	<content><![CDATA[BaseRaycaster.Raycast(${1:EventSystems.PointerEventData eventData}, ${2:List<RaycastResult> resultAppendList})]]></content>
 	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[BaseRaycaster.*(eventData, resultAppendList)]]></description>

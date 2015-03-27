@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.ClearRenderTarget(${1:bool clearDepth}, ${2:bool clearColor}, ${3:Color backgroundColor}, ${4:float depth = 1.0f})]]></content>
+	<tabTrigger><![CDATA[ClearRenderTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(clearDepth, clearColor, backgroundColor, depth)]]></description>
+</snippet>

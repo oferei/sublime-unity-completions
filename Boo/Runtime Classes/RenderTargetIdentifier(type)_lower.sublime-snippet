@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetIdentifier(${1:type as Rendering.BuiltinRenderTextureType})]]></content>
+	<tabTrigger><![CDATA[renderTargetIdentifier]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

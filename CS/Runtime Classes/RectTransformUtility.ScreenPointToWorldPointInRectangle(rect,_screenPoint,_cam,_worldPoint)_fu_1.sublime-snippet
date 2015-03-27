@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RectTransformUtility.ScreenPointToWorldPointInRectangle(${1:RectTransform rect}, ${2:Vector2 screenPoint}, ${3:Camera cam}, ${4:Vector3 worldPoint})]]></content>
-	<tabTrigger><![CDATA[ScreenPointToWorldPointInRectangle]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[RectTransformUtility.*(rect, screenPoint, cam, worldPoint)]]></description>
-</snippet>

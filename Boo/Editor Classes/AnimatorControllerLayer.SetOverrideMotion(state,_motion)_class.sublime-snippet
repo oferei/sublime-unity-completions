@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerLayer.SetOverrideMotion(${1:state as Animations.AnimatorState}, ${2:motion as Motion})]]></content>
+	<tabTrigger><![CDATA[AnimatorControllerLayer.SetOverrideMotion]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(state, motion)]]></description>
+</snippet>

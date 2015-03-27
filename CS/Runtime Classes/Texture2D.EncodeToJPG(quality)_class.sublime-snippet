@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.EncodeToJPG(${1:int quality})]]></content>
+	<tabTrigger><![CDATA[Texture2D.EncodeToJPG]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(quality)]]></description>
+</snippet>

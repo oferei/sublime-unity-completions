@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSettings.AudioConfigurationChangeHandler(${1:deviceWasChanged as bool})]]></content>
+	<tabTrigger><![CDATA[AudioSettings.AudioConfigurationChangeHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(deviceWasChanged)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SphericalHarmonicsL2.AddDirectionalLight(${1:direction : Vector3}, ${2:color : Color}, ${3:intensity : float})]]></content>
+	<tabTrigger><![CDATA[sphericalHarmonicsL2.AddDirectionalLight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(direction, color, intensity)]]></description>
+</snippet>

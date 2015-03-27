@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.CreateAnimatorControllerAtPathWithClip(${1:path as string}, ${2:clip as AnimationClip})]]></content>
+	<tabTrigger><![CDATA[AnimatorController.CreateAnimatorControllerAtPathWithClip]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path, clip)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarMask.SetTransformPath(${1:index as int}, ${2:path as string})]]></content>
+	<tabTrigger><![CDATA[AvatarMask.SetTransformPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index, path)]]></description>
+</snippet>

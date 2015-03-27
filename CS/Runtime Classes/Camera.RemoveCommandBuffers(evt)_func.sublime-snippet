@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.RemoveCommandBuffers(${1:Rendering.CameraEvent evt})]]></content>
+	<tabTrigger><![CDATA[RemoveCommandBuffers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Camera.*(evt)]]></description>
+</snippet>

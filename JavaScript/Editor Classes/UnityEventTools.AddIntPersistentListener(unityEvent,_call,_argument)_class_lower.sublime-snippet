@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityEventTools.AddIntPersistentListener(${1:unityEvent : UnityEventBase}, ${2:call : UnityAction<int>}, ${3:argument : int})]]></content>
+	<content><![CDATA[UnityEventTools.AddIntPersistentListener(${1:unityEvent : Events.UnityEventBase}, ${2:call : UnityAction<int>}, ${3:argument : int})]]></content>
 	<tabTrigger><![CDATA[unityEventTools.AddIntPersistentListener]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(unityEvent, call, argument)]]></description>

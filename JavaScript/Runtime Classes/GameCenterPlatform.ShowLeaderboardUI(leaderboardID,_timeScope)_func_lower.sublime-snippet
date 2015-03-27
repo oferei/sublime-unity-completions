@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GameCenterPlatform.ShowLeaderboardUI(${1:leaderboardID : string}, ${2:timeScope : TimeScope})]]></content>
+	<content><![CDATA[GameCenterPlatform.ShowLeaderboardUI(${1:leaderboardID : string}, ${2:timeScope : SocialPlatforms.TimeScope})]]></content>
 	<tabTrigger><![CDATA[showLeaderboardUI]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GameCenterPlatform.*(leaderboardID, timeScope)]]></description>

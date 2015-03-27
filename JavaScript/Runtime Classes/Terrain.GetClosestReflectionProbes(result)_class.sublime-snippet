@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Terrain.GetClosestReflectionProbes(${1:result : List<ReflectionProbeBlendInfo>})]]></content>
+	<tabTrigger><![CDATA[Terrain.GetClosestReflectionProbes]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(result)]]></description>
+</snippet>

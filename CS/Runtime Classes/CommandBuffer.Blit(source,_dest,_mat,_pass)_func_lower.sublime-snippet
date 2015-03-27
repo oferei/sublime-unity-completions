@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.Blit(${1:Rendering.RenderTargetIdentifier source}, ${2:Rendering.RenderTargetIdentifier dest}, ${3:Material mat}, ${4:int pass})]]></content>
+	<tabTrigger><![CDATA[blit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(source, dest, mat, pass)]]></description>
+</snippet>

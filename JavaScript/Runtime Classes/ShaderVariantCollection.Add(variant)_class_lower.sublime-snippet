@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderVariantCollection.Add(${1:variant : ShaderVariantCollection.ShaderVariant})]]></content>
+	<tabTrigger><![CDATA[shaderVariantCollection.Add]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(variant)]]></description>
+</snippet>

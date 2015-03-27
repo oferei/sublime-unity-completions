@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Gizmos.DrawMesh(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:position : Vector3 = Vector3.zero}, ${4:rotation : Quaternion = Quaternion.identity}, ${5:scale : Vector3 = Vector3.one})]]></content>
+	<tabTrigger><![CDATA[Gizmos.DrawMesh]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(mesh, submeshIndex, position, rotation, scale)]]></description>
+</snippet>

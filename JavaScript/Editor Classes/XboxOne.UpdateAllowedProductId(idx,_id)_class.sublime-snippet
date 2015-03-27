@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XboxOne.UpdateAllowedProductId(${1:idx : int}, ${2:id : string})]]></content>
+	<tabTrigger><![CDATA[XboxOne.UpdateAllowedProductId]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(idx, id)]]></description>
+</snippet>

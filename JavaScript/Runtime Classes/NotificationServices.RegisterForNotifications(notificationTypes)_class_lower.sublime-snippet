@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NotificationServices.RegisterForNotifications(${1:notificationTypes : iOS.NotificationType})]]></content>
+	<tabTrigger><![CDATA[notificationServices.RegisterForNotifications]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(notificationTypes)]]></description>
+</snippet>

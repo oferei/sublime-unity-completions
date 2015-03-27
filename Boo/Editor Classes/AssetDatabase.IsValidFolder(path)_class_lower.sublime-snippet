@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsValidFolder(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase.IsValidFolder]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

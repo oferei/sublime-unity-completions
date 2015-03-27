@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.ModalWindow(${1:int id}, ${2:Rect clientRect}, ${3:WindowFunction func}, ${4:Texture image})]]></content>
+	<content><![CDATA[GUI.ModalWindow(${1:int id}, ${2:Rect clientRect}, ${3:GUI.WindowFunction func}, ${4:Texture image})]]></content>
 	<tabTrigger><![CDATA[ModalWindow]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUI.*(id, clientRect, func, image)]]></description>

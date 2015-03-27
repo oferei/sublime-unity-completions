@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TextureProperty(${1:position as Rect}, ${2:prop as MaterialProperty}, ${3:label as string}, ${4:tooltip as string}, ${5:scaleOffset as bool})]]></content>
+	<tabTrigger><![CDATA[TextureProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(position, prop, label, tooltip, scaleOffset)]]></description>
+</snippet>

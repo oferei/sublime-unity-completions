@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Delete(${1:AssetList assets})]]></content>
+	<content><![CDATA[Provider.Delete(${1:VersionControl.AssetList assets})]]></content>
 	<tabTrigger><![CDATA[provider.Delete]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(assets)]]></description>

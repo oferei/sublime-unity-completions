@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetPreview.GetMiniTypeThumbnail(${1:type as Type})]]></content>
+	<content><![CDATA[AssetPreview.GetMiniTypeThumbnail(${1:type as iOS.ADBannerView.Type})]]></content>
 	<tabTrigger><![CDATA[assetPreview.GetMiniTypeThumbnail]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(type)]]></description>

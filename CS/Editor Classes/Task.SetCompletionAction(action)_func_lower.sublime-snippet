@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Task.SetCompletionAction(${1:CompletionAction action})]]></content>
+	<content><![CDATA[Task.SetCompletionAction(${1:VersionControl.CompletionAction action})]]></content>
 	<tabTrigger><![CDATA[setCompletionAction]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Task.*(action)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalFloat(${1:int nameID}, ${2:float value})]]></content>
+	<tabTrigger><![CDATA[setGlobalFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(nameID, value)]]></description>
+</snippet>

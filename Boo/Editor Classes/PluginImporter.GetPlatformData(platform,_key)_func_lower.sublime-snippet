@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.GetPlatformData(${1:platform as BuildTarget}, ${2:key as string})]]></content>
+	<tabTrigger><![CDATA[getPlatformData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PluginImporter.*(platform, key)]]></description>
+</snippet>

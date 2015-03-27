@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.SetLayoutInputForAxis(${1:totalMin as single}, ${2:totalPreferred as single}, ${3:totalFlexible as single}, ${4:axis as int})]]></content>
+	<tabTrigger><![CDATA[setLayoutInputForAxis]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LayoutGroup.*(totalMin, totalPreferred, totalFlexible, axis)]]></description>
+</snippet>

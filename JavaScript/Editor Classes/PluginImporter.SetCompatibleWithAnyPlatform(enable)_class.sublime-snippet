@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.SetCompatibleWithAnyPlatform(${1:enable : bool})]]></content>
+	<tabTrigger><![CDATA[PluginImporter.SetCompatibleWithAnyPlatform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(enable)]]></description>
+</snippet>

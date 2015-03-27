@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tile.GetTemplate(${1:TileTemplate templ})]]></content>
+	<content><![CDATA[Tile.GetTemplate(${1:WSA.TileTemplate templ})]]></content>
 	<tabTrigger><![CDATA[GetTemplate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Tile.*(templ)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.SetAreaCost(${1:areaIndex : int}, ${2:cost : float})]]></content>
+	<tabTrigger><![CDATA[setAreaCost]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMesh.*(areaIndex, cost)]]></description>
+</snippet>

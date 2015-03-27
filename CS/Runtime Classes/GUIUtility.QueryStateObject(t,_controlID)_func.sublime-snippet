@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIUtility.QueryStateObject(${1:Type t}, ${2:int controlID})]]></content>
+	<content><![CDATA[GUIUtility.QueryStateObject(${1:iOS.ADBannerView.Type t}, ${2:int controlID})]]></content>
 	<tabTrigger><![CDATA[QueryStateObject]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[GUIUtility.*(t, controlID)]]></description>

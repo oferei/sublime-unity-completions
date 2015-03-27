@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseAnimValue<T0>.BeginAnimating(${1:newTarget as T}, ${2:newStart as T})]]></content>
+	<tabTrigger><![CDATA[baseAnimValue<T0>.BeginAnimating]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(newTarget, newStart)]]></description>
+</snippet>

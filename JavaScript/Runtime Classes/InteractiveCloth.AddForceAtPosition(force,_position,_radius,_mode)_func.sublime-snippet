@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InteractiveCloth.AddForceAtPosition(${1:force : Vector3}, ${2:position : Vector3}, ${3:radius : float}, ${4:mode : ForceMode = ForceMode.Force})]]></content>
-	<tabTrigger><![CDATA[AddForceAtPosition]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[InteractiveCloth.*(force, position, radius, mode)]]></description>
-</snippet>

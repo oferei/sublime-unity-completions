@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IMaterialModifier.GetModifiedMaterial(${1:baseMaterial : Material})]]></content>
+	<tabTrigger><![CDATA[GetModifiedMaterial]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IMaterialModifier.*(baseMaterial)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetTotalMinSize(${1:axis : int})]]></content>
+	<tabTrigger><![CDATA[getTotalMinSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LayoutGroup.*(axis)]]></description>
+</snippet>

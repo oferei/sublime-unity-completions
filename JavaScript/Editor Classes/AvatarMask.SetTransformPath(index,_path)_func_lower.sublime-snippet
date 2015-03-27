@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarMask.SetTransformPath(${1:index : int}, ${2:path : string})]]></content>
+	<tabTrigger><![CDATA[setTransformPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AvatarMask.*(index, path)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.OverrideGeometry(${1:vertices : Vector2[]}, ${2:triangles : ushort[]})]]></content>
+	<tabTrigger><![CDATA[sprite.OverrideGeometry]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(vertices, triangles)]]></description>
+</snippet>

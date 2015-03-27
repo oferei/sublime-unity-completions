@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshAgent.FindClosestEdge(${1:NavMeshHit out hit})]]></content>
+	<tabTrigger><![CDATA[findClosestEdge]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshAgent.*(out hit)]]></description>
+</snippet>

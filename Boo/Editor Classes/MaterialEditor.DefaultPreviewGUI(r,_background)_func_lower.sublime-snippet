@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.DefaultPreviewGUI(${1:r as Rect}, ${2:background as GUIStyle})]]></content>
+	<tabTrigger><![CDATA[defaultPreviewGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(r, background)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioListener.GetSpectrumData(${1:float[] samples}, ${2:int channel}, ${3:FFTWindow window})]]></content>
-	<tabTrigger><![CDATA[getSpectrumData]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AudioListener.*(samples, channel, window)]]></description>
-</snippet>

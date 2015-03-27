@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DataUtility.GetSpriteUVs(${1:sprite as Sprite}, ${2:getAtlasData as bool})]]></content>
-	<tabTrigger><![CDATA[dataUtility.GetSpriteUVs]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(sprite, getAtlasData)]]></description>
-</snippet>

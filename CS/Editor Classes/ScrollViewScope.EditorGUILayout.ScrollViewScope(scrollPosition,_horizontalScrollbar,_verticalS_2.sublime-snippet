@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollViewScope.EditorGUILayout.ScrollViewScope(${1:Vector2 scrollPosition}, ${2:GUIStyle horizontalScrollbar}, ${3:GUIStyle verticalScrollbar}, ${4:GUILayoutOption[] params options})]]></content>
+	<tabTrigger><![CDATA[scrollViewScope.EditorGUILayout.ScrollViewScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(scrollPosition, horizontalScrollbar, verticalScrollbar, params options)]]></description>
+</snippet>

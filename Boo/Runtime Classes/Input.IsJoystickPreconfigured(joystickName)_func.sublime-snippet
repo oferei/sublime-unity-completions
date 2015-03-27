@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Input.IsJoystickPreconfigured(${1:joystickName as string})]]></content>
+	<tabTrigger><![CDATA[IsJoystickPreconfigured]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Input.*(joystickName)]]></description>
+</snippet>

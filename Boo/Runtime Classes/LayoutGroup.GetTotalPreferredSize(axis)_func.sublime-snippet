@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetTotalPreferredSize(${1:axis as int})]]></content>
+	<tabTrigger><![CDATA[GetTotalPreferredSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LayoutGroup.*(axis)]]></description>
+</snippet>

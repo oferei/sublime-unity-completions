@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ExecuteEvents.ExecuteHierarchy(${1:root as GameObject}, ${2:eventData as BaseEventData}, ${3:callbackFunction as EventFunction<T>})]]></content>
+	<content><![CDATA[ExecuteEvents.ExecuteHierarchy(${1:root as GameObject}, ${2:eventData as EventSystems.BaseEventData}, ${3:callbackFunction as EventFunction<T>})]]></content>
 	<tabTrigger><![CDATA[executeEvents.ExecuteHierarchy]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(root, eventData, callbackFunction)]]></description>

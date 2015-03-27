@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetBundle.LoadAsync(${1:name : string}, ${2:type : Type})]]></content>
-	<tabTrigger><![CDATA[loadAsync]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetBundle.*(name, type)]]></description>
-</snippet>

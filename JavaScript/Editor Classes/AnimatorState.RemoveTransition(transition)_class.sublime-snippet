@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorState.RemoveTransition(${1:transition : Animations.AnimatorStateTransition})]]></content>
+	<tabTrigger><![CDATA[AnimatorState.RemoveTransition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(transition)]]></description>
+</snippet>

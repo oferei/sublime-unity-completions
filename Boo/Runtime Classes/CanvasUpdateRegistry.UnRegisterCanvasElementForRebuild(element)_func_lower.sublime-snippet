@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CanvasUpdateRegistry.UnRegisterCanvasElementForRebuild(${1:element as ICanvasElement})]]></content>
+	<content><![CDATA[CanvasUpdateRegistry.UnRegisterCanvasElementForRebuild(${1:element as UI.ICanvasElement})]]></content>
 	<tabTrigger><![CDATA[unRegisterCanvasElementForRebuild]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[CanvasUpdateRegistry.*(element)]]></description>

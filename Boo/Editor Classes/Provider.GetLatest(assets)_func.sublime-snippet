@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.GetLatest(${1:assets as AssetList})]]></content>
+	<content><![CDATA[Provider.GetLatest(${1:assets as VersionControl.AssetList})]]></content>
 	<tabTrigger><![CDATA[GetLatest]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Provider.*(assets)]]></description>

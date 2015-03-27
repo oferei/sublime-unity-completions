@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.GetTexturePropertyCustomArea(${1:Rect position})]]></content>
+	<tabTrigger><![CDATA[getTexturePropertyCustomArea]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(position)]]></description>
+</snippet>

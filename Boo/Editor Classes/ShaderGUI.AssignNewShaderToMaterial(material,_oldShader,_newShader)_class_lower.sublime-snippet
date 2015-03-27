@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderGUI.AssignNewShaderToMaterial(${1:material as Material}, ${2:oldShader as Shader}, ${3:newShader as Shader})]]></content>
+	<tabTrigger><![CDATA[shaderGUI.AssignNewShaderToMaterial]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(material, oldShader, newShader)]]></description>
+</snippet>

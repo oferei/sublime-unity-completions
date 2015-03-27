@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.GetAreaFromName(${1:areaName : string})]]></content>
+	<tabTrigger><![CDATA[NavMesh.GetAreaFromName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(areaName)]]></description>
+</snippet>

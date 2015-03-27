@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.Blit(${1:Rendering.RenderTargetIdentifier source}, ${2:Rendering.RenderTargetIdentifier dest})]]></content>
+	<tabTrigger><![CDATA[Blit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(source, dest)]]></description>
+</snippet>

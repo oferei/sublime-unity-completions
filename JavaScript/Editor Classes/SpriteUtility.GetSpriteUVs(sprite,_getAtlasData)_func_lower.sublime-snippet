@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteUtility.GetSpriteUVs(${1:sprite : Sprite}, ${2:getAtlasData : bool})]]></content>
+	<tabTrigger><![CDATA[getSpriteUVs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SpriteUtility.*(sprite, getAtlasData)]]></description>
+</snippet>

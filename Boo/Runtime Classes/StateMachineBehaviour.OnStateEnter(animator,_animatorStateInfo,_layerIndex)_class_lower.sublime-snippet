@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StateMachineBehaviour.OnStateEnter(${1:animator as Animator}, ${2:animatorStateInfo as AnimatorStateInfo}, ${3:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[stateMachineBehaviour.OnStateEnter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(animator, animatorStateInfo, layerIndex)]]></description>
+</snippet>

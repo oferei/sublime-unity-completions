@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EventTrigger.OnCancel(${1:EventSystems.BaseEventData eventData})]]></content>
+	<tabTrigger><![CDATA[EventTrigger.OnCancel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

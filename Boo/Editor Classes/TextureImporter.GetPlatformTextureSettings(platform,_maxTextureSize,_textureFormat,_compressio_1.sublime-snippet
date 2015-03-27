@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TextureImporter.GetPlatformTextureSettings(${1:platform as string}, ${2:maxTextureSize as int}, ${3:textureFormat as TextureImporterFormat}, ${4:compressionQuality as int})]]></content>
-	<tabTrigger><![CDATA[TextureImporter.GetPlatformTextureSettings]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(platform, maxTextureSize, textureFormat, compressionQuality)]]></description>
-</snippet>

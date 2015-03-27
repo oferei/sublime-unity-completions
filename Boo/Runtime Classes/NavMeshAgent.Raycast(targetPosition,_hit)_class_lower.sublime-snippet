@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NavMeshAgent.Raycast(${1:targetPosition as Vector3}, ${2:hit as NavMeshHit})]]></content>
-	<tabTrigger><![CDATA[navMeshAgent.Raycast]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(targetPosition, hit)]]></description>
-</snippet>

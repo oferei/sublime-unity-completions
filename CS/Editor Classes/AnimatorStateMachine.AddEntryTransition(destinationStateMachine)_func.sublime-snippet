@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateMachine.AddEntryTransition(${1:Animations.AnimatorStateMachine destinationStateMachine})]]></content>
+	<tabTrigger><![CDATA[AddEntryTransition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimatorStateMachine.*(destinationStateMachine)]]></description>
+</snippet>

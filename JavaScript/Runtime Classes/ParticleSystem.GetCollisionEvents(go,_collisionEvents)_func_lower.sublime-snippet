@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ParticleSystem.GetCollisionEvents(${1:go : GameObject}, ${2:collisionEvents : CollisionEvent[]})]]></content>
-	<tabTrigger><![CDATA[getCollisionEvents]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ParticleSystem.*(go, collisionEvents)]]></description>
-</snippet>

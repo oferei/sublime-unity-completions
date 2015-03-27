@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.ChangeSetMove(${1:assets : AssetList}, ${2:changeset : ChangeSet})]]></content>
+	<content><![CDATA[Provider.ChangeSetMove(${1:assets : VersionControl.AssetList}, ${2:changeset : VersionControl.ChangeSet})]]></content>
 	<tabTrigger><![CDATA[changeSetMove]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Provider.*(assets, changeset)]]></description>

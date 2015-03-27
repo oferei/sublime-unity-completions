@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRenderTarget(${1:color : Rendering.RenderTargetIdentifier}, ${2:depth : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(color, depth)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GenericMenu.AddItem(${1:content as GUIContent}, ${2:on as bool}, ${3:func as MenuFunction2}, ${4:userData as object})]]></content>
+	<content><![CDATA[GenericMenu.AddItem(${1:content as GUIContent}, ${2:on as bool}, ${3:func as GenericMenu.MenuFunction2}, ${4:userData as object})]]></content>
 	<tabTrigger><![CDATA[addItem]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[GenericMenu.*(content, on, func, userData)]]></description>

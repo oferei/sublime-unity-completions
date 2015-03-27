@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.UnlockIsValid(${1:assets as AssetList})]]></content>
+	<content><![CDATA[Provider.UnlockIsValid(${1:assets as VersionControl.AssetList})]]></content>
 	<tabTrigger><![CDATA[unlockIsValid]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Provider.*(assets)]]></description>

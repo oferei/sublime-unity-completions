@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.MakeBezierPoints(${1:startPosition as Vector3}, ${2:endPosition as Vector3}, ${3:startTangent as Vector3}, ${4:endTangent as Vector3}, ${5:division as int})]]></content>
+	<tabTrigger><![CDATA[makeBezierPoints]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Handles.*(startPosition, endPosition, startTangent, endTangent, division)]]></description>
+</snippet>

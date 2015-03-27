@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalColor(${1:string name}, ${2:Color value})]]></content>
+	<tabTrigger><![CDATA[SetGlobalColor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(name, value)]]></description>
+</snippet>

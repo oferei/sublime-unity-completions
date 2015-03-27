@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Renderer.GetClosestReflectionProbes(${1:result : List<ReflectionProbeBlendInfo>})]]></content>
+	<tabTrigger><![CDATA[renderer.GetClosestReflectionProbes]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(result)]]></description>
+</snippet>

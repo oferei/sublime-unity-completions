@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.SetLayoutInputForAxis(${1:float totalMin}, ${2:float totalPreferred}, ${3:float totalFlexible}, ${4:int axis})]]></content>
+	<tabTrigger><![CDATA[SetLayoutInputForAxis]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[LayoutGroup.*(totalMin, totalPreferred, totalFlexible, axis)]]></description>
+</snippet>

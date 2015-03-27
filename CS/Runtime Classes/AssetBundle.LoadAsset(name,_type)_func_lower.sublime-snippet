@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundle.LoadAsset(${1:string name}, ${2:iOS.ADBannerView.Type type})]]></content>
+	<tabTrigger><![CDATA[loadAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetBundle.*(name, type)]]></description>
+</snippet>

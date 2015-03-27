@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InputField.Rebuild(${1:update : CanvasUpdate})]]></content>
+	<content><![CDATA[InputField.Rebuild(${1:update : UI.CanvasUpdate})]]></content>
 	<tabTrigger><![CDATA[rebuild]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[InputField.*(update)]]></description>

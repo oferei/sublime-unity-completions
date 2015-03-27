@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TexturePropertyTwoLines(${1:GUIContent label}, ${2:MaterialProperty textureProp}, ${3:MaterialProperty extraProperty1}, ${4:GUIContent label2}, ${5:MaterialProperty extraProperty2})]]></content>
+	<tabTrigger><![CDATA[MaterialEditor.TexturePropertyTwoLines]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(label, textureProp, extraProperty1, label2, extraProperty2)]]></description>
+</snippet>

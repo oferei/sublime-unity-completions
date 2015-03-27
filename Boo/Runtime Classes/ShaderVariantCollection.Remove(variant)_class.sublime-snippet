@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderVariantCollection.Remove(${1:variant as ShaderVariantCollection.ShaderVariant})]]></content>
+	<tabTrigger><![CDATA[ShaderVariantCollection.Remove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(variant)]]></description>
+</snippet>

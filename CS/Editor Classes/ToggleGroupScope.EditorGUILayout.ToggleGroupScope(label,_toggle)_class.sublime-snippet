@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ToggleGroupScope.EditorGUILayout.ToggleGroupScope(${1:GUIContent label}, ${2:bool toggle})]]></content>
+	<tabTrigger><![CDATA[ToggleGroupScope.EditorGUILayout.ToggleGroupScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(label, toggle)]]></description>
+</snippet>

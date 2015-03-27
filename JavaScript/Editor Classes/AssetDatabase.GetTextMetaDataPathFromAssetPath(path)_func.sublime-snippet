@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetDatabase.GetTextMetaDataPathFromAssetPath(${1:path : string})]]></content>
-	<tabTrigger><![CDATA[GetTextMetaDataPathFromAssetPath]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetDatabase.*(path)]]></description>
-</snippet>

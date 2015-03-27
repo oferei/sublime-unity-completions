@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetAnimatedObject(${1:root : GameObject}, ${2:binding : EditorCurveBinding})]]></content>
+	<tabTrigger><![CDATA[AnimationUtility.GetAnimatedObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(root, binding)]]></description>
+</snippet>

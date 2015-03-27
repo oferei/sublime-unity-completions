@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPreview.SetPreviewTextureCacheSize(${1:int size})]]></content>
+	<tabTrigger><![CDATA[AssetPreview.SetPreviewTextureCacheSize]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(size)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReflectionProbe.IsFinishedRendering(${1:renderId as int})]]></content>
+	<tabTrigger><![CDATA[ReflectionProbe.IsFinishedRendering]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(renderId)]]></description>
+</snippet>

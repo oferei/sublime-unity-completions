@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ObjectField(${1:label as string}, ${2:obj as Object}, ${3:objType as Type}, ${4:allowSceneObjects as bool}, ${5:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[objectField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUILayout.*(label, obj, objType, allowSceneObjects, params options)]]></description>
-</snippet>

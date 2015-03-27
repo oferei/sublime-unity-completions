@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.AddEffectiveStateMachineBehaviour.<${1:T}>(${2:state : Animations.AnimatorState}, ${3:layerIndex : int})]]></content>
+	<tabTrigger><![CDATA[AnimatorController.AddEffectiveStateMachineBehaviour]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.<T>(state, layerIndex)]]></description>
+</snippet>

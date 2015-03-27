@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Terrain.GetClosestReflectionProbes(${1:result as List<ReflectionProbeBlendInfo>})]]></content>
+	<tabTrigger><![CDATA[getClosestReflectionProbes]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Terrain.*(result)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Revert(${1:asset as Asset}, ${2:mode as RevertMode})]]></content>
+	<content><![CDATA[Provider.Revert(${1:asset as VersionControl.Asset}, ${2:mode as VersionControl.RevertMode})]]></content>
 	<tabTrigger><![CDATA[revert]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Provider.*(asset, mode)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.OnValidateInput(${1:text : string}, ${2:charIndex : int}, ${3:addedChar : char})]]></content>
+	<tabTrigger><![CDATA[OnValidateInput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputField.*(text, charIndex, addedChar)]]></description>
+</snippet>

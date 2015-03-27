@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Lightmapping.Tetrahedralize(${1:Vector3[] positions}, ${2:int[] outIndices}, ${3:Vector3[] outPositions})]]></content>
-	<tabTrigger><![CDATA[tetrahedralize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Lightmapping.*(positions, outIndices, outPositions)]]></description>
-</snippet>

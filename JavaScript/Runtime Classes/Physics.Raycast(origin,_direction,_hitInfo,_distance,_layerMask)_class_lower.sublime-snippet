@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.Raycast(${1:origin : Vector3}, ${2:direction : Vector3}, ${3:hitInfo : RaycastHit}, ${4:distance : float = Mathf.Infinity}, ${5:layerMask : int = DefaultRaycastLayers})]]></content>
-	<tabTrigger><![CDATA[physics.Raycast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(origin, direction, hitInfo, distance, layerMask)]]></description>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:Axis axis}, ${2:float size})]]></content>
+	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:RectTransform.Axis axis}, ${2:float size})]]></content>
 	<tabTrigger><![CDATA[SetSizeWithCurrentAnchors]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[RectTransform.*(axis, size)]]></description>

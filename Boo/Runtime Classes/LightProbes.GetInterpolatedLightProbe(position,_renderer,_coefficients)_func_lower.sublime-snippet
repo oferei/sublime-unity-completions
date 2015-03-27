@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LightProbes.GetInterpolatedLightProbe(${1:position as Vector3}, ${2:renderer as Renderer}, ${3:coefficients as (single)})]]></content>
-	<tabTrigger><![CDATA[getInterpolatedLightProbe]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[LightProbes.*(position, renderer, coefficients)]]></description>
-</snippet>

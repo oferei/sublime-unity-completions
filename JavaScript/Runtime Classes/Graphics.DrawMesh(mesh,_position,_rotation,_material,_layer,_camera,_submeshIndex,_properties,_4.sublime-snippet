@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:mesh : Mesh}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:material : Material}, ${5:layer : int}, ${6:camera : Camera}, ${7:submeshIndex : int}, ${8:properties : MaterialPropertyBlock}, ${9:castShadows : bool}, ${10:receiveShadows : bool})]]></content>
+	<content><![CDATA[Graphics.DrawMesh(${1:mesh : Mesh}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:material : Material}, ${5:layer : int}, ${6:camera : Camera = null}, ${7:submeshIndex : int = 0}, ${8:properties : MaterialPropertyBlock = null}, ${9:castShadows : bool = true}, ${10:receiveShadows : bool = true})]]></content>
 	<tabTrigger><![CDATA[drawMesh]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Graphics.*(mesh, position, rotation, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows)]]></description>

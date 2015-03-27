@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Button.OnSubmit(${1:BaseEventData eventData})]]></content>
+	<content><![CDATA[Button.OnSubmit(${1:EventSystems.BaseEventData eventData})]]></content>
 	<tabTrigger><![CDATA[button.OnSubmit]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(eventData)]]></description>

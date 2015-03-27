@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetSubFolders(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[getSubFolders]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(path)]]></description>
+</snippet>

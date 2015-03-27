@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Launcher.LaunchFileWithPicker(${1:fileExtension : string})]]></content>
+	<tabTrigger><![CDATA[launcher.LaunchFileWithPicker]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(fileExtension)]]></description>
+</snippet>

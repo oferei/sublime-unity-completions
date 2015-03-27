@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetObjectReferenceCurve(${1:clip : AnimationClip}, ${2:binding : EditorCurveBinding})]]></content>
+	<tabTrigger><![CDATA[AnimationUtility.GetObjectReferenceCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(clip, binding)]]></description>
+</snippet>

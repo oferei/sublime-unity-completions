@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReflectionProbe.BlendCubemap(${1:Texture src}, ${2:Texture dst}, ${3:float blend}, ${4:RenderTexture target})]]></content>
+	<tabTrigger><![CDATA[blendCubemap]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ReflectionProbe.*(src, dst, blend, target)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.ProjectWindowItemCallback(${1:guid as string}, ${2:selectionRect as Rect})]]></content>
+	<tabTrigger><![CDATA[EditorApplication.ProjectWindowItemCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(guid, selectionRect)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawCapFunction(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float})]]></content>
+	<tabTrigger><![CDATA[Handles.DrawCapFunction]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(controlID, position, rotation, size)]]></description>
+</snippet>

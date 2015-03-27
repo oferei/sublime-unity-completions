@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScrollRect.OnDrag(${1:PointerEventData eventData})]]></content>
+	<content><![CDATA[ScrollRect.OnDrag(${1:EventSystems.PointerEventData eventData})]]></content>
 	<tabTrigger><![CDATA[scrollRect.OnDrag]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(eventData)]]></description>

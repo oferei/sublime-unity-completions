@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StateMachineBehaviour.OnStateMachineExit(${1:animator : Animator}, ${2:stateMachinePathHash : int})]]></content>
+	<tabTrigger><![CDATA[StateMachineBehaviour.OnStateMachineExit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(animator, stateMachinePathHash)]]></description>
+</snippet>

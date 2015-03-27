@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.HelpBoxWithButton(${1:GUIContent messageContent}, ${2:GUIContent buttonContent})]]></content>
+	<tabTrigger><![CDATA[helpBoxWithButton]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(messageContent, buttonContent)]]></description>
+</snippet>

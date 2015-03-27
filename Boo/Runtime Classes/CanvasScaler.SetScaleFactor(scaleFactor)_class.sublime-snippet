@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasScaler.SetScaleFactor(${1:scaleFactor as single})]]></content>
+	<tabTrigger><![CDATA[CanvasScaler.SetScaleFactor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scaleFactor)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Plane.Raycast(${1:ray as Ray}, ${2:enter as single})]]></content>
-	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Plane.*(ray, enter)]]></description>
-</snippet>

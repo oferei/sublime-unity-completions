@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InteractiveCloth.AddForceAtPosition(${1:force as Vector3}, ${2:position as Vector3}, ${3:radius as single}, ${4:mode as ForceMode = ForceMode.Force})]]></content>
-	<tabTrigger><![CDATA[AddForceAtPosition]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[InteractiveCloth.*(force, position, radius, mode)]]></description>
-</snippet>

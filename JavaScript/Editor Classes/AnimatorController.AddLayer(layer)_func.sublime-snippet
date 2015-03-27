@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.AddLayer(${1:layer : Animations.AnimatorControllerLayer})]]></content>
+	<tabTrigger><![CDATA[AddLayer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(layer)]]></description>
+</snippet>

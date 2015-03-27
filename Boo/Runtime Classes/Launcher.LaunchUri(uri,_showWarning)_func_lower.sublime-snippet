@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Launcher.LaunchUri(${1:uri as string}, ${2:showWarning as bool})]]></content>
+	<tabTrigger><![CDATA[launchUri]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Launcher.*(uri, showWarning)]]></description>
+</snippet>

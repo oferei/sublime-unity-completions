@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.IsOpenForEdit(${1:asset as Asset})]]></content>
+	<content><![CDATA[Provider.IsOpenForEdit(${1:asset as VersionControl.Asset})]]></content>
 	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Provider.*(asset)]]></description>

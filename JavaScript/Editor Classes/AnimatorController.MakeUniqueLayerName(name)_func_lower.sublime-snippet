@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.MakeUniqueLayerName(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[makeUniqueLayerName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(name)]]></description>
+</snippet>

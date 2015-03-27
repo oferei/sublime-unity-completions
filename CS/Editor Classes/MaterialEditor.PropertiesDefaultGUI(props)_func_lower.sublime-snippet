@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.PropertiesDefaultGUI(${1:MaterialProperty[] props})]]></content>
+	<tabTrigger><![CDATA[propertiesDefaultGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(props)]]></description>
+</snippet>

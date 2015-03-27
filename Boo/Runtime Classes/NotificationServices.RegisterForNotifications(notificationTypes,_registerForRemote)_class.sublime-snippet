@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NotificationServices.RegisterForNotifications(${1:notificationTypes as iOS.NotificationType}, ${2:registerForRemote as bool})]]></content>
+	<tabTrigger><![CDATA[NotificationServices.RegisterForNotifications]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(notificationTypes, registerForRemote)]]></description>
+</snippet>

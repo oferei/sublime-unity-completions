@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetPropertyString(${1:name as string}, ${2:target as BuildTargetGroup = BuildTargetGroup.Unknown})]]></content>
+	<tabTrigger><![CDATA[playerSettings.GetPropertyString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, target)]]></description>
+</snippet>

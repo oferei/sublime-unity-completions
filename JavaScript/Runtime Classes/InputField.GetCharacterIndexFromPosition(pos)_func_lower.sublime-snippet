@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.GetCharacterIndexFromPosition(${1:pos : Vector2})]]></content>
+	<tabTrigger><![CDATA[getCharacterIndexFromPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputField.*(pos)]]></description>
+</snippet>

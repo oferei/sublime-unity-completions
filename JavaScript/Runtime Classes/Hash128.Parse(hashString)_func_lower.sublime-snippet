@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hash128.Parse(${1:hashString : string})]]></content>
+	<tabTrigger><![CDATA[parse]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Hash128.*(hashString)]]></description>
+</snippet>

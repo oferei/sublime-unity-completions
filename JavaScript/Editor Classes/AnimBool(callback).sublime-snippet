@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimBool(${1:callback : UnityAction})]]></content>
+	<content><![CDATA[AnimBool(${1:callback : Events.UnityAction})]]></content>
 	<tabTrigger><![CDATA[AnimBool]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(callback)]]></description>

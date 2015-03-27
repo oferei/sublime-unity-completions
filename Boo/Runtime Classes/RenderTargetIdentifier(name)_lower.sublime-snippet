@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetIdentifier(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[renderTargetIdentifier]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

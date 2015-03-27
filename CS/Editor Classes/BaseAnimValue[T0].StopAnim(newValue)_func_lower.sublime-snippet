@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseAnimValue<T0>.StopAnim(${1:T newValue})]]></content>
+	<tabTrigger><![CDATA[stopAnim]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[BaseAnimValue<T0>.*(newValue)]]></description>
+</snippet>

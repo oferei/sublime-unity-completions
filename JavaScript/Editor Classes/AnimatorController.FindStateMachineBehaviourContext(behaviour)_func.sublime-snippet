@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.FindStateMachineBehaviourContext(${1:behaviour : StateMachineBehaviour})]]></content>
+	<tabTrigger><![CDATA[FindStateMachineBehaviourContext]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorController.*(behaviour)]]></description>
+</snippet>

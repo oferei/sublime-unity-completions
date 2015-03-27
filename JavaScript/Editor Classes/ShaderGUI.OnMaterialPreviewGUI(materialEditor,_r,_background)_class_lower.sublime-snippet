@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderGUI.OnMaterialPreviewGUI(${1:materialEditor : MaterialEditor}, ${2:r : Rect}, ${3:background : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[shaderGUI.OnMaterialPreviewGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(materialEditor, r, background)]]></description>
+</snippet>

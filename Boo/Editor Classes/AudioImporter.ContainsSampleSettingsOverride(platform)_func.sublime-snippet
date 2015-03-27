@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioImporter.ContainsSampleSettingsOverride(${1:platform as string})]]></content>
+	<tabTrigger><![CDATA[ContainsSampleSettingsOverride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AudioImporter.*(platform)]]></description>
+</snippet>

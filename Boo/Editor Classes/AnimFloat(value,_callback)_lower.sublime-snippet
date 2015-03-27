@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimFloat(${1:value as single}, ${2:callback as UnityAction})]]></content>
+	<content><![CDATA[AnimFloat(${1:value as single}, ${2:callback as Events.UnityAction})]]></content>
 	<tabTrigger><![CDATA[animFloat]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(value, callback)]]></description>

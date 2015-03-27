@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PositionAsUV1.ModifyVertices(${1:verts as List<UIVertex>})]]></content>
+	<tabTrigger><![CDATA[ModifyVertices]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PositionAsUV1.*(verts)]]></description>
+</snippet>

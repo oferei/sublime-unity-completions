@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ExecuteEvents.ValidateEventData(${1:data as BaseEventData})]]></content>
+	<content><![CDATA[ExecuteEvents.ValidateEventData(${1:data as EventSystems.BaseEventData})]]></content>
 	<tabTrigger><![CDATA[executeEvents.ValidateEventData]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(data)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetIKHintPositionWeight(${1:hint as AvatarIKHint})]]></content>
+	<tabTrigger><![CDATA[animator.GetIKHintPositionWeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(hint)]]></description>
+</snippet>

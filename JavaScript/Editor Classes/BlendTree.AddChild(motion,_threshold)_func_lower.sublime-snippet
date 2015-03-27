@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendTree.AddChild(${1:motion : Motion}, ${2:threshold : float})]]></content>
+	<tabTrigger><![CDATA[addChild]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BlendTree.*(motion, threshold)]]></description>
+</snippet>

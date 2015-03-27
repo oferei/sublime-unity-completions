@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XboxOne.RemoveAllowedProductId(${1:id : string})]]></content>
+	<tabTrigger><![CDATA[XboxOne.RemoveAllowedProductId]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(id)]]></description>
+</snippet>

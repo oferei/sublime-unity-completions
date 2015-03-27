@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollRect.SetContentAnchoredPosition(${1:position : Vector2})]]></content>
+	<tabTrigger><![CDATA[setContentAnchoredPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ScrollRect.*(position)]]></description>
+</snippet>

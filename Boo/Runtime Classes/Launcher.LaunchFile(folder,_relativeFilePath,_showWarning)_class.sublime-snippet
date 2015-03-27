@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Launcher.LaunchFile(${1:folder as WSA.Folder}, ${2:relativeFilePath as string}, ${3:showWarning as bool})]]></content>
+	<tabTrigger><![CDATA[Launcher.LaunchFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(folder, relativeFilePath, showWarning)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.Checkout(${1:Object[] assets}, ${2:CheckoutMode mode})]]></content>
+	<content><![CDATA[Provider.Checkout(${1:Object[] assets}, ${2:VersionControl.CheckoutMode mode})]]></content>
 	<tabTrigger><![CDATA[Checkout]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Provider.*(assets, mode)]]></description>

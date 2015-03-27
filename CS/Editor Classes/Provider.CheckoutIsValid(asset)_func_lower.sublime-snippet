@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Provider.CheckoutIsValid(${1:Asset asset})]]></content>
+	<content><![CDATA[Provider.CheckoutIsValid(${1:VersionControl.Asset asset})]]></content>
 	<tabTrigger><![CDATA[checkoutIsValid]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Provider.*(asset)]]></description>

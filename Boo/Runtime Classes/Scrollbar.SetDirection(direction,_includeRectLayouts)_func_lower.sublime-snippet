@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Scrollbar.SetDirection(${1:direction as Direction}, ${2:includeRectLayouts as bool})]]></content>
+	<content><![CDATA[Scrollbar.SetDirection(${1:direction as UI.Scrollbar.Direction}, ${2:includeRectLayouts as bool})]]></content>
 	<tabTrigger><![CDATA[setDirection]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Scrollbar.*(direction, includeRectLayouts)]]></description>

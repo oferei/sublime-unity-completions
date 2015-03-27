@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.SphereCastAll(${1:Vector3 origin}, ${2:float radius}, ${3:Vector3 direction}, ${4:float distance = Mathf.Infinity}, ${5:int layerMask = DefaultRaycastLayers})]]></content>
-	<tabTrigger><![CDATA[SphereCastAll]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Physics.*(origin, radius, direction, distance, layerMask)]]></description>
-</snippet>

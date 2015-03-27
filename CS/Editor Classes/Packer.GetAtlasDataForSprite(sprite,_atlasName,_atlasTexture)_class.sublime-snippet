@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Packer.GetAtlasDataForSprite(${1:Sprite sprite}, ${2:string atlasName}, ${3:Texture2D atlasTexture})]]></content>
-	<tabTrigger><![CDATA[Packer.GetAtlasDataForSprite]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(sprite, atlasName, atlasTexture)]]></description>
-</snippet>

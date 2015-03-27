@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.FocusWindowIfItsOpen(${1:Type t})]]></content>
+	<content><![CDATA[EditorWindow.FocusWindowIfItsOpen(${1:iOS.ADBannerView.Type t})]]></content>
 	<tabTrigger><![CDATA[EditorWindow.FocusWindowIfItsOpen]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(t)]]></description>

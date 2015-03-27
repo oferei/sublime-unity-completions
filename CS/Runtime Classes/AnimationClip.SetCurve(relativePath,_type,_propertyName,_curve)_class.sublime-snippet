@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationClip.SetCurve(${1:string relativePath}, ${2:Type type}, ${3:string propertyName}, ${4:AnimationCurve curve})]]></content>
+	<content><![CDATA[AnimationClip.SetCurve(${1:string relativePath}, ${2:iOS.ADBannerView.Type type}, ${3:string propertyName}, ${4:AnimationCurve curve})]]></content>
 	<tabTrigger><![CDATA[AnimationClip.SetCurve]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(relativePath, type, propertyName, curve)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateMachine.RemoveState(${1:Animations.AnimatorState state})]]></content>
+	<tabTrigger><![CDATA[removeState]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimatorStateMachine.*(state)]]></description>
+</snippet>

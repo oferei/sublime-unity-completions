@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ExecuteEvents.ExecuteHierarchy(${1:root : GameObject}, ${2:eventData : BaseEventData}, ${3:callbackFunction : EventFunction<T>})]]></content>
+	<content><![CDATA[ExecuteEvents.ExecuteHierarchy(${1:root : GameObject}, ${2:eventData : EventSystems.BaseEventData}, ${3:callbackFunction : EventFunction<T>})]]></content>
 	<tabTrigger><![CDATA[ExecuteEvents.ExecuteHierarchy]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(root, eventData, callbackFunction)]]></description>

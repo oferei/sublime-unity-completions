@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Toggle.Rebuild(${1:executing as CanvasUpdate})]]></content>
+	<content><![CDATA[Toggle.Rebuild(${1:executing as UI.CanvasUpdate})]]></content>
 	<tabTrigger><![CDATA[rebuild]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Toggle.*(executing)]]></description>

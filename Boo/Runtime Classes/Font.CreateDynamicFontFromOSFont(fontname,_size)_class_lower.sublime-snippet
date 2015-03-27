@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Font.CreateDynamicFontFromOSFont(${1:fontname as string}, ${2:size as int})]]></content>
+	<tabTrigger><![CDATA[font.CreateDynamicFontFromOSFont]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fontname, size)]]></description>
+</snippet>

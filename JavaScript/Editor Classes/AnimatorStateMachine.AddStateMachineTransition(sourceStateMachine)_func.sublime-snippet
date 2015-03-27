@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorStateMachine.AddStateMachineTransition(${1:sourceStateMachine : Animations.AnimatorStateMachine})]]></content>
+	<tabTrigger><![CDATA[AddStateMachineTransition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorStateMachine.*(sourceStateMachine)]]></description>
+</snippet>

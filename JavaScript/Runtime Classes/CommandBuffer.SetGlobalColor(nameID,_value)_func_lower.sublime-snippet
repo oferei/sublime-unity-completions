@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalColor(${1:nameID : int}, ${2:value : Color})]]></content>
+	<tabTrigger><![CDATA[setGlobalColor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(nameID, value)]]></description>
+</snippet>

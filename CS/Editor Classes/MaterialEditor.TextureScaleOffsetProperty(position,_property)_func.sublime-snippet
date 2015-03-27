@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TextureScaleOffsetProperty(${1:Rect position}, ${2:MaterialProperty property})]]></content>
+	<tabTrigger><![CDATA[TextureScaleOffsetProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(position, property)]]></description>
+</snippet>

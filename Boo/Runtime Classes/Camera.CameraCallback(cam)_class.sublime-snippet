@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.CameraCallback(${1:cam as Camera})]]></content>
+	<tabTrigger><![CDATA[Camera.CameraCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(cam)]]></description>
+</snippet>

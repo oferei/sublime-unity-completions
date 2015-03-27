@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderVariantCollection.Contains(${1:variant as ShaderVariantCollection.ShaderVariant})]]></content>
+	<tabTrigger><![CDATA[Contains]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ShaderVariantCollection.*(variant)]]></description>
+</snippet>

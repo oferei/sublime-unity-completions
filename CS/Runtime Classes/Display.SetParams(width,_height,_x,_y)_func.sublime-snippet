@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Display.SetParams(${1:int width}, ${2:int height}, ${3:int x}, ${4:int y})]]></content>
+	<tabTrigger><![CDATA[SetParams]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Display.*(width, height, x, y)]]></description>
+</snippet>

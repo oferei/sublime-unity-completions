@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.OnCurveWasModified(${1:clip : AnimationClip}, ${2:binding : EditorCurveBinding}, ${3:deleted : AnimationUtility.CurveModifiedType})]]></content>
+	<tabTrigger><![CDATA[onCurveWasModified]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationUtility.*(clip, binding, deleted)]]></description>
+</snippet>

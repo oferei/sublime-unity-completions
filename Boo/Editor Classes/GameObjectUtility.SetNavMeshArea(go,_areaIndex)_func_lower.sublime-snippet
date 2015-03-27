@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.SetNavMeshArea(${1:go as GameObject}, ${2:areaIndex as int})]]></content>
+	<tabTrigger><![CDATA[setNavMeshArea]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GameObjectUtility.*(go, areaIndex)]]></description>
+</snippet>

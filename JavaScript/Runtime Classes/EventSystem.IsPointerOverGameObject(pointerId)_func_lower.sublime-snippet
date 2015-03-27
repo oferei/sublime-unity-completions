@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventSystem.IsPointerOverGameObject(${1:pointerId : int})]]></content>
-	<tabTrigger><![CDATA[isPointerOverGameObject]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EventSystem.*(pointerId)]]></description>
-</snippet>

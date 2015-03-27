@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bounds.ClosestPoint(${1:point : Vector3})]]></content>
+	<tabTrigger><![CDATA[ClosestPoint]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Bounds.*(point)]]></description>
+</snippet>

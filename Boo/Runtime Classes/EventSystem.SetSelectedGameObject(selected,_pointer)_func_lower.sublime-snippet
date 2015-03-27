@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EventSystem.SetSelectedGameObject(${1:selected as GameObject}, ${2:pointer as BaseEventData})]]></content>
+	<content><![CDATA[EventSystem.SetSelectedGameObject(${1:selected as GameObject}, ${2:pointer as EventSystems.BaseEventData})]]></content>
 	<tabTrigger><![CDATA[setSelectedGameObject]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[EventSystem.*(selected, pointer)]]></description>

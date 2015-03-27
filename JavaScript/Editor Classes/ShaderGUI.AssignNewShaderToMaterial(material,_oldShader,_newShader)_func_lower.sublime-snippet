@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderGUI.AssignNewShaderToMaterial(${1:material : Material}, ${2:oldShader : Shader}, ${3:newShader : Shader})]]></content>
+	<tabTrigger><![CDATA[assignNewShaderToMaterial]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ShaderGUI.*(material, oldShader, newShader)]]></description>
+</snippet>

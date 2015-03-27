@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ObjectField(${1:GUIContent label}, ${2:Object obj}, ${3:Type objType}, ${4:bool allowSceneObjects}, ${5:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[ObjectField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(label, obj, objType, allowSceneObjects, params options)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderGUI.FindProperty(${1:string propertyName}, ${2:MaterialProperty[] properties}, ${3:bool propertyIsMandatory})]]></content>
+	<tabTrigger><![CDATA[shaderGUI.FindProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(propertyName, properties, propertyIsMandatory)]]></description>
+</snippet>

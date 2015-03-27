@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:axis as Axis}, ${2:size as single})]]></content>
+	<content><![CDATA[RectTransform.SetSizeWithCurrentAnchors(${1:axis as RectTransform.Axis}, ${2:size as single})]]></content>
 	<tabTrigger><![CDATA[RectTransform.SetSizeWithCurrentAnchors]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(axis, size)]]></description>

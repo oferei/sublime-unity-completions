@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReflectionProbe.RenderProbe(${1:RenderTexture targetTexture = null})]]></content>
+	<tabTrigger><![CDATA[RenderProbe]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ReflectionProbe.*(targetTexture)]]></description>
+</snippet>

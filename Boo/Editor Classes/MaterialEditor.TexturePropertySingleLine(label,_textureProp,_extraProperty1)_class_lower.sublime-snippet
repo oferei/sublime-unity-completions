@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TexturePropertySingleLine(${1:label as GUIContent}, ${2:textureProp as MaterialProperty}, ${3:extraProperty1 as MaterialProperty})]]></content>
+	<tabTrigger><![CDATA[materialEditor.TexturePropertySingleLine]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(label, textureProp, extraProperty1)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetTotalFlexibleSize(${1:axis : int})]]></content>
+	<tabTrigger><![CDATA[GetTotalFlexibleSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LayoutGroup.*(axis)]]></description>
+</snippet>

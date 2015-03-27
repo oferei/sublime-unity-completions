@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Display.SetParams(${1:width as int}, ${2:height as int}, ${3:x as int}, ${4:y as int})]]></content>
+	<tabTrigger><![CDATA[display.SetParams]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, x, y)]]></description>
+</snippet>
