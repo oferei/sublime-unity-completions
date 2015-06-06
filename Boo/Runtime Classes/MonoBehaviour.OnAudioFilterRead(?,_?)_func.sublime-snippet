@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnAudioFilterRead(${1:? as (single)}, ${2:? as int})]]></content>
-	<tabTrigger><![CDATA[OnAudioFilterRead]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MonoBehaviour.*(?, ?)]]></description>
-</snippet>

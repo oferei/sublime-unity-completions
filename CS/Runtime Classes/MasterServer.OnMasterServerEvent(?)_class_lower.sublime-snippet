@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MasterServer.OnMasterServerEvent(${1:MasterServerEvent ?})]]></content>
-	<tabTrigger><![CDATA[masterServer.OnMasterServerEvent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(?)]]></description>
-</snippet>

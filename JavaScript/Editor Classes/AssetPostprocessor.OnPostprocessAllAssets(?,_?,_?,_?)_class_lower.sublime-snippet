@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAllAssets(${1:? : string[]}, ${2:? : string[]}, ${3:? : string[]}, ${4:? : string[]})]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAllAssets]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(?, ?, ?, ?)]]></description>
-</snippet>

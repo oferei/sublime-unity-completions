@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillMoveAsset(${1:? as string}, ${2:? as string})]]></content>
-	<tabTrigger><![CDATA[assetModificationProcessor.OnWillMoveAsset]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(?, ?)]]></description>
-</snippet>

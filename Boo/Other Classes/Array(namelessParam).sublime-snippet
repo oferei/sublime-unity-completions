@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Array(${1:namelessParam as int})]]></content>
+	<tabTrigger><![CDATA[Array]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

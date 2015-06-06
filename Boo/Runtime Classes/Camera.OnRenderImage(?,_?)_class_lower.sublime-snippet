@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Camera.OnRenderImage(${1:? as RenderTexture}, ${2:? as RenderTexture})]]></content>
-	<tabTrigger><![CDATA[camera.OnRenderImage]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(?, ?)]]></description>
-</snippet>

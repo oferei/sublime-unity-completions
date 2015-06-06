@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties(${1:GameObject namelessParam}, ${2:string[] namelessParam}, ${3:object[] namelessParam})]]></content>
+	<tabTrigger><![CDATA[OnPostprocessGameObjectWithUserProperties]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetPostprocessor.*(namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

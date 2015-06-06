@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CharacterController.OnControllerColliderHit(${1:namelessParam : ControllerColliderHit})]]></content>
+	<tabTrigger><![CDATA[OnControllerColliderHit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CharacterController.*(namelessParam)]]></description>
+</snippet>

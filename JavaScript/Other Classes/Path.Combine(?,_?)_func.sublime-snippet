@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.Combine(${1:? : string}, ${2:? : string})]]></content>
-	<tabTrigger><![CDATA[Combine]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Path.*(?, ?)]]></description>
-</snippet>

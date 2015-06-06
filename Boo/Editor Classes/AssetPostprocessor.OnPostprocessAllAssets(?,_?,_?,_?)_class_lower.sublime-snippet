@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAllAssets(${1:? as (string)}, ${2:? as (string)}, ${3:? as (string)}, ${4:? as (string)})]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAllAssets]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(?, ?, ?, ?)]]></description>
-</snippet>

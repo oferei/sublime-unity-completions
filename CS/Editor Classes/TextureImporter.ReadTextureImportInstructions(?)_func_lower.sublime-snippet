@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TextureImporter.ReadTextureImportInstructions(${1:TextureImportInstructions ?})]]></content>
-	<tabTrigger><![CDATA[readTextureImportInstructions]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[TextureImporter.*(?)]]></description>
-</snippet>

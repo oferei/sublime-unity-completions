@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessTexture(${1:Texture2D namelessParam})]]></content>
+	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DynamicGI.SetEmissive(${1:Renderer ?}, ${2:Color ?}, ${3:int ?})]]></content>
-	<tabTrigger><![CDATA[dynamicGI.SetEmissive]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(?, ?, ?)]]></description>
-</snippet>

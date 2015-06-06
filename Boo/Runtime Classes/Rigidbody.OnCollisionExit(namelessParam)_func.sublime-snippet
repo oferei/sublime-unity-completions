@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.OnCollisionExit(${1:namelessParam as Collision})]]></content>
+	<tabTrigger><![CDATA[OnCollisionExit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rigidbody.*(namelessParam)]]></description>
+</snippet>

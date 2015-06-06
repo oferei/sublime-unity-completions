@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.ContainsValue(${1:namelessParam : object})]]></content>
+	<tabTrigger><![CDATA[Hashtable.ContainsValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

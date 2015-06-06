@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnApplicationFocus(${1:bool namelessParam})]]></content>
+	<tabTrigger><![CDATA[MonoBehaviour.OnApplicationFocus]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

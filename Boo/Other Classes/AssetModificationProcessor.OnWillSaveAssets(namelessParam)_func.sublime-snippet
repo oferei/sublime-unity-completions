@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetModificationProcessor.OnWillSaveAssets(${1:namelessParam as (string)})]]></content>
+	<tabTrigger><![CDATA[OnWillSaveAssets]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetModificationProcessor.*(namelessParam)]]></description>
+</snippet>

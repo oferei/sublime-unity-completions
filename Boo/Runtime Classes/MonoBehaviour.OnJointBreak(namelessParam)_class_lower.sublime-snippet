@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnJointBreak(${1:namelessParam as single})]]></content>
+	<tabTrigger><![CDATA[monoBehaviour.OnJointBreak]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerLayer.SetOverrideBehaviours(${1:AnimatorState state}, ${2:StateMachineBehaviourInfo[] behaviours})]]></content>
+	<tabTrigger><![CDATA[setOverrideBehaviours]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimatorControllerLayer.*(state, behaviours)]]></description>
+</snippet>

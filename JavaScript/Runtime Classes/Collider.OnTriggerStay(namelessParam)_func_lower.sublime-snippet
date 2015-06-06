@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider.OnTriggerStay(${1:namelessParam : Collider})]]></content>
+	<tabTrigger><![CDATA[onTriggerStay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Collider.*(namelessParam)]]></description>
+</snippet>

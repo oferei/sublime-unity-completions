@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.ContainsKey(${1:namelessParam as object})]]></content>
+	<tabTrigger><![CDATA[Hashtable.ContainsKey]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

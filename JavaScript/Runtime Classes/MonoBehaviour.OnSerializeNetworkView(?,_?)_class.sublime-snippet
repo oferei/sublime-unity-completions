@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnSerializeNetworkView(${1:? : BitStream}, ${2:? : NetworkMessageInfo})]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour.OnSerializeNetworkView]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(?, ?)]]></description>
-</snippet>

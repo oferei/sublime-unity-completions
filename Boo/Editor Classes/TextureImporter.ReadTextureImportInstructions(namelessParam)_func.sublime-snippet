@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.ReadTextureImportInstructions(${1:namelessParam as TextureImportInstructions})]]></content>
+	<tabTrigger><![CDATA[ReadTextureImportInstructions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TextureImporter.*(namelessParam)]]></description>
+</snippet>

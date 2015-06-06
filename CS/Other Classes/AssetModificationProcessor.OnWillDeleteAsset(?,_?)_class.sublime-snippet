@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillDeleteAsset(${1:string ?}, ${2:RemoveAssetOptions ?})]]></content>
-	<tabTrigger><![CDATA[AssetModificationProcessor.OnWillDeleteAsset]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(?, ?)]]></description>
-</snippet>

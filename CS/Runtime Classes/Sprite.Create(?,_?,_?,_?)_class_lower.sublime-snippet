@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Sprite.Create(${1:Texture2D ?}, ${2:Rect ?}, ${3:Vector2 ?}, ${4:float ?})]]></content>
-	<tabTrigger><![CDATA[sprite.Create]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(?, ?, ?, ?)]]></description>
-</snippet>

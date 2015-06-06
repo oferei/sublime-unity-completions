@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicGI.SetEmissive(${1:Renderer renderer}, ${2:Color color}, ${3:int subMeshIndex})]]></content>
+	<tabTrigger><![CDATA[setEmissive]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DynamicGI.*(renderer, color, subMeshIndex)]]></description>
+</snippet>

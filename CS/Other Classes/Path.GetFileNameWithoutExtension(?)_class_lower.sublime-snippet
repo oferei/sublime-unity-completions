@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.GetFileNameWithoutExtension(${1:string ?})]]></content>
-	<tabTrigger><![CDATA[path.GetFileNameWithoutExtension]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(?)]]></description>
-</snippet>

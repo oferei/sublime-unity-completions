@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAssetbundleNameChanged(${1:string ?}, ${2:string ?}, ${3:string ?})]]></content>
-	<tabTrigger><![CDATA[OnPostprocessAssetbundleNameChanged]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AssetPostprocessor.*(?, ?, ?)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StaticOcclusionCulling.Compute(${1:float ?}, ${2:float ?}, ${3:float ?}, ${4:int ?}, ${5:StaticOcclusionCullingMode ?})]]></content>
-	<tabTrigger><![CDATA[Compute]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[StaticOcclusionCulling.*(?, ?, ?, ?, ?)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnAssignMaterialModel(${1:Material ?}, ${2:Renderer ?})]]></content>
-	<tabTrigger><![CDATA[OnAssignMaterialModel]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AssetPostprocessor.*(?, ?)]]></description>
-</snippet>

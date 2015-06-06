@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnPlayerConnected(${1:? : NetworkPlayer})]]></content>
-	<tabTrigger><![CDATA[OnPlayerConnected]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[MonoBehaviour.*(?)]]></description>
-</snippet>

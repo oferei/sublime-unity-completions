@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider.OnCollisionEnter(${1:Collision namelessParam})]]></content>
+	<tabTrigger><![CDATA[OnCollisionEnter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Collider.*(namelessParam)]]></description>
+</snippet>

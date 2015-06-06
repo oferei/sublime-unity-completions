@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.OnPlayerConnected(${1:namelessParam : NetworkPlayer})]]></content>
+	<tabTrigger><![CDATA[network.OnPlayerConnected]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

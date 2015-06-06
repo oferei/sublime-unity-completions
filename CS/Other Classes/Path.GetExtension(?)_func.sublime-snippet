@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.GetExtension(${1:string ?})]]></content>
-	<tabTrigger><![CDATA[GetExtension]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Path.*(?)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.OnCollisionStay2D(${1:Collision2D namelessParam})]]></content>
+	<tabTrigger><![CDATA[onCollisionStay2D]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Collider2D.*(namelessParam)]]></description>
+</snippet>

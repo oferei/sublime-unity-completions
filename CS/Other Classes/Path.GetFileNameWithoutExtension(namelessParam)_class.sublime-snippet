@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Path.GetFileNameWithoutExtension(${1:string namelessParam})]]></content>
+	<tabTrigger><![CDATA[Path.GetFileNameWithoutExtension]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>
