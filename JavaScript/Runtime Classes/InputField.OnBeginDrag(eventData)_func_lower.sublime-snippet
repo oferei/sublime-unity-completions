@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.OnBeginDrag(${1:eventData : EventSystems.PointerEventData})]]></content>
+	<tabTrigger><![CDATA[onBeginDrag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputField.*(eventData)]]></description>
+</snippet>

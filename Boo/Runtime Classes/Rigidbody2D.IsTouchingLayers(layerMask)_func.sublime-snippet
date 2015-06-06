@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.IsTouchingLayers(${1:layerMask as int = Physics2D.AllLayers})]]></content>
+	<tabTrigger><![CDATA[IsTouchingLayers]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Rigidbody2D.*(layerMask)]]></description>
+</snippet>

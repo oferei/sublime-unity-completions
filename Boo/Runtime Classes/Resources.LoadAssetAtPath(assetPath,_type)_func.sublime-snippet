@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Resources.LoadAssetAtPath(${1:assetPath as string}, ${2:type as iOS.ADBannerView.Type})]]></content>
-	<tabTrigger><![CDATA[LoadAssetAtPath]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Resources.*(assetPath, type)]]></description>
-</snippet>

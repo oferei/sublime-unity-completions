@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IInitializePotentialDragHandler.OnInitializePotentialDrag(${1:eventData : EventSystems.PointerEventData})]]></content>
+	<tabTrigger><![CDATA[iInitializePotentialDragHandler.OnInitializePotentialDrag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

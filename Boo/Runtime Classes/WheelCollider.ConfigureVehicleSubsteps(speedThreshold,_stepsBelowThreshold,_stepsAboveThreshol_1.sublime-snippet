@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WheelCollider.ConfigureVehicleSubsteps(${1:speedThreshold as single}, ${2:stepsBelowThreshold as int}, ${3:stepsAboveThreshold as int})]]></content>
+	<tabTrigger><![CDATA[WheelCollider.ConfigureVehicleSubsteps]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(speedThreshold, stepsBelowThreshold, stepsAboveThreshold)]]></description>
+</snippet>

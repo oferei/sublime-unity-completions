@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Resources.LoadAssetAtPath(${1:string assetPath}, ${2:iOS.ADBannerView.Type type})]]></content>
-	<tabTrigger><![CDATA[Resources.LoadAssetAtPath]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(assetPath, type)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.Append(${1:input as char})]]></content>
+	<tabTrigger><![CDATA[append]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[InputField.*(input)]]></description>
+</snippet>

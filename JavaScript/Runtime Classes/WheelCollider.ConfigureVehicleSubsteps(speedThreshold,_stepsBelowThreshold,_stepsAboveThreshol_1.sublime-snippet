@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WheelCollider.ConfigureVehicleSubsteps(${1:speedThreshold : float}, ${2:stepsBelowThreshold : int}, ${3:stepsAboveThreshold : int})]]></content>
+	<tabTrigger><![CDATA[WheelCollider.ConfigureVehicleSubsteps]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(speedThreshold, stepsBelowThreshold, stepsAboveThreshold)]]></description>
+</snippet>

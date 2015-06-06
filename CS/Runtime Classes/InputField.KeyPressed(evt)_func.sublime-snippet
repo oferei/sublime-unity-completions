@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.KeyPressed(${1:Event evt})]]></content>
+	<tabTrigger><![CDATA[KeyPressed]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[InputField.*(evt)]]></description>
+</snippet>
