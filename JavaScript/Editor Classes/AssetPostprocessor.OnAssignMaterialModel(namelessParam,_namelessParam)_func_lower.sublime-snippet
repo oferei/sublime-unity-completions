@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnAssignMaterialModel(${1:namelessParam : Material}, ${2:namelessParam : Renderer})]]></content>
-	<tabTrigger><![CDATA[onAssignMaterialModel]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetPostprocessor.*(namelessParam, namelessParam)]]></description>
-</snippet>

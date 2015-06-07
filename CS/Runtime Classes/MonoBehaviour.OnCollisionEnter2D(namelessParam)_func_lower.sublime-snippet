@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnCollisionEnter2D(${1:Collision2D namelessParam})]]></content>
-	<tabTrigger><![CDATA[onCollisionEnter2D]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MonoBehaviour.*(namelessParam)]]></description>
-</snippet>

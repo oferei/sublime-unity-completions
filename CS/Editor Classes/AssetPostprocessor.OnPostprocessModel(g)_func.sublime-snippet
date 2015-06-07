@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessModel(${1:GameObject g})]]></content>
+	<tabTrigger><![CDATA[OnPostprocessModel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetPostprocessor.*(g)]]></description>
+</snippet>

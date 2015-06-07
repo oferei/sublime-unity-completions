@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnDisconnectedFromServer(${1:NetworkDisconnection namelessParam})]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour.OnDisconnectedFromServer]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(namelessParam)]]></description>
-</snippet>

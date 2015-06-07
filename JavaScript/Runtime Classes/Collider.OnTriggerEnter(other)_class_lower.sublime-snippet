@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider.OnTriggerEnter(${1:other : Collider})]]></content>
+	<tabTrigger><![CDATA[collider.OnTriggerEnter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

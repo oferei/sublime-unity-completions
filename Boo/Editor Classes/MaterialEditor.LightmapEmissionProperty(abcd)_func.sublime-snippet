@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.LightmapEmissionProperty(${1:abcd as string})]]></content>
+	<tabTrigger><![CDATA[LightmapEmissionProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(abcd)]]></description>
+</snippet>

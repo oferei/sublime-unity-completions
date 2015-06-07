@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Hashtable.Add(${1:object namelessParam}, ${2:object namelessParam})]]></content>
-	<tabTrigger><![CDATA[Add]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Hashtable.*(namelessParam, namelessParam)]]></description>
-</snippet>

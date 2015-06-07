@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetModificationProcessor.OnWillMoveAsset(${1:oldPath : string}, ${2:newPath : string})]]></content>
+	<tabTrigger><![CDATA[assetModificationProcessor.OnWillMoveAsset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(oldPath, newPath)]]></description>
+</snippet>

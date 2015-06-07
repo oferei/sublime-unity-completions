@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.OnSerializeNetworkView(${1:namelessParam as BitStream}, ${2:namelessParam as NetworkMessageInfo})]]></content>
-	<tabTrigger><![CDATA[OnSerializeNetworkView]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Network.*(namelessParam, namelessParam)]]></description>
-</snippet>

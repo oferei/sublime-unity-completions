@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAllAssets(${1:namelessParam as (string)}, ${2:namelessParam as (string)}, ${3:namelessParam as (string)}, ${4:namelessParam as (string)})]]></content>
-	<tabTrigger><![CDATA[onPostprocessAllAssets]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AssetPostprocessor.*(namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
-</snippet>

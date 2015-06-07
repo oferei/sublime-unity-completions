@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.ReadTextureImportInstructions(${1:instructions : TextureImportInstructions})]]></content>
+	<tabTrigger><![CDATA[textureImporter.ReadTextureImportInstructions]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(instructions)]]></description>
+</snippet>

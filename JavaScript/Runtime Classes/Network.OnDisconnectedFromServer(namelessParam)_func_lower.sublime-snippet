@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.OnDisconnectedFromServer(${1:namelessParam : NetworkDisconnection})]]></content>
-	<tabTrigger><![CDATA[onDisconnectedFromServer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Network.*(namelessParam)]]></description>
-</snippet>

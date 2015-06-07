@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StaticOcclusionCulling.Compute(${1:namelessParam as single}, ${2:namelessParam as single}, ${3:namelessParam as single}, ${4:namelessParam as int}, ${5:namelessParam as StaticOcclusionCullingMode})]]></content>
-	<tabTrigger><![CDATA[compute]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[StaticOcclusionCulling.*(namelessParam, namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
-</snippet>

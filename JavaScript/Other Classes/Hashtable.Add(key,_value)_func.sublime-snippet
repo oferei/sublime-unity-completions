@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hashtable.Add(${1:key : object}, ${2:value : object})]]></content>
+	<tabTrigger><![CDATA[Add]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Hashtable.*(key, value)]]></description>
+</snippet>

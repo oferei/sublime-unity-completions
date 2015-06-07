@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnTriggerStay(${1:namelessParam as Collider})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnTriggerStay]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(namelessParam)]]></description>
-</snippet>

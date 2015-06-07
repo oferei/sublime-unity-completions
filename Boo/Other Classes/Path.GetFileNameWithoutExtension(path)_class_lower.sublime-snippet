@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Path.GetFileNameWithoutExtension(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[path.GetFileNameWithoutExtension]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

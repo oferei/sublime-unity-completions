@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnApplicationFocus(${1:focusStatus : bool})]]></content>
+	<tabTrigger><![CDATA[monoBehaviour.OnApplicationFocus]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(focusStatus)]]></description>
+</snippet>

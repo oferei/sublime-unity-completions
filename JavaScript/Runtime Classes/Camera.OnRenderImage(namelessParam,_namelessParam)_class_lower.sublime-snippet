@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Camera.OnRenderImage(${1:namelessParam : RenderTexture}, ${2:namelessParam : RenderTexture})]]></content>
-	<tabTrigger><![CDATA[camera.OnRenderImage]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(namelessParam, namelessParam)]]></description>
-</snippet>

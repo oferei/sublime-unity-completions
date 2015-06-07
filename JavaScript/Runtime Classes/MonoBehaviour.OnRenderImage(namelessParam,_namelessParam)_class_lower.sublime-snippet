@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnRenderImage(${1:namelessParam : RenderTexture}, ${2:namelessParam : RenderTexture})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnRenderImage]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(namelessParam, namelessParam)]]></description>
-</snippet>

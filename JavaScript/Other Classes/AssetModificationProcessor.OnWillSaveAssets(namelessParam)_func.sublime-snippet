@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillSaveAssets(${1:namelessParam : string[]})]]></content>
-	<tabTrigger><![CDATA[OnWillSaveAssets]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetModificationProcessor.*(namelessParam)]]></description>
-</snippet>

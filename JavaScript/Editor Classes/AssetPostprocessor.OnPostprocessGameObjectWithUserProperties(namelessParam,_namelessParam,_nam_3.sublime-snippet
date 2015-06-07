@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithUserProperties(${1:namelessParam : GameObject}, ${2:namelessParam : string[]}, ${3:namelessParam : object[]})]]></content>
-	<tabTrigger><![CDATA[OnPostprocessGameObjectWithUserProperties]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetPostprocessor.*(namelessParam, namelessParam, namelessParam)]]></description>
-</snippet>

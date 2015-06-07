@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.Combine(${1:string namelessParam}, ${2:string namelessParam})]]></content>
-	<tabTrigger><![CDATA[combine]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Path.*(namelessParam, namelessParam)]]></description>
-</snippet>

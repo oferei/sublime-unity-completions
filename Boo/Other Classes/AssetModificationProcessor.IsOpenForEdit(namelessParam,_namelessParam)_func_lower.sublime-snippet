@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.IsOpenForEdit(${1:namelessParam as string}, ${2:namelessParam as string})]]></content>
-	<tabTrigger><![CDATA[isOpenForEdit]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AssetModificationProcessor.*(namelessParam, namelessParam)]]></description>
-</snippet>

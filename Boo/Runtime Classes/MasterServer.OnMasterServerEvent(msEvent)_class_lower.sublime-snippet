@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MasterServer.OnMasterServerEvent(${1:msEvent as MasterServerEvent})]]></content>
+	<tabTrigger><![CDATA[masterServer.OnMasterServerEvent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(msEvent)]]></description>
+</snippet>

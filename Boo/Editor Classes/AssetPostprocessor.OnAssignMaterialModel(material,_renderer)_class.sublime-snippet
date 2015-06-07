@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnAssignMaterialModel(${1:material as Material}, ${2:renderer as Renderer})]]></content>
+	<tabTrigger><![CDATA[AssetPostprocessor.OnAssignMaterialModel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(material, renderer)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Path.GetExtension(${1:string namelessParam})]]></content>
-	<tabTrigger><![CDATA[getExtension]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Path.*(namelessParam)]]></description>
-</snippet>

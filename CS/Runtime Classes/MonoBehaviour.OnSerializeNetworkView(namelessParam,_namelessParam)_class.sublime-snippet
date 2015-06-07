@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnSerializeNetworkView(${1:BitStream namelessParam}, ${2:NetworkMessageInfo namelessParam})]]></content>
-	<tabTrigger><![CDATA[MonoBehaviour.OnSerializeNetworkView]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(namelessParam, namelessParam)]]></description>
-</snippet>

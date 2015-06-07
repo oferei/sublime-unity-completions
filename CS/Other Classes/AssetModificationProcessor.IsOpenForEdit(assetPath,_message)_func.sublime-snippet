@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetModificationProcessor.IsOpenForEdit(${1:string assetPath}, ${2:string message})]]></content>
+	<tabTrigger><![CDATA[IsOpenForEdit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetModificationProcessor.*(assetPath, message)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnFailedToConnectToMasterServer(${1:namelessParam as NetworkConnectionError})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnFailedToConnectToMasterServer]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(namelessParam)]]></description>
-</snippet>

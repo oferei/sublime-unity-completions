@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Network.OnNetworkInstantiate(${1:NetworkMessageInfo info})]]></content>
+	<tabTrigger><![CDATA[OnNetworkInstantiate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Network.*(info)]]></description>
+</snippet>

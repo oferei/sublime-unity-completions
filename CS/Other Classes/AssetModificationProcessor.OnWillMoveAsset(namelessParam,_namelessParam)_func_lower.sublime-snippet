@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetModificationProcessor.OnWillMoveAsset(${1:string namelessParam}, ${2:string namelessParam})]]></content>
-	<tabTrigger><![CDATA[onWillMoveAsset]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AssetModificationProcessor.*(namelessParam, namelessParam)]]></description>
-</snippet>

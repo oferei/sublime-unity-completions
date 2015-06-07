@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnLevelWasLoaded(${1:level as int})]]></content>
+	<tabTrigger><![CDATA[onLevelWasLoaded]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MonoBehaviour.*(level)]]></description>
+</snippet>
