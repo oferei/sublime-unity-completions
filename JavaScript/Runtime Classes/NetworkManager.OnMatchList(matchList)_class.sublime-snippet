@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnMatchList(${1:matchList : Networking.Match.ListMatchResponse})]]></content>
+	<tabTrigger><![CDATA[NetworkManager.OnMatchList]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(matchList)]]></description>
+</snippet>

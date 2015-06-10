@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimatorState.AddStateMachineBehaviour(${1:stateMachineBehaviourType as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[AnimatorState.AddStateMachineBehaviour(${1:stateMachineBehaviourType as Type})]]></content>
 	<tabTrigger><![CDATA[animatorState.AddStateMachineBehaviour]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(stateMachineBehaviourType)]]></description>

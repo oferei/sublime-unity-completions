@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.GetFloatValue(${1:root : GameObject}, ${2:relativePath : string}, ${3:type : iOS.ADBannerView.Type}, ${4:propertyName : string}, ${5:out data : float})]]></content>
+	<content><![CDATA[AnimationUtility.GetFloatValue(${1:root : GameObject}, ${2:relativePath : string}, ${3:type : Type}, ${4:propertyName : string}, ${5:out data : float})]]></content>
 	<tabTrigger><![CDATA[GetFloatValue]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AnimationUtility.*(root, relativePath, type, propertyName, out data)]]></description>

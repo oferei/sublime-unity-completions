@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:clip as AnimationClip}, ${2:relativePath as string}, ${3:type as iOS.ADBannerView.Type}, ${4:propertyName as string})]]></content>
+	<content><![CDATA[AnimationUtility.GetEditorCurve(${1:clip as AnimationClip}, ${2:relativePath as string}, ${3:type as Type}, ${4:propertyName as string})]]></content>
 	<tabTrigger><![CDATA[animationUtility.GetEditorCurve]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(clip, relativePath, type, propertyName)]]></description>

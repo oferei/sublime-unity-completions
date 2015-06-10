@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkIdentity.RebuildObservers(${1:initialize as bool})]]></content>
+	<tabTrigger><![CDATA[RebuildObservers]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkIdentity.*(initialize)]]></description>
+</snippet>

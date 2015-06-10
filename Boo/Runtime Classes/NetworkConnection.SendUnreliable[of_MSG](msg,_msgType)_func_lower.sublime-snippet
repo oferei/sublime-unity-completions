@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkConnection.SendUnreliable[of ${1:MSG}](${2:msg as short}, ${3:msgType as MSG})]]></content>
+	<tabTrigger><![CDATA[sendUnreliable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkConnection.*[of MSG](msg, msgType)]]></description>
+</snippet>

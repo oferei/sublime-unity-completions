@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.IsNull(${1:T value})]]></content>
+	<tabTrigger><![CDATA[assert.IsNull]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

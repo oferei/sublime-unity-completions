@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkClient.ConnectWithSimulator(${1:string serverIp}, ${2:int serverPort}, ${3:int latency}, ${4:float packetLoss})]]></content>
+	<tabTrigger><![CDATA[NetworkClient.ConnectWithSimulator]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(serverIp, serverPort, latency, packetLoss)]]></description>
+</snippet>

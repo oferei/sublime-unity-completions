@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScriptableWizard.DisplayWizard(${1:title as string}, ${2:klass as iOS.ADBannerView.Type}, ${3:createButtonName as string = \"Create\"}, ${4:otherButtonName as string = \"\"})]]></content>
+	<content><![CDATA[ScriptableWizard.DisplayWizard(${1:title as string}, ${2:klass as Type}, ${3:createButtonName as string = \"Create\"}, ${4:otherButtonName as string = \"\"})]]></content>
 	<tabTrigger><![CDATA[displayWizard]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[ScriptableWizard.*(title, klass, createButtonName, otherButtonName)]]></description>

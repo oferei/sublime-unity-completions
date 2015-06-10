@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetCurrentRtt(${1:hostId : int}, ${2:connectionId : int}, ${3:out error : byte})]]></content>
+	<tabTrigger><![CDATA[networkTransport.GetCurrentRtt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(hostId, connectionId, out error)]]></description>
+</snippet>

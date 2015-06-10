@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkConnection.Send[of ${1:MSG}](${2:msg as short}, ${3:msgType as MSG})]]></content>
+	<tabTrigger><![CDATA[NetworkConnection.Send]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*[of MSG](msg, msgType)]]></description>
+</snippet>

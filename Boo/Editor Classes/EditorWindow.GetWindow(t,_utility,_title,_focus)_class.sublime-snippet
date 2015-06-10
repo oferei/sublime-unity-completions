@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.GetWindow(${1:t as iOS.ADBannerView.Type}, ${2:utility as bool = false}, ${3:title as string = null}, ${4:focus as bool = true})]]></content>
+	<content><![CDATA[EditorWindow.GetWindow(${1:t as Type}, ${2:utility as bool = false}, ${3:title as string = null}, ${4:focus as bool = true})]]></content>
 	<tabTrigger><![CDATA[EditorWindow.GetWindow]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(t, utility, title, focus)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.OnSetLocalVisibility(${1:bool vis})]]></content>
+	<tabTrigger><![CDATA[networkBehaviour.OnSetLocalVisibility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(vis)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkWriter.StartMessage(${1:msgType : short})]]></content>
+	<tabTrigger><![CDATA[StartMessage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkWriter.*(msgType)]]></description>
+</snippet>

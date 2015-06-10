@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MustExtensions.MustBeEqual(${1:T actual}, ${2:T expected})]]></content>
+	<tabTrigger><![CDATA[mustExtensions.MustBeEqual]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(actual, expected)]]></description>
+</snippet>

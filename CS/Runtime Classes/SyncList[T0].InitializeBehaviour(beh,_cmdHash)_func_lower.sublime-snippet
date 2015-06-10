@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.InitializeBehaviour(${1:Networking.NetworkBehaviour beh}, ${2:int cmdHash})]]></content>
+	<tabTrigger><![CDATA[initializeBehaviour]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SyncList<T0>.*(beh, cmdHash)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomEditor(${1:iOS.ADBannerView.Type inspectedType}, ${2:bool editorForChildClasses})]]></content>
+	<content><![CDATA[CustomEditor(${1:Type inspectedType}, ${2:bool editorForChildClasses})]]></content>
 	<tabTrigger><![CDATA[customEditor]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(inspectedType, editorForChildClasses)]]></description>

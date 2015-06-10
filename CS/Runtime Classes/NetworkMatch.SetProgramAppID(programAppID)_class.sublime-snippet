@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMatch.SetProgramAppID(${1:Networking.Types.AppID programAppID})]]></content>
+	<tabTrigger><![CDATA[NetworkMatch.SetProgramAppID]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(programAppID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LODGroup.SetLODs(${1:lods as (LOD)})]]></content>
+	<tabTrigger><![CDATA[LODGroup.SetLODs]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(lods)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkWriter(${1:buffer as (byte)})]]></content>
+	<tabTrigger><![CDATA[networkWriter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(buffer)]]></description>
+</snippet>

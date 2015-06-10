@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.OnRebuildObservers(${1:observers : HashSet<NetworkConnection>}, ${2:initialize : bool})]]></content>
+	<tabTrigger><![CDATA[onRebuildObservers]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkBehaviour.*(observers, initialize)]]></description>
+</snippet>

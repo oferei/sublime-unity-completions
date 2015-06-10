@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MessageBase.Deserialize(${1:reader : Networking.NetworkReader})]]></content>
+	<tabTrigger><![CDATA[deserialize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MessageBase.*(reader)]]></description>
+</snippet>

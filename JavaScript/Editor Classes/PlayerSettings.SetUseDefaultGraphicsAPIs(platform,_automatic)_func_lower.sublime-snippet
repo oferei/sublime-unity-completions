@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetUseDefaultGraphicsAPIs(${1:platform : BuildTarget}, ${2:automatic : bool})]]></content>
+	<tabTrigger><![CDATA[setUseDefaultGraphicsAPIs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerSettings.*(platform, automatic)]]></description>
+</snippet>

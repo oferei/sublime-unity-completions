@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnClientConnect(${1:conn as Networking.NetworkConnection})]]></content>
+	<tabTrigger><![CDATA[networkManager.OnClientConnect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(conn)]]></description>
+</snippet>

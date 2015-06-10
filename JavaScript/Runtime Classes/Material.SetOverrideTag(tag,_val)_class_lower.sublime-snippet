@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetOverrideTag(${1:tag : string}, ${2:val : string})]]></content>
+	<tabTrigger><![CDATA[material.SetOverrideTag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tag, val)]]></description>
+</snippet>

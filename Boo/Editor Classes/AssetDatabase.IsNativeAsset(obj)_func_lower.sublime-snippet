@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsNativeAsset(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[isNativeAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(obj)]]></description>
+</snippet>

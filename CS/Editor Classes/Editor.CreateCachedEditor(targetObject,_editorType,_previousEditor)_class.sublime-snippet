@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Editor.CreateCachedEditor(${1:Object targetObject}, ${2:iOS.ADBannerView.Type editorType}, ${3:Editor previousEditor})]]></content>
-	<tabTrigger><![CDATA[Editor.CreateCachedEditor]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(targetObject, editorType, previousEditor)]]></description>
-</snippet>

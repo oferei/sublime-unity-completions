@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientScene.AddPlayer(${1:readyConn : Networking.NetworkConnection}, ${2:playerControllerId : short})]]></content>
+	<tabTrigger><![CDATA[clientScene.AddPlayer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(readyConn, playerControllerId)]]></description>
+</snippet>

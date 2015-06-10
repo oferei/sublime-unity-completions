@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkCRC.RegisterBehaviour(${1:string name}, ${2:int channel})]]></content>
+	<tabTrigger><![CDATA[networkCRC.RegisterBehaviour]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name, channel)]]></description>
+</snippet>

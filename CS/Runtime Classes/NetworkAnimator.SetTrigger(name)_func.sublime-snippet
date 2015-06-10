@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkAnimator.SetTrigger(${1:string name})]]></content>
+	<tabTrigger><![CDATA[SetTrigger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkAnimator.*(name)]]></description>
+</snippet>

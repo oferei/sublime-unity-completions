@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkReader.ReadBytes(${1:count as int})]]></content>
+	<tabTrigger><![CDATA[NetworkReader.ReadBytes]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(count)]]></description>
+</snippet>

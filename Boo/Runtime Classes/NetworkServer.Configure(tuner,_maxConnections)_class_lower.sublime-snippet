@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.Configure(${1:tuner as Tuner}, ${2:maxConnections as int})]]></content>
+	<tabTrigger><![CDATA[networkServer.Configure]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tuner, maxConnections)]]></description>
+</snippet>

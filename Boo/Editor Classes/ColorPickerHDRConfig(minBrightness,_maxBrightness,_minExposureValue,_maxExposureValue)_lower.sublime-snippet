@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorPickerHDRConfig(${1:minBrightness as single}, ${2:maxBrightness as single}, ${3:minExposureValue as single}, ${4:maxExposureValue as single})]]></content>
+	<tabTrigger><![CDATA[colorPickerHDRConfig]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(minBrightness, maxBrightness, minExposureValue, maxExposureValue)]]></description>
+</snippet>

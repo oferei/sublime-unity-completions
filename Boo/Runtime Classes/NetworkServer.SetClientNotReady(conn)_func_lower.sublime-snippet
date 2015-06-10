@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.SetClientNotReady(${1:conn as Networking.NetworkConnection})]]></content>
+	<tabTrigger><![CDATA[setClientNotReady]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkServer.*(conn)]]></description>
+</snippet>

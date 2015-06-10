@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnStartClient(${1:client : Networking.NetworkClient})]]></content>
+	<tabTrigger><![CDATA[networkManager.OnStartClient]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(client)]]></description>
+</snippet>

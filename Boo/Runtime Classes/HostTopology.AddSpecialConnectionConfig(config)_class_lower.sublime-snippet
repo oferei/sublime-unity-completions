@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HostTopology.AddSpecialConnectionConfig(${1:config as Networking.ConnectionConfig})]]></content>
+	<tabTrigger><![CDATA[hostTopology.AddSpecialConnectionConfig]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(config)]]></description>
+</snippet>

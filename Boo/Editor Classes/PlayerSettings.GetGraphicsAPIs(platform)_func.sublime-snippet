@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetGraphicsAPIs(${1:platform as BuildTarget})]]></content>
+	<tabTrigger><![CDATA[GetGraphicsAPIs]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerSettings.*(platform)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomPropertyDrawer(${1:type : iOS.ADBannerView.Type}, ${2:useForChildren : bool})]]></content>
+	<content><![CDATA[CustomPropertyDrawer(${1:type : Type}, ${2:useForChildren : bool})]]></content>
 	<tabTrigger><![CDATA[customPropertyDrawer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(type, useForChildren)]]></description>

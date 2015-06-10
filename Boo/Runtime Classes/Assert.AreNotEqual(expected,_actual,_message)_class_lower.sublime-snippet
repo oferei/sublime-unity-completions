@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.AreNotEqual(${1:expected as T}, ${2:actual as T}, ${3:message as string})]]></content>
+	<tabTrigger><![CDATA[assert.AreNotEqual]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(expected, actual, message)]]></description>
+</snippet>

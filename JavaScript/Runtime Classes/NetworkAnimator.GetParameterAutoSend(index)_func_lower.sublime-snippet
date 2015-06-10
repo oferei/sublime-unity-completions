@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkAnimator.GetParameterAutoSend(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[getParameterAutoSend]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkAnimator.*(index)]]></description>
+</snippet>

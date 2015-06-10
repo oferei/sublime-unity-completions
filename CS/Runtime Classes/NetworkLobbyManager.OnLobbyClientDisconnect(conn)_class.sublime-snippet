@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkLobbyManager.OnLobbyClientDisconnect(${1:Networking.NetworkConnection conn})]]></content>
+	<tabTrigger><![CDATA[NetworkLobbyManager.OnLobbyClientDisconnect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(conn)]]></description>
+</snippet>

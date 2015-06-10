@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.SyncListChanged(${1:Operation<T> op}, ${2:int itemIndex})]]></content>
+	<tabTrigger><![CDATA[SyncList<T0>.SyncListChanged]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(op, itemIndex)]]></description>
+</snippet>

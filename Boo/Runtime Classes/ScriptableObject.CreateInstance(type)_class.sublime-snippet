@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScriptableObject.CreateInstance(${1:type as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[ScriptableObject.CreateInstance(${1:type as Type})]]></content>
 	<tabTrigger><![CDATA[ScriptableObject.CreateInstance]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(type)]]></description>

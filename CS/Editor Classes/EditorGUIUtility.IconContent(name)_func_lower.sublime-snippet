@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUIUtility.IconContent(${1:string name})]]></content>
-	<tabTrigger><![CDATA[iconContent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUIUtility.*(name)]]></description>
-</snippet>

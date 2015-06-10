@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetOverrideTag(${1:string tag}, ${2:string val})]]></content>
+	<tabTrigger><![CDATA[Material.SetOverrideTag]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(tag, val)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.Transaction(${1:string productId}, ${2:Decimal amount}, ${3:string currency})]]></content>
+	<tabTrigger><![CDATA[transaction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Analytics.*(productId, amount, currency)]]></description>
+</snippet>

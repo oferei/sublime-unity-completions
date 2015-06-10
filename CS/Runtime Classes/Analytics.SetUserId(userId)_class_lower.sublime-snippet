@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.SetUserId(${1:string userId})]]></content>
+	<tabTrigger><![CDATA[analytics.SetUserId]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(userId)]]></description>
+</snippet>

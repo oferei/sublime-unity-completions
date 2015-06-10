@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.SetDirtyBit(${1:dirtyBit : uint})]]></content>
+	<tabTrigger><![CDATA[networkBehaviour.SetDirtyBit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(dirtyBit)]]></description>
+</snippet>

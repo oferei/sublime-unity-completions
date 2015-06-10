@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BitStream.Serialize(${1:ref viewID : NetworkViewID})]]></content>
+	<tabTrigger><![CDATA[Serialize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BitStream.*(ref viewID)]]></description>
+</snippet>

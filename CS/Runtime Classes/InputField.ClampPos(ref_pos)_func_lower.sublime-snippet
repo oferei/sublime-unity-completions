@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputField.ClampPos(${1:int ref pos})]]></content>
+	<tabTrigger><![CDATA[clampPos]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[InputField.*(ref pos)]]></description>
+</snippet>

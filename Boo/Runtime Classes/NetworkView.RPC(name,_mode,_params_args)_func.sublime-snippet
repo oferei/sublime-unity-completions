@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkView.RPC(${1:name as string}, ${2:mode as RPCMode}, ${3:params args as (object)})]]></content>
-	<tabTrigger><![CDATA[RPC]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkView.*(name, mode, params args)]]></description>
-</snippet>

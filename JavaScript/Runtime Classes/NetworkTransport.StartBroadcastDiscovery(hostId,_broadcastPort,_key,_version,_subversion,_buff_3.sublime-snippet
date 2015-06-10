@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.StartBroadcastDiscovery(${1:hostId : int}, ${2:broadcastPort : int}, ${3:key : int}, ${4:version : int}, ${5:subversion : int}, ${6:buffer : byte[]}, ${7:size : int}, ${8:timeout : int}, ${9:out error : byte})]]></content>
+	<tabTrigger><![CDATA[StartBroadcastDiscovery]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkTransport.*(hostId, broadcastPort, key, version, subversion, buffer, size, timeout, out error)]]></description>
+</snippet>

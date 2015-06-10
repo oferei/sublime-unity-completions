@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetPropertyOptionalString(${1:string name}, ${2:string ref value}, ${3:BuildTargetGroup target = BuildTargetGroup.Unknown})]]></content>
+	<tabTrigger><![CDATA[getPropertyOptionalString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayerSettings.*(name, ref value, target)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.InvokeRPC(${1:cmdHash as int}, ${2:reader as Networking.NetworkReader})]]></content>
+	<tabTrigger><![CDATA[invokeRPC]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkBehaviour.*(cmdHash, reader)]]></description>
+</snippet>

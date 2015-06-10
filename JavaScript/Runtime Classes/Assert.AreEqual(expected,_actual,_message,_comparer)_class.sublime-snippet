@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.AreEqual(${1:expected : T}, ${2:actual : T}, ${3:message : string}, ${4:comparer : IEqualityComparer<T>})]]></content>
+	<tabTrigger><![CDATA[Assert.AreEqual]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(expected, actual, message, comparer)]]></description>
+</snippet>

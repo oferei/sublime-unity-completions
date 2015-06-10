@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.ReceiveRelayEventFromHost(${1:int hostId}, ${2:byte out error})]]></content>
+	<tabTrigger><![CDATA[networkTransport.ReceiveRelayEventFromHost]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(hostId, out error)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.ObjectField(${1:position : Rect}, ${2:label : GUIContent}, ${3:obj : Object}, ${4:objType : iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[EditorGUI.ObjectField(${1:position : Rect}, ${2:label : GUIContent}, ${3:obj : Object}, ${4:objType : Type})]]></content>
 	<tabTrigger><![CDATA[objectField]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[EditorGUI.*(position, label, obj, objType)]]></description>

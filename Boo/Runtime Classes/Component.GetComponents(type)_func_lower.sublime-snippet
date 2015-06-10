@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.GetComponents(${1:type as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[Component.GetComponents(${1:type as Type})]]></content>
 	<tabTrigger><![CDATA[getComponents]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Component.*(type)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MustExtensions.MustNotBeApproximatelyEqual(${1:actual : float}, ${2:expected : float})]]></content>
+	<tabTrigger><![CDATA[mustExtensions.MustNotBeApproximatelyEqual]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(actual, expected)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnServerAddPlayer(${1:conn : Networking.NetworkConnection}, ${2:playerControllerId : short})]]></content>
+	<tabTrigger><![CDATA[networkManager.OnServerAddPlayer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(conn, playerControllerId)]]></description>
+</snippet>

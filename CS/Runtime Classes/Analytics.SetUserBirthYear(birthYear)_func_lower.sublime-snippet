@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.SetUserBirthYear(${1:int birthYear})]]></content>
+	<tabTrigger><![CDATA[setUserBirthYear]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Analytics.*(birthYear)]]></description>
+</snippet>

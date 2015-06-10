@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ChannelQOS(${1:value : Networking.QosType})]]></content>
+	<tabTrigger><![CDATA[ChannelQOS]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

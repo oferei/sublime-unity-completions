@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TexturePropertyWithHDRColor(${1:label as GUIContent}, ${2:textureProp as MaterialProperty}, ${3:colorProperty as MaterialProperty}, ${4:hdrConfig as ColorPickerHDRConfig}, ${5:showAlpha as bool})]]></content>
+	<tabTrigger><![CDATA[materialEditor.TexturePropertyWithHDRColor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(label, textureProp, colorProperty, hdrConfig, showAlpha)]]></description>
+</snippet>

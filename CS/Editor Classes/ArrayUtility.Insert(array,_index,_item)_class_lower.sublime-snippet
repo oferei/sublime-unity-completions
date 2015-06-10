@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.Insert(${1:T[] array}, ${2:int index}, ${3:T item})]]></content>
-	<tabTrigger><![CDATA[arrayUtility.Insert]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(array, index, item)]]></description>
-</snippet>

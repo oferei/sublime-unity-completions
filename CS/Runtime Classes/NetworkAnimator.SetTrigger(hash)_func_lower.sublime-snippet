@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkAnimator.SetTrigger(${1:int hash})]]></content>
+	<tabTrigger><![CDATA[setTrigger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkAnimator.*(hash)]]></description>
+</snippet>

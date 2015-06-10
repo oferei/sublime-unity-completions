@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkConnection.Initialize(${1:address : string}, ${2:hostId : int}, ${3:connectionId : int}, ${4:hostTopology : Networking.HostTopology})]]></content>
+	<tabTrigger><![CDATA[initialize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkConnection.*(address, hostId, connectionId, hostTopology)]]></description>
+</snippet>

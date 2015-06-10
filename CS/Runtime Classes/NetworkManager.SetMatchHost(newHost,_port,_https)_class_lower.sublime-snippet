@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.SetMatchHost(${1:string newHost}, ${2:int port}, ${3:bool https})]]></content>
+	<tabTrigger><![CDATA[networkManager.SetMatchHost]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(newHost, port, https)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.OnCheckObserver(${1:conn as Networking.NetworkConnection})]]></content>
+	<tabTrigger><![CDATA[onCheckObserver]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkBehaviour.*(conn)]]></description>
+</snippet>

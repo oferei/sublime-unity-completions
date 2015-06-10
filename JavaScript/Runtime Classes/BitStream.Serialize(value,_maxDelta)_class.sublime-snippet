@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BitStream.Serialize(${1:value : Vector3}, ${2:maxDelta : float = 0.00001F})]]></content>
-	<tabTrigger><![CDATA[BitStream.Serialize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(value, maxDelta)]]></description>
-</snippet>

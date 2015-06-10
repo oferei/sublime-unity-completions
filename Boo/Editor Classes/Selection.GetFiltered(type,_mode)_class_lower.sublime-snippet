@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Selection.GetFiltered(${1:type as iOS.ADBannerView.Type}, ${2:mode as SelectionMode})]]></content>
+	<content><![CDATA[Selection.GetFiltered(${1:type as Type}, ${2:mode as SelectionMode})]]></content>
 	<tabTrigger><![CDATA[selection.GetFiltered]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(type, mode)]]></description>

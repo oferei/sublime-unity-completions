@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorUsageAttribute(${1:bool showAlpha}, ${2:bool hdr}, ${3:float minBrightness}, ${4:float maxBrightness}, ${5:float minExposureValue}, ${6:float maxExposureValue})]]></content>
+	<tabTrigger><![CDATA[ColorUsageAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(showAlpha, hdr, minBrightness, maxBrightness, minExposureValue, maxExposureValue)]]></description>
+</snippet>

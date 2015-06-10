@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.AreApproximatelyEqual(${1:float expected}, ${2:float actual}, ${3:float tolerance}, ${4:string message})]]></content>
+	<tabTrigger><![CDATA[Assert.AreApproximatelyEqual]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(expected, actual, tolerance, message)]]></description>
+</snippet>

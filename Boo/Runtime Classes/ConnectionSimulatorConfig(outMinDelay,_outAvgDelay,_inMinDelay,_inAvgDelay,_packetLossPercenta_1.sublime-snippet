@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConnectionSimulatorConfig(${1:outMinDelay as int}, ${2:outAvgDelay as int}, ${3:inMinDelay as int}, ${4:inAvgDelay as int}, ${5:packetLossPercentage as single})]]></content>
+	<tabTrigger><![CDATA[ConnectionSimulatorConfig]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(outMinDelay, outAvgDelay, inMinDelay, inAvgDelay, packetLossPercentage)]]></description>
+</snippet>

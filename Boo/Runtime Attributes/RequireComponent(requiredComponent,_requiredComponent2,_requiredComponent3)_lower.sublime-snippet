@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RequireComponent(${1:requiredComponent as iOS.ADBannerView.Type}, ${2:requiredComponent2 as iOS.ADBannerView.Type}, ${3:requiredComponent3 as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[RequireComponent(${1:requiredComponent as Type}, ${2:requiredComponent2 as Type}, ${3:requiredComponent3 as Type})]]></content>
 	<tabTrigger><![CDATA[requireComponent]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(requiredComponent, requiredComponent2, requiredComponent3)]]></description>

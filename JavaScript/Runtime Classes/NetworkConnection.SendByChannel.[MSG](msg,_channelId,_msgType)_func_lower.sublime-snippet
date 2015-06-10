@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkConnection.SendByChannel.<${1:MSG}>(${2:msg : short}, ${3:channelId : MSG}, ${4:msgType : int})]]></content>
+	<tabTrigger><![CDATA[sendByChannel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkConnection.*.<MSG>(msg, channelId, msgType)]]></description>
+</snippet>

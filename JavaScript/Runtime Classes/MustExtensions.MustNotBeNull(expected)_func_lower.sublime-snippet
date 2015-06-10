@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MustExtensions.MustNotBeNull(${1:expected : T})]]></content>
+	<tabTrigger><![CDATA[mustNotBeNull]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MustExtensions.*(expected)]]></description>
+</snippet>

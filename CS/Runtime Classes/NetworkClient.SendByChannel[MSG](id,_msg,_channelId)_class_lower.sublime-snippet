@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkClient.SendByChannel<${1:MSG}>(${2:short id}, ${3:MSG msg}, ${4:int channelId})]]></content>
+	<tabTrigger><![CDATA[networkClient.SendByChannel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*<MSG>(id, msg, channelId)]]></description>
+</snippet>

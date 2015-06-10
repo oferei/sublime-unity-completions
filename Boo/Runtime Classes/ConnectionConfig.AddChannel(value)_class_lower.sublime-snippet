@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConnectionConfig.AddChannel(${1:value as Networking.QosType})]]></content>
+	<tabTrigger><![CDATA[connectionConfig.AddChannel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

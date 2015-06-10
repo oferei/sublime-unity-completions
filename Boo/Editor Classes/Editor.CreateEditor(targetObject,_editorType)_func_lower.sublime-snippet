@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Editor.CreateEditor(${1:targetObject as Object}, ${2:editorType as iOS.ADBannerView.Type = null})]]></content>
+	<content><![CDATA[Editor.CreateEditor(${1:targetObject as Object}, ${2:editorType as Type = null})]]></content>
 	<tabTrigger><![CDATA[createEditor]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Editor.*(targetObject, editorType)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkConnection.Send.<${1:MSG}>(${2:msg : short}, ${3:msgType : MSG})]]></content>
+	<tabTrigger><![CDATA[networkConnection.Send]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*.<MSG>(msg, msgType)]]></description>
+</snippet>

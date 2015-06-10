@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.SetUserGender(${1:gender : Analytics.Gender})]]></content>
+	<tabTrigger><![CDATA[setUserGender]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Analytics.*(gender)]]></description>
+</snippet>

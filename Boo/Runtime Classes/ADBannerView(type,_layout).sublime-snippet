@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ADBannerView(${1:type as iOS.ADBannerView.Type}, ${2:layout as iOS.ADBannerView.Layout})]]></content>
+	<content><![CDATA[ADBannerView(${1:type as Type}, ${2:layout as iOS.ADBannerView.Layout})]]></content>
 	<tabTrigger><![CDATA[ADBannerView]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(type, layout)]]></description>

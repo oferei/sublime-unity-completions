@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[DrawGizmo(${1:gizmo as GizmoType}, ${2:drawnGizmoType as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[DrawGizmo(${1:gizmo as GizmoType}, ${2:drawnGizmoType as Type})]]></content>
 	<tabTrigger><![CDATA[drawGizmo]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(gizmo, drawnGizmoType)]]></description>

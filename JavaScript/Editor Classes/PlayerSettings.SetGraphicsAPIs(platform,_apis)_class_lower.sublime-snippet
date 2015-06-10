@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetGraphicsAPIs(${1:platform : BuildTarget}, ${2:apis : GraphicsDeviceType[]})]]></content>
+	<tabTrigger><![CDATA[playerSettings.SetGraphicsAPIs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(platform, apis)]]></description>
+</snippet>

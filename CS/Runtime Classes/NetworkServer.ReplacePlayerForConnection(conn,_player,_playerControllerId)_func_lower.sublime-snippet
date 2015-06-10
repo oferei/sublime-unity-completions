@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.ReplacePlayerForConnection(${1:Networking.NetworkConnection conn}, ${2:GameObject player}, ${3:short playerControllerId})]]></content>
+	<tabTrigger><![CDATA[replacePlayerForConnection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkServer.*(conn, player, playerControllerId)]]></description>
+</snippet>

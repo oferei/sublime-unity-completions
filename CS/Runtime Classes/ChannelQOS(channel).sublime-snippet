@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ChannelQOS(${1:Networking.ChannelQOS channel})]]></content>
+	<tabTrigger><![CDATA[ChannelQOS]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(channel)]]></description>
+</snippet>

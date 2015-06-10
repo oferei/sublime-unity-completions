@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorWindow.Show(${1:immediateDisplay : bool = false})]]></content>
+	<content><![CDATA[EditorWindow.Show(${1:immediateDisplay : bool})]]></content>
 	<tabTrigger><![CDATA[EditorWindow.Show]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(immediateDisplay)]]></description>

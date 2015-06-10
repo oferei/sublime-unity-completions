@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Light.GetCommandBuffers(${1:Rendering.LightEvent evt})]]></content>
+	<tabTrigger><![CDATA[getCommandBuffers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Light.*(evt)]]></description>
+</snippet>

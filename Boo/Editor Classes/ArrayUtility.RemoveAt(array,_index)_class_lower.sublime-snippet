@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.RemoveAt(${1:array as (T)}, ${2:index as int})]]></content>
-	<tabTrigger><![CDATA[arrayUtility.RemoveAt]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(array, index)]]></description>
-</snippet>

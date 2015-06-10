@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.SerializeItem(${1:Networking.NetworkWriter writer}, ${2:T item})]]></content>
+	<tabTrigger><![CDATA[syncList<T0>.SerializeItem]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(writer, item)]]></description>
+</snippet>

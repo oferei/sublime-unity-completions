@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.RegisterHandler(${1:msgType : short}, ${2:handler : Networking.NetworkMessageDelegate})]]></content>
+	<tabTrigger><![CDATA[RegisterHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkServer.*(msgType, handler)]]></description>
+</snippet>

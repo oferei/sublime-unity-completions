@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnServerRemovePlayer(${1:NetworkConnection conn}, ${2:UPlayer player})]]></content>
+	<tabTrigger><![CDATA[networkManager.OnServerRemovePlayer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(conn, player)]]></description>
+</snippet>

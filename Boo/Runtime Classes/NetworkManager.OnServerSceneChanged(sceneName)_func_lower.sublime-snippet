@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnServerSceneChanged(${1:sceneName as string})]]></content>
+	<tabTrigger><![CDATA[onServerSceneChanged]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkManager.*(sceneName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.SyncListChanged(${1:op as Operation<T>}, ${2:itemIndex as int})]]></content>
+	<tabTrigger><![CDATA[syncList<T0>.SyncListChanged]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(op, itemIndex)]]></description>
+</snippet>

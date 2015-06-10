@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.OnSerialize(${1:Networking.NetworkWriter writer}, ${2:bool initialState})]]></content>
+	<tabTrigger><![CDATA[networkBehaviour.OnSerialize]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(writer, initialState)]]></description>
+</snippet>

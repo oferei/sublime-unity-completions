@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ADBannerView.IsAvailable(${1:type : iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[ADBannerView.IsAvailable(${1:type : Type})]]></content>
 	<tabTrigger><![CDATA[isAvailable]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ADBannerView.*(type)]]></description>

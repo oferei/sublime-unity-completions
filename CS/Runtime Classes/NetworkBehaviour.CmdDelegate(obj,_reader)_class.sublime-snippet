@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.CmdDelegate(${1:Networking.NetworkBehaviour obj}, ${2:Networking.NetworkReader reader})]]></content>
+	<tabTrigger><![CDATA[NetworkBehaviour.CmdDelegate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(obj, reader)]]></description>
+</snippet>

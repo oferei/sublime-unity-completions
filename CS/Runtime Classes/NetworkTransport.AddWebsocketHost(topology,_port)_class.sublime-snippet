@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.AddWebsocketHost(${1:Networking.HostTopology topology}, ${2:int port})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.AddWebsocketHost]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(topology, port)]]></description>
+</snippet>

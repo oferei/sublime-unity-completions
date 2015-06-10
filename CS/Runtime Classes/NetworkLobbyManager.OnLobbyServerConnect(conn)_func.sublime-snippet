@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkLobbyManager.OnLobbyServerConnect(${1:Networking.NetworkConnection conn})]]></content>
+	<tabTrigger><![CDATA[OnLobbyServerConnect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkLobbyManager.*(conn)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.GetComponentsInChildren(${1:t as iOS.ADBannerView.Type}, ${2:includeInactive as bool = false})]]></content>
+	<content><![CDATA[Component.GetComponentsInChildren(${1:t as Type}, ${2:includeInactive as bool = false})]]></content>
 	<tabTrigger><![CDATA[getComponentsInChildren]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Component.*(t, includeInactive)]]></description>

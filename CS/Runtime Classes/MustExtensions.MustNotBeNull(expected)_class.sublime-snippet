@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MustExtensions.MustNotBeNull(${1:T expected})]]></content>
+	<tabTrigger><![CDATA[MustExtensions.MustNotBeNull]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(expected)]]></description>
+</snippet>

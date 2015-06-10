@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Resources.FindObjectsOfTypeAll(${1:iOS.ADBannerView.Type type})]]></content>
+	<content><![CDATA[Resources.FindObjectsOfTypeAll(${1:Type type})]]></content>
 	<tabTrigger><![CDATA[Resources.FindObjectsOfTypeAll]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(type)]]></description>

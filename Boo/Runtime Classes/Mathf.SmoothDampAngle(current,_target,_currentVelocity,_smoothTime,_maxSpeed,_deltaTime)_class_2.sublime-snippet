@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mathf.SmoothDampAngle(${1:current as single}, ${2:target as single}, ${3:currentVelocity as single}, ${4:smoothTime as single}, ${5:maxSpeed as single = Mathf.Infinity}, ${6:deltaTime as single = Time.deltaTime})]]></content>
-	<tabTrigger><![CDATA[mathf.SmoothDampAngle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(current, target, currentVelocity, smoothTime, maxSpeed, deltaTime)]]></description>
-</snippet>

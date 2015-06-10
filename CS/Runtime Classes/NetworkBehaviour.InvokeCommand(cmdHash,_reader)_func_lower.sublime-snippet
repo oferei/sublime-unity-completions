@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkBehaviour.InvokeCommand(${1:int cmdHash}, ${2:Networking.NetworkReader reader})]]></content>
+	<tabTrigger><![CDATA[invokeCommand]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkBehaviour.*(cmdHash, reader)]]></description>
+</snippet>

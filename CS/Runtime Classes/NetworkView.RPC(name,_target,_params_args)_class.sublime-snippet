@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkView.RPC(${1:string name}, ${2:NetworkPlayer target}, ${3:object[] params args})]]></content>
-	<tabTrigger><![CDATA[NetworkView.RPC]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(name, target, params args)]]></description>
-</snippet>

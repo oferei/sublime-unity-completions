@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.HandleMsg(${1:op as byte}, ${2:itemIndex as int}, ${3:item as T})]]></content>
+	<tabTrigger><![CDATA[handleMsg]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SyncList<T0>.*(op, itemIndex, item)]]></description>
+</snippet>

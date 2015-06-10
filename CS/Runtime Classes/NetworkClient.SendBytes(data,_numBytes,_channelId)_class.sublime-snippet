@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkClient.SendBytes(${1:byte[] data}, ${2:int numBytes}, ${3:int channelId})]]></content>
+	<tabTrigger><![CDATA[NetworkClient.SendBytes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(data, numBytes, channelId)]]></description>
+</snippet>

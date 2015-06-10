@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawProcedural(${1:Matrix4x4 matrix}, ${2:Material material}, ${3:int shaderPass}, ${4:MeshTopology topology}, ${5:int vertexCount}, ${6:int instanceCount = 1}, ${7:MaterialPropertyBlock properties = null})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.DrawProcedural]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(matrix, material, shaderPass, topology, vertexCount, instanceCount, properties)]]></description>
+</snippet>

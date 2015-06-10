@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetPacketReceivedRate(${1:int hostId}, ${2:int connectionId}, ${3:byte out error})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.GetPacketReceivedRate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(hostId, connectionId, out error)]]></description>
+</snippet>

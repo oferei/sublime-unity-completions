@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.AreApproximatelyEqual(${1:expected as single}, ${2:actual as single})]]></content>
+	<tabTrigger><![CDATA[AreApproximatelyEqual]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Assert.*(expected, actual)]]></description>
+</snippet>

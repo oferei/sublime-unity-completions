@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnServerError(${1:conn : Networking.NetworkConnection}, ${2:errorCode : int})]]></content>
+	<tabTrigger><![CDATA[OnServerError]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkManager.*(conn, errorCode)]]></description>
+</snippet>

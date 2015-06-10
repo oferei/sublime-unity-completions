@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUIUtility.HasObjectThumbnail(${1:iOS.ADBannerView.Type objType})]]></content>
+	<content><![CDATA[EditorGUIUtility.HasObjectThumbnail(${1:Type objType})]]></content>
 	<tabTrigger><![CDATA[editorGUIUtility.HasObjectThumbnail]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(objType)]]></description>

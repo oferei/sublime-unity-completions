@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.InitializeBehaviour(${1:beh : Networking.NetworkBehaviour}, ${2:cmdHash : int})]]></content>
+	<tabTrigger><![CDATA[syncList<T0>.InitializeBehaviour]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(beh, cmdHash)]]></description>
+</snippet>

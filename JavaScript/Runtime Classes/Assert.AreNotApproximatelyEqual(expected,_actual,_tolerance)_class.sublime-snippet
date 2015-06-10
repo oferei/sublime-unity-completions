@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.AreNotApproximatelyEqual(${1:expected : float}, ${2:actual : float}, ${3:tolerance : float})]]></content>
+	<tabTrigger><![CDATA[Assert.AreNotApproximatelyEqual]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(expected, actual, tolerance)]]></description>
+</snippet>

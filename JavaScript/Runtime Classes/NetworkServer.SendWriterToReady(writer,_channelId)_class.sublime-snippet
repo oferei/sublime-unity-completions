@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.SendWriterToReady(${1:writer : NetworkWriter}, ${2:channelId : int})]]></content>
+	<tabTrigger><![CDATA[NetworkServer.SendWriterToReady]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(writer, channelId)]]></description>
+</snippet>

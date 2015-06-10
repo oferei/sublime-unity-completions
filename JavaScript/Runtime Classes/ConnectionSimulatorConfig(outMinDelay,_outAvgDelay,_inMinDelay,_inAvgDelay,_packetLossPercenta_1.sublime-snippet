@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConnectionSimulatorConfig(${1:outMinDelay : int}, ${2:outAvgDelay : int}, ${3:inMinDelay : int}, ${4:inAvgDelay : int}, ${5:packetLossPercentage : float})]]></content>
+	<tabTrigger><![CDATA[ConnectionSimulatorConfig]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(outMinDelay, outAvgDelay, inMinDelay, inAvgDelay, packetLossPercentage)]]></description>
+</snippet>

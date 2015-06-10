@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.DeserializeItem(${1:reader as Networking.NetworkReader})]]></content>
+	<tabTrigger><![CDATA[syncList<T0>.DeserializeItem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(reader)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomEditor(${1:inspectedType as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[CustomEditor(${1:inspectedType as Type})]]></content>
 	<tabTrigger><![CDATA[CustomEditor]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(inspectedType)]]></description>

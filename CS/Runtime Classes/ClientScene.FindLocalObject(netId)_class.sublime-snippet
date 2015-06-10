@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientScene.FindLocalObject(${1:uint netId})]]></content>
+	<tabTrigger><![CDATA[ClientScene.FindLocalObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(netId)]]></description>
+</snippet>

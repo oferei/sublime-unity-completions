@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsForeignAsset(${1:obj : Object})]]></content>
+	<tabTrigger><![CDATA[assetDatabase.IsForeignAsset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

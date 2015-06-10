@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assert.IsNotNull(${1:value : T}, ${2:message : string})]]></content>
+	<tabTrigger><![CDATA[isNotNull]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Assert.*(value, message)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetAssetId(${1:GameObject go})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.GetAssetId]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(go)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.LoadAssetWithSubAssets(${1:name as string}, ${2:type as iOS.ADBannerView.Type})]]></content>
+	<content><![CDATA[AssetBundle.LoadAssetWithSubAssets(${1:name as string}, ${2:type as Type})]]></content>
 	<tabTrigger><![CDATA[LoadAssetWithSubAssets]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[AssetBundle.*(name, type)]]></description>
