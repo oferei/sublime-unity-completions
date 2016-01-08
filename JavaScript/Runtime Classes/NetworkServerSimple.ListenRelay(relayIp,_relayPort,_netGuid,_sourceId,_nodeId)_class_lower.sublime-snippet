@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServerSimple.ListenRelay(${1:relayIp : string}, ${2:relayPort : int}, ${3:netGuid : Networking.Types.NetworkID}, ${4:sourceId : Networking.Types.SourceID}, ${5:nodeId : Networking.Types.NodeID})]]></content>
+	<tabTrigger><![CDATA[networkServerSimple.ListenRelay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(relayIp, relayPort, netGuid, sourceId, nodeId)]]></description>
+</snippet>

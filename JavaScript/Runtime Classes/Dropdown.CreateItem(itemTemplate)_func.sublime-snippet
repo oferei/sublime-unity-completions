@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Dropdown.CreateItem(${1:itemTemplate : DropdownItem})]]></content>
+	<tabTrigger><![CDATA[CreateItem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Dropdown.*(itemTemplate)]]></description>
+</snippet>

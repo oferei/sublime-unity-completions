@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.CheckSphere(${1:position : Vector3}, ${2:radius : float}, ${3:layerMask : int = DefaultRaycastLayers}, ${4:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[physics.CheckSphere]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, radius, layerMask, queryTriggerInteraction)]]></description>
+</snippet>

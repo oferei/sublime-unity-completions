@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Logger.Log(${1:logType as LogType}, ${2:tag as string}, ${3:message as object}, ${4:context as Object})]]></content>
+	<tabTrigger><![CDATA[Log]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Logger.*(logType, tag, message, context)]]></description>
+</snippet>

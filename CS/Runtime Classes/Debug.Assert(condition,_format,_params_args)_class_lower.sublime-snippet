@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Debug.Assert(${1:bool condition}, ${2:string format}, ${3:object[] params args})]]></content>
-	<tabTrigger><![CDATA[debug.Assert]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(condition, format, params args)]]></description>
-</snippet>

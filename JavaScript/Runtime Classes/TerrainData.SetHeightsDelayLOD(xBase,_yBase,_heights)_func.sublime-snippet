@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SetHeightsDelayLOD(${1:xBase : int}, ${2:yBase : int}, ${3:heights : float[,]})]]></content>
+	<tabTrigger><![CDATA[SetHeightsDelayLOD]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainData.*(xBase, yBase, heights)]]></description>
+</snippet>

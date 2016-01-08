@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.ExportPreset(${1:material as ProceduralMaterial}, ${2:exportPath as string})]]></content>
+	<tabTrigger><![CDATA[SubstanceImporter.ExportPreset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(material, exportPath)]]></description>
+</snippet>

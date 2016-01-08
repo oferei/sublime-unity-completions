@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.SetDistanceReferencePoint(${1:transform : Transform})]]></content>
+	<tabTrigger><![CDATA[SetDistanceReferencePoint]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullingGroup.*(transform)]]></description>
+</snippet>

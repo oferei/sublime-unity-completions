@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Lightmapping.BakeMultipleScenes(${1:string[] paths})]]></content>
+	<tabTrigger><![CDATA[BakeMultipleScenes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Lightmapping.*(paths)]]></description>
+</snippet>

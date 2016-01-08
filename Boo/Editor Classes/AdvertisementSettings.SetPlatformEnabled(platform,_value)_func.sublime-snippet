@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdvertisementSettings.SetPlatformEnabled(${1:platform as RuntimePlatform}, ${2:value as bool})]]></content>
+	<tabTrigger><![CDATA[SetPlatformEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AdvertisementSettings.*(platform, value)]]></description>
+</snippet>

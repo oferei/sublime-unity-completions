@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.SplitUIVertexStreams(${1:List<UIVertex> verts}, ${2:List<Vector3> positions}, ${3:List<Color32> colors}, ${4:List<Vector2> uv0S}, ${5:List<Vector2> uv1S}, ${6:List<Vector3> normals}, ${7:List<Vector4> tangents}, ${8:List<int> indicies})]]></content>
+	<tabTrigger><![CDATA[CanvasRenderer.SplitUIVertexStreams]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(verts, positions, colors, uv0S, uv1S, normals, tangents, indicies)]]></description>
+</snippet>

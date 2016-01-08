@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color.HSVToRGB(${1:H : float}, ${2:S : float}, ${3:V : float}, ${4:hdr : bool})]]></content>
+	<tabTrigger><![CDATA[color.HSVToRGB]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(H, S, V, hdr)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBlendShapeFrameWeight(${1:int shapeIndex}, ${2:int frameIndex})]]></content>
+	<tabTrigger><![CDATA[Mesh.GetBlendShapeFrameWeight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(shapeIndex, frameIndex)]]></description>
+</snippet>

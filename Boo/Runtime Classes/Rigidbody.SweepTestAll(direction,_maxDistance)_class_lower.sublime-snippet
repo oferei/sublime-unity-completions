@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody.SweepTestAll(${1:direction as Vector3}, ${2:maxDistance as single = Mathf.Infinity})]]></content>
-	<tabTrigger><![CDATA[rigidbody.SweepTestAll]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(direction, maxDistance)]]></description>
-</snippet>

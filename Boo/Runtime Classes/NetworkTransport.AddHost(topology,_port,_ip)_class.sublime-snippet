@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.AddHost(${1:topology as Networking.HostTopology}, ${2:port as int = 0}, ${3:ip as string = null})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.AddHost]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(topology, port, ip)]]></description>
+</snippet>

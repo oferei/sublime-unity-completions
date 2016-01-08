@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.SetTangents(${1:inTangents : List<Vector4>})]]></content>
+	<tabTrigger><![CDATA[mesh.SetTangents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inTangents)]]></description>
+</snippet>

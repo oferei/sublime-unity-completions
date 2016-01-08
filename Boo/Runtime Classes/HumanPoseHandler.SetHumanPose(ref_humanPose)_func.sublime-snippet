@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HumanPoseHandler.SetHumanPose(${1:ref humanPose as HumanPose})]]></content>
+	<tabTrigger><![CDATA[SetHumanPose]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HumanPoseHandler.*(ref humanPose)]]></description>
+</snippet>

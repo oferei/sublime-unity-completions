@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorUtility.ToHtmlStringRGBA(${1:color as Color})]]></content>
+	<tabTrigger><![CDATA[ColorUtility.ToHtmlStringRGBA]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(color)]]></description>
+</snippet>

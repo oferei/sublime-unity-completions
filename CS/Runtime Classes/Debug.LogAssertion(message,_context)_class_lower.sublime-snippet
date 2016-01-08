@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Debug.LogAssertion(${1:object message}, ${2:Object context})]]></content>
+	<tabTrigger><![CDATA[debug.LogAssertion]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(message, context)]]></description>
+</snippet>

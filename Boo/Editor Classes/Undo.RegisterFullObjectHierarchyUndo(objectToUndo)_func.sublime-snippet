@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.RegisterFullObjectHierarchyUndo(${1:objectToUndo as Object})]]></content>
+	<tabTrigger><![CDATA[RegisterFullObjectHierarchyUndo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Undo.*(objectToUndo)]]></description>
+</snippet>

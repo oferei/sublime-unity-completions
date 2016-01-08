@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.GetTrackerPosition(${1:string name})]]></content>
+	<tabTrigger><![CDATA[ClusterInput.GetTrackerPosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

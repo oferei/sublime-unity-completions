@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.SlerpUnclamped(${1:Vector3 a}, ${2:Vector3 b}, ${3:float t})]]></content>
+	<tabTrigger><![CDATA[Vector3.SlerpUnclamped]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(a, b, t)]]></description>
+</snippet>

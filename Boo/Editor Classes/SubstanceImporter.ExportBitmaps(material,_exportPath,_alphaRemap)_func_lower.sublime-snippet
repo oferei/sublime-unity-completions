@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.ExportBitmaps(${1:material as ProceduralMaterial}, ${2:exportPath as string}, ${3:alphaRemap as bool})]]></content>
+	<tabTrigger><![CDATA[exportBitmaps]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SubstanceImporter.*(material, exportPath, alphaRemap)]]></description>
+</snippet>

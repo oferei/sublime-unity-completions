@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MinMaxCurve.ParticleSystem.MinMaxCurve(${1:scalar : float}, ${2:min : AnimationCurve}, ${3:max : AnimationCurve})]]></content>
+	<tabTrigger><![CDATA[MinMaxCurve.ParticleSystem.MinMaxCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scalar, min, max)]]></description>
+</snippet>

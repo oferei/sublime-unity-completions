@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawLines(${1:lineSegments as (Vector3)})]]></content>
+	<tabTrigger><![CDATA[Handles.DrawLines]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(lineSegments)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicsSettings.SetCustomShader(${1:Rendering.BuiltinShaderType type}, ${2:Shader shader})]]></content>
+	<tabTrigger><![CDATA[SetCustomShader]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GraphicsSettings.*(type, shader)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.GetTrackerRotation(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[getTrackerRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ClusterInput.*(name)]]></description>
+</snippet>

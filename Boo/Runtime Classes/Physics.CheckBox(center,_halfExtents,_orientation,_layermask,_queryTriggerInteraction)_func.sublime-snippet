@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.CheckBox(${1:center as Vector3}, ${2:halfExtents as Vector3}, ${3:orientation as Quaternion = Quaternion.identity}, ${4:layermask as int = DefaultRaycastLayers}, ${5:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[CheckBox]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Physics.*(center, halfExtents, orientation, layermask, queryTriggerInteraction)]]></description>
+</snippet>

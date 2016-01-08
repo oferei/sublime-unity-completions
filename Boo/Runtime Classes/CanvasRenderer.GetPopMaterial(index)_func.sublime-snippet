@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.GetPopMaterial(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[GetPopMaterial]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CanvasRenderer.*(index)]]></description>
+</snippet>

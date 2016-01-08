@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkIdentity.ClientAuthorityCallback(${1:conn : Networking.NetworkConnection}, ${2:uv : Networking.NetworkIdentity}, ${3:authorityState : bool})]]></content>
+	<tabTrigger><![CDATA[networkIdentity.ClientAuthorityCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(conn, uv, authorityState)]]></description>
+</snippet>

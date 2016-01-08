@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshBuilder.BuildNavMeshForMultipleScenes(${1:string[] paths})]]></content>
+	<tabTrigger><![CDATA[NavMeshBuilder.BuildNavMeshForMultipleScenes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(paths)]]></description>
+</snippet>

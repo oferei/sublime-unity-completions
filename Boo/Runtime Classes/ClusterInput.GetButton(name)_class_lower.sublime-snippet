@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.GetButton(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[clusterInput.GetButton]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mathf.Lerp(${1:from : float}, ${2:to : float}, ${3:t : float})]]></content>
-	<tabTrigger><![CDATA[Mathf.Lerp]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(from, to, t)]]></description>
-</snippet>

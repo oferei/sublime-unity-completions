@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SamsungTV.SetSystemLanguage(${1:language as SystemLanguage})]]></content>
+	<tabTrigger><![CDATA[samsungTV.SetSystemLanguage]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(language)]]></description>
+</snippet>

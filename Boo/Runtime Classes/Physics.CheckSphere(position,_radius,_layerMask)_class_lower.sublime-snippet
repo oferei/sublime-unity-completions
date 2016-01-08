@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.CheckSphere(${1:position as Vector3}, ${2:radius as single}, ${3:layerMask as int = DefaultRaycastLayers})]]></content>
-	<tabTrigger><![CDATA[physics.CheckSphere]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(position, radius, layerMask)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultControls.CreateRawImage(${1:resources : Resources})]]></content>
+	<tabTrigger><![CDATA[createRawImage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DefaultControls.*(resources)]]></description>
+</snippet>

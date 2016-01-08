@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmissionModule.SetBursts(${1:bursts : Burst[]}, ${2:size : int})]]></content>
+	<tabTrigger><![CDATA[emissionModule.SetBursts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(bursts, size)]]></description>
+</snippet>

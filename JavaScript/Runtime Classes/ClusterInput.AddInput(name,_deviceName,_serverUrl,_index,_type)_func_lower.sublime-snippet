@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.AddInput(${1:name : string}, ${2:deviceName : string}, ${3:serverUrl : string}, ${4:index : int}, ${5:type : ClusterInputType})]]></content>
+	<tabTrigger><![CDATA[addInput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ClusterInput.*(name, deviceName, serverUrl, index, type)]]></description>
+</snippet>

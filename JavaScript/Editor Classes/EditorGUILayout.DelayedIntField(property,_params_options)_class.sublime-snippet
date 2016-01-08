@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.DelayedIntField(${1:property : SerializedProperty}, ${2:params options : GUILayoutOption[]})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.DelayedIntField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(property, params options)]]></description>
+</snippet>

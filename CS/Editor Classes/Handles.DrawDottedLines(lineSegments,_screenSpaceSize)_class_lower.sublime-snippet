@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawDottedLines(${1:Vector3[] lineSegments}, ${2:float screenSpaceSize})]]></content>
+	<tabTrigger><![CDATA[handles.DrawDottedLines]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(lineSegments, screenSpaceSize)]]></description>
+</snippet>

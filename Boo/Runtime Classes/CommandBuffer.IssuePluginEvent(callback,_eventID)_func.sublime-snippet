@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.IssuePluginEvent(${1:callback as IntPtr}, ${2:eventID as int})]]></content>
+	<tabTrigger><![CDATA[IssuePluginEvent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(callback, eventID)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BaseVertexEffect.ModifyVertices(${1:List<UIVertex> verts})]]></content>
-	<tabTrigger><![CDATA[modifyVertices]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[BaseVertexEffect.*(verts)]]></description>
-</snippet>

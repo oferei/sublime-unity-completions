@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Dropdown.DestroyBlocker(${1:GameObject blocker})]]></content>
+	<tabTrigger><![CDATA[dropdown.DestroyBlocker]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(blocker)]]></description>
+</snippet>

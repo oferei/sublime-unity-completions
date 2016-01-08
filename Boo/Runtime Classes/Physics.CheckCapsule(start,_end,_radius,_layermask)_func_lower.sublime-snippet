@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.CheckCapsule(${1:start as Vector3}, ${2:end as Vector3}, ${3:radius as single}, ${4:layermask as int = DefaultRaycastLayers})]]></content>
-	<tabTrigger><![CDATA[checkCapsule]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Physics.*(start, end, radius, layermask)]]></description>
-</snippet>

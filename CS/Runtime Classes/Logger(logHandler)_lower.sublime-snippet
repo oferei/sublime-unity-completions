@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Logger(${1:ILogHandler logHandler})]]></content>
+	<tabTrigger><![CDATA[logger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(logHandler)]]></description>
+</snippet>

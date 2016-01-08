@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MustExtensions.MustBeFalse(${1:value as bool})]]></content>
-	<tabTrigger><![CDATA[MustExtensions.MustBeFalse]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value)]]></description>
-</snippet>

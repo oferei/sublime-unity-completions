@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.StateChanged(${1:sphere : CullingGroupEvent})]]></content>
+	<tabTrigger><![CDATA[stateChanged]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullingGroup.*(sphere)]]></description>
+</snippet>

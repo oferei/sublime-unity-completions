@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color32.LerpUnclamped(${1:Color32 a}, ${2:Color32 b}, ${3:float t})]]></content>
+	<tabTrigger><![CDATA[color32.LerpUnclamped]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(a, b, t)]]></description>
+</snippet>

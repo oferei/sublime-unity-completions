@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StandaloneInputModule.ProcessMousePress(${1:EventSystems.PointerInputModule.MouseButtonEventData data})]]></content>
+	<tabTrigger><![CDATA[StandaloneInputModule.ProcessMousePress]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(data)]]></description>
+</snippet>

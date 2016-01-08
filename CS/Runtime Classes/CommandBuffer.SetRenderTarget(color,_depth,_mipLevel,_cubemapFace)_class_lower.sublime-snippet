@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRenderTarget(${1:Rendering.RenderTargetIdentifier color}, ${2:Rendering.RenderTargetIdentifier depth}, ${3:int mipLevel}, ${4:CubemapFace cubemapFace})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetRenderTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(color, depth, mipLevel, cubemapFace)]]></description>
+</snippet>

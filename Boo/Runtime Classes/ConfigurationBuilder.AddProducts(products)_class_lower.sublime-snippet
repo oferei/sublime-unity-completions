@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConfigurationBuilder.AddProducts(${1:products as IEnumerable<ProductDefinition>})]]></content>
+	<tabTrigger><![CDATA[configurationBuilder.AddProducts]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(products)]]></description>
+</snippet>

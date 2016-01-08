@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServerSimple.OnData(${1:Networking.NetworkConnection conn}, ${2:int receivedSize}, ${3:int channelId})]]></content>
+	<tabTrigger><![CDATA[NetworkServerSimple.OnData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(conn, receivedSize, channelId)]]></description>
+</snippet>

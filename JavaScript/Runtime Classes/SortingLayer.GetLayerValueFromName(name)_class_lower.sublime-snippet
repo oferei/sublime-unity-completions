@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SortingLayer.GetLayerValueFromName(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[sortingLayer.GetLayerValueFromName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

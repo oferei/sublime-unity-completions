@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkClient.ReconnectToNewHost(${1:serverIp as string}, ${2:serverPort as int})]]></content>
+	<tabTrigger><![CDATA[networkClient.ReconnectToNewHost]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(serverIp, serverPort)]]></description>
+</snippet>

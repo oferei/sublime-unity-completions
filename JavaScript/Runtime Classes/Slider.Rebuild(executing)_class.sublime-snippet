@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Slider.Rebuild(${1:executing : UI.CanvasUpdate})]]></content>
+	<tabTrigger><![CDATA[Slider.Rebuild]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(executing)]]></description>
+</snippet>

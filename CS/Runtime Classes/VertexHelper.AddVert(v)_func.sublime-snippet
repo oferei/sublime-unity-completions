@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VertexHelper.AddVert(${1:UIVertex v})]]></content>
+	<tabTrigger><![CDATA[AddVert]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VertexHelper.*(v)]]></description>
+</snippet>

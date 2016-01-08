@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RuntimeInitializeOnLoadMethodAttribute(${1:RuntimeInitializeLoadType loadType})]]></content>
+	<tabTrigger><![CDATA[runtimeInitializeOnLoadMethodAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(loadType)]]></description>
+</snippet>

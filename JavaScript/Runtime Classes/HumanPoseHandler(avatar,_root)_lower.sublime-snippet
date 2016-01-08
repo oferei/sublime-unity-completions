@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HumanPoseHandler(${1:avatar : Avatar}, ${2:root : Transform})]]></content>
+	<tabTrigger><![CDATA[humanPoseHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(avatar, root)]]></description>
+</snippet>

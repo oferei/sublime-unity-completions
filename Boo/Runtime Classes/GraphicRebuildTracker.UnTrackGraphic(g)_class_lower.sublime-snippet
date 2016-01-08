@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicRebuildTracker.UnTrackGraphic(${1:g as UI.Graphic})]]></content>
+	<tabTrigger><![CDATA[graphicRebuildTracker.UnTrackGraphic]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(g)]]></description>
+</snippet>

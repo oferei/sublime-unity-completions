@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetDependencies(${1:pathName : string})]]></content>
+	<tabTrigger><![CDATA[AssetDatabase.GetDependencies]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(pathName)]]></description>
+</snippet>

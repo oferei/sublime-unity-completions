@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutRebuilder.ForceRebuildLayoutImmediate(${1:layoutRoot : RectTransform})]]></content>
+	<tabTrigger><![CDATA[ForceRebuildLayoutImmediate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LayoutRebuilder.*(layoutRoot)]]></description>
+</snippet>

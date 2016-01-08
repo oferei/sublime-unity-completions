@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoundingSphere(${1:Vector4 packedSphere})]]></content>
+	<tabTrigger><![CDATA[boundingSphere]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(packedSphere)]]></description>
+</snippet>

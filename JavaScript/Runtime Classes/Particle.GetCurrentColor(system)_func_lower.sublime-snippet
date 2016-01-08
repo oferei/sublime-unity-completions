@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Particle.GetCurrentColor(${1:system : ParticleSystem})]]></content>
+	<tabTrigger><![CDATA[getCurrentColor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Particle.*(system)]]></description>
+</snippet>

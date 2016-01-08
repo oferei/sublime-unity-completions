@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CollisionModule.GetPlane(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[getPlane]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CollisionModule.*(index)]]></description>
+</snippet>

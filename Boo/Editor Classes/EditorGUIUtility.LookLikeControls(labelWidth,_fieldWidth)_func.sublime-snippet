@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUIUtility.LookLikeControls(${1:labelWidth as single = 0}, ${2:fieldWidth as single = 0})]]></content>
-	<tabTrigger><![CDATA[LookLikeControls]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUIUtility.*(labelWidth, fieldWidth)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.SetAdditiveReferencePose(${1:clip as AnimationClip}, ${2:referenceClip as AnimationClip}, ${3:time as single})]]></content>
+	<tabTrigger><![CDATA[SetAdditiveReferencePose]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationUtility.*(clip, referenceClip, time)]]></description>
+</snippet>

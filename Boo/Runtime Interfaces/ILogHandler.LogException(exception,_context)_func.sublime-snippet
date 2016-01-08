@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILogHandler.LogException(${1:exception as Exception}, ${2:context as Object})]]></content>
+	<tabTrigger><![CDATA[LogException]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ILogHandler.*(exception, context)]]></description>
+</snippet>

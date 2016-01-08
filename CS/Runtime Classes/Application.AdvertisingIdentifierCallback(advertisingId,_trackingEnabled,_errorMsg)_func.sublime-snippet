@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.AdvertisingIdentifierCallback(${1:string advertisingId}, ${2:bool trackingEnabled}, ${3:string errorMsg})]]></content>
+	<tabTrigger><![CDATA[AdvertisingIdentifierCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Application.*(advertisingId, trackingEnabled, errorMsg)]]></description>
+</snippet>

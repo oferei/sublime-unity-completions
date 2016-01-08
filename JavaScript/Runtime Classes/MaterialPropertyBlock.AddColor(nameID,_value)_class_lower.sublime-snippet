@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaterialPropertyBlock.AddColor(${1:nameID : int}, ${2:value : Color})]]></content>
-	<tabTrigger><![CDATA[materialPropertyBlock.AddColor]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(nameID, value)]]></description>
-</snippet>

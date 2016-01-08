@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Packer.GetAlphaTexturesForAtlas(${1:atlasName as string})]]></content>
+	<tabTrigger><![CDATA[GetAlphaTexturesForAtlas]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Packer.*(atlasName)]]></description>
+</snippet>

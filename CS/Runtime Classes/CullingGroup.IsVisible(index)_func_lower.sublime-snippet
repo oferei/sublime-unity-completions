@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.IsVisible(${1:int index})]]></content>
+	<tabTrigger><![CDATA[isVisible]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CullingGroup.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIStyle.Draw(${1:position as Rect}, ${2:content as GUIContent}, ${3:controlID as int})]]></content>
+	<tabTrigger><![CDATA[Draw]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUIStyle.*(position, content, controlID)]]></description>
+</snippet>

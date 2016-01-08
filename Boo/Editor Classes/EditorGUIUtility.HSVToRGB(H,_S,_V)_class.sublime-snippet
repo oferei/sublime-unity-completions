@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUIUtility.HSVToRGB(${1:H as single}, ${2:S as single}, ${3:V as single})]]></content>
-	<tabTrigger><![CDATA[EditorGUIUtility.HSVToRGB]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(H, S, V)]]></description>
-</snippet>

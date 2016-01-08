@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HorizontalOrVerticalLayoutGroup.CalcAlongAxis(${1:int axis}, ${2:bool isVertical})]]></content>
+	<tabTrigger><![CDATA[HorizontalOrVerticalLayoutGroup.CalcAlongAxis]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(axis, isVertical)]]></description>
+</snippet>

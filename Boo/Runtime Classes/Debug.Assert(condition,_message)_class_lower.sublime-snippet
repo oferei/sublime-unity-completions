@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Debug.Assert(${1:condition as bool}, ${2:message as string})]]></content>
+	<content><![CDATA[Debug.Assert(${1:condition as bool}, ${2:message as object})]]></content>
 	<tabTrigger><![CDATA[debug.Assert]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(condition, message)]]></description>

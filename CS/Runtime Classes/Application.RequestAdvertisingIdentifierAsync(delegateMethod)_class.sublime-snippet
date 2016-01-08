@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.RequestAdvertisingIdentifierAsync(${1:Application.AdvertisingIdentifierCallback delegateMethod})]]></content>
+	<tabTrigger><![CDATA[Application.RequestAdvertisingIdentifierAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(delegateMethod)]]></description>
+</snippet>

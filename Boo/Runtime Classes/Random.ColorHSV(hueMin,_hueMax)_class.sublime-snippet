@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Random.ColorHSV(${1:hueMin as single}, ${2:hueMax as single})]]></content>
+	<tabTrigger><![CDATA[Random.ColorHSV]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(hueMin, hueMax)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.NewScene(${1:SceneManagement.NewSceneSetup setup}, ${2:SceneManagement.NewSceneMode mode = NewSceneMode.Single})]]></content>
+	<tabTrigger><![CDATA[NewScene]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(setup, mode)]]></description>
+</snippet>

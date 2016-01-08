@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OptionData.Dropdown.OptionData(${1:text as string}, ${2:image as Sprite})]]></content>
+	<tabTrigger><![CDATA[OptionData.Dropdown.OptionData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(text, image)]]></description>
+</snippet>

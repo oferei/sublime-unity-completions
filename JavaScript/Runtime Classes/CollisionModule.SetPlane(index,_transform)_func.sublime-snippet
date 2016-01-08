@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CollisionModule.SetPlane(${1:index : int}, ${2:transform : Transform})]]></content>
+	<tabTrigger><![CDATA[SetPlane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CollisionModule.*(index, transform)]]></description>
+</snippet>

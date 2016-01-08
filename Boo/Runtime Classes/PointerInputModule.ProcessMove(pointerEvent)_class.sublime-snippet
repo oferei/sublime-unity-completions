@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PointerInputModule.ProcessMove(${1:pointerEvent as EventSystems.PointerEventData})]]></content>
+	<tabTrigger><![CDATA[PointerInputModule.ProcessMove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(pointerEvent)]]></description>
+</snippet>

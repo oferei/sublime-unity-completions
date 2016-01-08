@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameObject.GetComponentInChildren<${1:T}>()]]></content>
-	<tabTrigger><![CDATA[GameObject.GetComponentInChildren]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*<T>()]]></description>
-</snippet>

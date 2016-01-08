@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBlendShapeFrameCount(${1:shapeIndex as int})]]></content>
+	<tabTrigger><![CDATA[getBlendShapeFrameCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(shapeIndex)]]></description>
+</snippet>

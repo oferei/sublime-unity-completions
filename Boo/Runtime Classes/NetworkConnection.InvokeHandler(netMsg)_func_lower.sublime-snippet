@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkConnection.InvokeHandler(${1:netMsg as Networking.NetworkMessage})]]></content>
+	<tabTrigger><![CDATA[invokeHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkConnection.*(netMsg)]]></description>
+</snippet>

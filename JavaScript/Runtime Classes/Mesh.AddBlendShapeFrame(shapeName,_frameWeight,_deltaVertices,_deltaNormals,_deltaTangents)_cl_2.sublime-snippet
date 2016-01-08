@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.AddBlendShapeFrame(${1:shapeName : string}, ${2:frameWeight : float}, ${3:deltaVertices : Vector3[]}, ${4:deltaNormals : Vector3[]}, ${5:deltaTangents : Vector3[]})]]></content>
+	<tabTrigger><![CDATA[mesh.AddBlendShapeFrame]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(shapeName, frameWeight, deltaVertices, deltaNormals, deltaTangents)]]></description>
+</snippet>

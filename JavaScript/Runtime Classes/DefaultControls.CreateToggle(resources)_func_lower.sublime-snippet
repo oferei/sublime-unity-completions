@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultControls.CreateToggle(${1:resources : Resources})]]></content>
+	<tabTrigger><![CDATA[createToggle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DefaultControls.*(resources)]]></description>
+</snippet>

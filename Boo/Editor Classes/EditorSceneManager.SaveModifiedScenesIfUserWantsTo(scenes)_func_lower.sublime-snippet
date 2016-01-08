@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SaveModifiedScenesIfUserWantsTo(${1:scenes as (Scene)})]]></content>
+	<tabTrigger><![CDATA[saveModifiedScenesIfUserWantsTo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorSceneManager.*(scenes)]]></description>
+</snippet>

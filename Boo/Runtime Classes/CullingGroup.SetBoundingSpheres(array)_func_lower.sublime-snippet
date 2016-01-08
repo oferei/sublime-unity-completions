@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.SetBoundingSpheres(${1:array as (BoundingSphere)})]]></content>
+	<tabTrigger><![CDATA[setBoundingSpheres]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CullingGroup.*(array)]]></description>
+</snippet>

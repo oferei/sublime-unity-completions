@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.SetTrackerRotation(${1:name : string}, ${2:value : Quaternion})]]></content>
+	<tabTrigger><![CDATA[clusterInput.SetTrackerRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

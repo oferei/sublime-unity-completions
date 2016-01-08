@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Quaternion.Lerp(${1:from : Quaternion}, ${2:to : Quaternion}, ${3:t : float})]]></content>
-	<tabTrigger><![CDATA[Quaternion.Lerp]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(from, to, t)]]></description>
-</snippet>

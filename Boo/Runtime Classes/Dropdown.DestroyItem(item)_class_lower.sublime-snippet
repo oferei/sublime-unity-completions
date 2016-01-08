@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Dropdown.DestroyItem(${1:item as DropdownItem})]]></content>
+	<tabTrigger><![CDATA[dropdown.DestroyItem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(item)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Logger.LogWarning(${1:tag : string}, ${2:message : object}, ${3:context : Object})]]></content>
+	<tabTrigger><![CDATA[logger.LogWarning]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tag, message, context)]]></description>
+</snippet>

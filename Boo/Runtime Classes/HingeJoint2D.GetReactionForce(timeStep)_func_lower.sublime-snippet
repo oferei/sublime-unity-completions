@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HingeJoint2D.GetReactionForce(${1:timeStep as single})]]></content>
-	<tabTrigger><![CDATA[getReactionForce]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[HingeJoint2D.*(timeStep)]]></description>
-</snippet>

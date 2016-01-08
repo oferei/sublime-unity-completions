@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LayoutRebuilder.Equals(${1:other as UI.LayoutRebuilder})]]></content>
+	<content><![CDATA[LayoutRebuilder.Equals(${1:other as LayoutRebuilder})]]></content>
 	<tabTrigger><![CDATA[layoutRebuilder.Equals]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(other)]]></description>

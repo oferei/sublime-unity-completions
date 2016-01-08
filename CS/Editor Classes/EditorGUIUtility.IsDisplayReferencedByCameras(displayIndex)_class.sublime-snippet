@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.IsDisplayReferencedByCameras(${1:int displayIndex})]]></content>
+	<tabTrigger><![CDATA[EditorGUIUtility.IsDisplayReferencedByCameras]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(displayIndex)]]></description>
+</snippet>

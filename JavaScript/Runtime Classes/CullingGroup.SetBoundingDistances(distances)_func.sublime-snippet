@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.SetBoundingDistances(${1:distances : float[]})]]></content>
+	<tabTrigger><![CDATA[SetBoundingDistances]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullingGroup.*(distances)]]></description>
+</snippet>

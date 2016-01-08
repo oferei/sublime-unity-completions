@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GL.IssuePluginEvent(${1:eventID as int})]]></content>
-	<tabTrigger><![CDATA[GL.IssuePluginEvent]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(eventID)]]></description>
-</snippet>

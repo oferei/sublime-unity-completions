@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.DelayedFloatField(${1:value : float}, ${2:params options : GUILayoutOption[]})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.DelayedFloatField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value, params options)]]></description>
+</snippet>

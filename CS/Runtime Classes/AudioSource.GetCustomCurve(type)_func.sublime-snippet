@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.GetCustomCurve(${1:AudioSourceCurveType type})]]></content>
+	<tabTrigger><![CDATA[GetCustomCurve]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AudioSource.*(type)]]></description>
+</snippet>

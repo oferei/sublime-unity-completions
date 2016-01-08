@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.SendByChannel[of ${1:MSG}](${2:id as short}, ${3:msg as MSG}, ${4:channelId as int})]]></content>
-	<tabTrigger><![CDATA[sendByChannel]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkClient.*[of MSG](id, msg, channelId)]]></description>
-</snippet>

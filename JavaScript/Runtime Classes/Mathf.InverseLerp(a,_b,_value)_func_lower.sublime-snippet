@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.InverseLerp(${1:a : float}, ${2:b : float}, ${3:value : float})]]></content>
+	<tabTrigger><![CDATA[inverseLerp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Mathf.*(a, b, value)]]></description>
+</snippet>

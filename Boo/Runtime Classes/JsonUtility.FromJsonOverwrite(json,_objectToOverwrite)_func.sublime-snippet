@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JsonUtility.FromJsonOverwrite(${1:json as string}, ${2:objectToOverwrite as object})]]></content>
+	<tabTrigger><![CDATA[FromJsonOverwrite]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[JsonUtility.*(json, objectToOverwrite)]]></description>
+</snippet>

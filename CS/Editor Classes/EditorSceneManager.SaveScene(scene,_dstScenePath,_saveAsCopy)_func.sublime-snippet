@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SaveScene(${1:SceneManagement.Scene scene}, ${2:string dstScenePath = \"\"}, ${3:bool saveAsCopy = false})]]></content>
+	<tabTrigger><![CDATA[SaveScene]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(scene, dstScenePath, saveAsCopy)]]></description>
+</snippet>

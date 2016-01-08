@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnDemandResourcesRequest.GetResourcePath(${1:resourceName : string})]]></content>
+	<tabTrigger><![CDATA[getResourcePath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[OnDemandResourcesRequest.*(resourceName)]]></description>
+</snippet>

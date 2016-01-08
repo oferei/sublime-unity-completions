@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PointerInputModule.CopyFromTo(${1:EventSystems.PointerEventData from}, ${2:EventSystems.PointerEventData to})]]></content>
+	<tabTrigger><![CDATA[PointerInputModule.CopyFromTo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(from, to)]]></description>
+</snippet>

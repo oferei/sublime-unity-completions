@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.OverlapSphereNonAlloc(${1:position : Vector3}, ${2:radius : float}, ${3:results : Collider[]}, ${4:layerMask : int = AllLayers}, ${5:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[OverlapSphereNonAlloc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics.*(position, radius, results, layerMask, queryTriggerInteraction)]]></description>
+</snippet>

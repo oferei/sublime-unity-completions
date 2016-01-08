@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.Linecast(${1:start as Vector3}, ${2:end as Vector3}, ${3:out hitInfo as RaycastHit}, ${4:layerMask as int = DefaultRaycastLayers}, ${5:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[Physics.Linecast]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(start, end, out hitInfo, layerMask, queryTriggerInteraction)]]></description>
+</snippet>

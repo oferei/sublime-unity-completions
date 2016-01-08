@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientScene.SetReconnectId(${1:newReconnectId : int}, ${2:peers : PeerInfoMessage[]})]]></content>
+	<tabTrigger><![CDATA[ClientScene.SetReconnectId]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(newReconnectId, peers)]]></description>
+</snippet>

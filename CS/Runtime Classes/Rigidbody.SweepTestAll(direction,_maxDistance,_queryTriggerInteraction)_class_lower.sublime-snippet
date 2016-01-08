@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody.SweepTestAll(${1:Vector3 direction}, ${2:float maxDistance = Mathf.Infinity}, ${3:QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[rigidbody.SweepTestAll]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(direction, maxDistance, queryTriggerInteraction)]]></description>
+</snippet>

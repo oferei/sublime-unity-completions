@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.EnableRectClipping(${1:Rect rect})]]></content>
+	<tabTrigger><![CDATA[enableRectClipping]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CanvasRenderer.*(rect)]]></description>
+</snippet>

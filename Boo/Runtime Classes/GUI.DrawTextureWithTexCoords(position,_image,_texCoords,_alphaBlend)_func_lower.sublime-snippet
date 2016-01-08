@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.DrawTextureWithTexCoords(${1:position as Rect}, ${2:image as Texture}, ${3:texCoords as Rect}, ${4:alphaBlend as bool = true})]]></content>
+	<content><![CDATA[GUI.DrawTextureWithTexCoords(${1:position as Rect}, ${2:image as Texture}, ${3:texCoords as Rect}, ${4:alphaBlend as bool})]]></content>
 	<tabTrigger><![CDATA[drawTextureWithTexCoords]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[GUI.*(position, image, texCoords, alphaBlend)]]></description>

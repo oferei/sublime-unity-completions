@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JsonUtility.ToJson(${1:object obj}, ${2:bool prettyPrint})]]></content>
+	<tabTrigger><![CDATA[ToJson]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[JsonUtility.*(obj, prettyPrint)]]></description>
+</snippet>

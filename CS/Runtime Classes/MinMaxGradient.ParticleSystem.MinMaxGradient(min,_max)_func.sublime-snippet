@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MinMaxGradient.ParticleSystem.MinMaxGradient(${1:Gradient min}, ${2:Gradient max})]]></content>
+	<tabTrigger><![CDATA[ParticleSystem.MinMaxGradient]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MinMaxGradient.*(min, max)]]></description>
+</snippet>

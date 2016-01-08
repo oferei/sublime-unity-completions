@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VertexHelper.GetUIVertexStream(${1:stream : List<UIVertex>})]]></content>
+	<tabTrigger><![CDATA[GetUIVertexStream]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VertexHelper.*(stream)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.CloseScene(${1:scene : SceneManagement.Scene}, ${2:removeScene : bool})]]></content>
+	<tabTrigger><![CDATA[EditorSceneManager.CloseScene]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scene, removeScene)]]></description>
+</snippet>

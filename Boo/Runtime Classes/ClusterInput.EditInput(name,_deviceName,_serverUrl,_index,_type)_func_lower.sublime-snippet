@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.EditInput(${1:name as string}, ${2:deviceName as string}, ${3:serverUrl as string}, ${4:index as int}, ${5:type as ClusterInputType})]]></content>
+	<tabTrigger><![CDATA[editInput]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ClusterInput.*(name, deviceName, serverUrl, index, type)]]></description>
+</snippet>

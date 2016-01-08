@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MustExtensions.MustNotBeApproximatelyEqual(${1:actual as single}, ${2:expected as single}, ${3:message as string})]]></content>
-	<tabTrigger><![CDATA[MustNotBeApproximatelyEqual]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MustExtensions.*(actual, expected, message)]]></description>
-</snippet>

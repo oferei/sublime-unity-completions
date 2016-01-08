@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpringJoint2D.GetReactionTorque(${1:timeStep as single})]]></content>
-	<tabTrigger><![CDATA[springJoint2D.GetReactionTorque]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(timeStep)]]></description>
-</snippet>

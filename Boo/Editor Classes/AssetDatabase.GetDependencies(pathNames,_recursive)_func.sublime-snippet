@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetDependencies(${1:pathNames as (string)}, ${2:recursive as bool})]]></content>
+	<tabTrigger><![CDATA[GetDependencies]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(pathNames, recursive)]]></description>
+</snippet>

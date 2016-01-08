@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncListFloat.ReadReference(${1:reader : Networking.NetworkReader}, ${2:syncList : Networking.SyncListFloat})]]></content>
+	<tabTrigger><![CDATA[ReadReference]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SyncListFloat.*(reader, syncList)]]></description>
+</snippet>

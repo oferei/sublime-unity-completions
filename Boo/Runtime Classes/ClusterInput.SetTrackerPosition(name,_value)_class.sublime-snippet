@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.SetTrackerPosition(${1:name as string}, ${2:value as Vector3})]]></content>
+	<tabTrigger><![CDATA[ClusterInput.SetTrackerPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

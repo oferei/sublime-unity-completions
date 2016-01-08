@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.DrawTextureWithTexCoords(${1:position : Rect}, ${2:image : Texture}, ${3:texCoords : Rect})]]></content>
+	<tabTrigger><![CDATA[DrawTextureWithTexCoords]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUI.*(position, image, texCoords)]]></description>
+</snippet>

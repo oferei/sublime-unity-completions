@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.LerpUnclamped(${1:float a}, ${2:float b}, ${3:float t})]]></content>
+	<tabTrigger><![CDATA[Mathf.LerpUnclamped]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(a, b, t)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.MoveSceneBefore(${1:SceneManagement.Scene src}, ${2:SceneManagement.Scene dst})]]></content>
+	<tabTrigger><![CDATA[MoveSceneBefore]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(src, dst)]]></description>
+</snippet>

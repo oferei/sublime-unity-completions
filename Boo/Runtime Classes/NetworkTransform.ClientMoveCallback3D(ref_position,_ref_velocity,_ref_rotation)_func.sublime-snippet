@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransform.ClientMoveCallback3D(${1:ref position as Vector3}, ${2:ref velocity as Vector3}, ${3:ref rotation as Quaternion})]]></content>
+	<tabTrigger><![CDATA[ClientMoveCallback3D]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkTransform.*(ref position, ref velocity, ref rotation)]]></description>
+</snippet>

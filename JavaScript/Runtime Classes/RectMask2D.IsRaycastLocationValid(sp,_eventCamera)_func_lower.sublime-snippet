@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectMask2D.IsRaycastLocationValid(${1:sp : Vector2}, ${2:eventCamera : Camera})]]></content>
+	<tabTrigger><![CDATA[isRaycastLocationValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RectMask2D.*(sp, eventCamera)]]></description>
+</snippet>

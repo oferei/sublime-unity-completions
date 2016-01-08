@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractPurchasingModule.Configure(${1:binder as Purchasing.Extension.IPurchasingBinder})]]></content>
+	<tabTrigger><![CDATA[configure]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AbstractPurchasingModule.*(binder)]]></description>
+</snippet>

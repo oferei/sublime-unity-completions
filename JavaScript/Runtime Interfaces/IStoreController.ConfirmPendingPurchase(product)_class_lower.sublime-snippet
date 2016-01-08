@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IStoreController.ConfirmPendingPurchase(${1:product : Purchasing.Product})]]></content>
+	<tabTrigger><![CDATA[iStoreController.ConfirmPendingPurchase]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(product)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rect.Set(${1:float left}, ${2:float top}, ${3:float width}, ${4:float height})]]></content>
-	<tabTrigger><![CDATA[Set]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Rect.*(left, top, width, height)]]></description>
-</snippet>

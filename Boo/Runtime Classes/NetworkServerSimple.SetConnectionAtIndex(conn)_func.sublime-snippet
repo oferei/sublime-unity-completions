@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServerSimple.SetConnectionAtIndex(${1:conn as Networking.NetworkConnection})]]></content>
+	<tabTrigger><![CDATA[SetConnectionAtIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkServerSimple.*(conn)]]></description>
+</snippet>

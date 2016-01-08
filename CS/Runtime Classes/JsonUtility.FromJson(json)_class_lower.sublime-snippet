@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JsonUtility.FromJson(${1:string json})]]></content>
+	<tabTrigger><![CDATA[jsonUtility.FromJson]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(json)]]></description>
+</snippet>

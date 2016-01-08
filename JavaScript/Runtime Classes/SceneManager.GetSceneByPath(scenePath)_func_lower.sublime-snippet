@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.GetSceneByPath(${1:scenePath : string})]]></content>
+	<tabTrigger><![CDATA[getSceneByPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneManager.*(scenePath)]]></description>
+</snippet>

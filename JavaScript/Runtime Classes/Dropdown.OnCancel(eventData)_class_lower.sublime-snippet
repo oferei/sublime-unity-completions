@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Dropdown.OnCancel(${1:eventData : EventSystems.BaseEventData})]]></content>
+	<tabTrigger><![CDATA[dropdown.OnCancel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color.HSVToRGB(${1:float H}, ${2:float S}, ${3:float V}, ${4:bool hdr})]]></content>
+	<tabTrigger><![CDATA[hSVToRGB]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Color.*(H, S, V, hdr)]]></description>
+</snippet>

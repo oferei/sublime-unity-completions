@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.SpawnWithClientAuthority(${1:GameObject obj}, ${2:Networking.NetworkHash128 assetId}, ${3:Networking.NetworkConnection conn})]]></content>
+	<tabTrigger><![CDATA[networkServer.SpawnWithClientAuthority]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(obj, assetId, conn)]]></description>
+</snippet>

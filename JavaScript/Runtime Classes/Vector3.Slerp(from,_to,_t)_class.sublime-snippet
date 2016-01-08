@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Vector3.Slerp(${1:from : Vector3}, ${2:to : Vector3}, ${3:t : float})]]></content>
-	<tabTrigger><![CDATA[Vector3.Slerp]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(from, to, t)]]></description>
-</snippet>

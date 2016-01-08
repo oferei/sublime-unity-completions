@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMigrationManager.Initialize(${1:newClient as Networking.NetworkClient}, ${2:newMatchInfo as Networking.Match.MatchInfo})]]></content>
+	<tabTrigger><![CDATA[Initialize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkMigrationManager.*(newClient, newMatchInfo)]]></description>
+</snippet>

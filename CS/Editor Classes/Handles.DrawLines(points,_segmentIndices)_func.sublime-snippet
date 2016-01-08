@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawLines(${1:Vector3[] points}, ${2:int[] segmentIndices})]]></content>
+	<tabTrigger><![CDATA[DrawLines]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Handles.*(points, segmentIndices)]]></description>
+</snippet>

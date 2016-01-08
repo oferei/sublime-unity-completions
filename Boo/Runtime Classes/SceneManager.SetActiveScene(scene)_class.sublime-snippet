@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.SetActiveScene(${1:scene as SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[SceneManager.SetActiveScene]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scene)]]></description>
+</snippet>

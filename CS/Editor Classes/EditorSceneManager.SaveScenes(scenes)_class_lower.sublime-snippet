@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SaveScenes(${1:Scene[] scenes})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.SaveScenes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(scenes)]]></description>
+</snippet>

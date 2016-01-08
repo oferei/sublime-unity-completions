@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.ConnectEndPoint(${1:int hostId}, ${2:EndPoint xboxOneEndPoint}, ${3:int exceptionConnectionId}, ${4:byte out error})]]></content>
-	<tabTrigger><![CDATA[connectEndPoint]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, xboxOneEndPoint, exceptionConnectionId, out error)]]></description>
-</snippet>

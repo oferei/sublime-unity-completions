@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.SetAllowsAlphaSplitting(${1:flag as bool})]]></content>
+	<tabTrigger><![CDATA[setAllowsAlphaSplitting]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TextureImporter.*(flag)]]></description>
+</snippet>

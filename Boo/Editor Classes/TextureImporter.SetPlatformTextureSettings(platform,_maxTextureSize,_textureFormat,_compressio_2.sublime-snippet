@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[TextureImporter.SetPlatformTextureSettings(${1:platform as string}, ${2:maxTextureSize as int}, ${3:textureFormat as TextureImporterFormat}, ${4:compressionQuality as int})]]></content>
+	<content><![CDATA[TextureImporter.SetPlatformTextureSettings(${1:platform as string}, ${2:maxTextureSize as int}, ${3:textureFormat as TextureImporterFormat}, ${4:compressionQuality as int}, ${5:allowsAlphaSplit as bool})]]></content>
 	<tabTrigger><![CDATA[textureImporter.SetPlatformTextureSettings]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[*(platform, maxTextureSize, textureFormat, compressionQuality)]]></description>
+	<description><![CDATA[*(platform, maxTextureSize, textureFormat, compressionQuality, allowsAlphaSplit)]]></description>
 </snippet>

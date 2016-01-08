@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphic.RegisterDirtyLayoutCallback(${1:Events.UnityAction action})]]></content>
+	<tabTrigger><![CDATA[registerDirtyLayoutCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphic.*(action)]]></description>
+</snippet>

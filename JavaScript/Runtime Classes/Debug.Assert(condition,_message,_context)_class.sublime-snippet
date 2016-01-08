@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Debug.Assert(${1:condition : bool}, ${2:message : object}, ${3:context : Object})]]></content>
+	<tabTrigger><![CDATA[Debug.Assert]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(condition, message, context)]]></description>
+</snippet>

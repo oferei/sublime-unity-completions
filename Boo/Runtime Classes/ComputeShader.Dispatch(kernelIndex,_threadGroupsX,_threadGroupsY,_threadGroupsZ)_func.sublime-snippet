@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.Dispatch(${1:kernelIndex as int}, ${2:threadGroupsX as int}, ${3:threadGroupsY as int}, ${4:threadGroupsZ as int})]]></content>
+	<tabTrigger><![CDATA[Dispatch]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ComputeShader.*(kernelIndex, threadGroupsX, threadGroupsY, threadGroupsZ)]]></description>
+</snippet>

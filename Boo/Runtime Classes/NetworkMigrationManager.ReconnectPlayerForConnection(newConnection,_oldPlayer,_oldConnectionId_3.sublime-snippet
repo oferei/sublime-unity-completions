@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMigrationManager.ReconnectPlayerForConnection(${1:newConnection as Networking.NetworkConnection}, ${2:oldPlayer as GameObject}, ${3:oldConnectionId as int}, ${4:playerControllerId as short})]]></content>
+	<tabTrigger><![CDATA[ReconnectPlayerForConnection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkMigrationManager.*(newConnection, oldPlayer, oldConnectionId, playerControllerId)]]></description>
+</snippet>

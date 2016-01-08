@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.MergeScenes(${1:SceneManagement.Scene sourceScene}, ${2:SceneManagement.Scene destinationScene})]]></content>
+	<tabTrigger><![CDATA[MergeScenes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SceneManager.*(sourceScene, destinationScene)]]></description>
+</snippet>

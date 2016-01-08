@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MustExtensions.MustNotBeApproximatelyEqual(${1:float actual}, ${2:float expected}, ${3:float tolerance})]]></content>
-	<tabTrigger><![CDATA[MustNotBeApproximatelyEqual]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MustExtensions.*(actual, expected, tolerance)]]></description>
-</snippet>

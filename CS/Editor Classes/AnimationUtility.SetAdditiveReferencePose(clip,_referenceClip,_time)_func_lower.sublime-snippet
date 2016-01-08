@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.SetAdditiveReferencePose(${1:AnimationClip clip}, ${2:AnimationClip referenceClip}, ${3:float time})]]></content>
+	<tabTrigger><![CDATA[setAdditiveReferencePose]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationUtility.*(clip, referenceClip, time)]]></description>
+</snippet>

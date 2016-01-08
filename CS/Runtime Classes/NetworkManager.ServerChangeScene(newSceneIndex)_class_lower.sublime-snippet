@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.ServerChangeScene(${1:int newSceneIndex})]]></content>
-	<tabTrigger><![CDATA[networkManager.ServerChangeScene]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(newSceneIndex)]]></description>
-</snippet>

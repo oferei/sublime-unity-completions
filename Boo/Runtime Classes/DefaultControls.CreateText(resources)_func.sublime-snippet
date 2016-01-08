@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultControls.CreateText(${1:resources as Resources})]]></content>
+	<tabTrigger><![CDATA[CreateText]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DefaultControls.*(resources)]]></description>
+</snippet>

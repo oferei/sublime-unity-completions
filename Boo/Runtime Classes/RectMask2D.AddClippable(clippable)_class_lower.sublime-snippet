@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectMask2D.AddClippable(${1:clippable as UI.IClippable})]]></content>
+	<tabTrigger><![CDATA[rectMask2D.AddClippable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(clippable)]]></description>
+</snippet>

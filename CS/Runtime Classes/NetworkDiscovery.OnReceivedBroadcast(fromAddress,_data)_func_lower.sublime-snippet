@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkDiscovery.OnReceivedBroadcast(${1:string fromAddress}, ${2:string data})]]></content>
+	<tabTrigger><![CDATA[onReceivedBroadcast]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkDiscovery.*(fromAddress, data)]]></description>
+</snippet>

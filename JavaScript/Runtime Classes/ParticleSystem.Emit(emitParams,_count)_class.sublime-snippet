@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Emit(${1:emitParams : ParticleSystem.EmitParams}, ${2:count : int})]]></content>
+	<tabTrigger><![CDATA[ParticleSystem.Emit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(emitParams, count)]]></description>
+</snippet>

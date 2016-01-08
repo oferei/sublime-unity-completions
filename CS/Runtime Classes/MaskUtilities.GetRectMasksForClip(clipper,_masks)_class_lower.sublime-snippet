@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaskUtilities.GetRectMasksForClip(${1:UI.RectMask2D clipper}, ${2:List<RectMask2D> masks})]]></content>
+	<tabTrigger><![CDATA[maskUtilities.GetRectMasksForClip]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(clipper, masks)]]></description>
+</snippet>

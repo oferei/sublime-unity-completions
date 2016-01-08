@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUITargetAttribute(${1:displayIndex as int}, ${2:displayIndex1 as int}, ${3:params displayIndexList as (int)})]]></content>
+	<tabTrigger><![CDATA[gUITargetAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(displayIndex, displayIndex1, params displayIndexList)]]></description>
+</snippet>

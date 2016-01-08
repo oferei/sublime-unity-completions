@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody.SweepTest(${1:direction : Vector3}, ${2:out hitInfo : RaycastHit}, ${3:maxDistance : float = Mathf.Infinity})]]></content>
-	<tabTrigger><![CDATA[Rigidbody.SweepTest]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(direction, out hitInfo, maxDistance)]]></description>
-</snippet>

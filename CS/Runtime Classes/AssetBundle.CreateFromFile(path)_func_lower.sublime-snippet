@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetBundle.CreateFromFile(${1:string path})]]></content>
-	<tabTrigger><![CDATA[createFromFile]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AssetBundle.*(path)]]></description>
-</snippet>

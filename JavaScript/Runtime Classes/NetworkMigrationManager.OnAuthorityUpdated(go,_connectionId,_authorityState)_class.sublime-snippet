@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMigrationManager.OnAuthorityUpdated(${1:go : GameObject}, ${2:connectionId : int}, ${3:authorityState : bool})]]></content>
+	<tabTrigger><![CDATA[NetworkMigrationManager.OnAuthorityUpdated]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(go, connectionId, authorityState)]]></description>
+</snippet>

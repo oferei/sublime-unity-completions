@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClipperRegistry.Unregister(${1:c as UI.IClipper})]]></content>
+	<tabTrigger><![CDATA[clipperRegistry.Unregister]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(c)]]></description>
+</snippet>

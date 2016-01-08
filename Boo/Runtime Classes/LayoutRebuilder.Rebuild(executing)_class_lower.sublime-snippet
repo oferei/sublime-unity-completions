@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutRebuilder.Rebuild(${1:executing as UI.CanvasUpdate})]]></content>
+	<tabTrigger><![CDATA[layoutRebuilder.Rebuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(executing)]]></description>
+</snippet>

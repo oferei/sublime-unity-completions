@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture2D.LoadImage(${1:data as (byte)})]]></content>
-	<tabTrigger><![CDATA[texture2D.LoadImage]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(data)]]></description>
-</snippet>

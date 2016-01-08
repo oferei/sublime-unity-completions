@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IStoreListener.ProcessPurchase(${1:e : Purchasing.PurchaseEventArgs})]]></content>
+	<tabTrigger><![CDATA[processPurchase]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IStoreListener.*(e)]]></description>
+</snippet>

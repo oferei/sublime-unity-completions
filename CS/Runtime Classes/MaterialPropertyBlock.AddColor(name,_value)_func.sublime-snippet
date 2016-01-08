@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaterialPropertyBlock.AddColor(${1:string name}, ${2:Color value})]]></content>
-	<tabTrigger><![CDATA[AddColor]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MaterialPropertyBlock.*(name, value)]]></description>
-</snippet>

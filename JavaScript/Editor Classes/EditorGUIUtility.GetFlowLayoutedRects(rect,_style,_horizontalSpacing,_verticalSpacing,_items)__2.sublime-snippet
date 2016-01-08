@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.GetFlowLayoutedRects(${1:rect : Rect}, ${2:style : GUIStyle}, ${3:horizontalSpacing : float}, ${4:verticalSpacing : float}, ${5:items : List<string>})]]></content>
+	<tabTrigger><![CDATA[editorGUIUtility.GetFlowLayoutedRects]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rect, style, horizontalSpacing, verticalSpacing, items)]]></description>
+</snippet>

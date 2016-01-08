@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.SetSpatializerFloat(${1:int index}, ${2:float value})]]></content>
+	<tabTrigger><![CDATA[setSpatializerFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AudioSource.*(index, value)]]></description>
+</snippet>

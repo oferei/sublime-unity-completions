@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientScene.AddPlayer(${1:Networking.NetworkConnection readyConn}, ${2:short playerControllerId}, ${3:Networking.MessageBase extraMessage})]]></content>
+	<tabTrigger><![CDATA[ClientScene.AddPlayer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(readyConn, playerControllerId, extraMessage)]]></description>
+</snippet>

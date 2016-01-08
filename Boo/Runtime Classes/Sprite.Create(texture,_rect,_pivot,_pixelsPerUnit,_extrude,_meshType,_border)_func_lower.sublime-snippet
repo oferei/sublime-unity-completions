@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.Create(${1:texture as Texture2D}, ${2:rect as Rect}, ${3:pivot as Vector2}, ${4:pixelsPerUnit as single = 100.0f}, ${5:extrude as uint = 0}, ${6:meshType as SpriteMeshType = SpriteMeshType.Tight}, ${7:border as Vector4 = Vector4.zero})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Sprite.*(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border)]]></description>
+</snippet>

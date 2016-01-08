@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILogger.Log(${1:LogType logType}, ${2:string tag}, ${3:object message}, ${4:Object context})]]></content>
+	<tabTrigger><![CDATA[log]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ILogger.*(logType, tag, message, context)]]></description>
+</snippet>

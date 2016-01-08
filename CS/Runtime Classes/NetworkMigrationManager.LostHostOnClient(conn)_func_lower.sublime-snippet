@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMigrationManager.LostHostOnClient(${1:Networking.NetworkConnection conn})]]></content>
+	<tabTrigger><![CDATA[lostHostOnClient]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkMigrationManager.*(conn)]]></description>
+</snippet>

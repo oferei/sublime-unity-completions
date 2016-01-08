@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.SetUVs(${1:channel : int}, ${2:uvs : List<Vector4>})]]></content>
+	<tabTrigger><![CDATA[mesh.SetUVs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(channel, uvs)]]></description>
+</snippet>

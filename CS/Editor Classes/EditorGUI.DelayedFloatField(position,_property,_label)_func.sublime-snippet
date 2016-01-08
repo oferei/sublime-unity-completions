@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DelayedFloatField(${1:Rect position}, ${2:SerializedProperty property}, ${3:GUIContent label = null})]]></content>
+	<tabTrigger><![CDATA[DelayedFloatField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, property, label)]]></description>
+</snippet>

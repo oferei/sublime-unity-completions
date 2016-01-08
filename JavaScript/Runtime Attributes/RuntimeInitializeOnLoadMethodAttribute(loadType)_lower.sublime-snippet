@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RuntimeInitializeOnLoadMethodAttribute(${1:loadType : RuntimeInitializeLoadType})]]></content>
+	<tabTrigger><![CDATA[runtimeInitializeOnLoadMethodAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(loadType)]]></description>
+</snippet>

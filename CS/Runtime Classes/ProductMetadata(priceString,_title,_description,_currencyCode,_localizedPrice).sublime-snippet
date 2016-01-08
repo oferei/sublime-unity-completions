@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProductMetadata(${1:string priceString}, ${2:string title}, ${3:string description}, ${4:string currencyCode}, ${5:Decimal localizedPrice})]]></content>
+	<tabTrigger><![CDATA[ProductMetadata]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(priceString, title, description, currencyCode, localizedPrice)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.CapsuleCastAll(${1:point1 as Vector3}, ${2:point2 as Vector3}, ${3:radius as single}, ${4:direction as Vector3}, ${5:maxDistance as single = Mathf.Infinity}, ${6:layermask as int = DefaultRaycastLayers})]]></content>
-	<tabTrigger><![CDATA[physics.CapsuleCastAll]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(point1, point2, radius, direction, maxDistance, layermask)]]></description>
-</snippet>

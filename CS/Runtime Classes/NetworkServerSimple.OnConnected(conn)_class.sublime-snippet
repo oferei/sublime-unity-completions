@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServerSimple.OnConnected(${1:Networking.NetworkConnection conn})]]></content>
+	<tabTrigger><![CDATA[NetworkServerSimple.OnConnected]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(conn)]]></description>
+</snippet>

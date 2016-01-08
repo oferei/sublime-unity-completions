@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUIStyle.Draw(${1:Rect position}, ${2:GUIContent content}, ${3:int controlID}, ${4:bool on = false})]]></content>
+	<content><![CDATA[GUIStyle.Draw(${1:Rect position}, ${2:GUIContent content}, ${3:int controlID}, ${4:bool on})]]></content>
 	<tabTrigger><![CDATA[gUIStyle.Draw]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, content, controlID, on)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.GetDistance(${1:int index})]]></content>
+	<tabTrigger><![CDATA[getDistance]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CullingGroup.*(index)]]></description>
+</snippet>

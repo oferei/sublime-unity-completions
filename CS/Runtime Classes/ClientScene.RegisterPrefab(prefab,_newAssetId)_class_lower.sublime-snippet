@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClientScene.RegisterPrefab(${1:GameObject prefab}, ${2:Networking.NetworkHash128 newAssetId})]]></content>
+	<tabTrigger><![CDATA[clientScene.RegisterPrefab]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(prefab, newAssetId)]]></description>
+</snippet>

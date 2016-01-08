@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SortingLayer.NameToID(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[NameToID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SortingLayer.*(name)]]></description>
+</snippet>

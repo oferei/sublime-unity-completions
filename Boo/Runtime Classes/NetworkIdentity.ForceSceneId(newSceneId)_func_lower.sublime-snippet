@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkIdentity.ForceSceneId(${1:newSceneId as int})]]></content>
+	<tabTrigger><![CDATA[forceSceneId]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkIdentity.*(newSceneId)]]></description>
+</snippet>

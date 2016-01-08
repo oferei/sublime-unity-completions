@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DelayedFloatField(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : float}, ${4:style : GUIStyle = EditorStyles.numberField})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.DelayedFloatField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, label, value, style)]]></description>
+</snippet>

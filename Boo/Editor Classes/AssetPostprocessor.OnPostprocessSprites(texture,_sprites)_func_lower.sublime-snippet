@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessSprites(${1:texture as Texture2D}, ${2:sprites as (Sprite)})]]></content>
+	<tabTrigger><![CDATA[onPostprocessSprites]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetPostprocessor.*(texture, sprites)]]></description>
+</snippet>

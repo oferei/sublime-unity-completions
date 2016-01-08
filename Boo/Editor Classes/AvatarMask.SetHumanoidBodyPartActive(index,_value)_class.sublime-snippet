@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AvatarMask.SetHumanoidBodyPartActive(${1:index as int}, ${2:value as bool})]]></content>
+	<content><![CDATA[AvatarMask.SetHumanoidBodyPartActive(${1:index as Animations.AvatarMaskBodyPart}, ${2:value as bool})]]></content>
 	<tabTrigger><![CDATA[AvatarMask.SetHumanoidBodyPartActive]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(index, value)]]></description>

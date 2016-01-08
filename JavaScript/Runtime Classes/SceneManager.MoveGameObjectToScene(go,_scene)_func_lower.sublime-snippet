@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.MoveGameObjectToScene(${1:go : GameObject}, ${2:scene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[moveGameObjectToScene]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneManager.*(go, scene)]]></description>
+</snippet>

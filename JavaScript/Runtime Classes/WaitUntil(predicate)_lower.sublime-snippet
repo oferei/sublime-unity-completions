@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WaitUntil(${1:predicate : Func<bool>})]]></content>
+	<tabTrigger><![CDATA[waitUntil]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(predicate)]]></description>
+</snippet>

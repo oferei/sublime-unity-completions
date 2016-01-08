@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnDemandResourcesRequest.GetResourcePath(${1:resourceName as string})]]></content>
+	<tabTrigger><![CDATA[GetResourcePath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[OnDemandResourcesRequest.*(resourceName)]]></description>
+</snippet>

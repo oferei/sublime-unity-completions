@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.OpenFilePanelWithFilters(${1:title : string}, ${2:directory : string}, ${3:filters : string[]})]]></content>
+	<tabTrigger><![CDATA[editorUtility.OpenFilePanelWithFilters]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(title, directory, filters)]]></description>
+</snippet>

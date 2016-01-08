@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.UseExternalClient(${1:externalClient : Networking.NetworkClient})]]></content>
+	<tabTrigger><![CDATA[UseExternalClient]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkManager.*(externalClient)]]></description>
+</snippet>

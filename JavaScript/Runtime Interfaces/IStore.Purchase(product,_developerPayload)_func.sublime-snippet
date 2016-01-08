@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IStore.Purchase(${1:product : Purchasing.ProductDefinition}, ${2:developerPayload : string})]]></content>
+	<tabTrigger><![CDATA[Purchase]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IStore.*(product, developerPayload)]]></description>
+</snippet>

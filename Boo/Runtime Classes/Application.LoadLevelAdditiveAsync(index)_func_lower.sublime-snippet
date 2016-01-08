@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.LoadLevelAdditiveAsync(${1:index as int})]]></content>
-	<tabTrigger><![CDATA[loadLevelAdditiveAsync]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Application.*(index)]]></description>
-</snippet>

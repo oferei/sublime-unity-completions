@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClipperRegistry.Register(${1:c : UI.IClipper})]]></content>
+	<tabTrigger><![CDATA[register]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ClipperRegistry.*(c)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Burst.ParticleSystem.Burst(${1:float _time}, ${2:short _count})]]></content>
+	<tabTrigger><![CDATA[burst.ParticleSystem.Burst]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(_time, _count)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DelayedTextField(${1:Rect position}, ${2:GUIContent label}, ${3:string text}, ${4:GUIStyle style = EditorStyles.textField})]]></content>
+	<tabTrigger><![CDATA[editorGUI.DelayedTextField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, label, text, style)]]></description>
+</snippet>

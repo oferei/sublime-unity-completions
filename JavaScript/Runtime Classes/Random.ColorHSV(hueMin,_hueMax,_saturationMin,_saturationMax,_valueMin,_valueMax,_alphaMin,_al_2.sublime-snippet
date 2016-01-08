@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Random.ColorHSV(${1:hueMin : float}, ${2:hueMax : float}, ${3:saturationMin : float}, ${4:saturationMax : float}, ${5:valueMin : float}, ${6:valueMax : float}, ${7:alphaMin : float}, ${8:alphaMax : float})]]></content>
+	<tabTrigger><![CDATA[random.ColorHSV]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(hueMin, hueMax, saturationMin, saturationMax, valueMin, valueMax, alphaMin, alphaMax)]]></description>
+</snippet>

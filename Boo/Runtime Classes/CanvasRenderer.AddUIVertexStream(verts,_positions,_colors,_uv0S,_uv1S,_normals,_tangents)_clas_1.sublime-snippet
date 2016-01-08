@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.AddUIVertexStream(${1:verts as List<UIVertex>}, ${2:positions as List<Vector3>}, ${3:colors as List<Color32>}, ${4:uv0S as List<Vector2>}, ${5:uv1S as List<Vector2>}, ${6:normals as List<Vector3>}, ${7:tangents as List<Vector4>})]]></content>
+	<tabTrigger><![CDATA[CanvasRenderer.AddUIVertexStream]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(verts, positions, colors, uv0S, uv1S, normals, tangents)]]></description>
+</snippet>

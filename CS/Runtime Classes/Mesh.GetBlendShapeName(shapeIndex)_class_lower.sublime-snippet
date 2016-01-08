@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBlendShapeName(${1:int shapeIndex})]]></content>
+	<tabTrigger><![CDATA[mesh.GetBlendShapeName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(shapeIndex)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Logger.LogError(${1:string tag}, ${2:object message}, ${3:Object context})]]></content>
+	<tabTrigger><![CDATA[logger.LogError]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(tag, message, context)]]></description>
+</snippet>

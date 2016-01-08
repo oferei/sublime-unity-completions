@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shadow.ModifyMesh(${1:namelessParam as Mesh})]]></content>
+	<tabTrigger><![CDATA[shadow.ModifyMesh]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

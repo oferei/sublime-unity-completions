@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Logger.IsLogTypeAllowed(${1:logType as LogType})]]></content>
+	<tabTrigger><![CDATA[IsLogTypeAllowed]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Logger.*(logType)]]></description>
+</snippet>

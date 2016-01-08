@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnDemandResources.PreloadAsync(${1:tags as (string)})]]></content>
+	<tabTrigger><![CDATA[PreloadAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[OnDemandResources.*(tags)]]></description>
+</snippet>

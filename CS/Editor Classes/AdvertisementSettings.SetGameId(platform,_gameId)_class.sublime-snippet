@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdvertisementSettings.SetGameId(${1:RuntimePlatform platform}, ${2:string gameId})]]></content>
+	<tabTrigger><![CDATA[AdvertisementSettings.SetGameId]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(platform, gameId)]]></description>
+</snippet>

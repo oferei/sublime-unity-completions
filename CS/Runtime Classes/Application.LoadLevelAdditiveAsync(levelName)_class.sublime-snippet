@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.LoadLevelAdditiveAsync(${1:string levelName})]]></content>
-	<tabTrigger><![CDATA[Application.LoadLevelAdditiveAsync]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(levelName)]]></description>
-</snippet>

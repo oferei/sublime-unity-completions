@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILogger.LogException(${1:Exception exception})]]></content>
+	<tabTrigger><![CDATA[iLogger.LogException]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(exception)]]></description>
+</snippet>

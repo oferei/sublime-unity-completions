@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawLines(${1:points : Vector3[]}, ${2:segmentIndices : int[]})]]></content>
+	<tabTrigger><![CDATA[DrawLines]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(points, segmentIndices)]]></description>
+</snippet>

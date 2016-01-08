@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawDottedLines(${1:points as (Vector3)}, ${2:segmentIndices as (int)}, ${3:screenSpaceSize as single})]]></content>
+	<tabTrigger><![CDATA[drawDottedLines]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Handles.*(points, segmentIndices, screenSpaceSize)]]></description>
+</snippet>

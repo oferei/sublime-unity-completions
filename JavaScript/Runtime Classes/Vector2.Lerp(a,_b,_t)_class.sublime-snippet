@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.Lerp(${1:a : Vector2}, ${2:b : Vector2}, ${3:t : float})]]></content>
+	<tabTrigger><![CDATA[Vector2.Lerp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(a, b, t)]]></description>
+</snippet>

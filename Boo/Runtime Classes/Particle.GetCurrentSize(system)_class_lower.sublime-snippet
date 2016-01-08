@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Particle.GetCurrentSize(${1:system as ParticleSystem})]]></content>
+	<tabTrigger><![CDATA[particle.GetCurrentSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(system)]]></description>
+</snippet>

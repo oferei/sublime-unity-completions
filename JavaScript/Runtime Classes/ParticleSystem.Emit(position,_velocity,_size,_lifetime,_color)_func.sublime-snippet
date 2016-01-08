@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ParticleSystem.Emit(${1:position : Vector3}, ${2:velocity : Vector3}, ${3:size : float}, ${4:lifetime : float}, ${5:color : Color32})]]></content>
-	<tabTrigger><![CDATA[Emit]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ParticleSystem.*(position, velocity, size, lifetime, color)]]></description>
-</snippet>

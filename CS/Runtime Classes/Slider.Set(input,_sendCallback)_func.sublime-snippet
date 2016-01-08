@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Slider.Set(${1:float input}, ${2:bool sendCallback})]]></content>
+	<tabTrigger><![CDATA[Set]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Slider.*(input, sendCallback)]]></description>
+</snippet>

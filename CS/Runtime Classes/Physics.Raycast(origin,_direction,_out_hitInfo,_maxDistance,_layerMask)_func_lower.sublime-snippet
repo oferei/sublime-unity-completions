@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.Raycast(${1:Vector3 origin}, ${2:Vector3 direction}, ${3:RaycastHit out hitInfo}, ${4:float maxDistance = Mathf.Infinity}, ${5:int layerMask = DefaultRaycastLayers})]]></content>
-	<tabTrigger><![CDATA[raycast]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Physics.*(origin, direction, out hitInfo, maxDistance, layerMask)]]></description>
-</snippet>

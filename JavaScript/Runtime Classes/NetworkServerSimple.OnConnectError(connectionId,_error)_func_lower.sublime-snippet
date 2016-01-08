@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServerSimple.OnConnectError(${1:connectionId : int}, ${2:error : byte})]]></content>
+	<tabTrigger><![CDATA[onConnectError]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkServerSimple.*(connectionId, error)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GUI.DrawTexture(${1:position : Rect}, ${2:image : Texture}, ${3:scaleMode : ScaleMode = ScaleMode.StretchToFill}, ${4:alphaBlend : bool = true}, ${5:imageAspect : float = 0})]]></content>
+	<content><![CDATA[GUI.DrawTexture(${1:position : Rect}, ${2:image : Texture}, ${3:scaleMode : ScaleMode}, ${4:alphaBlend : bool}, ${5:imageAspect : float})]]></content>
 	<tabTrigger><![CDATA[GUI.DrawTexture]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(position, image, scaleMode, alphaBlend, imageAspect)]]></description>

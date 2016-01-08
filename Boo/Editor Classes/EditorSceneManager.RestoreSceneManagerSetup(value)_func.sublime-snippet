@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.RestoreSceneManagerSetup(${1:value as (SceneSetup)})]]></content>
+	<tabTrigger><![CDATA[RestoreSceneManagerSetup]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorSceneManager.*(value)]]></description>
+</snippet>

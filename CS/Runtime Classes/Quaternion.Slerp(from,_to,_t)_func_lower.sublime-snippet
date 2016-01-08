@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Quaternion.Slerp(${1:Quaternion from}, ${2:Quaternion to}, ${3:float t})]]></content>
-	<tabTrigger><![CDATA[slerp]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Quaternion.*(from, to, t)]]></description>
-</snippet>

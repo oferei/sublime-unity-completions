@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBlendShapeFrameVertices(${1:shapeIndex : int}, ${2:frameIndex : int}, ${3:deltaVertices : Vector3[]}, ${4:deltaNormals : Vector3[]}, ${5:deltaTangents : Vector3[]})]]></content>
+	<tabTrigger><![CDATA[Mesh.GetBlendShapeFrameVertices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(shapeIndex, frameIndex, deltaVertices, deltaNormals, deltaTangents)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SortingLayer.GetLayerValueFromID(${1:id as int})]]></content>
+	<tabTrigger><![CDATA[GetLayerValueFromID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SortingLayer.*(id)]]></description>
+</snippet>

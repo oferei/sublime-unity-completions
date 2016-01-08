@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.BecomeHost(${1:oldClient : NetworkClient}, ${2:port : int}, ${3:matchInfo : MatchInfo})]]></content>
+	<tabTrigger><![CDATA[networkServer.BecomeHost]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(oldClient, port, matchInfo)]]></description>
+</snippet>

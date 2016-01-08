@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.EditInput(${1:string name}, ${2:string deviceName}, ${3:string serverUrl}, ${4:int index}, ${5:ClusterInputType type})]]></content>
+	<tabTrigger><![CDATA[editInput]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ClusterInput.*(name, deviceName, serverUrl, index, type)]]></description>
+</snippet>

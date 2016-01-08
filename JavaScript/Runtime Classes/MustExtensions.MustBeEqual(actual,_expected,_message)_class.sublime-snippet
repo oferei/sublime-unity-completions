@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MustExtensions.MustBeEqual(${1:actual : T}, ${2:expected : T}, ${3:message : string})]]></content>
-	<tabTrigger><![CDATA[MustExtensions.MustBeEqual]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(actual, expected, message)]]></description>
-</snippet>

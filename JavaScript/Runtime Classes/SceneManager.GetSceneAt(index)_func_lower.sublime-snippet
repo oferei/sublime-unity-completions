@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.GetSceneAt(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[getSceneAt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneManager.*(index)]]></description>
+</snippet>

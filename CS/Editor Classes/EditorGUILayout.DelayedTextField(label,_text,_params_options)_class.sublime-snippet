@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.DelayedTextField(${1:GUIContent label}, ${2:string text}, ${3:GUILayoutOption[] params options})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.DelayedTextField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(label, text, params options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Logger(${1:logHandler as ILogHandler})]]></content>
+	<tabTrigger><![CDATA[logger]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(logHandler)]]></description>
+</snippet>

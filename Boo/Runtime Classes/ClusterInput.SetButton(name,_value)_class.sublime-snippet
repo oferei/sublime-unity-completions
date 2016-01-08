@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.SetButton(${1:name as string}, ${2:value as bool})]]></content>
+	<tabTrigger><![CDATA[ClusterInput.SetButton]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

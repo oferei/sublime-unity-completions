@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutRebuilder.ForceRebuildLayoutImmediate(${1:layoutRoot as RectTransform})]]></content>
+	<tabTrigger><![CDATA[forceRebuildLayoutImmediate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LayoutRebuilder.*(layoutRoot)]]></description>
+</snippet>

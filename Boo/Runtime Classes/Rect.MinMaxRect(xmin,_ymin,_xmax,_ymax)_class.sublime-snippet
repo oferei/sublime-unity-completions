@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rect.MinMaxRect(${1:xmin as single}, ${2:ymin as single}, ${3:xmax as single}, ${4:ymax as single})]]></content>
+	<tabTrigger><![CDATA[Rect.MinMaxRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(xmin, ymin, xmax, ymax)]]></description>
+</snippet>

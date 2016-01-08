@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaterialPropertyBlock.AddVector(${1:nameID : int}, ${2:value : Vector4})]]></content>
-	<tabTrigger><![CDATA[MaterialPropertyBlock.AddVector]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(nameID, value)]]></description>
-</snippet>

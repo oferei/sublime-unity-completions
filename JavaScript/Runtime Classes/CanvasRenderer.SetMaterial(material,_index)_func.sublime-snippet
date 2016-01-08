@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.SetMaterial(${1:material : Material}, ${2:index : int})]]></content>
+	<tabTrigger><![CDATA[SetMaterial]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CanvasRenderer.*(material, index)]]></description>
+</snippet>

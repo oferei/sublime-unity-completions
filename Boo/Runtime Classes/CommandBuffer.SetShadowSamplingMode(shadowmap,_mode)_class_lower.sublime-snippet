@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetShadowSamplingMode(${1:shadowmap as Rendering.RenderTargetIdentifier}, ${2:mode as Rendering.ShadowSamplingMode})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetShadowSamplingMode]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shadowmap, mode)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VertexHelper.SetUIVertex(${1:vertex : UIVertex}, ${2:i : int})]]></content>
+	<tabTrigger><![CDATA[vertexHelper.SetUIVertex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(vertex, i)]]></description>
+</snippet>

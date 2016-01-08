@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.SetNormals(${1:List<Vector3> inNormals})]]></content>
+	<tabTrigger><![CDATA[setNormals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mesh.*(inNormals)]]></description>
+</snippet>

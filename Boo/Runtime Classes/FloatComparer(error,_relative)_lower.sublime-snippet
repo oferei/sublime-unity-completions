@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FloatComparer(${1:error as single}, ${2:relative as bool})]]></content>
+	<tabTrigger><![CDATA[floatComparer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(error, relative)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.SendUnreliable<${1:MSG}>(${2:short id}, ${3:MSG msg})]]></content>
-	<tabTrigger><![CDATA[networkClient.SendUnreliable]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*<MSG>(id, msg)]]></description>
-</snippet>

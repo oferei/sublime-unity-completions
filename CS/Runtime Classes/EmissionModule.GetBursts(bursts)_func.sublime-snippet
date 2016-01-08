@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmissionModule.GetBursts(${1:Burst[] bursts})]]></content>
+	<tabTrigger><![CDATA[GetBursts]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EmissionModule.*(bursts)]]></description>
+</snippet>

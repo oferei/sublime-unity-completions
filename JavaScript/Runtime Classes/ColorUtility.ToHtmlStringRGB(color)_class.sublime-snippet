@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorUtility.ToHtmlStringRGB(${1:color : Color})]]></content>
+	<tabTrigger><![CDATA[ColorUtility.ToHtmlStringRGB]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(color)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanvasRenderer.SetVertices(${1:vertices : UIVertex[]}, ${2:size : int})]]></content>
-	<tabTrigger><![CDATA[setVertices]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[CanvasRenderer.*(vertices, size)]]></description>
-</snippet>

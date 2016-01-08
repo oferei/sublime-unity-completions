@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProceduralMaterial.IsProceduralPropertyVisible(${1:inputName as string})]]></content>
+	<tabTrigger><![CDATA[isProceduralPropertyVisible]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ProceduralMaterial.*(inputName)]]></description>
+</snippet>

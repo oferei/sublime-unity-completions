@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.GetParameter(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[GetParameter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.GetAxis(${1:string name})]]></content>
+	<tabTrigger><![CDATA[clusterInput.GetAxis]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

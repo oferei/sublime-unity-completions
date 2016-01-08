@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AvatarMask.GetHumanoidBodyPartActive(${1:int index})]]></content>
+	<content><![CDATA[AvatarMask.GetHumanoidBodyPartActive(${1:Animations.AvatarMaskBodyPart index})]]></content>
 	<tabTrigger><![CDATA[GetHumanoidBodyPartActive]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AvatarMask.*(index)]]></description>

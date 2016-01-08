@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scene.GetRootGameObjects(${1:rootGameObjects as List<GameObject>})]]></content>
+	<tabTrigger><![CDATA[getRootGameObjects]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Scene.*(rootGameObjects)]]></description>
+</snippet>

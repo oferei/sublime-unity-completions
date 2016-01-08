@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClusterInput.CheckConnectionToServer(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[checkConnectionToServer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ClusterInput.*(name)]]></description>
+</snippet>

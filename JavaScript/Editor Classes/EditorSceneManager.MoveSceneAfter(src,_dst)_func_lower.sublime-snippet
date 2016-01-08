@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.MoveSceneAfter(${1:src : SceneManagement.Scene}, ${2:dst : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[moveSceneAfter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorSceneManager.*(src, dst)]]></description>
+</snippet>

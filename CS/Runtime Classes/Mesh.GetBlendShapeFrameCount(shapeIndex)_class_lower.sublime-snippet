@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBlendShapeFrameCount(${1:int shapeIndex})]]></content>
+	<tabTrigger><![CDATA[mesh.GetBlendShapeFrameCount]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(shapeIndex)]]></description>
+</snippet>

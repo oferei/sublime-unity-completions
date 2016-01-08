@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicsSettings.SetShaderMode(${1:Rendering.BuiltinShaderType type}, ${2:Rendering.BuiltinShaderMode mode})]]></content>
+	<tabTrigger><![CDATA[SetShaderMode]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GraphicsSettings.*(type, mode)]]></description>
+</snippet>

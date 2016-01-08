@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUI.DrawTexture(${1:position : Rect}, ${2:image : Texture}, ${3:scaleMode : ScaleMode}, ${4:alphaBlend : bool})]]></content>
+	<tabTrigger><![CDATA[DrawTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUI.*(position, image, scaleMode, alphaBlend)]]></description>
+</snippet>

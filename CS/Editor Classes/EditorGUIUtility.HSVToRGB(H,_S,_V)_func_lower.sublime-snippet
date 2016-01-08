@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUIUtility.HSVToRGB(${1:float H}, ${2:float S}, ${3:float V})]]></content>
-	<tabTrigger><![CDATA[hSVToRGB]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUIUtility.*(H, S, V)]]></description>
-</snippet>

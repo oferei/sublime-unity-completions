@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultControls.CreateText(${1:resources : Resources})]]></content>
+	<tabTrigger><![CDATA[createText]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DefaultControls.*(resources)]]></description>
+</snippet>

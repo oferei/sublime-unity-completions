@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SortingLayer.IsValid(${1:int id})]]></content>
+	<tabTrigger><![CDATA[isValid]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SortingLayer.*(id)]]></description>
+</snippet>

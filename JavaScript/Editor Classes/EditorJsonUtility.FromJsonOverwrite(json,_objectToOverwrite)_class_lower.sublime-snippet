@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorJsonUtility.FromJsonOverwrite(${1:json : string}, ${2:objectToOverwrite : Object})]]></content>
+	<tabTrigger><![CDATA[editorJsonUtility.FromJsonOverwrite]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(json, objectToOverwrite)]]></description>
+</snippet>

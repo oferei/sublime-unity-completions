@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.SetBoundingSphereCount(${1:count : int})]]></content>
+	<tabTrigger><![CDATA[CullingGroup.SetBoundingSphereCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(count)]]></description>
+</snippet>

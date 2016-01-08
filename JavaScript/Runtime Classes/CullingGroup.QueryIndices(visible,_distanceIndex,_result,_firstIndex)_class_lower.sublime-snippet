@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingGroup.QueryIndices(${1:visible : bool}, ${2:distanceIndex : int}, ${3:result : int[]}, ${4:firstIndex : int})]]></content>
+	<tabTrigger><![CDATA[cullingGroup.QueryIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(visible, distanceIndex, result, firstIndex)]]></description>
+</snippet>

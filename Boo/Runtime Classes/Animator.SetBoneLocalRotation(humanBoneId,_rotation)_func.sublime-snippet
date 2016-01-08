@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetBoneLocalRotation(${1:humanBoneId as HumanBodyBones}, ${2:rotation as Quaternion})]]></content>
+	<tabTrigger><![CDATA[SetBoneLocalRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Animator.*(humanBoneId, rotation)]]></description>
+</snippet>

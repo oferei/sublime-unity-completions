@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectMask2D.RemoveClippable(${1:clippable : UI.IClippable})]]></content>
+	<tabTrigger><![CDATA[rectMask2D.RemoveClippable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(clippable)]]></description>
+</snippet>

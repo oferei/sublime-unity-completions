@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FloatComparer.AreEqual(${1:float expected}, ${2:float actual}, ${3:float error})]]></content>
+	<tabTrigger><![CDATA[floatComparer.AreEqual]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(expected, actual, error)]]></description>
+</snippet>

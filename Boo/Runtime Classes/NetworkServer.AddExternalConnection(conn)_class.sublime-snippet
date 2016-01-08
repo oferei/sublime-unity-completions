@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.AddExternalConnection(${1:conn as Networking.NetworkConnection})]]></content>
+	<tabTrigger><![CDATA[NetworkServer.AddExternalConnection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(conn)]]></description>
+</snippet>

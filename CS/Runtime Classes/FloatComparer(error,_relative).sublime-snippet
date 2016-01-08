@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FloatComparer(${1:float error}, ${2:bool relative})]]></content>
+	<tabTrigger><![CDATA[FloatComparer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(error, relative)]]></description>
+</snippet>

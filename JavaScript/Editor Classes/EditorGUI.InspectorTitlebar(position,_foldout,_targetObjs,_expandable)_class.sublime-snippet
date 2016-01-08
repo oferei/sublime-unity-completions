@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.InspectorTitlebar(${1:position : Rect}, ${2:foldout : bool}, ${3:targetObjs : Object[]}, ${4:expandable : bool})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.InspectorTitlebar]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, foldout, targetObjs, expandable)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.SphereCastNonAlloc(${1:ray as Ray}, ${2:radius as single}, ${3:results as (RaycastHit)}, ${4:maxDistance as single = Mathf.Infinity}, ${5:layerMask as int = DefaultRaycastLayers}, ${6:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[sphereCastNonAlloc]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Physics.*(ray, radius, results, maxDistance, layerMask, queryTriggerInteraction)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Quaternion.Lerp(${1:from as Quaternion}, ${2:to as Quaternion}, ${3:t as single})]]></content>
-	<tabTrigger><![CDATA[Quaternion.Lerp]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(from, to, t)]]></description>
-</snippet>

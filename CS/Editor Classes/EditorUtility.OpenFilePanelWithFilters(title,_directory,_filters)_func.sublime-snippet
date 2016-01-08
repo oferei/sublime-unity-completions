@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.OpenFilePanelWithFilters(${1:string title}, ${2:string directory}, ${3:string[] filters})]]></content>
+	<tabTrigger><![CDATA[OpenFilePanelWithFilters]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(title, directory, filters)]]></description>
+</snippet>

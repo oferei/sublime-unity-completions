@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Undo.MoveGameObjectToScene(${1:go as GameObject}, ${2:scene as SceneManagement.Scene}, ${3:name as string})]]></content>
+	<tabTrigger><![CDATA[moveGameObjectToScene]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Undo.*(go, scene, name)]]></description>
+</snippet>

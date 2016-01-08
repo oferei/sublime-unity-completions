@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MustExtensions.MustNotBeApproximatelyEqual(${1:float actual}, ${2:float expected}, ${3:string message})]]></content>
-	<tabTrigger><![CDATA[mustExtensions.MustNotBeApproximatelyEqual]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(actual, expected, message)]]></description>
-</snippet>
