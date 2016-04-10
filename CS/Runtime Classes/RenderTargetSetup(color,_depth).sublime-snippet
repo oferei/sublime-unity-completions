@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetSetup(${1:RenderBuffer[] color}, ${2:RenderBuffer depth})]]></content>
+	<tabTrigger><![CDATA[RenderTargetSetup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(color, depth)]]></description>
+</snippet>

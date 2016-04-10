@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetSetup(${1:color as (RenderBuffer)}, ${2:depth as RenderBuffer}, ${3:mip as int}, ${4:face as CubemapFace})]]></content>
+	<tabTrigger><![CDATA[RenderTargetSetup]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(color, depth, mip, face)]]></description>
+</snippet>

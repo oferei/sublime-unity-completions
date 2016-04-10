@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImporter.SetAssetBundleNameAndVariant(${1:assetBundleName : string}, ${2:assetBundleVariant : string})]]></content>
+	<tabTrigger><![CDATA[assetImporter.SetAssetBundleNameAndVariant]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assetBundleName, assetBundleVariant)]]></description>
+</snippet>

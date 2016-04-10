@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImporter.SetAssetBundleNameAndVariant(${1:string assetBundleName}, ${2:string assetBundleVariant})]]></content>
+	<tabTrigger><![CDATA[SetAssetBundleNameAndVariant]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetImporter.*(assetBundleName, assetBundleVariant)]]></description>
+</snippet>

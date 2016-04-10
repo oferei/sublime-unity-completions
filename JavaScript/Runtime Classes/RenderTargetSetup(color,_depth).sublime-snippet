@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetSetup(${1:color : RenderBuffer[]}, ${2:depth : RenderBuffer})]]></content>
+	<tabTrigger><![CDATA[RenderTargetSetup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(color, depth)]]></description>
+</snippet>

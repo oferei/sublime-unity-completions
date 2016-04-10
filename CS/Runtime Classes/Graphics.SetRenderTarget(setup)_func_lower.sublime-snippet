@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderTargetSetup setup})]]></content>
+	<tabTrigger><![CDATA[setRenderTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphics.*(setup)]]></description>
+</snippet>

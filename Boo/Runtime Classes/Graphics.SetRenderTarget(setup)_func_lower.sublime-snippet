@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:setup as RenderTargetSetup})]]></content>
+	<tabTrigger><![CDATA[setRenderTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Graphics.*(setup)]]></description>
+</snippet>
