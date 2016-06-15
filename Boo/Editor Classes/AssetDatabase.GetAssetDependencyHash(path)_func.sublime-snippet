@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetAssetDependencyHash(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[GetAssetDependencyHash]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(path)]]></description>
+</snippet>
