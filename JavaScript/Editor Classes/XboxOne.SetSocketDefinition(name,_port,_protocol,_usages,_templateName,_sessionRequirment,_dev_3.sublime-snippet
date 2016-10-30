@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.SetSocketDefinition(${1:name : string}, ${2:port : string}, ${3:protocol : int}, ${4:usages : int[]}, ${5:templateName : string}, ${6:sessionRequirment : int}, ${7:deviceUsages : int[]})]]></content>
-	<tabTrigger><![CDATA[SetSocketDefinition]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[XboxOne.*(name, port, protocol, usages, templateName, sessionRequirment, deviceUsages)]]></description>
-</snippet>

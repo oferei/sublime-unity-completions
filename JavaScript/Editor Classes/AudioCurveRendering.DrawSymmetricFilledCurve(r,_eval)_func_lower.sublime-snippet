@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioCurveRendering.DrawSymmetricFilledCurve(${1:r : Rect}, ${2:eval : AudioCurveRendering.AudioCurveAndColorEvaluator})]]></content>
+	<tabTrigger><![CDATA[drawSymmetricFilledCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AudioCurveRendering.*(r, eval)]]></description>
+</snippet>

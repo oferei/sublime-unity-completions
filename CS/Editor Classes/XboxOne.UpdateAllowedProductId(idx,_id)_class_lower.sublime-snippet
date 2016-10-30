@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.UpdateAllowedProductId(${1:int idx}, ${2:string id})]]></content>
-	<tabTrigger><![CDATA[xboxOne.UpdateAllowedProductId]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(idx, id)]]></description>
-</snippet>

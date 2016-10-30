@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioCurveRendering.DrawFilledCurve(${1:r as Rect}, ${2:eval as AudioCurveRendering.AudioCurveEvaluator}, ${3:curveColor as Color})]]></content>
+	<tabTrigger><![CDATA[DrawFilledCurve]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AudioCurveRendering.*(r, eval, curveColor)]]></description>
+</snippet>

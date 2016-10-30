@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.RemoveAllowedProductId(${1:string id})]]></content>
-	<tabTrigger><![CDATA[xboxOne.RemoveAllowedProductId]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(id)]]></description>
-</snippet>

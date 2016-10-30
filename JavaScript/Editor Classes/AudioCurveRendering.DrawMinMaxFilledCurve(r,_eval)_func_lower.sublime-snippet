@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioCurveRendering.DrawMinMaxFilledCurve(${1:r : Rect}, ${2:eval : AudioCurveRendering.AudioMinMaxCurveAndColorEvaluator})]]></content>
+	<tabTrigger><![CDATA[drawMinMaxFilledCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AudioCurveRendering.*(r, eval)]]></description>
+</snippet>

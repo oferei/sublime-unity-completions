@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.GetSocketDefinition(${1:name as string}, ${2:out port as string}, ${3:out protocol as int}, ${4:out usages as (int)}, ${5:out templateName as string}, ${6:out sessionRequirment as int}, ${7:out deviceUsages as (int)})]]></content>
-	<tabTrigger><![CDATA[getSocketDefinition]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[XboxOne.*(name, out port, out protocol, out usages, out templateName, out sessionRequirment, out deviceUsages)]]></description>
-</snippet>

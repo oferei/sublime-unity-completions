@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.GetGameRating(${1:name as string})]]></content>
-	<tabTrigger><![CDATA[xboxOne.GetGameRating]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(name)]]></description>
-</snippet>

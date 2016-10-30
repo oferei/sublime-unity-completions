@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.SetCapability(${1:capability as string}, ${2:value as bool})]]></content>
-	<tabTrigger><![CDATA[setCapability]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[XboxOne.*(capability, value)]]></description>
-</snippet>

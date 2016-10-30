@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[XboxOne.AddAllowedProductId(${1:id as string})]]></content>
-	<tabTrigger><![CDATA[addAllowedProductId]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[XboxOne.*(id)]]></description>
-</snippet>
