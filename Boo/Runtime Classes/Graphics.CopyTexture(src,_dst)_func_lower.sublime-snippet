@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.CopyTexture(${1:src as Texture}, ${2:dst as Texture})]]></content>
+	<tabTrigger><![CDATA[copyTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Graphics.*(src, dst)]]></description>
+</snippet>

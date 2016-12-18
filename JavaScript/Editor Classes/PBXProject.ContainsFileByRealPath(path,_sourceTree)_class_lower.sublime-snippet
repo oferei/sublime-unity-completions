@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.ContainsFileByRealPath(${1:path : string}, ${2:sourceTree : iOS.Xcode.PBXSourceTree})]]></content>
+	<tabTrigger><![CDATA[pBXProject.ContainsFileByRealPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path, sourceTree)]]></description>
+</snippet>

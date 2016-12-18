@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaskUtilities.GetRectMaskForClippable(${1:transform as UI.IClippable})]]></content>
-	<tabTrigger><![CDATA[GetRectMaskForClippable]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MaskUtilities.*(transform)]]></description>
-</snippet>

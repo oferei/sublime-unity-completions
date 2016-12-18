@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetFloatArray(${1:nameID : int}, ${2:values : float[]})]]></content>
+	<tabTrigger><![CDATA[Material.SetFloatArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, values)]]></description>
+</snippet>

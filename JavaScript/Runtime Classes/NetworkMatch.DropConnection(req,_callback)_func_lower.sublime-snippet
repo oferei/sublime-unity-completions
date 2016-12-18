@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.DropConnection(${1:req : Networking.Match.DropConnectionRequest}, ${2:callback : ResponseDelegate<BasicResponse>})]]></content>
-	<tabTrigger><![CDATA[dropConnection]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkMatch.*(req, callback)]]></description>
-</snippet>

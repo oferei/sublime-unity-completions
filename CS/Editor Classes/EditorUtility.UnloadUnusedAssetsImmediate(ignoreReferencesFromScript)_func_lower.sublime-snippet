@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUtility.UnloadUnusedAssetsImmediate(${1:bool ignoreReferencesFromScript})]]></content>
-	<tabTrigger><![CDATA[unloadUnusedAssetsImmediate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorUtility.*(ignoreReferencesFromScript)]]></description>
-</snippet>

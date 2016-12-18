@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.IntPopup(${1:SerializedProperty property}, ${2:GUIContent[] displayedOptions}, ${3:int[] optionValues}, ${4:GUIContent label}, ${5:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[intPopup]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(property, displayedOptions, optionValues, label, params options)]]></description>
-</snippet>

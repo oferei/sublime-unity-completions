@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture3D.Apply(${1:updateMipmaps : bool = true})]]></content>
-	<tabTrigger><![CDATA[Apply]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Texture3D.*(updateMipmaps)]]></description>
-</snippet>

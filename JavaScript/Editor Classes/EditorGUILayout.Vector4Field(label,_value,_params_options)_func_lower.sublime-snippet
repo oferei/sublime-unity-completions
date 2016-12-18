@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.Vector4Field(${1:label : string}, ${2:value : Vector4}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[vector4Field]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>
-</snippet>

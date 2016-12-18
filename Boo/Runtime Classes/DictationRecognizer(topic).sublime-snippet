@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer(${1:topic as Windows.Speech.DictationTopicConstraint})]]></content>
+	<tabTrigger><![CDATA[DictationRecognizer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(topic)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GrammarRecognizer(${1:string grammarFilePath})]]></content>
+	<tabTrigger><![CDATA[grammarRecognizer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(grammarFilePath)]]></description>
+</snippet>

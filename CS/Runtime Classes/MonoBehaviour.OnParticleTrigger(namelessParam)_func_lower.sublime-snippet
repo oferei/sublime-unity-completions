@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnParticleTrigger(${1:GameObject namelessParam})]]></content>
+	<tabTrigger><![CDATA[onParticleTrigger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MonoBehaviour.*(namelessParam)]]></description>
+</snippet>

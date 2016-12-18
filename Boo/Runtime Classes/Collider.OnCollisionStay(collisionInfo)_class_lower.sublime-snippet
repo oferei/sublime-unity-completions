@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Collider.OnCollisionStay(${1:collisionInfo as Collision})]]></content>
-	<tabTrigger><![CDATA[collider.OnCollisionStay]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(collisionInfo)]]></description>
-</snippet>

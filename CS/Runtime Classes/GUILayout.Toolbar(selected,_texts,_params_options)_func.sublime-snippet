@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Toolbar(${1:int selected}, ${2:string[] texts}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[Toolbar]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GUILayout.*(selected, texts, params options)]]></description>
-</snippet>

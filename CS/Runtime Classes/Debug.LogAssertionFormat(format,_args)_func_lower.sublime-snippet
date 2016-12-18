@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Debug.LogAssertionFormat(${1:string format}, ${2:params object[] args})]]></content>
+	<tabTrigger><![CDATA[logAssertionFormat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Debug.*(format, args)]]></description>
+</snippet>

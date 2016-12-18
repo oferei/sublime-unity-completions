@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scrollbar.OnPointerDown(${1:eventData as EventSystems.PointerEventData})]]></content>
+	<tabTrigger><![CDATA[onPointerDown]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Scrollbar.*(eventData)]]></description>
+</snippet>

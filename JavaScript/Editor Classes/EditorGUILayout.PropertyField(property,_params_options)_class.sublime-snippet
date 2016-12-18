@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.PropertyField(${1:property : SerializedProperty}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.PropertyField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(property, params options)]]></description>
-</snippet>

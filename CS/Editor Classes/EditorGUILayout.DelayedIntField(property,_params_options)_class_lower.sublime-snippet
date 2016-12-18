@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedIntField(${1:SerializedProperty property}, ${2:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.DelayedIntField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(property, params options)]]></description>
-</snippet>

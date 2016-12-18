@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimatorController.CreateBlendTreeInController(${1:name : string}, ${2:out tree : Animations.BlendTree}, ${3:layerIndex : int})]]></content>
-	<tabTrigger><![CDATA[AnimatorController.CreateBlendTreeInController]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(name, out tree, layerIndex)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnPlayerDisconnected(${1:namelessParam : NetworkPlayer})]]></content>
+	<tabTrigger><![CDATA[onPlayerDisconnected]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MonoBehaviour.*(namelessParam)]]></description>
+</snippet>

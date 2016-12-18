@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.EnumPopup(${1:GUIContent label}, ${2:Enum selected}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.EnumPopup]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(label, selected, params options)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer.DictationCompletedDelegate(${1:cause : Windows.Speech.DictationCompletionCause})]]></content>
+	<tabTrigger><![CDATA[dictationCompletedDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DictationRecognizer.*(cause)]]></description>
+</snippet>

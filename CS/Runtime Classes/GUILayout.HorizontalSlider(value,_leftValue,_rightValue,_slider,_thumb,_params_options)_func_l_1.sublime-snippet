@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.HorizontalSlider(${1:float value}, ${2:float leftValue}, ${3:float rightValue}, ${4:GUIStyle slider}, ${5:GUIStyle thumb}, ${6:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[horizontalSlider]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GUILayout.*(value, leftValue, rightValue, slider, thumb, params options)]]></description>
-</snippet>

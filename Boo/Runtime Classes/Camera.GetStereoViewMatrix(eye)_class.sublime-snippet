@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.GetStereoViewMatrix(${1:eye as Camera.StereoscopicEye})]]></content>
+	<tabTrigger><![CDATA[Camera.GetStereoViewMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eye)]]></description>
+</snippet>

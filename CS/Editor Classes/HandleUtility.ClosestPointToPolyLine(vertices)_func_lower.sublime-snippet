@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.ClosestPointToPolyLine(${1:params Vector3[] vertices})]]></content>
+	<tabTrigger><![CDATA[closestPointToPolyLine]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HandleUtility.*(vertices)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioCurveRendering.AudioMinMaxCurveAndColorEvaluator(${1:x : float}, ${2:out col : Color}, ${3:out minValue : float}, ${4:out maxValue : float})]]></content>
-	<tabTrigger><![CDATA[AudioCurveRendering.AudioMinMaxCurveAndColorEvaluator]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(x, out col, out minValue, out maxValue)]]></description>
-</snippet>

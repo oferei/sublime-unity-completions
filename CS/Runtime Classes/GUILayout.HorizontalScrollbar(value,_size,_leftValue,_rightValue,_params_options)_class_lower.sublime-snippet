@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.HorizontalScrollbar(${1:float value}, ${2:float size}, ${3:float leftValue}, ${4:float rightValue}, ${5:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[gUILayout.HorizontalScrollbar]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value, size, leftValue, rightValue, params options)]]></description>
-</snippet>

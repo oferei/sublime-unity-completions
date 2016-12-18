@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IDs.Add(${1:id as string}, ${2:params stores as (string)})]]></content>
-	<tabTrigger><![CDATA[add]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IDs.*(id, params stores)]]></description>
-</snippet>

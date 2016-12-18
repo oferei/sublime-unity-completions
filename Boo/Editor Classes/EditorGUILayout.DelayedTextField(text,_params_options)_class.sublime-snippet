@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedTextField(${1:text as string}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.DelayedTextField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(text, params options)]]></description>
-</snippet>

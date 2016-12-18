@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.VerticalScrollbar(${1:float value}, ${2:float size}, ${3:float topValue}, ${4:float bottomValue}, ${5:GUIStyle style}, ${6:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[gUILayout.VerticalScrollbar]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value, size, topValue, bottomValue, style, params options)]]></description>
-</snippet>

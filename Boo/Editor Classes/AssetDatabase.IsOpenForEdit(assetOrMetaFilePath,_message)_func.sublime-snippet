@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsOpenForEdit(${1:assetOrMetaFilePath as string}, ${2:message as out string})]]></content>
+	<tabTrigger><![CDATA[IsOpenForEdit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(assetOrMetaFilePath, message)]]></description>
+</snippet>

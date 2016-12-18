@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.MaskField(${1:int mask}, ${2:string[] displayedOptions}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.MaskField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(mask, displayedOptions, params options)]]></description>
-</snippet>

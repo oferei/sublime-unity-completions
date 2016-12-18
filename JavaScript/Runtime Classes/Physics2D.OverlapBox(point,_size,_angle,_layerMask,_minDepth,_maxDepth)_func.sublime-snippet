@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.OverlapBox(${1:point : Vector2}, ${2:size : Vector2}, ${3:angle : float}, ${4:layerMask : int = DefaultRaycastLayers}, ${5:minDepth : float = -Mathf.Infinity}, ${6:maxDepth : float = Mathf.Infinity})]]></content>
+	<tabTrigger><![CDATA[OverlapBox]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics2D.*(point, size, angle, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

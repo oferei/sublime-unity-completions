@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color.RGBToHSV(${1:rgbColor as Color}, ${2:H as out single}, ${3:S as out single}, ${4:V as out single})]]></content>
+	<tabTrigger><![CDATA[color.RGBToHSV]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(rgbColor, H, S, V)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.SetLayerCollisionMask(${1:layer as int}, ${2:layerMask as int})]]></content>
+	<tabTrigger><![CDATA[SetLayerCollisionMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Physics2D.*(layer, layerMask)]]></description>
+</snippet>

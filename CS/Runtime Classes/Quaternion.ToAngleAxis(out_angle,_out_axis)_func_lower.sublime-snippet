@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Quaternion.ToAngleAxis(${1:float out angle}, ${2:Vector3 out axis})]]></content>
-	<tabTrigger><![CDATA[toAngleAxis]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Quaternion.*(out angle, out axis)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Button(${1:Texture image}, ${2:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[gUILayout.Button]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(image, params options)]]></description>
-</snippet>

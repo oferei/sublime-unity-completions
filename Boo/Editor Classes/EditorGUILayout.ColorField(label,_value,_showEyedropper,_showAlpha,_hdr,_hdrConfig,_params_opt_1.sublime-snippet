@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ColorField(${1:label as GUIContent}, ${2:value as Color}, ${3:showEyedropper as bool}, ${4:showAlpha as bool}, ${5:hdr as bool}, ${6:hdrConfig as ColorPickerHDRConfig}, ${7:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.ColorField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(label, value, showEyedropper, showAlpha, hdr, hdrConfig, params options)]]></description>
-</snippet>

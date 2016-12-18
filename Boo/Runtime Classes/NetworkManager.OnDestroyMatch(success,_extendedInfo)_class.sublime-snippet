@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnDestroyMatch(${1:success as bool}, ${2:extendedInfo as string})]]></content>
+	<tabTrigger><![CDATA[NetworkManager.OnDestroyMatch]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(success, extendedInfo)]]></description>
+</snippet>

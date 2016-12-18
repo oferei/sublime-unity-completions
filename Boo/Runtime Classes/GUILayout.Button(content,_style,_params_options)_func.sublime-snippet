@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Button(${1:content as GUIContent}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[Button]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GUILayout.*(content, style, params options)]]></description>
-</snippet>

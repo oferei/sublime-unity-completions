@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MasterServer.OnMasterServerEvent(${1:msEvent : MasterServerEvent})]]></content>
-	<tabTrigger><![CDATA[onMasterServerEvent]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[MasterServer.*(msEvent)]]></description>
-</snippet>

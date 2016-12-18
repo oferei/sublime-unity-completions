@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginVertical(${1:style as GUIStyle}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[BeginVertical]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(style, options)]]></description>
+</snippet>

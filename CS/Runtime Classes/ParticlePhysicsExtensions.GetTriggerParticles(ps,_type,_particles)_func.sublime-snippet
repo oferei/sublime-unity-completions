@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticlePhysicsExtensions.GetTriggerParticles(${1:ParticleSystem ps}, ${2:ParticleSystemTriggerEventType type}, ${3:Particle[] particles})]]></content>
+	<tabTrigger><![CDATA[GetTriggerParticles]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ParticlePhysicsExtensions.*(ps, type, particles)]]></description>
+</snippet>

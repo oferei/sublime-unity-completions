@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer.DictationErrorHandler(${1:error as string}, ${2:hresult as int})]]></content>
+	<tabTrigger><![CDATA[dictationRecognizer.DictationErrorHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(error, hresult)]]></description>
+</snippet>

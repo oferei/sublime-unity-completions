@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetBundle.LoadFromFile(${1:path : string}, ${2:crc : uint = 0}, ${3:offset : ulong = 0})]]></content>
-	<tabTrigger><![CDATA[LoadFromFile]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetBundle.*(path, crc, offset)]]></description>
-</snippet>

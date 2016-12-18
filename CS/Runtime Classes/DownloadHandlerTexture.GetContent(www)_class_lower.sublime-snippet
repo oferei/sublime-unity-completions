@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerTexture.GetContent(${1:Networking.UnityWebRequest www})]]></content>
+	<tabTrigger><![CDATA[downloadHandlerTexture.GetContent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(www)]]></description>
+</snippet>

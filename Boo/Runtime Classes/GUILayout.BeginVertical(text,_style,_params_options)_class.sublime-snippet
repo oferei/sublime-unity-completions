@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.BeginVertical(${1:text as string}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[GUILayout.BeginVertical]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(text, style, params options)]]></description>
-</snippet>

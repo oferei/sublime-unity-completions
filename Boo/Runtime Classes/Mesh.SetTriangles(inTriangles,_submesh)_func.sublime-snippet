@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mesh.SetTriangles(${1:inTriangles as List<int>}, ${2:submesh as int})]]></content>
-	<tabTrigger><![CDATA[SetTriangles]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Mesh.*(inTriangles, submesh)]]></description>
-</snippet>

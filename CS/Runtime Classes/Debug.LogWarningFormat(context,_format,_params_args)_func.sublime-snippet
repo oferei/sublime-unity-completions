@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Debug.LogWarningFormat(${1:Object context}, ${2:string format}, ${3:object[] params args})]]></content>
-	<tabTrigger><![CDATA[LogWarningFormat]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Debug.*(context, format, params args)]]></description>
-</snippet>

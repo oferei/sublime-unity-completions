@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayerMask.GetMask(${1:string[] params layerNames})]]></content>
-	<tabTrigger><![CDATA[layerMask.GetMask]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(params layerNames)]]></description>
-</snippet>

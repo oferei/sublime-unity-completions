@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ComputeShader.SetInts(${1:name as string}, ${2:params values as (int)})]]></content>
-	<tabTrigger><![CDATA[ComputeShader.SetInts]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(name, params values)]]></description>
-</snippet>

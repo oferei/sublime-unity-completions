@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.ColorField(${1:GUIContent label}, ${2:Color value}, ${3:bool showEyedropper}, ${4:bool showAlpha}, ${5:bool hdr}, ${6:ColorPickerHDRConfig hdrConfig}, ${7:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[colorField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(label, value, showEyedropper, showAlpha, hdr, hdrConfig, options)]]></description>
+</snippet>

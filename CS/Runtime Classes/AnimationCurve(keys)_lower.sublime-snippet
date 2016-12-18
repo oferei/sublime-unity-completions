@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve(${1:params Keyframe[] keys})]]></content>
+	<tabTrigger><![CDATA[animationCurve]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(keys)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAssetbundleNameChanged(${1:string assetPath}, ${2:string previousAssetBundleName}, ${3:string newAssetBundleName})]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAssetbundleNameChanged]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(assetPath, previousAssetBundleName, newAssetBundleName)]]></description>
-</snippet>

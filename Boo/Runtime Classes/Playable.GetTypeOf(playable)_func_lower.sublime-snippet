@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.GetTypeOf(${1:playable as Experimental.Director.Playable})]]></content>
+	<tabTrigger><![CDATA[getTypeOf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Playable.*(playable)]]></description>
+</snippet>

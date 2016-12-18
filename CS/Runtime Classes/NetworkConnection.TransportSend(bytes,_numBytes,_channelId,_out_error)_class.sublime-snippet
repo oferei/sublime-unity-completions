@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.TransportSend(${1:byte[] bytes}, ${2:int numBytes}, ${3:int channelId}, ${4:byte out error})]]></content>
-	<tabTrigger><![CDATA[NetworkConnection.TransportSend]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(bytes, numBytes, channelId, out error)]]></description>
-</snippet>

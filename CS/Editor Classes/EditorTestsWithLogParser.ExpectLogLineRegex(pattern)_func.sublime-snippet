@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTestsWithLogParser.ExpectLogLineRegex(${1:string pattern})]]></content>
+	<tabTrigger><![CDATA[ExpectLogLineRegex]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorTestsWithLogParser.*(pattern)]]></description>
+</snippet>

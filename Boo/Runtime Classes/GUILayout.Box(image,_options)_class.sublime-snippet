@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Box(${1:image as Texture}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[GUILayout.Box]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(image, options)]]></description>
+</snippet>

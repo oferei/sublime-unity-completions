@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.LayerField(${1:GUIContent label}, ${2:int layer}, ${3:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.LayerField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(label, layer, options)]]></description>
+</snippet>

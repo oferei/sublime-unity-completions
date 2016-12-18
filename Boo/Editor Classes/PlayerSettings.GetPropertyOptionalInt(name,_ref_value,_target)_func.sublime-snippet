@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.GetPropertyOptionalInt(${1:name as string}, ${2:ref value as int}, ${3:target as BuildTargetGroup = BuildTargetGroup.Unknown})]]></content>
-	<tabTrigger><![CDATA[GetPropertyOptionalInt]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PlayerSettings.*(name, ref value, target)]]></description>
-</snippet>

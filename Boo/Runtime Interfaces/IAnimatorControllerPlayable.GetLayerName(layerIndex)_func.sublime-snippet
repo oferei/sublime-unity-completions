@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.GetLayerName(${1:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[GetLayerName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(layerIndex)]]></description>
+</snippet>

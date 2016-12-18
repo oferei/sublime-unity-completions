@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.CapsuleCast(${1:point1 as Vector3}, ${2:point2 as Vector3}, ${3:radius as single}, ${4:direction as Vector3}, ${5:out hitInfo as RaycastHit}, ${6:maxDistance as single = Mathf.Infinity}, ${7:layerMask as int = DefaultRaycastLayers}, ${8:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
-	<tabTrigger><![CDATA[physics.CapsuleCast]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(point1, point2, radius, direction, out hitInfo, maxDistance, layerMask, queryTriggerInteraction)]]></description>
-</snippet>

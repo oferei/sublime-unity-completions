@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetStackTraceLogType(${1:logType : LogType})]]></content>
+	<tabTrigger><![CDATA[getStackTraceLogType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerSettings.*(logType)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Toolbar(${1:selected : int}, ${2:contents : GUIContent[]}, ${3:style : GUIStyle}, ${4:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[GUILayout.Toolbar]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(selected, contents, style, params options)]]></description>
-</snippet>

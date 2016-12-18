@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawWireCube(${1:center : Vector3}, ${2:size : Vector3})]]></content>
+	<tabTrigger><![CDATA[drawWireCube]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(center, size)]]></description>
+</snippet>

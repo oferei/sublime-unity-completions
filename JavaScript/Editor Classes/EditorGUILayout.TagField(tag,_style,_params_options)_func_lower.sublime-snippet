@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.TagField(${1:tag : string}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[tagField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(tag, style, params options)]]></description>
-</snippet>

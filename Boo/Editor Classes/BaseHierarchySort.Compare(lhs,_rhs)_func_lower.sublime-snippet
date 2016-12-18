@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BaseHierarchySort.Compare(${1:lhs as GameObject}, ${2:rhs as GameObject})]]></content>
-	<tabTrigger><![CDATA[compare]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[BaseHierarchySort.*(lhs, rhs)]]></description>
-</snippet>

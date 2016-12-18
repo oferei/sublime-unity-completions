@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginScrollView(${1:scrollPosition as Vector2}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.BeginScrollView]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scrollPosition, options)]]></description>
+</snippet>

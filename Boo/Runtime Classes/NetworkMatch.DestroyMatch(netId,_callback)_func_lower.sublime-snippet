@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.DestroyMatch(${1:netId as Networking.Types.NetworkID}, ${2:callback as ResponseDelegate<BasicResponse>})]]></content>
-	<tabTrigger><![CDATA[destroyMatch]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkMatch.*(netId, callback)]]></description>
-</snippet>

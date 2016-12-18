@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HandleUtility.DistanceToPolyLine(${1:params points as (Vector3)})]]></content>
-	<tabTrigger><![CDATA[handleUtility.DistanceToPolyLine]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(params points)]]></description>
-</snippet>

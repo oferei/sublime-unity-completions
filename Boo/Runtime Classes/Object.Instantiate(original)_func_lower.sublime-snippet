@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.Instantiate(${1:original as Object})]]></content>
+	<content><![CDATA[Object.Instantiate(${1:original as T})]]></content>
 	<tabTrigger><![CDATA[instantiate]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Object.*(original)]]></description>

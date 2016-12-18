@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedIntField(${1:value : int}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.DelayedIntField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(value, params options)]]></description>
-</snippet>

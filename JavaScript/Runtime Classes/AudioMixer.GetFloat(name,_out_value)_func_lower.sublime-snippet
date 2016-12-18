@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioMixer.GetFloat(${1:name : string}, ${2:out value : float})]]></content>
-	<tabTrigger><![CDATA[getFloat]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AudioMixer.*(name, out value)]]></description>
-</snippet>

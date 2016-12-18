@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BuildPipeline.GetCRCForAssetBundle(${1:targetPath : string}, ${2:out crc : uint})]]></content>
-	<tabTrigger><![CDATA[buildPipeline.GetCRCForAssetBundle]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(targetPath, out crc)]]></description>
-</snippet>

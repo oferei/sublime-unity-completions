@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetList.FilterCount(${1:includeFolder : bool}, ${2:states : params States[]})]]></content>
+	<tabTrigger><![CDATA[AssetList.FilterCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(includeFolder, states)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScrollViewScope.GUILayout.ScrollViewScope(${1:scrollPosition : Vector2}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[gUILayout.ScrollViewScope]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ScrollViewScope.*(scrollPosition, style, params options)]]></description>
-</snippet>

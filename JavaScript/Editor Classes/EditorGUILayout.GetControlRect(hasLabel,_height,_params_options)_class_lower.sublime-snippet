@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.GetControlRect(${1:hasLabel : bool}, ${2:height : float}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.GetControlRect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(hasLabel, height, params options)]]></description>
-</snippet>

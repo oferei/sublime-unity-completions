@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMatch.SetMatchAttributes(${1:Networking.Types.NetworkID networkId}, ${2:bool isListed}, ${3:int requestDomain}, ${4:Networking.Match.NetworkMatch.BasicResponseDelegate callback})]]></content>
+	<tabTrigger><![CDATA[SetMatchAttributes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkMatch.*(networkId, isListed, requestDomain, callback)]]></description>
+</snippet>

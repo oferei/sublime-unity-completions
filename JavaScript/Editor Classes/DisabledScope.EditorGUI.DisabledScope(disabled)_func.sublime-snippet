@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisabledScope.EditorGUI.DisabledScope(${1:disabled : bool})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.DisabledScope]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DisabledScope.*(disabled)]]></description>
+</snippet>

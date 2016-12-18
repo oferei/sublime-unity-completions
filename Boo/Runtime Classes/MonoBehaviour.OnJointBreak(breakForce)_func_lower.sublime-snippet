@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnJointBreak(${1:breakForce as single})]]></content>
-	<tabTrigger><![CDATA[onJointBreak]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MonoBehaviour.*(breakForce)]]></description>
-</snippet>

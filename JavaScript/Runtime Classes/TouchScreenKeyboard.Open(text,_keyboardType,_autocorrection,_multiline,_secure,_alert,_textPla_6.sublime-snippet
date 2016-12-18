@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TouchScreenKeyboard.Open(${1:text : string}, ${2:keyboardType : TouchScreenKeyboardType = TouchScreenKeyboardType.Default}, ${3:autocorrection : bool = true}, ${4:multiline : bool = false}, ${5:secure : bool = false}, ${6:alert : bool = false}, ${7:textPlaceholder : string = \"\"})]]></content>
-	<tabTrigger><![CDATA[touchScreenKeyboard.Open]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(text, keyboardType, autocorrection, multiline, secure, alert, textPlaceholder)]]></description>
-</snippet>

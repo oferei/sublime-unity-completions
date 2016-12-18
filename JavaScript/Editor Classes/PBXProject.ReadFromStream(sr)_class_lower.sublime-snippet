@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.ReadFromStream(${1:sr : TextReader})]]></content>
+	<tabTrigger><![CDATA[pBXProject.ReadFromStream]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sr)]]></description>
+</snippet>

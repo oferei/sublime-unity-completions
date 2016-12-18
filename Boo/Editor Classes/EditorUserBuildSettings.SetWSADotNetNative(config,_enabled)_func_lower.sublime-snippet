@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorUserBuildSettings.SetWSADotNetNative(${1:config as WSABuildType}, ${2:enabled as bool})]]></content>
-	<tabTrigger><![CDATA[setWSADotNetNative]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorUserBuildSettings.*(config, enabled)]]></description>
-</snippet>

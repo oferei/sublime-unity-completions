@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomAnimationPlayable.OnSetTime(${1:localTime : float})]]></content>
+	<tabTrigger><![CDATA[onSetTime]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CustomAnimationPlayable.*(localTime)]]></description>
+</snippet>

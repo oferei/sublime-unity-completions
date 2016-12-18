@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer.DictationCompletedDelegate(${1:cause as Windows.Speech.DictationCompletionCause})]]></content>
+	<tabTrigger><![CDATA[dictationRecognizer.DictationCompletedDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(cause)]]></description>
+</snippet>

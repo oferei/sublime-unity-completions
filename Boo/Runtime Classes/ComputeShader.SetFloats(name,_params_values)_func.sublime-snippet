@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ComputeShader.SetFloats(${1:name as string}, ${2:params values as (single)})]]></content>
-	<tabTrigger><![CDATA[SetFloats]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ComputeShader.*(name, params values)]]></description>
-</snippet>

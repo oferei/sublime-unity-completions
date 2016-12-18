@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeBuffer.SetCounterValue(${1:counterValue : uint})]]></content>
+	<tabTrigger><![CDATA[setCounterValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ComputeBuffer.*(counterValue)]]></description>
+</snippet>

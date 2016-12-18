@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsMainAssetAtPathLoaded(${1:string assetPath})]]></content>
+	<tabTrigger><![CDATA[isMainAssetAtPathLoaded]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(assetPath)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.BeginHorizontal(${1:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[beginHorizontal]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(options)]]></description>
+</snippet>

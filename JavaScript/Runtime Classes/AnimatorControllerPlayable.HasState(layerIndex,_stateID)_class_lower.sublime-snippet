@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerPlayable.HasState(${1:layerIndex : int}, ${2:stateID : int})]]></content>
+	<tabTrigger><![CDATA[animatorControllerPlayable.HasState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(layerIndex, stateID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddFileToBuildWithFlags(${1:targetGuid : string}, ${2:fileGuid : string}, ${3:compileFlags : string})]]></content>
+	<tabTrigger><![CDATA[PBXProject.AddFileToBuildWithFlags]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(targetGuid, fileGuid, compileFlags)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedIntField(${1:value as int}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[DelayedIntField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUILayout.*(value, style, params options)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MinMaxGradient.Evaluate(${1:time : float}, ${2:lerpFactor : float})]]></content>
+	<tabTrigger><![CDATA[Evaluate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MinMaxGradient.*(time, lerpFactor)]]></description>
+</snippet>

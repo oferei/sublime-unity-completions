@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMixerPlayable.GetOutput(${1:outputPort : int})]]></content>
+	<tabTrigger><![CDATA[GetOutput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationMixerPlayable.*(outputPort)]]></description>
+</snippet>

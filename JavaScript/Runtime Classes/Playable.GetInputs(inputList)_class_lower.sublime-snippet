@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.GetInputs(${1:inputList : List<Playable>})]]></content>
+	<tabTrigger><![CDATA[playable.GetInputs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inputList)]]></description>
+</snippet>

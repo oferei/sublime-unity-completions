@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnParticleCollision(${1:namelessParam : GameObject})]]></content>
+	<tabTrigger><![CDATA[monoBehaviour.OnParticleCollision]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

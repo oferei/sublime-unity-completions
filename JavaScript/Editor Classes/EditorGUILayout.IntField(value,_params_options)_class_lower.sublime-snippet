@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.IntField(${1:value : int}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.IntField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(value, params options)]]></description>
-</snippet>

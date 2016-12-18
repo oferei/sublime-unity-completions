@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticlePhysicsExtensions.SetTriggerParticles(${1:ps : ParticleSystem}, ${2:type : ParticleSystemTriggerEventType}, ${3:particles : Particle[]}, ${4:offset : int}, ${5:count : int})]]></content>
+	<tabTrigger><![CDATA[setTriggerParticles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ParticlePhysicsExtensions.*(ps, type, particles, offset, count)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.FindFileGuidByProjectPath(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[pBXProject.FindFileGuidByProjectPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

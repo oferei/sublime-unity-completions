@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarBuilder.BuildHumanAvatar(${1:go as GameObject}, ${2:humanDescription as HumanDescription})]]></content>
+	<tabTrigger><![CDATA[avatarBuilder.BuildHumanAvatar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(go, humanDescription)]]></description>
+</snippet>

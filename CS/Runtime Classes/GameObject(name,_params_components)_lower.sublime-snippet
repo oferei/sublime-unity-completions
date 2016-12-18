@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GameObject(${1:string name}, ${2:Type[] params components})]]></content>
-	<tabTrigger><![CDATA[gameObject]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(name, params components)]]></description>
-</snippet>

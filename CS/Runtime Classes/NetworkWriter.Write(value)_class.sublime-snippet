@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NetworkWriter.Write(${1:GameObject value})]]></content>
+	<content><![CDATA[NetworkWriter.Write(${1:Transform value})]]></content>
 	<tabTrigger><![CDATA[NetworkWriter.Write]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(value)]]></description>

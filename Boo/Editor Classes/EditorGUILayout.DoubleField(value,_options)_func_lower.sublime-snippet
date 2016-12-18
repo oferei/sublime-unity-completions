@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.DoubleField(${1:value as double}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[doubleField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(value, options)]]></description>
+</snippet>

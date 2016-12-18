@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanvasRenderer.SetAlphaTexture(${1:texture as Texture})]]></content>
+	<tabTrigger><![CDATA[setAlphaTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CanvasRenderer.*(texture)]]></description>
+</snippet>

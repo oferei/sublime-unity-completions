@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultipartFormDataSection(${1:name : string}, ${2:data : string}, ${3:contentType : string})]]></content>
+	<tabTrigger><![CDATA[MultipartFormDataSection]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, data, contentType)]]></description>
+</snippet>

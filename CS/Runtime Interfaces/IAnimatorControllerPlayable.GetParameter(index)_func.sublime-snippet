@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.GetParameter(${1:int index})]]></content>
+	<tabTrigger><![CDATA[GetParameter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(index)]]></description>
+</snippet>

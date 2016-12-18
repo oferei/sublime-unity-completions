@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticlePhysicsExtensions.GetSafeTriggerParticlesSize(${1:ps : ParticleSystem}, ${2:type : ParticleSystemTriggerEventType})]]></content>
+	<tabTrigger><![CDATA[ParticlePhysicsExtensions.GetSafeTriggerParticlesSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(ps, type)]]></description>
+</snippet>

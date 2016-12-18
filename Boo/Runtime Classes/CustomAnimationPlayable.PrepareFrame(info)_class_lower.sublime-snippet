@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomAnimationPlayable.PrepareFrame(${1:info as Experimental.Director.FrameData})]]></content>
+	<tabTrigger><![CDATA[customAnimationPlayable.PrepareFrame]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(info)]]></description>
+</snippet>

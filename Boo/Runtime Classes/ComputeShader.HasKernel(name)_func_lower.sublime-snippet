@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.HasKernel(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[hasKernel]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ComputeShader.*(name)]]></description>
+</snippet>

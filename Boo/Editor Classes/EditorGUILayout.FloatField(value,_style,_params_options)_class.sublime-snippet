@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.FloatField(${1:value as single}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.FloatField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value, style, params options)]]></description>
-</snippet>

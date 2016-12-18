@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.Connect(${1:source : Experimental.Director.Playable}, ${2:target : Experimental.Director.Playable}, ${3:sourceOutputPort : int}, ${4:targetInputPort : int})]]></content>
+	<tabTrigger><![CDATA[playable.Connect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(source, target, sourceOutputPort, targetInputPort)]]></description>
+</snippet>

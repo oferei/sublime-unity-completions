@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetBundle.LoadFromFileAsync(${1:string path}, ${2:uint crc = 0}, ${3:ulong offset = 0})]]></content>
-	<tabTrigger><![CDATA[assetBundle.LoadFromFileAsync]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(path, crc, offset)]]></description>
-</snippet>

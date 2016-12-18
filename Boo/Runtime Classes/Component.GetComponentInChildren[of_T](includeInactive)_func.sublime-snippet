@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Component.GetComponentInChildren[of ${1:T}](${2:includeInactive as bool = false})]]></content>
-	<tabTrigger><![CDATA[GetComponentInChildren]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Component.*[of T](includeInactive)]]></description>
-</snippet>

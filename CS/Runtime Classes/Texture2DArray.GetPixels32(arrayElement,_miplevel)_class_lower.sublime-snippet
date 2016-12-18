@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2DArray.GetPixels32(${1:int arrayElement}, ${2:int miplevel = 0})]]></content>
+	<tabTrigger><![CDATA[texture2DArray.GetPixels32]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(arrayElement, miplevel)]]></description>
+</snippet>

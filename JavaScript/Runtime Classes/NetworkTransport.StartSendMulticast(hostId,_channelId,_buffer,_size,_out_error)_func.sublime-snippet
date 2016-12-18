@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.StartSendMulticast(${1:hostId : int}, ${2:channelId : int}, ${3:buffer : byte[]}, ${4:size : int}, ${5:out error : byte})]]></content>
-	<tabTrigger><![CDATA[StartSendMulticast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, channelId, buffer, size, out error)]]></description>
-</snippet>

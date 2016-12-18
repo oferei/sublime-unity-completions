@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorController.CreateBlendTreeInController(${1:name as string}, ${2:tree as out Animations.BlendTree})]]></content>
+	<tabTrigger><![CDATA[AnimatorController.CreateBlendTreeInController]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, tree)]]></description>
+</snippet>

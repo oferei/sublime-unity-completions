@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.ListMatches(${1:req : Networking.Match.ListMatchRequest}, ${2:callback : ResponseDelegate<ListMatchResponse>})]]></content>
-	<tabTrigger><![CDATA[networkMatch.ListMatches]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(req, callback)]]></description>
-</snippet>

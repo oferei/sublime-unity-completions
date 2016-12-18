@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.SetBuffer(${1:int nameID}, ${2:ComputeBuffer value})]]></content>
+	<tabTrigger><![CDATA[setBuffer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(nameID, value)]]></description>
+</snippet>

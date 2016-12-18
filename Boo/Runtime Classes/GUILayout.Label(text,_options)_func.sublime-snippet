@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Label(${1:text as string}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[Label]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(text, options)]]></description>
+</snippet>

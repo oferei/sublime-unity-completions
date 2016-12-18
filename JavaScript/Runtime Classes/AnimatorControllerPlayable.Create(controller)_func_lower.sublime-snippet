@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerPlayable.Create(${1:controller : RuntimeAnimatorController})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorControllerPlayable.*(controller)]]></description>
+</snippet>

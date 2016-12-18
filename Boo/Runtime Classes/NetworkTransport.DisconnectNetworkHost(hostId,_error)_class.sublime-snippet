@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.DisconnectNetworkHost(${1:hostId as int}, ${2:error as out byte})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.DisconnectNetworkHost]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(hostId, error)]]></description>
+</snippet>

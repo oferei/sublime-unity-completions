@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.Toggle(${1:value as bool}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.Toggle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value, params options)]]></description>
-</snippet>

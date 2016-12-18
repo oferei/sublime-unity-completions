@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.SetStereoProjectionMatrix(${1:eye : Camera.StereoscopicEye}, ${2:matrix : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[setStereoProjectionMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Camera.*(eye, matrix)]]></description>
+</snippet>

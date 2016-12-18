@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTestsWithLogParser.ExpectLogLine(${1:string message})]]></content>
+	<tabTrigger><![CDATA[EditorTestsWithLogParser.ExpectLogLine]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(message)]]></description>
+</snippet>

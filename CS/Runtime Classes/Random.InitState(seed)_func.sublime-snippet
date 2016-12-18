@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Random.InitState(${1:int seed})]]></content>
+	<tabTrigger><![CDATA[InitState]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Random.*(seed)]]></description>
+</snippet>

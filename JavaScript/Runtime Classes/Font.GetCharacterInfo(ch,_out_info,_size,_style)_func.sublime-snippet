@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Font.GetCharacterInfo(${1:ch : char}, ${2:out info : characterInfo}, ${3:size : int = 0}, ${4:style : FontStyle = FontStyle.Normal})]]></content>
-	<tabTrigger><![CDATA[GetCharacterInfo]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Font.*(ch, out info, size, style)]]></description>
-</snippet>

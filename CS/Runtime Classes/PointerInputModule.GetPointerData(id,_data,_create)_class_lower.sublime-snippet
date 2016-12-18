@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PointerInputModule.GetPointerData(${1:int id}, ${2:out EventSystems.PointerEventData data}, ${3:bool create})]]></content>
+	<tabTrigger><![CDATA[pointerInputModule.GetPointerData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id, data, create)]]></description>
+</snippet>

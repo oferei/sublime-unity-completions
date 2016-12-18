@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetList.Filter(${1:bool includeFolder}, ${2:params States[] states})]]></content>
+	<tabTrigger><![CDATA[AssetList.Filter]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(includeFolder, states)]]></description>
+</snippet>

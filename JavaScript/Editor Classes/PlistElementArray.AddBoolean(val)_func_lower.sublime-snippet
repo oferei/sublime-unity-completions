@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementArray.AddBoolean(${1:val : bool})]]></content>
+	<tabTrigger><![CDATA[addBoolean]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlistElementArray.*(val)]]></description>
+</snippet>

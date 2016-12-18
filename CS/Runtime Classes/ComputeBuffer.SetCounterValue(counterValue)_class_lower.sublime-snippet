@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeBuffer.SetCounterValue(${1:uint counterValue})]]></content>
+	<tabTrigger><![CDATA[computeBuffer.SetCounterValue]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(counterValue)]]></description>
+</snippet>

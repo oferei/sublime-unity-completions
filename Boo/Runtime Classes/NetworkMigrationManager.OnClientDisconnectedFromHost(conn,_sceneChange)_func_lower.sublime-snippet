@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMigrationManager.OnClientDisconnectedFromHost(${1:conn as Networking.NetworkConnection}, ${2:sceneChange as out Networking.NetworkMigrationManager.SceneChangeOption})]]></content>
+	<tabTrigger><![CDATA[onClientDisconnectedFromHost]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkMigrationManager.*(conn, sceneChange)]]></description>
+</snippet>

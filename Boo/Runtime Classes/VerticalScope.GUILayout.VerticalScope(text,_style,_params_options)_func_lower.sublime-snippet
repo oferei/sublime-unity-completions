@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VerticalScope.GUILayout.VerticalScope(${1:text as string}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[gUILayout.VerticalScope]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VerticalScope.*(text, style, params options)]]></description>
-</snippet>

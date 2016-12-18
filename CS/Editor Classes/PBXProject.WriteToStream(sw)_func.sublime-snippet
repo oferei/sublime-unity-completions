@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.WriteToStream(${1:TextWriter sw})]]></content>
+	<tabTrigger><![CDATA[WriteToStream]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(sw)]]></description>
+</snippet>

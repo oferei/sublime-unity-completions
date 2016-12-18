@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.Delete(${1:uri as string})]]></content>
+	<tabTrigger><![CDATA[unityWebRequest.Delete]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(uri)]]></description>
+</snippet>

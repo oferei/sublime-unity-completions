@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.SetGlobalFloatArray(${1:nameID : int}, ${2:values : float[]})]]></content>
+	<tabTrigger><![CDATA[setGlobalFloatArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Shader.*(nameID, values)]]></description>
+</snippet>

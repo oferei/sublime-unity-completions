@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultipartFormFileSection(${1:string data}, ${2:Encoding dataEncoding}, ${3:string fileName})]]></content>
+	<tabTrigger><![CDATA[multipartFormFileSection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(data, dataEncoding, fileName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawAAPolyLine(${1:lineTex as Texture2D}, ${2:points as params (Vector3)})]]></content>
+	<tabTrigger><![CDATA[Handles.DrawAAPolyLine]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(lineTex, points)]]></description>
+</snippet>

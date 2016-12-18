@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomAnimationPlayable.GetInputWeight(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[getInputWeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CustomAnimationPlayable.*(index)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.PropertyField(${1:SerializedProperty property}, ${2:bool includeChildren}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.PropertyField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(property, includeChildren, params options)]]></description>
-</snippet>

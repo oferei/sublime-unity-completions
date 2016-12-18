@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Debug.LogErrorFormat(${1:context : Object}, ${2:format : string}, ${3:params args : object[]})]]></content>
-	<tabTrigger><![CDATA[LogErrorFormat]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Debug.*(context, format, params args)]]></description>
-</snippet>

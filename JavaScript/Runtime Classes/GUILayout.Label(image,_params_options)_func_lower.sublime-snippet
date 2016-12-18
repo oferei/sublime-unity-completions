@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Label(${1:image : Texture}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[label]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GUILayout.*(image, params options)]]></description>
-</snippet>

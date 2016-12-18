@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.LongField(${1:value : long}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[LongField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(value, style, params options)]]></description>
-</snippet>

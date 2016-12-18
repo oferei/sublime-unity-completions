@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.VerticalSlider(${1:value as single}, ${2:leftValue as single}, ${3:rightValue as single}, ${4:slider as GUIStyle}, ${5:thumb as GUIStyle}, ${6:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[verticalSlider]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GUILayout.*(value, leftValue, rightValue, slider, thumb, params options)]]></description>
-</snippet>

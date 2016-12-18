@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultipartFormFileSection(${1:name as string}, ${2:data as string}, ${3:dataEncoding as Encoding}, ${4:fileName as string})]]></content>
+	<tabTrigger><![CDATA[MultipartFormFileSection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, data, dataEncoding, fileName)]]></description>
+</snippet>

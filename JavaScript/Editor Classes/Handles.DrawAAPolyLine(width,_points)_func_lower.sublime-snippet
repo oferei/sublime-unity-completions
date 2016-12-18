@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawAAPolyLine(${1:width : float}, ${2:points : params Vector3[]})]]></content>
+	<tabTrigger><![CDATA[drawAAPolyLine]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(width, points)]]></description>
+</snippet>

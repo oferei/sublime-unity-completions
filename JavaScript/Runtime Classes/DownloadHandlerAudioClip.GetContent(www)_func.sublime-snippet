@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerAudioClip.GetContent(${1:www : Networking.UnityWebRequest})]]></content>
+	<tabTrigger><![CDATA[GetContent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DownloadHandlerAudioClip.*(www)]]></description>
+</snippet>

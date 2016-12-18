@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody.SweepTest(${1:direction as Vector3}, ${2:out hitInfo as RaycastHit}, ${3:maxDistance as single = Mathf.Infinity}, ${4:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
-	<tabTrigger><![CDATA[Rigidbody.SweepTest]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(direction, out hitInfo, maxDistance, queryTriggerInteraction)]]></description>
-</snippet>

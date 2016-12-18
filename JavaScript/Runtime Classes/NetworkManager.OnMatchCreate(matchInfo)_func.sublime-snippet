@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.OnMatchCreate(${1:matchInfo : Networking.Match.CreateMatchResponse})]]></content>
-	<tabTrigger><![CDATA[OnMatchCreate]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkManager.*(matchInfo)]]></description>
-</snippet>

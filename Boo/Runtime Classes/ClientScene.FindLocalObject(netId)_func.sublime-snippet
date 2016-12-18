@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ClientScene.FindLocalObject(${1:netId as uint})]]></content>
+	<content><![CDATA[ClientScene.FindLocalObject(${1:netId as Networking.NetworkInstanceId})]]></content>
 	<tabTrigger><![CDATA[FindLocalObject]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[ClientScene.*(netId)]]></description>

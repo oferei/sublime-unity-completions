@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerAssetBundle.GetContent(${1:Networking.UnityWebRequest www})]]></content>
+	<tabTrigger><![CDATA[GetContent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DownloadHandlerAssetBundle.*(www)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistDocument.ReadFromStream(${1:TextReader tr})]]></content>
+	<tabTrigger><![CDATA[readFromStream]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlistDocument.*(tr)]]></description>
+</snippet>

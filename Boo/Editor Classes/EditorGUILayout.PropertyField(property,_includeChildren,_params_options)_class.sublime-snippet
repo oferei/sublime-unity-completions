@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.PropertyField(${1:property as SerializedProperty}, ${2:includeChildren as bool}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.PropertyField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(property, includeChildren, params options)]]></description>
-</snippet>

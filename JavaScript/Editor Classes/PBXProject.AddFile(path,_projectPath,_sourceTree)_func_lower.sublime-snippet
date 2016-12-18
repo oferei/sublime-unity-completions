@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddFile(${1:path : string}, ${2:projectPath : string}, ${3:sourceTree : iOS.Xcode.PBXSourceTree})]]></content>
+	<tabTrigger><![CDATA[addFile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(path, projectPath, sourceTree)]]></description>
+</snippet>

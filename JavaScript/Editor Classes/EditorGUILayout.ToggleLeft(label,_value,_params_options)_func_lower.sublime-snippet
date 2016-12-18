@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ToggleLeft(${1:label : GUIContent}, ${2:value : bool}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[toggleLeft]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>
-</snippet>

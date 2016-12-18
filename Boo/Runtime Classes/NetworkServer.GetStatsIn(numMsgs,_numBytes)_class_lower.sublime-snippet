@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkServer.GetStatsIn(${1:numMsgs as out int}, ${2:numBytes as out int})]]></content>
+	<tabTrigger><![CDATA[networkServer.GetStatsIn]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(numMsgs, numBytes)]]></description>
+</snippet>

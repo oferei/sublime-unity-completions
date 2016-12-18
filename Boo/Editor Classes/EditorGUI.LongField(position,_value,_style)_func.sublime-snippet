@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUI.LongField(${1:position as Rect}, ${2:value as long}, ${3:style as GUIStyle = EditorStyles.numberField})]]></content>
-	<tabTrigger><![CDATA[LongField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUI.*(position, value, style)]]></description>
-</snippet>

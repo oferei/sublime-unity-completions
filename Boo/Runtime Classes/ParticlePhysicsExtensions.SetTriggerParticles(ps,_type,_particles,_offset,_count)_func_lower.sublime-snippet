@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticlePhysicsExtensions.SetTriggerParticles(${1:ps as ParticleSystem}, ${2:type as ParticleSystemTriggerEventType}, ${3:particles as (Particle)}, ${4:offset as int}, ${5:count as int})]]></content>
+	<tabTrigger><![CDATA[setTriggerParticles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ParticlePhysicsExtensions.*(ps, type, particles, offset, count)]]></description>
+</snippet>

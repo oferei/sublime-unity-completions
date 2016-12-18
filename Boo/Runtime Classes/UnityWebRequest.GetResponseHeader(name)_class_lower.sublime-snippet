@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.GetResponseHeader(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[unityWebRequest.GetResponseHeader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

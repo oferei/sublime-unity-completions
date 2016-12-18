@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.IntField(${1:int value}, ${2:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[intField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(value, options)]]></description>
+</snippet>

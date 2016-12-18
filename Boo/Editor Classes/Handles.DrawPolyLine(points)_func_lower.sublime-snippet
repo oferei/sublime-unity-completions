@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawPolyLine(${1:points as params (Vector3)})]]></content>
+	<tabTrigger><![CDATA[drawPolyLine]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Handles.*(points)]]></description>
+</snippet>

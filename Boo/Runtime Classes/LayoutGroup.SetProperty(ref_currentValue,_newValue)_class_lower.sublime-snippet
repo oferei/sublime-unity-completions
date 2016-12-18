@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutGroup.SetProperty(${1:ref currentValue as T}, ${2:newValue as T})]]></content>
-	<tabTrigger><![CDATA[layoutGroup.SetProperty]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(ref currentValue, newValue)]]></description>
-</snippet>

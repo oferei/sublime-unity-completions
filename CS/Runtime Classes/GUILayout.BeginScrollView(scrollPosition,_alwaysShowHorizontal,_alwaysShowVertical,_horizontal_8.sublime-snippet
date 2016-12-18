@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[GUILayout.BeginScrollView(${1:Vector2 scrollPosition}, ${2:bool alwaysShowHorizontal}, ${3:bool alwaysShowVertical}, ${4:GUIStyle horizontalScrollbar}, ${5:GUIStyle verticalScrollbar}, ${6:GUIStyle background}, ${7:GUILayoutOption[] params options})]]></content>
+	<content><![CDATA[GUILayout.BeginScrollView(${1:Vector2 scrollPosition}, ${2:bool alwaysShowHorizontal}, ${3:bool alwaysShowVertical}, ${4:GUIStyle horizontalScrollbar}, ${5:GUIStyle verticalScrollbar}, ${6:GUIStyle background}, ${7:params GUILayoutOption[] options})]]></content>
 	<tabTrigger><![CDATA[beginScrollView]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[GUILayout.*(scrollPosition, alwaysShowHorizontal, alwaysShowVertical, horizontalScrollbar, verticalScrollbar, background, params options)]]></description>
+	<description><![CDATA[GUILayout.*(scrollPosition, alwaysShowHorizontal, alwaysShowVertical, horizontalScrollbar, verticalScrollbar, background, options)]]></description>
 </snippet>

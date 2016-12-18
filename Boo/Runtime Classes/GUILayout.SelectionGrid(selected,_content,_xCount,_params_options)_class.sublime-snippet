@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.SelectionGrid(${1:selected as int}, ${2:content as (GUIContent)}, ${3:xCount as int}, ${4:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[GUILayout.SelectionGrid]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(selected, content, xCount, params options)]]></description>
-</snippet>

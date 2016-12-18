@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Label(${1:image as Texture}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[gUILayout.Label]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(image, params options)]]></description>
-</snippet>

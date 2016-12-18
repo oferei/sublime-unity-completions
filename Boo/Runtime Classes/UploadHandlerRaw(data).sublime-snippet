@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UploadHandlerRaw(${1:data as (byte)})]]></content>
+	<tabTrigger><![CDATA[UploadHandlerRaw]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(data)]]></description>
+</snippet>

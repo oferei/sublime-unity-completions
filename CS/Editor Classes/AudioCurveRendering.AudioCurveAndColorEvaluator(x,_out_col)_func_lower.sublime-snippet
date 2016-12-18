@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioCurveRendering.AudioCurveAndColorEvaluator(${1:float x}, ${2:Color out col})]]></content>
-	<tabTrigger><![CDATA[audioCurveAndColorEvaluator]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AudioCurveRendering.*(x, out col)]]></description>
-</snippet>

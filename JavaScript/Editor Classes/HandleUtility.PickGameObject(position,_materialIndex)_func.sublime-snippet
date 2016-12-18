@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.PickGameObject(${1:position : Vector2}, ${2:materialIndex : out int})]]></content>
+	<tabTrigger><![CDATA[PickGameObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HandleUtility.*(position, materialIndex)]]></description>
+</snippet>

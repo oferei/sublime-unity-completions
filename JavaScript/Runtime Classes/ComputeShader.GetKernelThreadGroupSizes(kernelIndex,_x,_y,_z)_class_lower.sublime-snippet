@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.GetKernelThreadGroupSizes(${1:kernelIndex : int}, ${2:x : out uint}, ${3:y : out uint}, ${4:z : out uint})]]></content>
+	<tabTrigger><![CDATA[computeShader.GetKernelThreadGroupSizes]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(kernelIndex, x, y, z)]]></description>
+</snippet>

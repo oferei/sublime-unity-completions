@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetPBXProjectPath(${1:buildPath as string})]]></content>
+	<tabTrigger><![CDATA[getPBXProjectPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PBXProject.*(buildPath)]]></description>
+</snippet>

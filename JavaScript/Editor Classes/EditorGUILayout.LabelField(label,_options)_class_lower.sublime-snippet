@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.LabelField(${1:label : GUIContent}, ${2:options : params GUILayoutOption[]})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.LabelField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(label, options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.CreateGameObjectWithHideFlags(${1:string name}, ${2:HideFlags flags}, ${3:params Type[] components})]]></content>
+	<tabTrigger><![CDATA[CreateGameObjectWithHideFlags]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(name, flags, components)]]></description>
+</snippet>

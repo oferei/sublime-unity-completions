@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider.OnCollisionExit(${1:Collision other})]]></content>
+	<tabTrigger><![CDATA[OnCollisionExit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Collider.*(other)]]></description>
+</snippet>

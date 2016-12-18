@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.ListMatches(${1:int startPageNumber}, ${2:int resultPageSize}, ${3:string matchNameFilter}, ${4:ResponseDelegate<ListMatchResponse> callback})]]></content>
-	<tabTrigger><![CDATA[listMatches]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkMatch.*(startPageNumber, resultPageSize, matchNameFilter, callback)]]></description>
-</snippet>

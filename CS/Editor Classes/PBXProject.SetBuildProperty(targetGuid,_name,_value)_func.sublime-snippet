@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.SetBuildProperty(${1:string targetGuid}, ${2:string name}, ${3:string value})]]></content>
+	<tabTrigger><![CDATA[SetBuildProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(targetGuid, name, value)]]></description>
+</snippet>

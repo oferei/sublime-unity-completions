@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.Instantiate(${1:original as Object}, ${2:parent as Transform})]]></content>
+	<tabTrigger><![CDATA[object.Instantiate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(original, parent)]]></description>
+</snippet>

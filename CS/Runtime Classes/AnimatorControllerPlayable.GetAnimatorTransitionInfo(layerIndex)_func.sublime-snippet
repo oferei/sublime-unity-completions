@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerPlayable.GetAnimatorTransitionInfo(${1:int layerIndex})]]></content>
+	<tabTrigger><![CDATA[GetAnimatorTransitionInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimatorControllerPlayable.*(layerIndex)]]></description>
+</snippet>

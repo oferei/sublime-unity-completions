@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnControllerColliderHit(${1:ControllerColliderHit namelessParam})]]></content>
+	<tabTrigger><![CDATA[onControllerColliderHit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MonoBehaviour.*(namelessParam)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Batch.RunTestsInRunnerWindow(${1:string[] tests})]]></content>
+	<tabTrigger><![CDATA[runTestsInRunnerWindow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Batch.*(tests)]]></description>
+</snippet>

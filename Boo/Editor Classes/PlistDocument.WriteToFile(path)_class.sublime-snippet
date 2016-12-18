@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistDocument.WriteToFile(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[PlistDocument.WriteToFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

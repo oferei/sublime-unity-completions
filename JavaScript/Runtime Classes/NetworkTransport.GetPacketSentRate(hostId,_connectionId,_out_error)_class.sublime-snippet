@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetPacketSentRate(${1:hostId : int}, ${2:connectionId : int}, ${3:out error : byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.GetPacketSentRate]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(hostId, connectionId, out error)]]></description>
-</snippet>

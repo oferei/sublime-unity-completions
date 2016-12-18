@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.GetInputs(${1:List<Playable> inputList})]]></content>
+	<tabTrigger><![CDATA[playable.GetInputs]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(inputList)]]></description>
+</snippet>

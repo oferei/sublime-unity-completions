@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalVectorArray(${1:nameID as int}, ${2:values as (Vector4)})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.SetGlobalVectorArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(nameID, values)]]></description>
+</snippet>

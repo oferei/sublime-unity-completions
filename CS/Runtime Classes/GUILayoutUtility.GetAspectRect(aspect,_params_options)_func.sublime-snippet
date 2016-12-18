@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayoutUtility.GetAspectRect(${1:float aspect}, ${2:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[GetAspectRect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GUILayoutUtility.*(aspect, params options)]]></description>
-</snippet>

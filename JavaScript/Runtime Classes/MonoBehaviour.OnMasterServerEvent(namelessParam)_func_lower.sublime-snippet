@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MonoBehaviour.OnMasterServerEvent(${1:namelessParam : MasterServerEvent})]]></content>
+	<tabTrigger><![CDATA[onMasterServerEvent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MonoBehaviour.*(namelessParam)]]></description>
+</snippet>

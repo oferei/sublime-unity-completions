@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementBoolean(${1:bool v})]]></content>
+	<tabTrigger><![CDATA[PlistElementBoolean]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

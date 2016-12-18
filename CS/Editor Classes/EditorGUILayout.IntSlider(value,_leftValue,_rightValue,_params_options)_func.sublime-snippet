@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.IntSlider(${1:int value}, ${2:int leftValue}, ${3:int rightValue}, ${4:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[IntSlider]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(value, leftValue, rightValue, params options)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Font(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[font]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

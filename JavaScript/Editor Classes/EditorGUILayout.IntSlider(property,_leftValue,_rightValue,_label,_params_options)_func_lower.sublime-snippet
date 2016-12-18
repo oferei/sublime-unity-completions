@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.IntSlider(${1:property : SerializedProperty}, ${2:leftValue : int}, ${3:rightValue : int}, ${4:label : GUIContent}, ${5:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[intSlider]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(property, leftValue, rightValue, label, params options)]]></description>
-</snippet>

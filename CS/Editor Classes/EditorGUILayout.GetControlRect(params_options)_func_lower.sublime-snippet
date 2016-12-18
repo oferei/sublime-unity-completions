@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.GetControlRect(${1:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[getControlRect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(params options)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUI.MinMaxSlider(${1:position : Rect}, ${2:ref minValue : float}, ${3:ref maxValue : float}, ${4:minLimit : float}, ${5:maxLimit : float})]]></content>
-	<tabTrigger><![CDATA[EditorGUI.MinMaxSlider]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(position, ref minValue, ref maxValue, minLimit, maxLimit)]]></description>
-</snippet>

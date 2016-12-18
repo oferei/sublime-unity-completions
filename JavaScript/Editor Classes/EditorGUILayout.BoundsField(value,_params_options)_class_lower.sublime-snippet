@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.BoundsField(${1:value : Bounds}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.BoundsField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(value, params options)]]></description>
-</snippet>

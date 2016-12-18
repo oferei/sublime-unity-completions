@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubstanceImporter.SetPlatformTextureSettings(${1:material : ProceduralMaterial}, ${2:platform : string}, ${3:maxTextureWidth : int}, ${4:maxTextureHeight : int}, ${5:textureFormat : int}, ${6:loadBehavior : int})]]></content>
+	<tabTrigger><![CDATA[SubstanceImporter.SetPlatformTextureSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(material, platform, maxTextureWidth, maxTextureHeight, textureFormat, loadBehavior)]]></description>
+</snippet>

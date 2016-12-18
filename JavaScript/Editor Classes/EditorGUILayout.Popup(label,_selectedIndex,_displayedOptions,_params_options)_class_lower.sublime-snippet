@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.Popup(${1:label : GUIContent}, ${2:selectedIndex : int}, ${3:displayedOptions : GUIContent[]}, ${4:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.Popup]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(label, selectedIndex, displayedOptions, params options)]]></description>
-</snippet>

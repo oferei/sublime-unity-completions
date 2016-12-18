@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KeywordRecognizer(${1:keywords : string[]})]]></content>
+	<tabTrigger><![CDATA[KeywordRecognizer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(keywords)]]></description>
+</snippet>

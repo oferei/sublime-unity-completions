@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.GetStackTraceLogType(${1:logType as LogType})]]></content>
+	<tabTrigger><![CDATA[getStackTraceLogType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Application.*(logType)]]></description>
+</snippet>

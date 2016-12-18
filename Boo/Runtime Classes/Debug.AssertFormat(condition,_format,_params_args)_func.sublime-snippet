@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Debug.AssertFormat(${1:condition as bool}, ${2:format as string}, ${3:params args as (object)})]]></content>
-	<tabTrigger><![CDATA[AssertFormat]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Debug.*(condition, format, params args)]]></description>
-</snippet>

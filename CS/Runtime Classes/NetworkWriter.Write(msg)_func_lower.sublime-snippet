@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkWriter.Write(${1:Networking.MessageBase msg})]]></content>
+	<tabTrigger><![CDATA[write]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkWriter.*(msg)]]></description>
+</snippet>

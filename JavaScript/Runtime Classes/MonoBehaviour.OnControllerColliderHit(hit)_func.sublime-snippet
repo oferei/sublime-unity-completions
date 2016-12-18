@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnControllerColliderHit(${1:hit : ControllerColliderHit})]]></content>
-	<tabTrigger><![CDATA[OnControllerColliderHit]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[MonoBehaviour.*(hit)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer(${1:Windows.Speech.ConfidenceLevel confidenceLevel})]]></content>
+	<tabTrigger><![CDATA[DictationRecognizer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(confidenceLevel)]]></description>
+</snippet>

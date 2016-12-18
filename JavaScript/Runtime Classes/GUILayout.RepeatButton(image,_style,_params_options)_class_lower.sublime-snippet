@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.RepeatButton(${1:image : Texture}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[gUILayout.RepeatButton]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(image, style, params options)]]></description>
-</snippet>

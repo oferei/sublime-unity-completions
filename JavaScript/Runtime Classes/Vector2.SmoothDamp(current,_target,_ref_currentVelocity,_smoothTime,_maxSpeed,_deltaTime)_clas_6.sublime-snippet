@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Vector2.SmoothDamp(${1:current : Vector2}, ${2:target : Vector2}, ${3:ref currentVelocity : Vector2}, ${4:smoothTime : float}, ${5:maxSpeed : float = Mathf.Infinity}, ${6:deltaTime : float = Time.deltaTime})]]></content>
-	<tabTrigger><![CDATA[vector2.SmoothDamp]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(current, target, ref currentVelocity, smoothTime, maxSpeed, deltaTime)]]></description>
-</snippet>

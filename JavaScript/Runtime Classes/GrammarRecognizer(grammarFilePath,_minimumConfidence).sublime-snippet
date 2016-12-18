@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GrammarRecognizer(${1:grammarFilePath : string}, ${2:minimumConfidence : Windows.Speech.ConfidenceLevel})]]></content>
+	<tabTrigger><![CDATA[GrammarRecognizer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(grammarFilePath, minimumConfidence)]]></description>
+</snippet>

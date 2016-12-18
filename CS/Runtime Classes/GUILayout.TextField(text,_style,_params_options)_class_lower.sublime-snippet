@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.TextField(${1:string text}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[gUILayout.TextField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(text, style, params options)]]></description>
-</snippet>

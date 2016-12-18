@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[NetworkTransport.ConnectToNetworkPeer(${1:hostId as int}, ${2:address as string}, ${3:port as int}, ${4:exceptionConnectionId as int}, ${5:relaySlotId as int}, ${6:network as Networking.Types.NetworkID}, ${7:source as Networking.Types.SourceID}, ${8:node as Networking.Types.NodeID}, ${9:out error as byte})]]></content>
+	<content><![CDATA[NetworkTransport.ConnectToNetworkPeer(${1:hostId as int}, ${2:address as string}, ${3:port as int}, ${4:exceptionConnectionId as int}, ${5:relaySlotId as int}, ${6:network as Networking.Types.NetworkID}, ${7:source as Networking.Types.SourceID}, ${8:node as Networking.Types.NodeID}, ${9:error as out byte})]]></content>
 	<tabTrigger><![CDATA[ConnectToNetworkPeer]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, address, port, exceptionConnectionId, relaySlotId, network, source, node, out error)]]></description>
+	<description><![CDATA[NetworkTransport.*(hostId, address, port, exceptionConnectionId, relaySlotId, network, source, node, error)]]></description>
 </snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ToggleLeft(${1:label as GUIContent}, ${2:value as bool}, ${3:labelStyle as GUIStyle}, ${4:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.ToggleLeft]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(label, value, labelStyle, params options)]]></description>
-</snippet>

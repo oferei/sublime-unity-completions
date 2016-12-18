@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ColorUtility.TryParseHtmlString(${1:htmlString as string}, ${2:out color as Color})]]></content>
-	<tabTrigger><![CDATA[TryParseHtmlString]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ColorUtility.*(htmlString, out color)]]></description>
-</snippet>

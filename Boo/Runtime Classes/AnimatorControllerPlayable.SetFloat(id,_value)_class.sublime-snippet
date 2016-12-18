@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerPlayable.SetFloat(${1:id as int}, ${2:value as single})]]></content>
+	<tabTrigger><![CDATA[AnimatorControllerPlayable.SetFloat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(id, value)]]></description>
+</snippet>

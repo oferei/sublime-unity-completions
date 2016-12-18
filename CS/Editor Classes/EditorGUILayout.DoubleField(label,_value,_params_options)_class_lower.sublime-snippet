@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DoubleField(${1:GUIContent label}, ${2:double value}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.DoubleField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(label, value, params options)]]></description>
-</snippet>

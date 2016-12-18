@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedFloatField(${1:SerializedProperty property}, ${2:GUIContent label}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[DelayedFloatField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(property, label, params options)]]></description>
-</snippet>

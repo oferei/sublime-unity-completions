@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioSource.GetSpatializerFloat(${1:int index}, ${2:float out value})]]></content>
-	<tabTrigger><![CDATA[audioSource.GetSpatializerFloat]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(index, out value)]]></description>
-</snippet>

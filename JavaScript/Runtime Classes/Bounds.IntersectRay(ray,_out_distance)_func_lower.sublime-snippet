@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Bounds.IntersectRay(${1:ray : Ray}, ${2:out distance : float})]]></content>
-	<tabTrigger><![CDATA[intersectRay]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Bounds.*(ray, out distance)]]></description>
-</snippet>

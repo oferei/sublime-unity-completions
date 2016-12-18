@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Rigidbody.AddExplosionForce(${1:float explosionForce}, ${2:Vector3 explosionPosition}, ${3:float explosionRadius}, ${4:float upwardsModifier = 0.0F}, ${5:ForceMode mode = ForceMode.Force})]]></content>
-	<tabTrigger><![CDATA[AddExplosionForce]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Rigidbody.*(explosionForce, explosionPosition, explosionRadius, upwardsModifier, mode)]]></description>
-</snippet>

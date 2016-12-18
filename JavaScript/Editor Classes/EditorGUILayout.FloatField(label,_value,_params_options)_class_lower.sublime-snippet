@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.FloatField(${1:label : GUIContent}, ${2:value : float}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.FloatField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(label, value, params options)]]></description>
-</snippet>

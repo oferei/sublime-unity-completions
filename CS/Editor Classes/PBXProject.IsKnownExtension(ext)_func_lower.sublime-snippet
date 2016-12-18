@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.IsKnownExtension(${1:string ext})]]></content>
+	<tabTrigger><![CDATA[isKnownExtension]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(ext)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.OnFailedToConnect(${1:error : NetworkConnectionError})]]></content>
-	<tabTrigger><![CDATA[onFailedToConnect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Network.*(error)]]></description>
-</snippet>

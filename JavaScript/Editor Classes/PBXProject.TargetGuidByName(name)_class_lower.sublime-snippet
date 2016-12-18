@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.TargetGuidByName(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[pBXProject.TargetGuidByName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

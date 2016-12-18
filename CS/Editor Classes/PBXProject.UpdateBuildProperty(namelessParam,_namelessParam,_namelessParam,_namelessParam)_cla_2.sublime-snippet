@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.UpdateBuildProperty(${1:string namelessParam}, ${2:string namelessParam}, ${3:string[] namelessParam}, ${4:string[] namelessParam})]]></content>
+	<tabTrigger><![CDATA[pBXProject.UpdateBuildProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:mesh : Mesh}, ${2:matrix : Matrix4x4}, ${3:material : Material}, ${4:layer : int}, ${5:camera : Camera}, ${6:submeshIndex : int}, ${7:properties : MaterialPropertyBlock}, ${8:castShadows : Rendering.ShadowCastingMode}, ${9:receiveShadows : bool = true}, ${10:probeAnchor : Transform = null})]]></content>
+	<content><![CDATA[Graphics.DrawMesh(${1:mesh : Mesh}, ${2:matrix : Matrix4x4}, ${3:material : Material}, ${4:layer : int}, ${5:camera : Camera}, ${6:submeshIndex : int}, ${7:properties : MaterialPropertyBlock}, ${8:castShadows : Rendering.ShadowCastingMode}, ${9:receiveShadows : bool = true}, ${10:probeAnchor : Transform = null}, ${11:useLightProbes : bool = true})]]></content>
 	<tabTrigger><![CDATA[drawMesh]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[Graphics.*(mesh, matrix, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows, probeAnchor)]]></description>
+	<description><![CDATA[Graphics.*(mesh, matrix, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows, probeAnchor, useLightProbes)]]></description>
 </snippet>

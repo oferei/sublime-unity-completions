@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.FloatField(${1:float value}, ${2:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[FloatField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(value, options)]]></description>
+</snippet>

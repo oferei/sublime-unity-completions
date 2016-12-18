@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.BeginVertical(${1:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.BeginVertical]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(params options)]]></description>
-</snippet>

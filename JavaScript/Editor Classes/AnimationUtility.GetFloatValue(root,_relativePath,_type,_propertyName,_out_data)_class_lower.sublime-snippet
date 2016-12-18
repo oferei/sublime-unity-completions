@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.GetFloatValue(${1:root : GameObject}, ${2:relativePath : string}, ${3:type : Type}, ${4:propertyName : string}, ${5:out data : float})]]></content>
-	<tabTrigger><![CDATA[animationUtility.GetFloatValue]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(root, relativePath, type, propertyName, out data)]]></description>
-</snippet>

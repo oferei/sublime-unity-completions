@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ParticleEmitter.Simulate(${1:deltaTime as single})]]></content>
-	<tabTrigger><![CDATA[particleEmitter.Simulate]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(deltaTime)]]></description>
-</snippet>

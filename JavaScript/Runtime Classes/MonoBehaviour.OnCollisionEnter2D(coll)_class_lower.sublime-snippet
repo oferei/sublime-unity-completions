@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnCollisionEnter2D(${1:coll : Collision2D})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnCollisionEnter2D]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(coll)]]></description>
-</snippet>

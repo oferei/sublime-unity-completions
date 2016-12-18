@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayoutUtility.GetRect(${1:width : float}, ${2:height : float}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[GetRect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GUILayoutUtility.*(width, height, params options)]]></description>
-</snippet>

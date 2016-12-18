@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HorizontalScope.GUILayout.HorizontalScope(${1:GUIStyle style}, ${2:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[GUILayout.HorizontalScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HorizontalScope.*(style, options)]]></description>
+</snippet>

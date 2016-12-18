@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.LongField(${1:long value}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.LongField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value, style, params options)]]></description>
-</snippet>

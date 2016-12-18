@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.OverlapPoint(${1:Vector2 point})]]></content>
+	<tabTrigger><![CDATA[rigidbody2D.OverlapPoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point)]]></description>
+</snippet>

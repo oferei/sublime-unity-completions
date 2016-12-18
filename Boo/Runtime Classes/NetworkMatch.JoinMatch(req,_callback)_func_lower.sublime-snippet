@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.JoinMatch(${1:req as Networking.Match.JoinMatchRequest}, ${2:callback as ResponseDelegate<JoinMatchResponse>})]]></content>
-	<tabTrigger><![CDATA[joinMatch]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkMatch.*(req, callback)]]></description>
-</snippet>

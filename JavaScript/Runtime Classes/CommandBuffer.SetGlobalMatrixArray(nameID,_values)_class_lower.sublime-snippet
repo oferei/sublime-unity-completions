@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalMatrixArray(${1:nameID : int}, ${2:values : Matrix4x4[]})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetGlobalMatrixArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, values)]]></description>
+</snippet>

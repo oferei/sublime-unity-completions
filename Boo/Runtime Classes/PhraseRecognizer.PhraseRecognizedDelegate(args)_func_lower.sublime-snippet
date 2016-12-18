@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhraseRecognizer.PhraseRecognizedDelegate(${1:args as Windows.Speech.PhraseRecognizedEventArgs})]]></content>
+	<tabTrigger><![CDATA[phraseRecognizedDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhraseRecognizer.*(args)]]></description>
+</snippet>

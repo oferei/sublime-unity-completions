@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.Post(${1:string uri}, ${2:string postData})]]></content>
+	<tabTrigger><![CDATA[Post]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityWebRequest.*(uri, postData)]]></description>
+</snippet>

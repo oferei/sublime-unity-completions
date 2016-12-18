@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.ReadFromString(${1:string src})]]></content>
+	<tabTrigger><![CDATA[ReadFromString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(src)]]></description>
+</snippet>

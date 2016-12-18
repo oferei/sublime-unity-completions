@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.IntPopup(${1:SerializedProperty property}, ${2:GUIContent[] displayedOptions}, ${3:int[] optionValues}, ${4:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.IntPopup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(property, displayedOptions, optionValues, options)]]></description>
+</snippet>

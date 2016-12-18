@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.MaskField(${1:mask : int}, ${2:displayedOptions : string[]}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.MaskField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(mask, displayedOptions, params options)]]></description>
-</snippet>

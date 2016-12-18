@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.BoxCast(${1:center : Vector3}, ${2:halfExtents : Vector3}, ${3:direction : Vector3}, ${4:out hitInfo : RaycastHit}, ${5:orientation : Quaternion = Quaternion.identity}, ${6:maxDistance : float = Mathf.Infinity}, ${7:layerMask : int = DefaultRaycastLayers}, ${8:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
-	<tabTrigger><![CDATA[BoxCast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Physics.*(center, halfExtents, direction, out hitInfo, orientation, maxDistance, layerMask, queryTriggerInteraction)]]></description>
-</snippet>

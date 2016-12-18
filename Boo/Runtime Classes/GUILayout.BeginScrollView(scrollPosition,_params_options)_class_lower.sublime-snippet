@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.BeginScrollView(${1:scrollPosition as Vector2}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[gUILayout.BeginScrollView]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(scrollPosition, params options)]]></description>
-</snippet>

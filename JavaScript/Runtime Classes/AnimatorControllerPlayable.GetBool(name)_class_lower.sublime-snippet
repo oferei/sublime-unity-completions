@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerPlayable.GetBool(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[animatorControllerPlayable.GetBool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

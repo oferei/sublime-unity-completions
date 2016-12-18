@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.ContainsFileByProjectPath(${1:string path})]]></content>
+	<tabTrigger><![CDATA[containsFileByProjectPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(path)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayoutUtility.GetRect(${1:minWidth as single}, ${2:maxWidth as single}, ${3:minHeight as single}, ${4:maxHeight as single}, ${5:style as GUIStyle}, ${6:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[gUILayoutUtility.GetRect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(minWidth, maxWidth, minHeight, maxHeight, style, params options)]]></description>
-</snippet>

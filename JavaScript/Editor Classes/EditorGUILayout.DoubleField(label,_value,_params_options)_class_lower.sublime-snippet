@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DoubleField(${1:label : GUIContent}, ${2:value : double}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.DoubleField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(label, value, params options)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMatch.ListMatches(${1:startPageNumber as int}, ${2:resultPageSize as int}, ${3:matchNameFilter as string}, ${4:filterOutPrivateMatchesFromResults as bool}, ${5:eloScoreTarget as int}, ${6:requestDomain as int}, ${7:callback as DataResponseDelegate<List<MatchInfoSnapshot>>})]]></content>
+	<tabTrigger><![CDATA[NetworkMatch.ListMatches]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(startPageNumber, resultPageSize, matchNameFilter, filterOutPrivateMatchesFromResults, eloScoreTarget, requestDomain, callback)]]></description>
+</snippet>

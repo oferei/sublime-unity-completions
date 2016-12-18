@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.LabelField(${1:label as GUIContent}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[LabelField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(label, options)]]></description>
+</snippet>

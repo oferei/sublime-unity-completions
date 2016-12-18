@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.IntField(${1:value as int}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.IntField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value, params options)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnApplicationFocus(${1:bool focusStatus})]]></content>
-	<tabTrigger><![CDATA[onApplicationFocus]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MonoBehaviour.*(focusStatus)]]></description>
-</snippet>

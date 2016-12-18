@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.GetOutputs(${1:outputList as List<Playable>})]]></content>
+	<tabTrigger><![CDATA[Playable.GetOutputs]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(outputList)]]></description>
+</snippet>

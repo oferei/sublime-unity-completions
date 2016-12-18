@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.ExternalCall(${1:string functionName}, ${2:params object[] args})]]></content>
+	<tabTrigger><![CDATA[ExternalCall]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Application.*(functionName, args)]]></description>
+</snippet>

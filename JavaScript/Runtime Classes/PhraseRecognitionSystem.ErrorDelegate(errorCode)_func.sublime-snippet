@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhraseRecognitionSystem.ErrorDelegate(${1:errorCode : Windows.Speech.SpeechError})]]></content>
+	<tabTrigger><![CDATA[ErrorDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhraseRecognitionSystem.*(errorCode)]]></description>
+</snippet>

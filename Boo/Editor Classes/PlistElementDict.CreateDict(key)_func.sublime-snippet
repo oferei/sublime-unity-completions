@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementDict.CreateDict(${1:key as string})]]></content>
+	<tabTrigger><![CDATA[CreateDict]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlistElementDict.*(key)]]></description>
+</snippet>

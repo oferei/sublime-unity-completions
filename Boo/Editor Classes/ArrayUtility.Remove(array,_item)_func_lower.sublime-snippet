@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.Remove(${1:array as ref (T)}, ${2:item as T})]]></content>
+	<tabTrigger><![CDATA[remove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ArrayUtility.*(array, item)]]></description>
+</snippet>

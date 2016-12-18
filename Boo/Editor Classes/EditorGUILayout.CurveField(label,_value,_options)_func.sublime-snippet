@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.CurveField(${1:label as GUIContent}, ${2:value as AnimationCurve}, ${3:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[CurveField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(label, value, options)]]></description>
+</snippet>

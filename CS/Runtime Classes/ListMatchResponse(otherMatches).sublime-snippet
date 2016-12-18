@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ListMatchResponse(${1:List<MatchDesc> otherMatches})]]></content>
-	<tabTrigger><![CDATA[ListMatchResponse]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(otherMatches)]]></description>
-</snippet>

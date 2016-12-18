@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.DispatchIndirect(${1:int kernelIndex}, ${2:ComputeBuffer argsBuffer}, ${3:uint argsOffset = 0})]]></content>
+	<tabTrigger><![CDATA[computeShader.DispatchIndirect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(kernelIndex, argsBuffer, argsOffset)]]></description>
+</snippet>

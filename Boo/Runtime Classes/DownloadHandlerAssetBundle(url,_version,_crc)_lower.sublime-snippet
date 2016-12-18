@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerAssetBundle(${1:url as string}, ${2:version as uint}, ${3:crc as uint})]]></content>
+	<tabTrigger><![CDATA[downloadHandlerAssetBundle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(url, version, crc)]]></description>
+</snippet>

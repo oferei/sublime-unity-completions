@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.OnMatchList(${1:Networking.Match.ListMatchResponse matchList})]]></content>
-	<tabTrigger><![CDATA[NetworkManager.OnMatchList]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(matchList)]]></description>
-</snippet>

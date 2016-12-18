@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Editor.CreateCachedEditor(${1:targetObjects as (Object)}, ${2:editorType as Type}, ${3:ref previousEditor as Editor})]]></content>
-	<tabTrigger><![CDATA[editor.CreateCachedEditor]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(targetObjects, editorType, ref previousEditor)]]></description>
-</snippet>

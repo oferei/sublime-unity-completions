@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.MinMaxSlider(${1:minValue as ref single}, ${2:maxValue as ref single}, ${3:minLimit as single}, ${4:maxLimit as single}, ${5:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[MinMaxSlider]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(minValue, maxValue, minLimit, maxLimit, options)]]></description>
+</snippet>

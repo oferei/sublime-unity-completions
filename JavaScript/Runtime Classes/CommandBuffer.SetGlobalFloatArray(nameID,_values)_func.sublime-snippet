@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalFloatArray(${1:nameID : int}, ${2:values : float[]})]]></content>
+	<tabTrigger><![CDATA[SetGlobalFloatArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(nameID, values)]]></description>
+</snippet>

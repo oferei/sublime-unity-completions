@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetPostprocessor.OnPostprocessAllAssets(${1:importedAssets as (string)}, ${2:deletedAssets as (string)}, ${3:movedAssets as (string)}, ${4:movedFromAssetPaths as (string)})]]></content>
-	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAllAssets]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(importedAssets, deletedAssets, movedAssets, movedFromAssetPaths)]]></description>
-</snippet>

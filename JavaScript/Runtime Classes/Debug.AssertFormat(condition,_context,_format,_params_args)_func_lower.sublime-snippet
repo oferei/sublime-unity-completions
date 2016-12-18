@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Debug.AssertFormat(${1:condition : bool}, ${2:context : Object}, ${3:format : string}, ${4:params args : object[]})]]></content>
-	<tabTrigger><![CDATA[assertFormat]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Debug.*(condition, context, format, params args)]]></description>
-</snippet>

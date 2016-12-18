@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementArray.AddInteger(${1:int val})]]></content>
+	<tabTrigger><![CDATA[AddInteger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlistElementArray.*(val)]]></description>
+</snippet>

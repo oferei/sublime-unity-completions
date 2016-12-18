@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayoutUtility.GetAspectRect(${1:aspect as single}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[gUILayoutUtility.GetAspectRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(aspect, options)]]></description>
+</snippet>

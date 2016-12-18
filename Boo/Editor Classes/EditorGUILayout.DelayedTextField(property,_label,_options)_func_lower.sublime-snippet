@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.DelayedTextField(${1:property as SerializedProperty}, ${2:label as GUIContent}, ${3:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[delayedTextField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(property, label, options)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mesh.SetIndices(${1:indices : int[]}, ${2:topology : MeshTopology}, ${3:submesh : int})]]></content>
-	<tabTrigger><![CDATA[Mesh.SetIndices]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(indices, topology, submesh)]]></description>
-</snippet>

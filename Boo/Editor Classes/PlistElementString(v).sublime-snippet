@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementString(${1:v as string})]]></content>
+	<tabTrigger><![CDATA[PlistElementString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

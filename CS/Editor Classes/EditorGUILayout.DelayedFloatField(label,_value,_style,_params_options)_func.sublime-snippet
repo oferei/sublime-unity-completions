@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedFloatField(${1:GUIContent label}, ${2:float value}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[DelayedFloatField]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(label, value, style, params options)]]></description>
-</snippet>

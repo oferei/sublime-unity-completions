@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaskUtilities.IsDescendantOrSelf(${1:Transform father}, ${2:Transform child})]]></content>
+	<tabTrigger><![CDATA[MaskUtilities.IsDescendantOrSelf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(father, child)]]></description>
+</snippet>

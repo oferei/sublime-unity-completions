@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnDisconnectedFromServer(${1:info : NetworkDisconnection})]]></content>
-	<tabTrigger><![CDATA[monoBehaviour.OnDisconnectedFromServer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(info)]]></description>
-</snippet>

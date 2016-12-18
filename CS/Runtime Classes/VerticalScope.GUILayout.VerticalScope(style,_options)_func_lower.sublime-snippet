@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VerticalScope.GUILayout.VerticalScope(${1:GUIStyle style}, ${2:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[gUILayout.VerticalScope]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VerticalScope.*(style, options)]]></description>
+</snippet>

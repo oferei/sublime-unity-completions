@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.CopyTexture(${1:Texture src}, ${2:int srcElement}, ${3:int srcMip}, ${4:int srcX}, ${5:int srcY}, ${6:int srcWidth}, ${7:int srcHeight}, ${8:Texture dst}, ${9:int dstElement}, ${10:int dstMip}, ${11:int dstX}, ${12:int dstY})]]></content>
+	<tabTrigger><![CDATA[CopyTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphics.*(src, srcElement, srcMip, srcX, srcY, srcWidth, srcHeight, dst, dstElement, dstMip, dstX, dstY)]]></description>
+</snippet>

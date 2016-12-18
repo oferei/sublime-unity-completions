@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CharacterController.OnControllerColliderHit(${1:hit as ControllerColliderHit})]]></content>
-	<tabTrigger><![CDATA[OnControllerColliderHit]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[CharacterController.*(hit)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.RectField(${1:label : GUIContent}, ${2:value : Rect}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[RectField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(label, value, params options)]]></description>
-</snippet>

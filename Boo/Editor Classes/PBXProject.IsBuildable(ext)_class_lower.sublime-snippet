@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.IsBuildable(${1:ext as string})]]></content>
+	<tabTrigger><![CDATA[pBXProject.IsBuildable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ext)]]></description>
+</snippet>

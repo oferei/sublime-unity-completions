@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaskUtilities.GetRectMaskForClippable(${1:clippable : UI.IClippable})]]></content>
+	<tabTrigger><![CDATA[getRectMaskForClippable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaskUtilities.*(clippable)]]></description>
+</snippet>

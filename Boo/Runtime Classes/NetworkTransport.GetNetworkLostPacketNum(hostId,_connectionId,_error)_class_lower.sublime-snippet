@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetNetworkLostPacketNum(${1:hostId as int}, ${2:connectionId as int}, ${3:error as out byte})]]></content>
+	<tabTrigger><![CDATA[networkTransport.GetNetworkLostPacketNum]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(hostId, connectionId, error)]]></description>
+</snippet>

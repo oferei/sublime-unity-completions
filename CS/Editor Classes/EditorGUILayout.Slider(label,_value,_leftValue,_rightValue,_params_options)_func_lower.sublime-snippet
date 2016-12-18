@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.Slider(${1:GUIContent label}, ${2:float value}, ${3:float leftValue}, ${4:float rightValue}, ${5:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[slider]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EditorGUILayout.*(label, value, leftValue, rightValue, params options)]]></description>
-</snippet>

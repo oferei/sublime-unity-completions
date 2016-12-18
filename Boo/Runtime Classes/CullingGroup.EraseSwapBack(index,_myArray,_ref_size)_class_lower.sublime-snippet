@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullingGroup.EraseSwapBack(${1:index as int}, ${2:myArray as (T)}, ${3:ref size as int})]]></content>
-	<tabTrigger><![CDATA[cullingGroup.EraseSwapBack]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(index, myArray, ref size)]]></description>
-</snippet>

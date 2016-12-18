@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.DetectCrossSceneReferences(${1:scene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.DetectCrossSceneReferences]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scene)]]></description>
+</snippet>

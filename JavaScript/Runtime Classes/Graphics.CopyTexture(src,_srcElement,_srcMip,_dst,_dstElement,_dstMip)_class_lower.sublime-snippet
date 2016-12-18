@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.CopyTexture(${1:src : Texture}, ${2:srcElement : int}, ${3:srcMip : int}, ${4:dst : Texture}, ${5:dstElement : int}, ${6:dstMip : int})]]></content>
+	<tabTrigger><![CDATA[graphics.CopyTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(src, srcElement, srcMip, dst, dstElement, dstMip)]]></description>
+</snippet>

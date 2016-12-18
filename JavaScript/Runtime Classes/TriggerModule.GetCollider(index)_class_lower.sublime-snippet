@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TriggerModule.GetCollider(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[triggerModule.GetCollider]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

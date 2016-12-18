@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.Raycast(${1:Vector3 sourcePosition}, ${2:Vector3 targetPosition}, ${3:out NavMeshHit hit}, ${4:int areaMask})]]></content>
+	<tabTrigger><![CDATA[NavMesh.Raycast]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(sourcePosition, targetPosition, hit, areaMask)]]></description>
+</snippet>

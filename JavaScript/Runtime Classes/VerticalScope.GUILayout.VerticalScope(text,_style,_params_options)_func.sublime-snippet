@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VerticalScope.GUILayout.VerticalScope(${1:text : string}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[GUILayout.VerticalScope]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VerticalScope.*(text, style, params options)]]></description>
-</snippet>

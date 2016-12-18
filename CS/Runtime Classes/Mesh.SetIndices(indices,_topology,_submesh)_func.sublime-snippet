@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mesh.SetIndices(${1:int[] indices}, ${2:MeshTopology topology}, ${3:int submesh})]]></content>
-	<tabTrigger><![CDATA[SetIndices]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Mesh.*(indices, topology, submesh)]]></description>
-</snippet>

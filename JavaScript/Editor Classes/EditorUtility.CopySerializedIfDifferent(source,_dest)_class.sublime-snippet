@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.CopySerializedIfDifferent(${1:source : Object}, ${2:dest : Object})]]></content>
+	<tabTrigger><![CDATA[EditorUtility.CopySerializedIfDifferent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(source, dest)]]></description>
+</snippet>

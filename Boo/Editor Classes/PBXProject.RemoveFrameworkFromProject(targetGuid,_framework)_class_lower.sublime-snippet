@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveFrameworkFromProject(${1:targetGuid as string}, ${2:framework as string})]]></content>
+	<tabTrigger><![CDATA[pBXProject.RemoveFrameworkFromProject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGuid, framework)]]></description>
+</snippet>

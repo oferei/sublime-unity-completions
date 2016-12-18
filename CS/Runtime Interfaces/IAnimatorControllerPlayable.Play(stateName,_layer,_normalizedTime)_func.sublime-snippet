@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.Play(${1:string stateName}, ${2:int layer}, ${3:float normalizedTime})]]></content>
+	<tabTrigger><![CDATA[Play]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(stateName, layer, normalizedTime)]]></description>
+</snippet>

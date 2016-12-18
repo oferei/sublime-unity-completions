@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomAnimationPlayable.SetInputWeight(${1:inputIndex : int}, ${2:weight : float})]]></content>
+	<tabTrigger><![CDATA[CustomAnimationPlayable.SetInputWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inputIndex, weight)]]></description>
+</snippet>

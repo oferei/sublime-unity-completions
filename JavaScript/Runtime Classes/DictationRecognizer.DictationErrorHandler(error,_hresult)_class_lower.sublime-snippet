@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer.DictationErrorHandler(${1:error : string}, ${2:hresult : int})]]></content>
+	<tabTrigger><![CDATA[dictationRecognizer.DictationErrorHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(error, hresult)]]></description>
+</snippet>

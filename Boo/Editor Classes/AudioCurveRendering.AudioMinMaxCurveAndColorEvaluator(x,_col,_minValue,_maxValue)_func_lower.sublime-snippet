@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioCurveRendering.AudioMinMaxCurveAndColorEvaluator(${1:x as single}, ${2:col as out Color}, ${3:minValue as out single}, ${4:maxValue as out single})]]></content>
+	<tabTrigger><![CDATA[audioMinMaxCurveAndColorEvaluator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AudioCurveRendering.*(x, col, minValue, maxValue)]]></description>
+</snippet>

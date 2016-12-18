@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayable.RemoveInput(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[removeInput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationPlayable.*(index)]]></description>
+</snippet>

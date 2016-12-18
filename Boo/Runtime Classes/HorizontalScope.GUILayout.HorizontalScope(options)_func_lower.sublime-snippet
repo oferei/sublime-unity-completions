@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HorizontalScope.GUILayout.HorizontalScope(${1:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[gUILayout.HorizontalScope]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HorizontalScope.*(options)]]></description>
+</snippet>

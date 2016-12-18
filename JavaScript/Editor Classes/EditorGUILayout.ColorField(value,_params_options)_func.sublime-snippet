@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ColorField(${1:value : Color}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[ColorField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(value, params options)]]></description>
-</snippet>

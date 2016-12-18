@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[NetworkTransport.StartBroadcastDiscovery(${1:hostId as int}, ${2:broadcastPort as int}, ${3:key as int}, ${4:version as int}, ${5:subversion as int}, ${6:buffer as (byte)}, ${7:size as int}, ${8:timeout as int}, ${9:out error as byte})]]></content>
+	<content><![CDATA[NetworkTransport.StartBroadcastDiscovery(${1:hostId as int}, ${2:broadcastPort as int}, ${3:key as int}, ${4:version as int}, ${5:subversion as int}, ${6:buffer as (byte)}, ${7:size as int}, ${8:timeout as int}, ${9:error as out byte})]]></content>
 	<tabTrigger><![CDATA[startBroadcastDiscovery]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, broadcastPort, key, version, subversion, buffer, size, timeout, out error)]]></description>
+	<description><![CDATA[NetworkTransport.*(hostId, broadcastPort, key, version, subversion, buffer, size, timeout, error)]]></description>
 </snippet>

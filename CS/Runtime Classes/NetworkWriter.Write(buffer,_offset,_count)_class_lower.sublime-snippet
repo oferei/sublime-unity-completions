@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkWriter.Write(${1:byte[] buffer}, ${2:int offset}, ${3:int count})]]></content>
+	<tabTrigger><![CDATA[networkWriter.Write]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(buffer, offset, count)]]></description>
+</snippet>

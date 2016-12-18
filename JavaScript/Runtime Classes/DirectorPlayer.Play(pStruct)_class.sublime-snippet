@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DirectorPlayer.Play(${1:pStruct : Experimental.Director.Playable})]]></content>
+	<tabTrigger><![CDATA[DirectorPlayer.Play]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(pStruct)]]></description>
+</snippet>

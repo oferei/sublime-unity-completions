@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Toggle(${1:value as bool}, ${2:content as GUIContent}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[toggle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GUILayout.*(value, content, params options)]]></description>
-</snippet>

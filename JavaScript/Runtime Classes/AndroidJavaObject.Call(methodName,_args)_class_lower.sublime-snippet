@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJavaObject.Call(${1:methodName : string}, ${2:args : params object[]})]]></content>
+	<tabTrigger><![CDATA[androidJavaObject.Call]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(methodName, args)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SyncList<T0>.CopyTo(${1:T[] array}, ${2:int index})]]></content>
+	<tabTrigger><![CDATA[syncList<T0>.CopyTo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(array, index)]]></description>
+</snippet>

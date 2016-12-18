@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.RectField(${1:GUIContent label}, ${2:Rect value}, ${3:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[RectField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(label, value, options)]]></description>
+</snippet>

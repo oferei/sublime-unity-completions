@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MinMaxCurve.Evaluate(${1:time as single})]]></content>
+	<tabTrigger><![CDATA[evaluate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MinMaxCurve.*(time)]]></description>
+</snippet>

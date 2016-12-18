@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.OnSetTime(${1:localTime : float})]]></content>
+	<tabTrigger><![CDATA[Playable.OnSetTime]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(localTime)]]></description>
+</snippet>

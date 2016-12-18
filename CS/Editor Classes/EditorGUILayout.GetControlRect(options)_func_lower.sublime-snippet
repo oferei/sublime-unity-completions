@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.GetControlRect(${1:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[getControlRect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(options)]]></description>
+</snippet>

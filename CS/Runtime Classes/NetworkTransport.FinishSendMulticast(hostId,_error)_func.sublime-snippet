@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.FinishSendMulticast(${1:int hostId}, ${2:out byte error})]]></content>
+	<tabTrigger><![CDATA[FinishSendMulticast]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NetworkTransport.*(hostId, error)]]></description>
+</snippet>

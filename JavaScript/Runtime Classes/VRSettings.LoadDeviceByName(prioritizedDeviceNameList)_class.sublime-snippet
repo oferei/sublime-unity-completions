@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VRSettings.LoadDeviceByName(${1:prioritizedDeviceNameList : string[]})]]></content>
+	<tabTrigger><![CDATA[VRSettings.LoadDeviceByName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(prioritizedDeviceNameList)]]></description>
+</snippet>

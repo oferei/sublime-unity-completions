@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Box(${1:GUIContent content}, ${2:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[gUILayout.Box]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(content, params options)]]></description>
-</snippet>

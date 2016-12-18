@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayable.SetInput(${1:source as Experimental.Director.Playable}, ${2:index as int})]]></content>
+	<tabTrigger><![CDATA[setInput]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationPlayable.*(source, index)]]></description>
+</snippet>

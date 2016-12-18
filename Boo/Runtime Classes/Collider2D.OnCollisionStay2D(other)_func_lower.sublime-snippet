@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.OnCollisionStay2D(${1:other as Collision2D})]]></content>
+	<tabTrigger><![CDATA[onCollisionStay2D]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Collider2D.*(other)]]></description>
+</snippet>

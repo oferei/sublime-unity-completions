@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistDocument.WriteToStream(${1:tw : TextWriter})]]></content>
+	<tabTrigger><![CDATA[plistDocument.WriteToStream]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tw)]]></description>
+</snippet>

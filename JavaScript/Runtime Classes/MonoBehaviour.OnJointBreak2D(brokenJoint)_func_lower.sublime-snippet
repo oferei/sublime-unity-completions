@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MonoBehaviour.OnJointBreak2D(${1:brokenJoint : Joint2D})]]></content>
-	<tabTrigger><![CDATA[onJointBreak2D]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[MonoBehaviour.*(brokenJoint)]]></description>
-</snippet>

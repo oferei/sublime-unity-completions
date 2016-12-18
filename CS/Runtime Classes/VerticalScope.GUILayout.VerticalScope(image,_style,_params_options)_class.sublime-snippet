@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VerticalScope.GUILayout.VerticalScope(${1:Texture image}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[VerticalScope.GUILayout.VerticalScope]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(image, style, params options)]]></description>
-</snippet>

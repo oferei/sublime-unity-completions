@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalVectorArray(${1:propertyName : string}, ${2:values : Vector4[]})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.SetGlobalVectorArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(propertyName, values)]]></description>
+</snippet>

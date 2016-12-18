@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WSA.SetVisualAssetsImage(${1:string image}, ${2:PlayerSettings.WSAImageType type}, ${3:PlayerSettings.WSAImageScale scale})]]></content>
+	<tabTrigger><![CDATA[WSA.SetVisualAssetsImage]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(image, type, scale)]]></description>
+</snippet>

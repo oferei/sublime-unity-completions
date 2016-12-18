@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TriggerModule.SetCollider(${1:index : int}, ${2:collider : Component})]]></content>
+	<tabTrigger><![CDATA[TriggerModule.SetCollider]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, collider)]]></description>
+</snippet>

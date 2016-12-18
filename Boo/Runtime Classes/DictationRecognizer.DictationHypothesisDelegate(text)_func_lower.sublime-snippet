@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer.DictationHypothesisDelegate(${1:text as string})]]></content>
+	<tabTrigger><![CDATA[dictationHypothesisDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DictationRecognizer.*(text)]]></description>
+</snippet>

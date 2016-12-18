@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HandleUtility.PickGameObject(${1:position as Vector2}, ${2:out materialIndex as int})]]></content>
-	<tabTrigger><![CDATA[PickGameObject]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[HandleUtility.*(position, out materialIndex)]]></description>
-</snippet>

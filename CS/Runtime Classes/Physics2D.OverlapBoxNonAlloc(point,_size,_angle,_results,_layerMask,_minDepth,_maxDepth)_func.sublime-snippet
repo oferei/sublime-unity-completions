@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.OverlapBoxNonAlloc(${1:Vector2 point}, ${2:Vector2 size}, ${3:float angle}, ${4:Collider2D[] results}, ${5:int layerMask = DefaultRaycastLayers}, ${6:float minDepth = -Mathf.Infinity}, ${7:float maxDepth = Mathf.Infinity})]]></content>
+	<tabTrigger><![CDATA[OverlapBoxNonAlloc]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Physics2D.*(point, size, angle, results, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

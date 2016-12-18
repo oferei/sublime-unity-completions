@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.SerializeFormSections(${1:multipartFormSections : List<IMultipartFormSection>}, ${2:boundary : byte[]})]]></content>
+	<tabTrigger><![CDATA[unityWebRequest.SerializeFormSections]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(multipartFormSections, boundary)]]></description>
+</snippet>

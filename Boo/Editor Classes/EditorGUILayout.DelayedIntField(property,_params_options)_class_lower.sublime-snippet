@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.DelayedIntField(${1:property as SerializedProperty}, ${2:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.DelayedIntField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(property, params options)]]></description>
-</snippet>

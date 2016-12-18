@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandler.ReceiveData(${1:data as (byte)}, ${2:dataLength as int})]]></content>
+	<tabTrigger><![CDATA[receiveData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DownloadHandler.*(data, dataLength)]]></description>
+</snippet>

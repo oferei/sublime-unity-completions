@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayoutUtility.GetRect(${1:content as GUIContent}, ${2:style as GUIStyle}, ${3:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[GetRect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GUILayoutUtility.*(content, style, params options)]]></description>
-</snippet>

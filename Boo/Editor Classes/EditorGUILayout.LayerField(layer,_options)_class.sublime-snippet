@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.LayerField(${1:layer as int}, ${2:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.LayerField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(layer, options)]]></description>
+</snippet>

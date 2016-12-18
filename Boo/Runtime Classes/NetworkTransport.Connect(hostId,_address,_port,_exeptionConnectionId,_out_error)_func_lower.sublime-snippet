@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.Connect(${1:hostId as int}, ${2:address as string}, ${3:port as int}, ${4:exeptionConnectionId as int}, ${5:out error as byte})]]></content>
-	<tabTrigger><![CDATA[connect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, address, port, exeptionConnectionId, out error)]]></description>
-</snippet>

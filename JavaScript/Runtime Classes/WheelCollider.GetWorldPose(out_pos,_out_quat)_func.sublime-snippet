@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WheelCollider.GetWorldPose(${1:out pos : Vector3}, ${2:out quat : Quaternion})]]></content>
-	<tabTrigger><![CDATA[GetWorldPose]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[WheelCollider.*(out pos, out quat)]]></description>
-</snippet>

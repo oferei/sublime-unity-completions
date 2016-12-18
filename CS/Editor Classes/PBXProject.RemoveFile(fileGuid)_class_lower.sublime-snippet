@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveFile(${1:string fileGuid})]]></content>
+	<tabTrigger><![CDATA[pBXProject.RemoveFile]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(fileGuid)]]></description>
+</snippet>

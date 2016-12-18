@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderBuffer colorBuffer}, ${2:RenderBuffer depthBuffer}, ${3:int mipLevel}, ${4:CubemapFace face}, ${5:int depthSlice})]]></content>
+	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphics.*(colorBuffer, depthBuffer, mipLevel, face, depthSlice)]]></description>
+</snippet>

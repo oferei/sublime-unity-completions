@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTestsWithLogParser.ExpectLogLineRegex(${1:pattern as string})]]></content>
+	<tabTrigger><![CDATA[editorTestsWithLogParser.ExpectLogLineRegex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(pattern)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Toggle(${1:bool value}, ${2:string text}, ${3:GUIStyle style}, ${4:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[gUILayout.Toggle]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value, text, style, params options)]]></description>
-</snippet>

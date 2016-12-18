@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystemRenderer.SetMeshes(${1:meshes : Mesh[]})]]></content>
+	<tabTrigger><![CDATA[SetMeshes]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ParticleSystemRenderer.*(meshes)]]></description>
+</snippet>

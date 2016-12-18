@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationClipPlayable.Create(${1:clip : AnimationClip})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationClipPlayable.*(clip)]]></description>
+</snippet>

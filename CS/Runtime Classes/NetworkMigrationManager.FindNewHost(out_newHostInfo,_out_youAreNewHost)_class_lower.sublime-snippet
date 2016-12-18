@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.FindNewHost(${1:Networking.NetworkSystem.PeerInfoMessage out newHostInfo}, ${2:bool out youAreNewHost})]]></content>
-	<tabTrigger><![CDATA[networkMigrationManager.FindNewHost]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(out newHostInfo, out youAreNewHost)]]></description>
-</snippet>

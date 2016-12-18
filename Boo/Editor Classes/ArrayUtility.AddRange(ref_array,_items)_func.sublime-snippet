@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ArrayUtility.AddRange(${1:ref array as (T)}, ${2:items as (T)})]]></content>
-	<tabTrigger><![CDATA[AddRange]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ArrayUtility.*(ref array, items)]]></description>
-</snippet>

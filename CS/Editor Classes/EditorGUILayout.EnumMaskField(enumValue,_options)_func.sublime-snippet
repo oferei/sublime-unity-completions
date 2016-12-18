@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.EnumMaskField(${1:Enum enumValue}, ${2:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[EnumMaskField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(enumValue, options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.GetInteger(${1:int id})]]></content>
+	<tabTrigger><![CDATA[getInteger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(id)]]></description>
+</snippet>

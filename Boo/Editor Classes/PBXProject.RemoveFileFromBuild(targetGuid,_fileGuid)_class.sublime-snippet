@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveFileFromBuild(${1:targetGuid as string}, ${2:fileGuid as string})]]></content>
+	<tabTrigger><![CDATA[PBXProject.RemoveFileFromBuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGuid, fileGuid)]]></description>
+</snippet>

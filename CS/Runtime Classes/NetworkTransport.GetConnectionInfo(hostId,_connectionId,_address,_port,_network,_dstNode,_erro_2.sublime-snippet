@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetConnectionInfo(${1:int hostId}, ${2:int connectionId}, ${3:out string address}, ${4:out int port}, ${5:out Networking.Types.NetworkID network}, ${6:out Networking.Types.NodeID dstNode}, ${7:out byte error})]]></content>
+	<tabTrigger><![CDATA[networkTransport.GetConnectionInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(hostId, connectionId, address, port, network, dstNode, error)]]></description>
+</snippet>

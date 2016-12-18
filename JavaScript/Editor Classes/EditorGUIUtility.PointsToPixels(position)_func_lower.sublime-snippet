@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.PointsToPixels(${1:position : Vector2})]]></content>
+	<tabTrigger><![CDATA[pointsToPixels]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUIUtility.*(position)]]></description>
+</snippet>

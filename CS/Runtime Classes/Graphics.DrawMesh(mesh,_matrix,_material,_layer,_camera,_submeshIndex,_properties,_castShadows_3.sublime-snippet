@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Matrix4x4 matrix}, ${3:Material material}, ${4:int layer}, ${5:Camera camera = null}, ${6:int submeshIndex = 0}, ${7:MaterialPropertyBlock properties = null}, ${8:bool castShadows = true}, ${9:bool receiveShadows = true})]]></content>
+	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Matrix4x4 matrix}, ${3:Material material}, ${4:int layer}, ${5:Camera camera = null}, ${6:int submeshIndex = 0}, ${7:MaterialPropertyBlock properties = null}, ${8:bool castShadows = true}, ${9:bool receiveShadows = true}, ${10:bool useLightProbes = true})]]></content>
 	<tabTrigger><![CDATA[DrawMesh]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[Graphics.*(mesh, matrix, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows)]]></description>
+	<description><![CDATA[Graphics.*(mesh, matrix, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows, useLightProbes)]]></description>
 </snippet>

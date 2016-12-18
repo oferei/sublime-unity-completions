@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ILogHandler.LogFormat(${1:LogType logType}, ${2:Object context}, ${3:string format}, ${4:object[] params args})]]></content>
-	<tabTrigger><![CDATA[LogFormat]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ILogHandler.*(logType, context, format, params args)]]></description>
-</snippet>

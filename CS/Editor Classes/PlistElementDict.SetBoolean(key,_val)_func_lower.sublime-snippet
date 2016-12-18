@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementDict.SetBoolean(${1:string key}, ${2:bool val})]]></content>
+	<tabTrigger><![CDATA[setBoolean]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlistElementDict.*(key, val)]]></description>
+</snippet>

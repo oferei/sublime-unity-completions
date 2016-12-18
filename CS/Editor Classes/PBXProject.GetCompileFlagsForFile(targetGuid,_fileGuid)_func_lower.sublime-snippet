@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetCompileFlagsForFile(${1:string targetGuid}, ${2:string fileGuid})]]></content>
+	<tabTrigger><![CDATA[getCompileFlagsForFile]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(targetGuid, fileGuid)]]></description>
+</snippet>

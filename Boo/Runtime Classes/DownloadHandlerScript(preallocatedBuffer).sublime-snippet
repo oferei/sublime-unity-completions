@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerScript(${1:preallocatedBuffer as (byte)})]]></content>
+	<tabTrigger><![CDATA[DownloadHandlerScript]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(preallocatedBuffer)]]></description>
+</snippet>

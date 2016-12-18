@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessAssetbundleNameChanged(${1:assetPath as string}, ${2:namelessParam as stringpreviousAssetBundleName}, ${3:newAssetBundleName as string})]]></content>
+	<tabTrigger><![CDATA[onPostprocessAssetbundleNameChanged]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetPostprocessor.*(assetPath, namelessParam, newAssetBundleName)]]></description>
+</snippet>

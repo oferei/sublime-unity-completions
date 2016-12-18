@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.SerializeSimpleForm(${1:formFields : Dictionary<string,string>})]]></content>
+	<tabTrigger><![CDATA[UnityWebRequest.SerializeSimpleForm]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(formFields)]]></description>
+</snippet>

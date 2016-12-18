@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.SetFloat(${1:name : string}, ${2:value : float})]]></content>
+	<tabTrigger><![CDATA[setFloat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(name, value)]]></description>
+</snippet>

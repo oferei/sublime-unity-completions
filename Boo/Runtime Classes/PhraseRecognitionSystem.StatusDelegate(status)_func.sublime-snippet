@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhraseRecognitionSystem.StatusDelegate(${1:status as Windows.Speech.SpeechSystemStatus})]]></content>
+	<tabTrigger><![CDATA[StatusDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhraseRecognitionSystem.*(status)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.Min(${1:values : params int[]})]]></content>
+	<tabTrigger><![CDATA[Mathf.Min]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(values)]]></description>
+</snippet>

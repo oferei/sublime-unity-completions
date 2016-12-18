@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReplayKit.StartBroadcasting(${1:callback as BroadcastStatusDelegate}, ${2:enableMicrophone as bool}, ${3:enableCamera as bool})]]></content>
+	<tabTrigger><![CDATA[ReplayKit.StartBroadcasting]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(callback, enableMicrophone, enableCamera)]]></description>
+</snippet>

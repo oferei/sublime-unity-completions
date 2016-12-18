@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.VerticalScrollbar(${1:value as single}, ${2:size as single}, ${3:topValue as single}, ${4:bottomValue as single}, ${5:style as GUIStyle}, ${6:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[verticalScrollbar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(value, size, topValue, bottomValue, style, options)]]></description>
+</snippet>

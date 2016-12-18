@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.BeginHorizontal(${1:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.BeginHorizontal]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(params options)]]></description>
-</snippet>

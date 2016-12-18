@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUserBuildSettings.SetPlatformSettings(${1:platformName as string}, ${2:name as string}, ${3:value as string})]]></content>
+	<tabTrigger><![CDATA[SetPlatformSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorUserBuildSettings.*(platformName, name, value)]]></description>
+</snippet>

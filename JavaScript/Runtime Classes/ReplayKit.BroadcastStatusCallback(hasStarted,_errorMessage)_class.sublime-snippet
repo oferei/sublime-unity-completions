@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReplayKit.BroadcastStatusCallback(${1:hasStarted : bool}, ${2:errorMessage : string})]]></content>
+	<tabTrigger><![CDATA[ReplayKit.BroadcastStatusCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(hasStarted, errorMessage)]]></description>
+</snippet>

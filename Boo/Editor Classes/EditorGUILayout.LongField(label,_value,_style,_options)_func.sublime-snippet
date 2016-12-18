@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.LongField(${1:label as GUIContent}, ${2:value as long}, ${3:style as GUIStyle}, ${4:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[LongField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(label, value, style, options)]]></description>
+</snippet>

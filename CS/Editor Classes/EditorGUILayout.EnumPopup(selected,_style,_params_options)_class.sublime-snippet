@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.EnumPopup(${1:Enum selected}, ${2:GUIStyle style}, ${3:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.EnumPopup]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(selected, style, params options)]]></description>
-</snippet>

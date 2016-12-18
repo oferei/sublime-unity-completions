@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorUtility.TryParseHtmlString(${1:htmlString : string}, ${2:color : out Color})]]></content>
+	<tabTrigger><![CDATA[ColorUtility.TryParseHtmlString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(htmlString, color)]]></description>
+</snippet>

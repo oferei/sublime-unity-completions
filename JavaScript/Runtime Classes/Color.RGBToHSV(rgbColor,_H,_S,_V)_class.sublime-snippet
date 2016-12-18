@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Color.RGBToHSV(${1:rgbColor : Color}, ${2:H : out float}, ${3:S : out float}, ${4:V : out float})]]></content>
+	<tabTrigger><![CDATA[Color.RGBToHSV]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rgbColor, H, S, V)]]></description>
+</snippet>

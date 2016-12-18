@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BuildPipeline.GetHashForAssetBundle(${1:string targetPath}, ${2:Hash128 out hash})]]></content>
-	<tabTrigger><![CDATA[getHashForAssetBundle]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[BuildPipeline.*(targetPath, out hash)]]></description>
-</snippet>

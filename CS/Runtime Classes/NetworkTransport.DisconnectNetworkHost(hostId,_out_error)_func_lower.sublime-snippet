@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.DisconnectNetworkHost(${1:int hostId}, ${2:byte out error})]]></content>
-	<tabTrigger><![CDATA[disconnectNetworkHost]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, out error)]]></description>
-</snippet>

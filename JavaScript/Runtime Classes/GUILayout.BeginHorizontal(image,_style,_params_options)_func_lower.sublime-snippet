@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.BeginHorizontal(${1:image : Texture}, ${2:style : GUIStyle}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[beginHorizontal]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GUILayout.*(image, style, params options)]]></description>
-</snippet>

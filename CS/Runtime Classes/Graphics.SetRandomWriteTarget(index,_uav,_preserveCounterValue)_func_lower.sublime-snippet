@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.SetRandomWriteTarget(${1:int index}, ${2:ComputeBuffer uav}, ${3:bool preserveCounterValue = false})]]></content>
+	<tabTrigger><![CDATA[setRandomWriteTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphics.*(index, uav, preserveCounterValue)]]></description>
+</snippet>

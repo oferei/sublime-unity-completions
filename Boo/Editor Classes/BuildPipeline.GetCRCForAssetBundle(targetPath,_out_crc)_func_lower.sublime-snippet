@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BuildPipeline.GetCRCForAssetBundle(${1:targetPath as string}, ${2:out crc as uint})]]></content>
-	<tabTrigger><![CDATA[getCRCForAssetBundle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[BuildPipeline.*(targetPath, out crc)]]></description>
-</snippet>

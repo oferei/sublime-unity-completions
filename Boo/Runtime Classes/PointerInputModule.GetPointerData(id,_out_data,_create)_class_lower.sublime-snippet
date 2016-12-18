@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PointerInputModule.GetPointerData(${1:id as int}, ${2:out data as EventSystems.PointerEventData}, ${3:create as bool})]]></content>
-	<tabTrigger><![CDATA[pointerInputModule.GetPointerData]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(id, out data, create)]]></description>
-</snippet>

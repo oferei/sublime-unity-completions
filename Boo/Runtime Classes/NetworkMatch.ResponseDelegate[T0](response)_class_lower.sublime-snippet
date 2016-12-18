@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.ResponseDelegate<T0>(${1:response as T})]]></content>
-	<tabTrigger><![CDATA[networkMatch.ResponseDelegate<T0>]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(response)]]></description>
-</snippet>

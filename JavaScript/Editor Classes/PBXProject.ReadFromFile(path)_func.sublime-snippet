@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.ReadFromFile(${1:path : string})]]></content>
+	<tabTrigger><![CDATA[ReadFromFile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(path)]]></description>
+</snippet>

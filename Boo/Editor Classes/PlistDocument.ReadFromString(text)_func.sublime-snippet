@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistDocument.ReadFromString(${1:text as string})]]></content>
+	<tabTrigger><![CDATA[ReadFromString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlistDocument.*(text)]]></description>
+</snippet>

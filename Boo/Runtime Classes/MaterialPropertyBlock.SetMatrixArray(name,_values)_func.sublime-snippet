@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.SetMatrixArray(${1:name as string}, ${2:values as (Matrix4x4)})]]></content>
+	<tabTrigger><![CDATA[SetMatrixArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(name, values)]]></description>
+</snippet>

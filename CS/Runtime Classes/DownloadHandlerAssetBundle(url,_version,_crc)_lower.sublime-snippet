@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerAssetBundle(${1:string url}, ${2:uint version}, ${3:uint crc})]]></content>
+	<tabTrigger><![CDATA[downloadHandlerAssetBundle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(url, version, crc)]]></description>
+</snippet>

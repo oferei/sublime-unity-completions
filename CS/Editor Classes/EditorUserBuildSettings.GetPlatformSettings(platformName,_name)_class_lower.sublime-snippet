@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUserBuildSettings.GetPlatformSettings(${1:string platformName}, ${2:string name})]]></content>
+	<tabTrigger><![CDATA[editorUserBuildSettings.GetPlatformSettings]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(platformName, name)]]></description>
+</snippet>

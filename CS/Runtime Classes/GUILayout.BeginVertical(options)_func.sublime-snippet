@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.BeginVertical(${1:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[BeginVertical]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUILayout.*(options)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Lightmapping.GetTerrainGIChunks(${1:terrain : Terrain}, ${2:ref numChunksX : int}, ${3:ref numChunksY : int})]]></content>
-	<tabTrigger><![CDATA[lightmapping.GetTerrainGIChunks]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(terrain, ref numChunksX, ref numChunksY)]]></description>
-</snippet>

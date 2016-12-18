@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.IntPopup(${1:label as string}, ${2:selectedValue as int}, ${3:displayedOptions as (string)}, ${4:optionValues as (int)}, ${5:style as GUIStyle}, ${6:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[IntPopup]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUILayout.*(label, selectedValue, displayedOptions, optionValues, style, params options)]]></description>
-</snippet>

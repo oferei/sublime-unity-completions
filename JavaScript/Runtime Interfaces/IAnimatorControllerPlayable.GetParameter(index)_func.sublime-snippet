@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.GetParameter(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetParameter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(index)]]></description>
+</snippet>

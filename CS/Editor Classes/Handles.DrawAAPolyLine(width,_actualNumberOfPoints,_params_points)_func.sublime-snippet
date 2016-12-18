@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.DrawAAPolyLine(${1:float width}, ${2:int actualNumberOfPoints}, ${3:Vector3[] params points})]]></content>
-	<tabTrigger><![CDATA[DrawAAPolyLine]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Handles.*(width, actualNumberOfPoints, params points)]]></description>
-</snippet>

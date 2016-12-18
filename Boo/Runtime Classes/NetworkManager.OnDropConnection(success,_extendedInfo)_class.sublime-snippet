@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkManager.OnDropConnection(${1:success as bool}, ${2:extendedInfo as string})]]></content>
+	<tabTrigger><![CDATA[NetworkManager.OnDropConnection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(success, extendedInfo)]]></description>
+</snippet>

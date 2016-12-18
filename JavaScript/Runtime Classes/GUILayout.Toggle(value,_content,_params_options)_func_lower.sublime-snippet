@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.Toggle(${1:value : bool}, ${2:content : GUIContent}, ${3:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[toggle]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GUILayout.*(value, content, params options)]]></description>
-</snippet>

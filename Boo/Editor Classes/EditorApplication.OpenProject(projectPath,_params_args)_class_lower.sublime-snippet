@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorApplication.OpenProject(${1:projectPath as string}, ${2:params args as (string)})]]></content>
-	<tabTrigger><![CDATA[editorApplication.OpenProject]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(projectPath, params args)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ShaderVariant.ShaderVariantCollection.ShaderVariant(${1:shader : Shader}, ${2:passType : Rendering.PassType}, ${3:params keywords : string[]})]]></content>
-	<tabTrigger><![CDATA[ShaderVariant.ShaderVariantCollection.ShaderVariant]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(shader, passType, params keywords)]]></description>
-</snippet>

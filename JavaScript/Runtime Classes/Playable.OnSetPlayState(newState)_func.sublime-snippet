@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Playable.OnSetPlayState(${1:newState : PlayState})]]></content>
+	<tabTrigger><![CDATA[OnSetPlayState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Playable.*(newState)]]></description>
+</snippet>

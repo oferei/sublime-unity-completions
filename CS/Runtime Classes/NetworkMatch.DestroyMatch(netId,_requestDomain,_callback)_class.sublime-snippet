@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkMatch.DestroyMatch(${1:Networking.Types.NetworkID netId}, ${2:int requestDomain}, ${3:Networking.Match.NetworkMatch.BasicResponseDelegate callback})]]></content>
+	<tabTrigger><![CDATA[NetworkMatch.DestroyMatch]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(netId, requestDomain, callback)]]></description>
+</snippet>

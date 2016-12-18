@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGraphicsSettings.GetShaderSettingsForPlatform(${1:target as BuildTargetGroup}, ${2:tier as Rendering.ShaderHardwareTier})]]></content>
+	<tabTrigger><![CDATA[EditorGraphicsSettings.GetShaderSettingsForPlatform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target, tier)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.Toggle(${1:value : bool}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[Toggle]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(value, params options)]]></description>
-</snippet>

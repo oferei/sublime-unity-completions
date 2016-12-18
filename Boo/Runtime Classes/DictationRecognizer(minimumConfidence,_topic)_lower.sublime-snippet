@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DictationRecognizer(${1:minimumConfidence as Windows.Speech.ConfidenceLevel}, ${2:topic as Windows.Speech.DictationTopicConstraint})]]></content>
+	<tabTrigger><![CDATA[dictationRecognizer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(minimumConfidence, topic)]]></description>
+</snippet>

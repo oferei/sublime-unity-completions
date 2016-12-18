@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HorizontalScope.GUILayout.HorizontalScope(${1:content as GUIContent}, ${2:style as GUIStyle}, ${3:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[GUILayout.HorizontalScope]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HorizontalScope.*(content, style, options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkClient.GetStatsIn(${1:numMsgs : out int}, ${2:numBytes : out int})]]></content>
+	<tabTrigger><![CDATA[NetworkClient.GetStatsIn]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(numMsgs, numBytes)]]></description>
+</snippet>

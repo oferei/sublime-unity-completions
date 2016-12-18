@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.Slider(${1:SerializedProperty property}, ${2:float leftValue}, ${3:float rightValue}, ${4:GUILayoutOption[] params options})]]></content>
-	<tabTrigger><![CDATA[editorGUILayout.Slider]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(property, leftValue, rightValue, params options)]]></description>
-</snippet>

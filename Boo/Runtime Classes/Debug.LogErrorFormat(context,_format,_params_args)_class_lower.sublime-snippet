@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Debug.LogErrorFormat(${1:context as Object}, ${2:format as string}, ${3:params args as (object)})]]></content>
-	<tabTrigger><![CDATA[debug.LogErrorFormat]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(context, format, params args)]]></description>
-</snippet>

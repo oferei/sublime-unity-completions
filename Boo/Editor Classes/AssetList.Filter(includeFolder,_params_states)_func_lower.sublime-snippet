@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetList.Filter(${1:includeFolder as bool}, ${2:params states as (States)})]]></content>
-	<tabTrigger><![CDATA[filter]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AssetList.*(includeFolder, params states)]]></description>
-</snippet>

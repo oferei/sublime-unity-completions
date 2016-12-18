@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementArray.AddInteger(${1:val : int})]]></content>
+	<tabTrigger><![CDATA[addInteger]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlistElementArray.*(val)]]></description>
+</snippet>

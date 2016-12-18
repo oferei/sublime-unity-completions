@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.GetLayerWeight(${1:int layerIndex})]]></content>
+	<tabTrigger><![CDATA[GetLayerWeight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IAnimatorControllerPlayable.*(layerIndex)]]></description>
+</snippet>

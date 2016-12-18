@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.LayerField(${1:layer : int}, ${2:params options : GUILayoutOption[]})]]></content>
-	<tabTrigger><![CDATA[layerField]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUILayout.*(layer, params options)]]></description>
-</snippet>

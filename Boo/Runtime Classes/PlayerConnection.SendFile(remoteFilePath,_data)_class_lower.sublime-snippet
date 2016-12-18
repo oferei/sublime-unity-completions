@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerConnection.SendFile(${1:remoteFilePath as string}, ${2:data as (byte)})]]></content>
+	<tabTrigger><![CDATA[playerConnection.SendFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(remoteFilePath, data)]]></description>
+</snippet>

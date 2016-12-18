@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayout.HorizontalScrollbar(${1:value as single}, ${2:size as single}, ${3:leftValue as single}, ${4:rightValue as single}, ${5:style as GUIStyle}, ${6:params options as (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[GUILayout.HorizontalScrollbar]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value, size, leftValue, rightValue, style, params options)]]></description>
-</snippet>

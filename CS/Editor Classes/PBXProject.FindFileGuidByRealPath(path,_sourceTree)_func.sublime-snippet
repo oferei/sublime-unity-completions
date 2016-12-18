@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.FindFileGuidByRealPath(${1:string path}, ${2:iOS.Xcode.PBXSourceTree sourceTree})]]></content>
+	<tabTrigger><![CDATA[FindFileGuidByRealPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(path, sourceTree)]]></description>
+</snippet>

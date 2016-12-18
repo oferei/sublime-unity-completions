@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.Put(${1:uri : string}, ${2:bodyData : string})]]></content>
+	<tabTrigger><![CDATA[put]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UnityWebRequest.*(uri, bodyData)]]></description>
+</snippet>

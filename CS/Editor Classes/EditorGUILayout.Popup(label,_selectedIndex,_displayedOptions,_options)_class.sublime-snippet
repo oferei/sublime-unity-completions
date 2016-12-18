@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Popup(${1:GUIContent label}, ${2:int selectedIndex}, ${3:GUIContent[] displayedOptions}, ${4:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.Popup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(label, selectedIndex, displayedOptions, options)]]></description>
+</snippet>
