@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.SetTextureFromGlobal(${1:int kernelIndex}, ${2:int nameID}, ${3:int globalTextureNameID})]]></content>
+	<tabTrigger><![CDATA[computeShader.SetTextureFromGlobal]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(kernelIndex, nameID, globalTextureNameID)]]></description>
+</snippet>

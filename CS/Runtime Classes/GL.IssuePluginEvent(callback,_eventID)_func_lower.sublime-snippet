@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GL.IssuePluginEvent(${1:IntPtr callback}, ${2:int eventID})]]></content>
+	<tabTrigger><![CDATA[issuePluginEvent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GL.*(callback, eventID)]]></description>
+</snippet>

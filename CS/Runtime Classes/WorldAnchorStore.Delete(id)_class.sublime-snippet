@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorStore.Delete(${1:string id})]]></content>
+	<tabTrigger><![CDATA[WorldAnchorStore.Delete]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id)]]></description>
+</snippet>

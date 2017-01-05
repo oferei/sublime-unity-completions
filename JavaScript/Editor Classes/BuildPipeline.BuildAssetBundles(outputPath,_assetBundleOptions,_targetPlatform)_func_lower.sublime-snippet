@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.BuildAssetBundles(${1:outputPath : string}, ${2:assetBundleOptions : BuildAssetBundleOptions}, ${3:targetPlatform : BuildTarget})]]></content>
+	<tabTrigger><![CDATA[buildAssetBundles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BuildPipeline.*(outputPath, assetBundleOptions, targetPlatform)]]></description>
+</snippet>

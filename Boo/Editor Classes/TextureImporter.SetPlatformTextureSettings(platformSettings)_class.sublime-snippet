@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.SetPlatformTextureSettings(${1:platformSettings as TextureImporterPlatformSettings})]]></content>
+	<tabTrigger><![CDATA[TextureImporter.SetPlatformTextureSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(platformSettings)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.GetAllIds(${1:ids : string[]})]]></content>
+	<tabTrigger><![CDATA[WorldAnchorTransferBatch.GetAllIds]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(ids)]]></description>
+</snippet>

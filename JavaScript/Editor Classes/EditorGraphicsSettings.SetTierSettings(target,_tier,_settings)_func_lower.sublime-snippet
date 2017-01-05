@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGraphicsSettings.SetTierSettings(${1:target : BuildTargetGroup}, ${2:tier : ShaderHardwareTier}, ${3:settings : Rendering.TierSettings})]]></content>
+	<tabTrigger><![CDATA[setTierSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGraphicsSettings.*(target, tier, settings)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ImportPackageFailedCallback(${1:packageName as string}, ${2:errorMessage as string})]]></content>
+	<tabTrigger><![CDATA[AssetDatabase.ImportPackageFailedCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(packageName, errorMessage)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.SetSubEmitterSystem(${1:int index}, ${2:ParticleSystem subEmitter})]]></content>
+	<tabTrigger><![CDATA[SetSubEmitterSystem]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SubEmittersModule.*(index, subEmitter)]]></description>
+</snippet>

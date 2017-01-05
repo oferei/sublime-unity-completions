@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.SetBool(${1:nameID : int}, ${2:val : bool})]]></content>
+	<tabTrigger><![CDATA[SetBool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ComputeShader.*(nameID, val)]]></description>
+</snippet>

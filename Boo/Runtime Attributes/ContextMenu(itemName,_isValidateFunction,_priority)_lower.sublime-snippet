@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContextMenu(${1:itemName as string}, ${2:isValidateFunction as bool}, ${3:priority as int})]]></content>
+	<tabTrigger><![CDATA[contextMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(itemName, isValidateFunction, priority)]]></description>
+</snippet>

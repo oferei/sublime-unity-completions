@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.SetFloatArray(${1:nameID as int}, ${2:values as (single)})]]></content>
+	<content><![CDATA[Material.SetFloatArray(${1:nameID as int}, ${2:values as List<float>})]]></content>
 	<tabTrigger><![CDATA[material.SetFloatArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(nameID, values)]]></description>

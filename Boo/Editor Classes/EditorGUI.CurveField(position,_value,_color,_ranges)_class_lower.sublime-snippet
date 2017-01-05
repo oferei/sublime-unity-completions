@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUI.CurveField(${1:position as Rect}, ${2:value as SerializedProperty}, ${3:color as Color}, ${4:ranges as Rect})]]></content>
+	<content><![CDATA[EditorGUI.CurveField(${1:position as Rect}, ${2:value as AnimationCurve}, ${3:color as Color}, ${4:ranges as Rect})]]></content>
 	<tabTrigger><![CDATA[editorGUI.CurveField]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(position, value, color, ranges)]]></description>

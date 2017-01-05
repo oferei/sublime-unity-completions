@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.CurveField(${1:SerializedProperty property}, ${2:Color color}, ${3:Rect ranges}, ${4:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.CurveField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(property, color, ranges, options)]]></description>
+</snippet>

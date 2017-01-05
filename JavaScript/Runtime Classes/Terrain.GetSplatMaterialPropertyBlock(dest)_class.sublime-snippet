@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Terrain.GetSplatMaterialPropertyBlock(${1:dest : MaterialPropertyBlock})]]></content>
+	<tabTrigger><![CDATA[Terrain.GetSplatMaterialPropertyBlock]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(dest)]]></description>
+</snippet>

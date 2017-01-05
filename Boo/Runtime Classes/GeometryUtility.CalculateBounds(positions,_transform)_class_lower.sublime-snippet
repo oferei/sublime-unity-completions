@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeometryUtility.CalculateBounds(${1:positions as (Vector3)}, ${2:transform as Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[geometryUtility.CalculateBounds]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(positions, transform)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetVectorArray(${1:int nameID})]]></content>
+	<tabTrigger><![CDATA[Material.GetVectorArray]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

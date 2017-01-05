@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GestureRecognizer.TappedEventDelegate(${1:source : VR.WSA.Input.InteractionSourceKind}, ${2:tapCount : int}, ${3:headRay : Ray})]]></content>
+	<tabTrigger><![CDATA[gestureRecognizer.TappedEventDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(source, tapCount, headRay)]]></description>
+</snippet>

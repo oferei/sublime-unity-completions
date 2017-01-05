@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorControllerPlayable.GetCurrentAnimatorClipInfoCount(${1:layerIndex as int})]]></content>
+	<tabTrigger><![CDATA[GetCurrentAnimatorClipInfoCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorControllerPlayable.*(layerIndex)]]></description>
+</snippet>

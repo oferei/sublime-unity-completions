@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMesh.CalculatePath(${1:sourcePosition as Vector3}, ${2:targetPosition as Vector3}, ${3:areaMask as int}, ${4:path as NavMeshPath})]]></content>
+	<content><![CDATA[NavMesh.CalculatePath(${1:sourcePosition as Vector3}, ${2:targetPosition as Vector3}, ${3:areaMask as int}, ${4:path as AI.NavMeshPath})]]></content>
 	<tabTrigger><![CDATA[calculatePath]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[NavMesh.*(sourcePosition, targetPosition, areaMask, path)]]></description>

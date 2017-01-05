@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.GetAllIds(${1:ids as (string)})]]></content>
+	<tabTrigger><![CDATA[WorldAnchorTransferBatch.GetAllIds]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ids)]]></description>
+</snippet>

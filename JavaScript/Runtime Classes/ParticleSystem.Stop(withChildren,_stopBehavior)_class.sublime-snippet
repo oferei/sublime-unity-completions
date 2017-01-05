@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Stop(${1:withChildren : bool = true}, ${2:stopBehavior : ParticleSystemStopBehavior = ParticleSystemStopBehavior.StopEmitting})]]></content>
+	<tabTrigger><![CDATA[ParticleSystem.Stop]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(withChildren, stopBehavior)]]></description>
+</snippet>

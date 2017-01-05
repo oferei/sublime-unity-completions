@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SetSelectedRenderState(${1:Renderer renderer}, ${2:EditorSelectedRenderState renderState})]]></content>
+	<tabTrigger><![CDATA[SetSelectedRenderState]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(renderer, renderState)]]></description>
+</snippet>

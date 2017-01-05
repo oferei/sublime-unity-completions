@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SetSelectedRenderState(${1:renderer as Renderer}, ${2:renderState as EditorSelectedRenderState})]]></content>
+	<tabTrigger><![CDATA[EditorUtility.SetSelectedRenderState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(renderer, renderState)]]></description>
+</snippet>

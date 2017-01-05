@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGUILayout.MinMaxSlider(${1:GUIContent label}, ${2:ref float minValue}, ${3:ref float maxValue}, ${4:float minLimit}, ${5:float maxLimit}, ${6:params GUILayoutOption[] options})]]></content>
+	<content><![CDATA[EditorGUILayout.MinMaxSlider(${1:string label}, ${2:ref float minValue}, ${3:ref float maxValue}, ${4:float minLimit}, ${5:float maxLimit}, ${6:params GUILayoutOption[] options})]]></content>
 	<tabTrigger><![CDATA[editorGUILayout.MinMaxSlider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(label, minValue, maxValue, minLimit, maxLimit, options)]]></description>

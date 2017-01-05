@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionManager.SourceEventHandler(${1:state as VR.WSA.Input.InteractionSourceState})]]></content>
+	<tabTrigger><![CDATA[interactionManager.SourceEventHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(state)]]></description>
+</snippet>

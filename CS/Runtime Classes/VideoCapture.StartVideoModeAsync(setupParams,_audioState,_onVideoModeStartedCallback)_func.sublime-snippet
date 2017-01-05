@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.StartVideoModeAsync(${1:VR.WSA.WebCam.CameraParameters setupParams}, ${2:VR.WSA.WebCam.VideoCapture.AudioState audioState}, ${3:VR.WSA.WebCam.VideoCapture.OnVideoModeStartedCallback onVideoModeStartedCallback})]]></content>
+	<tabTrigger><![CDATA[StartVideoModeAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VideoCapture.*(setupParams, audioState, onVideoModeStartedCallback)]]></description>
+</snippet>

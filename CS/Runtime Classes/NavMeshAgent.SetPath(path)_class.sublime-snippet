@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshAgent.SetPath(${1:NavMeshPath path})]]></content>
+	<content><![CDATA[NavMeshAgent.SetPath(${1:AI.NavMeshPath path})]]></content>
 	<tabTrigger><![CDATA[NavMeshAgent.SetPath]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(path)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.SetTempAllocatorRequestedSize(${1:size : uint})]]></content>
+	<tabTrigger><![CDATA[SetTempAllocatorRequestedSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Profiler.*(size)]]></description>
+</snippet>

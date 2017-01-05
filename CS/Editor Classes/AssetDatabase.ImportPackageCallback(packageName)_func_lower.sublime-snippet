@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ImportPackageCallback(${1:string packageName})]]></content>
+	<tabTrigger><![CDATA[importPackageCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(packageName)]]></description>
+</snippet>

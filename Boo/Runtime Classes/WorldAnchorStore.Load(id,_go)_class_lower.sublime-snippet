@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorStore.Load(${1:id as string}, ${2:go as GameObject})]]></content>
+	<tabTrigger><![CDATA[worldAnchorStore.Load]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(id, go)]]></description>
+</snippet>

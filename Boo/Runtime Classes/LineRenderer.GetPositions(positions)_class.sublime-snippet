@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.GetPositions(${1:positions as (Vector3)})]]></content>
+	<tabTrigger><![CDATA[LineRenderer.GetPositions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(positions)]]></description>
+</snippet>

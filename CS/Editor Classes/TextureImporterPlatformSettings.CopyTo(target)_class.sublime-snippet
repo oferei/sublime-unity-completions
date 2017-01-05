@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporterPlatformSettings.CopyTo(${1:TextureImporterPlatformSettings target})]]></content>
+	<tabTrigger><![CDATA[TextureImporterPlatformSettings.CopyTo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(target)]]></description>
+</snippet>

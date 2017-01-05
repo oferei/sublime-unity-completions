@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.SetGlobalFloatArray(${1:int nameID}, ${2:float[] values})]]></content>
+	<content><![CDATA[CommandBuffer.SetGlobalFloatArray(${1:int nameID}, ${2:List<float> values})]]></content>
 	<tabTrigger><![CDATA[commandBuffer.SetGlobalFloatArray]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(nameID, values)]]></description>

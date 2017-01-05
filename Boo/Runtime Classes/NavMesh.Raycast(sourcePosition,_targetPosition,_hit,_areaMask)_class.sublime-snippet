@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMesh.Raycast(${1:sourcePosition as Vector3}, ${2:targetPosition as Vector3}, ${3:hit as out NavMeshHit}, ${4:areaMask as int})]]></content>
+	<content><![CDATA[NavMesh.Raycast(${1:sourcePosition as Vector3}, ${2:targetPosition as Vector3}, ${3:hit as out AI.NavMeshHit}, ${4:areaMask as int})]]></content>
 	<tabTrigger><![CDATA[NavMesh.Raycast]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(sourcePosition, targetPosition, hit, areaMask)]]></description>

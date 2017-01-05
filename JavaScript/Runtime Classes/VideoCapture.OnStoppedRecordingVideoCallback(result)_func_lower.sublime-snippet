@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.OnStoppedRecordingVideoCallback(${1:result : VR.WSA.WebCam.VideoCapture.VideoCaptureResult})]]></content>
+	<tabTrigger><![CDATA[onStoppedRecordingVideoCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoCapture.*(result)]]></description>
+</snippet>

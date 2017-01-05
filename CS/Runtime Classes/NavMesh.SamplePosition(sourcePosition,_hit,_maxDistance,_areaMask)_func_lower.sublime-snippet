@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMesh.SamplePosition(${1:Vector3 sourcePosition}, ${2:out NavMeshHit hit}, ${3:float maxDistance}, ${4:int areaMask})]]></content>
+	<content><![CDATA[NavMesh.SamplePosition(${1:Vector3 sourcePosition}, ${2:out AI.NavMeshHit hit}, ${3:float maxDistance}, ${4:int areaMask})]]></content>
 	<tabTrigger><![CDATA[samplePosition]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NavMesh.*(sourcePosition, hit, maxDistance, areaMask)]]></description>

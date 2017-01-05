@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HolographicSettings.SetFocusPointForFrame(${1:position : Vector3}, ${2:normal : Vector3}, ${3:velocity : Vector3})]]></content>
+	<tabTrigger><![CDATA[setFocusPointForFrame]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HolographicSettings.*(position, normal, velocity)]]></description>
+</snippet>

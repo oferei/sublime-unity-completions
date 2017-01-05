@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HolographicSettings.ActivateLatentFramePresentation(${1:activated as bool})]]></content>
+	<tabTrigger><![CDATA[activateLatentFramePresentation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HolographicSettings.*(activated)]]></description>
+</snippet>

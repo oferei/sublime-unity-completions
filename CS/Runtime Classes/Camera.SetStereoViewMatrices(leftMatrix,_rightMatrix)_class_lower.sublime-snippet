@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Camera.SetStereoViewMatrices(${1:Matrix4x4 leftMatrix}, ${2:Matrix4x4 rightMatrix})]]></content>
-	<tabTrigger><![CDATA[camera.SetStereoViewMatrices]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(leftMatrix, rightMatrix)]]></description>
-</snippet>

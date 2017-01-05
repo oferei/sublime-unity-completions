@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LineRenderer.SetWidth(${1:start : float}, ${2:end : float})]]></content>
-	<tabTrigger><![CDATA[SetWidth]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[LineRenderer.*(start, end)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.GetGlobalTexture(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[Shader.GetGlobalTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

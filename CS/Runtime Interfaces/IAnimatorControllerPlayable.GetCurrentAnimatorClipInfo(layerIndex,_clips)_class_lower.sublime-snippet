@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimatorControllerPlayable.GetCurrentAnimatorClipInfo(${1:int layerIndex}, ${2:List<AnimatorClipInfo> clips})]]></content>
+	<tabTrigger><![CDATA[iAnimatorControllerPlayable.GetCurrentAnimatorClipInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(layerIndex, clips)]]></description>
+</snippet>

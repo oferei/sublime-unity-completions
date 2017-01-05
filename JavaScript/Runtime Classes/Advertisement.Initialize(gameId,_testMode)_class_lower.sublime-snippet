@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Advertisement.Initialize(${1:gameId : string}, ${2:testMode : bool})]]></content>
+	<tabTrigger><![CDATA[advertisement.Initialize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gameId, testMode)]]></description>
+</snippet>

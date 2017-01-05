@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.SetTexture(${1:int kernelIndex}, ${2:int nameID}, ${3:Texture texture})]]></content>
+	<tabTrigger><![CDATA[computeShader.SetTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(kernelIndex, nameID, texture)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetColorArray(${1:nameID : int}, ${2:values : List<Color>})]]></content>
+	<tabTrigger><![CDATA[material.GetColorArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, values)]]></description>
+</snippet>

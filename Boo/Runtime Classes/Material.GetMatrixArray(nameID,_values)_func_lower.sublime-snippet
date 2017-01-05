@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetMatrixArray(${1:nameID as int}, ${2:values as List<Matrix4x4>})]]></content>
+	<tabTrigger><![CDATA[getMatrixArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Material.*(nameID, values)]]></description>
+</snippet>

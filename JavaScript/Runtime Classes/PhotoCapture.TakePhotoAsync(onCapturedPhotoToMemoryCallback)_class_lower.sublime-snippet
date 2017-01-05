@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCapture.TakePhotoAsync(${1:onCapturedPhotoToMemoryCallback : VR.WSA.WebCam.PhotoCapture.OnCapturedToMemoryCallback})]]></content>
+	<tabTrigger><![CDATA[photoCapture.TakePhotoAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(onCapturedPhotoToMemoryCallback)]]></description>
+</snippet>

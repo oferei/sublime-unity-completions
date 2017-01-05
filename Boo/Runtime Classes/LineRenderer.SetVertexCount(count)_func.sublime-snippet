@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LineRenderer.SetVertexCount(${1:count as int})]]></content>
-	<tabTrigger><![CDATA[SetVertexCount]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[LineRenderer.*(count)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selectable.IsPressed(${1:eventData : EventSystems.BaseEventData})]]></content>
+	<tabTrigger><![CDATA[selectable.IsPressed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(eventData)]]></description>
+</snippet>

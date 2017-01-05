@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.BuildPlayer(${1:buildPlayerOptions : BuildPlayerOptions})]]></content>
+	<tabTrigger><![CDATA[buildPipeline.BuildPlayer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(buildPlayerOptions)]]></description>
+</snippet>

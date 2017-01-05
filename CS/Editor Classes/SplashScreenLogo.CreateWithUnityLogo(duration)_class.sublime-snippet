@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SplashScreenLogo.CreateWithUnityLogo(${1:float duration = k_MinLogoTime})]]></content>
+	<tabTrigger><![CDATA[SplashScreenLogo.CreateWithUnityLogo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(duration)]]></description>
+</snippet>

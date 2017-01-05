@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Security.LoadAndVerifyAssembly(${1:assemblyData : byte[]}, ${2:authorizationKey : string})]]></content>
-	<tabTrigger><![CDATA[security.LoadAndVerifyAssembly]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(assemblyData, authorizationKey)]]></description>
-</snippet>

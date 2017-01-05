@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyBlock.SetFloatArray(${1:name as string}, ${2:values as (single)})]]></content>
+	<content><![CDATA[MaterialPropertyBlock.SetFloatArray(${1:name as string}, ${2:values as List<float>})]]></content>
 	<tabTrigger><![CDATA[setFloatArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[MaterialPropertyBlock.*(name, values)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.RenderQueueField(${1:Rect r})]]></content>
+	<tabTrigger><![CDATA[renderQueueField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(r)]]></description>
+</snippet>

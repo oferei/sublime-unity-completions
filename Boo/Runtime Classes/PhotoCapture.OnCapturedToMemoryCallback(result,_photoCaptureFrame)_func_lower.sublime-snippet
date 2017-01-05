@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCapture.OnCapturedToMemoryCallback(${1:result as VR.WSA.WebCam.PhotoCapture.PhotoCaptureResult}, ${2:photoCaptureFrame as VR.WSA.WebCam.PhotoCaptureFrame})]]></content>
+	<tabTrigger><![CDATA[onCapturedToMemoryCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhotoCapture.*(result, photoCaptureFrame)]]></description>
+</snippet>

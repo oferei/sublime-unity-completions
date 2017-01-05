@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.SetVolumeAsSphere(${1:origin as Vector3}, ${2:radiusMeters as single})]]></content>
+	<tabTrigger><![CDATA[SetVolumeAsSphere]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SurfaceObserver.*(origin, radiusMeters)]]></description>
+</snippet>

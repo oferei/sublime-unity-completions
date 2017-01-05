@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ObjectField(${1:Rect position}, ${2:SerializedProperty property})]]></content>
+	<tabTrigger><![CDATA[ObjectField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, property)]]></description>
+</snippet>

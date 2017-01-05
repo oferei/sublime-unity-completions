@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectNames.GetUniqueName(${1:existingNames as (string)}, ${2:name as string})]]></content>
+	<tabTrigger><![CDATA[ObjectNames.GetUniqueName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(existingNames, name)]]></description>
+</snippet>

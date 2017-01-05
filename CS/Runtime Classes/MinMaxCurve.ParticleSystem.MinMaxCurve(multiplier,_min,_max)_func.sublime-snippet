@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MinMaxCurve.ParticleSystem.MinMaxCurve(${1:float multiplier}, ${2:AnimationCurve min}, ${3:AnimationCurve max})]]></content>
+	<tabTrigger><![CDATA[ParticleSystem.MinMaxCurve]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MinMaxCurve.*(multiplier, min, max)]]></description>
+</snippet>

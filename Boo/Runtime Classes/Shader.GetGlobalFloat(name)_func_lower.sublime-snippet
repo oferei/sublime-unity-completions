@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.GetGlobalFloat(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[getGlobalFloat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Shader.*(name)]]></description>
+</snippet>

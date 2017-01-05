@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ParticleSystem.Stop(${1:withChildren as bool = true})]]></content>
-	<tabTrigger><![CDATA[ParticleSystem.Stop]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(withChildren)]]></description>
-</snippet>

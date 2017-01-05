@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshAgent.SamplePathPosition(${1:areaMask : int}, ${2:maxDistance : float}, ${3:hit : out NavMeshHit})]]></content>
+	<content><![CDATA[NavMeshAgent.SamplePathPosition(${1:areaMask : int}, ${2:maxDistance : float}, ${3:hit : out AI.NavMeshHit})]]></content>
 	<tabTrigger><![CDATA[samplePathPosition]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[NavMeshAgent.*(areaMask, maxDistance, hit)]]></description>

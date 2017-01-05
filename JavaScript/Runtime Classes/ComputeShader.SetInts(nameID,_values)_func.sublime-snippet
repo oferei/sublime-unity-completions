@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.SetInts(${1:nameID : int}, ${2:values : params int[]})]]></content>
+	<tabTrigger><![CDATA[SetInts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ComputeShader.*(nameID, values)]]></description>
+</snippet>

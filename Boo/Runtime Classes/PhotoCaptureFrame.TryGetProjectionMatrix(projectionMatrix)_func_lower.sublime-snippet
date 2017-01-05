@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCaptureFrame.TryGetProjectionMatrix(${1:projectionMatrix as out Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[tryGetProjectionMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhotoCaptureFrame.*(projectionMatrix)]]></description>
+</snippet>

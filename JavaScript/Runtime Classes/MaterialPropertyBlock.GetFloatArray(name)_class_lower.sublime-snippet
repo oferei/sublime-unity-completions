@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.GetFloatArray(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[materialPropertyBlock.GetFloatArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

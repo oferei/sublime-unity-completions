@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalBuffer(${1:propertyName as string}, ${2:buffer as ComputeBuffer})]]></content>
-	<tabTrigger><![CDATA[SetGlobalBuffer]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Shader.*(propertyName, buffer)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Security.GetChainOfTrustValue(${1:name as string})]]></content>
-	<tabTrigger><![CDATA[security.GetChainOfTrustValue]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(name)]]></description>
-</snippet>

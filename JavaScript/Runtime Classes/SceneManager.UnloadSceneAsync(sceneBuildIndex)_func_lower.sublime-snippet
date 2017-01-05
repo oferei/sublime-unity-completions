@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.UnloadSceneAsync(${1:sceneBuildIndex : int})]]></content>
+	<tabTrigger><![CDATA[unloadSceneAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneManager.*(sceneBuildIndex)]]></description>
+</snippet>

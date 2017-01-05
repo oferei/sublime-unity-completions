@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.GetSubEmitterSystem(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[getSubEmitterSystem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SubEmittersModule.*(index)]]></description>
+</snippet>

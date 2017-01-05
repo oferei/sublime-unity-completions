@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.GetGlobalMatrix(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[shader.GetGlobalMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.Set(${1:newX as single}, ${2:newY as single})]]></content>
+	<tabTrigger><![CDATA[Vector2.Set]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(newX, newY)]]></description>
+</snippet>

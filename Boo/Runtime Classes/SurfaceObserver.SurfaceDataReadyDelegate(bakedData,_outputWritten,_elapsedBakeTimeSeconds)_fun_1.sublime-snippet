@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.SurfaceDataReadyDelegate(${1:bakedData as VR.WSA.SurfaceData}, ${2:outputWritten as bool}, ${3:elapsedBakeTimeSeconds as single})]]></content>
+	<tabTrigger><![CDATA[SurfaceDataReadyDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SurfaceObserver.*(bakedData, outputWritten, elapsedBakeTimeSeconds)]]></description>
+</snippet>

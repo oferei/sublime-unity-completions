@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.CalculateFrustumCorners(${1:Rect viewport}, ${2:float z}, ${3:Camera.MonoOrStereoscopicEye eye}, ${4:Vector3[] outCorners})]]></content>
+	<tabTrigger><![CDATA[CalculateFrustumCorners]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Camera.*(viewport, z, eye, outCorners)]]></description>
+</snippet>

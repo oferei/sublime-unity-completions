@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.SetGlobalMatrixArray(${1:propertyName : string}, ${2:values : Matrix4x4[]})]]></content>
+	<content><![CDATA[CommandBuffer.SetGlobalMatrixArray(${1:propertyName : string}, ${2:values : List<Matrix4x4>})]]></content>
 	<tabTrigger><![CDATA[CommandBuffer.SetGlobalMatrixArray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(propertyName, values)]]></description>

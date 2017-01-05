@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MetaData.Set(${1:key : string}, ${2:value : object})]]></content>
+	<tabTrigger><![CDATA[Set]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MetaData.*(key, value)]]></description>
+</snippet>

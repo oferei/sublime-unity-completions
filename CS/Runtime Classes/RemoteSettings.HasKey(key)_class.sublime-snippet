@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.HasKey(${1:string key})]]></content>
+	<tabTrigger><![CDATA[RemoteSettings.HasKey]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

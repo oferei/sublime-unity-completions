@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUIUtility.IconContent(${1:name : string}, ${2:text : string = null})]]></content>
+	<tabTrigger><![CDATA[EditorGUIUtility.IconContent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, text)]]></description>
+</snippet>

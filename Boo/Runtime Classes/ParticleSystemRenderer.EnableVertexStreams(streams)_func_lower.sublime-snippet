@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystemRenderer.EnableVertexStreams(${1:streams as ParticleSystemVertexStreams})]]></content>
+	<tabTrigger><![CDATA[enableVertexStreams]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ParticleSystemRenderer.*(streams)]]></description>
+</snippet>

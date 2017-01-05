@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorStore.GetAsync(${1:VR.WSA.Persistence.WorldAnchorStore.GetAsyncDelegate onCompleted})]]></content>
+	<tabTrigger><![CDATA[WorldAnchorStore.GetAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(onCompleted)]]></description>
+</snippet>

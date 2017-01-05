@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SceneManager.UnloadScene(${1:string sceneName})]]></content>
-	<tabTrigger><![CDATA[SceneManager.UnloadScene]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(sceneName)]]></description>
-</snippet>

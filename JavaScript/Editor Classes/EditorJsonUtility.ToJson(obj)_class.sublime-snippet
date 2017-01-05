@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorJsonUtility.ToJson(${1:obj : Object})]]></content>
+	<content><![CDATA[EditorJsonUtility.ToJson(${1:obj : object})]]></content>
 	<tabTrigger><![CDATA[EditorJsonUtility.ToJson]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(obj)]]></description>

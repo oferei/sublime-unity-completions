@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMesh.CalculatePath(${1:sourcePosition : Vector3}, ${2:targetPosition : Vector3}, ${3:areaMask : int}, ${4:path : NavMeshPath})]]></content>
+	<content><![CDATA[NavMesh.CalculatePath(${1:sourcePosition : Vector3}, ${2:targetPosition : Vector3}, ${3:areaMask : int}, ${4:path : AI.NavMeshPath})]]></content>
 	<tabTrigger><![CDATA[NavMesh.CalculatePath]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(sourcePosition, targetPosition, areaMask, path)]]></description>

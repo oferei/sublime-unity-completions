@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetBool(${1:key : string}, ${2:defaultValue : bool = false})]]></content>
+	<tabTrigger><![CDATA[remoteSettings.GetBool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(key, defaultValue)]]></description>
+</snippet>

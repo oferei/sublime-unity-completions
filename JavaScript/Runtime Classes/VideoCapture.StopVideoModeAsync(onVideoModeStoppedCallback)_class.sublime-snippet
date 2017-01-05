@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.StopVideoModeAsync(${1:onVideoModeStoppedCallback : VR.WSA.WebCam.VideoCapture.OnVideoModeStoppedCallback})]]></content>
+	<tabTrigger><![CDATA[VideoCapture.StopVideoModeAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(onVideoModeStoppedCallback)]]></description>
+</snippet>

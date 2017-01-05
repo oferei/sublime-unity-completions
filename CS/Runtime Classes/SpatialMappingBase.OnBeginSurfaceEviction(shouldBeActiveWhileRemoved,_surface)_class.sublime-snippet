@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpatialMappingBase.OnBeginSurfaceEviction(${1:bool shouldBeActiveWhileRemoved}, ${2:VR.WSA.SpatialMappingBase.Surface surface})]]></content>
+	<tabTrigger><![CDATA[SpatialMappingBase.OnBeginSurfaceEviction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(shouldBeActiveWhileRemoved, surface)]]></description>
+</snippet>

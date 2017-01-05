@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCaptureFrame.TryGetCameraToWorldMatrix(${1:cameraToWorldMatrix : out Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[tryGetCameraToWorldMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhotoCaptureFrame.*(cameraToWorldMatrix)]]></description>
+</snippet>

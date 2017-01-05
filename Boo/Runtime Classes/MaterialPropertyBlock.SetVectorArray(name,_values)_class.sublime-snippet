@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MaterialPropertyBlock.SetVectorArray(${1:name as string}, ${2:values as (Vector4)})]]></content>
+	<content><![CDATA[MaterialPropertyBlock.SetVectorArray(${1:name as string}, ${2:values as List<Vector4>})]]></content>
 	<tabTrigger><![CDATA[MaterialPropertyBlock.SetVectorArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(name, values)]]></description>

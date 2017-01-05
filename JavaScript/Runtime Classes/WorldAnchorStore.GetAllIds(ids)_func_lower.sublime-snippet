@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorStore.GetAllIds(${1:ids : string[]})]]></content>
+	<tabTrigger><![CDATA[getAllIds]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[WorldAnchorStore.*(ids)]]></description>
+</snippet>

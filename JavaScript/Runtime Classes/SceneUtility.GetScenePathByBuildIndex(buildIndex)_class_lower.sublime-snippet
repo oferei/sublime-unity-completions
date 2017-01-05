@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneUtility.GetScenePathByBuildIndex(${1:buildIndex : int})]]></content>
+	<tabTrigger><![CDATA[sceneUtility.GetScenePathByBuildIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(buildIndex)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Advertisement.Show(${1:placementId : string})]]></content>
+	<tabTrigger><![CDATA[Advertisement.Show]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(placementId)]]></description>
+</snippet>

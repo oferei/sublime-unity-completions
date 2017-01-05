@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SplashScreenLogo.Create(${1:duration : float = k_MinLogoTime}, ${2:logo : Sprite = null})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SplashScreenLogo.*(duration, logo)]]></description>
+</snippet>

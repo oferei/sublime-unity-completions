@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[NavMeshAgent.Raycast(${1:Vector3 targetPosition}, ${2:out NavMeshHit hit})]]></content>
+	<content><![CDATA[NavMeshAgent.Raycast(${1:Vector3 targetPosition}, ${2:out AI.NavMeshHit hit})]]></content>
 	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[NavMeshAgent.*(targetPosition, hit)]]></description>

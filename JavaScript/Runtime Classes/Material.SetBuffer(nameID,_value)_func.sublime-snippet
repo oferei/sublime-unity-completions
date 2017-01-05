@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetBuffer(${1:nameID : int}, ${2:value : ComputeBuffer})]]></content>
+	<tabTrigger><![CDATA[SetBuffer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Material.*(nameID, value)]]></description>
+</snippet>

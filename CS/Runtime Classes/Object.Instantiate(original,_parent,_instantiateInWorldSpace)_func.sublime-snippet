@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.Instantiate(${1:Object original}, ${2:Transform parent}, ${3:bool instantiateInWorldSpace})]]></content>
+	<tabTrigger><![CDATA[Instantiate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Object.*(original, parent, instantiateInWorldSpace)]]></description>
+</snippet>

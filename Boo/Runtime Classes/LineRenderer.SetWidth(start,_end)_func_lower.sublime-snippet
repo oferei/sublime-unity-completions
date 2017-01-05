@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LineRenderer.SetWidth(${1:start as single}, ${2:end as single})]]></content>
-	<tabTrigger><![CDATA[setWidth]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[LineRenderer.*(start, end)]]></description>
-</snippet>

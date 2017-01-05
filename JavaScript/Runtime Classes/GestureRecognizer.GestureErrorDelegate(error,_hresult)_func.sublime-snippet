@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GestureRecognizer.GestureErrorDelegate(${1:error : string}, ${2:hresult : int})]]></content>
+	<tabTrigger><![CDATA[GestureErrorDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GestureRecognizer.*(error, hresult)]]></description>
+</snippet>

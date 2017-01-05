@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.GetSupportedFrameRatesForResolution(${1:resolution as Resolution})]]></content>
+	<tabTrigger><![CDATA[GetSupportedFrameRatesForResolution]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VideoCapture.*(resolution)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionManager.GetCurrentReading(${1:InteractionSourceState[] sourceStates})]]></content>
+	<tabTrigger><![CDATA[interactionManager.GetCurrentReading]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(sourceStates)]]></description>
+</snippet>

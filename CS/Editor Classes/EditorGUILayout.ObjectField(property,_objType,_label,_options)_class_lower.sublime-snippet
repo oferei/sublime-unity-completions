@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.ObjectField(${1:SerializedProperty property}, ${2:Type objType}, ${3:GUIContent label}, ${4:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.ObjectField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(property, objType, label, options)]]></description>
+</snippet>

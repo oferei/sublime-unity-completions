@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.SetSubEmitterType(${1:index : int}, ${2:type : ParticleSystemSubEmitterType})]]></content>
+	<tabTrigger><![CDATA[subEmittersModule.SetSubEmitterType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, type)]]></description>
+</snippet>

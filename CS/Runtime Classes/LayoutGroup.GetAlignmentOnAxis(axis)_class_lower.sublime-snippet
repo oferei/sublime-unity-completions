@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LayoutGroup.GetAlignmentOnAxis(${1:int axis})]]></content>
+	<tabTrigger><![CDATA[layoutGroup.GetAlignmentOnAxis]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(axis)]]></description>
+</snippet>

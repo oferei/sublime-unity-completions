@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Vector2.SmoothDamp(${1:current as Vector2}, ${2:target as Vector2}, ${3:currentVelocity as ref Vector2}, ${4:smoothTime as single}, ${5:maxSpeed as single = Mathf.Infinity}, ${6:deltaTime as single = Time.deltaTime})]]></content>
+	<content><![CDATA[Vector2.SmoothDamp(${1:current as Vector2}, ${2:target as Vector2}, ${3:currentVelocity as ref Vector2}, ${4:smoothTime as single}, ${5:maxSpeed as single}, ${6:deltaTime as single})]]></content>
 	<tabTrigger><![CDATA[SmoothDamp]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Vector2.*(current, target, currentVelocity, smoothTime, maxSpeed, deltaTime)]]></description>

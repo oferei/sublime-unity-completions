@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.SetGlobalVectorArray(${1:propertyName as string}, ${2:values as (Vector4)})]]></content>
+	<content><![CDATA[CommandBuffer.SetGlobalVectorArray(${1:propertyName as string}, ${2:values as List<Vector4>})]]></content>
 	<tabTrigger><![CDATA[commandBuffer.SetGlobalVectorArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(propertyName, values)]]></description>

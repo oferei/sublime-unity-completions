@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCaptureFrame.CopyRawImageDataIntoBuffer(${1:byteBuffer as List<byte>})]]></content>
+	<tabTrigger><![CDATA[PhotoCaptureFrame.CopyRawImageDataIntoBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(byteBuffer)]]></description>
+</snippet>

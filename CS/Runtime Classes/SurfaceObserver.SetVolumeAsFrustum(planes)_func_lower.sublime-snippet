@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.SetVolumeAsFrustum(${1:Plane[] planes})]]></content>
+	<tabTrigger><![CDATA[setVolumeAsFrustum]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SurfaceObserver.*(planes)]]></description>
+</snippet>

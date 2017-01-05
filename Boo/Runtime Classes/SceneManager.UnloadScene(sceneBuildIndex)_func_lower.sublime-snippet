@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SceneManager.UnloadScene(${1:sceneBuildIndex as int})]]></content>
-	<tabTrigger><![CDATA[unloadScene]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[SceneManager.*(sceneBuildIndex)]]></description>
-</snippet>

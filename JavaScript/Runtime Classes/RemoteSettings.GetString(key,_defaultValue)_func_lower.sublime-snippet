@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetString(${1:key : string}, ${2:defaultValue : string = \"\"})]]></content>
+	<tabTrigger><![CDATA[getString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RemoteSettings.*(key, defaultValue)]]></description>
+</snippet>

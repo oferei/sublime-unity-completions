@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.GetSceneByBuildIndex(${1:int buildIndex})]]></content>
+	<tabTrigger><![CDATA[GetSceneByBuildIndex]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SceneManager.*(buildIndex)]]></description>
+</snippet>

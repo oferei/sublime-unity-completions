@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GestureRecognizer.NavigationCompletedEventDelegate(${1:source as VR.WSA.Input.InteractionSourceKind}, ${2:normalizedOffset as Vector3}, ${3:headRay as Ray})]]></content>
+	<tabTrigger><![CDATA[GestureRecognizer.NavigationCompletedEventDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(source, normalizedOffset, headRay)]]></description>
+</snippet>

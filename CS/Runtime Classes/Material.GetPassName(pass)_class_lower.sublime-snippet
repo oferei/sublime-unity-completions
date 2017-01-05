@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetPassName(${1:int pass})]]></content>
+	<tabTrigger><![CDATA[material.GetPassName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(pass)]]></description>
+</snippet>

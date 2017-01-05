@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorStore.Save(${1:id as string}, ${2:anchor as VR.WSA.WorldAnchor})]]></content>
+	<tabTrigger><![CDATA[save]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WorldAnchorStore.*(id, anchor)]]></description>
+</snippet>

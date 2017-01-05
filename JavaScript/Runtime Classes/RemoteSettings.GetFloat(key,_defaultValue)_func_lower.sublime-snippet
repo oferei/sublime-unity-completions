@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetFloat(${1:key : string}, ${2:defaultValue : float = 0.0F})]]></content>
+	<tabTrigger><![CDATA[getFloat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RemoteSettings.*(key, defaultValue)]]></description>
+</snippet>

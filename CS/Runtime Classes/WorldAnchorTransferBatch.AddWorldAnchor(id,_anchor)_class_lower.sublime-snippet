@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.AddWorldAnchor(${1:string id}, ${2:VR.WSA.WorldAnchor anchor})]]></content>
+	<tabTrigger><![CDATA[worldAnchorTransferBatch.AddWorldAnchor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id, anchor)]]></description>
+</snippet>

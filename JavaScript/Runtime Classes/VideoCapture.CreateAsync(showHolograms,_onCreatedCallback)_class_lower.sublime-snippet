@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.CreateAsync(${1:showHolograms : bool}, ${2:onCreatedCallback : VR.WSA.WebCam.VideoCapture.OnVideoCaptureResourceCreatedCallback})]]></content>
+	<tabTrigger><![CDATA[videoCapture.CreateAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(showHolograms, onCreatedCallback)]]></description>
+</snippet>

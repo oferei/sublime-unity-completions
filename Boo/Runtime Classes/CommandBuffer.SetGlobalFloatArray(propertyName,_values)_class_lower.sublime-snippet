@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.SetGlobalFloatArray(${1:propertyName as string}, ${2:values as (single)})]]></content>
+	<content><![CDATA[CommandBuffer.SetGlobalFloatArray(${1:propertyName as string}, ${2:values as List<float>})]]></content>
 	<tabTrigger><![CDATA[commandBuffer.SetGlobalFloatArray]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(propertyName, values)]]></description>

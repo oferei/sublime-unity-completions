@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.MinMaxSlider(${1:position as Rect}, ${2:label as GUIContent}, ${3:minValue as ref single}, ${4:maxValue as ref single}, ${5:minLimit as single}, ${6:maxLimit as single})]]></content>
+	<tabTrigger><![CDATA[minMaxSlider]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, label, minValue, maxValue, minLimit, maxLimit)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUIUtility.IconContent(${1:string name}, ${2:string tooltip = null})]]></content>
-	<tabTrigger><![CDATA[editorGUIUtility.IconContent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(name, tooltip)]]></description>
-</snippet>

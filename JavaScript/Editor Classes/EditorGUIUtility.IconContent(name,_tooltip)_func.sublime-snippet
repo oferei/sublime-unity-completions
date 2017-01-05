@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUIUtility.IconContent(${1:name : string}, ${2:tooltip : string = null})]]></content>
-	<tabTrigger><![CDATA[IconContent]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUIUtility.*(name, tooltip)]]></description>
-</snippet>

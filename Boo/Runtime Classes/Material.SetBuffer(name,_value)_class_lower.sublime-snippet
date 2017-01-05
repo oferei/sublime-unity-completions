@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetBuffer(${1:name as string}, ${2:value as ComputeBuffer})]]></content>
+	<tabTrigger><![CDATA[material.SetBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

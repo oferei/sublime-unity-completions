@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.SurfaceDataReadyDelegate(${1:bakedData : VR.WSA.SurfaceData}, ${2:outputWritten : bool}, ${3:elapsedBakeTimeSeconds : float})]]></content>
+	<tabTrigger><![CDATA[surfaceObserver.SurfaceDataReadyDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(bakedData, outputWritten, elapsedBakeTimeSeconds)]]></description>
+</snippet>

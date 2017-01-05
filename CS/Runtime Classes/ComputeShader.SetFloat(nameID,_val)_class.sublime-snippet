@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeShader.SetFloat(${1:int nameID}, ${2:float val})]]></content>
+	<tabTrigger><![CDATA[ComputeShader.SetFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID, val)]]></description>
+</snippet>

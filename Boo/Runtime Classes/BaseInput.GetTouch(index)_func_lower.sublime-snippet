@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseInput.GetTouch(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[getTouch]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BaseInput.*(index)]]></description>
+</snippet>

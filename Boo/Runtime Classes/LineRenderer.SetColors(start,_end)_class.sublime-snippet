@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LineRenderer.SetColors(${1:start as Color}, ${2:end as Color})]]></content>
-	<tabTrigger><![CDATA[LineRenderer.SetColors]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(start, end)]]></description>
-</snippet>

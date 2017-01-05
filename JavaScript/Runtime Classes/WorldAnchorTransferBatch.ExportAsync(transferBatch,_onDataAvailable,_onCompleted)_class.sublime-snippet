@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.ExportAsync(${1:transferBatch : VR.WSA.Sharing.WorldAnchorTransferBatch}, ${2:onDataAvailable : VR.WSA.Sharing.WorldAnchorTransferBatch.SerializationDataAvailableDelegate}, ${3:onCompleted : VR.WSA.Sharing.WorldAnchorTransferBatch.SerializationCompleteDelegate})]]></content>
+	<tabTrigger><![CDATA[WorldAnchorTransferBatch.ExportAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(transferBatch, onDataAvailable, onCompleted)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.SerializationDataAvailableDelegate(${1:data as (byte)})]]></content>
+	<tabTrigger><![CDATA[SerializationDataAvailableDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WorldAnchorTransferBatch.*(data)]]></description>
+</snippet>

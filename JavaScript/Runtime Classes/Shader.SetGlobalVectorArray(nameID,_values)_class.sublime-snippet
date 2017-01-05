@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Shader.SetGlobalVectorArray(${1:nameID : int}, ${2:values : Vector4[]})]]></content>
+	<content><![CDATA[Shader.SetGlobalVectorArray(${1:nameID : int}, ${2:values : List<Vector4>})]]></content>
 	<tabTrigger><![CDATA[Shader.SetGlobalVectorArray]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(nameID, values)]]></description>

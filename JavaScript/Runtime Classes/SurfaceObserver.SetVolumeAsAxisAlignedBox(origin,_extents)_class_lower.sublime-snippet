@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.SetVolumeAsAxisAlignedBox(${1:origin : Vector3}, ${2:extents : Vector3})]]></content>
+	<tabTrigger><![CDATA[surfaceObserver.SetVolumeAsAxisAlignedBox]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(origin, extents)]]></description>
+</snippet>

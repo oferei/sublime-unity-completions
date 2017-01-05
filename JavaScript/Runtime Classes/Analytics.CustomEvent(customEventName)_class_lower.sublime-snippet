@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.CustomEvent(${1:customEventName : string})]]></content>
+	<tabTrigger><![CDATA[analytics.CustomEvent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(customEventName)]]></description>
+</snippet>

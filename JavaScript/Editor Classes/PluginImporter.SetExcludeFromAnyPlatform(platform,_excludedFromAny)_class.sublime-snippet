@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.SetExcludeFromAnyPlatform(${1:platform : BuildTarget}, ${2:excludedFromAny : bool})]]></content>
+	<tabTrigger><![CDATA[PluginImporter.SetExcludeFromAnyPlatform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(platform, excludedFromAny)]]></description>
+</snippet>

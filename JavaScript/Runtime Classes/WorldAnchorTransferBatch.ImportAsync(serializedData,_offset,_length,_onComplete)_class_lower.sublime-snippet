@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.ImportAsync(${1:serializedData : byte[]}, ${2:offset : int}, ${3:length : int}, ${4:onComplete : VR.WSA.Sharing.WorldAnchorTransferBatch.DeserializationCompleteDelegate})]]></content>
+	<tabTrigger><![CDATA[worldAnchorTransferBatch.ImportAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(serializedData, offset, length, onComplete)]]></description>
+</snippet>

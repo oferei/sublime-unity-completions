@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.SetExcludeFromAnyPlatform(${1:string platformName}, ${2:bool excludedFromAny})]]></content>
+	<tabTrigger><![CDATA[PluginImporter.SetExcludeFromAnyPlatform]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(platformName, excludedFromAny)]]></description>
+</snippet>

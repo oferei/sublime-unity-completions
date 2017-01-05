@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContextMenu(${1:string itemName})]]></content>
+	<tabTrigger><![CDATA[ContextMenu]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(itemName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetIdentifier(${1:tex as Texture})]]></content>
+	<tabTrigger><![CDATA[renderTargetIdentifier]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tex)]]></description>
+</snippet>

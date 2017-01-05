@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.SetSubEmitterProperties(${1:index as int}, ${2:properties as ParticleSystemSubEmitterProperties})]]></content>
+	<tabTrigger><![CDATA[setSubEmitterProperties]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SubEmittersModule.*(index, properties)]]></description>
+</snippet>

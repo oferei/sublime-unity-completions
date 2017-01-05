@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphic.OnPopulateMesh(${1:UI.VertexHelper vh})]]></content>
+	<tabTrigger><![CDATA[onPopulateMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Graphic.*(vh)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Foldout(${1:bool foldout}, ${2:GUIContent content}, ${3:bool toggleOnLabelClick}, ${4:GUIStyle style = EditorStyles.foldout})]]></content>
+	<tabTrigger><![CDATA[Foldout]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUILayout.*(foldout, content, toggleOnLabelClick, style)]]></description>
+</snippet>

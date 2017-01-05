@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BillboardAsset.SetImageTexCoords(${1:imageTexCoords : List<Vector4>})]]></content>
+	<tabTrigger><![CDATA[BillboardAsset.SetImageTexCoords]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(imageTexCoords)]]></description>
+</snippet>

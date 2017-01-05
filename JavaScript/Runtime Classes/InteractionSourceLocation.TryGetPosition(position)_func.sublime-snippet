@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionSourceLocation.TryGetPosition(${1:position : out Vector3})]]></content>
+	<tabTrigger><![CDATA[TryGetPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InteractionSourceLocation.*(position)]]></description>
+</snippet>

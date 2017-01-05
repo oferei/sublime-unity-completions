@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.FindPass(${1:passName : string})]]></content>
+	<tabTrigger><![CDATA[material.FindPass]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(passName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetFloatArray(${1:int nameID}, ${2:List<float> values})]]></content>
+	<tabTrigger><![CDATA[GetFloatArray]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Material.*(nameID, values)]]></description>
+</snippet>

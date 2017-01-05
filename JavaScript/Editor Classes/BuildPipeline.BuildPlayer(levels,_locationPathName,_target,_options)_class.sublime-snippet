@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[BuildPipeline.BuildPlayer(${1:levels : string[]}, ${2:locationPathName : string}, ${3:target : BuildTarget}, ${4:options : BuildOptions})]]></content>
+	<content><![CDATA[BuildPipeline.BuildPlayer(${1:levels : EditorBuildSettingsScene[]}, ${2:locationPathName : string}, ${3:target : BuildTarget}, ${4:options : BuildOptions})]]></content>
 	<tabTrigger><![CDATA[BuildPipeline.BuildPlayer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(levels, locationPathName, target, options)]]></description>

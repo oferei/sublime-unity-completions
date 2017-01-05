@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextGenerator.PopulateWithErrors(${1:string str}, ${2:TextGenerationSettings settings}, ${3:GameObject context})]]></content>
+	<tabTrigger><![CDATA[populateWithErrors]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TextGenerator.*(str, settings, context)]]></description>
+</snippet>

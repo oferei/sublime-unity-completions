@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Advertisement.Show(${1:zoneId as string})]]></content>
-	<tabTrigger><![CDATA[Show]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Advertisement.*(zoneId)]]></description>
-</snippet>

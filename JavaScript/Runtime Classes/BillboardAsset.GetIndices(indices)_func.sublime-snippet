@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BillboardAsset.GetIndices(${1:indices : List<ushort>})]]></content>
+	<tabTrigger><![CDATA[GetIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BillboardAsset.*(indices)]]></description>
+</snippet>

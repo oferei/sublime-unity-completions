@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ModelImporterClipAnimation.ConfigureClipFromMask(${1:mask as Animations.AvatarMask})]]></content>
+	<tabTrigger><![CDATA[configureClipFromMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ModelImporterClipAnimation.*(mask)]]></description>
+</snippet>

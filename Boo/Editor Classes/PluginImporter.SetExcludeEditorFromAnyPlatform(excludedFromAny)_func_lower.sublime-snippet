@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.SetExcludeEditorFromAnyPlatform(${1:excludedFromAny as bool})]]></content>
+	<tabTrigger><![CDATA[setExcludeEditorFromAnyPlatform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PluginImporter.*(excludedFromAny)]]></description>
+</snippet>

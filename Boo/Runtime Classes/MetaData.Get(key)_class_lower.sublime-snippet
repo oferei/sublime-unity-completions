@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MetaData.Get(${1:key as string})]]></content>
+	<tabTrigger><![CDATA[metaData.Get]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

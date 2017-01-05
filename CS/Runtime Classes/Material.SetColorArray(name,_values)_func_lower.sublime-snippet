@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.SetColorArray(${1:string name}, ${2:Color[] values})]]></content>
+	<content><![CDATA[Material.SetColorArray(${1:string name}, ${2:List<Color> values})]]></content>
 	<tabTrigger><![CDATA[setColorArray]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Material.*(name, values)]]></description>

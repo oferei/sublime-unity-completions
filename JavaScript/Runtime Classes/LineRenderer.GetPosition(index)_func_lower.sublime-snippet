@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.GetPosition(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[getPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LineRenderer.*(index)]]></description>
+</snippet>

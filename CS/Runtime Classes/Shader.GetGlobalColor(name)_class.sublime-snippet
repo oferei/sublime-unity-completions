@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.GetGlobalColor(${1:string name})]]></content>
+	<tabTrigger><![CDATA[Shader.GetGlobalColor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

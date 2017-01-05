@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.OverlapCapsuleNonAlloc(${1:Vector2 point}, ${2:Vector2 size}, ${3:CapsuleDirection2D direction}, ${4:float angle}, ${5:Collider2D[] results}, ${6:int layerMask = DefaultRaycastLayers}, ${7:float minDepth = -Mathf.Infinity}, ${8:float maxDepth = Mathf.Infinity})]]></content>
+	<tabTrigger><![CDATA[Physics2D.OverlapCapsuleNonAlloc]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point, size, direction, angle, results, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

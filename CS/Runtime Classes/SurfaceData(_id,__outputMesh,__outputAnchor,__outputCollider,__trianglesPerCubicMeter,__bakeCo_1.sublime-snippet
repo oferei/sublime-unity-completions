@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceData(${1:VR.WSA.SurfaceId _id}, ${2:MeshFilter _outputMesh}, ${3:VR.WSA.WorldAnchor _outputAnchor}, ${4:MeshCollider _outputCollider}, ${5:float _trianglesPerCubicMeter}, ${6:bool _bakeCollider})]]></content>
+	<tabTrigger><![CDATA[SurfaceData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(_id, _outputMesh, _outputAnchor, _outputCollider, _trianglesPerCubicMeter, _bakeCollider)]]></description>
+</snippet>

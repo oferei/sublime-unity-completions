@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCapture.OnCapturedToDiskCallback(${1:VR.WSA.WebCam.PhotoCapture.PhotoCaptureResult result})]]></content>
+	<tabTrigger><![CDATA[onCapturedToDiskCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhotoCapture.*(result)]]></description>
+</snippet>

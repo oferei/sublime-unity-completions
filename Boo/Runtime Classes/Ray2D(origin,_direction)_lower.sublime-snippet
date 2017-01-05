@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Ray2D(${1:origin as Vector2}, ${2:direction as Vector2})]]></content>
+	<tabTrigger><![CDATA[ray2D]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(origin, direction)]]></description>
+</snippet>

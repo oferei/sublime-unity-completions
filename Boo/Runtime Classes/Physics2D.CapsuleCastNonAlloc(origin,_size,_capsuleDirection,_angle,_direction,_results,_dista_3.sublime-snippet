@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.CapsuleCastNonAlloc(${1:origin as Vector2}, ${2:size as Vector2}, ${3:capsuleDirection as CapsuleDirection2D}, ${4:angle as single}, ${5:direction as Vector2}, ${6:results as (RaycastHit2D)}, ${7:distance as single = Mathf.Infinity}, ${8:layerMask as int = DefaultRaycastLayers}, ${9:minDepth as single = -Mathf.Infinity}, ${10:maxDepth as single = Mathf.Infinity})]]></content>
+	<tabTrigger><![CDATA[CapsuleCastNonAlloc]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Physics2D.*(origin, size, capsuleDirection, angle, direction, results, distance, layerMask, minDepth, maxDepth)]]></description>
+</snippet>

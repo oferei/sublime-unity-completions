@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.StartRecordingAsync(${1:string filename}, ${2:VR.WSA.WebCam.VideoCapture.OnStartedRecordingVideoCallback onStartedRecordingVideoCallback})]]></content>
+	<tabTrigger><![CDATA[VideoCapture.StartRecordingAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(filename, onStartedRecordingVideoCallback)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.GetCustomParticleData(${1:customData as List<Vector4>}, ${2:streamIndex as ParticleSystemCustomData})]]></content>
+	<tabTrigger><![CDATA[GetCustomParticleData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ParticleSystem.*(customData, streamIndex)]]></description>
+</snippet>

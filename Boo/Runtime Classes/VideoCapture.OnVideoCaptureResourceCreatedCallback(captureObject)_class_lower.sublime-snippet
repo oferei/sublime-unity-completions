@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.OnVideoCaptureResourceCreatedCallback(${1:captureObject as VR.WSA.WebCam.VideoCapture})]]></content>
+	<tabTrigger><![CDATA[videoCapture.OnVideoCaptureResourceCreatedCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(captureObject)]]></description>
+</snippet>

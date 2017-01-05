@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCapture.OnPhotoModeStoppedCallback(${1:result as VR.WSA.WebCam.PhotoCapture.PhotoCaptureResult})]]></content>
+	<tabTrigger><![CDATA[OnPhotoModeStoppedCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhotoCapture.*(result)]]></description>
+</snippet>

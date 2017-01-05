@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.GetSupportedFrameRatesForResolution(${1:resolution : Resolution})]]></content>
+	<tabTrigger><![CDATA[videoCapture.GetSupportedFrameRatesForResolution]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(resolution)]]></description>
+</snippet>

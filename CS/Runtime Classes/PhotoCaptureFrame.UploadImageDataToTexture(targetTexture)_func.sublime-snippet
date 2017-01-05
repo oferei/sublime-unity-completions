@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCaptureFrame.UploadImageDataToTexture(${1:Texture2D targetTexture})]]></content>
+	<tabTrigger><![CDATA[UploadImageDataToTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhotoCaptureFrame.*(targetTexture)]]></description>
+</snippet>

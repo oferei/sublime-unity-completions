@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.RequestMeshAsync(${1:VR.WSA.SurfaceData dataRequest}, ${2:VR.WSA.SurfaceObserver.SurfaceDataReadyDelegate onDataReady})]]></content>
+	<tabTrigger><![CDATA[SurfaceObserver.RequestMeshAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(dataRequest, onDataReady)]]></description>
+</snippet>

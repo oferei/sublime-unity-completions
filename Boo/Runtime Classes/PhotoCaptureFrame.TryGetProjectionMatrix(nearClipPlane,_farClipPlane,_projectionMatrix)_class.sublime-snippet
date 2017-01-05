@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoCaptureFrame.TryGetProjectionMatrix(${1:nearClipPlane as single}, ${2:farClipPlane as single}, ${3:projectionMatrix as out Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[PhotoCaptureFrame.TryGetProjectionMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(nearClipPlane, farClipPlane, projectionMatrix)]]></description>
+</snippet>

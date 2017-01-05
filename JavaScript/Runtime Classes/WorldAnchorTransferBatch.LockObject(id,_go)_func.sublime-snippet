@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchorTransferBatch.LockObject(${1:id : string}, ${2:go : GameObject})]]></content>
+	<tabTrigger><![CDATA[LockObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[WorldAnchorTransferBatch.*(id, go)]]></description>
+</snippet>

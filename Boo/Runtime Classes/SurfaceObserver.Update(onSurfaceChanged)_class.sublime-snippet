@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SurfaceObserver.Update(${1:onSurfaceChanged as VR.WSA.SurfaceObserver.SurfaceChangedDelegate})]]></content>
+	<tabTrigger><![CDATA[SurfaceObserver.Update]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(onSurfaceChanged)]]></description>
+</snippet>

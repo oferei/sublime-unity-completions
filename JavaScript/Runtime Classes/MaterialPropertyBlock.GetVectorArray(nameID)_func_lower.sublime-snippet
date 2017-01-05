@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.GetVectorArray(${1:nameID : int})]]></content>
+	<tabTrigger><![CDATA[getVectorArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(nameID)]]></description>
+</snippet>

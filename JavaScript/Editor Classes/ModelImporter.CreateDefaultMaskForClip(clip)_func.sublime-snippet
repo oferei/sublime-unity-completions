@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ModelImporter.CreateDefaultMaskForClip(${1:clip : ModelImporterClipAnimation})]]></content>
+	<tabTrigger><![CDATA[CreateDefaultMaskForClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ModelImporter.*(clip)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.ObjectField(${1:obj : Object}, ${2:objType : Type}, ${3:options : params GUILayoutOption[]})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.ObjectField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(obj, objType, options)]]></description>
+</snippet>

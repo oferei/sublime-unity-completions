@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetAssetBundleDependencies(${1:string assetBundleName}, ${2:bool recursive})]]></content>
+	<tabTrigger><![CDATA[GetAssetBundleDependencies]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(assetBundleName, recursive)]]></description>
+</snippet>

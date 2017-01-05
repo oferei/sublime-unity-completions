@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorJsonUtility.ToJson(${1:Object obj}, ${2:bool prettyPrint})]]></content>
+	<content><![CDATA[EditorJsonUtility.ToJson(${1:object obj}, ${2:bool prettyPrint})]]></content>
 	<tabTrigger><![CDATA[editorJsonUtility.ToJson]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(obj, prettyPrint)]]></description>

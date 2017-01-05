@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ObjectField(${1:position : Rect}, ${2:property : SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.ObjectField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, property)]]></description>
+</snippet>
