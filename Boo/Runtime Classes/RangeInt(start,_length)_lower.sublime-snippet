@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RangeInt(${1:start as int}, ${2:length as int})]]></content>
+	<tabTrigger><![CDATA[rangeInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(start, length)]]></description>
+</snippet>

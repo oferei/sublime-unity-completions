@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetIndexStart(${1:submesh : int})]]></content>
+	<tabTrigger><![CDATA[mesh.GetIndexStart]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(submesh)]]></description>
+</snippet>

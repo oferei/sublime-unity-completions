@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBoneWeights(${1:boneWeights as List<BoneWeight>})]]></content>
+	<tabTrigger><![CDATA[getBoneWeights]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(boneWeights)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetNormals(${1:List<Vector3> normals})]]></content>
+	<tabTrigger><![CDATA[mesh.GetNormals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(normals)]]></description>
+</snippet>

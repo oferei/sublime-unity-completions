@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetVertices(${1:vertices : List<Vector3>})]]></content>
+	<tabTrigger><![CDATA[mesh.GetVertices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(vertices)]]></description>
+</snippet>

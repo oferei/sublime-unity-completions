@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetTangents(${1:tangents : List<Vector4>})]]></content>
+	<tabTrigger><![CDATA[Mesh.GetTangents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tangents)]]></description>
+</snippet>

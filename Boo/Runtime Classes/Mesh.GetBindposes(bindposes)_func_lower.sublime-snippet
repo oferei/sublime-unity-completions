@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBindposes(${1:bindposes as List<Matrix4x4>})]]></content>
+	<tabTrigger><![CDATA[getBindposes]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(bindposes)]]></description>
+</snippet>

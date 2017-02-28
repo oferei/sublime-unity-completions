@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetVertices(${1:vertices as List<Vector3>})]]></content>
+	<tabTrigger><![CDATA[GetVertices]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(vertices)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetIndices(${1:indices as List<int>}, ${2:submesh as int})]]></content>
+	<tabTrigger><![CDATA[mesh.GetIndices]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(indices, submesh)]]></description>
+</snippet>

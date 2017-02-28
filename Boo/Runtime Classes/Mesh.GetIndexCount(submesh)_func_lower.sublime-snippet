@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetIndexCount(${1:submesh as int})]]></content>
+	<tabTrigger><![CDATA[getIndexCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(submesh)]]></description>
+</snippet>

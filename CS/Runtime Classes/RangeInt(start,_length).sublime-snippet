@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RangeInt(${1:int start}, ${2:int length})]]></content>
+	<tabTrigger><![CDATA[RangeInt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(start, length)]]></description>
+</snippet>

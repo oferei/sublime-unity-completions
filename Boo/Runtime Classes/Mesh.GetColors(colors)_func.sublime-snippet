@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetColors(${1:colors as List<Color32>})]]></content>
+	<tabTrigger><![CDATA[GetColors]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(colors)]]></description>
+</snippet>
