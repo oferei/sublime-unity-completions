@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetViewport(${1:pixelRect as Rect})]]></content>
+	<tabTrigger><![CDATA[setViewport]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(pixelRect)]]></description>
+</snippet>

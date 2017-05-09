@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetCellRectForTreeFoldouts(${1:rowRect : Rect})]]></content>
+	<tabTrigger><![CDATA[getCellRectForTreeFoldouts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(rowRect)]]></description>
+</snippet>

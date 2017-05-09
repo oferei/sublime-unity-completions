@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClip.GetAudioSampleRate(${1:audioTrackIdx : ushort})]]></content>
+	<tabTrigger><![CDATA[videoClip.GetAudioSampleRate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(audioTrackIdx)]]></description>
+</snippet>

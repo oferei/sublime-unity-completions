@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.SetVector3(${1:key as string}, ${2:value as Vector3})]]></content>
+	<tabTrigger><![CDATA[SessionState.SetVector3]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(key, value)]]></description>
+</snippet>

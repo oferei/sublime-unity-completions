@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.GetContacts(${1:Collider2D[] colliders})]]></content>
+	<tabTrigger><![CDATA[collider2D.GetContacts]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(colliders)]]></description>
+</snippet>

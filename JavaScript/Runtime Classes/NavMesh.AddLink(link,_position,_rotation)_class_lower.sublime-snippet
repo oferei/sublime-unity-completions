@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.AddLink(${1:link : AI.NavMeshLinkData}, ${2:position : Vector3}, ${3:rotation : Quaternion})]]></content>
+	<tabTrigger><![CDATA[navMesh.AddLink]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(link, position, rotation)]]></description>
+</snippet>

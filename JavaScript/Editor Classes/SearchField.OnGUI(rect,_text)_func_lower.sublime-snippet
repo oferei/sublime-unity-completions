@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SearchField.OnGUI(${1:rect : Rect}, ${2:text : string})]]></content>
+	<tabTrigger><![CDATA[onGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SearchField.*(rect, text)]]></description>
+</snippet>

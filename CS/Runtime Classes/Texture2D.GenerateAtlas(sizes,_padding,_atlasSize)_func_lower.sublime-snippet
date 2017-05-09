@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.GenerateAtlas(${1:Vector2[] sizes}, ${2:int padding}, ${3:int atlasSize})]]></content>
+	<tabTrigger><![CDATA[generateAtlas]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Texture2D.*(sizes, padding, atlasSize)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalInt(${1:propertyName : string}, ${2:value : int})]]></content>
-	<tabTrigger><![CDATA[setGlobalInt]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Shader.*(propertyName, value)]]></description>
-</snippet>

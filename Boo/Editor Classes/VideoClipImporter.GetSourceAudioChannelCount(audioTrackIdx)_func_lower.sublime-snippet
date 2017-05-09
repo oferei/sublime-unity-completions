@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClipImporter.GetSourceAudioChannelCount(${1:audioTrackIdx as ushort})]]></content>
+	<tabTrigger><![CDATA[getSourceAudioChannelCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VideoClipImporter.*(audioTrackIdx)]]></description>
+</snippet>

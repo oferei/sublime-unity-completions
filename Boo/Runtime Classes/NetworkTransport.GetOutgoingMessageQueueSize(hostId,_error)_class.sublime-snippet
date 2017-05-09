@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetOutgoingMessageQueueSize(${1:hostId as int}, ${2:error as out byte})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.GetOutgoingMessageQueueSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(hostId, error)]]></description>
+</snippet>

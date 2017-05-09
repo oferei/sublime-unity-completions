@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SceneSavedCallback(${1:scene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[sceneSavedCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorSceneManager.*(scene)]]></description>
+</snippet>

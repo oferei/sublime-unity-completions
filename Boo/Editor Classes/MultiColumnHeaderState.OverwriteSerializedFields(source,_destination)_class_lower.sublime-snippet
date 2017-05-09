@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeaderState.OverwriteSerializedFields(${1:source as IMGUI.Controls.MultiColumnHeaderState}, ${2:destination as IMGUI.Controls.MultiColumnHeaderState})]]></content>
+	<tabTrigger><![CDATA[multiColumnHeaderState.OverwriteSerializedFields]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(source, destination)]]></description>
+</snippet>

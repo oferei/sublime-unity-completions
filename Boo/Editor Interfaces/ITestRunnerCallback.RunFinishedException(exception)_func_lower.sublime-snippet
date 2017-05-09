@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITestRunnerCallback.RunFinishedException(${1:exception as Exception})]]></content>
-	<tabTrigger><![CDATA[runFinishedException]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ITestRunnerCallback.*(exception)]]></description>
-</snippet>

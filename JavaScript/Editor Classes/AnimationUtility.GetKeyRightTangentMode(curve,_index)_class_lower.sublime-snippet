@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetKeyRightTangentMode(${1:curve : AnimationCurve}, ${2:index : int})]]></content>
+	<tabTrigger><![CDATA[animationUtility.GetKeyRightTangentMode]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(curve, index)]]></description>
+</snippet>

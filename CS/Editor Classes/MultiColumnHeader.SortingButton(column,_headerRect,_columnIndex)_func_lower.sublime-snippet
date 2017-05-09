@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.SortingButton(${1:IMGUI.Controls.MultiColumnHeaderState.Column column}, ${2:Rect headerRect}, ${3:int columnIndex})]]></content>
+	<tabTrigger><![CDATA[sortingButton]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MultiColumnHeader.*(column, headerRect, columnIndex)]]></description>
+</snippet>

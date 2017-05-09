@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.Instantiate(${1:original : Object}, ${2:parent : Transform})]]></content>
+	<content><![CDATA[Object.Instantiate(${1:original : T}, ${2:parent : Transform})]]></content>
 	<tabTrigger><![CDATA[object.Instantiate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(original, parent)]]></description>

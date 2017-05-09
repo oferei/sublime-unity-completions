@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWWForm.AddField(${1:fieldName as string}, ${2:value as string}, ${3:e as Encoding = System.Text.Encoding.UTF8})]]></content>
-	<tabTrigger><![CDATA[wWWForm.AddField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(fieldName, value, e)]]></description>
-</snippet>

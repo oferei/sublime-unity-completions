@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableHandle.GetInput(${1:inputPort as int})]]></content>
+	<tabTrigger><![CDATA[playableHandle.GetInput]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inputPort)]]></description>
+</snippet>

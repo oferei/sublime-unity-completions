@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorOverrideController.GetOverrides(${1:List<KeyValuePair<AnimationClip,AnimationClip>> overrides})]]></content>
+	<tabTrigger><![CDATA[animatorOverrideController.GetOverrides]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(overrides)]]></description>
+</snippet>

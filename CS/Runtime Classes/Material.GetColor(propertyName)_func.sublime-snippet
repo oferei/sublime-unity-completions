@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.GetColor(${1:string propertyName})]]></content>
-	<tabTrigger><![CDATA[GetColor]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Material.*(propertyName)]]></description>
-</snippet>

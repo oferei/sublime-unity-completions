@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetProjectionMatrix(${1:proj : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[setProjectionMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(proj)]]></description>
+</snippet>

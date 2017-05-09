@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RowGUIArgs.GetCellRect(${1:visibleColumnIndex as int})]]></content>
+	<tabTrigger><![CDATA[getCellRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RowGUIArgs.*(visibleColumnIndex)]]></description>
+</snippet>

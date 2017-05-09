@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWW.LoadFromCacheOrDownload(${1:string url}, ${2:int version}, ${3:uint crc = 0})]]></content>
-	<tabTrigger><![CDATA[WWW.LoadFromCacheOrDownload]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(url, version, crc)]]></description>
-</snippet>

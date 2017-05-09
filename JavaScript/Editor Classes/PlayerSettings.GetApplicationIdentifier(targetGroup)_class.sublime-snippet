@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetApplicationIdentifier(${1:targetGroup : BuildTargetGroup})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.GetApplicationIdentifier]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(targetGroup)]]></description>
+</snippet>

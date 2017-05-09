@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationMixerPlayable.GetInput(${1:int inputPort})]]></content>
-	<tabTrigger><![CDATA[getInput]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimationMixerPlayable.*(inputPort)]]></description>
-</snippet>

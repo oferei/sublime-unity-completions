@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullResults.FillLightIndices(${1:computeBuffer : ComputeBuffer})]]></content>
+	<tabTrigger><![CDATA[FillLightIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullResults.*(computeBuffer)]]></description>
+</snippet>

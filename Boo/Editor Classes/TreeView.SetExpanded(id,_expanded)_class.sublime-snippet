@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SetExpanded(${1:id as int}, ${2:expanded as bool})]]></content>
+	<tabTrigger><![CDATA[TreeView.SetExpanded]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(id, expanded)]]></description>
+</snippet>

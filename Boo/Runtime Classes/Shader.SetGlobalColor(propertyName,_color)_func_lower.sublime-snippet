@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalColor(${1:propertyName as string}, ${2:color as Color})]]></content>
-	<tabTrigger><![CDATA[setGlobalColor]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Shader.*(propertyName, color)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.RemoveNavMeshData(${1:handle : AI.NavMeshDataInstance})]]></content>
+	<tabTrigger><![CDATA[removeNavMeshData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMesh.*(handle)]]></description>
+</snippet>

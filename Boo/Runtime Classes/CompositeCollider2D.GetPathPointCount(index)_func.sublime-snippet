@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompositeCollider2D.GetPathPointCount(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[GetPathPointCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CompositeCollider2D.*(index)]]></description>
+</snippet>

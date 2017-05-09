@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullResults.ComputePointShadowMatricesAndCullingPrimitives(${1:activeLightIndex : int}, ${2:cubemapFace : CubemapFace}, ${3:fovBias : float}, ${4:viewMatrix : out Matrix4x4}, ${5:projMatrix : out Matrix4x4}, ${6:shadowSplitData : out Experimental.Rendering.ShadowSplitData})]]></content>
+	<tabTrigger><![CDATA[computePointShadowMatricesAndCullingPrimitives]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullResults.*(activeLightIndex, cubemapFace, fovBias, viewMatrix, projMatrix, shadowSplitData)]]></description>
+</snippet>

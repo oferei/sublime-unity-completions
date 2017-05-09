@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.GetTemporaryRT(${1:nameID : int}, ${2:width : int}, ${3:height : int}, ${4:depthBuffer : int = 0}, ${5:filter : FilterMode = FilterMode.Point}, ${6:format : RenderTextureFormat = RenderTextureFormat.Default}, ${7:readWrite : RenderTextureReadWrite = RenderTextureReadWrite.Default}, ${8:antiAliasing : int = 1})]]></content>
+	<content><![CDATA[CommandBuffer.GetTemporaryRT(${1:nameID : int}, ${2:width : int}, ${3:height : int}, ${4:depthBuffer : int = 0}, ${5:filter : FilterMode = FilterMode.Point}, ${6:format : RenderTextureFormat = RenderTextureFormat.Default}, ${7:readWrite : RenderTextureReadWrite = RenderTextureReadWrite.Default}, ${8:antiAliasing : int = 1}, ${9:enableRandomWrite : bool = false})]]></content>
 	<tabTrigger><![CDATA[GetTemporaryRT]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[CommandBuffer.*(nameID, width, height, depthBuffer, filter, format, readWrite, antiAliasing)]]></description>
+	<description><![CDATA[CommandBuffer.*(nameID, width, height, depthBuffer, filter, format, readWrite, antiAliasing, enableRandomWrite)]]></description>
 </snippet>

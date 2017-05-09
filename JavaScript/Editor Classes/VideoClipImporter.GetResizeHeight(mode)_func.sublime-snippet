@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClipImporter.GetResizeHeight(${1:mode : VideoResizeMode})]]></content>
+	<tabTrigger><![CDATA[GetResizeHeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoClipImporter.*(mode)]]></description>
+</snippet>

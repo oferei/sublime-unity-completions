@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.ColumnHeaderClicked(${1:column : IMGUI.Controls.MultiColumnHeaderState.Column}, ${2:columnIndex : int})]]></content>
+	<tabTrigger><![CDATA[multiColumnHeader.ColumnHeaderClicked]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(column, columnIndex)]]></description>
+</snippet>

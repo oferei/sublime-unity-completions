@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClip.GetAudioLanguage(${1:audioTrackIdx as ushort})]]></content>
+	<tabTrigger><![CDATA[videoClip.GetAudioLanguage]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(audioTrackIdx)]]></description>
+</snippet>

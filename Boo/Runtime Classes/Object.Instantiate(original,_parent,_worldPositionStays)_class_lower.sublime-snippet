@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Object.Instantiate(${1:original as T}, ${2:parent as Transform}, ${3:worldPositionStays as bool})]]></content>
+	<tabTrigger><![CDATA[object.Instantiate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(original, parent, worldPositionStays)]]></description>
+</snippet>

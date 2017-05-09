@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SceneOpenedCallback(${1:scene : SceneManagement.Scene}, ${2:mode : SceneManagement.OpenSceneMode})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.SceneOpenedCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scene, mode)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.BeginRename(${1:item as IMGUI.Controls.TreeViewItem}, ${2:delay as single})]]></content>
+	<tabTrigger><![CDATA[treeView.BeginRename]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(item, delay)]]></description>
+</snippet>

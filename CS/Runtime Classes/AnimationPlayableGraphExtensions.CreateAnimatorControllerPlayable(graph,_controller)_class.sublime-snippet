@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableGraphExtensions.CreateAnimatorControllerPlayable(${1:Experimental.Director.PlayableGraph graph}, ${2:RuntimeAnimatorController controller})]]></content>
+	<tabTrigger><![CDATA[AnimationPlayableGraphExtensions.CreateAnimatorControllerPlayable]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(graph, controller)]]></description>
+</snippet>

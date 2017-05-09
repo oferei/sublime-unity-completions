@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorConnection.RegisterConnection(${1:callback : UnityAction<int>})]]></content>
+	<tabTrigger><![CDATA[RegisterConnection]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorConnection.*(callback)]]></description>
+</snippet>

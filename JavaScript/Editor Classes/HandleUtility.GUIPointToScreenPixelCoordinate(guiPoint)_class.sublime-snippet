@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.GUIPointToScreenPixelCoordinate(${1:guiPoint : Vector2})]]></content>
+	<tabTrigger><![CDATA[HandleUtility.GUIPointToScreenPixelCoordinate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(guiPoint)]]></description>
+</snippet>

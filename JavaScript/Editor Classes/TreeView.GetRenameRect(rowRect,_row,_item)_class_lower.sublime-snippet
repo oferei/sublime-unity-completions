@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetRenameRect(${1:rowRect : Rect}, ${2:row : int}, ${3:item : IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[treeView.GetRenameRect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rowRect, row, item)]]></description>
+</snippet>

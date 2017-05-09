@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.SetDirectAudioMute(${1:trackIndex : ushort}, ${2:mute : bool})]]></content>
+	<tabTrigger><![CDATA[setDirectAudioMute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoPlayer.*(trackIndex, mute)]]></description>
+</snippet>

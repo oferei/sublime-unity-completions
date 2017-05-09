@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView(${1:state as IMGUI.Controls.TreeViewState}, ${2:multiColumnHeader as IMGUI.Controls.MultiColumnHeader})]]></content>
+	<tabTrigger><![CDATA[TreeView]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(state, multiColumnHeader)]]></description>
+</snippet>

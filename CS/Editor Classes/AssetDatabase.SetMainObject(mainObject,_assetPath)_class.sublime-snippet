@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.SetMainObject(${1:Object mainObject}, ${2:string assetPath})]]></content>
+	<tabTrigger><![CDATA[AssetDatabase.SetMainObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mainObject, assetPath)]]></description>
+</snippet>

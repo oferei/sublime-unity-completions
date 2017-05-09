@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.OnGUI(${1:rect : Rect}, ${2:xScroll : float})]]></content>
+	<tabTrigger><![CDATA[MultiColumnHeader.OnGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rect, xScroll)]]></description>
+</snippet>

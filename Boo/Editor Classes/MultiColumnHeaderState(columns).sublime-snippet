@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeaderState(${1:columns as (Column)})]]></content>
+	<tabTrigger><![CDATA[MultiColumnHeaderState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(columns)]]></description>
+</snippet>

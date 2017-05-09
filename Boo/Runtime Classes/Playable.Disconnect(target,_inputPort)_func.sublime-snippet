@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Playable.Disconnect(${1:target as Experimental.Director.Playable}, ${2:inputPort as int})]]></content>
-	<tabTrigger><![CDATA[Disconnect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Playable.*(target, inputPort)]]></description>
-</snippet>

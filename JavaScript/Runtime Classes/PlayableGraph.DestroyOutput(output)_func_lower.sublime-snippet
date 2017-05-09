@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.DestroyOutput(${1:output : Experimental.Director.ScriptPlayableOutput})]]></content>
+	<tabTrigger><![CDATA[destroyOutput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableGraph.*(output)]]></description>
+</snippet>

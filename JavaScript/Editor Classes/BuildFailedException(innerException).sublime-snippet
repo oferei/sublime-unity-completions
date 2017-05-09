@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildFailedException(${1:innerException : Exception})]]></content>
+	<tabTrigger><![CDATA[BuildFailedException]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(innerException)]]></description>
+</snippet>

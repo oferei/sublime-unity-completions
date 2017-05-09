@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SearchChanged(${1:string newSearch})]]></content>
+	<tabTrigger><![CDATA[SearchChanged]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeView.*(newSearch)]]></description>
+</snippet>

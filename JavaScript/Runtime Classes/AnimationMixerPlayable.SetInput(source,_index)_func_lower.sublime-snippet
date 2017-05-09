@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationMixerPlayable.SetInput(${1:source : Experimental.Director.Playable}, ${2:index : int})]]></content>
-	<tabTrigger><![CDATA[setInput]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnimationMixerPlayable.*(source, index)]]></description>
-</snippet>

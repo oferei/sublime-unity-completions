@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomDataModule.SetVector(${1:stream as ParticleSystemCustomData}, ${2:component as int}, ${3:curve as ParticleSystem.MinMaxCurve})]]></content>
+	<tabTrigger><![CDATA[customDataModule.SetVector]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream, component, curve)]]></description>
+</snippet>

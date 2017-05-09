@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.GetRuntimeMemorySizeLong(${1:o : Object})]]></content>
+	<tabTrigger><![CDATA[GetRuntimeMemorySizeLong]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Profiler.*(o)]]></description>
+</snippet>

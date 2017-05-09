@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawingScope.Handles.DrawingScope(${1:matrix as Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[drawingScope.Handles.DrawingScope]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(matrix)]]></description>
+</snippet>

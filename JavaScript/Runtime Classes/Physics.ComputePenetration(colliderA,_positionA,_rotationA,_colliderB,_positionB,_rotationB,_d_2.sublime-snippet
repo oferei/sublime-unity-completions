@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.ComputePenetration(${1:colliderA : Collider}, ${2:positionA : Vector3}, ${3:rotationA : Quaternion}, ${4:colliderB : Collider}, ${5:positionB : Vector3}, ${6:rotationB : Quaternion}, ${7:direction : out Vector3}, ${8:distance : out float})]]></content>
+	<tabTrigger><![CDATA[physics.ComputePenetration]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(colliderA, positionA, rotationA, colliderB, positionB, rotationB, direction, distance)]]></description>
+</snippet>

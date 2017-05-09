@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.DrawShadows(${1:ref Experimental.Rendering.DrawShadowsSettings settings})]]></content>
+	<tabTrigger><![CDATA[drawShadows]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableRenderContext.*(settings)]]></description>
+</snippet>

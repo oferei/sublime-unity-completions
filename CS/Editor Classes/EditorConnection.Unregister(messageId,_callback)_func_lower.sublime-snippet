@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorConnection.Unregister(${1:Guid messageId}, ${2:UnityAction<MessageEventArgs> callback})]]></content>
+	<tabTrigger><![CDATA[unregister]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorConnection.*(messageId, callback)]]></description>
+</snippet>

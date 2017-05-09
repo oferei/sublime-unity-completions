@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.IsAudioTrackEnabled(${1:trackIndex : ushort})]]></content>
+	<tabTrigger><![CDATA[VideoPlayer.IsAudioTrackEnabled]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(trackIndex)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SetExpandedRecursive(${1:id as int}, ${2:expanded as bool})]]></content>
+	<tabTrigger><![CDATA[setExpandedRecursive]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TreeView.*(id, expanded)]]></description>
+</snippet>

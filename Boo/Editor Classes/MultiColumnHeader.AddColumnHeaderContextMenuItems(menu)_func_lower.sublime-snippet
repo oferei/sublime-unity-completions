@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.AddColumnHeaderContextMenuItems(${1:menu as GenericMenu})]]></content>
+	<tabTrigger><![CDATA[addColumnHeaderContextMenuItems]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MultiColumnHeader.*(menu)]]></description>
+</snippet>

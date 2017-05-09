@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.AddNavMeshData(${1:navMeshData as AI.NavMeshData})]]></content>
+	<tabTrigger><![CDATA[navMesh.AddNavMeshData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(navMeshData)]]></description>
+</snippet>

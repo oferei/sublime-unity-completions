@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Recorder.Get(${1:string samplerName})]]></content>
+	<tabTrigger><![CDATA[get]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Recorder.*(samplerName)]]></description>
+</snippet>

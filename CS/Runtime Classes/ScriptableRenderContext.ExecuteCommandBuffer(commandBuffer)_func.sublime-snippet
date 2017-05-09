@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.ExecuteCommandBuffer(${1:Rendering.CommandBuffer commandBuffer})]]></content>
+	<tabTrigger><![CDATA[ExecuteCommandBuffer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableRenderContext.*(commandBuffer)]]></description>
+</snippet>

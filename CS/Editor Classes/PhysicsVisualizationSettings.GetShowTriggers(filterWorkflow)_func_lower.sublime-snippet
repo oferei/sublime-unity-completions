@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowTriggers(${1:PhysicsVisualizationSettings.FilterWorkflow filterWorkflow})]]></content>
+	<tabTrigger><![CDATA[getShowTriggers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow)]]></description>
+</snippet>

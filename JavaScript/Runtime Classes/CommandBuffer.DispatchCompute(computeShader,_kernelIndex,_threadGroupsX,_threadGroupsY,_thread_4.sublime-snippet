@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DispatchCompute(${1:computeShader : ComputeShader}, ${2:kernelIndex : int}, ${3:threadGroupsX : int}, ${4:threadGroupsY : int}, ${5:threadGroupsZ : int})]]></content>
+	<tabTrigger><![CDATA[dispatchCompute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(computeShader, kernelIndex, threadGroupsX, threadGroupsY, threadGroupsZ)]]></description>
+</snippet>

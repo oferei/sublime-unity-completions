@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DynamicGI.UpdateMaterials(${1:Terrain terrain}, ${2:int x}, ${3:int y}, ${4:int width}, ${5:int height})]]></content>
-	<tabTrigger><![CDATA[UpdateMaterials]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[DynamicGI.*(terrain, x, y, width, height)]]></description>
-</snippet>

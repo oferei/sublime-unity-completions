@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainExtensions.UpdateGIMaterials(${1:Terrain terrain}, ${2:int x}, ${3:int y}, ${4:int width}, ${5:int height})]]></content>
+	<tabTrigger><![CDATA[TerrainExtensions.UpdateGIMaterials]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(terrain, x, y, width, height)]]></description>
+</snippet>

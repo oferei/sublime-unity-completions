@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Light.AddCommandBuffer(${1:evt as Rendering.LightEvent}, ${2:buffer as Rendering.CommandBuffer}, ${3:shadowPassMask as Rendering.ShadowMapPass})]]></content>
+	<tabTrigger><![CDATA[light.AddCommandBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(evt, buffer, shadowPassMask)]]></description>
+</snippet>

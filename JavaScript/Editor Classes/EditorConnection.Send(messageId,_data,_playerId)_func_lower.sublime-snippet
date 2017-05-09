@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorConnection.Send(${1:messageId : Guid}, ${2:data : byte[]}, ${3:playerId : int})]]></content>
+	<tabTrigger><![CDATA[send]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorConnection.*(messageId, data, playerId)]]></description>
+</snippet>

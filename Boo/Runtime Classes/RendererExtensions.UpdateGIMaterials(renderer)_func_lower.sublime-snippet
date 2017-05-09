@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RendererExtensions.UpdateGIMaterials(${1:renderer as Renderer})]]></content>
+	<tabTrigger><![CDATA[updateGIMaterials]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RendererExtensions.*(renderer)]]></description>
+</snippet>

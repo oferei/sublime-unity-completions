@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPreprocessBuild.OnPreprocessBuild(${1:target as BuildTarget}, ${2:path as string})]]></content>
+	<tabTrigger><![CDATA[OnPreprocessBuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IPreprocessBuild.*(target, path)]]></description>
+</snippet>

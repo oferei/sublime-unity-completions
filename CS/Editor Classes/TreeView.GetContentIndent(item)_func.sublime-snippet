@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetContentIndent(${1:IMGUI.Controls.TreeViewItem item})]]></content>
+	<tabTrigger><![CDATA[GetContentIndent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeView.*(item)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Editor.CreateCachedEditorWithContext(${1:Object targetObject}, ${2:Object context}, ${3:Type editorType}, ${4:ref Editor previousEditor})]]></content>
+	<tabTrigger><![CDATA[CreateCachedEditorWithContext]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Editor.*(targetObject, context, editorType, previousEditor)]]></description>
+</snippet>

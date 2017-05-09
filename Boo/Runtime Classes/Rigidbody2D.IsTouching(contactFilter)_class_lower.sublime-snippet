@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.IsTouching(${1:contactFilter as ContactFilter2D})]]></content>
+	<tabTrigger><![CDATA[rigidbody2D.IsTouching]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(contactFilter)]]></description>
+</snippet>

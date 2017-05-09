@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.SerializedPropertyCallbackFunction(${1:menu : GenericMenu}, ${2:property : SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[editorApplication.SerializedPropertyCallbackFunction]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(menu, property)]]></description>
+</snippet>

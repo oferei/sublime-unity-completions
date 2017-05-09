@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.NewSceneCreatedCallback(${1:scene as SceneManagement.Scene}, ${2:setup as SceneManagement.NewSceneSetup}, ${3:mode as SceneManagement.NewSceneMode})]]></content>
+	<tabTrigger><![CDATA[EditorSceneManager.NewSceneCreatedCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scene, setup, mode)]]></description>
+</snippet>

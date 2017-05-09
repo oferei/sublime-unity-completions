@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.ExecuteCommandBuffer(${1:commandBuffer as Rendering.CommandBuffer})]]></content>
+	<tabTrigger><![CDATA[ScriptableRenderContext.ExecuteCommandBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(commandBuffer)]]></description>
+</snippet>

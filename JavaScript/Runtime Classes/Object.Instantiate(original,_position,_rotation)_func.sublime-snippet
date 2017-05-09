@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Object.Instantiate(${1:original : Object}, ${2:position : Vector3}, ${3:rotation : Quaternion})]]></content>
+	<content><![CDATA[Object.Instantiate(${1:original : T}, ${2:position : Vector3}, ${3:rotation : Quaternion})]]></content>
 	<tabTrigger><![CDATA[Instantiate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Object.*(original, position, rotation)]]></description>

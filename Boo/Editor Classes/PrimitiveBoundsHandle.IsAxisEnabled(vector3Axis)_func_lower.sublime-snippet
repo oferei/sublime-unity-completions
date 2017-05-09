@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrimitiveBoundsHandle.IsAxisEnabled(${1:vector3Axis as int})]]></content>
+	<tabTrigger><![CDATA[isAxisEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrimitiveBoundsHandle.*(vector3Axis)]]></description>
+</snippet>

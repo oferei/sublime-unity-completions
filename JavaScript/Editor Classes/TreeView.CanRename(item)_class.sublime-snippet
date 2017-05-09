@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.CanRename(${1:item : IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[TreeView.CanRename]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(item)]]></description>
+</snippet>

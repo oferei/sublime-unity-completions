@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContactFilter2D.SetDepth(${1:float minDepth}, ${2:float maxDepth})]]></content>
+	<tabTrigger><![CDATA[contactFilter2D.SetDepth]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(minDepth, maxDepth)]]></description>
+</snippet>

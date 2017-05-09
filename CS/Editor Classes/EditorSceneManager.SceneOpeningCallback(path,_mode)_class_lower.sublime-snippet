@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SceneOpeningCallback(${1:string path}, ${2:SceneManagement.OpenSceneMode mode})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.SceneOpeningCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(path, mode)]]></description>
+</snippet>

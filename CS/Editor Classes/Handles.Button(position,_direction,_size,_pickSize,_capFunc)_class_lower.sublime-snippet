@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.Button(${1:Vector3 position}, ${2:Quaternion direction}, ${3:float size}, ${4:float pickSize}, ${5:Handles.DrawCapFunction capFunc})]]></content>
-	<tabTrigger><![CDATA[handles.Button]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(position, direction, size, pickSize, capFunc)]]></description>
-</snippet>

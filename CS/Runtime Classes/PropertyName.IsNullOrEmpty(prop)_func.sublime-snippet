@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyName.IsNullOrEmpty(${1:PropertyName prop})]]></content>
+	<tabTrigger><![CDATA[IsNullOrEmpty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PropertyName.*(prop)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalFloat(${1:string propertyName}, ${2:float value})]]></content>
-	<tabTrigger><![CDATA[SetGlobalFloat]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Shader.*(propertyName, value)]]></description>
-</snippet>

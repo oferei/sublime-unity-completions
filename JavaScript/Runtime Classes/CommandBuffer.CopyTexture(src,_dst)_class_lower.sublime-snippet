@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.CopyTexture(${1:src : Rendering.RenderTargetIdentifier}, ${2:dst : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.CopyTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(src, dst)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.BeginSample(${1:string name})]]></content>
+	<tabTrigger><![CDATA[beginSample]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(name)]]></description>
+</snippet>

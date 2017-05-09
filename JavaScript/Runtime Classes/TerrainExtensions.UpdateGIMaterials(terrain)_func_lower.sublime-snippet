@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainExtensions.UpdateGIMaterials(${1:terrain : Terrain})]]></content>
+	<tabTrigger><![CDATA[updateGIMaterials]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainExtensions.*(terrain)]]></description>
+</snippet>

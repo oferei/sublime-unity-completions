@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LogAssert.Expect(${1:type as LogType}, ${2:message as Regex})]]></content>
+	<tabTrigger><![CDATA[expect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LogAssert.*(type, message)]]></description>
+</snippet>

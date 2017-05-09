@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsOpenForEdit(${1:assetObject as Object}, ${2:StatusQueryOptions as StatusQueryOptions})]]></content>
+	<tabTrigger><![CDATA[IsOpenForEdit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(assetObject, StatusQueryOptions)]]></description>
+</snippet>

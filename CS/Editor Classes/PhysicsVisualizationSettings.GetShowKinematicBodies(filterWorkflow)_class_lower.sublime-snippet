@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowKinematicBodies(${1:PhysicsVisualizationSettings.FilterWorkflow filterWorkflow})]]></content>
+	<tabTrigger><![CDATA[physicsVisualizationSettings.GetShowKinematicBodies]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(filterWorkflow)]]></description>
+</snippet>

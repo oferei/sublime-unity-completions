@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.SetVector(${1:propertyName as string}, ${2:vector as Vector4})]]></content>
-	<tabTrigger><![CDATA[Material.SetVector]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(propertyName, vector)]]></description>
-</snippet>

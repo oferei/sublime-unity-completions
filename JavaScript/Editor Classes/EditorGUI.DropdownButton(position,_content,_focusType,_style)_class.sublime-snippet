@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DropdownButton(${1:position : Rect}, ${2:content : GUIContent}, ${3:focusType : FocusType}, ${4:style : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.DropdownButton]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, content, focusType, style)]]></description>
+</snippet>

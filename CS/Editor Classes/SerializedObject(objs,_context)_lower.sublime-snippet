@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedObject(${1:Object[] objs}, ${2:Object context})]]></content>
+	<tabTrigger><![CDATA[serializedObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(objs, context)]]></description>
+</snippet>

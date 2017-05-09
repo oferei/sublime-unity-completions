@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeaderState.CanOverwriteSerializedFields(${1:IMGUI.Controls.MultiColumnHeaderState source}, ${2:IMGUI.Controls.MultiColumnHeaderState destination})]]></content>
+	<tabTrigger><![CDATA[canOverwriteSerializedFields]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MultiColumnHeaderState.*(source, destination)]]></description>
+</snippet>

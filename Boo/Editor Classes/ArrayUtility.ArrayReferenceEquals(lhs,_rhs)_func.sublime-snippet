@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayUtility.ArrayReferenceEquals(${1:lhs as (T)}, ${2:rhs as (T)})]]></content>
+	<tabTrigger><![CDATA[ArrayReferenceEquals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ArrayUtility.*(lhs, rhs)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollRect.SetNormalizedPosition(${1:value : float}, ${2:axis : int})]]></content>
+	<tabTrigger><![CDATA[ScrollRect.SetNormalizedPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value, axis)]]></description>
+</snippet>

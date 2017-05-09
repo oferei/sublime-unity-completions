@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsRaycaster.ComputeRayAndDistance(${1:EventSystems.PointerEventData eventData}, ${2:out Ray ray}, ${3:out float distanceToClipPlane})]]></content>
+	<tabTrigger><![CDATA[physicsRaycaster.ComputeRayAndDistance]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(eventData, ray, distanceToClipPlane)]]></description>
+</snippet>

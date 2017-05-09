@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IProcessScene.OnProcessScene(${1:SceneManagement.Scene scene})]]></content>
+	<tabTrigger><![CDATA[OnProcessScene]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IProcessScene.*(scene)]]></description>
+</snippet>

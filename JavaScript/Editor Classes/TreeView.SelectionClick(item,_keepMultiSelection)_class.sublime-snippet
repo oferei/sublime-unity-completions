@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SelectionClick(${1:item : IMGUI.Controls.TreeViewItem}, ${2:keepMultiSelection : bool})]]></content>
+	<tabTrigger><![CDATA[TreeView.SelectionClick]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(item, keepMultiSelection)]]></description>
+</snippet>

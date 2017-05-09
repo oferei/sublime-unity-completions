@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.AddExpandedRows(${1:root : IMGUI.Controls.TreeViewItem}, ${2:rows : IList<TreeViewItem>})]]></content>
+	<tabTrigger><![CDATA[AddExpandedRows]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(root, rows)]]></description>
+</snippet>

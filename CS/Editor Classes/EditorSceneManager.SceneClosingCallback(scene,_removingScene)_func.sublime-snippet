@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SceneClosingCallback(${1:SceneManagement.Scene scene}, ${2:bool removingScene})]]></content>
+	<tabTrigger><![CDATA[SceneClosingCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(scene, removingScene)]]></description>
+</snippet>

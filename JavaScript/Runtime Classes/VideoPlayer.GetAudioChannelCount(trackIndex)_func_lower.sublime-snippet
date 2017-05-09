@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.GetAudioChannelCount(${1:trackIndex : ushort})]]></content>
+	<tabTrigger><![CDATA[getAudioChannelCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoPlayer.*(trackIndex)]]></description>
+</snippet>

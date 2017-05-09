@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.CanBeParent(${1:item : IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[CanBeParent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(item)]]></description>
+</snippet>

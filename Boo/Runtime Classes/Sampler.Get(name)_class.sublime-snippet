@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sampler.Get(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[Sampler.Get]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

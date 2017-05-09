@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetCustomRowHeight(${1:row as int}, ${2:item as IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[treeView.GetCustomRowHeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(row, item)]]></description>
+</snippet>

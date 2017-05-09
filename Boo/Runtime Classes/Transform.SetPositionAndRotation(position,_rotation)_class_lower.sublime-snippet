@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.SetPositionAndRotation(${1:position as Vector3}, ${2:rotation as Quaternion})]]></content>
+	<tabTrigger><![CDATA[transform.SetPositionAndRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, rotation)]]></description>
+</snippet>

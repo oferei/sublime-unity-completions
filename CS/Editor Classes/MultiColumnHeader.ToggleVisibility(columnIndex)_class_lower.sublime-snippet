@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.ToggleVisibility(${1:int columnIndex})]]></content>
+	<tabTrigger><![CDATA[multiColumnHeader.ToggleVisibility]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(columnIndex)]]></description>
+</snippet>

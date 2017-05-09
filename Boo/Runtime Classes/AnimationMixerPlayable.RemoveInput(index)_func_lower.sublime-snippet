@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationMixerPlayable.RemoveInput(${1:index as int})]]></content>
-	<tabTrigger><![CDATA[removeInput]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationMixerPlayable.*(index)]]></description>
-</snippet>

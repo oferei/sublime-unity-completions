@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.GetBool(${1:key : string}, ${2:defaultValue : bool})]]></content>
+	<tabTrigger><![CDATA[getBool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SessionState.*(key, defaultValue)]]></description>
+</snippet>

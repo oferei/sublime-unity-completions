@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeViewItem.AddChild(${1:IMGUI.Controls.TreeViewItem child})]]></content>
+	<tabTrigger><![CDATA[addChild]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeViewItem.*(child)]]></description>
+</snippet>

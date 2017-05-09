@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.FindRows(${1:ids as IList<int>})]]></content>
+	<tabTrigger><![CDATA[TreeView.FindRows]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ids)]]></description>
+</snippet>

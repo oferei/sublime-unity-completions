@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchor.SetNativeSpatialAnchorPtr(${1:spatialAnchorPtr : IntPtr})]]></content>
+	<tabTrigger><![CDATA[WorldAnchor.SetNativeSpatialAnchorPtr]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(spatialAnchorPtr)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.SelectionFrame(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float})]]></content>
-	<tabTrigger><![CDATA[SelectionFrame]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Handles.*(controlID, position, rotation, size)]]></description>
-</snippet>

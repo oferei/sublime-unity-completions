@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITestRunnerCallback.RunStarted(${1:suiteName as string}, ${2:testCount as int})]]></content>
-	<tabTrigger><![CDATA[iTestRunnerCallback.RunStarted]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(suiteName, testCount)]]></description>
-</snippet>

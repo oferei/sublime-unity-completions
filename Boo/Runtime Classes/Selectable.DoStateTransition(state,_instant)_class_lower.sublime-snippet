@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Selectable.DoStateTransition(${1:state as SelectionState}, ${2:instant as bool})]]></content>
+	<content><![CDATA[Selectable.DoStateTransition(${1:state as UI.Selectable.SelectionState}, ${2:instant as bool})]]></content>
 	<tabTrigger><![CDATA[selectable.DoStateTransition]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(state, instant)]]></description>

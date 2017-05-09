@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingParameters.GetCullingPlane(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetCullingPlane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullingParameters.*(index)]]></description>
+</snippet>

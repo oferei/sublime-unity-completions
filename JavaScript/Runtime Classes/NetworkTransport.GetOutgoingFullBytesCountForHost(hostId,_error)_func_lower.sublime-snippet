@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetOutgoingFullBytesCountForHost(${1:hostId : int}, ${2:error : out byte})]]></content>
+	<tabTrigger><![CDATA[getOutgoingFullBytesCountForHost]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NetworkTransport.*(hostId, error)]]></description>
+</snippet>

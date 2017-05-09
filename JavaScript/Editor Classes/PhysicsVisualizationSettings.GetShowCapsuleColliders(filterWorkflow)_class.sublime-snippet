@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowCapsuleColliders(${1:filterWorkflow : PhysicsVisualizationSettings.FilterWorkflow})]]></content>
+	<tabTrigger><![CDATA[PhysicsVisualizationSettings.GetShowCapsuleColliders]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(filterWorkflow)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.SetTextureScale(${1:propertyName : string}, ${2:scale : Vector2})]]></content>
-	<tabTrigger><![CDATA[setTextureScale]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Material.*(propertyName, scale)]]></description>
-</snippet>

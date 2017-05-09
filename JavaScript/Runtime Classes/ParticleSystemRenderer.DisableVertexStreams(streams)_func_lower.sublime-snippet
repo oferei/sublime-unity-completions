@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ParticleSystemRenderer.DisableVertexStreams(${1:streams : ParticleSystemVertexStreams})]]></content>
-	<tabTrigger><![CDATA[disableVertexStreams]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ParticleSystemRenderer.*(streams)]]></description>
-</snippet>

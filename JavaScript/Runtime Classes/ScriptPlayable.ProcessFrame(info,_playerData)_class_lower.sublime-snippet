@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptPlayable.ProcessFrame(${1:info : Experimental.Director.FrameData}, ${2:playerData : object})]]></content>
+	<tabTrigger><![CDATA[scriptPlayable.ProcessFrame]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(info, playerData)]]></description>
+</snippet>

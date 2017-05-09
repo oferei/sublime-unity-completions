@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.IsChildListForACollapsedParent(${1:childList as IList<TreeViewItem>})]]></content>
+	<tabTrigger><![CDATA[treeView.IsChildListForACollapsedParent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(childList)]]></description>
+</snippet>

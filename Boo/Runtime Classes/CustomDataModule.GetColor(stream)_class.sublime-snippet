@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomDataModule.GetColor(${1:stream as ParticleSystemCustomData})]]></content>
+	<tabTrigger><![CDATA[CustomDataModule.GetColor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.SetFloat(${1:string propertyName}, ${2:float value})]]></content>
-	<tabTrigger><![CDATA[setFloat]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Material.*(propertyName, value)]]></description>
-</snippet>

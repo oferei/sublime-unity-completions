@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.GetAudioLanguageCode(${1:trackIndex : ushort})]]></content>
+	<tabTrigger><![CDATA[GetAudioLanguageCode]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoPlayer.*(trackIndex)]]></description>
+</snippet>

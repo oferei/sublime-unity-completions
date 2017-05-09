@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.GetImplicitAssetBundleName(${1:assetPath as string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase.GetImplicitAssetBundleName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(assetPath)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.DestroyPlayable(${1:playable : Experimental.Director.PlayableHandle})]]></content>
+	<tabTrigger><![CDATA[PlayableGraph.DestroyPlayable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

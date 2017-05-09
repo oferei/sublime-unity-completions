@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExposedReference<T0>.Resolve(${1:resolver : ExposedPropertyResolver})]]></content>
+	<tabTrigger><![CDATA[resolve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ExposedReference<T0>.*(resolver)]]></description>
+</snippet>

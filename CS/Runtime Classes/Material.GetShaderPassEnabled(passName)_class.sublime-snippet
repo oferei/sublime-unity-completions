@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetShaderPassEnabled(${1:string passName})]]></content>
+	<tabTrigger><![CDATA[Material.GetShaderPassEnabled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(passName)]]></description>
+</snippet>

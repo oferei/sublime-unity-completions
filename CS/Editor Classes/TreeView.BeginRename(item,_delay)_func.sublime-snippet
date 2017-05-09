@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.BeginRename(${1:IMGUI.Controls.TreeViewItem item}, ${2:float delay})]]></content>
+	<tabTrigger><![CDATA[BeginRename]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeView.*(item, delay)]]></description>
+</snippet>

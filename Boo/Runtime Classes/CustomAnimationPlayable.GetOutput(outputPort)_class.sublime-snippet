@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CustomAnimationPlayable.GetOutput(${1:outputPort as int})]]></content>
-	<tabTrigger><![CDATA[CustomAnimationPlayable.GetOutput]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(outputPort)]]></description>
-</snippet>

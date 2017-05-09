@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetApiCompatibilityLevel(${1:buildTargetGroup : BuildTargetGroup})]]></content>
+	<tabTrigger><![CDATA[playerSettings.GetApiCompatibilityLevel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(buildTargetGroup)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DirectorPlayer.SetTime(${1:time as double})]]></content>
-	<tabTrigger><![CDATA[setTime]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[DirectorPlayer.*(time)]]></description>
-</snippet>

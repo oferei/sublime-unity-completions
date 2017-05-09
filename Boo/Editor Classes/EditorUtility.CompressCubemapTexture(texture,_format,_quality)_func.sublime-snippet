@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.CompressCubemapTexture(${1:texture as Cubemap}, ${2:format as TextureFormat}, ${3:quality as TextureCompressionQuality})]]></content>
+	<tabTrigger><![CDATA[CompressCubemapTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorUtility.*(texture, format, quality)]]></description>
+</snippet>

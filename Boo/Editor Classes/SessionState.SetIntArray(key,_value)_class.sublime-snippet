@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.SetIntArray(${1:key as string}, ${2:value as (int)})]]></content>
+	<tabTrigger><![CDATA[SessionState.SetIntArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(key, value)]]></description>
+</snippet>

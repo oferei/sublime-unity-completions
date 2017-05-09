@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.ErrorEventHandler(${1:source : Video.VideoPlayer}, ${2:message : string})]]></content>
+	<tabTrigger><![CDATA[errorEventHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoPlayer.*(source, message)]]></description>
+</snippet>

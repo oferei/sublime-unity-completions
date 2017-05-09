@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.FixupEmissiveFlag(${1:col as Color}, ${2:flags as MaterialGlobalIlluminationFlags})]]></content>
+	<tabTrigger><![CDATA[fixupEmissiveFlag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditor.*(col, flags)]]></description>
+</snippet>

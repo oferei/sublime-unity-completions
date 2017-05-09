@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Recorder.Get(${1:samplerName : string})]]></content>
+	<tabTrigger><![CDATA[Recorder.Get]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(samplerName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.EnableShaderKeyword(${1:keyword as string})]]></content>
+	<tabTrigger><![CDATA[enableShaderKeyword]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(keyword)]]></description>
+</snippet>

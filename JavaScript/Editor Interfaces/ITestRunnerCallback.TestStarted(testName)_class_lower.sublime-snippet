@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITestRunnerCallback.TestStarted(${1:testName : string})]]></content>
-	<tabTrigger><![CDATA[iTestRunnerCallback.TestStarted]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(testName)]]></description>
-</snippet>

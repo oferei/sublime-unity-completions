@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetRowRect(${1:row as int})]]></content>
+	<tabTrigger><![CDATA[getRowRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TreeView.*(row)]]></description>
+</snippet>

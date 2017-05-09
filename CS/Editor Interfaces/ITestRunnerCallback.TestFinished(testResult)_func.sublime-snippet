@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITestRunnerCallback.TestFinished(${1:EditorTests.ITestResult testResult})]]></content>
-	<tabTrigger><![CDATA[TestFinished]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ITestRunnerCallback.*(testResult)]]></description>
-</snippet>

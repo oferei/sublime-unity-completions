@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowCollisionLayerMask(${1:PhysicsVisualizationSettings.FilterWorkflow filterWorkflow})]]></content>
+	<tabTrigger><![CDATA[getShowCollisionLayerMask]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow)]]></description>
+</snippet>

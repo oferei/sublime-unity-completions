@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.EraseString(${1:string key})]]></content>
+	<tabTrigger><![CDATA[EraseString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SessionState.*(key)]]></description>
+</snippet>

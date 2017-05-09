@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.SetIntArray(${1:key : string}, ${2:value : int[]})]]></content>
+	<tabTrigger><![CDATA[SetIntArray]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SessionState.*(key, value)]]></description>
+</snippet>

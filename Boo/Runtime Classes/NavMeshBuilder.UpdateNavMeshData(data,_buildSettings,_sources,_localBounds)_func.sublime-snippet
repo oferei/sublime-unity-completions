@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshBuilder.UpdateNavMeshData(${1:data as AI.NavMeshData}, ${2:buildSettings as AI.NavMeshBuildSettings}, ${3:sources as List<NavMeshBuildSource>}, ${4:localBounds as Bounds})]]></content>
+	<tabTrigger><![CDATA[UpdateNavMeshData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMeshBuilder.*(data, buildSettings, sources, localBounds)]]></description>
+</snippet>

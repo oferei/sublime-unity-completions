@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableGraphExtensions.CreateAnimationMixerPlayable(${1:graph : Experimental.Director.PlayableGraph}, ${2:inputCount : int = 0}, ${3:normalizeWeights : bool = false})]]></content>
+	<tabTrigger><![CDATA[AnimationPlayableGraphExtensions.CreateAnimationMixerPlayable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(graph, inputCount, normalizeWeights)]]></description>
+</snippet>

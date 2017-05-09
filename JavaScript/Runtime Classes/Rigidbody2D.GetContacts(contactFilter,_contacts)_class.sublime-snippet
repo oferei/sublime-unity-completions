@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.GetContacts(${1:contactFilter : ContactFilter2D}, ${2:contacts : ContactPoint2D[]})]]></content>
+	<tabTrigger><![CDATA[Rigidbody2D.GetContacts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(contactFilter, contacts)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Batch.RunTests(${1:testRunnerCallback : EditorTests.ITestRunnerCallback}, ${2:nameFilter : string[]}, ${3:categoryFilter : string[]})]]></content>
-	<tabTrigger><![CDATA[RunTests]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Batch.*(testRunnerCallback, nameFilter, categoryFilter)]]></description>
-</snippet>

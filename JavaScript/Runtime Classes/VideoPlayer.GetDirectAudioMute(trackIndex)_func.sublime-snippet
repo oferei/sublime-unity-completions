@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.GetDirectAudioMute(${1:trackIndex : ushort})]]></content>
+	<tabTrigger><![CDATA[GetDirectAudioMute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VideoPlayer.*(trackIndex)]]></description>
+</snippet>

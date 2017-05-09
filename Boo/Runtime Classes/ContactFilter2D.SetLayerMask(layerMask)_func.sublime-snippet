@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContactFilter2D.SetLayerMask(${1:layerMask as LayerMask})]]></content>
+	<tabTrigger><![CDATA[SetLayerMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ContactFilter2D.*(layerMask)]]></description>
+</snippet>

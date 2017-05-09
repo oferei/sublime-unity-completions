@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQueryFilter.GetAreaCost(${1:areaIndex : int})]]></content>
+	<tabTrigger><![CDATA[NavMeshQueryFilter.GetAreaCost]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(areaIndex)]]></description>
+</snippet>

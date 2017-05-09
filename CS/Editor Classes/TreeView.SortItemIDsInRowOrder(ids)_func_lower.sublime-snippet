@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SortItemIDsInRowOrder(${1:IList<int> ids})]]></content>
+	<tabTrigger><![CDATA[sortItemIDsInRowOrder]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeView.*(ids)]]></description>
+</snippet>

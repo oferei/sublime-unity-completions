@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorConnection.RegisterDisconnection(${1:callback as UnityAction<int>})]]></content>
+	<tabTrigger><![CDATA[EditorConnection.RegisterDisconnection]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(callback)]]></description>
+</snippet>

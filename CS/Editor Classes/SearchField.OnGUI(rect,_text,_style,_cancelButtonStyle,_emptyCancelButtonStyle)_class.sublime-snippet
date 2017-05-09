@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SearchField.OnGUI(${1:Rect rect}, ${2:string text}, ${3:GUIStyle style}, ${4:GUIStyle cancelButtonStyle}, ${5:GUIStyle emptyCancelButtonStyle})]]></content>
+	<tabTrigger><![CDATA[SearchField.OnGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rect, text, style, cancelButtonStyle, emptyCancelButtonStyle)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshBuilder.BuildNavMeshData(${1:buildSettings as AI.NavMeshBuildSettings}, ${2:sources as List<NavMeshBuildSource>}, ${3:localBounds as Bounds}, ${4:position as Vector3}, ${5:rotation as Quaternion})]]></content>
+	<tabTrigger><![CDATA[NavMeshBuilder.BuildNavMeshData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(buildSettings, sources, localBounds, position, rotation)]]></description>
+</snippet>

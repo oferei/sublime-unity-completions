@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.FixupEmissiveFlag(${1:Material mat})]]></content>
+	<tabTrigger><![CDATA[FixupEmissiveFlag]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(mat)]]></description>
+</snippet>

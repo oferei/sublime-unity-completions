@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.ClosestPoint(${1:point : Vector3}, ${2:collider : Collider}, ${3:position : Vector3}, ${4:rotation : Quaternion})]]></content>
+	<tabTrigger><![CDATA[closestPoint]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics.*(point, collider, position, rotation)]]></description>
+</snippet>

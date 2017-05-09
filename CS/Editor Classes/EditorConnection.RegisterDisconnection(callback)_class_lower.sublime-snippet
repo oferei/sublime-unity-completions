@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorConnection.RegisterDisconnection(${1:UnityAction<int> callback})]]></content>
+	<tabTrigger><![CDATA[editorConnection.RegisterDisconnection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(callback)]]></description>
+</snippet>

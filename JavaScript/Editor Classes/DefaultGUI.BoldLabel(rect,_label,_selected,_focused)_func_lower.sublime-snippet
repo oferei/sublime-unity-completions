@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultGUI.BoldLabel(${1:rect : Rect}, ${2:label : string}, ${3:selected : bool}, ${4:focused : bool})]]></content>
+	<tabTrigger><![CDATA[boldLabel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DefaultGUI.*(rect, label, selected, focused)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Selection.SetActiveObjectWithContext(${1:obj : Object}, ${2:context : Object})]]></content>
+	<tabTrigger><![CDATA[SetActiveObjectWithContext]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Selection.*(obj, context)]]></description>
+</snippet>

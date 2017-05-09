@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.GetIntArray(${1:key as string}, ${2:defaultValue as (int)})]]></content>
+	<tabTrigger><![CDATA[getIntArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SessionState.*(key, defaultValue)]]></description>
+</snippet>

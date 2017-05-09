@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.GUIPointToScreenPixelCoordinate(${1:guiPoint as Vector2})]]></content>
+	<tabTrigger><![CDATA[GUIPointToScreenPixelCoordinate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HandleUtility.*(guiPoint)]]></description>
+</snippet>

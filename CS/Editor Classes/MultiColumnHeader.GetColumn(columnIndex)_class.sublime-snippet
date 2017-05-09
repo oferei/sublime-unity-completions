@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.GetColumn(${1:int columnIndex})]]></content>
+	<tabTrigger><![CDATA[MultiColumnHeader.GetColumn]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(columnIndex)]]></description>
+</snippet>

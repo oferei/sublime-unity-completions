@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShadowSplitData.SetCullingPlane(${1:index : int}, ${2:plane : Plane})]]></content>
+	<tabTrigger><![CDATA[setCullingPlane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ShadowSplitData.*(index, plane)]]></description>
+</snippet>

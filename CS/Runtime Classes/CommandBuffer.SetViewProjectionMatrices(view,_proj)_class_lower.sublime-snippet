@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetViewProjectionMatrices(${1:Matrix4x4 view}, ${2:Matrix4x4 proj})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetViewProjectionMatrices]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(view, proj)]]></description>
+</snippet>

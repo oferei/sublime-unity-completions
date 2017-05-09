@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableGraphExtensions.GetAnimationOutputCount(${1:graph as Experimental.Director.PlayableGraph})]]></content>
+	<tabTrigger><![CDATA[getAnimationOutputCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationPlayableGraphExtensions.*(graph)]]></description>
+</snippet>

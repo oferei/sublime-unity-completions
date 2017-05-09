@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrimitiveBoundsHandle.IsAxisEnabled(${1:axis as IMGUI.Controls.PrimitiveBoundsHandle.Axes})]]></content>
+	<tabTrigger><![CDATA[isAxisEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrimitiveBoundsHandle.*(axis)]]></description>
+</snippet>

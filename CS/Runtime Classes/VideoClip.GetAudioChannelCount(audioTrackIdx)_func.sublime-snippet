@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClip.GetAudioChannelCount(${1:ushort audioTrackIdx})]]></content>
+	<tabTrigger><![CDATA[GetAudioChannelCount]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VideoClip.*(audioTrackIdx)]]></description>
+</snippet>

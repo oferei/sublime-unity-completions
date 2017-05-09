@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SphericalHarmonicsL2.Evaluate(${1:directions as (Vector3)}, ${2:results as (Color)})]]></content>
+	<tabTrigger><![CDATA[SphericalHarmonicsL2.Evaluate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(directions, results)]]></description>
+</snippet>

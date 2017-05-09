@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Playable.Disconnect(${1:target : Experimental.Director.Playable}, ${2:inputPort : int})]]></content>
-	<tabTrigger><![CDATA[playable.Disconnect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(target, inputPort)]]></description>
-</snippet>

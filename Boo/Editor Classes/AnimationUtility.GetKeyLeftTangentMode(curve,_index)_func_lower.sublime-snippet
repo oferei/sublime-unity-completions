@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetKeyLeftTangentMode(${1:curve as AnimationCurve}, ${2:index as int})]]></content>
+	<tabTrigger><![CDATA[getKeyLeftTangentMode]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationUtility.*(curve, index)]]></description>
+</snippet>

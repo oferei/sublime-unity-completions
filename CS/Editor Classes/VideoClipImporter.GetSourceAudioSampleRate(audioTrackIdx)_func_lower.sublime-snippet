@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClipImporter.GetSourceAudioSampleRate(${1:ushort audioTrackIdx})]]></content>
+	<tabTrigger><![CDATA[getSourceAudioSampleRate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VideoClipImporter.*(audioTrackIdx)]]></description>
+</snippet>

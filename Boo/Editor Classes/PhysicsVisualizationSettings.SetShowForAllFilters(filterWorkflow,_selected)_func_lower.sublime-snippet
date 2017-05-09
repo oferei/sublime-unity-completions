@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowForAllFilters(${1:filterWorkflow as PhysicsVisualizationSettings.FilterWorkflow}, ${2:selected as bool})]]></content>
+	<tabTrigger><![CDATA[setShowForAllFilters]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow, selected)]]></description>
+</snippet>

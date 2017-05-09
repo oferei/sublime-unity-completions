@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.SetSortingColumns(${1:columnIndices : int[]}, ${2:sortAscending : bool[]})]]></content>
+	<tabTrigger><![CDATA[MultiColumnHeader.SetSortingColumns]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(columnIndices, sortAscending)]]></description>
+</snippet>

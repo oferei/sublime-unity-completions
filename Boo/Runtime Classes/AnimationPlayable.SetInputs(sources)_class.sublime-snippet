@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayable.SetInputs(${1:sources as IEnumerable<Playable>})]]></content>
-	<tabTrigger><![CDATA[AnimationPlayable.SetInputs]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(sources)]]></description>
-</snippet>

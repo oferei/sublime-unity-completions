@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomDataModule.GetMode(${1:stream as ParticleSystemCustomData})]]></content>
+	<tabTrigger><![CDATA[getMode]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CustomDataModule.*(stream)]]></description>
+</snippet>

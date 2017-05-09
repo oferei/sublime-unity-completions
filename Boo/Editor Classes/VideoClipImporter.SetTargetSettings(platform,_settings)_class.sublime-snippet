@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClipImporter.SetTargetSettings(${1:platform as string}, ${2:settings as VideoImporterTargetSettings})]]></content>
+	<tabTrigger><![CDATA[VideoClipImporter.SetTargetSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(platform, settings)]]></description>
+</snippet>

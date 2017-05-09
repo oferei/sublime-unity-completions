@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.AddLink(${1:link : AI.NavMeshLinkData})]]></content>
+	<tabTrigger><![CDATA[addLink]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMesh.*(link)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetKeyBroken(${1:AnimationCurve curve}, ${2:int index})]]></content>
+	<tabTrigger><![CDATA[GetKeyBroken]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationUtility.*(curve, index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Editor.CreateCachedEditorWithContext(${1:targetObject : Object}, ${2:context : Object}, ${3:editorType : Type}, ${4:previousEditor : ref Editor})]]></content>
+	<tabTrigger><![CDATA[CreateCachedEditorWithContext]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Editor.*(targetObject, context, editorType, previousEditor)]]></description>
+</snippet>

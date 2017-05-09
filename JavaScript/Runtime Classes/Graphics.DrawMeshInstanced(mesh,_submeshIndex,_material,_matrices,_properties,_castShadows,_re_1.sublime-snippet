@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawMeshInstanced(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:material : Material}, ${4:matrices : List<Matrix4x4>}, ${5:properties : MaterialPropertyBlock = null}, ${6:castShadows : Rendering.ShadowCastingMode = ShadowCastingMode.On}, ${7:receiveShadows : bool = true}, ${8:layer : int = 0}, ${9:camera : Camera = null})]]></content>
+	<tabTrigger><![CDATA[Graphics.DrawMeshInstanced]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(mesh, submeshIndex, material, matrices, properties, castShadows, receiveShadows, layer, camera)]]></description>
+</snippet>

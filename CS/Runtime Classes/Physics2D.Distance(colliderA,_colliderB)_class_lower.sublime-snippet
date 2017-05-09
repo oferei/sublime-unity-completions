@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.Distance(${1:Collider2D colliderA}, ${2:Collider2D colliderB})]]></content>
+	<tabTrigger><![CDATA[physics2D.Distance]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(colliderA, colliderB)]]></description>
+</snippet>

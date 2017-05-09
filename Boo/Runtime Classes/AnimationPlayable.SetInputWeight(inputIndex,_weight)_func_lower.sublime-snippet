@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayable.SetInputWeight(${1:inputIndex as int}, ${2:weight as single})]]></content>
-	<tabTrigger><![CDATA[setInputWeight]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationPlayable.*(inputIndex, weight)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.LookAt(${1:Vector3 from}, ${2:Vector3 to}, ${3:Vector3 up})]]></content>
+	<tabTrigger><![CDATA[LookAt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Matrix4x4.*(from, to, up)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.ConvertTexture(${1:src as Texture}, ${2:srcElement as int}, ${3:dst as Texture}, ${4:dstElement as int})]]></content>
+	<tabTrigger><![CDATA[convertTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Graphics.*(src, srcElement, dst, dstElement)]]></description>
+</snippet>

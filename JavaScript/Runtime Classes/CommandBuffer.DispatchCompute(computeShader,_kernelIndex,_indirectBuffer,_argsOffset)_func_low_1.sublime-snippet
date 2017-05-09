@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DispatchCompute(${1:computeShader : ComputeShader}, ${2:kernelIndex : int}, ${3:indirectBuffer : ComputeBuffer}, ${4:argsOffset : uint})]]></content>
+	<tabTrigger><![CDATA[dispatchCompute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(computeShader, kernelIndex, indirectBuffer, argsOffset)]]></description>
+</snippet>

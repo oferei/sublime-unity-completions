@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.AddLink(${1:link as AI.NavMeshLinkData})]]></content>
+	<tabTrigger><![CDATA[navMesh.AddLink]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(link)]]></description>
+</snippet>

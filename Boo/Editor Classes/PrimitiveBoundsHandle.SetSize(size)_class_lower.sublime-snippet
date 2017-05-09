@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrimitiveBoundsHandle.SetSize(${1:size as Vector3})]]></content>
+	<tabTrigger><![CDATA[primitiveBoundsHandle.SetSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(size)]]></description>
+</snippet>

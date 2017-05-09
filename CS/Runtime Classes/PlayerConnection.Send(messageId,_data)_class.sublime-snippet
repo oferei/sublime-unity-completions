@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerConnection.Send(${1:Guid messageId}, ${2:byte[] data})]]></content>
+	<tabTrigger><![CDATA[PlayerConnection.Send]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(messageId, data)]]></description>
+</snippet>

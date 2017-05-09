@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.GetInt(${1:string propertyName})]]></content>
-	<tabTrigger><![CDATA[material.GetInt]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(propertyName)]]></description>
-</snippet>

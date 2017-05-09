@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AvatarMask.SetHumanoidBodyPartActive(${1:Animations.AvatarMaskBodyPart index}, ${2:bool value})]]></content>
-	<tabTrigger><![CDATA[avatarMask.SetHumanoidBodyPartActive]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(index, value)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowCollisionLayer(${1:filterWorkflow as PhysicsVisualizationSettings.FilterWorkflow}, ${2:layer as int})]]></content>
+	<tabTrigger><![CDATA[getShowCollisionLayer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow, layer)]]></description>
+</snippet>

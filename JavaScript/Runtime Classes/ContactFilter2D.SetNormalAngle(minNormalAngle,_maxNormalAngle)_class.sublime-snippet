@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContactFilter2D.SetNormalAngle(${1:minNormalAngle : float}, ${2:maxNormalAngle : float})]]></content>
+	<tabTrigger><![CDATA[ContactFilter2D.SetNormalAngle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(minNormalAngle, maxNormalAngle)]]></description>
+</snippet>

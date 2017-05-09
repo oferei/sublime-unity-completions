@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetApplicationIdentifier(${1:targetGroup as BuildTargetGroup})]]></content>
+	<tabTrigger><![CDATA[GetApplicationIdentifier]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup)]]></description>
+</snippet>

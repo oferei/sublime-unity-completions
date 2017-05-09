@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.AddNavMeshData(${1:navMeshData as AI.NavMeshData}, ${2:position as Vector3}, ${3:rotation as Quaternion})]]></content>
+	<tabTrigger><![CDATA[NavMesh.AddNavMeshData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(navMeshData, position, rotation)]]></description>
+</snippet>

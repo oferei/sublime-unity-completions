@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWW(${1:url as string}, ${2:postData as (byte)})]]></content>
-	<tabTrigger><![CDATA[WWW]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(url, postData)]]></description>
-</snippet>

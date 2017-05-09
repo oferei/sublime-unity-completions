@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SphereBoundsHandle.OnHandleChanged(${1:IMGUI.Controls.PrimitiveBoundsHandle.HandleDirection handle}, ${2:Bounds boundsOnClick}, ${3:Bounds newBounds})]]></content>
+	<tabTrigger><![CDATA[OnHandleChanged]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SphereBoundsHandle.*(handle, boundsOnClick, newBounds)]]></description>
+</snippet>

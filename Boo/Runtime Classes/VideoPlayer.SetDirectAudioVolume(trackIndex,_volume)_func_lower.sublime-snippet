@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.SetDirectAudioVolume(${1:trackIndex as ushort}, ${2:volume as single})]]></content>
+	<tabTrigger><![CDATA[setDirectAudioVolume]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VideoPlayer.*(trackIndex, volume)]]></description>
+</snippet>

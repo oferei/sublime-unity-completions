@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerConnection.RegisterConnection(${1:UnityAction<int> callback})]]></content>
+	<tabTrigger><![CDATA[PlayerConnection.RegisterConnection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(callback)]]></description>
+</snippet>

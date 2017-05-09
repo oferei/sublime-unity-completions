@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CapsuleBoundsHandle.OnHandleChanged(${1:handle as IMGUI.Controls.PrimitiveBoundsHandle.HandleDirection}, ${2:boundsOnClick as Bounds}, ${3:newBounds as Bounds})]]></content>
+	<tabTrigger><![CDATA[OnHandleChanged]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CapsuleBoundsHandle.*(handle, boundsOnClick, newBounds)]]></description>
+</snippet>

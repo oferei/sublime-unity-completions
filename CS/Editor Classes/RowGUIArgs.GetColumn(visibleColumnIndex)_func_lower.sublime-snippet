@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RowGUIArgs.GetColumn(${1:int visibleColumnIndex})]]></content>
+	<tabTrigger><![CDATA[getColumn]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RowGUIArgs.*(visibleColumnIndex)]]></description>
+</snippet>

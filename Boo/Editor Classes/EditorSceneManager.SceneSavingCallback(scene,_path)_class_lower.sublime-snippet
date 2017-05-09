@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SceneSavingCallback(${1:scene as SceneManagement.Scene}, ${2:path as string})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.SceneSavingCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scene, path)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Editor.CreateEditorWithContext(${1:targetObjects as (Object)}, ${2:context as Object}, ${3:editorType as Type = null})]]></content>
+	<tabTrigger><![CDATA[createEditorWithContext]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Editor.*(targetObjects, context, editorType)]]></description>
+</snippet>

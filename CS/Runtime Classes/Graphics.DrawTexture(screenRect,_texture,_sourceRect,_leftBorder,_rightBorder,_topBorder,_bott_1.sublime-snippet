@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawTexture(${1:Rect screenRect}, ${2:Texture texture}, ${3:Rect sourceRect}, ${4:int leftBorder}, ${5:int rightBorder}, ${6:int topBorder}, ${7:int bottomBorder}, ${8:Material mat = null}, ${9:int pass = -1})]]></content>
+	<tabTrigger><![CDATA[Graphics.DrawTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(screenRect, texture, sourceRect, leftBorder, rightBorder, topBorder, bottomBorder, mat, pass)]]></description>
+</snippet>

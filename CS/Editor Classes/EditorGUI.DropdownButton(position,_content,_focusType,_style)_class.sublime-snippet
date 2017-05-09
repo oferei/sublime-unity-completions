@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DropdownButton(${1:Rect position}, ${2:GUIContent content}, ${3:FocusType focusType}, ${4:GUIStyle style})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.DropdownButton]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, content, focusType, style)]]></description>
+</snippet>

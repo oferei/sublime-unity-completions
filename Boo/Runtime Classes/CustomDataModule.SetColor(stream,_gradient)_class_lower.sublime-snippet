@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomDataModule.SetColor(${1:stream as ParticleSystemCustomData}, ${2:gradient as ParticleSystem.MinMaxGradient})]]></content>
+	<tabTrigger><![CDATA[customDataModule.SetColor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream, gradient)]]></description>
+</snippet>

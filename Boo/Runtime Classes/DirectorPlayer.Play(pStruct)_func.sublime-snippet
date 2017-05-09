@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DirectorPlayer.Play(${1:pStruct as Experimental.Director.Playable})]]></content>
-	<tabTrigger><![CDATA[Play]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[DirectorPlayer.*(pStruct)]]></description>
-</snippet>

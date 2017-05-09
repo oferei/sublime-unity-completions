@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalMatrixArray(${1:propertyName : string}, ${2:values : Matrix4x4[]})]]></content>
-	<tabTrigger><![CDATA[shader.SetGlobalMatrixArray]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(propertyName, values)]]></description>
-</snippet>

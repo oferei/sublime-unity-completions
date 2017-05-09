@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ModelImporterClipAnimation.ConfigureMaskFromClip(${1:mask : ref Animations.AvatarMask})]]></content>
+	<content><![CDATA[ModelImporterClipAnimation.ConfigureMaskFromClip(${1:mask : ref AvatarMask})]]></content>
 	<tabTrigger><![CDATA[modelImporterClipAnimation.ConfigureMaskFromClip]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(mask)]]></description>

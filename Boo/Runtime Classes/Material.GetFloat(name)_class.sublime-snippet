@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetFloat(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[Material.GetFloat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

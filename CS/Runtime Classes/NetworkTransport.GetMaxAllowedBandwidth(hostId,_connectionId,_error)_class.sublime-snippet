@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.GetMaxAllowedBandwidth(${1:int hostId}, ${2:int connectionId}, ${3:out byte error})]]></content>
+	<tabTrigger><![CDATA[NetworkTransport.GetMaxAllowedBandwidth]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(hostId, connectionId, error)]]></description>
+</snippet>

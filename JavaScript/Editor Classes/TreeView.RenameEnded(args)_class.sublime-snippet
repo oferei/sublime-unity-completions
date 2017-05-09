@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.RenameEnded(${1:args : IMGUI.Controls.TreeView.RenameEndedArgs})]]></content>
+	<tabTrigger><![CDATA[TreeView.RenameEnded]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(args)]]></description>
+</snippet>

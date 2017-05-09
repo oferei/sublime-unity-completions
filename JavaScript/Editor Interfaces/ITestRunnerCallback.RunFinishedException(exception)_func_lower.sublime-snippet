@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ITestRunnerCallback.RunFinishedException(${1:exception : Exception})]]></content>
-	<tabTrigger><![CDATA[runFinishedException]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ITestRunnerCallback.*(exception)]]></description>
-</snippet>

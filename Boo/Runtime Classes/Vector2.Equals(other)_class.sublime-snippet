@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.Equals(${1:other as object})]]></content>
+	<tabTrigger><![CDATA[Vector2.Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

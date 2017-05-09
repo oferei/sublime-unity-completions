@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.IsChildListForACollapsedParent(${1:childList : IList<TreeViewItem>})]]></content>
+	<tabTrigger><![CDATA[TreeView.IsChildListForACollapsedParent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(childList)]]></description>
+</snippet>

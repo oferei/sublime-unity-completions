@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.ArrowCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float})]]></content>
-	<tabTrigger><![CDATA[ArrowCap]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Handles.*(controlID, position, rotation, size)]]></description>
-</snippet>

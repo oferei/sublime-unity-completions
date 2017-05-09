@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CustomAnimationPlayable.OnSetPlayState(${1:newState : Experimental.Director.PlayState})]]></content>
-	<tabTrigger><![CDATA[OnSetPlayState]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[CustomAnimationPlayable.*(newState)]]></description>
-</snippet>

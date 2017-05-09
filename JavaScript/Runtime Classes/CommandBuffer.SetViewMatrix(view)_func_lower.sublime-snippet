@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetViewMatrix(${1:view : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[setViewMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(view)]]></description>
+</snippet>

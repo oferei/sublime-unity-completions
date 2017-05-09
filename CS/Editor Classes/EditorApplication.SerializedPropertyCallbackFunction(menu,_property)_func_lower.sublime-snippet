@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.SerializedPropertyCallbackFunction(${1:GenericMenu menu}, ${2:SerializedProperty property})]]></content>
+	<tabTrigger><![CDATA[serializedPropertyCallbackFunction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorApplication.*(menu, property)]]></description>
+</snippet>

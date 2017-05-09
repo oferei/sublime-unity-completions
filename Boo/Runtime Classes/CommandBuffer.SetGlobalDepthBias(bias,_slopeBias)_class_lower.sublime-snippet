@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalDepthBias(${1:bias as single}, ${2:slopeBias as single})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetGlobalDepthBias]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(bias, slopeBias)]]></description>
+</snippet>

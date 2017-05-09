@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowRigidbodies(${1:filterWorkflow as PhysicsVisualizationSettings.FilterWorkflow})]]></content>
+	<tabTrigger><![CDATA[GetShowRigidbodies]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow)]]></description>
+</snippet>

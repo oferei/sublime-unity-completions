@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.OnGUI(${1:Rect rect})]]></content>
+	<tabTrigger><![CDATA[OnGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeView.*(rect)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.GetSettingsByIndex(${1:int index})]]></content>
+	<tabTrigger><![CDATA[navMesh.GetSettingsByIndex]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

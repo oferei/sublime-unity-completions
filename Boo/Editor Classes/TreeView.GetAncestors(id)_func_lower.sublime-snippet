@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetAncestors(${1:id as int})]]></content>
+	<tabTrigger><![CDATA[getAncestors]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TreeView.*(id)]]></description>
+</snippet>

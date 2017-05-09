@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetFirstAndLastVisibleRows(${1:firstRowVisible : out int}, ${2:lastRowVisible : out int})]]></content>
+	<tabTrigger><![CDATA[TreeView.GetFirstAndLastVisibleRows]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(firstRowVisible, lastRowVisible)]]></description>
+</snippet>

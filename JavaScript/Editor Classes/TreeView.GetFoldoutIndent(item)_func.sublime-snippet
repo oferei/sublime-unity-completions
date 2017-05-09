@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetFoldoutIndent(${1:item : IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[GetFoldoutIndent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(item)]]></description>
+</snippet>

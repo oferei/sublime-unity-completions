@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader(${1:state as IMGUI.Controls.MultiColumnHeaderState})]]></content>
+	<tabTrigger><![CDATA[multiColumnHeader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(state)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomDataModule.GetVectorComponentCount(${1:ParticleSystemCustomData stream})]]></content>
+	<tabTrigger><![CDATA[CustomDataModule.GetVectorComponentCount]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(stream)]]></description>
+</snippet>

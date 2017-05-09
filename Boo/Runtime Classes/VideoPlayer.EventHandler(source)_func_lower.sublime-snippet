@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.EventHandler(${1:source as Video.VideoPlayer})]]></content>
+	<tabTrigger><![CDATA[eventHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VideoPlayer.*(source)]]></description>
+</snippet>

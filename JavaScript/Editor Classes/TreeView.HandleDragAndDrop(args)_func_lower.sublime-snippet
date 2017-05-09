@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.HandleDragAndDrop(${1:args : IMGUI.Controls.TreeView.DragAndDropArgs})]]></content>
+	<tabTrigger><![CDATA[handleDragAndDrop]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(args)]]></description>
+</snippet>

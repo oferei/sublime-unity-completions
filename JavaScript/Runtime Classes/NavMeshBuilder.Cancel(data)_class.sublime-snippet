@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshBuilder.Cancel(${1:data : AI.NavMeshData})]]></content>
+	<tabTrigger><![CDATA[NavMeshBuilder.Cancel]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(data)]]></description>
+</snippet>

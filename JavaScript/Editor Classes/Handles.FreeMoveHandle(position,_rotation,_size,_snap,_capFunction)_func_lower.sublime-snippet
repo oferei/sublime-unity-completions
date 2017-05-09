@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.FreeMoveHandle(${1:position : Vector3}, ${2:rotation : Quaternion}, ${3:size : float}, ${4:snap : Vector3}, ${5:capFunction : Handles.CapFunction})]]></content>
+	<tabTrigger><![CDATA[freeMoveHandle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(position, rotation, size, snap, capFunction)]]></description>
+</snippet>

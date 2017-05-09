@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarMask.SetHumanoidBodyPartActive(${1:index : AvatarMaskBodyPart}, ${2:value : bool})]]></content>
+	<tabTrigger><![CDATA[AvatarMask.SetHumanoidBodyPartActive]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

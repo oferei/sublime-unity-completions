@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture2D.EncodeToEXR(${1:flags : Texture2D.EXRFlags = EXRFlags.None})]]></content>
+	<tabTrigger><![CDATA[encodeToEXR]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Texture2D.*(flags)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.IsSortedAscending(${1:int columnIndex})]]></content>
+	<tabTrigger><![CDATA[isSortedAscending]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MultiColumnHeader.*(columnIndex)]]></description>
+</snippet>

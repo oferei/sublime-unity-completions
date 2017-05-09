@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetMatrix(${1:nameID : int}, ${2:value : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[material.SetMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, value)]]></description>
+</snippet>

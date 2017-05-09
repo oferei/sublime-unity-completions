@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.RowGUI(${1:args : IMGUI.Controls.TreeView.RowGUIArgs})]]></content>
+	<tabTrigger><![CDATA[TreeView.RowGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(args)]]></description>
+</snippet>

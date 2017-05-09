@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.IsMetaFileOpenForEdit(${1:Object assetObject}, ${2:out string message}, ${3:StatusQueryOptions statusOptions})]]></content>
+	<tabTrigger><![CDATA[IsMetaFileOpenForEdit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(assetObject, message, statusOptions)]]></description>
+</snippet>

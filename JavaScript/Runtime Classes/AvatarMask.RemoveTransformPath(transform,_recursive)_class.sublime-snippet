@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AvatarMask.RemoveTransformPath(${1:transform : Transform}, ${2:recursive : bool = true})]]></content>
+	<tabTrigger><![CDATA[AvatarMask.RemoveTransformPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(transform, recursive)]]></description>
+</snippet>

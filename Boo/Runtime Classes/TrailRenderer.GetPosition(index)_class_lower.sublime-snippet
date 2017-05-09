@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrailRenderer.GetPosition(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[trailRenderer.GetPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

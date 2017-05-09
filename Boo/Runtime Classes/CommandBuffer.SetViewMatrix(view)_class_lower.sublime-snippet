@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetViewMatrix(${1:view as Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetViewMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(view)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.DrawSkybox(${1:Camera camera})]]></content>
+	<tabTrigger><![CDATA[DrawSkybox]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableRenderContext.*(camera)]]></description>
+</snippet>

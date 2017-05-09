@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.GetScriptOutput(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetScriptOutput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableGraph.*(index)]]></description>
+</snippet>

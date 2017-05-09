@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SessionState.GetInt(${1:key : string}, ${2:defaultValue : int})]]></content>
+	<tabTrigger><![CDATA[getInt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SessionState.*(key, defaultValue)]]></description>
+</snippet>

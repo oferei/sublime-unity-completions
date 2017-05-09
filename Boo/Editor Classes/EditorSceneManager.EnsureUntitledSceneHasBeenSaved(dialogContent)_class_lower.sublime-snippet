@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.EnsureUntitledSceneHasBeenSaved(${1:dialogContent as string})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.EnsureUntitledSceneHasBeenSaved]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(dialogContent)]]></description>
+</snippet>

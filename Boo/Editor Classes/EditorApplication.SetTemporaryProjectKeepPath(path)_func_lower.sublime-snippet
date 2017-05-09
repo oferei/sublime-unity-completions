@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.SetTemporaryProjectKeepPath(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[setTemporaryProjectKeepPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorApplication.*(path)]]></description>
+</snippet>

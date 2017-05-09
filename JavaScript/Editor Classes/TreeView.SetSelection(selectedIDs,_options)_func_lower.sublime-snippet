@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SetSelection(${1:selectedIDs : IList<int>}, ${2:options : IMGUI.Controls.TreeViewSelectionOptions})]]></content>
+	<tabTrigger><![CDATA[setSelection]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(selectedIDs, options)]]></description>
+</snippet>

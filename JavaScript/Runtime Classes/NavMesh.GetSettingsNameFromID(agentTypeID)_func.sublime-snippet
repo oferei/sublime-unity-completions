@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.GetSettingsNameFromID(${1:agentTypeID : int})]]></content>
+	<tabTrigger><![CDATA[GetSettingsNameFromID]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMesh.*(agentTypeID)]]></description>
+</snippet>

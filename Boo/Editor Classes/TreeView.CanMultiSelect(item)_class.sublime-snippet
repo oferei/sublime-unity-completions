@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.CanMultiSelect(${1:item as IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[TreeView.CanMultiSelect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(item)]]></description>
+</snippet>

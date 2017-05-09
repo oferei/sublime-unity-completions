@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomSampler.Begin(${1:Object targetObject})]]></content>
+	<tabTrigger><![CDATA[CustomSampler.Begin]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetObject)]]></description>
+</snippet>

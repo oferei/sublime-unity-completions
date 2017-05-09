@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.SetInt(${1:propertyName as string}, ${2:value as int})]]></content>
-	<tabTrigger><![CDATA[material.SetInt]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(propertyName, value)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMode.AddPropertyModification(${1:EditorCurveBinding binding}, ${2:PropertyModification modification}, ${3:bool keepPrefabOverride})]]></content>
+	<tabTrigger><![CDATA[animationMode.AddPropertyModification]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(binding, modification, keepPrefabOverride)]]></description>
+</snippet>

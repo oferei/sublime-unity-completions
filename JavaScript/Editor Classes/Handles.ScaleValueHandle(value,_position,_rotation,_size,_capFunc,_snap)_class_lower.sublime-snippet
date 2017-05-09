@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.ScaleValueHandle(${1:value : float}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float}, ${5:capFunc : Handles.DrawCapFunction}, ${6:snap : float})]]></content>
-	<tabTrigger><![CDATA[handles.ScaleValueHandle]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(value, position, rotation, size, capFunc, snap)]]></description>
-</snippet>

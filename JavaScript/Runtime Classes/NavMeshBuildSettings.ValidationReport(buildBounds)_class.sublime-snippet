@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshBuildSettings.ValidationReport(${1:buildBounds : Bounds})]]></content>
+	<tabTrigger><![CDATA[NavMeshBuildSettings.ValidationReport]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(buildBounds)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableHandle.GetInputWeight(${1:inputIndex as int})]]></content>
+	<tabTrigger><![CDATA[playableHandle.GetInputWeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inputIndex)]]></description>
+</snippet>

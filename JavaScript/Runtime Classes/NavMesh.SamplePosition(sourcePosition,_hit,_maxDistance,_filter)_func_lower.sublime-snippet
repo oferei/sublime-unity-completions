@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMesh.SamplePosition(${1:sourcePosition : Vector3}, ${2:hit : out AI.NavMeshHit}, ${3:maxDistance : float}, ${4:filter : AI.NavMeshQueryFilter})]]></content>
+	<tabTrigger><![CDATA[samplePosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMesh.*(sourcePosition, hit, maxDistance, filter)]]></description>
+</snippet>

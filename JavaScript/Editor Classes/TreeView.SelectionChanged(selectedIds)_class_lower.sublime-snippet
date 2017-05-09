@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SelectionChanged(${1:selectedIds : IList<int>})]]></content>
+	<tabTrigger><![CDATA[treeView.SelectionChanged]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(selectedIds)]]></description>
+</snippet>

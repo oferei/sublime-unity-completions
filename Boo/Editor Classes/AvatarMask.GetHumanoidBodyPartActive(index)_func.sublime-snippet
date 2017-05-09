@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AvatarMask.GetHumanoidBodyPartActive(${1:index as Animations.AvatarMaskBodyPart})]]></content>
-	<tabTrigger><![CDATA[GetHumanoidBodyPartActive]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AvatarMask.*(index)]]></description>
-</snippet>

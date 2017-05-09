@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullResults.GetCullingParameters(${1:camera : Camera}, ${2:cullingParameters : out Experimental.Rendering.CullingParameters})]]></content>
+	<tabTrigger><![CDATA[CullResults.GetCullingParameters]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(camera, cullingParameters)]]></description>
+</snippet>

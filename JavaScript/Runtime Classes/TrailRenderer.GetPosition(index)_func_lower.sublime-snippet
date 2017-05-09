@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrailRenderer.GetPosition(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[getPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TrailRenderer.*(index)]]></description>
+</snippet>

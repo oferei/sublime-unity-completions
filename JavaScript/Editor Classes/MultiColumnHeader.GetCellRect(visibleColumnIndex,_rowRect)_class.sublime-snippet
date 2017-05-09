@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.GetCellRect(${1:visibleColumnIndex : int}, ${2:rowRect : Rect})]]></content>
+	<tabTrigger><![CDATA[MultiColumnHeader.GetCellRect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(visibleColumnIndex, rowRect)]]></description>
+</snippet>

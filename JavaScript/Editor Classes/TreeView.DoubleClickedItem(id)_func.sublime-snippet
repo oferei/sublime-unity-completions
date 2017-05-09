@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.DoubleClickedItem(${1:id : int})]]></content>
+	<tabTrigger><![CDATA[DoubleClickedItem]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(id)]]></description>
+</snippet>

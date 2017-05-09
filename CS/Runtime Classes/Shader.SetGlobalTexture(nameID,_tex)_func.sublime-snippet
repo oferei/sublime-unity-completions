@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalTexture(${1:int nameID}, ${2:Texture tex})]]></content>
-	<tabTrigger><![CDATA[SetGlobalTexture]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Shader.*(nameID, tex)]]></description>
-</snippet>

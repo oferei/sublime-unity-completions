@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.FreeMoveHandle(${1:position as Vector3}, ${2:rotation as Quaternion}, ${3:size as single}, ${4:snap as Vector3}, ${5:capFunc as Handles.DrawCapFunction})]]></content>
-	<tabTrigger><![CDATA[Handles.FreeMoveHandle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(position, rotation, size, snap, capFunc)]]></description>
-</snippet>

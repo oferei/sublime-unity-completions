@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.DropdownButton(${1:content as GUIContent}, ${2:focusType as FocusType}, ${3:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[dropdownButton]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(content, focusType, options)]]></description>
+</snippet>

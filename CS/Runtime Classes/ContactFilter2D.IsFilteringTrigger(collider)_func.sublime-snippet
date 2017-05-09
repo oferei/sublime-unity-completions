@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContactFilter2D.IsFilteringTrigger(${1:Collider2D collider})]]></content>
+	<tabTrigger><![CDATA[IsFilteringTrigger]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ContactFilter2D.*(collider)]]></description>
+</snippet>

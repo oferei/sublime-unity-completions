@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableGraphExtensions.CreateAnimationClipPlayable(${1:graph as Experimental.Director.PlayableGraph}, ${2:clip as AnimationClip})]]></content>
+	<tabTrigger><![CDATA[createAnimationClipPlayable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationPlayableGraphExtensions.*(graph, clip)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.FrameReadyEventHandler(${1:Video.VideoPlayer source}, ${2:long frameIdx})]]></content>
+	<tabTrigger><![CDATA[frameReadyEventHandler]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VideoPlayer.*(source, frameIdx)]]></description>
+</snippet>

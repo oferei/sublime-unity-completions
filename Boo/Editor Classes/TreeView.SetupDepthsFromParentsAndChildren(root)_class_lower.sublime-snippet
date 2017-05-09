@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SetupDepthsFromParentsAndChildren(${1:root as IMGUI.Controls.TreeViewItem})]]></content>
+	<tabTrigger><![CDATA[treeView.SetupDepthsFromParentsAndChildren]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(root)]]></description>
+</snippet>

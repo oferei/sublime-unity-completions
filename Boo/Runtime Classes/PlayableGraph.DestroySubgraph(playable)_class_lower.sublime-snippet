@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.DestroySubgraph(${1:playable as Experimental.Director.PlayableHandle})]]></content>
+	<tabTrigger><![CDATA[playableGraph.DestroySubgraph]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

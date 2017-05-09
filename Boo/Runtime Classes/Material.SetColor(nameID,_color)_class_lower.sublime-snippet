@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.SetColor(${1:nameID as int}, ${2:color as Color})]]></content>
-	<tabTrigger><![CDATA[material.SetColor]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(nameID, color)]]></description>
-</snippet>

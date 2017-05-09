@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.IsTouching(${1:contactFilter : ContactFilter2D})]]></content>
+	<tabTrigger><![CDATA[IsTouching]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Collider2D.*(contactFilter)]]></description>
+</snippet>

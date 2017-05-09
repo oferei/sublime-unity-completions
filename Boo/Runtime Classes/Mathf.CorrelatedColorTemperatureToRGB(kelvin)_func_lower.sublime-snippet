@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mathf.CorrelatedColorTemperatureToRGB(${1:kelvin as single})]]></content>
+	<tabTrigger><![CDATA[correlatedColorTemperatureToRGB]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mathf.*(kelvin)]]></description>
+</snippet>

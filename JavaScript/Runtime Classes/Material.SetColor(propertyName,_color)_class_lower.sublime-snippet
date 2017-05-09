@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.SetColor(${1:propertyName : string}, ${2:color : Color})]]></content>
-	<tabTrigger><![CDATA[material.SetColor]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(propertyName, color)]]></description>
-</snippet>

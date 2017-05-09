@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Material.GetFloat(${1:propertyName : string})]]></content>
-	<tabTrigger><![CDATA[GetFloat]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Material.*(propertyName)]]></description>
-</snippet>

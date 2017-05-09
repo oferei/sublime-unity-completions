@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Handles.CircleCap(${1:controlID : int}, ${2:position : Vector3}, ${3:rotation : Quaternion}, ${4:size : float})]]></content>
-	<tabTrigger><![CDATA[circleCap]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Handles.*(controlID, position, rotation, size)]]></description>
-</snippet>

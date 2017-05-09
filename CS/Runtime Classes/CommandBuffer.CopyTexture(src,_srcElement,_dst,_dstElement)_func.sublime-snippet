@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.CopyTexture(${1:Rendering.RenderTargetIdentifier src}, ${2:int srcElement}, ${3:Rendering.RenderTargetIdentifier dst}, ${4:int dstElement})]]></content>
+	<tabTrigger><![CDATA[CopyTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(src, srcElement, dst, dstElement)]]></description>
+</snippet>

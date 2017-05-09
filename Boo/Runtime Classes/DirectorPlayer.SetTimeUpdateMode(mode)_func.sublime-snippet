@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DirectorPlayer.SetTimeUpdateMode(${1:mode as Experimental.Director.DirectorUpdateMode})]]></content>
-	<tabTrigger><![CDATA[SetTimeUpdateMode]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[DirectorPlayer.*(mode)]]></description>
-</snippet>

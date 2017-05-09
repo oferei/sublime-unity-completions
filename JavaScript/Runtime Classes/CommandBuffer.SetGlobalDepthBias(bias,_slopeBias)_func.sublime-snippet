@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalDepthBias(${1:bias : float}, ${2:slopeBias : float})]]></content>
+	<tabTrigger><![CDATA[SetGlobalDepthBias]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(bias, slopeBias)]]></description>
+</snippet>

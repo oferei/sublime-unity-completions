@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MultiColumnHeader.SetSorting(${1:columnIndex as int}, ${2:sortAscending as bool})]]></content>
+	<tabTrigger><![CDATA[multiColumnHeader.SetSorting]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(columnIndex, sortAscending)]]></description>
+</snippet>

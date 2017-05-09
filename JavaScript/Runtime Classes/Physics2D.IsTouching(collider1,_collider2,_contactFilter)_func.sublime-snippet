@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.IsTouching(${1:collider1 : Collider2D}, ${2:collider2 : Collider2D}, ${3:contactFilter : ContactFilter2D})]]></content>
+	<tabTrigger><![CDATA[IsTouching]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics2D.*(collider1, collider2, contactFilter)]]></description>
+</snippet>

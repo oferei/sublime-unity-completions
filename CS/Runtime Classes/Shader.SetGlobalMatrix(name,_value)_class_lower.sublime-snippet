@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.SetGlobalMatrix(${1:string name}, ${2:Matrix4x4 value})]]></content>
+	<tabTrigger><![CDATA[shader.SetGlobalMatrix]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.Slider2D(${1:Vector3 handlePos}, ${2:Vector3 handleDir}, ${3:Vector3 slideDir1}, ${4:Vector3 slideDir2}, ${5:float handleSize}, ${6:Handles.CapFunction capFunction}, ${7:Vector2 snap}, ${8:bool drawHelper = false})]]></content>
+	<tabTrigger><![CDATA[slider2D]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Handles.*(handlePos, handleDir, slideDir1, slideDir2, handleSize, capFunction, snap, drawHelper)]]></description>
+</snippet>

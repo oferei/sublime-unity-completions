@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalVector(${1:propertyName as string}, ${2:vec as Vector4})]]></content>
-	<tabTrigger><![CDATA[setGlobalVector]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Shader.*(propertyName, vec)]]></description>
-</snippet>

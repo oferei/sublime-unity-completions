@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeViewItem(${1:int id}, ${2:int depth})]]></content>
+	<tabTrigger><![CDATA[treeViewItem]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id, depth)]]></description>
+</snippet>

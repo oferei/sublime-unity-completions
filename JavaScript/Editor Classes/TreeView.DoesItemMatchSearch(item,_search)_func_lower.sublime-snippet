@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.DoesItemMatchSearch(${1:item : IMGUI.Controls.TreeViewItem}, ${2:search : string})]]></content>
+	<tabTrigger><![CDATA[doesItemMatchSearch]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TreeView.*(item, search)]]></description>
+</snippet>

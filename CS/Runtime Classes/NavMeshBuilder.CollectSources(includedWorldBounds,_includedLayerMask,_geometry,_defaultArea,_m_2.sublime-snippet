@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshBuilder.CollectSources(${1:Bounds includedWorldBounds}, ${2:int includedLayerMask}, ${3:AI.NavMeshCollectGeometry geometry}, ${4:int defaultArea}, ${5:List<NavMeshBuildMarkup> markups}, ${6:List<NavMeshBuildSource> results})]]></content>
+	<tabTrigger><![CDATA[navMeshBuilder.CollectSources]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(includedWorldBounds, includedLayerMask, geometry, defaultArea, markups, results)]]></description>
+</snippet>
