@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetTilesBlock(${1:BoundsInt position}, ${2:TileBase[] tileArray})]]></content>
+	<tabTrigger><![CDATA[SetTilesBlock]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tilemap.*(position, tileArray)]]></description>
+</snippet>

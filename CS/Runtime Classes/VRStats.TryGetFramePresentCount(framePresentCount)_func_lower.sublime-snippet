@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VRStats.TryGetFramePresentCount(${1:out int framePresentCount})]]></content>
-	<tabTrigger><![CDATA[tryGetFramePresentCount]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VRStats.*(framePresentCount)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWW.LoadImageIntoTexture(${1:texture as Texture2D})]]></content>
+	<tabTrigger><![CDATA[LoadImageIntoTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WWW.*(texture)]]></description>
+</snippet>

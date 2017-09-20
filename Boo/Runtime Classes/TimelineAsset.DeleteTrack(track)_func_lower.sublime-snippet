@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TimelineAsset.DeleteTrack(${1:track as Timeline.TrackAsset})]]></content>
+	<tabTrigger><![CDATA[deleteTrack]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TimelineAsset.*(track)]]></description>
+</snippet>

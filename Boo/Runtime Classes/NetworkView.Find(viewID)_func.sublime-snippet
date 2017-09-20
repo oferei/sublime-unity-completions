@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkView.Find(${1:viewID as NetworkViewID})]]></content>
-	<tabTrigger><![CDATA[Find]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkView.*(viewID)]]></description>
-</snippet>

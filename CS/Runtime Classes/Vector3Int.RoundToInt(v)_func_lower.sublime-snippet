@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.RoundToInt(${1:Vector3 v})]]></content>
+	<tabTrigger><![CDATA[roundToInt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Vector3Int.*(v)]]></description>
+</snippet>

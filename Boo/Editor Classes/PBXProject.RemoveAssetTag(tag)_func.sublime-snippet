@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveAssetTag(${1:tag as string})]]></content>
+	<tabTrigger><![CDATA[RemoveAssetTag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PBXProject.*(tag)]]></description>
+</snippet>

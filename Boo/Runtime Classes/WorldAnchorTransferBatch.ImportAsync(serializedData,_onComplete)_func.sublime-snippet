@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorTransferBatch.ImportAsync(${1:serializedData as (byte)}, ${2:onComplete as VR.WSA.Sharing.WorldAnchorTransferBatch.DeserializationCompleteDelegate})]]></content>
+	<content><![CDATA[WorldAnchorTransferBatch.ImportAsync(${1:serializedData as (byte)}, ${2:onComplete as XR.WSA.Sharing.WorldAnchorTransferBatch.DeserializationCompleteDelegate})]]></content>
 	<tabTrigger><![CDATA[ImportAsync]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[WorldAnchorTransferBatch.*(serializedData, onComplete)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderPassAttachment(${1:fmt as RenderTextureFormat})]]></content>
+	<tabTrigger><![CDATA[RenderPassAttachment]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fmt)]]></description>
+</snippet>

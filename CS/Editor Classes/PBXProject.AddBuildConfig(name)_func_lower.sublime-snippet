@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddBuildConfig(${1:string name})]]></content>
+	<tabTrigger><![CDATA[addBuildConfig]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(name)]]></description>
+</snippet>

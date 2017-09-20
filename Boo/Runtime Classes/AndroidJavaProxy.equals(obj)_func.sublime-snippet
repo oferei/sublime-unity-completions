@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJavaProxy.equals(${1:obj as AndroidJavaObject})]]></content>
+	<tabTrigger><![CDATA[equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AndroidJavaProxy.*(obj)]]></description>
+</snippet>

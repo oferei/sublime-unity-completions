@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultBuildMethods.GetBuildPlayerOptions(${1:defaultBuildPlayerOptions as BuildPlayerOptions})]]></content>
+	<tabTrigger><![CDATA[GetBuildPlayerOptions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DefaultBuildMethods.*(defaultBuildPlayerOptions)]]></description>
+</snippet>

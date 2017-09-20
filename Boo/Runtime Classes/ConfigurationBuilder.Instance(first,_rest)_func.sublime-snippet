@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConfigurationBuilder.Instance(${1:first as Purchasing.Extension.IPurchasingModule}, ${2:rest as params (IPurchasingModule)})]]></content>
-	<tabTrigger><![CDATA[Instance]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ConfigurationBuilder.*(first, rest)]]></description>
-</snippet>

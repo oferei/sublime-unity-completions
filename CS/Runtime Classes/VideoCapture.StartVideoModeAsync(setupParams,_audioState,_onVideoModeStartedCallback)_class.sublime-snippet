@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.StartVideoModeAsync(${1:VR.WSA.WebCam.CameraParameters setupParams}, ${2:VR.WSA.WebCam.VideoCapture.AudioState audioState}, ${3:VR.WSA.WebCam.VideoCapture.OnVideoModeStartedCallback onVideoModeStartedCallback})]]></content>
+	<content><![CDATA[VideoCapture.StartVideoModeAsync(${1:XR.WSA.WebCam.CameraParameters setupParams}, ${2:XR.WSA.WebCam.VideoCapture.AudioState audioState}, ${3:XR.WSA.WebCam.VideoCapture.OnVideoModeStartedCallback onVideoModeStartedCallback})]]></content>
 	<tabTrigger><![CDATA[VideoCapture.StartVideoModeAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(setupParams, audioState, onVideoModeStartedCallback)]]></description>

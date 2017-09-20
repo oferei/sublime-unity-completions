@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUILayout.Toolbar(${1:selected as int}, ${2:contents as (GUIContent)}, ${3:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[Toolbar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GUILayout.*(selected, contents, options)]]></description>
+</snippet>

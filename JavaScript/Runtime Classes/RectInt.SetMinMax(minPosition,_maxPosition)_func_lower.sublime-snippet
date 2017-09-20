@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectInt.SetMinMax(${1:minPosition : Vector2Int}, ${2:maxPosition : Vector2Int})]]></content>
+	<tabTrigger><![CDATA[setMinMax]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RectInt.*(minPosition, maxPosition)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImportContext.AddSubAsset(${1:identifier as string}, ${2:asset as Object}, ${3:thumbnail as Texture2D})]]></content>
+	<tabTrigger><![CDATA[AssetImportContext.AddSubAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(identifier, asset, thumbnail)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.OnPlayableDestroy(${1:Playables.Playable playable})]]></content>
+	<tabTrigger><![CDATA[playableBehaviour.OnPlayableDestroy]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

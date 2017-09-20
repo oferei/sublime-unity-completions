@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PBXProject.UpdateBuildPropertyForConfig(${1:namelessParam as string}, ${2:namelessParam as string}, ${3:namelessParam as (string)}, ${4:namelessParam as (string)})]]></content>
-	<tabTrigger><![CDATA[PBXProject.UpdateBuildPropertyForConfig]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
-</snippet>

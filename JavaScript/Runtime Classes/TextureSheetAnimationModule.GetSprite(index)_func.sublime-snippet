@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureSheetAnimationModule.GetSprite(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetSprite]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextureSheetAnimationModule.*(index)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.OnVideoModeStartedCallback(${1:result as VR.WSA.WebCam.VideoCapture.VideoCaptureResult})]]></content>
+	<content><![CDATA[VideoCapture.OnVideoModeStartedCallback(${1:result as XR.WSA.WebCam.VideoCapture.VideoCaptureResult})]]></content>
 	<tabTrigger><![CDATA[videoCapture.OnVideoModeStartedCallback]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(result)]]></description>

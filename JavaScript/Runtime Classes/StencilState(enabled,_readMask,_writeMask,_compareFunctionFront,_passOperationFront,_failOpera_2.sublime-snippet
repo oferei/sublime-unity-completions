@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState(${1:enabled : bool}, ${2:readMask : byte}, ${3:writeMask : byte}, ${4:compareFunctionFront : Rendering.CompareFunction}, ${5:passOperationFront : Rendering.StencilOp}, ${6:failOperationFront : Rendering.StencilOp}, ${7:zFailOperationFront : Rendering.StencilOp}, ${8:compareFunctionBack : Rendering.CompareFunction}, ${9:passOperationBack : Rendering.StencilOp}, ${10:failOperationBack : Rendering.StencilOp}, ${11:zFailOperationBack : Rendering.StencilOp})]]></content>
+	<tabTrigger><![CDATA[stencilState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(enabled, readMask, writeMask, compareFunctionFront, passOperationFront, failOperationFront, zFailOperationFront, compareFunctionBack, passOperationBack, failOperationBack, zFailOperationBack)]]></description>
+</snippet>

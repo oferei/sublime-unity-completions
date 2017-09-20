@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Grid.InverseSwizzle(${1:swizzle : GridLayout.CellSwizzle}, ${2:position : Vector3})]]></content>
+	<tabTrigger><![CDATA[InverseSwizzle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Grid.*(swizzle, position)]]></description>
+</snippet>

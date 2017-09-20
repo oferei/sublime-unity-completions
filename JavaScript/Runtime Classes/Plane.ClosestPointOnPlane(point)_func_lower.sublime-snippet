@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane.ClosestPointOnPlane(${1:point : Vector3})]]></content>
+	<tabTrigger><![CDATA[closestPointOnPlane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Plane.*(point)]]></description>
+</snippet>

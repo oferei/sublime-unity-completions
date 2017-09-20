@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StyleValue<T0>.Create(${1:T value})]]></content>
+	<tabTrigger><![CDATA[styleValue<T0>.Create]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

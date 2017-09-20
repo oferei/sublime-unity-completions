@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectInt.ClampToBounds(${1:bounds : RectInt})]]></content>
+	<tabTrigger><![CDATA[rectInt.ClampToBounds]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(bounds)]]></description>
+</snippet>

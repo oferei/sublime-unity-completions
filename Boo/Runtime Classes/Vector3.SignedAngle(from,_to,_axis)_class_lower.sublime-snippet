@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.SignedAngle(${1:from as Vector3}, ${2:to as Vector3}, ${3:axis as Vector3})]]></content>
+	<tabTrigger><![CDATA[vector3.SignedAngle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(from, to, axis)]]></description>
+</snippet>

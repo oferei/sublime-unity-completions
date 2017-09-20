@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformUtils.GetInspectorRotation(${1:t : Transform})]]></content>
+	<tabTrigger><![CDATA[getInspectorRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TransformUtils.*(t)]]></description>
+</snippet>

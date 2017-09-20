@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Set(${1:newX : float}, ${2:newY : float}, ${3:newZ : float})]]></content>
+	<tabTrigger><![CDATA[Set]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector3.*(newX, newY, newZ)]]></description>
+</snippet>

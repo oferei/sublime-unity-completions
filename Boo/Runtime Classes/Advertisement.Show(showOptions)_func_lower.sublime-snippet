@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Advertisement.Show(${1:showOptions as Advertisements.ShowOptions})]]></content>
-	<tabTrigger><![CDATA[show]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Advertisement.*(showOptions)]]></description>
-</snippet>

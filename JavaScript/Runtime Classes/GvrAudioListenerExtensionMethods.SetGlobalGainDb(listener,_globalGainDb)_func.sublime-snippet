@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GvrAudioListenerExtensionMethods.SetGlobalGainDb(${1:listener : AudioListener}, ${2:globalGainDb : float})]]></content>
+	<tabTrigger><![CDATA[SetGlobalGainDb]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GvrAudioListenerExtensionMethods.*(listener, globalGainDb)]]></description>
+</snippet>

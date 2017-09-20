@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.Max(${1:lhs : Vector2Int}, ${2:rhs : Vector2Int})]]></content>
+	<tabTrigger><![CDATA[Max]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector2Int.*(lhs, rhs)]]></description>
+</snippet>

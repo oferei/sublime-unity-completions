@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArcHandle.SetColorWithoutRadiusHandle(${1:color : Color}, ${2:fillColorAlpha : float})]]></content>
+	<tabTrigger><![CDATA[setColorWithoutRadiusHandle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ArcHandle.*(color, fillColorAlpha)]]></description>
+</snippet>

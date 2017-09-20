@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayableGraph.DestroyOutput(${1:output as Experimental.Director.ScriptPlayableOutput})]]></content>
+	<content><![CDATA[PlayableGraph.DestroyOutput(${1:output as U})]]></content>
 	<tabTrigger><![CDATA[PlayableGraph.DestroyOutput]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(output)]]></description>

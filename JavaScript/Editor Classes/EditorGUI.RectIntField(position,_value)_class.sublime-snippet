@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.RectIntField(${1:position : Rect}, ${2:value : RectInt})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.RectIntField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, value)]]></description>
+</snippet>

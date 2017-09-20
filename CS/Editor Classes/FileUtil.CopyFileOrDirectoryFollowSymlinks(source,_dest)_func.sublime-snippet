@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileUtil.CopyFileOrDirectoryFollowSymlinks(${1:string source}, ${2:string dest})]]></content>
+	<tabTrigger><![CDATA[CopyFileOrDirectoryFollowSymlinks]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[FileUtil.*(source, dest)]]></description>
+</snippet>

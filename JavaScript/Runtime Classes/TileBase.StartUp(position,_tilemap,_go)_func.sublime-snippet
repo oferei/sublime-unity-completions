@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TileBase.StartUp(${1:position : Vector3Int}, ${2:tilemap : Tilemaps.ITilemap}, ${3:go : GameObject})]]></content>
+	<tabTrigger><![CDATA[StartUp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TileBase.*(position, tilemap, go)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorTransferBatch.AddWorldAnchor(${1:id as string}, ${2:anchor as VR.WSA.WorldAnchor})]]></content>
+	<content><![CDATA[WorldAnchorTransferBatch.AddWorldAnchor(${1:id as string}, ${2:anchor as XR.WSA.WorldAnchor})]]></content>
 	<tabTrigger><![CDATA[addWorldAnchor]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[WorldAnchorTransferBatch.*(id, anchor)]]></description>

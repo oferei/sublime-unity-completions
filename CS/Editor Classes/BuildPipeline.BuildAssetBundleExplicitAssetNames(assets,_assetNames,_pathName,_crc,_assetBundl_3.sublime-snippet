@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.BuildAssetBundleExplicitAssetNames(${1:Object[] assets}, ${2:string[] assetNames}, ${3:string pathName}, ${4:out uint crc}, ${5:BuildAssetBundleOptions assetBundleOptions}, ${6:BuildTarget targetPlatform})]]></content>
+	<tabTrigger><![CDATA[BuildAssetBundleExplicitAssetNames]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[BuildPipeline.*(assets, assetNames, pathName, crc, assetBundleOptions, targetPlatform)]]></description>
+</snippet>

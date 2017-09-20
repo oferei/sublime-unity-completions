@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundle.LoadFromStreamAsync(${1:stream as Stream}, ${2:crc as uint = 0}, ${3:managedReadBufferSize as uint = 0})]]></content>
+	<tabTrigger><![CDATA[loadFromStreamAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetBundle.*(stream, crc, managedReadBufferSize)]]></description>
+</snippet>

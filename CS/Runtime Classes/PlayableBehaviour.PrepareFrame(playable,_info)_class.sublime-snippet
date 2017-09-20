@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.PrepareFrame(${1:Playables.Playable playable}, ${2:Playables.FrameData info})]]></content>
+	<tabTrigger><![CDATA[PlayableBehaviour.PrepareFrame]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable, info)]]></description>
+</snippet>

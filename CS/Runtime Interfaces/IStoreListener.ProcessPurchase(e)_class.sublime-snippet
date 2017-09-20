@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreListener.ProcessPurchase(${1:Purchasing.PurchaseEventArgs e})]]></content>
-	<tabTrigger><![CDATA[IStoreListener.ProcessPurchase]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(e)]]></description>
-</snippet>

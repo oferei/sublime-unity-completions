@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullingParameters.GetLayerCullDistance(${1:int layerIndex})]]></content>
-	<tabTrigger><![CDATA[GetLayerCullDistance]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[CullingParameters.*(layerIndex)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Mesh.GetNativeVertexBufferPtr(${1:bufferIndex : int})]]></content>
-	<tabTrigger><![CDATA[GetNativeVertexBufferPtr]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Mesh.*(bufferIndex)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetAdditionalIl2CppArgs(${1:string additionalArgs})]]></content>
+	<tabTrigger><![CDATA[playerSettings.SetAdditionalIl2CppArgs]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(additionalArgs)]]></description>
+</snippet>

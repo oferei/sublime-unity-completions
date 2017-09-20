@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState(${1:enabled : bool}, ${2:readMask : byte}, ${3:writeMask : byte}, ${4:compareFunction : Rendering.CompareFunction}, ${5:passOperation : Rendering.StencilOp}, ${6:failOperation : Rendering.StencilOp}, ${7:zFailOperation : Rendering.StencilOp})]]></content>
+	<tabTrigger><![CDATA[StencilState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(enabled, readMask, writeMask, compareFunction, passOperation, failOperation, zFailOperation)]]></description>
+</snippet>

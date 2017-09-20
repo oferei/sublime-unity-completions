@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimatorControllerPlayable.SetFloat(${1:id : int}, ${2:value : float})]]></content>
-	<tabTrigger><![CDATA[animatorControllerPlayable.SetFloat]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(id, value)]]></description>
-</snippet>

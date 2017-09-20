@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetIconsForTargetGroup(${1:BuildTargetGroup platform}, ${2:IconKind kind = IconKind.Application})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.GetIconsForTargetGroup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(platform, kind)]]></description>
+</snippet>

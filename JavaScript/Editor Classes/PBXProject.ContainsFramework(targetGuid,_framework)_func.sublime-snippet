@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.ContainsFramework(${1:targetGuid : string}, ${2:framework : string})]]></content>
+	<tabTrigger><![CDATA[ContainsFramework]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(targetGuid, framework)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GestureRecognizer.HoldCompletedEventDelegate(${1:source : VR.WSA.Input.InteractionSourceKind}, ${2:headRay : Ray})]]></content>
+	<content><![CDATA[GestureRecognizer.HoldCompletedEventDelegate(${1:source : XR.WSA.Input.InteractionSourceKind}, ${2:headRay : Ray})]]></content>
 	<tabTrigger><![CDATA[HoldCompletedEventDelegate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GestureRecognizer.*(source, headRay)]]></description>

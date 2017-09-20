@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableDirector.SetGenericBinding(${1:key as Object}, ${2:value as Object})]]></content>
+	<tabTrigger><![CDATA[PlayableDirector.SetGenericBinding]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(key, value)]]></description>
+</snippet>

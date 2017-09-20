@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveBuildConfig(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[pBXProject.RemoveBuildConfig]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

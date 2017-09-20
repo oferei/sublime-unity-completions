@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrackColorAttribute(${1:r as single}, ${2:g as single}, ${3:b as single})]]></content>
+	<tabTrigger><![CDATA[trackColorAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(r, g, b)]]></description>
+</snippet>

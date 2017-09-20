@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddAssociatedDomains(${1:string[] domains})]]></content>
+	<tabTrigger><![CDATA[ProjectCapabilityManager.AddAssociatedDomains]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(domains)]]></description>
+</snippet>

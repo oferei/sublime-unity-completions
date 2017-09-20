@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.GetCacheAt(${1:int cacheIndex})]]></content>
+	<tabTrigger><![CDATA[caching.GetCacheAt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(cacheIndex)]]></description>
+</snippet>

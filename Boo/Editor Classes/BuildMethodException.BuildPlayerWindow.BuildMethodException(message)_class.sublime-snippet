@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildMethodException.BuildPlayerWindow.BuildMethodException(${1:message as string})]]></content>
+	<tabTrigger><![CDATA[BuildMethodException.BuildPlayerWindow.BuildMethodException]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(message)]]></description>
+</snippet>

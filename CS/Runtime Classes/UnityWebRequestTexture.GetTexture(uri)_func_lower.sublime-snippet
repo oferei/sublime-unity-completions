@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequestTexture.GetTexture(${1:string uri})]]></content>
+	<tabTrigger><![CDATA[getTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityWebRequestTexture.*(uri)]]></description>
+</snippet>

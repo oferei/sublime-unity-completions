@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushEditorBase.OnToolActivated(${1:tool : Tool})]]></content>
+	<tabTrigger><![CDATA[onToolActivated]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GridBrushEditorBase.*(tool)]]></description>
+</snippet>

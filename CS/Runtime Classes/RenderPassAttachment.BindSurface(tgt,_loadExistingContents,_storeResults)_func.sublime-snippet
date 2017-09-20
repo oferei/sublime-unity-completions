@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderPassAttachment.BindSurface(${1:Rendering.RenderTargetIdentifier tgt}, ${2:bool loadExistingContents}, ${3:bool storeResults})]]></content>
+	<tabTrigger><![CDATA[BindSurface]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RenderPassAttachment.*(tgt, loadExistingContents, storeResults)]]></description>
+</snippet>

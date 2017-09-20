@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrush.BoxErase(${1:gridLayout as GridLayout}, ${2:brushTarget as GameObject}, ${3:position as BoundsInt})]]></content>
+	<tabTrigger><![CDATA[gridBrush.BoxErase]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(gridLayout, brushTarget, position)]]></description>
+</snippet>

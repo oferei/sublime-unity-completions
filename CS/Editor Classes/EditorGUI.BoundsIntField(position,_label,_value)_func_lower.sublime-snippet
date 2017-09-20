@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.BoundsIntField(${1:Rect position}, ${2:GUIContent label}, ${3:BoundsInt value})]]></content>
+	<tabTrigger><![CDATA[boundsIntField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, label, value)]]></description>
+</snippet>

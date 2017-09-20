@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductDefinition(${1:id : string}, ${2:storeSpecificId : string}, ${3:type : Purchasing.ProductType})]]></content>
-	<tabTrigger><![CDATA[productDefinition]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(id, storeSpecificId, type)]]></description>
-</snippet>

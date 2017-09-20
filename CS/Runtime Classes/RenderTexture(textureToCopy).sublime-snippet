@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture(${1:RenderTexture textureToCopy})]]></content>
+	<tabTrigger><![CDATA[RenderTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(textureToCopy)]]></description>
+</snippet>

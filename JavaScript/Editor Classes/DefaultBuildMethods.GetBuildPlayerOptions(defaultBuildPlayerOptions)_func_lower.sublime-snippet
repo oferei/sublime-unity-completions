@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultBuildMethods.GetBuildPlayerOptions(${1:defaultBuildPlayerOptions : BuildPlayerOptions})]]></content>
+	<tabTrigger><![CDATA[getBuildPlayerOptions]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DefaultBuildMethods.*(defaultBuildPlayerOptions)]]></description>
+</snippet>

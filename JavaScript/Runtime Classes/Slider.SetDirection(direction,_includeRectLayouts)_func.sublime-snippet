@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Slider.SetDirection(${1:direction : UI.Scrollbar.Direction}, ${2:includeRectLayouts : bool})]]></content>
-	<tabTrigger><![CDATA[SetDirection]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Slider.*(direction, includeRectLayouts)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SourceAssetIdentifier.AssetImporter.SourceAssetIdentifier(${1:type as Type}, ${2:name as string})]]></content>
+	<tabTrigger><![CDATA[AssetImporter.SourceAssetIdentifier]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SourceAssetIdentifier.*(type, name)]]></description>
+</snippet>

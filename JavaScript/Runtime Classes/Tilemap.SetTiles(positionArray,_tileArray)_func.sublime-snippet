@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetTiles(${1:positionArray : Vector3Int[]}, ${2:tileArray : TileBase[]})]]></content>
+	<tabTrigger><![CDATA[SetTiles]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Tilemap.*(positionArray, tileArray)]]></description>
+</snippet>

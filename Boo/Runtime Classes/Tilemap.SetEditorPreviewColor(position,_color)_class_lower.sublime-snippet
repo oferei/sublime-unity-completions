@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetEditorPreviewColor(${1:position as Vector3Int}, ${2:color as Color})]]></content>
+	<tabTrigger><![CDATA[tilemap.SetEditorPreviewColor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, color)]]></description>
+</snippet>

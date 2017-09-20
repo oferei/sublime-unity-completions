@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendState(${1:separateMRTBlend : bool}, ${2:alphaToMask : bool})]]></content>
+	<tabTrigger><![CDATA[BlendState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(separateMRTBlend, alphaToMask)]]></description>
+</snippet>

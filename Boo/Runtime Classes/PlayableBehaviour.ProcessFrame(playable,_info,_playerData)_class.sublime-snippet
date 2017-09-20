@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.ProcessFrame(${1:playable as Playable}, ${2:info as FrameData}, ${3:playerData as Object})]]></content>
+	<tabTrigger><![CDATA[PlayableBehaviour.ProcessFrame]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(playable, info, playerData)]]></description>
+</snippet>

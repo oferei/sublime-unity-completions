@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.IsVersionCached(${1:string url}, ${2:Hash128 hash})]]></content>
+	<tabTrigger><![CDATA[caching.IsVersionCached]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(url, hash)]]></description>
+</snippet>

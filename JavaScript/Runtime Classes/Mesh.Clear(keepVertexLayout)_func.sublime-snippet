@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.Clear(${1:keepVertexLayout : bool = true})]]></content>
+	<content><![CDATA[Mesh.Clear(${1:keepVertexLayout : bool})]]></content>
 	<tabTrigger><![CDATA[Clear]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Mesh.*(keepVertexLayout)]]></description>

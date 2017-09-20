@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.GetFixedBufferElementAtIndex(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetFixedBufferElementAtIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SerializedProperty.*(index)]]></description>
+</snippet>

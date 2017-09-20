@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTextureDescriptor(${1:width as int}, ${2:height as int}, ${3:colorFormat as RenderTextureFormat}, ${4:depthBufferBits as int})]]></content>
+	<tabTrigger><![CDATA[RenderTextureDescriptor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, colorFormat, depthBufferBits)]]></description>
+</snippet>

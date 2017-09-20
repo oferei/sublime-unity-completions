@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeometryUtility.TryCreatePlaneFromPolygon(${1:vertices : Vector3[]}, ${2:plane : out Plane})]]></content>
+	<tabTrigger><![CDATA[GeometryUtility.TryCreatePlaneFromPolygon]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(vertices, plane)]]></description>
+</snippet>

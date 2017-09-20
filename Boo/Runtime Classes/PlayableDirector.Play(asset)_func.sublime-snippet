@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableDirector.Play(${1:asset as Playables.PlayableAsset})]]></content>
+	<tabTrigger><![CDATA[Play]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayableDirector.*(asset)]]></description>
+</snippet>

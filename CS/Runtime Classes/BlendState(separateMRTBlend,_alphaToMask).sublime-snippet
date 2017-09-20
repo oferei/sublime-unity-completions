@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlendState(${1:bool separateMRTBlend}, ${2:bool alphaToMask})]]></content>
+	<tabTrigger><![CDATA[BlendState]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(separateMRTBlend, alphaToMask)]]></description>
+</snippet>

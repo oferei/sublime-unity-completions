@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IAnimatorControllerPlayable.Play(${1:stateName : string}, ${2:layer : int}, ${3:normalizedTime : float})]]></content>
-	<tabTrigger><![CDATA[IAnimatorControllerPlayable.Play]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(stateName, layer, normalizedTime)]]></description>
-</snippet>

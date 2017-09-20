@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TileBase.RefreshTile(${1:position as Vector3Int}, ${2:tilemap as Tilemaps.ITilemap})]]></content>
+	<tabTrigger><![CDATA[tileBase.RefreshTile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, tilemap)]]></description>
+</snippet>

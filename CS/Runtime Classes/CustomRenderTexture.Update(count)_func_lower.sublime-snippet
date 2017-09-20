@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomRenderTexture.Update(${1:int count = 1})]]></content>
+	<tabTrigger><![CDATA[update]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CustomRenderTexture.*(count)]]></description>
+</snippet>

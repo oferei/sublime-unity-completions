@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayableGraphExtensions.GetAnimationOutput(${1:graph as Experimental.Director.PlayableGraph}, ${2:index as int})]]></content>
-	<tabTrigger><![CDATA[getAnimationOutput]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnimationPlayableGraphExtensions.*(graph, index)]]></description>
-</snippet>

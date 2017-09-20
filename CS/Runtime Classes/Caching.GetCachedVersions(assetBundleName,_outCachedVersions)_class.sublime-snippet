@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.GetCachedVersions(${1:string assetBundleName}, ${2:List<Hash128> outCachedVersions})]]></content>
+	<tabTrigger><![CDATA[Caching.GetCachedVersions]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(assetBundleName, outCachedVersions)]]></description>
+</snippet>

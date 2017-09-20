@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQuery<T0>.ForEach(${1:Func<T,T2> funcCall})]]></content>
+	<tabTrigger><![CDATA[ForEach]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UQuery<T0>.*(funcCall)]]></description>
+</snippet>

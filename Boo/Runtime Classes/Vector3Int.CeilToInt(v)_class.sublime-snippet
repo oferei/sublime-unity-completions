@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.CeilToInt(${1:v as Vector3})]]></content>
+	<tabTrigger><![CDATA[Vector3Int.CeilToInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

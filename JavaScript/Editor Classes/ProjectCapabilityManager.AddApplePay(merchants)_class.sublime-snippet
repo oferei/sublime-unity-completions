@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddApplePay(${1:merchants : string[]})]]></content>
+	<tabTrigger><![CDATA[ProjectCapabilityManager.AddApplePay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(merchants)]]></description>
+</snippet>

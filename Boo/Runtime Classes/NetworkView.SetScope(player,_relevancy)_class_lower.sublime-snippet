@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkView.SetScope(${1:player as NetworkPlayer}, ${2:relevancy as bool})]]></content>
-	<tabTrigger><![CDATA[networkView.SetScope]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(player, relevancy)]]></description>
-</snippet>

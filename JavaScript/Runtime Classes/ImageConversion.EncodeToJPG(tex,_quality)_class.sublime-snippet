@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageConversion.EncodeToJPG(${1:tex : Texture2D}, ${2:quality : int})]]></content>
+	<tabTrigger><![CDATA[ImageConversion.EncodeToJPG]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tex, quality)]]></description>
+</snippet>

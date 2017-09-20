@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStore.FinishTransaction(${1:product : Purchasing.ProductDefinition}, ${2:transactionId : string})]]></content>
-	<tabTrigger><![CDATA[FinishTransaction]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IStore.*(product, transactionId)]]></description>
-</snippet>

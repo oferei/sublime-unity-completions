@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IAnimatorControllerPlayable.PlayInFixedTime(${1:stateNameHash : int}, ${2:layer : int}, ${3:fixedTime : float})]]></content>
-	<tabTrigger><![CDATA[playInFixedTime]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IAnimatorControllerPlayable.*(stateNameHash, layer, fixedTime)]]></description>
-</snippet>

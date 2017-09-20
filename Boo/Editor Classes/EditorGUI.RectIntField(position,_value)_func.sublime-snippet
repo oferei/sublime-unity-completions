@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.RectIntField(${1:position as Rect}, ${2:value as RectInt})]]></content>
+	<tabTrigger><![CDATA[RectIntField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, value)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.ClearOtherCachedVersions(${1:assetBundleName as string}, ${2:hash as Hash128})]]></content>
+	<tabTrigger><![CDATA[Caching.ClearOtherCachedVersions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(assetBundleName, hash)]]></description>
+</snippet>

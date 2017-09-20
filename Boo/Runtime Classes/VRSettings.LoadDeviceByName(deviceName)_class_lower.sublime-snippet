@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VRSettings.LoadDeviceByName(${1:deviceName as string})]]></content>
-	<tabTrigger><![CDATA[vRSettings.LoadDeviceByName]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(deviceName)]]></description>
-</snippet>

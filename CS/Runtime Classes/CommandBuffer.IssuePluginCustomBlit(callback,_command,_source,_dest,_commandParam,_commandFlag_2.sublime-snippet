@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.IssuePluginCustomBlit(${1:IntPtr callback}, ${2:uint command}, ${3:Rendering.RenderTargetIdentifier source}, ${4:Rendering.RenderTargetIdentifier dest}, ${5:uint commandParam}, ${6:uint commandFlags})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.IssuePluginCustomBlit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(callback, command, source, dest, commandParam, commandFlags)]]></description>
+</snippet>

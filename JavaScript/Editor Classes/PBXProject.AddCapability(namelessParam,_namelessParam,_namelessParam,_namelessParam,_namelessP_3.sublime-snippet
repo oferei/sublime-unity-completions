@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddCapability(${1:namelessParam : string}, ${2:namelessParam : PBXCapabilityType}, ${3:namelessParam : string}, ${4:namelessParam : bool}, ${5:namelessParam : string})]]></content>
+	<tabTrigger><![CDATA[AddCapability]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(namelessParam, namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

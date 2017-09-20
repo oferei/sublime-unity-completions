@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetPlatformVuforiaEnabled(${1:BuildTargetGroup targetGroup})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.GetPlatformVuforiaEnabled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetGroup)]]></description>
+</snippet>

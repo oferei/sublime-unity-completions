@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IExposedPropertyTable.ClearReferenceValue(${1:id : PropertyName})]]></content>
+	<tabTrigger><![CDATA[clearReferenceValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IExposedPropertyTable.*(id)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.RoundToInt(${1:v as Vector3})]]></content>
+	<tabTrigger><![CDATA[vector3Int.RoundToInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

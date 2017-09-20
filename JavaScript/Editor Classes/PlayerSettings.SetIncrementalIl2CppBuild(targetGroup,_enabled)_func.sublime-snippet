@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetIncrementalIl2CppBuild(${1:targetGroup : BuildTargetGroup}, ${2:enabled : bool})]]></content>
+	<tabTrigger><![CDATA[SetIncrementalIl2CppBuild]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup, enabled)]]></description>
+</snippet>

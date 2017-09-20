@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldManager.OnPositionalLocatorStateChangedDelegate(${1:oldState as VR.WSA.PositionalLocatorState}, ${2:newState as VR.WSA.PositionalLocatorState})]]></content>
+	<content><![CDATA[WorldManager.OnPositionalLocatorStateChangedDelegate(${1:oldState as XR.WSA.PositionalLocatorState}, ${2:newState as XR.WSA.PositionalLocatorState})]]></content>
 	<tabTrigger><![CDATA[onPositionalLocatorStateChangedDelegate]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[WorldManager.*(oldState, newState)]]></description>

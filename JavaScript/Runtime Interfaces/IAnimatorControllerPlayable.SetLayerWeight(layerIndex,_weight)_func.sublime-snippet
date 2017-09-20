@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IAnimatorControllerPlayable.SetLayerWeight(${1:layerIndex : int}, ${2:weight : float})]]></content>
-	<tabTrigger><![CDATA[SetLayerWeight]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IAnimatorControllerPlayable.*(layerIndex, weight)]]></description>
-</snippet>

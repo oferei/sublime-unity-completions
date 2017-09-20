@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImportContext.SetMainAsset(${1:identifier as string}, ${2:asset as Object})]]></content>
+	<tabTrigger><![CDATA[AssetImportContext.SetMainAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(identifier, asset)]]></description>
+</snippet>

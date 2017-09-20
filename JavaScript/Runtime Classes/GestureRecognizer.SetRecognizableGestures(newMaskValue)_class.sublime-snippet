@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GestureRecognizer.SetRecognizableGestures(${1:newMaskValue : VR.WSA.Input.GestureSettings})]]></content>
+	<content><![CDATA[GestureRecognizer.SetRecognizableGestures(${1:newMaskValue : XR.WSA.Input.GestureSettings})]]></content>
 	<tabTrigger><![CDATA[GestureRecognizer.SetRecognizableGestures]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(newMaskValue)]]></description>

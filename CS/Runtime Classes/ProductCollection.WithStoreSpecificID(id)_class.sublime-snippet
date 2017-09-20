@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductCollection.WithStoreSpecificID(${1:string id})]]></content>
-	<tabTrigger><![CDATA[ProductCollection.WithStoreSpecificID]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(id)]]></description>
-</snippet>

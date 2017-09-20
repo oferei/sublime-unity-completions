@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.ObjectField(${1:obj as Object}, ${2:objType as Type}, ${3:options as params (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[objectField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUILayout.*(obj, objType, options)]]></description>
-</snippet>

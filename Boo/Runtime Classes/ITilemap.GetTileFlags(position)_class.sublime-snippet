@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ITilemap.GetTileFlags(${1:position as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[ITilemap.GetTileFlags]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

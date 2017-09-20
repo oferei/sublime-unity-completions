@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GvrAudioSourceExtensionMethods.SetBypassRoomEffects(${1:source as AudioSource}, ${2:bypassRoomEffects as bool})]]></content>
+	<tabTrigger><![CDATA[SetBypassRoomEffects]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GvrAudioSourceExtensionMethods.*(source, bypassRoomEffects)]]></description>
+</snippet>

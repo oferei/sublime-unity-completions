@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildMethodException.BuildPlayerWindow.BuildMethodException(${1:message : string})]]></content>
+	<tabTrigger><![CDATA[buildPlayerWindow.BuildMethodException]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BuildMethodException.*(message)]]></description>
+</snippet>

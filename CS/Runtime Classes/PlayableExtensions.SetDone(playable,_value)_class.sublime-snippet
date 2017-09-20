@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.SetDone(${1:U playable}, ${2:bool value})]]></content>
+	<tabTrigger><![CDATA[PlayableExtensions.SetDone]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable, value)]]></description>
+</snippet>

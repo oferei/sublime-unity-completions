@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrush.SetColor(${1:position as Vector3Int}, ${2:color as Color})]]></content>
+	<tabTrigger><![CDATA[SetColor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GridBrush.*(position, color)]]></description>
+</snippet>

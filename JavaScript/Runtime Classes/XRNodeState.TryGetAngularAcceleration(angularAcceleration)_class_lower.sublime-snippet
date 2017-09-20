@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRNodeState.TryGetAngularAcceleration(${1:angularAcceleration : out Vector3})]]></content>
+	<tabTrigger><![CDATA[xRNodeState.TryGetAngularAcceleration]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(angularAcceleration)]]></description>
+</snippet>

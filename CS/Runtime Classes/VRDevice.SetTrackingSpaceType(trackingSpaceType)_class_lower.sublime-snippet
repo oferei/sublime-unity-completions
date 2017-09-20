@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VRDevice.SetTrackingSpaceType(${1:VR.TrackingSpaceType trackingSpaceType})]]></content>
-	<tabTrigger><![CDATA[vRDevice.SetTrackingSpaceType]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(trackingSpaceType)]]></description>
-</snippet>

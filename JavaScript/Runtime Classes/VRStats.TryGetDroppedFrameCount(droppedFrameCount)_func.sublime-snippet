@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VRStats.TryGetDroppedFrameCount(${1:droppedFrameCount : out int})]]></content>
-	<tabTrigger><![CDATA[TryGetDroppedFrameCount]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VRStats.*(droppedFrameCount)]]></description>
-</snippet>

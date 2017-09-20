@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FileUtil.MoveFileOrDirectory(${1:from as string}, ${2:to as string})]]></content>
-	<tabTrigger><![CDATA[FileUtil.MoveFileOrDirectory]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(from, to)]]></description>
-</snippet>

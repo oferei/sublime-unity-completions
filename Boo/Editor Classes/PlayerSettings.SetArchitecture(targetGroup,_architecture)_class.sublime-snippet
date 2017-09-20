@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetArchitecture(${1:targetGroup as BuildTargetGroup}, ${2:architecture as int})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.SetArchitecture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGroup, architecture)]]></description>
+</snippet>

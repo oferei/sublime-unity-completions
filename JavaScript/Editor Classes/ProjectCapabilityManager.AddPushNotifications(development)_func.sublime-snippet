@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddPushNotifications(${1:development : bool})]]></content>
+	<tabTrigger><![CDATA[AddPushNotifications]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ProjectCapabilityManager.*(development)]]></description>
+</snippet>

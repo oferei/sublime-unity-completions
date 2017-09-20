@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Pose.GetTransformedBy(${1:Transform lhs})]]></content>
+	<tabTrigger><![CDATA[pose.GetTransformedBy]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(lhs)]]></description>
+</snippet>

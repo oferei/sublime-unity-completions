@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraProperties.SetCameraCullingPlane(${1:index : int}, ${2:plane : Plane})]]></content>
+	<tabTrigger><![CDATA[SetCameraCullingPlane]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CameraProperties.*(index, plane)]]></description>
+</snippet>

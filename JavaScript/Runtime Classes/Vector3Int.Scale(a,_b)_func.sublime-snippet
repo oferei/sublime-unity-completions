@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.Scale(${1:a : Vector3Int}, ${2:b : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[Scale]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector3Int.*(a, b)]]></description>
+</snippet>

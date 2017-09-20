@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.ContainsTile(${1:tileAsset as Tilemaps.TileBase})]]></content>
+	<tabTrigger><![CDATA[containsTile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Tilemap.*(tileAsset)]]></description>
+</snippet>

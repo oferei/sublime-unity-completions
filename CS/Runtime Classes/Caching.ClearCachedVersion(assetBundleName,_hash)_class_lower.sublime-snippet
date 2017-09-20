@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.ClearCachedVersion(${1:string assetBundleName}, ${2:Hash128 hash})]]></content>
+	<tabTrigger><![CDATA[caching.ClearCachedVersion]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(assetBundleName, hash)]]></description>
+</snippet>

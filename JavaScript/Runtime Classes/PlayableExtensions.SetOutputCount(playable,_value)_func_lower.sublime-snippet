@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.SetOutputCount(${1:playable : U}, ${2:value : int})]]></content>
+	<tabTrigger><![CDATA[setOutputCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableExtensions.*(playable, value)]]></description>
+</snippet>

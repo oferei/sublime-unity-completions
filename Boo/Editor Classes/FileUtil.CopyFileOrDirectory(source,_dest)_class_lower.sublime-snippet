@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FileUtil.CopyFileOrDirectory(${1:source as string}, ${2:dest as string})]]></content>
+	<tabTrigger><![CDATA[fileUtil.CopyFileOrDirectory]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(source, dest)]]></description>
+</snippet>

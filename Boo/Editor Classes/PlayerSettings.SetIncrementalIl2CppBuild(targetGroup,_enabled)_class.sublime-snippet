@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetIncrementalIl2CppBuild(${1:targetGroup as BuildTargetGroup}, ${2:enabled as bool})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.SetIncrementalIl2CppBuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGroup, enabled)]]></description>
+</snippet>

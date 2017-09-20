@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddTarget(${1:name : string}, ${2:ext : string}, ${3:type : string})]]></content>
+	<tabTrigger><![CDATA[AddTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(name, ext, type)]]></description>
+</snippet>

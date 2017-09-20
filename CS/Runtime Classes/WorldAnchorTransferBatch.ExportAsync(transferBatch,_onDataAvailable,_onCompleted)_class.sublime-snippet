@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorTransferBatch.ExportAsync(${1:VR.WSA.Sharing.WorldAnchorTransferBatch transferBatch}, ${2:VR.WSA.Sharing.WorldAnchorTransferBatch.SerializationDataAvailableDelegate onDataAvailable}, ${3:VR.WSA.Sharing.WorldAnchorTransferBatch.SerializationCompleteDelegate onCompleted})]]></content>
+	<content><![CDATA[WorldAnchorTransferBatch.ExportAsync(${1:XR.WSA.Sharing.WorldAnchorTransferBatch transferBatch}, ${2:XR.WSA.Sharing.WorldAnchorTransferBatch.SerializationDataAvailableDelegate onDataAvailable}, ${3:XR.WSA.Sharing.WorldAnchorTransferBatch.SerializationCompleteDelegate onCompleted})]]></content>
 	<tabTrigger><![CDATA[WorldAnchorTransferBatch.ExportAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(transferBatch, onDataAvailable, onCompleted)]]></description>

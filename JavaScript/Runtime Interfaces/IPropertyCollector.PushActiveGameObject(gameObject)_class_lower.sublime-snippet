@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPropertyCollector.PushActiveGameObject(${1:gameObject : GameObject})]]></content>
+	<tabTrigger><![CDATA[iPropertyCollector.PushActiveGameObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gameObject)]]></description>
+</snippet>

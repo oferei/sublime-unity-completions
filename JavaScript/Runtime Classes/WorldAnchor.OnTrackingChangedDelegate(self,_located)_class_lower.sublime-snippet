@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchor.OnTrackingChangedDelegate(${1:self : VR.WSA.WorldAnchor}, ${2:located : bool})]]></content>
+	<content><![CDATA[WorldAnchor.OnTrackingChangedDelegate(${1:self : XR.WSA.WorldAnchor}, ${2:located : bool})]]></content>
 	<tabTrigger><![CDATA[worldAnchor.OnTrackingChangedDelegate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(self, located)]]></description>

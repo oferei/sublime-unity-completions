@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionSourcePose.TryGetUp(${1:out Vector3 up}, ${2:XR.WSA.Input.InteractionSourceNode node})]]></content>
+	<tabTrigger><![CDATA[InteractionSourcePose.TryGetUp]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(up, node)]]></description>
+</snippet>

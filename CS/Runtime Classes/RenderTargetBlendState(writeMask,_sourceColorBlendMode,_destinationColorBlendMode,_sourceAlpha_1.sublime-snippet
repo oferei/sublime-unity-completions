@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetBlendState(${1:Rendering.ColorWriteMask writeMask}, ${2:Rendering.BlendMode sourceColorBlendMode}, ${3:Rendering.BlendMode destinationColorBlendMode}, ${4:Rendering.BlendMode sourceAlphaBlendMode}, ${5:Rendering.BlendMode destinationAlphaBlendMode}, ${6:Rendering.BlendOp colorBlendOperation}, ${7:Rendering.BlendOp alphaBlendOperation})]]></content>
+	<tabTrigger><![CDATA[RenderTargetBlendState]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(writeMask, sourceColorBlendMode, destinationColorBlendMode, sourceAlphaBlendMode, destinationAlphaBlendMode, colorBlendOperation, alphaBlendOperation)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.GetInputWeight(${1:playable : U}, ${2:inputIndex : int})]]></content>
+	<tabTrigger><![CDATA[playableExtensions.GetInputWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(playable, inputIndex)]]></description>
+</snippet>

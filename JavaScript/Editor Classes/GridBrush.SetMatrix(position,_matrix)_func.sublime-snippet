@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrush.SetMatrix(${1:position : Vector3Int}, ${2:matrix : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[SetMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GridBrush.*(position, matrix)]]></description>
+</snippet>

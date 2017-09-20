@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TimelineAsset.GetRootTrack(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[timelineAsset.GetRootTrack]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

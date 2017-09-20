@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InputTracking.GetLocalPosition(${1:node : VR.VRNode})]]></content>
+	<content><![CDATA[InputTracking.GetLocalPosition(${1:node : XR.XRNode})]]></content>
 	<tabTrigger><![CDATA[getLocalPosition]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[InputTracking.*(node)]]></description>

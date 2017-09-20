@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmissionModule.SetBurst(${1:index : int}, ${2:burst : ParticleSystem.Burst})]]></content>
+	<tabTrigger><![CDATA[SetBurst]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EmissionModule.*(index, burst)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Plane.GetDistanceToPoint(${1:inPt : Vector3})]]></content>
-	<tabTrigger><![CDATA[getDistanceToPoint]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Plane.*(inPt)]]></description>
-</snippet>

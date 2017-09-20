@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetInstantiatedObject(${1:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[tilemap.GetInstantiatedObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

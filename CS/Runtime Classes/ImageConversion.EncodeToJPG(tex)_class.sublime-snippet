@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageConversion.EncodeToJPG(${1:Texture2D tex})]]></content>
+	<tabTrigger><![CDATA[ImageConversion.EncodeToJPG]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(tex)]]></description>
+</snippet>

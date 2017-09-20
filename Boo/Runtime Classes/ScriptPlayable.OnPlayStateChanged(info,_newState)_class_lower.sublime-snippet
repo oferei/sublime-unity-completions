@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptPlayable.OnPlayStateChanged(${1:info as Experimental.Director.FrameData}, ${2:newState as Experimental.Director.PlayState})]]></content>
-	<tabTrigger><![CDATA[scriptPlayable.OnPlayStateChanged]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(info, newState)]]></description>
-</snippet>

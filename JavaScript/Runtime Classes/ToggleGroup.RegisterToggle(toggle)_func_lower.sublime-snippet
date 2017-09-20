@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleGroup.RegisterToggle(${1:toggle : UI.Toggle})]]></content>
-	<tabTrigger><![CDATA[registerToggle]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ToggleGroup.*(toggle)]]></description>
-</snippet>

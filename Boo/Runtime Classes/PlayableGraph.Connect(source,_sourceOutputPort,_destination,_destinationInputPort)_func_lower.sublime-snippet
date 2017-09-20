@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayableGraph.Connect(${1:source as Experimental.Director.Playable}, ${2:sourceOutputPort as int}, ${3:destination as Experimental.Director.Playable}, ${4:destinationInputPort as int})]]></content>
+	<content><![CDATA[PlayableGraph.Connect(${1:source as Playable}, ${2:sourceOutputPort as int}, ${3:destination as Playable}, ${4:destinationInputPort as int})]]></content>
 	<tabTrigger><![CDATA[connect]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[PlayableGraph.*(source, sourceOutputPort, destination, destinationInputPort)]]></description>

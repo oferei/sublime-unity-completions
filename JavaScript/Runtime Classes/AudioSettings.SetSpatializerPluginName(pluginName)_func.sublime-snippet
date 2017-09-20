@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSettings.SetSpatializerPluginName(${1:pluginName : string})]]></content>
+	<tabTrigger><![CDATA[SetSpatializerPluginName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AudioSettings.*(pluginName)]]></description>
+</snippet>

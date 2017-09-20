@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQuery<T0>.RebuildOn(${1:element : Experimental.UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[rebuildOn]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UQuery<T0>.*(element)]]></description>
+</snippet>

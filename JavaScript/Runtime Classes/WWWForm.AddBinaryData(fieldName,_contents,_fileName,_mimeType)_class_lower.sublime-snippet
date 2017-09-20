@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWWForm.AddBinaryData(${1:fieldName : string}, ${2:contents : byte[]}, ${3:fileName : string = null}, ${4:mimeType : string = null})]]></content>
+	<tabTrigger><![CDATA[wWWForm.AddBinaryData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(fieldName, contents, fileName, mimeType)]]></description>
+</snippet>

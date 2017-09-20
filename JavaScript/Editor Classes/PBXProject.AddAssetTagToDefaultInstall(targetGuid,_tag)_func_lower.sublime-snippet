@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddAssetTagToDefaultInstall(${1:targetGuid : string}, ${2:tag : string})]]></content>
+	<tabTrigger><![CDATA[addAssetTagToDefaultInstall]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(targetGuid, tag)]]></description>
+</snippet>

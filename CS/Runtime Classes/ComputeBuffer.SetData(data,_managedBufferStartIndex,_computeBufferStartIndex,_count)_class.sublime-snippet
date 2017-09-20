@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ComputeBuffer.SetData(${1:Array data}, ${2:int managedBufferStartIndex}, ${3:int computeBufferStartIndex}, ${4:int count})]]></content>
+	<tabTrigger><![CDATA[ComputeBuffer.SetData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(data, managedBufferStartIndex, computeBufferStartIndex, count)]]></description>
+</snippet>

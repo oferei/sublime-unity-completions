@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImporter.AddRemap(${1:identifier as AssetImporter.SourceAssetIdentifier}, ${2:externalObject as Object})]]></content>
+	<tabTrigger><![CDATA[AssetImporter.AddRemap]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(identifier, externalObject)]]></description>
+</snippet>

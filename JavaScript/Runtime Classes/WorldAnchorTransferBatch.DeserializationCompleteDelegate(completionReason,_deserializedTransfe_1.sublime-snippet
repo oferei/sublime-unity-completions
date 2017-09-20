@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorTransferBatch.DeserializationCompleteDelegate(${1:completionReason : VR.WSA.Sharing.SerializationCompletionReason}, ${2:deserializedTransferBatch : VR.WSA.Sharing.WorldAnchorTransferBatch})]]></content>
+	<content><![CDATA[WorldAnchorTransferBatch.DeserializationCompleteDelegate(${1:completionReason : XR.WSA.Sharing.SerializationCompletionReason}, ${2:deserializedTransferBatch : XR.WSA.Sharing.WorldAnchorTransferBatch})]]></content>
 	<tabTrigger><![CDATA[WorldAnchorTransferBatch.DeserializationCompleteDelegate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(completionReason, deserializedTransferBatch)]]></description>

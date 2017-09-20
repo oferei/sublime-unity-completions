@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPropertyCollector.AddFromName(${1:string name})]]></content>
+	<tabTrigger><![CDATA[addFromName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IPropertyCollector.*(name)]]></description>
+</snippet>

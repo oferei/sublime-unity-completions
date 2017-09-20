@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimatorControllerPlayable.SetInteger(${1:name : string}, ${2:value : int})]]></content>
-	<tabTrigger><![CDATA[setInteger]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnimatorControllerPlayable.*(name, value)]]></description>
-</snippet>

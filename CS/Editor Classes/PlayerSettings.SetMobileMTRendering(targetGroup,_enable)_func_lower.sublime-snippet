@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetMobileMTRendering(${1:BuildTargetGroup targetGroup}, ${2:bool enable})]]></content>
+	<tabTrigger><![CDATA[setMobileMTRendering]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup, enable)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddFileToBuildSection(${1:string targetGuid}, ${2:string sectionGuid}, ${3:string fileGuid})]]></content>
+	<tabTrigger><![CDATA[addFileToBuildSection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(targetGuid, sectionGuid, fileGuid)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Rotate(${1:q as Quaternion})]]></content>
+	<tabTrigger><![CDATA[rotate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Matrix4x4.*(q)]]></description>
+</snippet>

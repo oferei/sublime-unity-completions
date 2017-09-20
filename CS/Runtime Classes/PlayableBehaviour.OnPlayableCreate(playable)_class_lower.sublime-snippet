@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.OnPlayableCreate(${1:Playables.Playable playable})]]></content>
+	<tabTrigger><![CDATA[playableBehaviour.OnPlayableCreate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

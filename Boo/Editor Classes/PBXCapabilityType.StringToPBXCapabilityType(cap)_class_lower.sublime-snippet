@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXCapabilityType.StringToPBXCapabilityType(${1:cap as string})]]></content>
+	<tabTrigger><![CDATA[pBXCapabilityType.StringToPBXCapabilityType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(cap)]]></description>
+</snippet>

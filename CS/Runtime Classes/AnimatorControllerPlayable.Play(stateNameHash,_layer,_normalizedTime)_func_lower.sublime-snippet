@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimatorControllerPlayable.Play(${1:int stateNameHash}, ${2:int layer = -1}, ${3:float normalizedTime = float.NegativeInfinity})]]></content>
-	<tabTrigger><![CDATA[play]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimatorControllerPlayable.*(stateNameHash, layer, normalizedTime)]]></description>
-</snippet>

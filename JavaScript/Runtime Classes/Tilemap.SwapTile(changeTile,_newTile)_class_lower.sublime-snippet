@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SwapTile(${1:changeTile : Tilemaps.TileBase}, ${2:newTile : Tilemaps.TileBase})]]></content>
+	<tabTrigger><![CDATA[tilemap.SwapTile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(changeTile, newTile)]]></description>
+</snippet>

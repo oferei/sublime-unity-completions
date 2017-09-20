@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetEditorPreviewColor(${1:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[tilemap.GetEditorPreviewColor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

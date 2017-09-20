@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Grid.GetCellCenterLocal(${1:position as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[GetCellCenterLocal]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Grid.*(position)]]></description>
+</snippet>

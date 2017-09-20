@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SurfaceObserver.SurfaceChangedDelegate(${1:surfaceId as VR.WSA.SurfaceId}, ${2:changeType as VR.WSA.SurfaceChange}, ${3:bounds as Bounds}, ${4:updateTime as DateTime})]]></content>
+	<content><![CDATA[SurfaceObserver.SurfaceChangedDelegate(${1:surfaceId as XR.WSA.SurfaceId}, ${2:changeType as XR.WSA.SurfaceChange}, ${3:bounds as Bounds}, ${4:updateTime as DateTime})]]></content>
 	<tabTrigger><![CDATA[surfaceChangedDelegate]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[SurfaceObserver.*(surfaceId, changeType, bounds, updateTime)]]></description>

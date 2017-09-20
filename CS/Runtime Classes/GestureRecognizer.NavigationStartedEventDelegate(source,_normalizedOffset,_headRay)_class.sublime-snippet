@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GestureRecognizer.NavigationStartedEventDelegate(${1:VR.WSA.Input.InteractionSourceKind source}, ${2:Vector3 normalizedOffset}, ${3:Ray headRay})]]></content>
+	<content><![CDATA[GestureRecognizer.NavigationStartedEventDelegate(${1:XR.WSA.Input.InteractionSourceKind source}, ${2:Vector3 normalizedOffset}, ${3:Ray headRay})]]></content>
 	<tabTrigger><![CDATA[GestureRecognizer.NavigationStartedEventDelegate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(source, normalizedOffset, headRay)]]></description>

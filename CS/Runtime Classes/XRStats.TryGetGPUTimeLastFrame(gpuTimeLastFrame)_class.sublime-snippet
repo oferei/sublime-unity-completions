@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRStats.TryGetGPUTimeLastFrame(${1:out float gpuTimeLastFrame})]]></content>
+	<tabTrigger><![CDATA[XRStats.TryGetGPUTimeLastFrame]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(gpuTimeLastFrame)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.UpdateBuildProperty(${1:IEnumerable<string> targetGuids}, ${2:string name}, ${3:IEnumerable<string> addValues}, ${4:IEnumerable<string> removeValues})]]></content>
+	<tabTrigger><![CDATA[updateBuildProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(targetGuids, name, addValues, removeValues)]]></description>
+</snippet>

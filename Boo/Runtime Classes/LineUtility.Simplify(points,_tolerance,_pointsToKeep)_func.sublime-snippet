@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineUtility.Simplify(${1:points as List<Vector2>}, ${2:tolerance as single}, ${3:pointsToKeep as List<int>})]]></content>
+	<tabTrigger><![CDATA[Simplify]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LineUtility.*(points, tolerance, pointsToKeep)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptPlayableOutput.Create(${1:PlayableGraph graph}, ${2:string name})]]></content>
+	<tabTrigger><![CDATA[scriptPlayableOutput.Create]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(graph, name)]]></description>
+</snippet>

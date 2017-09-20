@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPropertyCollector.AddObjectProperties(${1:obj as Object}, ${2:clip as AnimationClip})]]></content>
+	<tabTrigger><![CDATA[AddObjectProperties]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IPropertyCollector.*(obj, clip)]]></description>
+</snippet>

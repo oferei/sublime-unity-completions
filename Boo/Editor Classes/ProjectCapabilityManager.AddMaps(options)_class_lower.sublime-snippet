@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddMaps(${1:options as iOS.Xcode.MapsOptions})]]></content>
+	<tabTrigger><![CDATA[projectCapabilityManager.AddMaps]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(options)]]></description>
+</snippet>

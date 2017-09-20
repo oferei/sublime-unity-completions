@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushEditor.RegisterUndo(${1:GameObject brushTarget}, ${2:Tool tool})]]></content>
+	<tabTrigger><![CDATA[RegisterUndo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GridBrushEditor.*(brushTarget, tool)]]></description>
+</snippet>

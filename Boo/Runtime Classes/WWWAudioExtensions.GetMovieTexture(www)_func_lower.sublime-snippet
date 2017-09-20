@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWWAudioExtensions.GetMovieTexture(${1:www as WWW})]]></content>
+	<tabTrigger><![CDATA[getMovieTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WWWAudioExtensions.*(www)]]></description>
+</snippet>

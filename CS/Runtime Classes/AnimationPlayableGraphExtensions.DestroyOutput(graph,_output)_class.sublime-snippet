@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayableGraphExtensions.DestroyOutput(${1:Experimental.Director.PlayableGraph graph}, ${2:Experimental.Director.AnimationPlayableOutput output})]]></content>
-	<tabTrigger><![CDATA[AnimationPlayableGraphExtensions.DestroyOutput]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(graph, output)]]></description>
-</snippet>

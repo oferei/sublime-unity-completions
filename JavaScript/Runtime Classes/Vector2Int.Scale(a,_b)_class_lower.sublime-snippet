@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.Scale(${1:a : Vector2Int}, ${2:b : Vector2Int})]]></content>
+	<tabTrigger><![CDATA[vector2Int.Scale]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(a, b)]]></description>
+</snippet>

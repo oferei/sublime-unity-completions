@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorStore.GetAsyncDelegate(${1:VR.WSA.Persistence.WorldAnchorStore store})]]></content>
+	<content><![CDATA[WorldAnchorStore.GetAsyncDelegate(${1:XR.WSA.Persistence.WorldAnchorStore store})]]></content>
 	<tabTrigger><![CDATA[getAsyncDelegate]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[WorldAnchorStore.*(store)]]></description>

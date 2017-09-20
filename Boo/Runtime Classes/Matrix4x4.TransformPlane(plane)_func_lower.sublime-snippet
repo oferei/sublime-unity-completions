@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.TransformPlane(${1:plane as Plane})]]></content>
+	<tabTrigger><![CDATA[transformPlane]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Matrix4x4.*(plane)]]></description>
+</snippet>

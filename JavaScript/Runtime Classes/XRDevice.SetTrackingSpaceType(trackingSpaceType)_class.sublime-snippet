@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRDevice.SetTrackingSpaceType(${1:trackingSpaceType : XR.TrackingSpaceType})]]></content>
+	<tabTrigger><![CDATA[XRDevice.SetTrackingSpaceType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(trackingSpaceType)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderStateMapping(${1:renderType : string}, ${2:stateBlock : Experimental.Rendering.RenderStateBlock})]]></content>
+	<tabTrigger><![CDATA[RenderStateMapping]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(renderType, stateBlock)]]></description>
+</snippet>

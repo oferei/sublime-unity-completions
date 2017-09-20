@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.GetSpeed(${1:U playable})]]></content>
+	<tabTrigger><![CDATA[PlayableExtensions.GetSpeed]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

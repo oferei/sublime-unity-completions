@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.BoxFill(${1:position : Vector3Int}, ${2:tile : TileBase}, ${3:startX : int}, ${4:startY : int}, ${5:endX : int}, ${6:endY : int})]]></content>
+	<tabTrigger><![CDATA[boxFill]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Tilemap.*(position, tile, startX, startY, endX, endY)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.OnBehaviourPause(${1:Playables.Playable playable}, ${2:Playables.FrameData info})]]></content>
+	<tabTrigger><![CDATA[PlayableBehaviour.OnBehaviourPause]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable, info)]]></description>
+</snippet>

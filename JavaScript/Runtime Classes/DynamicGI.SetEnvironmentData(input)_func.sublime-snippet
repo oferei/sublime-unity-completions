@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DynamicGI.SetEnvironmentData(${1:input : float[]})]]></content>
+	<tabTrigger><![CDATA[SetEnvironmentData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DynamicGI.*(input)]]></description>
+</snippet>

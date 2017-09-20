@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRStats.TryGetDroppedFrameCount(${1:droppedFrameCount as out int})]]></content>
+	<tabTrigger><![CDATA[TryGetDroppedFrameCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[XRStats.*(droppedFrameCount)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IActiveBuildTargetChanged.OnActiveBuildTargetChanged(${1:previousTarget : BuildTarget}, ${2:newTarget : BuildTarget})]]></content>
+	<tabTrigger><![CDATA[IActiveBuildTargetChanged.OnActiveBuildTargetChanged]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(previousTarget, newTarget)]]></description>
+</snippet>

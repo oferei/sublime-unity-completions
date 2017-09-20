@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdvertisementSettings.GetPlatformGameId(${1:platformName : string})]]></content>
+	<tabTrigger><![CDATA[AdvertisementSettings.GetPlatformGameId]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(platformName)]]></description>
+</snippet>

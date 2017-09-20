@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PluginImporter.IncludeInBuildDelegate(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[pluginImporter.IncludeInBuildDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

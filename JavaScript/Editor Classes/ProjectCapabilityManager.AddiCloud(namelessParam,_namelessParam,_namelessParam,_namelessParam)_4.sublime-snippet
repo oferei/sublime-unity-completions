@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddiCloud(${1:namelessParam : bool}, ${2:namelessParam : bool}, ${3:namelessParam : bool}, ${4:namelessParam : string[]})]]></content>
+	<tabTrigger><![CDATA[addiCloud]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ProjectCapabilityManager.*(namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

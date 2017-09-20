@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.FloorToInt(${1:v as Vector3})]]></content>
+	<tabTrigger><![CDATA[floorToInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Vector3Int.*(v)]]></description>
+</snippet>

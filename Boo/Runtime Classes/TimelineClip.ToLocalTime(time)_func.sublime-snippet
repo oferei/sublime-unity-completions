@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TimelineClip.ToLocalTime(${1:time as double})]]></content>
+	<tabTrigger><![CDATA[ToLocalTime]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TimelineClip.*(time)]]></description>
+</snippet>

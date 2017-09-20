@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRandomWriteTarget(${1:index : int}, ${2:rt : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[SetRandomWriteTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(index, rt)]]></description>
+</snippet>

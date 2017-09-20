@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FileUtil.CopyFileOrDirectoryFollowSymlinks(${1:string from}, ${2:string to})]]></content>
-	<tabTrigger><![CDATA[fileUtil.CopyFileOrDirectoryFollowSymlinks]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(from, to)]]></description>
-</snippet>

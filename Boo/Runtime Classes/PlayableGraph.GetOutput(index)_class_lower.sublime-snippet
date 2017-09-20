@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.GetOutput(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[playableGraph.GetOutput]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRSettings.LoadDeviceByName(${1:deviceName : string})]]></content>
+	<tabTrigger><![CDATA[xRSettings.LoadDeviceByName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(deviceName)]]></description>
+</snippet>

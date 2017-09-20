@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnityWebRequest.GetAudioClip(${1:string uri}, ${2:AudioType audioType})]]></content>
-	<tabTrigger><![CDATA[unityWebRequest.GetAudioClip]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(uri, audioType)]]></description>
-</snippet>

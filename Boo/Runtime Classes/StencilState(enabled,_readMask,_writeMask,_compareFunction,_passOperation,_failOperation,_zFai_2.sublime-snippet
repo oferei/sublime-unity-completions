@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState(${1:enabled as bool}, ${2:readMask as byte}, ${3:writeMask as byte}, ${4:compareFunction as Rendering.CompareFunction}, ${5:passOperation as Rendering.StencilOp}, ${6:failOperation as Rendering.StencilOp}, ${7:zFailOperation as Rendering.StencilOp})]]></content>
+	<tabTrigger><![CDATA[stencilState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(enabled, readMask, writeMask, compareFunction, passOperation, failOperation, zFailOperation)]]></description>
+</snippet>

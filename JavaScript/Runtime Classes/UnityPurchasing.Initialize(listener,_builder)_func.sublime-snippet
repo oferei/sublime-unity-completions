@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnityPurchasing.Initialize(${1:listener : Purchasing.IStoreListener}, ${2:builder : Purchasing.ConfigurationBuilder})]]></content>
-	<tabTrigger><![CDATA[Initialize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[UnityPurchasing.*(listener, builder)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TimelineAsset.DeleteClip(${1:clip : Timeline.TimelineClip})]]></content>
+	<tabTrigger><![CDATA[TimelineAsset.DeleteClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(clip)]]></description>
+</snippet>

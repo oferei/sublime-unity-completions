@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridLayout.CellToLocalInterpolated(${1:cellPosition as Vector3})]]></content>
+	<tabTrigger><![CDATA[gridLayout.CellToLocalInterpolated]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(cellPosition)]]></description>
+</snippet>

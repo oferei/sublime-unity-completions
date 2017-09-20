@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.SetTimeUpdateMode(${1:Playables.DirectorUpdateMode value})]]></content>
+	<tabTrigger><![CDATA[setTimeUpdateMode]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayableGraph.*(value)]]></description>
+</snippet>

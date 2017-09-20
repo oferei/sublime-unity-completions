@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicsSettings.HasShaderDefine(${1:defineHash : Rendering.BuiltinShaderDefine})]]></content>
+	<tabTrigger><![CDATA[GraphicsSettings.HasShaderDefine]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(defineHash)]]></description>
+</snippet>

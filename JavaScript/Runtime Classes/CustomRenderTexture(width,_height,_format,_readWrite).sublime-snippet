@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomRenderTexture(${1:width : int}, ${2:height : int}, ${3:format : RenderTextureFormat}, ${4:readWrite : RenderTextureReadWrite})]]></content>
+	<tabTrigger><![CDATA[CustomRenderTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(width, height, format, readWrite)]]></description>
+</snippet>

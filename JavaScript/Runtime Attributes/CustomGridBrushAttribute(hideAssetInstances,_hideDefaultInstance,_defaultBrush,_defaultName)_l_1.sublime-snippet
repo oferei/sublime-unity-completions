@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomGridBrushAttribute(${1:hideAssetInstances : bool}, ${2:hideDefaultInstance : bool}, ${3:defaultBrush : bool}, ${4:defaultName : string})]]></content>
+	<tabTrigger><![CDATA[customGridBrushAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(hideAssetInstances, hideDefaultInstance, defaultBrush, defaultName)]]></description>
+</snippet>

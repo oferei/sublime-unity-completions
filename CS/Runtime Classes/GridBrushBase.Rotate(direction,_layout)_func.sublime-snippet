@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushBase.Rotate(${1:GridBrushBase.RotationDirection direction}, ${2:GridLayout.CellLayout layout})]]></content>
+	<tabTrigger><![CDATA[Rotate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GridBrushBase.*(direction, layout)]]></description>
+</snippet>

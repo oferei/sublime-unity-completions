@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetColliderType(${1:position as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[Tilemap.GetColliderType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

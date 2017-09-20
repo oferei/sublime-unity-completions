@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayableGraphExtensions.CreateAnimationOutput(${1:graph as Experimental.Director.PlayableGraph}, ${2:name as string}, ${3:target as Animator})]]></content>
-	<tabTrigger><![CDATA[animationPlayableGraphExtensions.CreateAnimationOutput]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(graph, name, target)]]></description>
-</snippet>

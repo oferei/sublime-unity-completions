@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InteractionSourceLocation.TryGetVelocity(${1:velocity as out Vector3})]]></content>
-	<tabTrigger><![CDATA[interactionSourceLocation.TryGetVelocity]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(velocity)]]></description>
-</snippet>

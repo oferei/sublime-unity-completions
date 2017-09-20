@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWW.UnEscapeURL(${1:string s})]]></content>
+	<tabTrigger><![CDATA[unEscapeURL]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[WWW.*(s)]]></description>
+</snippet>

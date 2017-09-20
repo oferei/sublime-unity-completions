@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationPlayableUtilities.PlayClip(${1:animator : Animator}, ${2:clip : AnimationClip}, ${3:graph : out Experimental.Director.PlayableGraph})]]></content>
+	<content><![CDATA[AnimationPlayableUtilities.PlayClip(${1:animator : Animator}, ${2:clip : AnimationClip}, ${3:graph : out Playables.PlayableGraph})]]></content>
 	<tabTrigger><![CDATA[playClip]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[AnimationPlayableUtilities.*(animator, clip, graph)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddSourcesBuildPhase(${1:string targetGuid})]]></content>
+	<tabTrigger><![CDATA[PBXProject.AddSourcesBuildPhase]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetGuid)]]></description>
+</snippet>

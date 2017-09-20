@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableDirector.SetReferenceValue(${1:id : PropertyName}, ${2:value : Object})]]></content>
+	<tabTrigger><![CDATA[PlayableDirector.SetReferenceValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(id, value)]]></description>
+</snippet>

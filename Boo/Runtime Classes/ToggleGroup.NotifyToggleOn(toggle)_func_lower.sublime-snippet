@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ToggleGroup.NotifyToggleOn(${1:toggle as UI.Toggle})]]></content>
-	<tabTrigger><![CDATA[notifyToggleOn]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ToggleGroup.*(toggle)]]></description>
-</snippet>

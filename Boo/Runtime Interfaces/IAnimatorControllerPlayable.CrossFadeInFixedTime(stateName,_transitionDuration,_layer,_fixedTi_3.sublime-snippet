@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IAnimatorControllerPlayable.CrossFadeInFixedTime(${1:stateName as string}, ${2:transitionDuration as single}, ${3:layer as int}, ${4:fixedTime as single})]]></content>
-	<tabTrigger><![CDATA[CrossFadeInFixedTime]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IAnimatorControllerPlayable.*(stateName, transitionDuration, layer, fixedTime)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.MultiIntField(${1:position as Rect}, ${2:subLabels as (GUIContent)}, ${3:values as (int)})]]></content>
+	<tabTrigger><![CDATA[MultiIntField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUI.*(position, subLabels, values)]]></description>
+</snippet>

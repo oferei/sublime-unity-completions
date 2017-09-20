@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.HasEditorPreviewTile(${1:position as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[hasEditorPreviewTile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Tilemap.*(position)]]></description>
+</snippet>

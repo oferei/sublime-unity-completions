@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetMobileMTRendering(${1:targetGroup as BuildTargetGroup})]]></content>
+	<tabTrigger><![CDATA[GetMobileMTRendering]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup)]]></description>
+</snippet>

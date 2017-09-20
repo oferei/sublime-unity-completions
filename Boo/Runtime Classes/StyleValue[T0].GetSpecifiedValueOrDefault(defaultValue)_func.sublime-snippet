@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StyleValue<T0>.GetSpecifiedValueOrDefault(${1:defaultValue as T})]]></content>
+	<tabTrigger><![CDATA[GetSpecifiedValueOrDefault]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[StyleValue<T0>.*(defaultValue)]]></description>
+</snippet>

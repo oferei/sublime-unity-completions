@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.CreateAsync(${1:showHolograms as bool}, ${2:onCreatedCallback as VR.WSA.WebCam.PhotoCapture.OnCaptureResourceCreatedCallback})]]></content>
+	<content><![CDATA[PhotoCapture.CreateAsync(${1:showHolograms as bool}, ${2:onCreatedCallback as XR.WSA.WebCam.PhotoCapture.OnCaptureResourceCreatedCallback})]]></content>
 	<tabTrigger><![CDATA[photoCapture.CreateAsync]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(showHolograms, onCreatedCallback)]]></description>

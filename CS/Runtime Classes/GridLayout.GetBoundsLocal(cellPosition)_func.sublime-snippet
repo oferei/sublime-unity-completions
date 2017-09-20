@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridLayout.GetBoundsLocal(${1:Vector3Int cellPosition})]]></content>
+	<tabTrigger><![CDATA[GetBoundsLocal]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GridLayout.*(cellPosition)]]></description>
+</snippet>

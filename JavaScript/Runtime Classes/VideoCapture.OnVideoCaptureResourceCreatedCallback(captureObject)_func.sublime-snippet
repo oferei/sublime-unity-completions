@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.OnVideoCaptureResourceCreatedCallback(${1:captureObject : VR.WSA.WebCam.VideoCapture})]]></content>
+	<content><![CDATA[VideoCapture.OnVideoCaptureResourceCreatedCallback(${1:captureObject : XR.WSA.WebCam.VideoCapture})]]></content>
 	<tabTrigger><![CDATA[OnVideoCaptureResourceCreatedCallback]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[VideoCapture.*(captureObject)]]></description>

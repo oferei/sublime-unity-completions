@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationPlayableUtilities.PlayAnimatorController(${1:Animator animator}, ${2:RuntimeAnimatorController controller}, ${3:out Experimental.Director.PlayableGraph graph})]]></content>
+	<content><![CDATA[AnimationPlayableUtilities.PlayAnimatorController(${1:Animator animator}, ${2:RuntimeAnimatorController controller}, ${3:out Playables.PlayableGraph graph})]]></content>
 	<tabTrigger><![CDATA[playAnimatorController]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AnimationPlayableUtilities.*(animator, controller, graph)]]></description>

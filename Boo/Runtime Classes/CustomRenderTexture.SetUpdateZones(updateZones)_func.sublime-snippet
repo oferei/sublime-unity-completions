@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomRenderTexture.SetUpdateZones(${1:updateZones as (CustomRenderTextureUpdateZone)})]]></content>
+	<tabTrigger><![CDATA[SetUpdateZones]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CustomRenderTexture.*(updateZones)]]></description>
+</snippet>

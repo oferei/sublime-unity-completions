@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.Simulate(${1:step as single})]]></content>
+	<tabTrigger><![CDATA[Simulate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Physics.*(step)]]></description>
+</snippet>

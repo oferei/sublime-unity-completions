@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TileBase.GetTileAnimationData(${1:position as Vector3Int}, ${2:tilemap as Tilemaps.ITilemap}, ${3:tileAnimationData as ref Tilemaps.TileAnimationData})]]></content>
+	<tabTrigger><![CDATA[tileBase.GetTileAnimationData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, tilemap, tileAnimationData)]]></description>
+</snippet>

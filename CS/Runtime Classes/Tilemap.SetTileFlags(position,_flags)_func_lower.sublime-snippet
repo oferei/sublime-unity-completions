@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetTileFlags(${1:Vector3Int position}, ${2:Tilemaps.TileFlags flags})]]></content>
+	<tabTrigger><![CDATA[setTileFlags]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Tilemap.*(position, flags)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorStore.GetAsync(${1:onCompleted as VR.WSA.Persistence.WorldAnchorStore.GetAsyncDelegate})]]></content>
+	<content><![CDATA[WorldAnchorStore.GetAsync(${1:onCompleted as XR.WSA.Persistence.WorldAnchorStore.GetAsyncDelegate})]]></content>
 	<tabTrigger><![CDATA[worldAnchorStore.GetAsync]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(onCompleted)]]></description>

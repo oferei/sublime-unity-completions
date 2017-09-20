@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProjectExtensions.AddWatchExtension(${1:iOS.Xcode.PBXProject proj}, ${2:string mainTarget}, ${3:string name}, ${4:string bundleId}, ${5:string infoPlistPath})]]></content>
+	<tabTrigger><![CDATA[pBXProjectExtensions.AddWatchExtension]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(proj, mainTarget, name, bundleId, infoPlistPath)]]></description>
+</snippet>

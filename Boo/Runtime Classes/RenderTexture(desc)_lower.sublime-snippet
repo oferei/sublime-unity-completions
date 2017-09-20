@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture(${1:desc as RenderTextureDescriptor})]]></content>
+	<tabTrigger><![CDATA[renderTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(desc)]]></description>
+</snippet>

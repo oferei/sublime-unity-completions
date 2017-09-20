@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreCallback.OnProductsRetrieved(${1:products : List<ProductDescription>})]]></content>
-	<tabTrigger><![CDATA[iStoreCallback.OnProductsRetrieved]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(products)]]></description>
-</snippet>

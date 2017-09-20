@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.Clamp(${1:Vector2Int min}, ${2:Vector2Int max})]]></content>
+	<tabTrigger><![CDATA[Clamp]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Vector2Int.*(min, max)]]></description>
+</snippet>

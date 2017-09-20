@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRDevice.DisableAutoXRCameraTracking(${1:Camera : Camera}, ${2:Disabled : Disabled})]]></content>
+	<tabTrigger><![CDATA[disableAutoXRCameraTracking]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[XRDevice.*(Camera, Disabled)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DepthState(${1:writeEnabled as bool}, ${2:compareFunction as Rendering.CompareFunction})]]></content>
+	<tabTrigger><![CDATA[DepthState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(writeEnabled, compareFunction)]]></description>
+</snippet>

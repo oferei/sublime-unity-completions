@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager(${1:string pbxProjectPath}, ${2:string entitlementFilePath}, ${3:string targetName})]]></content>
+	<tabTrigger><![CDATA[ProjectCapabilityManager]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(pbxProjectPath, entitlementFilePath, targetName)]]></description>
+</snippet>

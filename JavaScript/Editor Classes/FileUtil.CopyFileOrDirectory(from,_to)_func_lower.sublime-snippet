@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FileUtil.CopyFileOrDirectory(${1:from : string}, ${2:to : string})]]></content>
-	<tabTrigger><![CDATA[copyFileOrDirectory]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[FileUtil.*(from, to)]]></description>
-</snippet>

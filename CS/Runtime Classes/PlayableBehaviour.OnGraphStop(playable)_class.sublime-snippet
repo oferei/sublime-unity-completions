@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.OnGraphStop(${1:Playables.Playable playable})]]></content>
+	<tabTrigger><![CDATA[PlayableBehaviour.OnGraphStop]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

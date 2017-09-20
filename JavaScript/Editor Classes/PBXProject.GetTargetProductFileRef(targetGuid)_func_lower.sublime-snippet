@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetTargetProductFileRef(${1:targetGuid : string})]]></content>
+	<tabTrigger><![CDATA[getTargetProductFileRef]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PBXProject.*(targetGuid)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectRecorder.TakeSnapshot(${1:dt : float})]]></content>
+	<tabTrigger><![CDATA[TakeSnapshot]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GameObjectRecorder.*(dt)]]></description>
+</snippet>

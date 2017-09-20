@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.Clamp(${1:min : Vector3Int}, ${2:max : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[clamp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector3Int.*(min, max)]]></description>
+</snippet>

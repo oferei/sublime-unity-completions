@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.Resolve(${1:operationId as out long})]]></content>
+	<tabTrigger><![CDATA[Resolve]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Client.*(operationId)]]></description>
+</snippet>

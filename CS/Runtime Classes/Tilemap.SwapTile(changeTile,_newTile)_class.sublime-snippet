@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SwapTile(${1:Tilemaps.TileBase changeTile}, ${2:Tilemaps.TileBase newTile})]]></content>
+	<tabTrigger><![CDATA[Tilemap.SwapTile]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(changeTile, newTile)]]></description>
+</snippet>

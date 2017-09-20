@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.ExternalEval(${1:script as string})]]></content>
-	<tabTrigger><![CDATA[Application.ExternalEval]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(script)]]></description>
-</snippet>

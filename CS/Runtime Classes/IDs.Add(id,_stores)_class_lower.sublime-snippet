@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IDs.Add(${1:string id}, ${2:params string[] stores})]]></content>
-	<tabTrigger><![CDATA[iDs.Add]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(id, stores)]]></description>
-</snippet>

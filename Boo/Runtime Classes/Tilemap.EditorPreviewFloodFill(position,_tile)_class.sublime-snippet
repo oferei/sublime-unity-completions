@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.EditorPreviewFloodFill(${1:position as Vector3Int}, ${2:tile as Tilemaps.TileBase})]]></content>
+	<tabTrigger><![CDATA[Tilemap.EditorPreviewFloodFill]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, tile)]]></description>
+</snippet>

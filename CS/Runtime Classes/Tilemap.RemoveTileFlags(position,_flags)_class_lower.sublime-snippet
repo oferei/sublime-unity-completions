@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.RemoveTileFlags(${1:Vector3Int position}, ${2:Tilemaps.TileFlags flags})]]></content>
+	<tabTrigger><![CDATA[tilemap.RemoveTileFlags]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, flags)]]></description>
+</snippet>

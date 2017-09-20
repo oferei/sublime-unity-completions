@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionSourcePose.TryGetRight(${1:right as out Vector3}, ${2:node as XR.WSA.Input.InteractionSourceNode})]]></content>
+	<tabTrigger><![CDATA[tryGetRight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[InteractionSourcePose.*(right, node)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimatorControllerPlayable.GetNextAnimatorStateInfo(${1:int layerIndex})]]></content>
-	<tabTrigger><![CDATA[getNextAnimatorStateInfo]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnimatorControllerPlayable.*(layerIndex)]]></description>
-</snippet>

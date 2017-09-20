@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayableGraph.Disconnect(${1:playable : Experimental.Director.PlayableHandle}, ${2:inputPort : int})]]></content>
+	<content><![CDATA[PlayableGraph.Disconnect(${1:playable : Playable}, ${2:inputPort : int})]]></content>
 	<tabTrigger><![CDATA[PlayableGraph.Disconnect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(playable, inputPort)]]></description>

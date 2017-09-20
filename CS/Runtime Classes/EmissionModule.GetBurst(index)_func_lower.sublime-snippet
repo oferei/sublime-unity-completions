@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EmissionModule.GetBurst(${1:int index})]]></content>
+	<tabTrigger><![CDATA[getBurst]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EmissionModule.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequestMultimedia.GetAudioClip(${1:uri : string}, ${2:audioType : AudioType})]]></content>
+	<tabTrigger><![CDATA[UnityWebRequestMultimedia.GetAudioClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(uri, audioType)]]></description>
+</snippet>

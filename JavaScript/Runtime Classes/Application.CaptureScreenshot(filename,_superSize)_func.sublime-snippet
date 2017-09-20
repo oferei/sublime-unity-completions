@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.CaptureScreenshot(${1:filename : string}, ${2:superSize : int = 0})]]></content>
-	<tabTrigger><![CDATA[CaptureScreenshot]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Application.*(filename, superSize)]]></description>
-</snippet>

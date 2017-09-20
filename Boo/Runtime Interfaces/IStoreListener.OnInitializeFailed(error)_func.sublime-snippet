@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreListener.OnInitializeFailed(${1:error as Purchasing.InitializationFailureReason})]]></content>
-	<tabTrigger><![CDATA[OnInitializeFailed]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IStoreListener.*(error)]]></description>
-</snippet>

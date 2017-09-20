@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisionUtility.GetColorBlindSafePalette(${1:palette as (Color)}, ${2:minimumLuminance as single}, ${3:maximumLuminance as single})]]></content>
+	<tabTrigger><![CDATA[getColorBlindSafePalette]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisionUtility.*(palette, minimumLuminance, maximumLuminance)]]></description>
+</snippet>

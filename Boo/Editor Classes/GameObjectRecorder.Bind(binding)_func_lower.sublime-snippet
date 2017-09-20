@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectRecorder.Bind(${1:binding as EditorCurveBinding})]]></content>
+	<tabTrigger><![CDATA[bind]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GameObjectRecorder.*(binding)]]></description>
+</snippet>

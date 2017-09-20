@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraProperties.SetShadowCullingPlane(${1:int index}, ${2:Plane plane})]]></content>
+	<tabTrigger><![CDATA[SetShadowCullingPlane]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CameraProperties.*(index, plane)]]></description>
+</snippet>

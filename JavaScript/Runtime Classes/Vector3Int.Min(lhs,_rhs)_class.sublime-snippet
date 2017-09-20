@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3Int.Min(${1:lhs : Vector3Int}, ${2:rhs : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[Vector3Int.Min]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lhs, rhs)]]></description>
+</snippet>

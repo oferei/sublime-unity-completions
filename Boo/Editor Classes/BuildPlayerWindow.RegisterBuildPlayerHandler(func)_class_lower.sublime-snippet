@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPlayerWindow.RegisterBuildPlayerHandler(${1:func as Action<BuildPlayerOptions>})]]></content>
+	<tabTrigger><![CDATA[buildPlayerWindow.RegisterBuildPlayerHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(func)]]></description>
+</snippet>

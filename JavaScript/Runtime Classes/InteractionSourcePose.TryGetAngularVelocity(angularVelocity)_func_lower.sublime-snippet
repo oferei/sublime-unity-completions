@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionSourcePose.TryGetAngularVelocity(${1:angularVelocity : out Vector3})]]></content>
+	<tabTrigger><![CDATA[tryGetAngularVelocity]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InteractionSourcePose.*(angularVelocity)]]></description>
+</snippet>

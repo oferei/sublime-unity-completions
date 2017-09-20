@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequestTexture.GetTexture(${1:uri as string}, ${2:nonReadable as bool})]]></content>
+	<tabTrigger><![CDATA[UnityWebRequestTexture.GetTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(uri, nonReadable)]]></description>
+</snippet>

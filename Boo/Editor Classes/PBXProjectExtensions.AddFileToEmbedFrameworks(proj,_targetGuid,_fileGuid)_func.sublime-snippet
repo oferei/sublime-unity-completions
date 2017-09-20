@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProjectExtensions.AddFileToEmbedFrameworks(${1:proj as iOS.Xcode.PBXProject}, ${2:targetGuid as string}, ${3:fileGuid as string})]]></content>
+	<tabTrigger><![CDATA[AddFileToEmbedFrameworks]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PBXProjectExtensions.*(proj, targetGuid, fileGuid)]]></description>
+</snippet>

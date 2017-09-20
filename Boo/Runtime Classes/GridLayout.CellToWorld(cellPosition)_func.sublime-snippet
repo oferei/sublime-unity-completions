@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridLayout.CellToWorld(${1:cellPosition as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[CellToWorld]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GridLayout.*(cellPosition)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GvrAudioSourceExtensionMethods.SetDirectivitySharpness(${1:source as AudioSource}, ${2:directivitySharpness as single})]]></content>
+	<tabTrigger><![CDATA[setDirectivitySharpness]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GvrAudioSourceExtensionMethods.*(source, directivitySharpness)]]></description>
+</snippet>

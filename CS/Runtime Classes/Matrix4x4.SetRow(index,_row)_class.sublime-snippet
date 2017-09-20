@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.SetRow(${1:int index}, ${2:Vector4 row})]]></content>
+	<tabTrigger><![CDATA[Matrix4x4.SetRow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, row)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane.GetSide(${1:point as Vector3})]]></content>
+	<tabTrigger><![CDATA[Plane.GetSide]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(point)]]></description>
+</snippet>

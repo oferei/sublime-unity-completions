@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.SetSpeed(${1:playable : U}, ${2:value : double})]]></content>
+	<tabTrigger><![CDATA[playableExtensions.SetSpeed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(playable, value)]]></description>
+</snippet>

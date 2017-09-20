@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.Equals(${1:other as object})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Vector2Int.*(other)]]></description>
+</snippet>

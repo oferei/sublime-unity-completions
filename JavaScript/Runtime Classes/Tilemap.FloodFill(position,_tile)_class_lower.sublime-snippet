@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.FloodFill(${1:position : Vector3Int}, ${2:tile : TileBase})]]></content>
+	<tabTrigger><![CDATA[tilemap.FloodFill]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, tile)]]></description>
+</snippet>

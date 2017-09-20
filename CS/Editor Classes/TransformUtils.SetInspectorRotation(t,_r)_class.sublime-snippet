@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformUtils.SetInspectorRotation(${1:Transform t}, ${2:Vector3 r})]]></content>
+	<tabTrigger><![CDATA[TransformUtils.SetInspectorRotation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(t, r)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.SetResolver(${1:value : IExposedPropertyTable})]]></content>
+	<tabTrigger><![CDATA[PlayableGraph.SetResolver]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectRecorder.BindComponent(${1:target as GameObject}, ${2:componentType as Type}, ${3:recursive as bool})]]></content>
+	<tabTrigger><![CDATA[GameObjectRecorder.BindComponent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target, componentType, recursive)]]></description>
+</snippet>

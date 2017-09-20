@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddKeychainSharing(${1:string[] accessGroups})]]></content>
+	<tabTrigger><![CDATA[projectCapabilityManager.AddKeychainSharing]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(accessGroups)]]></description>
+</snippet>

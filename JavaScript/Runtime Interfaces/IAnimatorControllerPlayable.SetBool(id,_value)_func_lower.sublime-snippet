@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IAnimatorControllerPlayable.SetBool(${1:id : int}, ${2:value : bool})]]></content>
-	<tabTrigger><![CDATA[setBool]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IAnimatorControllerPlayable.*(id, value)]]></description>
-</snippet>

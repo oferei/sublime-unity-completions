@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.CeilToInt(${1:v : Vector2})]]></content>
+	<tabTrigger><![CDATA[CeilToInt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector2Int.*(v)]]></description>
+</snippet>

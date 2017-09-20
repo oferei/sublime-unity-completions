@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[iOS.SetiPadLaunchScreenType(${1:type as iOSLaunchScreenType})]]></content>
+	<tabTrigger><![CDATA[setiPadLaunchScreenType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[iOS.*(type)]]></description>
+</snippet>

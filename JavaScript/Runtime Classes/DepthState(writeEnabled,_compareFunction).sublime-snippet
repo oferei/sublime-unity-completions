@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DepthState(${1:writeEnabled : bool}, ${2:compareFunction : Rendering.CompareFunction})]]></content>
+	<tabTrigger><![CDATA[DepthState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(writeEnabled, compareFunction)]]></description>
+</snippet>

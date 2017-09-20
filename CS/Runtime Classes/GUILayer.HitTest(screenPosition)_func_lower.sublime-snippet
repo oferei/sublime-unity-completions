@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUILayer.HitTest(${1:Vector3 screenPosition})]]></content>
-	<tabTrigger><![CDATA[hitTest]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GUILayer.*(screenPosition)]]></description>
-</snippet>

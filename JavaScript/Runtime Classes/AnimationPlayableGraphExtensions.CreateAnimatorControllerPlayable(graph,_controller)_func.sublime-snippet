@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayableGraphExtensions.CreateAnimatorControllerPlayable(${1:graph : Experimental.Director.PlayableGraph}, ${2:controller : RuntimeAnimatorController})]]></content>
-	<tabTrigger><![CDATA[CreateAnimatorControllerPlayable]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnimationPlayableGraphExtensions.*(graph, controller)]]></description>
-</snippet>

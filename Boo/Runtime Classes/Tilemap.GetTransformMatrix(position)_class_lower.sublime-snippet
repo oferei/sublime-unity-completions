@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetTransformMatrix(${1:position as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[tilemap.GetTransformMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

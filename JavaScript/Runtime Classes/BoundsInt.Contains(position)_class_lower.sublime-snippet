@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoundsInt.Contains(${1:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[boundsInt.Contains]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

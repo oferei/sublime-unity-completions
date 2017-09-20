@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullingParameters.SetCullingPlane(${1:int index}, ${2:Plane plane})]]></content>
-	<tabTrigger><![CDATA[setCullingPlane]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[CullingParameters.*(index, plane)]]></description>
-</snippet>

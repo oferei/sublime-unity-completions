@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerMovieTexture.GetContent(${1:uwr : Networking.UnityWebRequest})]]></content>
+	<tabTrigger><![CDATA[GetContent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DownloadHandlerMovieTexture.*(uwr)]]></description>
+</snippet>

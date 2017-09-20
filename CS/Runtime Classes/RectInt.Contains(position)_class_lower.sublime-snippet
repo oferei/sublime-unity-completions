@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectInt.Contains(${1:Vector2Int position})]]></content>
+	<tabTrigger><![CDATA[rectInt.Contains]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

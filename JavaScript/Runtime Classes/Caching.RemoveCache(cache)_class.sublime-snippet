@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.RemoveCache(${1:cache : Cache})]]></content>
+	<tabTrigger><![CDATA[Caching.RemoveCache]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(cache)]]></description>
+</snippet>

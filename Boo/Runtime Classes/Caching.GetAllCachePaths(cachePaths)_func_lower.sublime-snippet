@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.GetAllCachePaths(${1:cachePaths as List<string>})]]></content>
+	<tabTrigger><![CDATA[getAllCachePaths]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Caching.*(cachePaths)]]></description>
+</snippet>

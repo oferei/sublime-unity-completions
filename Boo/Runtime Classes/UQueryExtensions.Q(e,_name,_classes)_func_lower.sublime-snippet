@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryExtensions.Q(${1:e as Experimental.UIElements.VisualElement}, ${2:name as string}, ${3:classes as params (string)})]]></content>
+	<tabTrigger><![CDATA[q]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UQueryExtensions.*(e, name, classes)]]></description>
+</snippet>

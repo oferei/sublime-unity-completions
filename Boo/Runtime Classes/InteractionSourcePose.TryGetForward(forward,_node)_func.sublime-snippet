@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionSourcePose.TryGetForward(${1:forward as out Vector3}, ${2:node as XR.WSA.Input.InteractionSourceNode})]]></content>
+	<tabTrigger><![CDATA[TryGetForward]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[InteractionSourcePose.*(forward, node)]]></description>
+</snippet>

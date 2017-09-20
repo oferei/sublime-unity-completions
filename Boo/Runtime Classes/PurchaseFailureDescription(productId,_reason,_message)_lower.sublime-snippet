@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PurchaseFailureDescription(${1:productId as string}, ${2:reason as Purchasing.PurchaseFailureReason}, ${3:message as string})]]></content>
-	<tabTrigger><![CDATA[purchaseFailureDescription]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(productId, reason, message)]]></description>
-</snippet>

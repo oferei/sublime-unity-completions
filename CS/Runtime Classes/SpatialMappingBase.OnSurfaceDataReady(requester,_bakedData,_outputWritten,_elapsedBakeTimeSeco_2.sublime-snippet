@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SpatialMappingBase.OnSurfaceDataReady(${1:VR.WSA.SpatialMappingBase requester}, ${2:VR.WSA.SurfaceData bakedData}, ${3:bool outputWritten}, ${4:float elapsedBakeTimeSeconds})]]></content>
+	<content><![CDATA[SpatialMappingBase.OnSurfaceDataReady(${1:XR.WSA.SpatialMappingBase requester}, ${2:XR.WSA.SurfaceData bakedData}, ${3:bool outputWritten}, ${4:float elapsedBakeTimeSeconds})]]></content>
 	<tabTrigger><![CDATA[spatialMappingBase.OnSurfaceDataReady]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(requester, bakedData, outputWritten, elapsedBakeTimeSeconds)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Translate(${1:vector : Vector3})]]></content>
+	<tabTrigger><![CDATA[translate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Matrix4x4.*(vector)]]></description>
+</snippet>

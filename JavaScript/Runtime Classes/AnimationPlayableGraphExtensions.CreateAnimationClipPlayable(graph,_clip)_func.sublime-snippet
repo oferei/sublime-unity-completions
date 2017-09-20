@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationPlayableGraphExtensions.CreateAnimationClipPlayable(${1:graph : Experimental.Director.PlayableGraph}, ${2:clip : AnimationClip})]]></content>
-	<tabTrigger><![CDATA[CreateAnimationClipPlayable]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnimationPlayableGraphExtensions.*(graph, clip)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageConversion.EncodeToEXR(${1:tex as Texture2D}, ${2:flags as Texture2D.EXRFlags = Texture2D.EXRFlags.None})]]></content>
+	<tabTrigger><![CDATA[imageConversion.EncodeToEXR]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tex, flags)]]></description>
+</snippet>

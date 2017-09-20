@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWWForm.AddField(${1:fieldName : string}, ${2:value : string})]]></content>
+	<tabTrigger><![CDATA[WWWForm.AddField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(fieldName, value)]]></description>
+</snippet>

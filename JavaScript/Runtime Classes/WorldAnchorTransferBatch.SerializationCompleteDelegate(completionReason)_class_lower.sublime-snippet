@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorTransferBatch.SerializationCompleteDelegate(${1:completionReason : VR.WSA.Sharing.SerializationCompletionReason})]]></content>
+	<content><![CDATA[WorldAnchorTransferBatch.SerializationCompleteDelegate(${1:completionReason : XR.WSA.Sharing.SerializationCompletionReason})]]></content>
 	<tabTrigger><![CDATA[worldAnchorTransferBatch.SerializationCompleteDelegate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(completionReason)]]></description>

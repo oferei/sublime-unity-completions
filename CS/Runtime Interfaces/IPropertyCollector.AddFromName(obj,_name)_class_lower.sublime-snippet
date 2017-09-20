@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPropertyCollector.AddFromName(${1:GameObject obj}, ${2:string name})]]></content>
+	<tabTrigger><![CDATA[iPropertyCollector.AddFromName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(obj, name)]]></description>
+</snippet>

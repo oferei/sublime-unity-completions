@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetEditorPreviewTransformMatrix(${1:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[getEditorPreviewTransformMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Tilemap.*(position)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.Vector3IntField(${1:label as GUIContent}, ${2:value as Vector3Int}, ${3:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.Vector3IntField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(label, value, options)]]></description>
+</snippet>

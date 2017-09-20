@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SurfaceObserver.RequestMeshAsync(${1:VR.WSA.SurfaceData dataRequest}, ${2:VR.WSA.SurfaceObserver.SurfaceDataReadyDelegate onDataReady})]]></content>
+	<content><![CDATA[SurfaceObserver.RequestMeshAsync(${1:XR.WSA.SurfaceData dataRequest}, ${2:XR.WSA.SurfaceObserver.SurfaceDataReadyDelegate onDataReady})]]></content>
 	<tabTrigger><![CDATA[RequestMeshAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[SurfaceObserver.*(dataRequest, onDataReady)]]></description>

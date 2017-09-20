@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetColor(${1:position : Vector3Int}, ${2:color : Color})]]></content>
+	<tabTrigger><![CDATA[Tilemap.SetColor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, color)]]></description>
+</snippet>

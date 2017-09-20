@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.GetIconSizesForTargetGroup(${1:platform as BuildTargetGroup})]]></content>
-	<tabTrigger><![CDATA[getIconSizesForTargetGroup]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PlayerSettings.*(platform)]]></description>
-</snippet>

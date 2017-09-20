@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoundsInt.SetMinMax(${1:minPosition as Vector3Int}, ${2:maxPosition as Vector3Int})]]></content>
+	<tabTrigger><![CDATA[SetMinMax]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BoundsInt.*(minPosition, maxPosition)]]></description>
+</snippet>

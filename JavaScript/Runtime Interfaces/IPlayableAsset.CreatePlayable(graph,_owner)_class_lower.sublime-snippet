@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPlayableAsset.CreatePlayable(${1:graph : Playables.PlayableGraph}, ${2:owner : GameObject})]]></content>
+	<tabTrigger><![CDATA[iPlayableAsset.CreatePlayable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(graph, owner)]]></description>
+</snippet>

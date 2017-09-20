@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TileBase.GetTileData(${1:position : Vector3Int}, ${2:tilemap : Tilemaps.ITilemap}, ${3:tileData : ref Tilemaps.TileData})]]></content>
+	<tabTrigger><![CDATA[tileBase.GetTileData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, tilemap, tileData)]]></description>
+</snippet>

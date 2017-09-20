@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssemblyBuilder(${1:string assemblyPath}, ${2:params string[] scriptPaths})]]></content>
+	<tabTrigger><![CDATA[AssemblyBuilder]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(assemblyPath, scriptPaths)]]></description>
+</snippet>

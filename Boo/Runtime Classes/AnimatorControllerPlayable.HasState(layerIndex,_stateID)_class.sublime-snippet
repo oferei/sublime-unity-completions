@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimatorControllerPlayable.HasState(${1:layerIndex as int}, ${2:stateID as int})]]></content>
-	<tabTrigger><![CDATA[AnimatorControllerPlayable.HasState]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(layerIndex, stateID)]]></description>
-</snippet>

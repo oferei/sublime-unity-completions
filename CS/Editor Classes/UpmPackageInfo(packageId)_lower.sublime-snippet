@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UpmPackageInfo(${1:string packageId})]]></content>
+	<tabTrigger><![CDATA[upmPackageInfo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(packageId)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.ProcessFrame(${1:playable : Playable}, ${2:info : FrameData}, ${3:playerData : Object})]]></content>
+	<tabTrigger><![CDATA[ProcessFrame]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableBehaviour.*(playable, info, playerData)]]></description>
+</snippet>

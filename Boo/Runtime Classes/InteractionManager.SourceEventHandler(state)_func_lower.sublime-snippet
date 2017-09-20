@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[InteractionManager.SourceEventHandler(${1:state as VR.WSA.Input.InteractionSourceState})]]></content>
+	<content><![CDATA[InteractionManager.SourceEventHandler(${1:state as XR.WSA.Input.InteractionSourceState})]]></content>
 	<tabTrigger><![CDATA[sourceEventHandler]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[InteractionManager.*(state)]]></description>

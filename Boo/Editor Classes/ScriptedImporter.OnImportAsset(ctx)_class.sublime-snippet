@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptedImporter.OnImportAsset(${1:ctx as Experimental.AssetImporters.AssetImportContext})]]></content>
+	<tabTrigger><![CDATA[ScriptedImporter.OnImportAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ctx)]]></description>
+</snippet>

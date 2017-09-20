@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Plane.Translate(${1:plane : Plane}, ${2:translation : Vector3})]]></content>
+	<tabTrigger><![CDATA[translate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Plane.*(plane, translation)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushEditor.OnPaintSceneGUI(${1:gridLayout : GridLayout}, ${2:brushTarget : GameObject}, ${3:position : BoundsInt}, ${4:tool : Tool}, ${5:executing : bool})]]></content>
+	<tabTrigger><![CDATA[OnPaintSceneGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GridBrushEditor.*(gridLayout, brushTarget, position, tool, executing)]]></description>
+</snippet>

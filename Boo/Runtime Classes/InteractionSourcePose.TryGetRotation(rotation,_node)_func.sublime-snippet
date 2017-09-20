@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InteractionSourcePose.TryGetRotation(${1:rotation as out Quaternion}, ${2:node as XR.WSA.Input.InteractionSourceNode})]]></content>
+	<tabTrigger><![CDATA[TryGetRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[InteractionSourcePose.*(rotation, node)]]></description>
+</snippet>

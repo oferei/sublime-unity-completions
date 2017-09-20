@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SpatialMappingBase.OnBeginSurfaceEviction(${1:shouldBeActiveWhileRemoved : bool}, ${2:surface : VR.WSA.SpatialMappingBase.Surface})]]></content>
+	<content><![CDATA[SpatialMappingBase.OnBeginSurfaceEviction(${1:shouldBeActiveWhileRemoved : bool}, ${2:surface : XR.WSA.SpatialMappingBase.Surface})]]></content>
 	<tabTrigger><![CDATA[spatialMappingBase.OnBeginSurfaceEviction]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(shouldBeActiveWhileRemoved, surface)]]></description>

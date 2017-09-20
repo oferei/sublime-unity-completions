@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushBase.Pick(${1:GridLayout gridLayout}, ${2:GameObject brushTarget}, ${3:BoundsInt position}, ${4:Vector3Int pivot})]]></content>
+	<tabTrigger><![CDATA[gridBrushBase.Pick]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(gridLayout, brushTarget, position, pivot)]]></description>
+</snippet>

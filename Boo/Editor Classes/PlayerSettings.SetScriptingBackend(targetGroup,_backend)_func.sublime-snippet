@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetScriptingBackend(${1:targetGroup as BuildTargetGroup}, ${2:backend as ScriptingImplementation})]]></content>
+	<tabTrigger><![CDATA[SetScriptingBackend]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup, backend)]]></description>
+</snippet>

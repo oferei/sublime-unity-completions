@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTextureDescriptor(${1:int width}, ${2:int height}, ${3:RenderTextureFormat colorFormat})]]></content>
+	<tabTrigger><![CDATA[renderTextureDescriptor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(width, height, colorFormat)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.MoveCacheAfter(${1:src as Cache}, ${2:dst as Cache})]]></content>
+	<tabTrigger><![CDATA[Caching.MoveCacheAfter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(src, dst)]]></description>
+</snippet>

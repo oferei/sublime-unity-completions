@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRSettings.LoadDeviceByName(${1:string[] prioritizedDeviceNameList})]]></content>
+	<tabTrigger><![CDATA[xRSettings.LoadDeviceByName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(prioritizedDeviceNameList)]]></description>
+</snippet>

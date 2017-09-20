@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IndentLevelScope.EditorGUI.IndentLevelScope(${1:increment as int})]]></content>
+	<tabTrigger><![CDATA[editorGUI.IndentLevelScope]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IndentLevelScope.*(increment)]]></description>
+</snippet>

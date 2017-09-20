@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AdvertisementSettings.IsPlatformEnabled(${1:platform as RuntimePlatform})]]></content>
-	<tabTrigger><![CDATA[IsPlatformEnabled]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AdvertisementSettings.*(platform)]]></description>
-</snippet>

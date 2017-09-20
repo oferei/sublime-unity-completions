@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetTilesBlock(${1:position : BoundsInt}, ${2:tileArray : TileBase[]})]]></content>
+	<tabTrigger><![CDATA[setTilesBlock]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Tilemap.*(position, tileArray)]]></description>
+</snippet>

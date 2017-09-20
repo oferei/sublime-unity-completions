@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrackedPoseDriver.SetPoseSource(${1:DeviceType deviceType}, ${2:SpatialTracking.TrackedPoseDriver.TrackedPose pose})]]></content>
+	<tabTrigger><![CDATA[TrackedPoseDriver.SetPoseSource]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(deviceType, pose)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ModelImporter.ExtractTextures(${1:folderPath as string})]]></content>
+	<tabTrigger><![CDATA[ModelImporter.ExtractTextures]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(folderPath)]]></description>
+</snippet>

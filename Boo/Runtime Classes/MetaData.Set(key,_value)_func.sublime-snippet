@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MetaData.Set(${1:key as string}, ${2:value as object})]]></content>
-	<tabTrigger><![CDATA[Set]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MetaData.*(key, value)]]></description>
-</snippet>

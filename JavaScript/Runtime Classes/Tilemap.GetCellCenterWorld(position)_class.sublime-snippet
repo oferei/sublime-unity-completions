@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetCellCenterWorld(${1:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[Tilemap.GetCellCenterWorld]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

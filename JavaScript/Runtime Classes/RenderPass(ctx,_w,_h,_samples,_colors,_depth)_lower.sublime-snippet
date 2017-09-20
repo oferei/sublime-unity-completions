@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderPass(${1:ctx : Experimental.Rendering.ScriptableRenderContext}, ${2:w : int}, ${3:h : int}, ${4:samples : int}, ${5:colors : RenderPassAttachment[]}, ${6:depth : Experimental.Rendering.RenderPassAttachment})]]></content>
+	<tabTrigger><![CDATA[renderPass]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(ctx, w, h, samples, colors, depth)]]></description>
+</snippet>

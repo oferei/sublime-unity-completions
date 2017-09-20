@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IExposedPropertyTable.GetReferenceValue(${1:id as PropertyName}, ${2:idValid as out bool})]]></content>
+	<tabTrigger><![CDATA[GetReferenceValue]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IExposedPropertyTable.*(id, idValid)]]></description>
+</snippet>

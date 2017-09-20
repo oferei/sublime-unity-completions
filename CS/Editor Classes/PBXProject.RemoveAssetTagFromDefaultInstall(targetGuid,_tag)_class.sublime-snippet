@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveAssetTagFromDefaultInstall(${1:string targetGuid}, ${2:string tag})]]></content>
+	<tabTrigger><![CDATA[PBXProject.RemoveAssetTagFromDefaultInstall]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetGuid, tag)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetNativeVertexBufferPtr(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[getNativeVertexBufferPtr]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Mesh.*(index)]]></description>
+</snippet>

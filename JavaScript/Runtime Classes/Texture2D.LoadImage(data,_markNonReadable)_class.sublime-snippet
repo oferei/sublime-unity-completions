@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture2D.LoadImage(${1:data : byte[]}, ${2:markNonReadable : bool = false})]]></content>
-	<tabTrigger><![CDATA[Texture2D.LoadImage]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(data, markNonReadable)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasManager.RequestAtlasCallback(${1:tag : string}, ${2:action : Action<SpriteAtlas>})]]></content>
+	<tabTrigger><![CDATA[RequestAtlasCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SpriteAtlasManager.*(tag, action)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.CopyCounterValue(${1:ComputeBuffer src}, ${2:ComputeBuffer dst}, ${3:uint dstOffsetBytes})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.CopyCounterValue]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(src, dst, dstOffsetBytes)]]></description>
+</snippet>

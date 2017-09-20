@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Burst.ParticleSystem.Burst(${1:float _time}, ${2:short _count})]]></content>
+	<content><![CDATA[Burst.ParticleSystem.Burst(${1:float _time}, ${2:ParticleSystem.MinMaxCurve _count})]]></content>
 	<tabTrigger><![CDATA[ParticleSystem.Burst]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Burst.*(_time, _count)]]></description>

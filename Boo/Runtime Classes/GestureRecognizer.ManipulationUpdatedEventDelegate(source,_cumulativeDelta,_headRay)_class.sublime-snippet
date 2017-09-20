@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GestureRecognizer.ManipulationUpdatedEventDelegate(${1:source as VR.WSA.Input.InteractionSourceKind}, ${2:cumulativeDelta as Vector3}, ${3:headRay as Ray})]]></content>
+	<content><![CDATA[GestureRecognizer.ManipulationUpdatedEventDelegate(${1:source as XR.WSA.Input.InteractionSourceKind}, ${2:cumulativeDelta as Vector3}, ${3:headRay as Ray})]]></content>
 	<tabTrigger><![CDATA[GestureRecognizer.ManipulationUpdatedEventDelegate]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(source, cumulativeDelta, headRay)]]></description>

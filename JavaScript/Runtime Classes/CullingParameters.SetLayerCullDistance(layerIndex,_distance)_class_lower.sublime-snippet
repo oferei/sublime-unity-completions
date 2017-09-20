@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullingParameters.SetLayerCullDistance(${1:layerIndex : int}, ${2:distance : float})]]></content>
-	<tabTrigger><![CDATA[cullingParameters.SetLayerCullDistance]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(layerIndex, distance)]]></description>
-</snippet>

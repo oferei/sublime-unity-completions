@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConfigurationBuilder.AddProduct(${1:id as string}, ${2:type as Purchasing.ProductType}, ${3:storeIDs as Purchasing.IDs})]]></content>
-	<tabTrigger><![CDATA[addProduct]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ConfigurationBuilder.*(id, type, storeIDs)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableDirector.ClearReferenceValue(${1:id as PropertyName})]]></content>
+	<tabTrigger><![CDATA[ClearReferenceValue]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayableDirector.*(id)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridLayout.WorldToLocal(${1:Vector3 worldPosition})]]></content>
+	<tabTrigger><![CDATA[WorldToLocal]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GridLayout.*(worldPosition)]]></description>
+</snippet>

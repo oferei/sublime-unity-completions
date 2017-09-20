@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPropertyCollector.AddFromClip(${1:obj : GameObject}, ${2:clip : AnimationClip})]]></content>
+	<tabTrigger><![CDATA[addFromClip]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IPropertyCollector.*(obj, clip)]]></description>
+</snippet>

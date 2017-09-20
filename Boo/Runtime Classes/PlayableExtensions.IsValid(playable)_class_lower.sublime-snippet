@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.IsValid(${1:playable as U})]]></content>
+	<tabTrigger><![CDATA[playableExtensions.IsValid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrush.Init(${1:size : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[gridBrush.Init]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(size)]]></description>
+</snippet>

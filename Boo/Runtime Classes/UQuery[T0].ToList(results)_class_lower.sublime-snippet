@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQuery<T0>.ToList(${1:results as List<T>})]]></content>
+	<tabTrigger><![CDATA[uQuery<T0>.ToList]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(results)]]></description>
+</snippet>

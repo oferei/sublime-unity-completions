@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.TakePhotoAsync(${1:filename : string}, ${2:fileOutputFormat : VR.WSA.WebCam.PhotoCaptureFileOutputFormat}, ${3:onCapturedPhotoToDiskCallback : VR.WSA.WebCam.PhotoCapture.OnCapturedToDiskCallback})]]></content>
+	<content><![CDATA[PhotoCapture.TakePhotoAsync(${1:filename : string}, ${2:fileOutputFormat : XR.WSA.WebCam.PhotoCaptureFileOutputFormat}, ${3:onCapturedPhotoToDiskCallback : XR.WSA.WebCam.PhotoCapture.OnCapturedToDiskCallback})]]></content>
 	<tabTrigger><![CDATA[TakePhotoAsync]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PhotoCapture.*(filename, fileOutputFormat, onCapturedPhotoToDiskCallback)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddAppGroups(${1:groups as (string)})]]></content>
+	<tabTrigger><![CDATA[ProjectCapabilityManager.AddAppGroups]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(groups)]]></description>
+</snippet>

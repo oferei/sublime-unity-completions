@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.GetOperationError(${1:long operationId})]]></content>
+	<tabTrigger><![CDATA[getOperationError]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Client.*(operationId)]]></description>
+</snippet>

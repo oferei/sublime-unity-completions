@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomRenderTexture.SetUpdateZones(${1:updateZones : CustomRenderTextureUpdateZone[]})]]></content>
+	<tabTrigger><![CDATA[SetUpdateZones]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CustomRenderTexture.*(updateZones)]]></description>
+</snippet>

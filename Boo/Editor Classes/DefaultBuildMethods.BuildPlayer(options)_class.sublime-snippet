@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultBuildMethods.BuildPlayer(${1:options as BuildPlayerOptions})]]></content>
+	<tabTrigger><![CDATA[DefaultBuildMethods.BuildPlayer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(options)]]></description>
+</snippet>

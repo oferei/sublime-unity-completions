@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetUsedTilesNonAlloc(${1:usedTiles : TileBase[]})]]></content>
+	<tabTrigger><![CDATA[getUsedTilesNonAlloc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Tilemap.*(usedTiles)]]></description>
+</snippet>

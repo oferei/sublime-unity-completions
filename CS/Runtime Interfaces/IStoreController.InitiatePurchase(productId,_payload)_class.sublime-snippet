@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreController.InitiatePurchase(${1:string productId}, ${2:string payload})]]></content>
-	<tabTrigger><![CDATA[IStoreController.InitiatePurchase]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(productId, payload)]]></description>
-</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SurfaceObserver.SurfaceDataReadyDelegate(${1:bakedData as VR.WSA.SurfaceData}, ${2:outputWritten as bool}, ${3:elapsedBakeTimeSeconds as single})]]></content>
+	<content><![CDATA[SurfaceObserver.SurfaceDataReadyDelegate(${1:bakedData as XR.WSA.SurfaceData}, ${2:outputWritten as bool}, ${3:elapsedBakeTimeSeconds as single})]]></content>
 	<tabTrigger><![CDATA[surfaceObserver.SurfaceDataReadyDelegate]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(bakedData, outputWritten, elapsedBakeTimeSeconds)]]></description>

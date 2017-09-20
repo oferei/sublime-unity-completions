@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridSelection.Select(${1:Object target}, ${2:BoundsInt bounds})]]></content>
+	<tabTrigger><![CDATA[Select]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GridSelection.*(target, bounds)]]></description>
+</snippet>

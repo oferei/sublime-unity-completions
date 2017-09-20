@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSource.GetAmbisonicDecoderFloat(${1:index : int}, ${2:value : out float})]]></content>
+	<tabTrigger><![CDATA[AudioSource.GetAmbisonicDecoderFloat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

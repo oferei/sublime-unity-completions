@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Burst.ParticleSystem.Burst(${1:_time as single}, ${2:_minCount as short}, ${3:_maxCount as short}, ${4:_cycleCount as int}, ${5:_repeatInterval as single})]]></content>
+	<tabTrigger><![CDATA[burst.ParticleSystem.Burst]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(_time, _minCount, _maxCount, _cycleCount, _repeatInterval)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomRenderTexture(${1:int width}, ${2:int height}, ${3:RenderTextureFormat format})]]></content>
+	<tabTrigger><![CDATA[customRenderTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(width, height, format)]]></description>
+</snippet>

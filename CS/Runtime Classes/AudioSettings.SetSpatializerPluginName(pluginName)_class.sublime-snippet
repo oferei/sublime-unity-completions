@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSettings.SetSpatializerPluginName(${1:string pluginName})]]></content>
+	<tabTrigger><![CDATA[AudioSettings.SetSpatializerPluginName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(pluginName)]]></description>
+</snippet>

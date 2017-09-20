@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshEditorHelpers.DrawBuildDebug(${1:AI.NavMeshData navMeshData}, ${2:AI.NavMeshBuildDebugFlags flags = NavMeshBuildDebugFlags.All})]]></content>
+	<tabTrigger><![CDATA[DrawBuildDebug]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshEditorHelpers.*(navMeshData, flags)]]></description>
+</snippet>

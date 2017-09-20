@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMixerPlayable.Create(${1:graph as PlayableGraph}, ${2:inputCount as Int32}, ${3:normalizeWeights as Boolean})]]></content>
+	<tabTrigger><![CDATA[AnimationMixerPlayable.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(graph, inputCount, normalizeWeights)]]></description>
+</snippet>

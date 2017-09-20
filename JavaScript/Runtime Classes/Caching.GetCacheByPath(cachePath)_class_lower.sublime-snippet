@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Caching.GetCacheByPath(${1:cachePath : string})]]></content>
+	<tabTrigger><![CDATA[caching.GetCacheByPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(cachePath)]]></description>
+</snippet>

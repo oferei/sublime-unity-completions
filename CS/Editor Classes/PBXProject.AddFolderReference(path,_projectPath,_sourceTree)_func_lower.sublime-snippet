@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddFolderReference(${1:string path}, ${2:string projectPath}, ${3:iOS.Xcode.PBXSourceTree sourceTree})]]></content>
+	<tabTrigger><![CDATA[addFolderReference]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(path, projectPath, sourceTree)]]></description>
+</snippet>

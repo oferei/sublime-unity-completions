@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.SetBuildTags(${1:buildTags as (string)})]]></content>
+	<tabTrigger><![CDATA[setBuildTags]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Application.*(buildTags)]]></description>
+</snippet>

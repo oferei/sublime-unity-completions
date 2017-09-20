@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsSessionInfo.SessionStateChanged(${1:sessionState : Analytics.AnalyticsSessionState}, ${2:sessionId : long}, ${3:sessionElapsedTime : long}, ${4:sessionChanged : bool})]]></content>
+	<tabTrigger><![CDATA[AnalyticsSessionInfo.SessionStateChanged]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sessionState, sessionId, sessionElapsedTime, sessionChanged)]]></description>
+</snippet>

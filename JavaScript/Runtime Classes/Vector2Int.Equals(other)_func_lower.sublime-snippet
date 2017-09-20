@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.Equals(${1:other : object})]]></content>
+	<tabTrigger><![CDATA[equals]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector2Int.*(other)]]></description>
+</snippet>

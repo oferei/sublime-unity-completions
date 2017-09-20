@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderStateMapping(${1:stateBlock as Experimental.Rendering.RenderStateBlock})]]></content>
+	<tabTrigger><![CDATA[renderStateMapping]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stateBlock)]]></description>
+</snippet>

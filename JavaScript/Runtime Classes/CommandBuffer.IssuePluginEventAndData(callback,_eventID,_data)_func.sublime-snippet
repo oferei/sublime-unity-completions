@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.IssuePluginEventAndData(${1:callback : IntPtr}, ${2:eventID : int}, ${3:data : IntPtr})]]></content>
+	<tabTrigger><![CDATA[IssuePluginEventAndData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(callback, eventID, data)]]></description>
+</snippet>

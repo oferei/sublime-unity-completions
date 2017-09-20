@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureSheetAnimationModule.RemoveSprite(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[textureSheetAnimationModule.RemoveSprite]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

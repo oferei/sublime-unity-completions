@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState(${1:enabled as bool}, ${2:readMask as byte}, ${3:writeMask as byte}, ${4:compareFunctionFront as Rendering.CompareFunction}, ${5:passOperationFront as Rendering.StencilOp}, ${6:failOperationFront as Rendering.StencilOp}, ${7:zFailOperationFront as Rendering.StencilOp}, ${8:compareFunctionBack as Rendering.CompareFunction}, ${9:passOperationBack as Rendering.StencilOp}, ${10:failOperationBack as Rendering.StencilOp}, ${11:zFailOperationBack as Rendering.StencilOp})]]></content>
+	<tabTrigger><![CDATA[StencilState]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(enabled, readMask, writeMask, compareFunctionFront, passOperationFront, failOperationFront, zFailOperationFront, compareFunctionBack, passOperationBack, failOperationBack, zFailOperationBack)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.Simplify(${1:tolerance as single})]]></content>
+	<tabTrigger><![CDATA[Simplify]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LineRenderer.*(tolerance)]]></description>
+</snippet>

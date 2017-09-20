@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddCopyFilesBuildPhase(${1:string targetGuid}, ${2:string name}, ${3:string dstPath}, ${4:string subfolderSpec})]]></content>
+	<tabTrigger><![CDATA[pBXProject.AddCopyFilesBuildPhase]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetGuid, name, dstPath, subfolderSpec)]]></description>
+</snippet>

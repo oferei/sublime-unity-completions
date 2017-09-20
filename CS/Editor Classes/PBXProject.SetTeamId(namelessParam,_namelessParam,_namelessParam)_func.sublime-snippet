@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.SetTeamId(${1:string namelessParam}, ${2:string namelessParam}, ${3:string namelessParam})]]></content>
+	<tabTrigger><![CDATA[SetTeamId]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

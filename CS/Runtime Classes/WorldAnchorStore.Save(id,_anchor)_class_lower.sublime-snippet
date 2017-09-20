@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorStore.Save(${1:string id}, ${2:VR.WSA.WorldAnchor anchor})]]></content>
+	<content><![CDATA[WorldAnchorStore.Save(${1:string id}, ${2:XR.WSA.WorldAnchor anchor})]]></content>
 	<tabTrigger><![CDATA[worldAnchorStore.Save]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(id, anchor)]]></description>

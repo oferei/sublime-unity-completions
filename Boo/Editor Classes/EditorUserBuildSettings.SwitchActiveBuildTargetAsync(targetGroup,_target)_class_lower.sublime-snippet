@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUserBuildSettings.SwitchActiveBuildTargetAsync(${1:targetGroup as BuildTargetGroup}, ${2:target as BuildTarget})]]></content>
+	<tabTrigger><![CDATA[editorUserBuildSettings.SwitchActiveBuildTargetAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGroup, target)]]></description>
+</snippet>

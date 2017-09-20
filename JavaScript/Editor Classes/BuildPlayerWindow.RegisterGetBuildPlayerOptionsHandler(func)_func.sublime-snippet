@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPlayerWindow.RegisterGetBuildPlayerOptionsHandler(${1:func : Func<BuildPlayerOptions,BuildPlayerOptions>})]]></content>
+	<tabTrigger><![CDATA[RegisterGetBuildPlayerOptionsHandler]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BuildPlayerWindow.*(func)]]></description>
+</snippet>

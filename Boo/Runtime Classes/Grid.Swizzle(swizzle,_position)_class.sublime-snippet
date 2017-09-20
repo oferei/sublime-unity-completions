@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Grid.Swizzle(${1:swizzle as GridLayout.CellSwizzle}, ${2:position as Vector3})]]></content>
+	<tabTrigger><![CDATA[Grid.Swizzle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(swizzle, position)]]></description>
+</snippet>

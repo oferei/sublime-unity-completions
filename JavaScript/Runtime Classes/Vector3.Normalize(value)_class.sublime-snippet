@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector3.Normalize(${1:value : Vector3})]]></content>
+	<tabTrigger><![CDATA[Vector3.Normalize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

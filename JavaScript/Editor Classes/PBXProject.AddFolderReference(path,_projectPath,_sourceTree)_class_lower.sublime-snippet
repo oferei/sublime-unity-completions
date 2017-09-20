@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.AddFolderReference(${1:path : string}, ${2:projectPath : string}, ${3:sourceTree : iOS.Xcode.PBXSourceTree})]]></content>
+	<tabTrigger><![CDATA[pBXProject.AddFolderReference]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path, projectPath, sourceTree)]]></description>
+</snippet>

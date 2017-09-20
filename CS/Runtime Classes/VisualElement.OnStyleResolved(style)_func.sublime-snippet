@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.OnStyleResolved(${1:Experimental.UIElements.StyleSheets.ICustomStyle style})]]></content>
+	<tabTrigger><![CDATA[OnStyleResolved]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualElement.*(style)]]></description>
+</snippet>

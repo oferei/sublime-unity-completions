@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.ExtractAsset(${1:asset : Object}, ${2:newPath : string})]]></content>
+	<tabTrigger><![CDATA[assetDatabase.ExtractAsset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(asset, newPath)]]></description>
+</snippet>

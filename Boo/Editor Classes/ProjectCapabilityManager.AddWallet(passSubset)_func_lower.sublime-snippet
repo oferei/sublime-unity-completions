@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddWallet(${1:passSubset as (string)})]]></content>
+	<tabTrigger><![CDATA[addWallet]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ProjectCapabilityManager.*(passSubset)]]></description>
+</snippet>

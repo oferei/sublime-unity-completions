@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlas.GetSprites(${1:Sprite[] sprites})]]></content>
+	<tabTrigger><![CDATA[spriteAtlas.GetSprites]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(sprites)]]></description>
+</snippet>

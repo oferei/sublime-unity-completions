@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[WorldAnchorTransferBatch.ImportAsync(${1:byte[] serializedData}, ${2:int offset}, ${3:int length}, ${4:VR.WSA.Sharing.WorldAnchorTransferBatch.DeserializationCompleteDelegate onComplete})]]></content>
+	<content><![CDATA[WorldAnchorTransferBatch.ImportAsync(${1:byte[] serializedData}, ${2:int offset}, ${3:int length}, ${4:XR.WSA.Sharing.WorldAnchorTransferBatch.DeserializationCompleteDelegate onComplete})]]></content>
 	<tabTrigger><![CDATA[worldAnchorTransferBatch.ImportAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(serializedData, offset, length, onComplete)]]></description>

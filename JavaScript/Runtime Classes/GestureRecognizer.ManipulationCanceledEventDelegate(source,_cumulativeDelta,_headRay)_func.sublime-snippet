@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[GestureRecognizer.ManipulationCanceledEventDelegate(${1:source : VR.WSA.Input.InteractionSourceKind}, ${2:cumulativeDelta : Vector3}, ${3:headRay : Ray})]]></content>
+	<content><![CDATA[GestureRecognizer.ManipulationCanceledEventDelegate(${1:source : XR.WSA.Input.InteractionSourceKind}, ${2:cumulativeDelta : Vector3}, ${3:headRay : Ray})]]></content>
 	<tabTrigger><![CDATA[ManipulationCanceledEventDelegate]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[GestureRecognizer.*(source, cumulativeDelta, headRay)]]></description>

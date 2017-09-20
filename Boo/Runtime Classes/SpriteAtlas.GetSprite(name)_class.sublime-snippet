@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlas.GetSprite(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[SpriteAtlas.GetSprite]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

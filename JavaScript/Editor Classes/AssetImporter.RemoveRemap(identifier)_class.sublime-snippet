@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImporter.RemoveRemap(${1:identifier : AssetImporter.SourceAssetIdentifier})]]></content>
+	<tabTrigger><![CDATA[AssetImporter.RemoveRemap]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(identifier)]]></description>
+</snippet>

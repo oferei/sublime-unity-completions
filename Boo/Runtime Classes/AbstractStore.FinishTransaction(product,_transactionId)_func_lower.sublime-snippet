@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AbstractStore.FinishTransaction(${1:product as Purchasing.ProductDefinition}, ${2:transactionId as string})]]></content>
-	<tabTrigger><![CDATA[finishTransaction]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AbstractStore.*(product, transactionId)]]></description>
-</snippet>

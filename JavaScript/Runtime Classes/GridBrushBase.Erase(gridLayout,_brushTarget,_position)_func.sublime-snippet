@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushBase.Erase(${1:gridLayout : GridLayout}, ${2:brushTarget : GameObject}, ${3:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[Erase]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GridBrushBase.*(gridLayout, brushTarget, position)]]></description>
+</snippet>

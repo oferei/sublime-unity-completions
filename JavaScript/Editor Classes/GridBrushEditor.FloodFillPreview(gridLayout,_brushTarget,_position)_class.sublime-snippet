@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridBrushEditor.FloodFillPreview(${1:gridLayout : GridLayout}, ${2:brushTarget : GameObject}, ${3:position : Vector3Int})]]></content>
+	<tabTrigger><![CDATA[GridBrushEditor.FloodFillPreview]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gridLayout, brushTarget, position)]]></description>
+</snippet>

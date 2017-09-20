@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.GetTemporary(${1:RenderTextureDescriptor desc})]]></content>
+	<tabTrigger><![CDATA[getTemporary]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RenderTexture.*(desc)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetBlendState(${1:writeMask : Rendering.ColorWriteMask}, ${2:sourceColorBlendMode : Rendering.BlendMode}, ${3:destinationColorBlendMode : Rendering.BlendMode}, ${4:sourceAlphaBlendMode : Rendering.BlendMode}, ${5:destinationAlphaBlendMode : Rendering.BlendMode}, ${6:colorBlendOperation : Rendering.BlendOp}, ${7:alphaBlendOperation : Rendering.BlendOp})]]></content>
+	<tabTrigger><![CDATA[RenderTargetBlendState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(writeMask, sourceColorBlendMode, destinationColorBlendMode, sourceAlphaBlendMode, destinationAlphaBlendMode, colorBlendOperation, alphaBlendOperation)]]></description>
+</snippet>

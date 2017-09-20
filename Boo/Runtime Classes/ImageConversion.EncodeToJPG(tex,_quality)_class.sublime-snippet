@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageConversion.EncodeToJPG(${1:tex as Texture2D}, ${2:quality as int})]]></content>
+	<tabTrigger><![CDATA[ImageConversion.EncodeToJPG]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tex, quality)]]></description>
+</snippet>

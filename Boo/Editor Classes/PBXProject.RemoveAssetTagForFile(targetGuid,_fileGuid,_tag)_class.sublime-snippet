@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.RemoveAssetTagForFile(${1:targetGuid as string}, ${2:fileGuid as string}, ${3:tag as string})]]></content>
+	<tabTrigger><![CDATA[PBXProject.RemoveAssetTagForFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGuid, fileGuid, tag)]]></description>
+</snippet>

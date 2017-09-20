@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.StopVideoModeAsync(${1:VR.WSA.WebCam.VideoCapture.OnVideoModeStoppedCallback onVideoModeStoppedCallback})]]></content>
+	<content><![CDATA[VideoCapture.StopVideoModeAsync(${1:XR.WSA.WebCam.VideoCapture.OnVideoModeStoppedCallback onVideoModeStoppedCallback})]]></content>
 	<tabTrigger><![CDATA[stopVideoModeAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[VideoCapture.*(onVideoModeStoppedCallback)]]></description>

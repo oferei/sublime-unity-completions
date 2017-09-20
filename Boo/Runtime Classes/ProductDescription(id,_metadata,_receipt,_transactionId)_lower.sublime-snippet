@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProductDescription(${1:id as string}, ${2:metadata as Purchasing.ProductMetadata}, ${3:receipt as string}, ${4:transactionId as string})]]></content>
-	<tabTrigger><![CDATA[productDescription]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(id, metadata, receipt, transactionId)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.GetTilesBlock(${1:bounds as BoundsInt})]]></content>
+	<tabTrigger><![CDATA[Tilemap.GetTilesBlock]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(bounds)]]></description>
+</snippet>

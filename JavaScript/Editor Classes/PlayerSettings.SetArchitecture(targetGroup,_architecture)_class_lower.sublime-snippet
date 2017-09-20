@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetArchitecture(${1:targetGroup : BuildTargetGroup}, ${2:architecture : int})]]></content>
+	<tabTrigger><![CDATA[playerSettings.SetArchitecture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(targetGroup, architecture)]]></description>
+</snippet>

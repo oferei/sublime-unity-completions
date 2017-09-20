@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.SetTileFlags(${1:position : Vector3Int}, ${2:flags : Tilemaps.TileFlags})]]></content>
+	<tabTrigger><![CDATA[Tilemap.SetTileFlags]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, flags)]]></description>
+</snippet>

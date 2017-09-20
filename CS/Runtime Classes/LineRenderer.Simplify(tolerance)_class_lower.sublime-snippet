@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.Simplify(${1:float tolerance})]]></content>
+	<tabTrigger><![CDATA[lineRenderer.Simplify]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(tolerance)]]></description>
+</snippet>

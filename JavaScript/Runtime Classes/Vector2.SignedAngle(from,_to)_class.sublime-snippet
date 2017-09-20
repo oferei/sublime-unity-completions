@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.SignedAngle(${1:from : Vector2}, ${2:to : Vector2})]]></content>
+	<tabTrigger><![CDATA[Vector2.SignedAngle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(from, to)]]></description>
+</snippet>

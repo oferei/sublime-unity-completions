@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WWW.LoadFromCacheOrDownload(${1:url : string}, ${2:version : int}, ${3:crc : uint})]]></content>
+	<tabTrigger><![CDATA[WWW.LoadFromCacheOrDownload]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(url, version, crc)]]></description>
+</snippet>

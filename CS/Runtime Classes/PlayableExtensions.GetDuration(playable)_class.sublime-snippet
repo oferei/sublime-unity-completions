@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.GetDuration(${1:U playable})]]></content>
+	<tabTrigger><![CDATA[PlayableExtensions.GetDuration]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable)]]></description>
+</snippet>

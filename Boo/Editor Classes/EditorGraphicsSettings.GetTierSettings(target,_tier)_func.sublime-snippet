@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[EditorGraphicsSettings.GetTierSettings(${1:target as BuildTargetGroup}, ${2:tier as ShaderHardwareTier})]]></content>
+	<content><![CDATA[EditorGraphicsSettings.GetTierSettings(${1:target as BuildTargetGroup}, ${2:tier as Rendering.GraphicsTier})]]></content>
 	<tabTrigger><![CDATA[GetTierSettings]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[EditorGraphicsSettings.*(target, tier)]]></description>

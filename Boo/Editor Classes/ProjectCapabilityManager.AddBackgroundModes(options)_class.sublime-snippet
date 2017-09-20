@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddBackgroundModes(${1:options as iOS.Xcode.BackgroundModesOptions})]]></content>
+	<tabTrigger><![CDATA[ProjectCapabilityManager.AddBackgroundModes]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(options)]]></description>
+</snippet>

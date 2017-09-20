@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRDevice.SetTrackingSpaceType(${1:trackingSpaceType as XR.TrackingSpaceType})]]></content>
+	<tabTrigger><![CDATA[SetTrackingSpaceType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[XRDevice.*(trackingSpaceType)]]></description>
+</snippet>

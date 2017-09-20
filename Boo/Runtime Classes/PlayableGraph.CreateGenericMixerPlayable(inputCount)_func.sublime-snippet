@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayableGraph.CreateGenericMixerPlayable(${1:inputCount as int = 0})]]></content>
-	<tabTrigger><![CDATA[CreateGenericMixerPlayable]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PlayableGraph.*(inputCount)]]></description>
-</snippet>

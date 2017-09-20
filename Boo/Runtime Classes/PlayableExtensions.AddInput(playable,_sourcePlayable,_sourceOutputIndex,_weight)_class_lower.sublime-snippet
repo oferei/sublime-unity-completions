@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.AddInput(${1:playable as U}, ${2:sourcePlayable as V}, ${3:sourceOutputIndex as int}, ${4:weight as single})]]></content>
+	<tabTrigger><![CDATA[playableExtensions.AddInput]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(playable, sourcePlayable, sourceOutputIndex, weight)]]></description>
+</snippet>

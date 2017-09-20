@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GvrAudioListenerExtensionMethods.GetQuality(${1:AudioListener listener})]]></content>
+	<tabTrigger><![CDATA[GetQuality]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GvrAudioListenerExtensionMethods.*(listener)]]></description>
+</snippet>
