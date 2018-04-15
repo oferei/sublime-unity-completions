@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Animator.CrossFadeInFixedTime(${1:stateNameHash as int}, ${2:transitionDuration as single}, ${3:layer as int = -1}, ${4:fixedTime as single = 0.0f})]]></content>
-	<tabTrigger><![CDATA[animator.CrossFadeInFixedTime]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(stateNameHash, transitionDuration, layer, fixedTime)]]></description>
-</snippet>

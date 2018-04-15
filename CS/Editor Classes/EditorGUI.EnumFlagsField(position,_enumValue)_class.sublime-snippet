@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.EnumFlagsField(${1:Rect position}, ${2:Enum enumValue})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.EnumFlagsField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, enumValue)]]></description>
+</snippet>

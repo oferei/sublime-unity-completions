@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.Remove(${1:operationId as out long}, ${2:packageId as string})]]></content>
-	<tabTrigger><![CDATA[client.Remove]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(operationId, packageId)]]></description>
-</snippet>

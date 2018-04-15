@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProductDefinition(${1:id as string}, ${2:type as Purchasing.ProductType})]]></content>
+	<tabTrigger><![CDATA[productDefinition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(id, type)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetAssemblyDefinitionFilePathFromScriptPath(${1:sourceFilePath : string})]]></content>
+	<tabTrigger><![CDATA[GetAssemblyDefinitionFilePathFromScriptPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CompilationPipeline.*(sourceFilePath)]]></description>
+</snippet>

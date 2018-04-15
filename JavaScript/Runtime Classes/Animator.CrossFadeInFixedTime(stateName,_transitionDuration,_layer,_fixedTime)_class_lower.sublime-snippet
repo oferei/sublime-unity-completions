@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Animator.CrossFadeInFixedTime(${1:stateName : string}, ${2:transitionDuration : float}, ${3:layer : int = -1}, ${4:fixedTime : float = 0.0f})]]></content>
-	<tabTrigger><![CDATA[animator.CrossFadeInFixedTime]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(stateName, transitionDuration, layer, fixedTime)]]></description>
-</snippet>

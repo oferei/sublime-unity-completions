@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioSourceExtensionMethods.SetGainDb(${1:AudioSource source}, ${2:float gainDb})]]></content>
-	<tabTrigger><![CDATA[gvrAudioSourceExtensionMethods.SetGainDb]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(source, gainDb)]]></description>
-</snippet>

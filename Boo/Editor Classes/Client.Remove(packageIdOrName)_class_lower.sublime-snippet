@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.Remove(${1:packageIdOrName as string})]]></content>
+	<tabTrigger><![CDATA[client.Remove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(packageIdOrName)]]></description>
+</snippet>

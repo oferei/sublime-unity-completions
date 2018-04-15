@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.ExecuteCommandBufferAsync(${1:buffer as Rendering.CommandBuffer}, ${2:queueType as Rendering.ComputeQueueType})]]></content>
+	<tabTrigger><![CDATA[graphics.ExecuteCommandBufferAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(buffer, queueType)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationLayerMixerPlayable.IsLayerAdditive(${1:uint layerIndex})]]></content>
+	<tabTrigger><![CDATA[isLayerAdditive]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationLayerMixerPlayable.*(layerIndex)]]></description>
+</snippet>

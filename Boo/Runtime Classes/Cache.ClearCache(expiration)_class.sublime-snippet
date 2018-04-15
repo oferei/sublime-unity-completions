@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cache.ClearCache(${1:expiration as int})]]></content>
+	<tabTrigger><![CDATA[Cache.ClearCache]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(expiration)]]></description>
+</snippet>

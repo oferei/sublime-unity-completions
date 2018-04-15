@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cloth.SetVirtualParticleIndices(${1:indices : List<uint>})]]></content>
+	<tabTrigger><![CDATA[cloth.SetVirtualParticleIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(indices)]]></description>
+</snippet>

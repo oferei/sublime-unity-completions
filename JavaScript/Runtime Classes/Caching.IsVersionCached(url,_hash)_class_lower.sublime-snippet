@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Caching.IsVersionCached(${1:url : string}, ${2:hash : Hash128})]]></content>
-	<tabTrigger><![CDATA[caching.IsVersionCached]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(url, hash)]]></description>
-</snippet>

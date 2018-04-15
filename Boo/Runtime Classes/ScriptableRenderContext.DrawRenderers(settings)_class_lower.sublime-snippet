@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableRenderContext.DrawRenderers(${1:settings as ref Experimental.Rendering.DrawRendererSettings})]]></content>
-	<tabTrigger><![CDATA[scriptableRenderContext.DrawRenderers]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(settings)]]></description>
-</snippet>

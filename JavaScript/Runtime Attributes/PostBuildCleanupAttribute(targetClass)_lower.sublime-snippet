@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PostBuildCleanupAttribute(${1:targetClass : Type})]]></content>
+	<tabTrigger><![CDATA[postBuildCleanupAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(targetClass)]]></description>
+</snippet>

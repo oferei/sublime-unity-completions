@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayableGraph.DestroySubgraph(${1:playable as Playable})]]></content>
+	<content><![CDATA[PlayableGraph.DestroySubgraph(${1:playable as U})]]></content>
 	<tabTrigger><![CDATA[DestroySubgraph]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[PlayableGraph.*(playable)]]></description>

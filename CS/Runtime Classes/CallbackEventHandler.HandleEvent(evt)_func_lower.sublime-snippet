@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CallbackEventHandler.HandleEvent(${1:Experimental.UIElements.EventBase evt})]]></content>
+	<tabTrigger><![CDATA[handleEvent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CallbackEventHandler.*(evt)]]></description>
+</snippet>

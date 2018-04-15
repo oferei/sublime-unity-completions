@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ModelImporter.SearchAndRemapMaterials(${1:nameOption as ModelImporterMaterialName}, ${2:searchOption as ModelImporterMaterialSearch})]]></content>
+	<tabTrigger><![CDATA[ModelImporter.SearchAndRemapMaterials]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(nameOption, searchOption)]]></description>
+</snippet>

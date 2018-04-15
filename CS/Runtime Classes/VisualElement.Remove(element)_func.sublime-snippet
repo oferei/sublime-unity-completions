@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.Remove(${1:Experimental.UIElements.VisualElement element})]]></content>
+	<tabTrigger><![CDATA[Remove]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualElement.*(element)]]></description>
+</snippet>

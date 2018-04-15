@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationLayerMixerPlayable.SetLayerAdditive(${1:layerIndex : uint}, ${2:value : bool})]]></content>
+	<tabTrigger><![CDATA[setLayerAdditive]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationLayerMixerPlayable.*(layerIndex, value)]]></description>
+</snippet>

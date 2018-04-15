@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.Constant(${1:float timeStart}, ${2:float timeEnd}, ${3:float value})]]></content>
+	<tabTrigger><![CDATA[animationCurve.Constant]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(timeStart, timeEnd, value)]]></description>
+</snippet>

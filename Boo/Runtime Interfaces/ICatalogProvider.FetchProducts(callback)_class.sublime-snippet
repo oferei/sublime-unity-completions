@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ICatalogProvider.FetchProducts(${1:callback as Action<HashSet<ProductDefinition>>})]]></content>
+	<tabTrigger><![CDATA[ICatalogProvider.FetchProducts]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(callback)]]></description>
+</snippet>

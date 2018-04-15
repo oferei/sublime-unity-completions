@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayableBehaviour.ProcessFrame(${1:playable as Playable}, ${2:info as FrameData}, ${3:playerData as Object})]]></content>
+	<content><![CDATA[PlayableBehaviour.ProcessFrame(${1:playable as Playables.Playable}, ${2:info as Playables.FrameData}, ${3:playerData as object})]]></content>
 	<tabTrigger><![CDATA[ProcessFrame]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[PlayableBehaviour.*(playable, info, playerData)]]></description>

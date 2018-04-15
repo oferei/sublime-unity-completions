@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IStoreCallback.OnPurchaseFailed(${1:desc : Purchasing.Extension.PurchaseFailureDescription})]]></content>
+	<tabTrigger><![CDATA[IStoreCallback.OnPurchaseFailed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(desc)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetBaseVertex(${1:submesh as int})]]></content>
+	<tabTrigger><![CDATA[mesh.GetBaseVertex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(submesh)]]></description>
+</snippet>

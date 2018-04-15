@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.Add(${1:operationId as out long}, ${2:packageId as string})]]></content>
-	<tabTrigger><![CDATA[Add]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Client.*(operationId, packageId)]]></description>
-</snippet>

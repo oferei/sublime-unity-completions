@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetImportContext.SetMainAsset(${1:identifier : string}, ${2:asset : Object}, ${3:thumbnail : Texture2D})]]></content>
-	<tabTrigger><![CDATA[setMainAsset]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AssetImportContext.*(identifier, asset, thumbnail)]]></description>
-</snippet>

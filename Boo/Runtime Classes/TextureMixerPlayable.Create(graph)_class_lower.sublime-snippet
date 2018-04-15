@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureMixerPlayable.Create(${1:graph as Playables.PlayableGraph})]]></content>
+	<tabTrigger><![CDATA[textureMixerPlayable.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(graph)]]></description>
+</snippet>

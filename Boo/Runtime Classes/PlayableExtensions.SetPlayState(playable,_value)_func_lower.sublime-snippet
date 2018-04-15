@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayableExtensions.SetPlayState(${1:playable as U}, ${2:value as Playables.PlayState})]]></content>
-	<tabTrigger><![CDATA[setPlayState]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PlayableExtensions.*(playable, value)]]></description>
-</snippet>

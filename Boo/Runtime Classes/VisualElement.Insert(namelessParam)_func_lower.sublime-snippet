@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.Insert(${1:namelessParam as VisualElement})]]></content>
+	<tabTrigger><![CDATA[insert]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualElement.*(namelessParam)]]></description>
+</snippet>

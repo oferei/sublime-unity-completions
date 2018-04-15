@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.WaitOnGPUFence(${1:fence as Rendering.GPUFence}, ${2:stage as Rendering.SynchronisationStage = SynchronisationStage.VertexProcessing})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.WaitOnGPUFence]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fence, stage)]]></description>
+</snippet>

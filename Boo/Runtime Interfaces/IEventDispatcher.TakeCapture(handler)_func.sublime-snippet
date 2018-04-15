@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IEventDispatcher.TakeCapture(${1:handler as Experimental.UIElements.IEventHandler})]]></content>
+	<tabTrigger><![CDATA[TakeCapture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IEventDispatcher.*(handler)]]></description>
+</snippet>

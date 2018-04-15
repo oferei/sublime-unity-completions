@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IFocusRing.GetNextFocusable(${1:currentFocusable as Experimental.UIElements.Focusable}, ${2:direction as Experimental.UIElements.FocusChangeDirection})]]></content>
+	<tabTrigger><![CDATA[IFocusRing.GetNextFocusable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(currentFocusable, direction)]]></description>
+</snippet>

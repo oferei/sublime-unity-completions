@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationCurve.Constant(${1:timeStart as single}, ${2:timeEnd as single}, ${3:value as single})]]></content>
+	<tabTrigger><![CDATA[AnimationCurve.Constant]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(timeStart, timeEnd, value)]]></description>
+</snippet>

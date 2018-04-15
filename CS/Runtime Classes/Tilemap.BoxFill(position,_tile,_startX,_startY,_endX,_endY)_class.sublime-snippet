@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tilemap.BoxFill(${1:Vector3Int position}, ${2:TileBase tile}, ${3:int startX}, ${4:int startY}, ${5:int endX}, ${6:int endY})]]></content>
+	<content><![CDATA[Tilemap.BoxFill(${1:Vector3Int position}, ${2:Tilemaps.TileBase tile}, ${3:int startX}, ${4:int startY}, ${5:int endX}, ${6:int endY})]]></content>
 	<tabTrigger><![CDATA[Tilemap.BoxFill]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, tile, startX, startY, endX, endY)]]></description>

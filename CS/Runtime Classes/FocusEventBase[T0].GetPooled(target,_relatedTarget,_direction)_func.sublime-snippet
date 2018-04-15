@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FocusEventBase<T0>.GetPooled(${1:Experimental.UIElements.IEventHandler target}, ${2:Experimental.UIElements.Focusable relatedTarget}, ${3:Experimental.UIElements.FocusChangeDirection direction})]]></content>
+	<tabTrigger><![CDATA[GetPooled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[FocusEventBase<T0>.*(target, relatedTarget, direction)]]></description>
+</snippet>

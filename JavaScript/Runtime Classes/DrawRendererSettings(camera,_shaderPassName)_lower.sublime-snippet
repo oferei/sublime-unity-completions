@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawRendererSettings(${1:camera : Camera}, ${2:shaderPassName : Experimental.Rendering.ShaderPassName})]]></content>
+	<tabTrigger><![CDATA[drawRendererSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(camera, shaderPassName)]]></description>
+</snippet>

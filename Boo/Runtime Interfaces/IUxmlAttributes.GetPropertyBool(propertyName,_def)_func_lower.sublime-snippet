@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IUxmlAttributes.GetPropertyBool(${1:propertyName as string}, ${2:def as bool})]]></content>
+	<tabTrigger><![CDATA[getPropertyBool]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IUxmlAttributes.*(propertyName, def)]]></description>
+</snippet>

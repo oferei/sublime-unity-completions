@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.StopMultiEye(${1:camera : Camera})]]></content>
+	<tabTrigger><![CDATA[StopMultiEye]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ScriptableRenderContext.*(camera)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder(${1:filePath : string}, ${2:audioAttrs : Media.AudioTrackAttributes})]]></content>
+	<tabTrigger><![CDATA[MediaEncoder]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(filePath, audioAttrs)]]></description>
+</snippet>

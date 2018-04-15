@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrebuildSetupAttribute(${1:string targetClassName})]]></content>
+	<tabTrigger><![CDATA[PrebuildSetupAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetClassName)]]></description>
+</snippet>

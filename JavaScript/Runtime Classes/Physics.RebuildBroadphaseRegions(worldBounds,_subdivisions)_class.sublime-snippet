@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.RebuildBroadphaseRegions(${1:worldBounds : Bounds}, ${2:subdivisions : int})]]></content>
+	<tabTrigger><![CDATA[Physics.RebuildBroadphaseRegions]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(worldBounds, subdivisions)]]></description>
+</snippet>

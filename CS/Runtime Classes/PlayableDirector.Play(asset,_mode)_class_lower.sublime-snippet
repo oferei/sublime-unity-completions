@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableDirector.Play(${1:Playables.PlayableAsset asset}, ${2:Playables.DirectorWrapMode mode})]]></content>
+	<tabTrigger><![CDATA[playableDirector.Play]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(asset, mode)]]></description>
+</snippet>

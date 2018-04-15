@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cloth.GetSelfAndInterCollisionIndices(${1:indices : List<uint>})]]></content>
+	<tabTrigger><![CDATA[cloth.GetSelfAndInterCollisionIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(indices)]]></description>
+</snippet>

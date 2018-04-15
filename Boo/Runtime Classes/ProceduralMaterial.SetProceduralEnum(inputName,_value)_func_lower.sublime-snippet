@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralEnum(${1:inputName as string}, ${2:value as int})]]></content>
-	<tabTrigger><![CDATA[setProceduralEnum]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ProceduralMaterial.*(inputName, value)]]></description>
-</snippet>

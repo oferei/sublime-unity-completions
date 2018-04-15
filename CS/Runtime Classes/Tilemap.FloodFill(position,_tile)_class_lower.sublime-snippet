@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Tilemap.FloodFill(${1:Vector3Int position}, ${2:TileBase tile})]]></content>
+	<content><![CDATA[Tilemap.FloodFill(${1:Vector3Int position}, ${2:Tilemaps.TileBase tile})]]></content>
 	<tabTrigger><![CDATA[tilemap.FloodFill]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(position, tile)]]></description>

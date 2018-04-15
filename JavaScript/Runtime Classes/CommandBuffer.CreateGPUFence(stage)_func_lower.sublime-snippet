@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.CreateGPUFence(${1:stage : Rendering.SynchronisationStage = SynchronisationStage.PixelProcessing})]]></content>
+	<tabTrigger><![CDATA[createGPUFence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(stage)]]></description>
+</snippet>

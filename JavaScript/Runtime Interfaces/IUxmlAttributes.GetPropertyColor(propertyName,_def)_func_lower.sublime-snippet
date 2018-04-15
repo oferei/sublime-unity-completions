@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IUxmlAttributes.GetPropertyColor(${1:propertyName : string}, ${2:def : Color})]]></content>
+	<tabTrigger><![CDATA[getPropertyColor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IUxmlAttributes.*(propertyName, def)]]></description>
+</snippet>

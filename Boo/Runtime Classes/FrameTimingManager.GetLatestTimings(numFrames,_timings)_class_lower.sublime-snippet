@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FrameTimingManager.GetLatestTimings(${1:numFrames as uint}, ${2:timings as (FrameTiming)})]]></content>
+	<tabTrigger><![CDATA[frameTimingManager.GetLatestTimings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(numFrames, timings)]]></description>
+</snippet>

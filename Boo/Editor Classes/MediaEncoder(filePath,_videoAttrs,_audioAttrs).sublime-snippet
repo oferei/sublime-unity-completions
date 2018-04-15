@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder(${1:filePath as string}, ${2:videoAttrs as Media.VideoTrackAttributes}, ${3:audioAttrs as Media.AudioTrackAttributes})]]></content>
+	<tabTrigger><![CDATA[MediaEncoder]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(filePath, videoAttrs, audioAttrs)]]></description>
+</snippet>

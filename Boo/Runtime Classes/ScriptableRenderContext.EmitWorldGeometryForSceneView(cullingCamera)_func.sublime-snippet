@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.EmitWorldGeometryForSceneView(${1:cullingCamera as Camera})]]></content>
+	<tabTrigger><![CDATA[EmitWorldGeometryForSceneView]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ScriptableRenderContext.*(cullingCamera)]]></description>
+</snippet>

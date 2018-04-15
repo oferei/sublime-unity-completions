@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerConnection.BlockUntilRecvMsg(${1:messageId as Guid}, ${2:timeout as int})]]></content>
+	<tabTrigger><![CDATA[blockUntilRecvMsg]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayerConnection.*(messageId, timeout)]]></description>
+</snippet>

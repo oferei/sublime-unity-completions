@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.CutsceneSkip(${1:name as string}, ${2:eventData as IDictionary<string,object>})]]></content>
+	<tabTrigger><![CDATA[analyticsEvent.CutsceneSkip]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, eventData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.Disc(${1:int id}, ${2:Quaternion rotation}, ${3:Vector3 position}, ${4:Vector3 axis}, ${5:float size}, ${6:bool cutoffPlane}, ${7:float snap})]]></content>
+	<tabTrigger><![CDATA[Disc]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Handles.*(id, rotation, position, axis, size, cutoffPlane, snap)]]></description>
+</snippet>

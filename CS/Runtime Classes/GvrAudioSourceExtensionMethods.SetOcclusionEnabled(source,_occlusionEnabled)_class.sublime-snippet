@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioSourceExtensionMethods.SetOcclusionEnabled(${1:AudioSource source}, ${2:bool occlusionEnabled})]]></content>
-	<tabTrigger><![CDATA[GvrAudioSourceExtensionMethods.SetOcclusionEnabled]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(source, occlusionEnabled)]]></description>
-</snippet>

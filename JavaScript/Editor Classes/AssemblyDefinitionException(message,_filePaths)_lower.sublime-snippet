@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssemblyDefinitionException(${1:message : string}, ${2:filePaths : params string[]})]]></content>
+	<tabTrigger><![CDATA[assemblyDefinitionException]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(message, filePaths)]]></description>
+</snippet>

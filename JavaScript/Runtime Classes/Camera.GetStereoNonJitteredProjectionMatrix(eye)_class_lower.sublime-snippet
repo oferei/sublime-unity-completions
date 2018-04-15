@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.GetStereoNonJitteredProjectionMatrix(${1:eye : Camera.StereoscopicEye})]]></content>
+	<tabTrigger><![CDATA[camera.GetStereoNonJitteredProjectionMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(eye)]]></description>
+</snippet>

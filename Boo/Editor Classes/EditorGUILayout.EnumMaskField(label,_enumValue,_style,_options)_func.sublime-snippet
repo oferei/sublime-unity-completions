@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.EnumMaskField(${1:label as string}, ${2:enumValue as Enum}, ${3:style as GUIStyle}, ${4:options as params (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EnumMaskField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorGUILayout.*(label, enumValue, style, options)]]></description>
-</snippet>

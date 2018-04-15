@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.ExecuteCommandBufferAsync(${1:Rendering.CommandBuffer commandBuffer}, ${2:Rendering.ComputeQueueType queueType})]]></content>
+	<tabTrigger><![CDATA[scriptableRenderContext.ExecuteCommandBufferAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(commandBuffer, queueType)]]></description>
+</snippet>

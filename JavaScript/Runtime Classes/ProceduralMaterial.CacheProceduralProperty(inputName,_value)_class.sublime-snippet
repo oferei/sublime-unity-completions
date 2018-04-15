@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralMaterial.CacheProceduralProperty(${1:inputName : string}, ${2:value : bool})]]></content>
-	<tabTrigger><![CDATA[ProceduralMaterial.CacheProceduralProperty]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(inputName, value)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrebuildSetupAttribute(${1:targetClassName : string})]]></content>
+	<tabTrigger><![CDATA[prebuildSetupAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(targetClassName)]]></description>
+</snippet>

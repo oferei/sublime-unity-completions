@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomEditorForRenderPipelineAttribute(${1:Type inspectedType}, ${2:Type renderPipeline})]]></content>
+	<tabTrigger><![CDATA[customEditorForRenderPipelineAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(inspectedType, renderPipeline)]]></description>
+</snippet>

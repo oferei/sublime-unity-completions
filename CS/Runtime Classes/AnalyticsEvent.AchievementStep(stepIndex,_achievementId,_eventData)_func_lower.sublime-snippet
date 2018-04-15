@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.AchievementStep(${1:int stepIndex}, ${2:string achievementId}, ${3:IDictionary<string,object> eventData})]]></content>
+	<tabTrigger><![CDATA[achievementStep]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnalyticsEvent.*(stepIndex, achievementId, eventData)]]></description>
+</snippet>

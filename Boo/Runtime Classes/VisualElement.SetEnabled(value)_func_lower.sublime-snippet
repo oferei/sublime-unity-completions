@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.SetEnabled(${1:value as bool})]]></content>
+	<tabTrigger><![CDATA[setEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualElement.*(value)]]></description>
+</snippet>

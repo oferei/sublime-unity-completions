@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetComputeVectorParam(${1:computeShader as ComputeShader}, ${2:nameID as int}, ${3:val as Vector4})]]></content>
+	<tabTrigger><![CDATA[setComputeVectorParam]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(computeShader, nameID, val)]]></description>
+</snippet>

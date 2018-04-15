@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetVirtualRealitySupported(${1:BuildTargetGroup targetGroup}, ${2:bool value})]]></content>
+	<tabTrigger><![CDATA[SetVirtualRealitySupported]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup, value)]]></description>
+</snippet>

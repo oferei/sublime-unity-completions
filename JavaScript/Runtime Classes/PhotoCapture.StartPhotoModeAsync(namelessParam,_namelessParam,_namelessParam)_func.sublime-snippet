@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhotoCapture.StartPhotoModeAsync(${1:namelessParam : CameraParameters}, ${2:namelessParam : bool}, ${3:namelessParam : OnPhotoModeStartedCallback})]]></content>
-	<tabTrigger><![CDATA[StartPhotoModeAsync]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[PhotoCapture.*(namelessParam, namelessParam, namelessParam)]]></description>
-</snippet>

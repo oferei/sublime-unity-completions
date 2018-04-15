@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.GetOutdatedOperationData(${1:long operationId})]]></content>
-	<tabTrigger><![CDATA[getOutdatedOperationData]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Client.*(operationId)]]></description>
-</snippet>

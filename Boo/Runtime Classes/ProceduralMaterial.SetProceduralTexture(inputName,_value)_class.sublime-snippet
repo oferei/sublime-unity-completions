@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralTexture(${1:inputName as string}, ${2:value as Texture2D})]]></content>
-	<tabTrigger><![CDATA[ProceduralMaterial.SetProceduralTexture]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(inputName, value)]]></description>
-</snippet>

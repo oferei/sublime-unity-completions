@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableRenderContext.DrawRenderers(${1:ref Experimental.Rendering.DrawRendererSettings settings}, ${2:List<RenderStateMapping> stateMap})]]></content>
-	<tabTrigger><![CDATA[drawRenderers]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ScriptableRenderContext.*(settings, stateMap)]]></description>
-</snippet>

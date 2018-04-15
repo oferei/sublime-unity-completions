@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralBoolean(${1:inputName : string}, ${2:value : bool})]]></content>
-	<tabTrigger><![CDATA[proceduralMaterial.SetProceduralBoolean]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(inputName, value)]]></description>
-</snippet>

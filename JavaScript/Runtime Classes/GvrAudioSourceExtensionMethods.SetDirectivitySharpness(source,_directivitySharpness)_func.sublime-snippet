@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioSourceExtensionMethods.SetDirectivitySharpness(${1:source : AudioSource}, ${2:directivitySharpness : float})]]></content>
-	<tabTrigger><![CDATA[SetDirectivitySharpness]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GvrAudioSourceExtensionMethods.*(source, directivitySharpness)]]></description>
-</snippet>

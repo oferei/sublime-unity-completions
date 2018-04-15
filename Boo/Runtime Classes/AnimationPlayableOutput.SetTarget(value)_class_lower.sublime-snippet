@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableOutput.SetTarget(${1:value as Animator})]]></content>
+	<tabTrigger><![CDATA[animationPlayableOutput.SetTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

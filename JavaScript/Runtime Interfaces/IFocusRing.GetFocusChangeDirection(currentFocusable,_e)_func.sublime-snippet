@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IFocusRing.GetFocusChangeDirection(${1:currentFocusable : Experimental.UIElements.Focusable}, ${2:e : Experimental.UIElements.EventBase})]]></content>
+	<tabTrigger><![CDATA[GetFocusChangeDirection]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IFocusRing.*(currentFocusable, e)]]></description>
+</snippet>

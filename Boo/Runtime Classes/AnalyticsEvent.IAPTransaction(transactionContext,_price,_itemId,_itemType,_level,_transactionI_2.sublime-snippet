@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.IAPTransaction(${1:transactionContext as string}, ${2:price as single}, ${3:itemId as string}, ${4:itemType as string}, ${5:level as string}, ${6:transactionId as string}, ${7:eventData as IDictionary<string,object>})]]></content>
+	<tabTrigger><![CDATA[analyticsEvent.IAPTransaction]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(transactionContext, price, itemId, itemType, level, transactionId, eventData)]]></description>
+</snippet>

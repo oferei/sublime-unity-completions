@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioSourceExtensionMethods.SetDirectivityAlpha(${1:AudioSource source}, ${2:float directivityAlpha})]]></content>
-	<tabTrigger><![CDATA[setDirectivityAlpha]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GvrAudioSourceExtensionMethods.*(source, directivityAlpha)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CallbackEventHandler.RegisterCallback(${1:EventCallback<TEventType> callback}, ${2:Experimental.UIElements.Capture useCapture})]]></content>
+	<tabTrigger><![CDATA[CallbackEventHandler.RegisterCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(callback, useCapture)]]></description>
+</snippet>

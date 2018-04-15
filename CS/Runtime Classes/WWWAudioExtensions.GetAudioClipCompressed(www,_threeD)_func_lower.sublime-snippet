@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWWAudioExtensions.GetAudioClipCompressed(${1:WWW www}, ${2:bool threeD})]]></content>
-	<tabTrigger><![CDATA[getAudioClipCompressed]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[WWWAudioExtensions.*(www, threeD)]]></description>
-</snippet>

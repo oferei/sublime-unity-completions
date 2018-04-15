@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.EmitWorldGeometryForSceneView(${1:cullingCamera : Camera})]]></content>
+	<tabTrigger><![CDATA[ScriptableRenderContext.EmitWorldGeometryForSceneView]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(cullingCamera)]]></description>
+</snippet>

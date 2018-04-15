@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Tilemap.EditorPreviewBoxFill(${1:position : Vector3Int}, ${2:tile : Object}, ${3:startX : int}, ${4:startY : int}, ${5:endX : int}, ${6:endY : int})]]></content>
+	<tabTrigger><![CDATA[tilemap.EditorPreviewBoxFill]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, tile, startX, startY, endX, endY)]]></description>
+</snippet>

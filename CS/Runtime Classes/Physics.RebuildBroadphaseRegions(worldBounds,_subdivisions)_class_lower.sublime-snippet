@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.RebuildBroadphaseRegions(${1:Bounds worldBounds}, ${2:int subdivisions})]]></content>
+	<tabTrigger><![CDATA[physics.RebuildBroadphaseRegions]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(worldBounds, subdivisions)]]></description>
+</snippet>

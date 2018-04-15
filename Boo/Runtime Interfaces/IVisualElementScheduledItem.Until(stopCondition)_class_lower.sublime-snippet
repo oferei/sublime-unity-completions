@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IVisualElementScheduledItem.Until(${1:stopCondition as Func<bool>})]]></content>
+	<tabTrigger><![CDATA[iVisualElementScheduledItem.Until]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stopCondition)]]></description>
+</snippet>

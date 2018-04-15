@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.BeginThreadProfiling(${1:threadGroupName : string}, ${2:threadName : string})]]></content>
+	<tabTrigger><![CDATA[profiler.BeginThreadProfiling]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(threadGroupName, threadName)]]></description>
+</snippet>

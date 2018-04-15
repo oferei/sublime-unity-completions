@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableRenderContext.DrawRenderers(${1:ref Experimental.Rendering.DrawRendererSettings settings}, ${2:Experimental.Rendering.RenderStateBlock stateBlock})]]></content>
-	<tabTrigger><![CDATA[drawRenderers]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ScriptableRenderContext.*(settings, stateBlock)]]></description>
-</snippet>

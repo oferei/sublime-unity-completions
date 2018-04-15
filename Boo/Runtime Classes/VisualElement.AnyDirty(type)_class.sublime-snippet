@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.AnyDirty(${1:type as Experimental.UIElements.ChangeType})]]></content>
+	<tabTrigger><![CDATA[VisualElement.AnyDirty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

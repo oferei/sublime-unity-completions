@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MouseEventBase<T0>.GetPooled(${1:systemEvent as Event})]]></content>
+	<tabTrigger><![CDATA[GetPooled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MouseEventBase<T0>.*(systemEvent)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IVisualElementScheduledItem.ExecuteLater(${1:delayMs : long})]]></content>
+	<tabTrigger><![CDATA[executeLater]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IVisualElementScheduledItem.*(delayMs)]]></description>
+</snippet>

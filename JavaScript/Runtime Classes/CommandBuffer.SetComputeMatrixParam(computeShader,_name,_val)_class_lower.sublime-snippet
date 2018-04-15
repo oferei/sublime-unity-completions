@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetComputeMatrixParam(${1:computeShader : ComputeShader}, ${2:name : string}, ${3:val : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetComputeMatrixParam]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(computeShader, name, val)]]></description>
+</snippet>

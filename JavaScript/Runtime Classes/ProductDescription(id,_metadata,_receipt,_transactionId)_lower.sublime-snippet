@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProductDescription(${1:id : string}, ${2:metadata : Purchasing.ProductMetadata}, ${3:receipt : string}, ${4:transactionId : string})]]></content>
+	<tabTrigger><![CDATA[productDescription]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(id, metadata, receipt, transactionId)]]></description>
+</snippet>

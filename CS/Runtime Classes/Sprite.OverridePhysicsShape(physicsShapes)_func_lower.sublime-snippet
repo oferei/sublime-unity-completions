@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.OverridePhysicsShape(${1:IList<Vector2[]> physicsShapes})]]></content>
+	<tabTrigger><![CDATA[overridePhysicsShape]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Sprite.*(physicsShapes)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScalableBufferManager.ResizeBuffers(${1:widthScale as single}, ${2:heightScale as single})]]></content>
+	<tabTrigger><![CDATA[ResizeBuffers]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ScalableBufferManager.*(widthScale, heightScale)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUILayout.EnumMaskPopup(${1:label as GUIContent}, ${2:selected as Enum}, ${3:options as params (GUILayoutOption)})]]></content>
-	<tabTrigger><![CDATA[EditorGUILayout.EnumMaskPopup]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(label, selected, options)]]></description>
-</snippet>

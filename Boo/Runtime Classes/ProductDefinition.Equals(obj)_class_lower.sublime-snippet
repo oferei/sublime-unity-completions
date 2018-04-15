@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProductDefinition.Equals(${1:obj as object})]]></content>
+	<tabTrigger><![CDATA[productDefinition.Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

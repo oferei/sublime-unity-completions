@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.FirstInteraction(${1:string actionId}, ${2:IDictionary<string,object> eventData})]]></content>
+	<tabTrigger><![CDATA[firstInteraction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnalyticsEvent.*(actionId, eventData)]]></description>
+</snippet>

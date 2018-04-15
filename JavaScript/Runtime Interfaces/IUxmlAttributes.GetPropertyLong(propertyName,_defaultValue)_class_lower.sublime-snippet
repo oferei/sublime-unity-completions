@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IUxmlAttributes.GetPropertyLong(${1:propertyName : string}, ${2:defaultValue : long})]]></content>
+	<tabTrigger><![CDATA[iUxmlAttributes.GetPropertyLong]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(propertyName, defaultValue)]]></description>
+</snippet>

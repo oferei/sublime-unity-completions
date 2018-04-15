@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hierarchy.Insert(${1:VisualElement namelessParam})]]></content>
+	<tabTrigger><![CDATA[insert]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Hierarchy.*(namelessParam)]]></description>
+</snippet>

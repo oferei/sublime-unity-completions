@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerSettings.SetIconsForTargetGroup(${1:BuildTargetGroup platform}, ${2:Texture2D[] icons}, ${3:IconKind kind = IconKind.Application})]]></content>
+	<content><![CDATA[PlayerSettings.SetIconsForTargetGroup(${1:BuildTargetGroup platform}, ${2:Texture2D[] icons}, ${3:IconKind kind})]]></content>
 	<tabTrigger><![CDATA[setIconsForTargetGroup]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[PlayerSettings.*(platform, icons, kind)]]></description>

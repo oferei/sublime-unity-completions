@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hierarchy.RemoveAt(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[removeAt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Hierarchy.*(index)]]></description>
+</snippet>

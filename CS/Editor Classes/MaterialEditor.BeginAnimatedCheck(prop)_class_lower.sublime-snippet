@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.BeginAnimatedCheck(${1:MaterialProperty prop})]]></content>
+	<tabTrigger><![CDATA[materialEditor.BeginAnimatedCheck]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(prop)]]></description>
+</snippet>

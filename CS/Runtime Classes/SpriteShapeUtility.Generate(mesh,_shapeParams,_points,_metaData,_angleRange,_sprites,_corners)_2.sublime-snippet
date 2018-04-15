@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteShapeUtility.Generate(${1:Mesh mesh}, ${2:Experimental.U2D.SpriteShapeParameters shapeParams}, ${3:ShapeControlPoint[] points}, ${4:SpriteShapeMetaData[] metaData}, ${5:AngleRangeInfo[] angleRange}, ${6:Sprite[] sprites}, ${7:Sprite[] corners})]]></content>
+	<tabTrigger><![CDATA[spriteShapeUtility.Generate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh, shapeParams, points, metaData, angleRange, sprites, corners)]]></description>
+</snippet>

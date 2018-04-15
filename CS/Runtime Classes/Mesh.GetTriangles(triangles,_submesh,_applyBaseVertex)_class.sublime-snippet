@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetTriangles(${1:List<int> triangles}, ${2:int submesh}, ${3:bool applyBaseVertex = true})]]></content>
+	<tabTrigger><![CDATA[Mesh.GetTriangles]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(triangles, submesh, applyBaseVertex)]]></description>
+</snippet>

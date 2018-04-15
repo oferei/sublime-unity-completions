@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableOutput.SetTarget(${1:value : Animator})]]></content>
+	<tabTrigger><![CDATA[AnimationPlayableOutput.SetTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

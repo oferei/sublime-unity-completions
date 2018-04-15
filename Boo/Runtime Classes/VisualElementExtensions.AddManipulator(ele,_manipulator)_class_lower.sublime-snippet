@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElementExtensions.AddManipulator(${1:ele as Experimental.UIElements.VisualElement}, ${2:manipulator as Experimental.UIElements.IManipulator})]]></content>
+	<tabTrigger><![CDATA[visualElementExtensions.AddManipulator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ele, manipulator)]]></description>
+</snippet>

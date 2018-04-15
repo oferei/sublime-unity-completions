@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.Search(${1:operationId as out long}, ${2:packageName as string})]]></content>
-	<tabTrigger><![CDATA[client.Search]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(operationId, packageName)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.GenerateMips(${1:RenderTexture rt})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.GenerateMips]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rt)]]></description>
+</snippet>

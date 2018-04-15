@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawRendererSettings(${1:Experimental.Rendering.CullResults cullResults}, ${2:Camera camera}, ${3:Experimental.Rendering.ShaderPassName shaderPassName})]]></content>
-	<tabTrigger><![CDATA[drawRendererSettings]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(cullResults, camera, shaderPassName)]]></description>
-</snippet>

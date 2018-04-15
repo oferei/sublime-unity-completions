@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralString(${1:inputName : string}, ${2:value : string})]]></content>
-	<tabTrigger><![CDATA[setProceduralString]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ProceduralMaterial.*(inputName, value)]]></description>
-</snippet>

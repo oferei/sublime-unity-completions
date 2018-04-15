@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Mesh.SetIndices(${1:int[] indices}, ${2:MeshTopology topology}, ${3:int submesh}, ${4:bool calculateBounds = true})]]></content>
+	<content><![CDATA[Mesh.SetIndices(${1:int[] indices}, ${2:MeshTopology topology}, ${3:int submesh}, ${4:bool calculateBounds})]]></content>
 	<tabTrigger><![CDATA[setIndices]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Mesh.*(indices, topology, submesh, calculateBounds)]]></description>

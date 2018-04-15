@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IStoreListener.OnInitialized(${1:Purchasing.IStoreController controller}, ${2:Purchasing.IExtensionProvider extensions})]]></content>
+	<tabTrigger><![CDATA[onInitialized]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IStoreListener.*(controller, extensions)]]></description>
+</snippet>

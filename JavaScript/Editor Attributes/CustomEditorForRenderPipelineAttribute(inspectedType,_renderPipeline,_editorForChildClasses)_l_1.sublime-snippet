@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CustomEditorForRenderPipelineAttribute(${1:inspectedType : Type}, ${2:renderPipeline : Type}, ${3:editorForChildClasses : bool})]]></content>
+	<tabTrigger><![CDATA[customEditorForRenderPipelineAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(inspectedType, renderPipeline, editorForChildClasses)]]></description>
+</snippet>

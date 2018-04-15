@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.DrawRenderers(${1:renderers as Experimental.Rendering.FilterResults}, ${2:drawSettings as ref Experimental.Rendering.DrawRendererSettings}, ${3:filterSettings as Experimental.Rendering.FilterRenderersSettings}, ${4:stateBlock as Experimental.Rendering.RenderStateBlock})]]></content>
+	<tabTrigger><![CDATA[scriptableRenderContext.DrawRenderers]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(renderers, drawSettings, filterSettings, stateBlock)]]></description>
+</snippet>

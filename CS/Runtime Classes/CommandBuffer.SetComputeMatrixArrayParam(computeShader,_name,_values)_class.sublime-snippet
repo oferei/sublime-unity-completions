@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetComputeMatrixArrayParam(${1:ComputeShader computeShader}, ${2:string name}, ${3:Matrix4x4[] values})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.SetComputeMatrixArrayParam]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(computeShader, name, values)]]></description>
+</snippet>

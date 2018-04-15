@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractStore.RetrieveProducts(${1:ReadOnlyCollection<ProductDefinition> products})]]></content>
+	<tabTrigger><![CDATA[retrieveProducts]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AbstractStore.*(products)]]></description>
+</snippet>

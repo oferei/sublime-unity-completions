@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.PostAdAction(${1:bool rewarded}, ${2:Analytics.AdvertisingNetwork network}, ${3:string placementId}, ${4:IDictionary<string,object> eventData})]]></content>
+	<tabTrigger><![CDATA[PostAdAction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnalyticsEvent.*(rewarded, network, placementId, eventData)]]></description>
+</snippet>

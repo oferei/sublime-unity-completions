@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.TutorialSkip(${1:tutorialId as string}, ${2:eventData as IDictionary<string,object>})]]></content>
+	<tabTrigger><![CDATA[AnalyticsEvent.TutorialSkip]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tutorialId, eventData)]]></description>
+</snippet>

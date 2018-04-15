@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.FirstInteraction(${1:actionId : string}, ${2:eventData : IDictionary<string,object>})]]></content>
+	<tabTrigger><![CDATA[analyticsEvent.FirstInteraction]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(actionId, eventData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IVisualElementScheduledItem.ForDuration(${1:durationMs as long})]]></content>
+	<tabTrigger><![CDATA[forDuration]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IVisualElementScheduledItem.*(durationMs)]]></description>
+</snippet>

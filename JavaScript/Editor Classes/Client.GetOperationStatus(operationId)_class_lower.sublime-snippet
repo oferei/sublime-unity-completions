@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.GetOperationStatus(${1:operationId : long})]]></content>
-	<tabTrigger><![CDATA[client.GetOperationStatus]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(operationId)]]></description>
-</snippet>

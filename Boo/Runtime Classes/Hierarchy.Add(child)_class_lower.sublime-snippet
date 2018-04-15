@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hierarchy.Add(${1:child as Experimental.UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[hierarchy.Add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(child)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.RemoveAt(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[RemoveAt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualElement.*(index)]]></description>
+</snippet>

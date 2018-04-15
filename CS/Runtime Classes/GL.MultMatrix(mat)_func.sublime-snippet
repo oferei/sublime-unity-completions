@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GL.MultMatrix(${1:Matrix4x4 mat})]]></content>
-	<tabTrigger><![CDATA[MultMatrix]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GL.*(mat)]]></description>
-</snippet>

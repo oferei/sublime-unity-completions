@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.Sort(${1:comp as Comparison<VisualElement>})]]></content>
+	<tabTrigger><![CDATA[Sort]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualElement.*(comp)]]></description>
+</snippet>

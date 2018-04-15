@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.IsDelayed(${1:U playable})]]></content>
+	<tabTrigger><![CDATA[IsDelayed]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayableExtensions.*(playable)]]></description>
+</snippet>

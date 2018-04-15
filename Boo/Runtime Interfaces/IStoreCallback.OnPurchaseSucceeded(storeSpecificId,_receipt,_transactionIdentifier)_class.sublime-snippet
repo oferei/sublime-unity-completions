@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IStoreCallback.OnPurchaseSucceeded(${1:storeSpecificId as string}, ${2:receipt as string}, ${3:transactionIdentifier as string})]]></content>
+	<tabTrigger><![CDATA[IStoreCallback.OnPurchaseSucceeded]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(storeSpecificId, receipt, transactionIdentifier)]]></description>
+</snippet>

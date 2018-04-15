@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ICustomLightEditor.OnInspectorGUI(${1:LightEditor lightEditor})]]></content>
-	<tabTrigger><![CDATA[onInspectorGUI]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ICustomLightEditor.*(lightEditor)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.ExecuteCommandBufferAsync(${1:buffer : Rendering.CommandBuffer}, ${2:queueType : Rendering.ComputeQueueType})]]></content>
+	<tabTrigger><![CDATA[executeCommandBufferAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(buffer, queueType)]]></description>
+</snippet>

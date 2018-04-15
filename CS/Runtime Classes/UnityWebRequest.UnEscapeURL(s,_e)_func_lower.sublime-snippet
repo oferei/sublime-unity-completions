@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest.UnEscapeURL(${1:string s}, ${2:Encoding e})]]></content>
+	<tabTrigger><![CDATA[unEscapeURL]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityWebRequest.*(s, e)]]></description>
+</snippet>

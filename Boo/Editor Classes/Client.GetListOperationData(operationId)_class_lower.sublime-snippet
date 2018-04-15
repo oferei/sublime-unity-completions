@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.GetListOperationData(${1:operationId as long})]]></content>
-	<tabTrigger><![CDATA[client.GetListOperationData]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(operationId)]]></description>
-</snippet>

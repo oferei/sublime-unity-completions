@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.LevelStart(${1:index as int}, ${2:eventData as IDictionary<string,object>})]]></content>
+	<tabTrigger><![CDATA[levelStart]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnalyticsEvent.*(index, eventData)]]></description>
+</snippet>

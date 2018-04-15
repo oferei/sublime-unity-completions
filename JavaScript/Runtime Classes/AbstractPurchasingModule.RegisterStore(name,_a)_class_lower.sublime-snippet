@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractPurchasingModule.RegisterStore(${1:name : string}, ${2:a : Purchasing.Extension.IStore})]]></content>
+	<tabTrigger><![CDATA[abstractPurchasingModule.RegisterStore]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, a)]]></description>
+</snippet>

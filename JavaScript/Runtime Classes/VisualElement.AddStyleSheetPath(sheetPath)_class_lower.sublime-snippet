@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.AddStyleSheetPath(${1:sheetPath : string})]]></content>
+	<tabTrigger><![CDATA[visualElement.AddStyleSheetPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sheetPath)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.ConnectInput(${1:playable : U}, ${2:inputIndex : int}, ${3:sourcePlayable : V}, ${4:sourceOutputIndex : int}, ${5:weight : float})]]></content>
+	<tabTrigger><![CDATA[PlayableExtensions.ConnectInput]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(playable, inputIndex, sourcePlayable, sourceOutputIndex, weight)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetVirtualRealitySDKs(${1:targetGroup : BuildTargetGroup}, ${2:sdks : string[]})]]></content>
+	<tabTrigger><![CDATA[SetVirtualRealitySDKs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup, sdks)]]></description>
+</snippet>

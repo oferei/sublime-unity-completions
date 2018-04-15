@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PayoutDefinition(${1:typeString as string}, ${2:subtype as string}, ${3:quantity as double}, ${4:data as string})]]></content>
+	<tabTrigger><![CDATA[PayoutDefinition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(typeString, subtype, quantity, data)]]></description>
+</snippet>

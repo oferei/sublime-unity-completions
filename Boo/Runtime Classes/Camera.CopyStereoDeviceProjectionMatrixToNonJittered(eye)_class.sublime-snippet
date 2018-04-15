@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.CopyStereoDeviceProjectionMatrixToNonJittered(${1:eye as Camera.StereoscopicEye})]]></content>
+	<tabTrigger><![CDATA[Camera.CopyStereoDeviceProjectionMatrixToNonJittered]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eye)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetComputeIntParams(${1:computeShader as ComputeShader}, ${2:nameID as int}, ${3:values as params (int)})]]></content>
+	<tabTrigger><![CDATA[SetComputeIntParams]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(computeShader, nameID, values)]]></description>
+</snippet>

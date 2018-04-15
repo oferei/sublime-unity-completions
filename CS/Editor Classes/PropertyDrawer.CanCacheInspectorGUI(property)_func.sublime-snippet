@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyDrawer.CanCacheInspectorGUI(${1:SerializedProperty property})]]></content>
+	<tabTrigger><![CDATA[CanCacheInspectorGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PropertyDrawer.*(property)]]></description>
+</snippet>

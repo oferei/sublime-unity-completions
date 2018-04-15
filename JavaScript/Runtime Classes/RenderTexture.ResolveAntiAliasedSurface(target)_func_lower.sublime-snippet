@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.ResolveAntiAliasedSurface(${1:target : RenderTexture})]]></content>
+	<tabTrigger><![CDATA[resolveAntiAliasedSurface]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RenderTexture.*(target)]]></description>
+</snippet>

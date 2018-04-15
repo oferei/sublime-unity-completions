@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IVisualElementScheduledItem.Every(${1:long intervalMs})]]></content>
+	<tabTrigger><![CDATA[IVisualElementScheduledItem.Every]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(intervalMs)]]></description>
+</snippet>

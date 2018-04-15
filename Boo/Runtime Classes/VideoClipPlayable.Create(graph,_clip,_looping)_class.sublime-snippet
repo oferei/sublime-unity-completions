@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClipPlayable.Create(${1:graph as Playables.PlayableGraph}, ${2:clip as Video.VideoClip}, ${3:looping as bool})]]></content>
+	<tabTrigger><![CDATA[VideoClipPlayable.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(graph, clip, looping)]]></description>
+</snippet>

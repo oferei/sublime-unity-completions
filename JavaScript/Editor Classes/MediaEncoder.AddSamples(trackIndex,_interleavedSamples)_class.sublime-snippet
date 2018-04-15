@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder.AddSamples(${1:trackIndex : ushort}, ${2:interleavedSamples : NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[MediaEncoder.AddSamples]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(trackIndex, interleavedSamples)]]></description>
+</snippet>

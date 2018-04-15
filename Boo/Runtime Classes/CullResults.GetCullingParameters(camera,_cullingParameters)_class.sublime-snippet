@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CullResults.GetCullingParameters(${1:camera as Camera}, ${2:cullingParameters as CullingParameters})]]></content>
+	<content><![CDATA[CullResults.GetCullingParameters(${1:camera as Camera}, ${2:cullingParameters as out Experimental.Rendering.ScriptableCullingParameters})]]></content>
 	<tabTrigger><![CDATA[CullResults.GetCullingParameters]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(camera, cullingParameters)]]></description>

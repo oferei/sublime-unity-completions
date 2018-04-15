@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.Add(${1:packageIdOrName : string})]]></content>
+	<tabTrigger><![CDATA[client.Add]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(packageIdOrName)]]></description>
+</snippet>

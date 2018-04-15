@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.StereoEndRender(${1:camera : Camera})]]></content>
+	<tabTrigger><![CDATA[scriptableRenderContext.StereoEndRender]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(camera)]]></description>
+</snippet>

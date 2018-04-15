@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assembly(${1:string name}, ${2:string outputPath}, ${3:string[] sourceFiles}, ${4:string[] defines}, ${5:Assembly[] assemblyReferences}, ${6:string[] compiledAssemblyReferences}, ${7:Compilation.AssemblyFlags flags})]]></content>
+	<tabTrigger><![CDATA[Assembly]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name, outputPath, sourceFiles, defines, assemblyReferences, compiledAssemblyReferences, flags)]]></description>
+</snippet>

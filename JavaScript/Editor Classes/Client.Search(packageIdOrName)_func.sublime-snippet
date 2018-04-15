@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.Search(${1:packageIdOrName : string})]]></content>
+	<tabTrigger><![CDATA[Search]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Client.*(packageIdOrName)]]></description>
+</snippet>

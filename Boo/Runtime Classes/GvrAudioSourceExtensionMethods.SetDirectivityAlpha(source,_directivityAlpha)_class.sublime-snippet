@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioSourceExtensionMethods.SetDirectivityAlpha(${1:source as AudioSource}, ${2:directivityAlpha as single})]]></content>
-	<tabTrigger><![CDATA[GvrAudioSourceExtensionMethods.SetDirectivityAlpha]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(source, directivityAlpha)]]></description>
-</snippet>

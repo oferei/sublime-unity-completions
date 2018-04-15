@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AnimationLayerMixerPlayable.Create(${1:graph as PlayableGraph}, ${2:inputCount as Int32})]]></content>
+	<content><![CDATA[AnimationLayerMixerPlayable.Create(${1:graph as Playables.PlayableGraph}, ${2:inputCount as int})]]></content>
 	<tabTrigger><![CDATA[AnimationLayerMixerPlayable.Create]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(graph, inputCount)]]></description>

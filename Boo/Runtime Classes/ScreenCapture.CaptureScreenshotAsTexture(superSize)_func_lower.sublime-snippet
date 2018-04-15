@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScreenCapture.CaptureScreenshotAsTexture(${1:superSize as int})]]></content>
+	<tabTrigger><![CDATA[captureScreenshotAsTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ScreenCapture.*(superSize)]]></description>
+</snippet>

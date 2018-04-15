@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraPlayable.Create(${1:graph as Playables.PlayableGraph}, ${2:camera as Camera})]]></content>
+	<tabTrigger><![CDATA[CameraPlayable.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(graph, camera)]]></description>
+</snippet>

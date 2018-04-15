@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayableExtensions.SetPlayState(${1:playable : U}, ${2:value : Playables.PlayState})]]></content>
-	<tabTrigger><![CDATA[playableExtensions.SetPlayState]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(playable, value)]]></description>
-</snippet>

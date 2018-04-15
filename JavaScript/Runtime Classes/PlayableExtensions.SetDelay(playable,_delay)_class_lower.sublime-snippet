@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.SetDelay(${1:playable : U}, ${2:delay : double})]]></content>
+	<tabTrigger><![CDATA[playableExtensions.SetDelay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(playable, delay)]]></description>
+</snippet>

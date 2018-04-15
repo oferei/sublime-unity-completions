@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationLayerMixerPlayable.SetLayerMaskFromAvatarMask(${1:layerIndex as uint}, ${2:mask as AvatarMask})]]></content>
+	<tabTrigger><![CDATA[animationLayerMixerPlayable.SetLayerMaskFromAvatarMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(layerIndex, mask)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayableGraph.Disconnect(${1:playable : Playable}, ${2:inputPort : int})]]></content>
-	<tabTrigger><![CDATA[disconnect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[PlayableGraph.*(playable, inputPort)]]></description>
-</snippet>

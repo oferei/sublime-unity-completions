@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioListenerExtensionMethods.SetOcclusionMask(${1:listener as AudioListener}, ${2:occlusionMask as LayerMask})]]></content>
-	<tabTrigger><![CDATA[GvrAudioListenerExtensionMethods.SetOcclusionMask]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(listener, occlusionMask)]]></description>
-</snippet>

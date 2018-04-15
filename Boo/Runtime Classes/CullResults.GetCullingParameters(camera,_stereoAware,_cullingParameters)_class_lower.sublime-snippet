@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullResults.GetCullingParameters(${1:camera as Camera}, ${2:stereoAware as bool}, ${3:cullingParameters as out Experimental.Rendering.ScriptableCullingParameters})]]></content>
+	<tabTrigger><![CDATA[cullResults.GetCullingParameters]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(camera, stereoAware, cullingParameters)]]></description>
+</snippet>

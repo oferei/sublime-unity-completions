@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioRenderer.Render(${1:buffer : NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[AudioRenderer.Render]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(buffer)]]></description>
+</snippet>

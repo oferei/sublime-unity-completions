@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.GetPhysicsShapePointCount(${1:shapeIdx : int})]]></content>
+	<tabTrigger><![CDATA[Sprite.GetPhysicsShapePointCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(shapeIdx)]]></description>
+</snippet>

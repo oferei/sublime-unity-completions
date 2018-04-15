@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUI.EnumMaskPopup(${1:position : Rect}, ${2:label : GUIContent}, ${3:selected : Enum}, ${4:style : GUIStyle = EditorStyles.popup})]]></content>
-	<tabTrigger><![CDATA[enumMaskPopup]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EditorGUI.*(position, label, selected, style)]]></description>
-</snippet>

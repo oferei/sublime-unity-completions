@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractPurchasingModule.BindExtension(${1:instance : T})]]></content>
+	<tabTrigger><![CDATA[bindExtension]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AbstractPurchasingModule.*(instance)]]></description>
+</snippet>

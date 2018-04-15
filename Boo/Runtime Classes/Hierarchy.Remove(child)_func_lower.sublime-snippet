@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hierarchy.Remove(${1:child as Experimental.UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[remove]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Hierarchy.*(child)]]></description>
+</snippet>

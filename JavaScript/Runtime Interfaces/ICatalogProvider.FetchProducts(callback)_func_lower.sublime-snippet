@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ICatalogProvider.FetchProducts(${1:callback : Action<HashSet<ProductDefinition>>})]]></content>
+	<tabTrigger><![CDATA[fetchProducts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ICatalogProvider.*(callback)]]></description>
+</snippet>

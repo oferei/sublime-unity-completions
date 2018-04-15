@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioListenerExtensionMethods.GetGlobalGainDb(${1:listener as AudioListener})]]></content>
-	<tabTrigger><![CDATA[getGlobalGainDb]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GvrAudioListenerExtensionMethods.*(listener)]]></description>
-</snippet>

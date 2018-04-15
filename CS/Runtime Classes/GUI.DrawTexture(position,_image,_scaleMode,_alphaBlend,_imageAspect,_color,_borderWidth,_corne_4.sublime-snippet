@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GUI.DrawTexture(${1:Rect position}, ${2:Texture image}, ${3:ScaleMode scaleMode}, ${4:bool alphaBlend}, ${5:float imageAspect}, ${6:Color color}, ${7:float borderWidth}, ${8:float cornerRadius})]]></content>
-	<tabTrigger><![CDATA[drawTexture]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GUI.*(position, image, scaleMode, alphaBlend, imageAspect, color, borderWidth, cornerRadius)]]></description>
-</snippet>

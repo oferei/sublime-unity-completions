@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[MonoBehaviour.StopCoroutine(${1:routine as IEnumerator})]]></content>
+	<content><![CDATA[MonoBehaviour.StopCoroutine(${1:routine as Coroutine})]]></content>
 	<tabTrigger><![CDATA[monoBehaviour.StopCoroutine]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(routine)]]></description>

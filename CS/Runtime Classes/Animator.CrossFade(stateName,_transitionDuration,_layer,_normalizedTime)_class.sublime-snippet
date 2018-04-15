@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Animator.CrossFade(${1:string stateName}, ${2:float transitionDuration}, ${3:int layer = -1}, ${4:float normalizedTime = float.NegativeInfinity})]]></content>
-	<tabTrigger><![CDATA[Animator.CrossFade]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(stateName, transitionDuration, layer, normalizedTime)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioListenerExtensionMethods.SetQuality(${1:listener : AudioListener}, ${2:quality : Experimental.Audio.Google.GvrAudioQuality})]]></content>
-	<tabTrigger><![CDATA[SetQuality]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GvrAudioListenerExtensionMethods.*(listener, quality)]]></description>
-</snippet>

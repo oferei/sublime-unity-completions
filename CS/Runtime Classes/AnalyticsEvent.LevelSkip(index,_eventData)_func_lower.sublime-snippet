@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.LevelSkip(${1:int index}, ${2:IDictionary<string,object> eventData})]]></content>
+	<tabTrigger><![CDATA[levelSkip]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnalyticsEvent.*(index, eventData)]]></description>
+</snippet>

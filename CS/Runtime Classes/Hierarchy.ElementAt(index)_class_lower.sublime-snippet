@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hierarchy.ElementAt(${1:int index})]]></content>
+	<tabTrigger><![CDATA[hierarchy.ElementAt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

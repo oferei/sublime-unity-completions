@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IUxmlAttributes.GetPropertyString(${1:propertyName : string})]]></content>
+	<tabTrigger><![CDATA[iUxmlAttributes.GetPropertyString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(propertyName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPurchasingBinder.RegisterConfiguration(${1:instance as T})]]></content>
+	<tabTrigger><![CDATA[iPurchasingBinder.RegisterConfiguration]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(instance)]]></description>
+</snippet>

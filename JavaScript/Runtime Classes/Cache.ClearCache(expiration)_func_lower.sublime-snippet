@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cache.ClearCache(${1:expiration : int})]]></content>
+	<tabTrigger><![CDATA[clearCache]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Cache.*(expiration)]]></description>
+</snippet>

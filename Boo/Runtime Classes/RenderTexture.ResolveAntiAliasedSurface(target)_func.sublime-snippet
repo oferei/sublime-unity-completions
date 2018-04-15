@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.ResolveAntiAliasedSurface(${1:target as RenderTexture})]]></content>
+	<tabTrigger><![CDATA[ResolveAntiAliasedSurface]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RenderTexture.*(target)]]></description>
+</snippet>

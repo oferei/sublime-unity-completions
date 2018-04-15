@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableBehaviour.OnBehaviourDelay(${1:playable : Playables.Playable}, ${2:info : Playables.FrameData})]]></content>
+	<tabTrigger><![CDATA[onBehaviourDelay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableBehaviour.*(playable, info)]]></description>
+</snippet>

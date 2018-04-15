@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GvrAudioSourceExtensionMethods.GetHrtfEnabled(${1:source as AudioSource})]]></content>
-	<tabTrigger><![CDATA[getHrtfEnabled]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GvrAudioSourceExtensionMethods.*(source)]]></description>
-</snippet>

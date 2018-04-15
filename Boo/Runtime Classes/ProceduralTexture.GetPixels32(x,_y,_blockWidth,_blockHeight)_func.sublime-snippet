@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralTexture.GetPixels32(${1:x as int}, ${2:y as int}, ${3:blockWidth as int}, ${4:blockHeight as int})]]></content>
-	<tabTrigger><![CDATA[GetPixels32]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ProceduralTexture.*(x, y, blockWidth, blockHeight)]]></description>
-</snippet>

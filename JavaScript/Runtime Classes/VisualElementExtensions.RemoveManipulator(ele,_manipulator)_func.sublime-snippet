@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElementExtensions.RemoveManipulator(${1:ele : Experimental.UIElements.VisualElement}, ${2:manipulator : Experimental.UIElements.IManipulator})]]></content>
+	<tabTrigger><![CDATA[RemoveManipulator]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VisualElementExtensions.*(ele, manipulator)]]></description>
+</snippet>

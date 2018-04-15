@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnalyticsEvent.Custom(${1:eventName as string}, ${2:eventData as IDictionary<string,object>})]]></content>
+	<tabTrigger><![CDATA[analyticsEvent.Custom]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(eventName, eventData)]]></description>
+</snippet>

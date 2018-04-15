@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioClipPlayable.Create(${1:graph : Playables.PlayableGraph}, ${2:clip : AudioClip}, ${3:looping : bool})]]></content>
+	<tabTrigger><![CDATA[audioClipPlayable.Create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(graph, clip, looping)]]></description>
+</snippet>

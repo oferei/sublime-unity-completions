@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder.AddFrame(${1:texture as Texture2D})]]></content>
+	<tabTrigger><![CDATA[addFrame]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MediaEncoder.*(texture)]]></description>
+</snippet>

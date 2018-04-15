@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Assembly(${1:name : string}, ${2:outputPath : string}, ${3:sourceFiles : string[]}, ${4:defines : string[]}, ${5:assemblyReferences : Assembly[]}, ${6:compiledAssemblyReferences : string[]}, ${7:flags : Compilation.AssemblyFlags})]]></content>
+	<tabTrigger><![CDATA[Assembly]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, outputPath, sourceFiles, defines, assemblyReferences, compiledAssemblyReferences, flags)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerSettings.SetIconsForTargetGroup(${1:platform : BuildTargetGroup}, ${2:icons : Texture2D[]}, ${3:kind : IconKind = IconKind.Application})]]></content>
+	<content><![CDATA[PlayerSettings.SetIconsForTargetGroup(${1:platform : BuildTargetGroup}, ${2:icons : Texture2D[]}, ${3:kind : IconKind})]]></content>
 	<tabTrigger><![CDATA[SetIconsForTargetGroup]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PlayerSettings.*(platform, icons, kind)]]></description>

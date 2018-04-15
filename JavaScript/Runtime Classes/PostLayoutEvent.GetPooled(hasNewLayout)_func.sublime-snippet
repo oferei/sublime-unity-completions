@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PostLayoutEvent.GetPooled(${1:hasNewLayout : bool})]]></content>
+	<tabTrigger><![CDATA[GetPooled]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PostLayoutEvent.*(hasNewLayout)]]></description>
+</snippet>

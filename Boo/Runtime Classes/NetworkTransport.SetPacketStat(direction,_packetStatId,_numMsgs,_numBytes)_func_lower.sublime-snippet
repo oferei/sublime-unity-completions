@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NetworkTransport.SetPacketStat(${1:direction as int}, ${2:packetStatId as int}, ${3:numMsgs as int}, ${4:numBytes as int})]]></content>
+	<tabTrigger><![CDATA[setPacketStat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NetworkTransport.*(direction, packetStatId, numMsgs, numBytes)]]></description>
+</snippet>

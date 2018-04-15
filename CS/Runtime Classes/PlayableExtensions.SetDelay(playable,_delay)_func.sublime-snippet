@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.SetDelay(${1:U playable}, ${2:double delay})]]></content>
+	<tabTrigger><![CDATA[SetDelay]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayableExtensions.*(playable, delay)]]></description>
+</snippet>

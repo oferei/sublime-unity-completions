@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cloth.SetVirtualParticleWeights(${1:weights : List<Vector3>})]]></content>
+	<tabTrigger><![CDATA[setVirtualParticleWeights]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Cloth.*(weights)]]></description>
+</snippet>

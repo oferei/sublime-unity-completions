@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderGUI.OnClosed(${1:material : Material})]]></content>
+	<tabTrigger><![CDATA[OnClosed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ShaderGUI.*(material)]]></description>
+</snippet>

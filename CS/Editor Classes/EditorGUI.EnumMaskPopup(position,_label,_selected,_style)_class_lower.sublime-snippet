@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorGUI.EnumMaskPopup(${1:Rect position}, ${2:GUIContent label}, ${3:Enum selected}, ${4:GUIStyle style = EditorStyles.popup})]]></content>
-	<tabTrigger><![CDATA[editorGUI.EnumMaskPopup]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(position, label, selected, style)]]></description>
-</snippet>

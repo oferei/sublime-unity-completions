@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ProceduralMaterial.SetProceduralColor(${1:inputName : string}, ${2:value : Color})]]></content>
-	<tabTrigger><![CDATA[setProceduralColor]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ProceduralMaterial.*(inputName, value)]]></description>
-</snippet>

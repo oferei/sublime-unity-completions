@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.RemoveStyleSheetPath(${1:sheetPath as string})]]></content>
+	<tabTrigger><![CDATA[VisualElement.RemoveStyleSheetPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(sheetPath)]]></description>
+</snippet>

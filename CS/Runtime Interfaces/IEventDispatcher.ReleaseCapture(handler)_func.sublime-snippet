@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IEventDispatcher.ReleaseCapture(${1:Experimental.UIElements.IEventHandler handler})]]></content>
+	<tabTrigger><![CDATA[ReleaseCapture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IEventDispatcher.*(handler)]]></description>
+</snippet>

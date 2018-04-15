@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WheelEvent.GetPooled(${1:systemEvent : Event})]]></content>
+	<tabTrigger><![CDATA[WheelEvent.GetPooled]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(systemEvent)]]></description>
+</snippet>

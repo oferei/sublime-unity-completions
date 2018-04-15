@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.GetPhysicsShapePointCount(${1:shapeIdx as int})]]></content>
+	<tabTrigger><![CDATA[sprite.GetPhysicsShapePointCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shapeIdx)]]></description>
+</snippet>

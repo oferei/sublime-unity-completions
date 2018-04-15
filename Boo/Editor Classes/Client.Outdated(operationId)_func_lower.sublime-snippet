@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Client.Outdated(${1:operationId as out long})]]></content>
-	<tabTrigger><![CDATA[outdated]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Client.*(operationId)]]></description>
-</snippet>

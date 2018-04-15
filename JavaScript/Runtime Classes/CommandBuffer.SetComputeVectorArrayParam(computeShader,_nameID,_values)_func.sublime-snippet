@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetComputeVectorArrayParam(${1:computeShader : ComputeShader}, ${2:nameID : int}, ${3:values : Vector4[]})]]></content>
+	<tabTrigger><![CDATA[SetComputeVectorArrayParam]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(computeShader, nameID, values)]]></description>
+</snippet>

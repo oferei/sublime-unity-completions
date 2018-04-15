@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AbstractStore.Initialize(${1:callback as Purchasing.Extension.IStoreCallback})]]></content>
+	<tabTrigger><![CDATA[Initialize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AbstractStore.*(callback)]]></description>
+</snippet>

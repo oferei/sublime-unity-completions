@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IVisualElementScheduler.Execute(${1:timerUpdateEvent : Action<TimerState>})]]></content>
+	<tabTrigger><![CDATA[Execute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IVisualElementScheduler.*(timerUpdateEvent)]]></description>
+</snippet>

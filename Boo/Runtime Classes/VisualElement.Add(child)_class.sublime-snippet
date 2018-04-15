@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.Add(${1:child as Experimental.UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[VisualElement.Add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(child)]]></description>
+</snippet>
