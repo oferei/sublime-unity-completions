@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TrailRenderer.GetPositions(${1:positions : Vector3[]})]]></content>
+	<content><![CDATA[TrailRenderer.GetPositions(${1:positions : out Vector3[]})]]></content>
 	<tabTrigger><![CDATA[TrailRenderer.GetPositions]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(positions)]]></description>

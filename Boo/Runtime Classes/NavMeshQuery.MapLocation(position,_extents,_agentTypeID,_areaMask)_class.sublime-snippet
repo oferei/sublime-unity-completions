@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.MapLocation(${1:position as Vector3}, ${2:extents as Vector3}, ${3:agentTypeID as int}, ${4:areaMask as int})]]></content>
+	<tabTrigger><![CDATA[NavMeshQuery.MapLocation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, extents, agentTypeID, areaMask)]]></description>
+</snippet>

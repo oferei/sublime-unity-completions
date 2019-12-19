@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BindingExtensions.BindProperty(${1:field as UIElements.IBindable}, ${2:property as SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[bindProperty]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BindingExtensions.*(field, property)]]></description>
+</snippet>

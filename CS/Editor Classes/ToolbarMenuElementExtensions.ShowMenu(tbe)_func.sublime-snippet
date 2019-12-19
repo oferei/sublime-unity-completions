@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ToolbarMenuElementExtensions.ShowMenu(${1:UIElements.IToolbarMenuElement tbe})]]></content>
+	<tabTrigger><![CDATA[ShowMenu]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ToolbarMenuElementExtensions.*(tbe)]]></description>
+</snippet>

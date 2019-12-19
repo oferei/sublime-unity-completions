@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkLobbyPlayer.OnClientReady(${1:bool readyState})]]></content>
-	<tabTrigger><![CDATA[networkLobbyPlayer.OnClientReady]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(readyState)]]></description>
-</snippet>

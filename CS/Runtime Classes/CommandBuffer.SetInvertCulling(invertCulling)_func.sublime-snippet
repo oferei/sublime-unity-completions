@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetInvertCulling(${1:bool invertCulling})]]></content>
+	<tabTrigger><![CDATA[SetInvertCulling]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(invertCulling)]]></description>
+</snippet>

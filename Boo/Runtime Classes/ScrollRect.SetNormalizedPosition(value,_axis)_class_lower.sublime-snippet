@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScrollRect.SetNormalizedPosition(${1:value as single}, ${2:axis as int})]]></content>
-	<tabTrigger><![CDATA[scrollRect.SetNormalizedPosition]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value, axis)]]></description>
-</snippet>

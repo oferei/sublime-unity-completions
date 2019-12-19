@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Editor.DrawFoldoutInspector(${1:target as Object}, ${2:editor as ref Editor})]]></content>
+	<tabTrigger><![CDATA[editor.DrawFoldoutInspector]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target, editor)]]></description>
+</snippet>

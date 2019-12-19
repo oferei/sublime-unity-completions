@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISelectable.IsSelected(${1:selectionContainer as UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[IsSelected]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ISelectable.*(selectionContainer)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShortcutAttribute(${1:id : string}, ${2:defaultKeyCode : KeyCode}, ${3:defaultShortcutModifiers : ShortcutManagement.ShortcutModifiers = None})]]></content>
+	<tabTrigger><![CDATA[shortcutAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(id, defaultKeyCode, defaultShortcutModifiers)]]></description>
+</snippet>

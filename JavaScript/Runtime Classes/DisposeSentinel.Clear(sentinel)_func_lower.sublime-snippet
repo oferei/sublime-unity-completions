@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisposeSentinel.Clear(${1:sentinel : ref Unity.Collections.LowLevel.Unsafe.DisposeSentinel})]]></content>
+	<tabTrigger><![CDATA[clear]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DisposeSentinel.*(sentinel)]]></description>
+</snippet>

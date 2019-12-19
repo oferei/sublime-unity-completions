@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bone.TryGetRotation(${1:out Quaternion rotation})]]></content>
+	<tabTrigger><![CDATA[Bone.TryGetRotation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rotation)]]></description>
+</snippet>

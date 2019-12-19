@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.ConnectGameObjectToPrefab(${1:go as GameObject}, ${2:sourcePrefab as GameObject})]]></content>
-	<tabTrigger><![CDATA[PrefabUtility.ConnectGameObjectToPrefab]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(go, sourcePrefab)]]></description>
-</snippet>

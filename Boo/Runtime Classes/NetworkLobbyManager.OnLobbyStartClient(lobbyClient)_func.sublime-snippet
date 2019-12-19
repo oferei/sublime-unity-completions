@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkLobbyManager.OnLobbyStartClient(${1:lobbyClient as Networking.NetworkClient})]]></content>
-	<tabTrigger><![CDATA[OnLobbyStartClient]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkLobbyManager.*(lobbyClient)]]></description>
-</snippet>

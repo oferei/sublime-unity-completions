@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutUtility.GetMinSize(${1:RectTransform rect}, ${2:int axis})]]></content>
-	<tabTrigger><![CDATA[getMinSize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[LayoutUtility.*(rect, axis)]]></description>
-</snippet>

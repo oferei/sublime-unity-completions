@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffer : RenderBuffer}, ${2:depthBuffer : RenderBuffer}, ${3:mipLevel : int}, ${4:face : CubemapFace})]]></content>
-	<tabTrigger><![CDATA[Graphics.SetRenderTarget]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(colorBuffer, depthBuffer, mipLevel, face)]]></description>
-</snippet>

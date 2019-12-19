@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextField.SelectRange(${1:int rangeCursorIndex}, ${2:int selectionIndex})]]></content>
+	<tabTrigger><![CDATA[textField.SelectRange]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rangeCursorIndex, selectionIndex)]]></description>
+</snippet>

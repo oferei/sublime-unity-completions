@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRReferencePointSubsystem.TryAddReferencePoint(${1:pose as Pose}, ${2:referencePointId as out Experimental.XR.TrackableId})]]></content>
+	<tabTrigger><![CDATA[tryAddReferencePoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[XRReferencePointSubsystem.*(pose, referencePointId)]]></description>
+</snippet>

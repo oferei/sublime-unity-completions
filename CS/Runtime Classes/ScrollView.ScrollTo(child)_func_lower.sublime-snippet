@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScrollView.ScrollTo(${1:UIElements.VisualElement child})]]></content>
+	<tabTrigger><![CDATA[scrollTo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScrollView.*(child)]]></description>
+</snippet>

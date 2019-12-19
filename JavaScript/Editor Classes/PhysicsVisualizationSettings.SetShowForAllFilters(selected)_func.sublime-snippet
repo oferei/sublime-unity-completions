@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowForAllFilters(${1:selected : bool})]]></content>
+	<tabTrigger><![CDATA[SetShowForAllFilters]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(selected)]]></description>
+</snippet>

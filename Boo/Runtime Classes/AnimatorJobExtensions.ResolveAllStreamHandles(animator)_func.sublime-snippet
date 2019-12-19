@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorJobExtensions.ResolveAllStreamHandles(${1:animator as Animator})]]></content>
+	<tabTrigger><![CDATA[ResolveAllStreamHandles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimatorJobExtensions.*(animator)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowStaticColliders(${1:bool show})]]></content>
+	<tabTrigger><![CDATA[PhysicsVisualizationSettings.SetShowStaticColliders]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(show)]]></description>
+</snippet>

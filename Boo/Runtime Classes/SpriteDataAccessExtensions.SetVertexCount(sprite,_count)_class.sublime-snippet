@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.SetVertexCount(${1:sprite as Sprite}, ${2:count as int})]]></content>
+	<tabTrigger><![CDATA[SpriteDataAccessExtensions.SetVertexCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(sprite, count)]]></description>
+</snippet>

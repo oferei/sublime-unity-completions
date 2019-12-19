@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hand.TryGetFingerBones(${1:finger as XR.HandFinger}, ${2:bonesOut as List<Bone>})]]></content>
+	<tabTrigger><![CDATA[TryGetFingerBones]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Hand.*(finger, bonesOut)]]></description>
+</snippet>

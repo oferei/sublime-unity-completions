@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainCallbacks.TextureChangedCallback(${1:terrain : Terrain}, ${2:textureName : string}, ${3:texelRegion : RectInt}, ${4:synched : bool})]]></content>
+	<tabTrigger><![CDATA[textureChangedCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainCallbacks.*(terrain, textureName, texelRegion, synched)]]></description>
+</snippet>

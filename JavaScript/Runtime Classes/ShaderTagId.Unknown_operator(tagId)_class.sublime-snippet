@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderTagId.Unknown operator(${1:tagId : Rendering.ShaderTagId})]]></content>
+	<tabTrigger><![CDATA[ShaderTagId.Unknown operator]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tagId)]]></description>
+</snippet>

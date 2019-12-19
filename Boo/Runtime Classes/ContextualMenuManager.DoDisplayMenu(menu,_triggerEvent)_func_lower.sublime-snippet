@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContextualMenuManager.DoDisplayMenu(${1:menu as UIElements.DropdownMenu}, ${2:triggerEvent as UIElements.EventBase})]]></content>
+	<tabTrigger><![CDATA[doDisplayMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ContextualMenuManager.*(menu, triggerEvent)]]></description>
+</snippet>

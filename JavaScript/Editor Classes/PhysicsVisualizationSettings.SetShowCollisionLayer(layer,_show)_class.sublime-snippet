@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowCollisionLayer(${1:layer : int}, ${2:show : bool})]]></content>
+	<tabTrigger><![CDATA[PhysicsVisualizationSettings.SetShowCollisionLayer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(layer, show)]]></description>
+</snippet>

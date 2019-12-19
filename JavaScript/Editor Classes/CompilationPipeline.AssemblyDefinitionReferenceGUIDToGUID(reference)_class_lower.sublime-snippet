@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.AssemblyDefinitionReferenceGUIDToGUID(${1:reference : string})]]></content>
+	<tabTrigger><![CDATA[compilationPipeline.AssemblyDefinitionReferenceGUIDToGUID]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(reference)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetComputeTextureParam(${1:ComputeShader computeShader}, ${2:int kernelIndex}, ${3:int nameID}, ${4:Rendering.RenderTargetIdentifier rt}, ${5:int mipLevel})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetComputeTextureParam]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(computeShader, kernelIndex, nameID, rt, mipLevel)]]></description>
+</snippet>

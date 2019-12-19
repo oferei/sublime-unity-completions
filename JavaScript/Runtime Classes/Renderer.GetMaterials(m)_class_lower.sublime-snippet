@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Renderer.GetMaterials(${1:m : List<Material>})]]></content>
+	<tabTrigger><![CDATA[renderer.GetMaterials]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(m)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPostprocessBuildWithReport.OnPostprocessBuild(${1:Build.Reporting.BuildReport report})]]></content>
+	<tabTrigger><![CDATA[IPostprocessBuildWithReport.OnPostprocessBuild]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(report)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpeedTreeImporter.SearchAndRemapMaterials(${1:materialFolderPath as string})]]></content>
+	<tabTrigger><![CDATA[speedTreeImporter.SearchAndRemapMaterials]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(materialFolderPath)]]></description>
+</snippet>

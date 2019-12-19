@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.GetContacts(${1:rigidbody as Rigidbody2D}, ${2:colliders as (Collider2D)})]]></content>
+	<content><![CDATA[Physics2D.GetContacts(${1:rigidbody as Rigidbody2D}, ${2:colliders as List<Collider2D>})]]></content>
 	<tabTrigger><![CDATA[Physics2D.GetContacts]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(rigidbody, colliders)]]></description>

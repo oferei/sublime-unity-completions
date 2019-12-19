@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneVisibilityManager.Show(${1:SceneManagement.Scene scene})]]></content>
+	<tabTrigger><![CDATA[Show]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SceneVisibilityManager.*(scene)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequestAssetBundle.GetAssetBundle(${1:uri : Uri}, ${2:hash : Hash128}, ${3:crc : uint})]]></content>
+	<tabTrigger><![CDATA[unityWebRequestAssetBundle.GetAssetBundle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(uri, hash, crc)]]></description>
+</snippet>

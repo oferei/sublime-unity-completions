@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimationWindowPreview.BuildPreviewGraph(${1:graph : Playables.PlayableGraph}, ${2:inputPlayable : Playables.Playable})]]></content>
+	<tabTrigger><![CDATA[iAnimationWindowPreview.BuildPreviewGraph]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(graph, inputPlayable)]]></description>
+</snippet>

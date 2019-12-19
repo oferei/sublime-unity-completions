@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPostprocessBuild.OnPostprocessBuild(${1:BuildTarget target}, ${2:string path})]]></content>
-	<tabTrigger><![CDATA[OnPostprocessBuild]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IPostprocessBuild.*(target, path)]]></description>
-</snippet>

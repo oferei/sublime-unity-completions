@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.ClosestPoint(${1:Vector2 position})]]></content>
+	<tabTrigger><![CDATA[ClosestPoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Collider2D.*(position)]]></description>
+</snippet>

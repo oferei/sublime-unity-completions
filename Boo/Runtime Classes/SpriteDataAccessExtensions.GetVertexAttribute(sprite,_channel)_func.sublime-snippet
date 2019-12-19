@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.GetVertexAttribute(${1:sprite as Sprite}, ${2:channel as Rendering.VertexAttribute})]]></content>
+	<tabTrigger><![CDATA[GetVertexAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SpriteDataAccessExtensions.*(sprite, channel)]]></description>
+</snippet>

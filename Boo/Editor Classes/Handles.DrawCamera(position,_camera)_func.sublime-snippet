@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawCamera(${1:position as Rect}, ${2:camera as Camera})]]></content>
+	<tabTrigger><![CDATA[DrawCamera]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Handles.*(position, camera)]]></description>
+</snippet>

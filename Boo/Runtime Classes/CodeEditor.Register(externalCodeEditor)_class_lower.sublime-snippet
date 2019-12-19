@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CodeEditor.Register(${1:externalCodeEditor as Unity.CodeEditor.IExternalCodeEditor})]]></content>
+	<tabTrigger><![CDATA[codeEditor.Register]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(externalCodeEditor)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.Raycast(${1:hit : out AI.NavMeshHit}, ${2:path : NativeSlice<PolygonId>}, ${3:pathCount : out int}, ${4:start : Experimental.AI.NavMeshLocation}, ${5:targetPosition : Vector3}, ${6:areaMask : int}, ${7:costs : NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[navMeshQuery.Raycast]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(hit, path, pathCount, start, targetPosition, areaMask, costs)]]></description>
+</snippet>

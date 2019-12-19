@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScaleConstraint.SetSources(${1:sources as List<ConstraintSource>})]]></content>
+	<tabTrigger><![CDATA[scaleConstraint.SetSources]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(sources)]]></description>
+</snippet>

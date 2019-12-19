@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParentConstraint.SetTranslationOffset(${1:int index}, ${2:Vector3 value})]]></content>
+	<tabTrigger><![CDATA[parentConstraint.SetTranslationOffset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

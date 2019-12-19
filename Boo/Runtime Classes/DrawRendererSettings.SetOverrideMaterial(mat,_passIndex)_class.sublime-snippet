@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawRendererSettings.SetOverrideMaterial(${1:mat as Material}, ${2:passIndex as int})]]></content>
-	<tabTrigger><![CDATA[DrawRendererSettings.SetOverrideMaterial]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(mat, passIndex)]]></description>
-</snippet>

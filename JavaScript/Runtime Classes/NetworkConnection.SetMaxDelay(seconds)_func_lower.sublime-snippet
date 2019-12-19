@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.SetMaxDelay(${1:seconds : float})]]></content>
-	<tabTrigger><![CDATA[setMaxDelay]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkConnection.*(seconds)]]></description>
-</snippet>

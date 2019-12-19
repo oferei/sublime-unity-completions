@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IDropHandler.OnDrop(${1:EventSystems.PointerEventData eventData})]]></content>
-	<tabTrigger><![CDATA[OnDrop]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IDropHandler.*(eventData)]]></description>
-</snippet>

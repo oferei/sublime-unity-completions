@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.EndPaintTexture(${1:ctx : Experimental.TerrainAPI.PaintContext}, ${2:editorUndoName : string})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtility.EndPaintTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(ctx, editorUndoName)]]></description>
+</snippet>

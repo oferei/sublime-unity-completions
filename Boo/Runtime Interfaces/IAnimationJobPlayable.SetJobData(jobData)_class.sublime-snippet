@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimationJobPlayable.SetJobData(${1:jobData as T})]]></content>
+	<tabTrigger><![CDATA[IAnimationJobPlayable.SetJobData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(jobData)]]></description>
+</snippet>

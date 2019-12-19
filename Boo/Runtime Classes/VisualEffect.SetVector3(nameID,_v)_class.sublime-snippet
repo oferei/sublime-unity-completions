@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetVector3(${1:nameID as int}, ${2:v as Vector3})]]></content>
+	<tabTrigger><![CDATA[VisualEffect.SetVector3]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(nameID, v)]]></description>
+</snippet>

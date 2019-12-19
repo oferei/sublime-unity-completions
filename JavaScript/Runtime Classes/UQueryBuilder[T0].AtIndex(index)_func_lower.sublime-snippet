@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryBuilder<T0>.AtIndex(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[atIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UQueryBuilder<T0>.*(index)]]></description>
+</snippet>

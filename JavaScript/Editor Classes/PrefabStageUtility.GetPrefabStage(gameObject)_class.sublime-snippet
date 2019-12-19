@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabStageUtility.GetPrefabStage(${1:gameObject : GameObject})]]></content>
+	<tabTrigger><![CDATA[PrefabStageUtility.GetPrefabStage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gameObject)]]></description>
+</snippet>

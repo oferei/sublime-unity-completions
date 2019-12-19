@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.TryGetCullingParameters(${1:stereoAware : bool}, ${2:cullingParameters : out Rendering.ScriptableCullingParameters})]]></content>
+	<tabTrigger><![CDATA[tryGetCullingParameters]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Camera.*(stereoAware, cullingParameters)]]></description>
+</snippet>

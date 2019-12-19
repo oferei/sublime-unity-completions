@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.SetLocalTRS(${1:Experimental.Animations.AnimationStream stream}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:Vector3 scale}, ${5:bool useMask})]]></content>
+	<tabTrigger><![CDATA[SetLocalTRS]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream, position, rotation, scale, useMask)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerUtility.ValidateNormalMapTextureUI(${1:texture as Texture2D}, ${2:normalMapTextureType as bool})]]></content>
+	<tabTrigger><![CDATA[validateNormalMapTextureUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainLayerUtility.*(texture, normalMapTextureType)]]></description>
+</snippet>

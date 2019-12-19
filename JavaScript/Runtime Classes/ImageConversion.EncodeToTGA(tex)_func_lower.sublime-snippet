@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageConversion.EncodeToTGA(${1:tex : Texture2D})]]></content>
+	<tabTrigger><![CDATA[encodeToTGA]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ImageConversion.*(tex)]]></description>
+</snippet>

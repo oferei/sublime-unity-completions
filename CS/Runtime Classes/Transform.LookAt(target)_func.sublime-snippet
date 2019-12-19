@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.LookAt(${1:Transform target})]]></content>
+	<tabTrigger><![CDATA[LookAt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Transform.*(target)]]></description>
+</snippet>

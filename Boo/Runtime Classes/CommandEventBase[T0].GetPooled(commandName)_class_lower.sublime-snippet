@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandEventBase<T0>.GetPooled(${1:commandName as string})]]></content>
+	<tabTrigger><![CDATA[commandEventBase<T0>.GetPooled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(commandName)]]></description>
+</snippet>

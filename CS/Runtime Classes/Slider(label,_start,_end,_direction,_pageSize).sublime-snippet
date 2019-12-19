@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Slider(${1:string label}, ${2:float start}, ${3:float end}, ${4:UIElements.SliderDirection direction}, ${5:float pageSize})]]></content>
+	<tabTrigger><![CDATA[Slider]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(label, start, end, direction, pageSize)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EdgeDragHelper.HandleMouseUp(${1:evt : UIElements.MouseUpEvent})]]></content>
+	<tabTrigger><![CDATA[handleMouseUp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EdgeDragHelper.*(evt)]]></description>
+</snippet>

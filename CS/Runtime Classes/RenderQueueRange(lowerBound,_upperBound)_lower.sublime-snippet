@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderQueueRange(${1:int lowerBound}, ${2:int upperBound})]]></content>
+	<tabTrigger><![CDATA[renderQueueRange]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(lowerBound, upperBound)]]></description>
+</snippet>

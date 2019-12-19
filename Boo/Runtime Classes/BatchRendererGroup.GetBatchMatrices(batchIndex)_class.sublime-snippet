@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.GetBatchMatrices(${1:batchIndex as int})]]></content>
+	<tabTrigger><![CDATA[BatchRendererGroup.GetBatchMatrices]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(batchIndex)]]></description>
+</snippet>

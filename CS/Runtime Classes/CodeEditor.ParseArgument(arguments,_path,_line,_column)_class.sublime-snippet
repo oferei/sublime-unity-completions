@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CodeEditor.ParseArgument(${1:string arguments}, ${2:string path}, ${3:int line}, ${4:int column})]]></content>
+	<tabTrigger><![CDATA[CodeEditor.ParseArgument]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(arguments, path, line, column)]]></description>
+</snippet>

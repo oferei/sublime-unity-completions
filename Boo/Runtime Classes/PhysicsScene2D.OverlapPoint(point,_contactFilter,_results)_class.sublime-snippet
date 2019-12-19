@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.OverlapPoint(${1:point as Vector2}, ${2:contactFilter as ContactFilter2D}, ${3:results as List<Collider2D>})]]></content>
+	<tabTrigger><![CDATA[PhysicsScene2D.OverlapPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(point, contactFilter, results)]]></description>
+</snippet>

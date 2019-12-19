@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VertexHelper.PopulateUIVertex(${1:ref UIVertex vertex}, ${2:int i})]]></content>
-	<tabTrigger><![CDATA[populateUIVertex]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VertexHelper.*(vertex, i)]]></description>
-</snippet>

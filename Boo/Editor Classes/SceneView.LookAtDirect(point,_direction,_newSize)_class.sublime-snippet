@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.LookAtDirect(${1:point as Vector3}, ${2:direction as Quaternion}, ${3:newSize as single})]]></content>
+	<tabTrigger><![CDATA[SceneView.LookAtDirect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(point, direction, newSize)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.GetPathResult(${1:path as NativeSlice<PolygonId>})]]></content>
+	<tabTrigger><![CDATA[GetPathResult]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMeshQuery.*(path)]]></description>
+</snippet>

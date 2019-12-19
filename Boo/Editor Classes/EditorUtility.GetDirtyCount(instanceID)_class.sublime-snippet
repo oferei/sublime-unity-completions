@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.GetDirtyCount(${1:instanceID as int})]]></content>
+	<tabTrigger><![CDATA[EditorUtility.GetDirtyCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(instanceID)]]></description>
+</snippet>

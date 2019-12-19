@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Coverage.GetStatsFor(${1:type as Type})]]></content>
+	<tabTrigger><![CDATA[GetStatsFor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Coverage.*(type)]]></description>
+</snippet>

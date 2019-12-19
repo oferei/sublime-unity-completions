@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRenderTarget(${1:binding : Rendering.RenderTargetBinding})]]></content>
+	<tabTrigger><![CDATA[setRenderTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(binding)]]></description>
+</snippet>

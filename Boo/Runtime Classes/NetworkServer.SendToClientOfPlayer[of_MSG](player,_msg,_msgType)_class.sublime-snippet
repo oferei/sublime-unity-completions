@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendToClientOfPlayer[of ${1:MSG}](${2:player as GameObject}, ${3:msg as short}, ${4:msgType as MSG})]]></content>
-	<tabTrigger><![CDATA[NetworkServer.SendToClientOfPlayer]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of MSG](player, msg, msgType)]]></description>
-</snippet>

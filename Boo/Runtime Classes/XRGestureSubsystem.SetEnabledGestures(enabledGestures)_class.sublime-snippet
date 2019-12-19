@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRGestureSubsystem.SetEnabledGestures(${1:enabledGestures as Experimental.XR.GestureEventTypes})]]></content>
+	<tabTrigger><![CDATA[XRGestureSubsystem.SetEnabledGestures]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(enabledGestures)]]></description>
+</snippet>

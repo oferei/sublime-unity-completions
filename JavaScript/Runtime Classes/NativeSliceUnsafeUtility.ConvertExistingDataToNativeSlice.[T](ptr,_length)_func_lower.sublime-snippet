@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeSliceUnsafeUtility.ConvertExistingDataToNativeSlice.<${1:T}>(${2:ptr : IntPtr}, ${3:length : int})]]></content>
+	<tabTrigger><![CDATA[convertExistingDataToNativeSlice]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NativeSliceUnsafeUtility.*.<T>(ptr, length)]]></description>
+</snippet>

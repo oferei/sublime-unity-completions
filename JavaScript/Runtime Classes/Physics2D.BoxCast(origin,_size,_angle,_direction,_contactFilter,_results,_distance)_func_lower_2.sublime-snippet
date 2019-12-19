@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.BoxCast(${1:origin : Vector2}, ${2:size : Vector2}, ${3:angle : float}, ${4:direction : Vector2}, ${5:contactFilter : ContactFilter2D}, ${6:results : List<RaycastHit2D>}, ${7:distance : float = Mathf.Infinity})]]></content>
+	<tabTrigger><![CDATA[boxCast]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Physics2D.*(origin, size, angle, direction, contactFilter, results, distance)]]></description>
+</snippet>

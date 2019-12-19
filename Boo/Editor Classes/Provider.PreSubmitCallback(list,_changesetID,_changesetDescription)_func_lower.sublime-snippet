@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.PreSubmitCallback(${1:list as VersionControl.AssetList}, ${2:changesetID as ref string}, ${3:changesetDescription as ref string})]]></content>
+	<tabTrigger><![CDATA[preSubmitCallback]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Provider.*(list, changesetID, changesetDescription)]]></description>
+</snippet>

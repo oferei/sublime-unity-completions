@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.OnCaptureResourceCreatedCallback(${1:captureObject : XR.WSA.WebCam.PhotoCapture})]]></content>
+	<content><![CDATA[PhotoCapture.OnCaptureResourceCreatedCallback(${1:captureObject : Windows.WebCam.PhotoCapture})]]></content>
 	<tabTrigger><![CDATA[PhotoCapture.OnCaptureResourceCreatedCallback]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(captureObject)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorAnalytics.RegisterEventWithLimit(${1:string eventName}, ${2:int maxEventPerHour}, ${3:int maxItems}, ${4:string vendorKey}, ${5:int ver})]]></content>
+	<tabTrigger><![CDATA[RegisterEventWithLimit]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorAnalytics.*(eventName, maxEventPerHour, maxItems, vendorKey, ver)]]></description>
+</snippet>

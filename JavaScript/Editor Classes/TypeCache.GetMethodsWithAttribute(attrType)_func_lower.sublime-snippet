@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCache.GetMethodsWithAttribute(${1:attrType : Type})]]></content>
+	<tabTrigger><![CDATA[getMethodsWithAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TypeCache.*(attrType)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArray<T0>.Equals(${1:obj as object})]]></content>
+	<tabTrigger><![CDATA[NativeArray<T0>.Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

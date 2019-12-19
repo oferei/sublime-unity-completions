@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConfigurationBuilder.AddProduct(${1:string id}, ${2:Purchasing.ProductType type}, ${3:Purchasing.IDs storeIDs})]]></content>
-	<tabTrigger><![CDATA[ConfigurationBuilder.AddProduct]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(id, type, storeIDs)]]></description>
-</snippet>

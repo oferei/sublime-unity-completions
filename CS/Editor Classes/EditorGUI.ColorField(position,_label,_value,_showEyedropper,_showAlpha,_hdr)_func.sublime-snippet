@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ColorField(${1:Rect position}, ${2:GUIContent label}, ${3:Color value}, ${4:bool showEyedropper}, ${5:bool showAlpha}, ${6:bool hdr})]]></content>
+	<tabTrigger><![CDATA[ColorField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, label, value, showEyedropper, showAlpha, hdr)]]></description>
+</snippet>

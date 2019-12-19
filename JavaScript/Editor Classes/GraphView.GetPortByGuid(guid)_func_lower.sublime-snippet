@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.GetPortByGuid(${1:guid : string})]]></content>
+	<tabTrigger><![CDATA[getPortByGuid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GraphView.*(guid)]]></description>
+</snippet>

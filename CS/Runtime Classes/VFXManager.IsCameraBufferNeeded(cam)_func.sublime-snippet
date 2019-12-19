@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXManager.IsCameraBufferNeeded(${1:Camera cam})]]></content>
+	<tabTrigger><![CDATA[IsCameraBufferNeeded]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VFXManager.*(cam)]]></description>
+</snippet>

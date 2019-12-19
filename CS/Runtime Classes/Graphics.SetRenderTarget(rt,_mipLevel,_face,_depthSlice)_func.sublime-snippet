@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderTexture rt}, ${2:int mipLevel}, ${3:CubemapFace face}, ${4:int depthSlice})]]></content>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderTexture rt}, ${2:int mipLevel = 0}, ${3:CubemapFace face = CubemapFace.Unknown}, ${4:int depthSlice = 0})]]></content>
 	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Graphics.*(rt, mipLevel, face, depthSlice)]]></description>

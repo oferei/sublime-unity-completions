@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ManipulatorActivationFilter.Matches(${1:UIElements.IMouseEvent e})]]></content>
+	<tabTrigger><![CDATA[ManipulatorActivationFilter.Matches]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(e)]]></description>
+</snippet>

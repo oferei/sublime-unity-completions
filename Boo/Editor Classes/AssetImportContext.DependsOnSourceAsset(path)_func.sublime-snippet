@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImportContext.DependsOnSourceAsset(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[DependsOnSourceAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetImportContext.*(path)]]></description>
+</snippet>

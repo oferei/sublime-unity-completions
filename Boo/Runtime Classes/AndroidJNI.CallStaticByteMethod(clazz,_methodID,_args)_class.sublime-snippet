@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNI.CallStaticByteMethod(${1:clazz as IntPtr}, ${2:methodID as IntPtr}, ${3:args as (jvalue)})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI.CallStaticByteMethod]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(clazz, methodID, args)]]></description>
-</snippet>

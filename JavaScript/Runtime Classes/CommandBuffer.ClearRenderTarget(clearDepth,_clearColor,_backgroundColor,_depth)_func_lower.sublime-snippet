@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.ClearRenderTarget(${1:clearDepth : bool}, ${2:clearColor : bool}, ${3:backgroundColor : Color}, ${4:depth : float = 1.0f})]]></content>
+	<content><![CDATA[CommandBuffer.ClearRenderTarget(${1:clearDepth : bool}, ${2:clearColor : bool}, ${3:backgroundColor : Color}, ${4:depth : float})]]></content>
 	<tabTrigger><![CDATA[clearRenderTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CommandBuffer.*(clearDepth, clearColor, backgroundColor, depth)]]></description>

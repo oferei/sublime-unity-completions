@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SetSceneCullingMask(${1:scene : SceneManagement.Scene}, ${2:sceneCullingMask : ulong})]]></content>
+	<tabTrigger><![CDATA[editorSceneManager.SetSceneCullingMask]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scene, sceneCullingMask)]]></description>
+</snippet>

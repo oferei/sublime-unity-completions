@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.Perpendicular(${1:inDirection as Vector2})]]></content>
+	<tabTrigger><![CDATA[Vector2.Perpendicular]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inDirection)]]></description>
+</snippet>

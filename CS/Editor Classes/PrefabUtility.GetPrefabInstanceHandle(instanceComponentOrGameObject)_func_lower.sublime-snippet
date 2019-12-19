@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetPrefabInstanceHandle(${1:Object instanceComponentOrGameObject})]]></content>
+	<tabTrigger><![CDATA[getPrefabInstanceHandle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(instanceComponentOrGameObject)]]></description>
+</snippet>

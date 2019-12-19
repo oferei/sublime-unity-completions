@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.IsObjectExcludedFromDefaultPresets(${1:target as Object})]]></content>
+	<tabTrigger><![CDATA[preset.IsObjectExcludedFromDefaultPresets]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target)]]></description>
+</snippet>

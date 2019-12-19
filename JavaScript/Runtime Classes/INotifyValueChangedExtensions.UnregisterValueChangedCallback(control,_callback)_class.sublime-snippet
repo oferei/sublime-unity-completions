@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INotifyValueChangedExtensions.UnregisterValueChangedCallback(${1:control : INotifyValueChanged<T>}, ${2:callback : EventCallback<ChangeEvent<T>>})]]></content>
+	<tabTrigger><![CDATA[INotifyValueChangedExtensions.UnregisterValueChangedCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(control, callback)]]></description>
+</snippet>

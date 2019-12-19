@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Length(${1:value as single}, ${2:unit as UIElements.LengthUnit})]]></content>
+	<tabTrigger><![CDATA[length]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value, unit)]]></description>
+</snippet>

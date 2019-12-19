@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystemRenderer.GetMeshes(${1:meshes : Mesh[]})]]></content>
+	<content><![CDATA[ParticleSystemRenderer.GetMeshes(${1:meshes : out Mesh[]})]]></content>
 	<tabTrigger><![CDATA[getMeshes]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ParticleSystemRenderer.*(meshes)]]></description>

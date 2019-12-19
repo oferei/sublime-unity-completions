@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryBuilder<T0>.Descendents(${1:name : string}, ${2:classname : string})]]></content>
+	<tabTrigger><![CDATA[descendents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UQueryBuilder<T0>.*(name, classname)]]></description>
+</snippet>

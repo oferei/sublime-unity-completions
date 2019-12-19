@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:rt : RenderTexture}, ${2:mipLevel : int})]]></content>
-	<tabTrigger><![CDATA[graphics.SetRenderTarget]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(rt, mipLevel)]]></description>
-</snippet>

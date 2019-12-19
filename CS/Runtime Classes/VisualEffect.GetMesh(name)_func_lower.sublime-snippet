@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.GetMesh(${1:string name})]]></content>
+	<tabTrigger><![CDATA[getMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualEffect.*(name)]]></description>
+</snippet>

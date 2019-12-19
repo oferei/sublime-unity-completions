@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.CalculateRectToFitAll(${1:container as UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[CalculateRectToFitAll]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GraphView.*(container)]]></description>
+</snippet>

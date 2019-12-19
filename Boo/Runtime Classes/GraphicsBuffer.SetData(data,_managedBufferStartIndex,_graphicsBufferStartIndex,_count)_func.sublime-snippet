@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicsBuffer.SetData(${1:data as List<T>}, ${2:managedBufferStartIndex as int}, ${3:graphicsBufferStartIndex as int}, ${4:count as int})]]></content>
+	<tabTrigger><![CDATA[SetData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GraphicsBuffer.*(data, managedBufferStartIndex, graphicsBufferStartIndex, count)]]></description>
+</snippet>

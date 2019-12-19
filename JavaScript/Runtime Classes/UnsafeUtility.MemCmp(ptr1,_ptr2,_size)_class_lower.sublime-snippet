@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.MemCmp(${1:ptr1 : IntPtr}, ${2:ptr2 : IntPtr}, ${3:size : ulong})]]></content>
+	<tabTrigger><![CDATA[unsafeUtility.MemCmp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(ptr1, ptr2, size)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.EnumFlagsField(${1:label as GUIContent}, ${2:enumValue as Enum}, ${3:includeObsolete as bool}, ${4:style as GUIStyle}, ${5:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.EnumFlagsField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(label, enumValue, includeObsolete, style, options)]]></description>
+</snippet>

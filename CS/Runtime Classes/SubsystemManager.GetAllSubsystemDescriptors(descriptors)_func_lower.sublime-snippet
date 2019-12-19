@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubsystemManager.GetAllSubsystemDescriptors(${1:List<ISubsystemDescriptor> descriptors})]]></content>
+	<tabTrigger><![CDATA[getAllSubsystemDescriptors]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SubsystemManager.*(descriptors)]]></description>
+</snippet>

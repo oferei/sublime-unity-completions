@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetSystemAssemblyDirectories(${1:apiCompatibilityLevel : ApiCompatibilityLevel})]]></content>
+	<tabTrigger><![CDATA[CompilationPipeline.GetSystemAssemblyDirectories]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(apiCompatibilityLevel)]]></description>
+</snippet>

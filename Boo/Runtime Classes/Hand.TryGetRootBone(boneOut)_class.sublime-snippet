@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hand.TryGetRootBone(${1:boneOut as out XR.Bone})]]></content>
+	<tabTrigger><![CDATA[Hand.TryGetRootBone]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(boneOut)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.StoreItemClick(${1:storeType : Analytics.StoreType}, ${2:itemId : string}, ${3:itemName : string}, ${4:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.StoreItemClick]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(storeType, itemId, itemName, eventData)]]></description>
-</snippet>

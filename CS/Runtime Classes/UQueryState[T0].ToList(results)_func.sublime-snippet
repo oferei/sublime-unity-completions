@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryState<T0>.ToList(${1:List<T> results})]]></content>
+	<tabTrigger><![CDATA[ToList]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UQueryState<T0>.*(results)]]></description>
+</snippet>

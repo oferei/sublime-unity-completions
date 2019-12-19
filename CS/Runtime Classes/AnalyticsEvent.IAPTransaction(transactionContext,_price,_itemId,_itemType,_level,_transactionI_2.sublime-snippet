@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.IAPTransaction(${1:string transactionContext}, ${2:float price}, ${3:string itemId}, ${4:string itemType}, ${5:string level}, ${6:string transactionId}, ${7:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.IAPTransaction]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(transactionContext, price, itemId, itemType, level, transactionId, eventData)]]></description>
-</snippet>

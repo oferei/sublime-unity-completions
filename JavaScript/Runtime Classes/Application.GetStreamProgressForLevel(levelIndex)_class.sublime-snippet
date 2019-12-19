@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Application.GetStreamProgressForLevel(${1:levelIndex : int})]]></content>
-	<tabTrigger><![CDATA[Application.GetStreamProgressForLevel]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(levelIndex)]]></description>
-</snippet>

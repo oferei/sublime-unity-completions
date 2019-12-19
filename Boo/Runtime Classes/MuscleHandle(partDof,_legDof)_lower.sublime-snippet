@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MuscleHandle(${1:partDof as HumanPartDof}, ${2:legDof as LegDof})]]></content>
+	<tabTrigger><![CDATA[muscleHandle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(partDof, legDof)]]></description>
+</snippet>

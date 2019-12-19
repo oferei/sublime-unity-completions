@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapCollider(${1:collider : Collider2D}, ${2:contactFilter : ContactFilter2D}, ${3:results : Collider2D[]})]]></content>
+	<content><![CDATA[Physics2D.OverlapCollider(${1:collider : Collider2D}, ${2:contactFilter : ContactFilter2D}, ${3:results : List<Collider2D>})]]></content>
 	<tabTrigger><![CDATA[physics2D.OverlapCollider]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(collider, contactFilter, results)]]></description>

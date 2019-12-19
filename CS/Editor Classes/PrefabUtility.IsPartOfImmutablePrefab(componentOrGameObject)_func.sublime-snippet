@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsPartOfImmutablePrefab(${1:Object componentOrGameObject})]]></content>
+	<tabTrigger><![CDATA[IsPartOfImmutablePrefab]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(componentOrGameObject)]]></description>
+</snippet>

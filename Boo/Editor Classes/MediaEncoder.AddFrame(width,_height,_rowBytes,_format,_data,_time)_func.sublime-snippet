@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder.AddFrame(${1:width as int}, ${2:height as int}, ${3:rowBytes as int}, ${4:format as TextureFormat}, ${5:data as NativeArray<byte>}, ${6:time as Media.MediaTime})]]></content>
+	<tabTrigger><![CDATA[AddFrame]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MediaEncoder.*(width, height, rowBytes, format, data, time)]]></description>
+</snippet>

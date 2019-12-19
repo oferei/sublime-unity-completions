@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RawImageEditor.OnPreviewGUI(${1:Rect rect}, ${2:GUIStyle background})]]></content>
-	<tabTrigger><![CDATA[rawImageEditor.OnPreviewGUI]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(rect, background)]]></description>
-</snippet>

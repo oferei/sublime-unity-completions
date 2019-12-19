@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.BeginFindPath(${1:start as Experimental.AI.NavMeshLocation}, ${2:end as Experimental.AI.NavMeshLocation}, ${3:areaMask as int}, ${4:costs as NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[beginFindPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMeshQuery.*(start, end, areaMask, costs)]]></description>
+</snippet>

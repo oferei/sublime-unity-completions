@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.UpdateProperties(${1:source as Object})]]></content>
+	<tabTrigger><![CDATA[UpdateProperties]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Preset.*(source)]]></description>
+</snippet>

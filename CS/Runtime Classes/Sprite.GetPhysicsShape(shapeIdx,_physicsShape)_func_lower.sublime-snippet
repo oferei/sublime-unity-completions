@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Sprite.GetPhysicsShape(${1:int shapeIdx}, ${2:IList<Vector2> physicsShape})]]></content>
+	<content><![CDATA[Sprite.GetPhysicsShape(${1:int shapeIdx}, ${2:List<Vector2> physicsShape})]]></content>
 	<tabTrigger><![CDATA[getPhysicsShape]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Sprite.*(shapeIdx, physicsShape)]]></description>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnSubmit(${1:eventData : EventSystems.BaseEventData})]]></content>
-	<tabTrigger><![CDATA[eventTrigger.OnSubmit]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

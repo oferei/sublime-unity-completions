@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.CalculateBuildUsageTags(${1:objectIDs : ObjectIdentifier[]}, ${2:dependentObjectIDs : ObjectIdentifier[]}, ${3:globalUsage : Build.Content.BuildUsageTagGlobal}, ${4:usageSet : Build.Content.BuildUsageTagSet})]]></content>
+	<tabTrigger><![CDATA[contentBuildInterface.CalculateBuildUsageTags]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(objectIDs, dependentObjectIDs, globalUsage, usageSet)]]></description>
+</snippet>

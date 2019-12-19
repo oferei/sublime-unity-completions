@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.BeginPaintHeightmap(${1:terrain : Terrain}, ${2:boundsInTerrainSpace : Rect}, ${3:extraBorderPixels : int})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtility.BeginPaintHeightmap]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(terrain, boundsInTerrainSpace, extraBorderPixels)]]></description>
+</snippet>

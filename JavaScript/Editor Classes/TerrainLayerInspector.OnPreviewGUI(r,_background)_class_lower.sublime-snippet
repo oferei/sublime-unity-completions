@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerInspector.OnPreviewGUI(${1:r : Rect}, ${2:background : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[terrainLayerInspector.OnPreviewGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(r, background)]]></description>
+</snippet>

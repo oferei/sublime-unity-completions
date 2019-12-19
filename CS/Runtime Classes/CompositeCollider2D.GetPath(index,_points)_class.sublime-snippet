@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CompositeCollider2D.GetPath(${1:int index}, ${2:Vector2[] points})]]></content>
+	<content><![CDATA[CompositeCollider2D.GetPath(${1:int index}, ${2:List<Vector2> points})]]></content>
 	<tabTrigger><![CDATA[CompositeCollider2D.GetPath]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(index, points)]]></description>

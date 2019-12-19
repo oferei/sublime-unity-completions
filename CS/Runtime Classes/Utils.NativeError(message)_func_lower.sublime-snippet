@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Utils.NativeError(${1:string message})]]></content>
+	<tabTrigger><![CDATA[nativeError]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Utils.*(message)]]></description>
+</snippet>

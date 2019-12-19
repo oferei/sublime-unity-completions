@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HashUtilities.QuantisedMatrixHash(${1:ref Matrix4x4 value}, ${2:ref Hash128 hash})]]></content>
+	<tabTrigger><![CDATA[quantisedMatrixHash]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HashUtilities.*(value, hash)]]></description>
+</snippet>

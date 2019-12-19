@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.GetPlatformSettings(${1:U2D.SpriteAtlas spriteAtlas}, ${2:string buildTarget})]]></content>
+	<tabTrigger><![CDATA[spriteAtlasExtensions.GetPlatformSettings]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(spriteAtlas, buildTarget)]]></description>
+</snippet>

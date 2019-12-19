@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.ItemAcquired(${1:Analytics.AcquisitionType currencyType}, ${2:string transactionContext}, ${3:float amount}, ${4:string itemId}, ${5:float balance}, ${6:string itemType}, ${7:string level}, ${8:string transactionId}, ${9:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[itemAcquired]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnalyticsEvent.*(currencyType, transactionContext, amount, itemId, balance, itemType, level, transactionId, eventData)]]></description>
-</snippet>

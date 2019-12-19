@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullResults.Cull(${1:Camera camera}, ${2:RenderLoop renderLoop}, ${3:CullResults results})]]></content>
-	<tabTrigger><![CDATA[cullResults.Cull]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(camera, renderLoop, results)]]></description>
-</snippet>

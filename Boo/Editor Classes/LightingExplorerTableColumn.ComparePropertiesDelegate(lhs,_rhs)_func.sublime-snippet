@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerTableColumn.ComparePropertiesDelegate(${1:lhs as SerializedProperty}, ${2:rhs as SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[ComparePropertiesDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LightingExplorerTableColumn.*(lhs, rhs)]]></description>
+</snippet>

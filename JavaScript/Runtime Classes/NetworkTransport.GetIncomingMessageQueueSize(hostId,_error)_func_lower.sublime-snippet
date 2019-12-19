@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetIncomingMessageQueueSize(${1:hostId : int}, ${2:error : out byte})]]></content>
-	<tabTrigger><![CDATA[getIncomingMessageQueueSize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, error)]]></description>
-</snippet>

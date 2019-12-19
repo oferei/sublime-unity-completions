@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.CreateProfile(${1:profileId : string})]]></content>
+	<tabTrigger><![CDATA[createProfile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IShortcutManager.*(profileId)]]></description>
+</snippet>

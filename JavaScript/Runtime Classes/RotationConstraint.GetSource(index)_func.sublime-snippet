@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RotationConstraint.GetSource(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetSource]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RotationConstraint.*(index)]]></description>
+</snippet>

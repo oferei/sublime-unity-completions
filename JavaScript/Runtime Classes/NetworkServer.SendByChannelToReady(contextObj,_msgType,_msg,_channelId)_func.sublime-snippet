@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendByChannelToReady(${1:contextObj : GameObject}, ${2:msgType : short}, ${3:msg : Networking.MessageBase}, ${4:channelId : int})]]></content>
-	<tabTrigger><![CDATA[SendByChannelToReady]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkServer.*(contextObj, msgType, msg, channelId)]]></description>
-</snippet>

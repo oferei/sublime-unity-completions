@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.AddNotificationReceiver(${1:output : U}, ${2:receiver : Playables.INotificationReceiver})]]></content>
+	<tabTrigger><![CDATA[playableOutputExtensions.AddNotificationReceiver]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(output, receiver)]]></description>
+</snippet>

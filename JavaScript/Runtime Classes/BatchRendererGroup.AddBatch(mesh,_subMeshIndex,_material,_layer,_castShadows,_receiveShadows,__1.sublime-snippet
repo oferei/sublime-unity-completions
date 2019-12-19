@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.AddBatch(${1:mesh : Mesh}, ${2:subMeshIndex : int}, ${3:material : Material}, ${4:layer : int}, ${5:castShadows : Rendering.ShadowCastingMode}, ${6:receiveShadows : bool}, ${7:invertCulling : bool}, ${8:bounds : Bounds}, ${9:instanceCount : int}, ${10:customProps : MaterialPropertyBlock}, ${11:associatedSceneObject : GameObject}, ${12:sceneCullingMask : ulong})]]></content>
+	<tabTrigger><![CDATA[BatchRendererGroup.AddBatch]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(mesh, subMeshIndex, material, layer, castShadows, receiveShadows, invertCulling, bounds, instanceCount, customProps, associatedSceneObject, sceneCullingMask)]]></description>
+</snippet>

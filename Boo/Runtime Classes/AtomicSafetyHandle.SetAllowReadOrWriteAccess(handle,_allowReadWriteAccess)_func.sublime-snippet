@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.SetAllowReadOrWriteAccess(${1:handle as Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle}, ${2:allowReadWriteAccess as bool})]]></content>
+	<tabTrigger><![CDATA[SetAllowReadOrWriteAccess]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AtomicSafetyHandle.*(handle, allowReadWriteAccess)]]></description>
+</snippet>

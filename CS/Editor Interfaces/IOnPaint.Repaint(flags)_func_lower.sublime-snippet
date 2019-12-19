@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IOnPaint.Repaint(${1:Experimental.TerrainAPI.RepaintFlags flags})]]></content>
+	<tabTrigger><![CDATA[repaint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IOnPaint.*(flags)]]></description>
+</snippet>

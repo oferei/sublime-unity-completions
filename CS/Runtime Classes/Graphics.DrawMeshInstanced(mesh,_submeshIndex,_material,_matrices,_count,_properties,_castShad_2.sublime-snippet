@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMeshInstanced(${1:Mesh mesh}, ${2:int submeshIndex}, ${3:Material material}, ${4:Matrix4x4[] matrices}, ${5:int count = matrices.Length}, ${6:MaterialPropertyBlock properties = null}, ${7:Rendering.ShadowCastingMode castShadows = ShadowCastingMode.On}, ${8:bool receiveShadows = true}, ${9:int layer = 0}, ${10:Camera camera = null})]]></content>
+	<content><![CDATA[Graphics.DrawMeshInstanced(${1:Mesh mesh}, ${2:int submeshIndex}, ${3:Material material}, ${4:Matrix4x4[] matrices}, ${5:int count = matrices.Length}, ${6:MaterialPropertyBlock properties = null}, ${7:Rendering.ShadowCastingMode castShadows = ShadowCastingMode.On}, ${8:bool receiveShadows = true}, ${9:int layer = 0}, ${10:Camera camera = null}, ${11:Rendering.LightProbeUsage lightProbeUsage = LightProbeUsage.BlendProbes}, ${12:LightProbeProxyVolume lightProbeProxyVolume = null})]]></content>
 	<tabTrigger><![CDATA[graphics.DrawMeshInstanced]]></tabTrigger>
 	<scope>source.cs</scope>
-	<description><![CDATA[*(mesh, submeshIndex, material, matrices, count, properties, castShadows, receiveShadows, layer, camera)]]></description>
+	<description><![CDATA[*(mesh, submeshIndex, material, matrices, count, properties, castShadows, receiveShadows, layer, camera, lightProbeUsage, lightProbeProxyVolume)]]></description>
 </snippet>

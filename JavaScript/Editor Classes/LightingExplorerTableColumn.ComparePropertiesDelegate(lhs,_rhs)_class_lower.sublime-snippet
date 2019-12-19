@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerTableColumn.ComparePropertiesDelegate(${1:lhs : SerializedProperty}, ${2:rhs : SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[lightingExplorerTableColumn.ComparePropertiesDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lhs, rhs)]]></description>
+</snippet>

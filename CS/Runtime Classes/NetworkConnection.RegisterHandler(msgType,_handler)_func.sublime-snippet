@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.RegisterHandler(${1:short msgType}, ${2:Networking.NetworkMessageDelegate handler})]]></content>
-	<tabTrigger><![CDATA[RegisterHandler]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkConnection.*(msgType, handler)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.GetShowTerrainColliders(${1:filterWorkflow : PhysicsVisualizationSettings.FilterWorkflow})]]></content>
-	<tabTrigger><![CDATA[PhysicsVisualizationSettings.GetShowTerrainColliders]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(filterWorkflow)]]></description>
-</snippet>

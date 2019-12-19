@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyDrawer.CreatePropertyGUI(${1:SerializedProperty property})]]></content>
+	<tabTrigger><![CDATA[createPropertyGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PropertyDrawer.*(property)]]></description>
+</snippet>

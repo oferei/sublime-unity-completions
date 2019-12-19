@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkWriter.Write(${1:value as Transform})]]></content>
-	<tabTrigger><![CDATA[NetworkWriter.Write]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value)]]></description>
-</snippet>

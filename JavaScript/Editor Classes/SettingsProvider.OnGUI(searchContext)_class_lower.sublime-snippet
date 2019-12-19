@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsProvider.OnGUI(${1:searchContext : string})]]></content>
+	<tabTrigger><![CDATA[settingsProvider.OnGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(searchContext)]]></description>
+</snippet>

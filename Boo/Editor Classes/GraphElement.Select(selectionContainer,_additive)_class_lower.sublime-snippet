@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphElement.Select(${1:selectionContainer as UIElements.VisualElement}, ${2:additive as bool})]]></content>
+	<tabTrigger><![CDATA[graphElement.Select]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(selectionContainer, additive)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXManager.ProcessCamera(${1:cam : Camera})]]></content>
+	<tabTrigger><![CDATA[ProcessCamera]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VFXManager.*(cam)]]></description>
+</snippet>

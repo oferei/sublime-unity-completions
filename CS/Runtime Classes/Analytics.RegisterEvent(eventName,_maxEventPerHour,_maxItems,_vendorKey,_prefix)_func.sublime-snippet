@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.RegisterEvent(${1:string eventName}, ${2:int maxEventPerHour}, ${3:int maxItems}, ${4:string vendorKey}, ${5:string prefix})]]></content>
+	<tabTrigger><![CDATA[RegisterEvent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Analytics.*(eventName, maxEventPerHour, maxItems, vendorKey, prefix)]]></description>
+</snippet>

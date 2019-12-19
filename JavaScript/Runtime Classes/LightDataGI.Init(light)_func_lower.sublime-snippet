@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightDataGI.Init(${1:light : ref Experimental.GlobalIllumination.RectangleLight})]]></content>
+	<tabTrigger><![CDATA[init]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LightDataGI.*(light)]]></description>
+</snippet>

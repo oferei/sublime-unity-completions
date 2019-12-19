@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.IsValid(${1:polygon : Experimental.AI.PolygonId})]]></content>
+	<tabTrigger><![CDATA[isValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMeshQuery.*(polygon)]]></description>
+</snippet>

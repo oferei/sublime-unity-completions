@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.RenameProfile(${1:profileId : string}, ${2:newProfileId : string})]]></content>
+	<tabTrigger><![CDATA[RenameProfile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IShortcutManager.*(profileId, newProfileId)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlackboardSection.CanAcceptDropDelegate(${1:selected as Experimental.GraphView.ISelectable})]]></content>
+	<tabTrigger><![CDATA[blackboardSection.CanAcceptDropDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(selected)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.LoadRawTextureData(${1:byte[] data})]]></content>
+	<content><![CDATA[Texture2D.LoadRawTextureData(${1:NativeArray<T> data})]]></content>
 	<tabTrigger><![CDATA[loadRawTextureData]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Texture2D.*(data)]]></description>

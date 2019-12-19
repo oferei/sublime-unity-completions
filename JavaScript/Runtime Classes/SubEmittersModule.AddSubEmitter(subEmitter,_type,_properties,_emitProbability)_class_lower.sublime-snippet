@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.AddSubEmitter(${1:subEmitter : ParticleSystem}, ${2:type : ParticleSystemSubEmitterType}, ${3:properties : ParticleSystemSubEmitterProperties}, ${4:emitProbability : float})]]></content>
+	<tabTrigger><![CDATA[subEmittersModule.AddSubEmitter]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(subEmitter, type, properties, emitProbability)]]></description>
+</snippet>

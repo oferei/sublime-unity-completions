@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CallbackEventHandler.HandleEvent(${1:evt : Experimental.UIElements.EventBase})]]></content>
+	<content><![CDATA[CallbackEventHandler.HandleEvent(${1:evt : UIElements.EventBase})]]></content>
 	<tabTrigger><![CDATA[callbackEventHandler.HandleEvent]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(evt)]]></description>

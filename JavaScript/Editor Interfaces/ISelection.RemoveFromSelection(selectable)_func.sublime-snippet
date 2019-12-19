@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISelection.RemoveFromSelection(${1:selectable : Experimental.GraphView.ISelectable})]]></content>
+	<tabTrigger><![CDATA[RemoveFromSelection]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ISelection.*(selectable)]]></description>
+</snippet>

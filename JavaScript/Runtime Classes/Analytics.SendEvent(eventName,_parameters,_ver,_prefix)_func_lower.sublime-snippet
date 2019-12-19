@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Analytics.SendEvent(${1:eventName : string}, ${2:parameters : object}, ${3:ver : int}, ${4:prefix : string})]]></content>
+	<tabTrigger><![CDATA[sendEvent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Analytics.*(eventName, parameters, ver, prefix)]]></description>
+</snippet>

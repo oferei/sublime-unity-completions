@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProfilerMarker(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[ProfilerMarker]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

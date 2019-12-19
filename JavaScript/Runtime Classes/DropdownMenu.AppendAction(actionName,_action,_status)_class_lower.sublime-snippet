@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.AppendAction(${1:actionName : string}, ${2:action : Action<DropdownMenuAction>}, ${3:status : TouchScreenKeyboard.Status})]]></content>
+	<tabTrigger><![CDATA[dropdownMenu.AppendAction]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(actionName, action, status)]]></description>
+</snippet>

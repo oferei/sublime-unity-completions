@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnityWebRequest.GetAssetBundle(${1:uri as string}, ${2:crc as uint})]]></content>
-	<tabTrigger><![CDATA[getAssetBundle]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[UnityWebRequest.*(uri, crc)]]></description>
-</snippet>

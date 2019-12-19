@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[TextureImporter.SetPlatformTextureSettings(${1:string platform}, ${2:int maxTextureSize}, ${3:TextureImporterFormat textureFormat}, ${4:bool allowsAlphaSplit = false})]]></content>
+	<content><![CDATA[TextureImporter.SetPlatformTextureSettings(${1:string platform}, ${2:int maxTextureSize}, ${3:TextureImporterFormat textureFormat}, ${4:bool allowsAlphaSplit = False})]]></content>
 	<tabTrigger><![CDATA[SetPlatformTextureSettings]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[TextureImporter.*(platform, maxTextureSize, textureFormat, allowsAlphaSplit)]]></description>

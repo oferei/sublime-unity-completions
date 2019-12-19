@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderPipeline.BeginCameraRendering(${1:context as Rendering.ScriptableRenderContext}, ${2:camera as Camera})]]></content>
+	<tabTrigger><![CDATA[renderPipeline.BeginCameraRendering]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(context, camera)]]></description>
+</snippet>

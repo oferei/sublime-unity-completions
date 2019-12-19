@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetBool(${1:int nameID})]]></content>
+	<tabTrigger><![CDATA[vFXExpressionValues.GetBool]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collision.GetContacts(${1:contacts : List<ContactPoint>})]]></content>
+	<tabTrigger><![CDATA[GetContacts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Collision.*(contacts)]]></description>
+</snippet>

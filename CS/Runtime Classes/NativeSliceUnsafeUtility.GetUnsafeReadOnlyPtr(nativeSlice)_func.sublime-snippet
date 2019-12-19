@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeSliceUnsafeUtility.GetUnsafeReadOnlyPtr(${1:NativeSlice<T> nativeSlice})]]></content>
+	<tabTrigger><![CDATA[GetUnsafeReadOnlyPtr]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NativeSliceUnsafeUtility.*(nativeSlice)]]></description>
+</snippet>

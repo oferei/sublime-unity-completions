@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.ApplyAddedGameObject(${1:gameObject : GameObject}, ${2:assetPath : string}, ${3:action : InteractionMode})]]></content>
+	<tabTrigger><![CDATA[ApplyAddedGameObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PrefabUtility.*(gameObject, assetPath, action)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.InvokeHandlerNoData(${1:msgType : short})]]></content>
-	<tabTrigger><![CDATA[networkConnection.InvokeHandlerNoData]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(msgType)]]></description>
-</snippet>

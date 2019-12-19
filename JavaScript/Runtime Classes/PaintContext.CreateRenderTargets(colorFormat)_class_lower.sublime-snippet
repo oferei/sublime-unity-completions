@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.CreateRenderTargets(${1:colorFormat : RenderTextureFormat})]]></content>
+	<tabTrigger><![CDATA[paintContext.CreateRenderTargets]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(colorFormat)]]></description>
+</snippet>

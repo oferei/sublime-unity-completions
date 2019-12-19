@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PositionConstraint.SetSource(${1:int index}, ${2:Animations.ConstraintSource source})]]></content>
+	<tabTrigger><![CDATA[PositionConstraint.SetSource]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, source)]]></description>
+</snippet>

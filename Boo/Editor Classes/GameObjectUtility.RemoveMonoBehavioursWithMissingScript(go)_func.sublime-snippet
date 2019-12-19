@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.RemoveMonoBehavioursWithMissingScript(${1:go as GameObject})]]></content>
+	<tabTrigger><![CDATA[RemoveMonoBehavioursWithMissingScript]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GameObjectUtility.*(go)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImportContext.GetObjects(${1:objects : List<Object>})]]></content>
+	<tabTrigger><![CDATA[assetImportContext.GetObjects]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(objects)]]></description>
+</snippet>

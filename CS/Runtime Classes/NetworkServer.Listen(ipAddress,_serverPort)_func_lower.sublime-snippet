@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.Listen(${1:string ipAddress}, ${2:int serverPort})]]></content>
-	<tabTrigger><![CDATA[listen]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkServer.*(ipAddress, serverPort)]]></description>
-</snippet>

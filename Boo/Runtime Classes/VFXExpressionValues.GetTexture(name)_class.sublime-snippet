@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetTexture(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[VFXExpressionValues.GetTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

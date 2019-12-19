@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.TryGetGUIDAndLocalFileIdentifier(${1:obj : Object}, ${2:guid : out string}, ${3:localId : out long})]]></content>
+	<tabTrigger><![CDATA[AssetDatabase.TryGetGUIDAndLocalFileIdentifier]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(obj, guid, localId)]]></description>
+</snippet>

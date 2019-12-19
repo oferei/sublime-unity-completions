@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullResults.SetLightIndexMap(${1:int[] mapping})]]></content>
-	<tabTrigger><![CDATA[setLightIndexMap]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[CullResults.*(mapping)]]></description>
-</snippet>

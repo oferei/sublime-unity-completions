@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPanel.Pick(${1:point as Vector2})]]></content>
+	<tabTrigger><![CDATA[pick]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IPanel.*(point)]]></description>
+</snippet>

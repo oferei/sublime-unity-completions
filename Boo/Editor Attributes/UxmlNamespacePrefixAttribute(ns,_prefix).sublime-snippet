@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlNamespacePrefixAttribute(${1:ns as string}, ${2:prefix as string})]]></content>
+	<tabTrigger><![CDATA[UxmlNamespacePrefixAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ns, prefix)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformSceneHandle.GetLocalTRS(${1:stream : Experimental.Animations.AnimationStream}, ${2:position : out Vector3}, ${3:rotation : out Quaternion}, ${4:scale : out Vector3})]]></content>
+	<tabTrigger><![CDATA[GetLocalTRS]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TransformSceneHandle.*(stream, position, rotation, scale)]]></description>
+</snippet>

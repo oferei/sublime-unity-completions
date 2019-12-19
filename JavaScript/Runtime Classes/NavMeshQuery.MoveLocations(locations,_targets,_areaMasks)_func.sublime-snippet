@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.MoveLocations(${1:locations : NativeSlice<NavMeshLocation>}, ${2:targets : NativeSlice<Vector3>}, ${3:areaMasks : NativeSlice<int>})]]></content>
+	<tabTrigger><![CDATA[MoveLocations]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMeshQuery.*(locations, targets, areaMasks)]]></description>
+</snippet>

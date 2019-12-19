@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnityPurchasing.Initialize(${1:listener as Purchasing.IStoreListener}, ${2:builder as Purchasing.ConfigurationBuilder})]]></content>
-	<tabTrigger><![CDATA[UnityPurchasing.Initialize]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(listener, builder)]]></description>
-</snippet>

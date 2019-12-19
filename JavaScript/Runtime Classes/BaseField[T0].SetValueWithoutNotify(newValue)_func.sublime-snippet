@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseField<T0>.SetValueWithoutNotify(${1:newValue : TValueType})]]></content>
+	<tabTrigger><![CDATA[SetValueWithoutNotify]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BaseField<T0>.*(newValue)]]></description>
+</snippet>

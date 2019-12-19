@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Debug.LogFormat(${1:logType : LogType}, ${2:logOptions : LogOption}, ${3:context : Object}, ${4:format : string}, ${5:args : params object[]})]]></content>
+	<tabTrigger><![CDATA[logFormat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Debug.*(logType, logOptions, context, format, args)]]></description>
+</snippet>

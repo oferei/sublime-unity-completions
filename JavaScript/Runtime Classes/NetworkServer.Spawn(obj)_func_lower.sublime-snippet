@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.Spawn(${1:obj : GameObject})]]></content>
-	<tabTrigger><![CDATA[spawn]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkServer.*(obj)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUpdateSelectedHandler.OnUpdateSelected(${1:EventSystems.BaseEventData eventData})]]></content>
-	<tabTrigger><![CDATA[onUpdateSelected]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IUpdateSelectedHandler.*(eventData)]]></description>
-</snippet>

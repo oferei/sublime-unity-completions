@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.HasVertexAttribute(${1:Sprite sprite}, ${2:Rendering.VertexAttribute channel})]]></content>
+	<tabTrigger><![CDATA[hasVertexAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SpriteDataAccessExtensions.*(sprite, channel)]]></description>
+</snippet>

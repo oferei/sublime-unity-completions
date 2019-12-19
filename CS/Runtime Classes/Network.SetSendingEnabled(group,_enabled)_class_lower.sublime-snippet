@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.SetSendingEnabled(${1:int group}, ${2:bool enabled})]]></content>
-	<tabTrigger><![CDATA[network.SetSendingEnabled]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(group, enabled)]]></description>
-</snippet>

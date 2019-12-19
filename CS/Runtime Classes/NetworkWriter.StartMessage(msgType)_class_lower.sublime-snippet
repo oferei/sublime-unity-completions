@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkWriter.StartMessage(${1:short msgType})]]></content>
-	<tabTrigger><![CDATA[networkWriter.StartMessage]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(msgType)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShortcutBinding.Equals(${1:obj as object})]]></content>
+	<tabTrigger><![CDATA[equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ShortcutBinding.*(obj)]]></description>
+</snippet>

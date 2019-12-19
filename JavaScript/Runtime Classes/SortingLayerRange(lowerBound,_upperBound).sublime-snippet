@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SortingLayerRange(${1:lowerBound : short}, ${2:upperBound : short})]]></content>
+	<tabTrigger><![CDATA[SortingLayerRange]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lowerBound, upperBound)]]></description>
+</snippet>

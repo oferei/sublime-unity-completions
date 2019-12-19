@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaRational.Set(${1:numerator as int}, ${2:denominator as int})]]></content>
+	<tabTrigger><![CDATA[Set]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MediaRational.*(numerator, denominator)]]></description>
+</snippet>

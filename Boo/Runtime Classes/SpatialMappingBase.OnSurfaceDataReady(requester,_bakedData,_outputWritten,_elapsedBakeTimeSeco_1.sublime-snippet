@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SpatialMappingBase.OnSurfaceDataReady(${1:requester as XR.WSA.SpatialMappingBase}, ${2:bakedData as XR.WSA.SurfaceData}, ${3:outputWritten as bool}, ${4:elapsedBakeTimeSeconds as single})]]></content>
-	<tabTrigger><![CDATA[SpatialMappingBase.OnSurfaceDataReady]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(requester, bakedData, outputWritten, elapsedBakeTimeSeconds)]]></description>
-</snippet>

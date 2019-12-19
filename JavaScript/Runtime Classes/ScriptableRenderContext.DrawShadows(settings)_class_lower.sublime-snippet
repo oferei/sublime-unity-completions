@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScriptableRenderContext.DrawShadows(${1:settings : ref Experimental.Rendering.DrawShadowsSettings})]]></content>
+	<content><![CDATA[ScriptableRenderContext.DrawShadows(${1:settings : ref Rendering.ShadowDrawingSettings})]]></content>
 	<tabTrigger><![CDATA[scriptableRenderContext.DrawShadows]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(settings)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.IssuePluginCustomTextureUpdateV2(${1:callback : IntPtr}, ${2:targetTexture : Texture}, ${3:userData : uint})]]></content>
+	<tabTrigger><![CDATA[issuePluginCustomTextureUpdateV2]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(callback, targetTexture, userData)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.ListMatches(${1:startPageNumber : int}, ${2:resultPageSize : int}, ${3:matchNameFilter : string}, ${4:filterOutPrivateMatchesFromResults : bool}, ${5:eloScoreTarget : int}, ${6:requestDomain : int}, ${7:callback : DataResponseDelegate<List<MatchInfoSnapshot>>})]]></content>
-	<tabTrigger><![CDATA[networkMatch.ListMatches]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(startPageNumber, resultPageSize, matchNameFilter, filterOutPrivateMatchesFromResults, eloScoreTarget, requestDomain, callback)]]></description>
-</snippet>

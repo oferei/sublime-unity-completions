@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.CopyActiveRenderTextureToHeightmap(${1:sourceRect as RectInt}, ${2:dest as Vector2Int}, ${3:syncControl as TerrainHeightmapSyncControl})]]></content>
+	<tabTrigger><![CDATA[CopyActiveRenderTextureToHeightmap]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainData.*(sourceRect, dest, syncControl)]]></description>
+</snippet>

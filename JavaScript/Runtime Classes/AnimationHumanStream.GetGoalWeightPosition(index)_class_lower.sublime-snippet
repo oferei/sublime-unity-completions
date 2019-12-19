@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.GetGoalWeightPosition(${1:index : AvatarIKGoal})]]></content>
+	<tabTrigger><![CDATA[animationHumanStream.GetGoalWeightPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

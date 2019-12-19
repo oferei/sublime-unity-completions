@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.GatherAlphamap(${1:inputLayer as TerrainLayer}, ${2:addLayerIfDoesntExist as bool})]]></content>
+	<tabTrigger><![CDATA[gatherAlphamap]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PaintContext.*(inputLayer, addLayerIfDoesntExist)]]></description>
+</snippet>

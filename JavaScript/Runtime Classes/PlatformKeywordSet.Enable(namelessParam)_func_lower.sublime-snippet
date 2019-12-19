@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlatformKeywordSet.Enable(${1:namelessParam : ShaderKeyword})]]></content>
+	<tabTrigger><![CDATA[enable]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlatformKeywordSet.*(namelessParam)]]></description>
+</snippet>

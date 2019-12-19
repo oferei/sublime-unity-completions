@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.IsBlittable(${1:Type type})]]></content>
+	<tabTrigger><![CDATA[isBlittable]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnsafeUtility.*(type)]]></description>
+</snippet>

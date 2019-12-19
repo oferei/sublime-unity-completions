@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EdgeConnector<T0>.OnMouseUp(${1:e : UIElements.MouseUpEvent})]]></content>
+	<tabTrigger><![CDATA[onMouseUp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EdgeConnector<T0>.*(e)]]></description>
+</snippet>

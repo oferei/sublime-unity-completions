@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.IsPassCompiled(${1:Material material}, ${2:int pass})]]></content>
+	<tabTrigger><![CDATA[isPassCompiled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ShaderUtil.*(material, pass)]]></description>
+</snippet>

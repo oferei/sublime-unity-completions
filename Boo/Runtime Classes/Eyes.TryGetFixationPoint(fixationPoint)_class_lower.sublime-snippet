@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Eyes.TryGetFixationPoint(${1:fixationPoint as out Vector3})]]></content>
+	<tabTrigger><![CDATA[eyes.TryGetFixationPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fixationPoint)]]></description>
+</snippet>

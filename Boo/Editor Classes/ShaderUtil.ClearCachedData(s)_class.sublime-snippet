@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.ClearCachedData(${1:s as Shader})]]></content>
+	<tabTrigger><![CDATA[ShaderUtil.ClearCachedData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(s)]]></description>
+</snippet>

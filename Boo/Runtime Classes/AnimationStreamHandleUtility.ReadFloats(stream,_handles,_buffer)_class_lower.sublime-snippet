@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationStreamHandleUtility.ReadFloats(${1:stream as Experimental.Animations.AnimationStream}, ${2:handles as NativeArray<PropertyStreamHandle>}, ${3:buffer as NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[animationStreamHandleUtility.ReadFloats]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream, handles, buffer)]]></description>
+</snippet>

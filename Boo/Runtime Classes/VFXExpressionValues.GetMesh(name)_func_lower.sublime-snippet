@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetMesh(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[getMesh]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VFXExpressionValues.*(name)]]></description>
+</snippet>

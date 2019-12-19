@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ColorUsageAttribute(${1:showAlpha : bool}, ${2:hdr : bool})]]></content>
+	<tabTrigger><![CDATA[ColorUsageAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(showAlpha, hdr)]]></description>
+</snippet>

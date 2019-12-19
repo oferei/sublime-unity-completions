@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CrashReportHandler.SetUserMetadata(${1:key : string}, ${2:value : string})]]></content>
+	<tabTrigger><![CDATA[crashReportHandler.SetUserMetadata]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(key, value)]]></description>
+</snippet>

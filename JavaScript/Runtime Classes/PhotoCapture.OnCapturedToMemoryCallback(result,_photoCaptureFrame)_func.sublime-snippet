@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.OnCapturedToMemoryCallback(${1:result : XR.WSA.WebCam.PhotoCapture.PhotoCaptureResult}, ${2:photoCaptureFrame : XR.WSA.WebCam.PhotoCaptureFrame})]]></content>
+	<content><![CDATA[PhotoCapture.OnCapturedToMemoryCallback(${1:result : Windows.WebCam.PhotoCapture.PhotoCaptureResult}, ${2:photoCaptureFrame : Windows.WebCam.PhotoCaptureFrame})]]></content>
 	<tabTrigger><![CDATA[OnCapturedToMemoryCallback]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PhotoCapture.*(result, photoCaptureFrame)]]></description>

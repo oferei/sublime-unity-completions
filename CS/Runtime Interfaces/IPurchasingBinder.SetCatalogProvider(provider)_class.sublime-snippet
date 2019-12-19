@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPurchasingBinder.SetCatalogProvider(${1:Purchasing.Extension.ICatalogProvider provider})]]></content>
-	<tabTrigger><![CDATA[IPurchasingBinder.SetCatalogProvider]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(provider)]]></description>
-</snippet>

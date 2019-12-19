@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.OnCapturedToDiskCallback(${1:result as XR.WSA.WebCam.PhotoCapture.PhotoCaptureResult})]]></content>
+	<content><![CDATA[PhotoCapture.OnCapturedToDiskCallback(${1:result as Windows.WebCam.PhotoCapture.PhotoCaptureResult})]]></content>
 	<tabTrigger><![CDATA[photoCapture.OnCapturedToDiskCallback]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(result)]]></description>

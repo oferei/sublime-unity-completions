@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.AlignRectToDevice(${1:Rect rect}, ${2:out int widthInPixels}, ${3:out int heightInPixels})]]></content>
+	<tabTrigger><![CDATA[GUIUtility.AlignRectToDevice]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rect, widthInPixels, heightInPixels)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.AddElements(${1:elements as IEnumerable<GraphElement>})]]></content>
+	<tabTrigger><![CDATA[scope.AddElements]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(elements)]]></description>
+</snippet>

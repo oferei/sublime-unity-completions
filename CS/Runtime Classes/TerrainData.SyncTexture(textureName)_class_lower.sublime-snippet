@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SyncTexture(${1:string textureName})]]></content>
+	<tabTrigger><![CDATA[terrainData.SyncTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(textureName)]]></description>
+</snippet>

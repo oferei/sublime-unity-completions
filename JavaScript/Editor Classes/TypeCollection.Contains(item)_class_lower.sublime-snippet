@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCollection.Contains(${1:item : object})]]></content>
+	<tabTrigger><![CDATA[typeCollection.Contains]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(item)]]></description>
+</snippet>

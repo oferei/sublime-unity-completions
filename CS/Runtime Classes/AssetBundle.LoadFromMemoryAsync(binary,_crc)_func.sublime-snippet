@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.LoadFromMemoryAsync(${1:byte[] binary}, ${2:uint crc = 0})]]></content>
+	<content><![CDATA[AssetBundle.LoadFromMemoryAsync(${1:byte[] binary}, ${2:uint crc})]]></content>
 	<tabTrigger><![CDATA[LoadFromMemoryAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetBundle.*(binary, crc)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2DArray.SetPixels(${1:colors : Color[]}, ${2:arrayElement : int}, ${3:miplevel : int = 0})]]></content>
+	<content><![CDATA[Texture2DArray.SetPixels(${1:colors : Color[]}, ${2:arrayElement : int}, ${3:miplevel : int})]]></content>
 	<tabTrigger><![CDATA[Texture2DArray.SetPixels]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(colors, arrayElement, miplevel)]]></description>

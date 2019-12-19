@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.RemoveRPCs(${1:NetworkPlayer playerID}, ${2:int group})]]></content>
-	<tabTrigger><![CDATA[network.RemoveRPCs]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(playerID, group)]]></description>
-</snippet>

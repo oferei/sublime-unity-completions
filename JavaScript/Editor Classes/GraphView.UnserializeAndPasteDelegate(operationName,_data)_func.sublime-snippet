@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.UnserializeAndPasteDelegate(${1:operationName : string}, ${2:data : string})]]></content>
+	<tabTrigger><![CDATA[UnserializeAndPasteDelegate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GraphView.*(operationName, data)]]></description>
+</snippet>

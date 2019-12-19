@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConnectionConfig.GetChannel(${1:byte idx})]]></content>
-	<tabTrigger><![CDATA[getChannel]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ConnectionConfig.*(idx)]]></description>
-</snippet>

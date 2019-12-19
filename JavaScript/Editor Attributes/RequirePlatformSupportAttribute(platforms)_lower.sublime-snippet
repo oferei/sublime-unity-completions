@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequirePlatformSupportAttribute(${1:platforms : params BuildTarget[]})]]></content>
-	<tabTrigger><![CDATA[requirePlatformSupportAttribute]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(platforms)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetIconForGameObject(${1:gameObject : GameObject})]]></content>
+	<tabTrigger><![CDATA[getIconForGameObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PrefabUtility.*(gameObject)]]></description>
+</snippet>

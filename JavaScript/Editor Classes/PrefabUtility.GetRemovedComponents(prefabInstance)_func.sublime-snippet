@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetRemovedComponents(${1:prefabInstance : GameObject})]]></content>
+	<tabTrigger><![CDATA[GetRemovedComponents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PrefabUtility.*(prefabInstance)]]></description>
+</snippet>

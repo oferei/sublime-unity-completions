@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectangleSelector.ComputeAxisAlignedBound(${1:Rect position}, ${2:Matrix4x4 transform})]]></content>
+	<tabTrigger><![CDATA[computeAxisAlignedBound]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RectangleSelector.*(position, transform)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.ReleaseGCObject(${1:ulong gcHandle})]]></content>
+	<tabTrigger><![CDATA[unsafeUtility.ReleaseGCObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(gcHandle)]]></description>
+</snippet>

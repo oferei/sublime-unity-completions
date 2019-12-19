@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.SetAsyncCompilation(${1:Rendering.CommandBuffer cmd}, ${2:bool allow})]]></content>
+	<tabTrigger><![CDATA[ShaderUtil.SetAsyncCompilation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(cmd, allow)]]></description>
+</snippet>

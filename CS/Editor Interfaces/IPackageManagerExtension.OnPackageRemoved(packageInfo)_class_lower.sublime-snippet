@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPackageManagerExtension.OnPackageRemoved(${1:PackageInfo packageInfo})]]></content>
+	<tabTrigger><![CDATA[iPackageManagerExtension.OnPackageRemoved]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(packageInfo)]]></description>
+</snippet>

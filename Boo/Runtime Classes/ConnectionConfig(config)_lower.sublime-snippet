@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ConnectionConfig(${1:config as Networking.ConnectionConfig})]]></content>
-	<tabTrigger><![CDATA[connectionConfig]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(config)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerUtility.ShowTerrainLayersSelectionHelper(${1:terrain as Terrain}, ${2:activeTerrainLayer as int})]]></content>
+	<tabTrigger><![CDATA[terrainLayerUtility.ShowTerrainLayersSelectionHelper]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(terrain, activeTerrainLayer)]]></description>
+</snippet>

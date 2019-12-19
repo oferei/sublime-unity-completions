@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.Rotate(${1:direction : GridBrushBase.RotationDirection}, ${2:layout : GridLayout.CellLayout})]]></content>
-	<tabTrigger><![CDATA[GridBrush.Rotate]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(direction, layout)]]></description>
-</snippet>

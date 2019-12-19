@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.GetParticles(${1:out Particle[] particles}, ${2:int size})]]></content>
+	<tabTrigger><![CDATA[getParticles]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ParticleSystem.*(particles, size)]]></description>
+</snippet>

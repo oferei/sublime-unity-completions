@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Group.OnGroupRenamed(${1:oldName as string}, ${2:newName as string})]]></content>
+	<tabTrigger><![CDATA[onGroupRenamed]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Group.*(oldName, newName)]]></description>
+</snippet>

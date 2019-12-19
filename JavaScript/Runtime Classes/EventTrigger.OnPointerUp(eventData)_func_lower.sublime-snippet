@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnPointerUp(${1:eventData : EventSystems.PointerEventData})]]></content>
-	<tabTrigger><![CDATA[onPointerUp]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EventTrigger.*(eventData)]]></description>
-</snippet>

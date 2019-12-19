@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlEnumAttributeDescription<T0>.GetValueFromBag(${1:bag : UIElements.IUxmlAttributes}, ${2:cc : UIElements.CreationContext})]]></content>
+	<tabTrigger><![CDATA[uxmlEnumAttributeDescription<T0>.GetValueFromBag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(bag, cc)]]></description>
+</snippet>

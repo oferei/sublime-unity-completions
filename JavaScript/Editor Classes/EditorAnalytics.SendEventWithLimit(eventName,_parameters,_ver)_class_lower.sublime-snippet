@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorAnalytics.SendEventWithLimit(${1:eventName : string}, ${2:parameters : object}, ${3:ver : int})]]></content>
+	<tabTrigger><![CDATA[editorAnalytics.SendEventWithLimit]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(eventName, parameters, ver)]]></description>
+</snippet>

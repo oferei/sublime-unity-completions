@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioPlayableBinding.Create(${1:name as string}, ${2:key as Object})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AudioPlayableBinding.*(name, key)]]></description>
+</snippet>

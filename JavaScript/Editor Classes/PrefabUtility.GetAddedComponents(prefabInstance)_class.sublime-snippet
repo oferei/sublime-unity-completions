@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetAddedComponents(${1:prefabInstance : GameObject})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.GetAddedComponents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(prefabInstance)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IExternalCodeEditor.Initialize(${1:editorInstallationPath : string})]]></content>
+	<tabTrigger><![CDATA[iExternalCodeEditor.Initialize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(editorInstallationPath)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.ScheduleParallelForTransform(${1:parameters as ref Unity.Jobs.LowLevel.Unsafe.JobsUtility.JobScheduleParameters}, ${2:transfromAccesssArray as IntPtr})]]></content>
+	<tabTrigger><![CDATA[jobsUtility.ScheduleParallelForTransform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(parameters, transfromAccesssArray)]]></description>
+</snippet>

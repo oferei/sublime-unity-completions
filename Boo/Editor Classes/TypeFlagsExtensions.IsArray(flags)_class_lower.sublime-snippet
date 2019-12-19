@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeFlagsExtensions.IsArray(${1:flags as Profiling.Memory.Experimental.TypeFlags})]]></content>
+	<tabTrigger><![CDATA[typeFlagsExtensions.IsArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(flags)]]></description>
+</snippet>

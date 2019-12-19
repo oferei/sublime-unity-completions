@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawMeshInstanced(${1:mesh as Mesh}, ${2:submeshIndex as int}, ${3:material as Material}, ${4:shaderPass as int}, ${5:matrices as (Matrix4x4)}, ${6:count as int})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.DrawMeshInstanced]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(mesh, submeshIndex, material, shaderPass, matrices, count)]]></description>
+</snippet>

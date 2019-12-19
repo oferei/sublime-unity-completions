@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.GetPixels(${1:miplevel as int = 0})]]></content>
+	<content><![CDATA[Texture2D.GetPixels(${1:miplevel as int})]]></content>
 	<tabTrigger><![CDATA[GetPixels]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Texture2D.*(miplevel)]]></description>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.SetMatchAttributes(${1:networkId : Networking.Types.NetworkID}, ${2:isListed : bool}, ${3:requestDomain : int}, ${4:callback : Networking.Match.NetworkMatch.BasicResponseDelegate})]]></content>
-	<tabTrigger><![CDATA[networkMatch.SetMatchAttributes]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(networkId, isListed, requestDomain, callback)]]></description>
-</snippet>

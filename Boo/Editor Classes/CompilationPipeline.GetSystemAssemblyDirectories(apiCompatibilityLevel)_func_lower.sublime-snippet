@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetSystemAssemblyDirectories(${1:apiCompatibilityLevel as ApiCompatibilityLevel})]]></content>
+	<tabTrigger><![CDATA[getSystemAssemblyDirectories]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CompilationPipeline.*(apiCompatibilityLevel)]]></description>
+</snippet>

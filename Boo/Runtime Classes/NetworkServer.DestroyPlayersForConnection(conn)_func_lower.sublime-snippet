@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.DestroyPlayersForConnection(${1:conn as Networking.NetworkConnection})]]></content>
-	<tabTrigger><![CDATA[destroyPlayersForConnection]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(conn)]]></description>
-</snippet>

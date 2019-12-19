@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.CalculateFrameTransform(${1:rectToFit as Rect}, ${2:clientRect as Rect}, ${3:border as int}, ${4:frameTranslation as out Vector3}, ${5:frameScaling as out Vector3})]]></content>
+	<tabTrigger><![CDATA[graphView.CalculateFrameTransform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(rectToFit, clientRect, border, frameTranslation, frameScaling)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.DataResponseDelegate<T0>(${1:success : bool}, ${2:extendedInfo : string}, ${3:responseData : T})]]></content>
-	<tabTrigger><![CDATA[dataResponseDelegate<T0>]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkMatch.*(success, extendedInfo, responseData)]]></description>
-</snippet>

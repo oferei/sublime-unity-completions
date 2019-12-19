@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobParallelForExtensions.Run(${1:jobData as T}, ${2:arrayLength as int})]]></content>
+	<tabTrigger><![CDATA[IJobParallelForExtensions.Run]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(jobData, arrayLength)]]></description>
+</snippet>

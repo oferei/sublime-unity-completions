@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BindingExtensions.Bind(${1:UIElements.VisualElement element}, ${2:SerializedObject obj})]]></content>
+	<tabTrigger><![CDATA[bindingExtensions.Bind]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(element, obj)]]></description>
+</snippet>

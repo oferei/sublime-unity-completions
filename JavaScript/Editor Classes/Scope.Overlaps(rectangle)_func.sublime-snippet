@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.Overlaps(${1:rectangle : Rect})]]></content>
+	<tabTrigger><![CDATA[Overlaps]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Scope.*(rectangle)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.GetTemporaryRTArray(${1:int nameID}, ${2:int width}, ${3:int height}, ${4:int slices}, ${5:int depthBuffer}, ${6:FilterMode filter}, ${7:RenderTextureFormat format}, ${8:RenderTextureReadWrite readWrite}, ${9:int antiAliasing}, ${10:bool enableRandomWrite})]]></content>
+	<tabTrigger><![CDATA[GetTemporaryRTArray]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(nameID, width, height, slices, depthBuffer, filter, format, readWrite, antiAliasing, enableRandomWrite)]]></description>
+</snippet>

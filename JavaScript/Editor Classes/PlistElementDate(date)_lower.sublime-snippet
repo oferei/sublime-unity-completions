@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementDate(${1:date : DateTime})]]></content>
+	<tabTrigger><![CDATA[plistElementDate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(date)]]></description>
+</snippet>

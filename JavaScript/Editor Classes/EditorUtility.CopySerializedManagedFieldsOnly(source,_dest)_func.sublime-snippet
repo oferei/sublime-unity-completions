@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.CopySerializedManagedFieldsOnly(${1:source : object}, ${2:dest : object})]]></content>
+	<tabTrigger><![CDATA[CopySerializedManagedFieldsOnly]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorUtility.*(source, dest)]]></description>
+</snippet>

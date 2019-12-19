@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.GetGlobalObjectIdSlow(${1:targetObject as Object})]]></content>
+	<tabTrigger><![CDATA[GetGlobalObjectIdSlow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GlobalObjectId.*(targetObject)]]></description>
+</snippet>

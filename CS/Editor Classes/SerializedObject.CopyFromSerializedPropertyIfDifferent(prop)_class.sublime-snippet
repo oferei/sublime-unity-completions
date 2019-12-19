@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedObject.CopyFromSerializedPropertyIfDifferent(${1:SerializedProperty prop})]]></content>
+	<tabTrigger><![CDATA[SerializedObject.CopyFromSerializedPropertyIfDifferent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(prop)]]></description>
+</snippet>

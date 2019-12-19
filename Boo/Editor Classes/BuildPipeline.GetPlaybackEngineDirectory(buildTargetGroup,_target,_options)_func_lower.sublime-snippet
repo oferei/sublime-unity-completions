@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildPipeline.GetPlaybackEngineDirectory(${1:buildTargetGroup as BuildTargetGroup}, ${2:target as BuildTarget}, ${3:options as BuildOptions})]]></content>
+	<tabTrigger><![CDATA[getPlaybackEngineDirectory]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BuildPipeline.*(buildTargetGroup, target, options)]]></description>
+</snippet>

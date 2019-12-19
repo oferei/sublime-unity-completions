@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.SetShowSleepingBodies(${1:filterWorkflow : PhysicsVisualizationSettings.FilterWorkflow}, ${2:show : bool})]]></content>
-	<tabTrigger><![CDATA[PhysicsVisualizationSettings.SetShowSleepingBodies]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(filterWorkflow, show)]]></description>
-</snippet>

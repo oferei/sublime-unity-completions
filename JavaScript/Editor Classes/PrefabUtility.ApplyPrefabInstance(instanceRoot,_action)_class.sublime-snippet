@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.ApplyPrefabInstance(${1:instanceRoot : GameObject}, ${2:action : InteractionMode})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.ApplyPrefabInstance]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(instanceRoot, action)]]></description>
+</snippet>

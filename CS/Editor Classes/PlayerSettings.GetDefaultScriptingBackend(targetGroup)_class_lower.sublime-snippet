@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetDefaultScriptingBackend(${1:BuildTargetGroup targetGroup})]]></content>
+	<tabTrigger><![CDATA[playerSettings.GetDefaultScriptingBackend]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetGroup)]]></description>
+</snippet>

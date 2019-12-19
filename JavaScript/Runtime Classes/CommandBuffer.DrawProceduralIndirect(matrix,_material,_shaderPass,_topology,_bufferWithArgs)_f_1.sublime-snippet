@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawProceduralIndirect(${1:matrix : Matrix4x4}, ${2:material : Material}, ${3:shaderPass : int}, ${4:topology : MeshTopology}, ${5:bufferWithArgs : ComputeBuffer})]]></content>
+	<tabTrigger><![CDATA[DrawProceduralIndirect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(matrix, material, shaderPass, topology, bufferWithArgs)]]></description>
+</snippet>

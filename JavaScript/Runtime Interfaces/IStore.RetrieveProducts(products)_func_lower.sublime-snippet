@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStore.RetrieveProducts(${1:products : ReadOnlyCollection<ProductDefinition>})]]></content>
-	<tabTrigger><![CDATA[retrieveProducts]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IStore.*(products)]]></description>
-</snippet>

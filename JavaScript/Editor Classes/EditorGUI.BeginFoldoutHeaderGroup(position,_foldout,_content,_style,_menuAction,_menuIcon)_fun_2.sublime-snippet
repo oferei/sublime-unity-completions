@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.BeginFoldoutHeaderGroup(${1:position : Rect}, ${2:foldout : bool}, ${3:content : string}, ${4:style : GUIStyle = EditorStyles.foldoutHeader}, ${5:menuAction : Action<Rect>}, ${6:menuIcon : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[beginFoldoutHeaderGroup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUI.*(position, foldout, content, style, menuAction, menuIcon)]]></description>
+</snippet>

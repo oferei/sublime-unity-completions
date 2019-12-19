@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.InvokeRPC(${1:int cmdHash}, ${2:Networking.NetworkReader reader})]]></content>
-	<tabTrigger><![CDATA[InvokeRPC]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkBehaviour.*(cmdHash, reader)]]></description>
-</snippet>

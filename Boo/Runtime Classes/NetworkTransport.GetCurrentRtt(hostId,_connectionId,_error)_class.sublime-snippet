@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetCurrentRTT(${1:hostId as int}, ${2:connectionId as int}, ${3:error as out byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.GetCurrentRTT]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(hostId, connectionId, error)]]></description>
-</snippet>

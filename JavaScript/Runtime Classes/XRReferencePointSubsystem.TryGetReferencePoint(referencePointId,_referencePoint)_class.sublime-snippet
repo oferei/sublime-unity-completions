@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRReferencePointSubsystem.TryGetReferencePoint(${1:referencePointId : Experimental.XR.TrackableId}, ${2:referencePoint : out Experimental.XR.ReferencePoint})]]></content>
+	<tabTrigger><![CDATA[XRReferencePointSubsystem.TryGetReferencePoint]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(referencePointId, referencePoint)]]></description>
+</snippet>

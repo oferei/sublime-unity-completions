@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetAssemblies(${1:assembliesType : Compilation.AssembliesType})]]></content>
+	<tabTrigger><![CDATA[compilationPipeline.GetAssemblies]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assembliesType)]]></description>
+</snippet>

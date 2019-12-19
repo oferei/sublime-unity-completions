@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkLobbyManager.OnLobbyServerSceneChanged(${1:sceneName as string})]]></content>
-	<tabTrigger><![CDATA[networkLobbyManager.OnLobbyServerSceneChanged]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(sceneName)]]></description>
-</snippet>

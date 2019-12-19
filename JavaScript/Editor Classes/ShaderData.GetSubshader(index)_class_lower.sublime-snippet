@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderData.GetSubshader(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[shaderData.GetSubshader]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

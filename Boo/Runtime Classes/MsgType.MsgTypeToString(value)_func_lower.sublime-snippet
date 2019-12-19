@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MsgType.MsgTypeToString(${1:value as short})]]></content>
-	<tabTrigger><![CDATA[msgTypeToString]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MsgType.*(value)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CertificateHandler.ValidateCertificate(${1:certificateData : byte[]})]]></content>
+	<tabTrigger><![CDATA[CertificateHandler.ValidateCertificate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(certificateData)]]></description>
+</snippet>

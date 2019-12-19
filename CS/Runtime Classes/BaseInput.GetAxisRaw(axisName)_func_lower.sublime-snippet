@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BaseInput.GetAxisRaw(${1:string axisName})]]></content>
-	<tabTrigger><![CDATA[getAxisRaw]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[BaseInput.*(axisName)]]></description>
-</snippet>

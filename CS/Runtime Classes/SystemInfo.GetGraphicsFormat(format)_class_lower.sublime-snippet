@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemInfo.GetGraphicsFormat(${1:Experimental.Rendering.DefaultFormat format})]]></content>
+	<tabTrigger><![CDATA[systemInfo.GetGraphicsFormat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(format)]]></description>
+</snippet>

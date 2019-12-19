@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubsystemManager.GetInstances(${1:instances : List<T>})]]></content>
+	<tabTrigger><![CDATA[getInstances]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SubsystemManager.*(instances)]]></description>
+</snippet>

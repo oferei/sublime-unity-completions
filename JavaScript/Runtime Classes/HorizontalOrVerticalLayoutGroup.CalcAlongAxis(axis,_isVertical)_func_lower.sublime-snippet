@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HorizontalOrVerticalLayoutGroup.CalcAlongAxis(${1:axis : int}, ${2:isVertical : bool})]]></content>
-	<tabTrigger><![CDATA[calcAlongAxis]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[HorizontalOrVerticalLayoutGroup.*(axis, isVertical)]]></description>
-</snippet>

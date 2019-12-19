@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphic.RegisterDirtyMaterialCallback(${1:action : Events.UnityAction})]]></content>
-	<tabTrigger><![CDATA[graphic.RegisterDirtyMaterialCallback]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(action)]]></description>
-</snippet>

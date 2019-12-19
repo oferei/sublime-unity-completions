@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.WriteSerializedFile(${1:outputFolder as string}, ${2:writeCommand as Build.Content.WriteCommand}, ${3:settings as Build.Content.BuildSettings}, ${4:globalUsage as Build.Content.BuildUsageTagGlobal}, ${5:usageSet as Build.Content.BuildUsageTagSet}, ${6:referenceMap as Build.Content.BuildReferenceMap})]]></content>
+	<tabTrigger><![CDATA[ContentBuildInterface.WriteSerializedFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(outputFolder, writeCommand, settings, globalUsage, usageSet, referenceMap)]]></description>
+</snippet>

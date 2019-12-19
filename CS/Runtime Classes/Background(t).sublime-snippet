@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Background(${1:Texture2D t})]]></content>
+	<tabTrigger><![CDATA[Background]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(t)]]></description>
+</snippet>

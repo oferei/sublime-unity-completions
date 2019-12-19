@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SerializedProperty.DataEquals(${1:x as SerializedProperty}, ${2:y as SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[DataEquals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SerializedProperty.*(x, y)]]></description>
+</snippet>

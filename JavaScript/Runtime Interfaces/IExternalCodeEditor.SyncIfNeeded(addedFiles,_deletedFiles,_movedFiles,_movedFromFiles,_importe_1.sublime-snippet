@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IExternalCodeEditor.SyncIfNeeded(${1:addedFiles : string[]}, ${2:deletedFiles : string[]}, ${3:movedFiles : string[]}, ${4:movedFromFiles : string[]}, ${5:importedFiles : string[]})]]></content>
+	<tabTrigger><![CDATA[IExternalCodeEditor.SyncIfNeeded]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(addedFiles, deletedFiles, movedFiles, movedFromFiles, importedFiles)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImporterEditor.InitializeExtraDataInstance(${1:extraData : Object}, ${2:targetIndex : int})]]></content>
+	<tabTrigger><![CDATA[AssetImporterEditor.InitializeExtraDataInstance]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(extraData, targetIndex)]]></description>
+</snippet>

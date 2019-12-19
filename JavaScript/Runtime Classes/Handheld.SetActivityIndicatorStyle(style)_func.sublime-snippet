@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handheld.SetActivityIndicatorStyle(${1:style : TizenActivityIndicatorStyle})]]></content>
+	<content><![CDATA[Handheld.SetActivityIndicatorStyle(${1:style : AndroidActivityIndicatorStyle})]]></content>
 	<tabTrigger><![CDATA[SetActivityIndicatorStyle]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Handheld.*(style)]]></description>

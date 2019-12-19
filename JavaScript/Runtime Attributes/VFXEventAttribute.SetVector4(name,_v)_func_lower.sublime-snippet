@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.SetVector4(${1:name : string}, ${2:v : Vector4})]]></content>
+	<tabTrigger><![CDATA[setVector4]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VFXEventAttribute.*(name, v)]]></description>
+</snippet>

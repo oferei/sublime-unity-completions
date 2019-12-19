@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.CopyActiveRenderTextureToHeightmap(${1:sourceRect : RectInt}, ${2:dest : Vector2Int}, ${3:syncControl : TerrainHeightmapSyncControl})]]></content>
+	<tabTrigger><![CDATA[TerrainData.CopyActiveRenderTextureToHeightmap]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sourceRect, dest, syncControl)]]></description>
+</snippet>

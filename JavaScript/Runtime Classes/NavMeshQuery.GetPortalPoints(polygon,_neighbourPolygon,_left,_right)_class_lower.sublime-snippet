@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.GetPortalPoints(${1:polygon : Experimental.AI.PolygonId}, ${2:neighbourPolygon : Experimental.AI.PolygonId}, ${3:left : out Vector3}, ${4:right : out Vector3})]]></content>
+	<tabTrigger><![CDATA[navMeshQuery.GetPortalPoints]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(polygon, neighbourPolygon, left, right)]]></description>
+</snippet>

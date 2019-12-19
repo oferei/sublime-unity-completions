@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyStreamHandle.GetFloat(${1:Experimental.Animations.AnimationStream stream})]]></content>
+	<tabTrigger><![CDATA[getFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PropertyStreamHandle.*(stream)]]></description>
+</snippet>

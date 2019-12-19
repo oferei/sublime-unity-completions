@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.GetBuiltinCameraMode(${1:mode : DrawCameraMode})]]></content>
+	<tabTrigger><![CDATA[GetBuiltinCameraMode]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneView.*(mode)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.UnloadSceneAsync(${1:int sceneBuildIndex}, ${2:SceneManagement.UnloadSceneOptions options})]]></content>
+	<tabTrigger><![CDATA[sceneManager.UnloadSceneAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(sceneBuildIndex, options)]]></description>
+</snippet>

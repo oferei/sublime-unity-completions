@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Particle.SetMeshIndex(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[SetMeshIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Particle.*(index)]]></description>
+</snippet>

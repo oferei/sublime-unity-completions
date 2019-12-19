@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.GetClippedPixelRectInRenderTexturePixels(${1:terrainIndex : int})]]></content>
+	<tabTrigger><![CDATA[GetClippedPixelRectInRenderTexturePixels]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PaintContext.*(terrainIndex)]]></description>
+</snippet>

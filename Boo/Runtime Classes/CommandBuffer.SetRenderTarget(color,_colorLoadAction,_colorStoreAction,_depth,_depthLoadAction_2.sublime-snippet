@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRenderTarget(${1:color as Rendering.RenderTargetIdentifier}, ${2:colorLoadAction as Rendering.RenderBufferLoadAction}, ${3:colorStoreAction as Rendering.RenderBufferStoreAction}, ${4:depth as Rendering.RenderTargetIdentifier}, ${5:depthLoadAction as Rendering.RenderBufferLoadAction}, ${6:depthStoreAction as Rendering.RenderBufferStoreAction})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetRenderTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(color, colorLoadAction, colorStoreAction, depth, depthLoadAction, depthStoreAction)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder.AddFrame(${1:Texture2D texture}, ${2:Media.MediaTime time})]]></content>
+	<tabTrigger><![CDATA[MediaEncoder.AddFrame]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(texture, time)]]></description>
+</snippet>

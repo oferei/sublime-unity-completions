@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.ServerChangeScene(${1:newSceneName : string})]]></content>
-	<tabTrigger><![CDATA[serverChangeScene]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkManager.*(newSceneName)]]></description>
-</snippet>

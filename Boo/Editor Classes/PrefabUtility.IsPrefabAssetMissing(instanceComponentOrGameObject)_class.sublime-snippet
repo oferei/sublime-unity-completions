@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsPrefabAssetMissing(${1:instanceComponentOrGameObject as Object})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.IsPrefabAssetMissing]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(instanceComponentOrGameObject)]]></description>
+</snippet>

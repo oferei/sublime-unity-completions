@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeSlice<T0>.CopyFrom(${1:array as (T)})]]></content>
+	<tabTrigger><![CDATA[CopyFrom]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NativeSlice<T0>.*(array)]]></description>
+</snippet>

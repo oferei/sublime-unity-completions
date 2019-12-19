@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Notification(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[notification]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

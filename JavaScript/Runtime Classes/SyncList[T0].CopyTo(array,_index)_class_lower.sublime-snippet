@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SyncList<T0>.CopyTo(${1:array : T[]}, ${2:index : int})]]></content>
-	<tabTrigger><![CDATA[syncList<T0>.CopyTo]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(array, index)]]></description>
-</snippet>

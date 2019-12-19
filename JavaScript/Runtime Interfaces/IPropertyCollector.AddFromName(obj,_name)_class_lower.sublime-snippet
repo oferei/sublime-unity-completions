@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPropertyCollector.AddFromName(${1:obj : GameObject}, ${2:name : string})]]></content>
-	<tabTrigger><![CDATA[iPropertyCollector.AddFromName]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(obj, name)]]></description>
-</snippet>

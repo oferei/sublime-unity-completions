@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlFloatAttributeDescription.TryGetValueFromBag(${1:UIElements.IUxmlAttributes bag}, ${2:UIElements.CreationContext cc}, ${3:ref float value})]]></content>
+	<tabTrigger><![CDATA[TryGetValueFromBag]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UxmlFloatAttributeDescription.*(bag, cc, value)]]></description>
+</snippet>

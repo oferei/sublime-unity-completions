@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.OnServerError(${1:conn as Networking.NetworkConnection}, ${2:errorCode as int})]]></content>
-	<tabTrigger><![CDATA[OnServerError]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkManager.*(conn, errorCode)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HostTopology(${1:defaultConfig : Networking.ConnectionConfig}, ${2:maxDefaultConnections : int})]]></content>
-	<tabTrigger><![CDATA[hostTopology]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(defaultConfig, maxDefaultConnections)]]></description>
-</snippet>

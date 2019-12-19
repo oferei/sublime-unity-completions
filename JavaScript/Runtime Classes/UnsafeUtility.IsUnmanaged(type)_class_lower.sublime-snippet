@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.IsUnmanaged(${1:type : Type})]]></content>
+	<tabTrigger><![CDATA[unsafeUtility.IsUnmanaged]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

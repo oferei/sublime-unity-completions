@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.FieldOfViewToFocalLength(${1:float fieldOfView}, ${2:float sensorSize})]]></content>
+	<tabTrigger><![CDATA[Camera.FieldOfViewToFocalLength]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(fieldOfView, sensorSize)]]></description>
+</snippet>

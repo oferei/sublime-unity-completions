@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.DrawProceduralIndirect(${1:topology as MeshTopology}, ${2:bufferWithArgs as ComputeBuffer}, ${3:argsOffset as int = 0})]]></content>
-	<tabTrigger><![CDATA[DrawProceduralIndirect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Graphics.*(topology, bufferWithArgs, argsOffset)]]></description>
-</snippet>

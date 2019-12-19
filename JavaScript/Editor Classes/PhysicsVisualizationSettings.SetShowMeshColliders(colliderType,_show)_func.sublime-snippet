@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowMeshColliders(${1:colliderType : PhysicsVisualizationSettings.MeshColliderType}, ${2:show : bool})]]></content>
+	<tabTrigger><![CDATA[SetShowMeshColliders]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(colliderType, show)]]></description>
+</snippet>

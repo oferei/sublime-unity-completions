@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphElement.SetPosition(${1:newPos as Rect})]]></content>
+	<tabTrigger><![CDATA[graphElement.SetPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(newPos)]]></description>
+</snippet>

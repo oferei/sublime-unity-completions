@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerPrefs.GetString(${1:key : string})]]></content>
+	<tabTrigger><![CDATA[GetString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerPrefs.*(key)]]></description>
+</snippet>

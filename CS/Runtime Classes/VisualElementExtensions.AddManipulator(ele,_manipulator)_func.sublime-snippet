@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VisualElementExtensions.AddManipulator(${1:Experimental.UIElements.VisualElement ele}, ${2:Experimental.UIElements.IManipulator manipulator})]]></content>
+	<content><![CDATA[VisualElementExtensions.AddManipulator(${1:UIElements.VisualElement ele}, ${2:UIElements.IManipulator manipulator})]]></content>
 	<tabTrigger><![CDATA[AddManipulator]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[VisualElementExtensions.*(ele, manipulator)]]></description>

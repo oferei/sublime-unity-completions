@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.UnloadSceneAsync(${1:sceneName : string}, ${2:options : SceneManagement.UnloadSceneOptions})]]></content>
+	<tabTrigger><![CDATA[sceneManager.UnloadSceneAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sceneName, options)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.SetConstantBuffer(${1:string name}, ${2:ComputeBuffer value}, ${3:int offset}, ${4:int size})]]></content>
+	<tabTrigger><![CDATA[SetConstantBuffer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(name, value, offset, size)]]></description>
+</snippet>

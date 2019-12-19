@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.RemoveHost(${1:hostId as int})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.RemoveHost]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(hostId)]]></description>
-</snippet>

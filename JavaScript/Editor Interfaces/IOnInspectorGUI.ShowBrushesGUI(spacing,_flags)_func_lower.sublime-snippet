@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IOnInspectorGUI.ShowBrushesGUI(${1:spacing : int}, ${2:flags : Experimental.TerrainAPI.BrushGUIEditFlags})]]></content>
+	<tabTrigger><![CDATA[showBrushesGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IOnInspectorGUI.*(spacing, flags)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.AddHostWithSimulator(${1:Networking.HostTopology topology}, ${2:int minTimeout}, ${3:int maxTimeout}, ${4:int port = 0}, ${5:string ip = null})]]></content>
-	<tabTrigger><![CDATA[AddHostWithSimulator]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkTransport.*(topology, minTimeout, maxTimeout, port, ip)]]></description>
-</snippet>

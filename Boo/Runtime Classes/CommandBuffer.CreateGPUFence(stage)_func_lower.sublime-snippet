@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CommandBuffer.CreateGPUFence(${1:stage as Rendering.SynchronisationStage = SynchronisationStage.PixelProcessing})]]></content>
-	<tabTrigger><![CDATA[createGPUFence]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[CommandBuffer.*(stage)]]></description>
-</snippet>

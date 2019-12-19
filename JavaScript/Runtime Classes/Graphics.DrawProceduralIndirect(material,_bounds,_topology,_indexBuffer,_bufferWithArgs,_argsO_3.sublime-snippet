@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProceduralIndirect(${1:material : Material}, ${2:bounds : Bounds}, ${3:topology : MeshTopology}, ${4:indexBuffer : GraphicsBuffer}, ${5:bufferWithArgs : ComputeBuffer}, ${6:argsOffset : int}, ${7:camera : Camera}, ${8:properties : MaterialPropertyBlock}, ${9:castShadows : Rendering.ShadowCastingMode}, ${10:receiveShadows : bool}, ${11:layer : int})]]></content>
+	<tabTrigger><![CDATA[DrawProceduralIndirect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(material, bounds, topology, indexBuffer, bufferWithArgs, argsOffset, camera, properties, castShadows, receiveShadows, layer)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IconBadge.AttachTo(${1:target as UIElements.VisualElement}, ${2:align as SpriteAlignment})]]></content>
+	<tabTrigger><![CDATA[iconBadge.AttachTo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target, align)]]></description>
+</snippet>

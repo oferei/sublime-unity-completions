@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collider2D.Cast(${1:Vector2 direction}, ${2:ContactFilter2D contactFilter}, ${3:List<RaycastHit2D> results}, ${4:float distance = Mathf.Infinity}, ${5:bool ignoreSiblingColliders = true})]]></content>
+	<tabTrigger><![CDATA[collider2D.Cast]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(direction, contactFilter, results, distance, ignoreSiblingColliders)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState.SetCompareFunction(${1:value : Rendering.CompareFunction})]]></content>
+	<tabTrigger><![CDATA[SetCompareFunction]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[StencilState.*(value)]]></description>
+</snippet>

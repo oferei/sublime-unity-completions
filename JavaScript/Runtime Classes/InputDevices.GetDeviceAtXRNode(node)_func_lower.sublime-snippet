@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputDevices.GetDeviceAtXRNode(${1:node : XR.XRNode})]]></content>
+	<tabTrigger><![CDATA[getDeviceAtXRNode]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputDevices.*(node)]]></description>
+</snippet>

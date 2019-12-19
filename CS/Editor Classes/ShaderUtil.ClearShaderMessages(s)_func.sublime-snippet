@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.ClearShaderMessages(${1:Shader s})]]></content>
+	<tabTrigger><![CDATA[ClearShaderMessages]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ShaderUtil.*(s)]]></description>
+</snippet>

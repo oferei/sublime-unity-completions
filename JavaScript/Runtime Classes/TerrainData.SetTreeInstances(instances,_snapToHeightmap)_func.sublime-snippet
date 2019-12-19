@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SetTreeInstances(${1:instances : TreeInstance[]}, ${2:snapToHeightmap : bool})]]></content>
+	<tabTrigger><![CDATA[SetTreeInstances]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainData.*(instances, snapToHeightmap)]]></description>
+</snippet>

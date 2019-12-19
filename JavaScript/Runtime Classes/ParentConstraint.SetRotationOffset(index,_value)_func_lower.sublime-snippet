@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParentConstraint.SetRotationOffset(${1:index : int}, ${2:value : Vector3})]]></content>
+	<tabTrigger><![CDATA[setRotationOffset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ParentConstraint.*(index, value)]]></description>
+</snippet>

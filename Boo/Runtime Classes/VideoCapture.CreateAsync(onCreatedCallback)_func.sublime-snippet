@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoCapture.CreateAsync(${1:onCreatedCallback as Windows.WebCam.VideoCapture.OnVideoCaptureResourceCreatedCallback})]]></content>
+	<tabTrigger><![CDATA[CreateAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VideoCapture.*(onCreatedCallback)]]></description>
+</snippet>

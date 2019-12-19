@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.RemoveElementsWithoutNotification(${1:elements : IEnumerable<GraphElement>})]]></content>
+	<tabTrigger><![CDATA[Scope.RemoveElementsWithoutNotification]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(elements)]]></description>
+</snippet>

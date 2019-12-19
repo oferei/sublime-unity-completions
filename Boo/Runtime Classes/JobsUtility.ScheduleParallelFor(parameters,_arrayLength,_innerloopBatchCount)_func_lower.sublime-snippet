@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.ScheduleParallelFor(${1:parameters as ref Unity.Jobs.LowLevel.Unsafe.JobsUtility.JobScheduleParameters}, ${2:arrayLength as int}, ${3:innerloopBatchCount as int})]]></content>
+	<tabTrigger><![CDATA[scheduleParallelFor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[JobsUtility.*(parameters, arrayLength, innerloopBatchCount)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.Stop(${1:Experimental.VFX.VFXEventAttribute eventAttribute})]]></content>
+	<tabTrigger><![CDATA[stop]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualEffect.*(eventAttribute)]]></description>
+</snippet>

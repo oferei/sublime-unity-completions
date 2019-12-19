@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IHasCustomMenu.AddItemsToMenu(${1:GenericMenu menu})]]></content>
+	<tabTrigger><![CDATA[AddItemsToMenu]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IHasCustomMenu.*(menu)]]></description>
+</snippet>

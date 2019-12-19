@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.SetPackingSettings(${1:spriteAtlas as U2D.SpriteAtlas}, ${2:src as U2D.SpriteAtlasPackingSettings})]]></content>
+	<tabTrigger><![CDATA[SetPackingSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SpriteAtlasExtensions.*(spriteAtlas, src)]]></description>
+</snippet>

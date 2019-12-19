@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IConstraint.RemoveSource(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[RemoveSource]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IConstraint.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.NewString(${1:chars as (char)})]]></content>
+	<tabTrigger><![CDATA[androidJNI.NewString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(chars)]]></description>
+</snippet>

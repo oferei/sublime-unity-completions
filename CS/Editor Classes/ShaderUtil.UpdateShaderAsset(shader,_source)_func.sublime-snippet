@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.UpdateShaderAsset(${1:Shader shader}, ${2:string source})]]></content>
+	<tabTrigger><![CDATA[UpdateShaderAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ShaderUtil.*(shader, source)]]></description>
+</snippet>

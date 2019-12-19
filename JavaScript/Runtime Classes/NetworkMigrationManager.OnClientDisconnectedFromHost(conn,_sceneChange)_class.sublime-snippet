@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.OnClientDisconnectedFromHost(${1:conn : Networking.NetworkConnection}, ${2:sceneChange : out Networking.NetworkMigrationManager.SceneChangeOption})]]></content>
-	<tabTrigger><![CDATA[NetworkMigrationManager.OnClientDisconnectedFromHost]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(conn, sceneChange)]]></description>
-</snippet>

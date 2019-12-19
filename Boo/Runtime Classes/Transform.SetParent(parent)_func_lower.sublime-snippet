@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Transform.SetParent(${1:parent as Transform})]]></content>
-	<tabTrigger><![CDATA[setParent]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Transform.*(parent)]]></description>
-</snippet>

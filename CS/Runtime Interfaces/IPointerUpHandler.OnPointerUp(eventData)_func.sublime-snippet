@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPointerUpHandler.OnPointerUp(${1:EventSystems.PointerEventData eventData})]]></content>
-	<tabTrigger><![CDATA[OnPointerUp]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IPointerUpHandler.*(eventData)]]></description>
-</snippet>

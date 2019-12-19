@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.WaitOnAsyncGraphicsFence(${1:fence as Rendering.GraphicsFence})]]></content>
+	<tabTrigger><![CDATA[Graphics.WaitOnAsyncGraphicsFence]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fence)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene.OverlapBox(${1:center as Vector3}, ${2:halfExtents as Vector3}, ${3:results as (Collider)}, ${4:orientation as Quaternion = Quaternion.identity}, ${5:layerMask as int = DefaultRaycastLayers}, ${6:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[PhysicsScene.OverlapBox]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(center, halfExtents, results, orientation, layerMask, queryTriggerInteraction)]]></description>
+</snippet>

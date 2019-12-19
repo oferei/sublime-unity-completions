@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.MoveToView(${1:Transform target})]]></content>
+	<tabTrigger><![CDATA[SceneView.MoveToView]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(target)]]></description>
+</snippet>

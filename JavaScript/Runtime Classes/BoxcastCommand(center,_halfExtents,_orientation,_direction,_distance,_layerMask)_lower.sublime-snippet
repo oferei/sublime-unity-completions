@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoxcastCommand(${1:center : Vector3}, ${2:halfExtents : Vector3}, ${3:orientation : Quaternion}, ${4:direction : Vector3}, ${5:distance : float}, ${6:layerMask : int})]]></content>
+	<tabTrigger><![CDATA[boxcastCommand]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(center, halfExtents, orientation, direction, distance, layerMask)]]></description>
+</snippet>

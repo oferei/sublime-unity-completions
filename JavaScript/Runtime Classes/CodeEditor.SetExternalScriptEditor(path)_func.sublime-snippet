@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CodeEditor.SetExternalScriptEditor(${1:path : string})]]></content>
+	<tabTrigger><![CDATA[SetExternalScriptEditor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CodeEditor.*(path)]]></description>
+</snippet>

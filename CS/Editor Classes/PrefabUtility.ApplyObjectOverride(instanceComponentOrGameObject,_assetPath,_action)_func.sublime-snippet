@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.ApplyObjectOverride(${1:Object instanceComponentOrGameObject}, ${2:string assetPath}, ${3:InteractionMode action})]]></content>
+	<tabTrigger><![CDATA[ApplyObjectOverride]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(instanceComponentOrGameObject, assetPath, action)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.GetUint(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[VFXEventAttribute.GetUint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

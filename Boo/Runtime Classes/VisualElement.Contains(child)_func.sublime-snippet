@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VisualElement.Contains(${1:child as Experimental.UIElements.VisualElement})]]></content>
+	<content><![CDATA[VisualElement.Contains(${1:child as UIElements.VisualElement})]]></content>
 	<tabTrigger><![CDATA[Contains]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[VisualElement.*(child)]]></description>

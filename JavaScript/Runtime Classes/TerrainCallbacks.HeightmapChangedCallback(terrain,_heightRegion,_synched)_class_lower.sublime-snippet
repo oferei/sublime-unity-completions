@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainCallbacks.HeightmapChangedCallback(${1:terrain : Terrain}, ${2:heightRegion : RectInt}, ${3:synched : bool})]]></content>
+	<tabTrigger><![CDATA[terrainCallbacks.HeightmapChangedCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(terrain, heightRegion, synched)]]></description>
+</snippet>

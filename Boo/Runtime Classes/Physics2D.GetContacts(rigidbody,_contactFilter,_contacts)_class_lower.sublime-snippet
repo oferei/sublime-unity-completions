@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.GetContacts(${1:rigidbody as Rigidbody2D}, ${2:contactFilter as ContactFilter2D}, ${3:contacts as (ContactPoint2D)})]]></content>
+	<content><![CDATA[Physics2D.GetContacts(${1:rigidbody as Rigidbody2D}, ${2:contactFilter as ContactFilter2D}, ${3:contacts as List<ContactPoint2D>})]]></content>
 	<tabTrigger><![CDATA[physics2D.GetContacts]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(rigidbody, contactFilter, contacts)]]></description>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture3D.SetPixels(${1:colors as (Color)}, ${2:miplevel as int = 0})]]></content>
+	<content><![CDATA[Texture3D.SetPixels(${1:colors as (Color)}, ${2:miplevel as int})]]></content>
 	<tabTrigger><![CDATA[setPixels]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Texture3D.*(colors, miplevel)]]></description>

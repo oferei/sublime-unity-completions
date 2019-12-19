@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DefaultPresetSelectorReceiver.OnSelectionClosed(${1:selection : Presets.Preset})]]></content>
+	<tabTrigger><![CDATA[onSelectionClosed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DefaultPresetSelectorReceiver.*(selection)]]></description>
+</snippet>

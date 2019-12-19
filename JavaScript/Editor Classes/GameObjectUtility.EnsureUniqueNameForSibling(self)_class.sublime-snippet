@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.EnsureUniqueNameForSibling(${1:self : GameObject})]]></content>
+	<tabTrigger><![CDATA[GameObjectUtility.EnsureUniqueNameForSibling]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(self)]]></description>
+</snippet>

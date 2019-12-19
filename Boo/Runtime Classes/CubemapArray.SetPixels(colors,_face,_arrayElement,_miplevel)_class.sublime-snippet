@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CubemapArray.SetPixels(${1:colors as (Color)}, ${2:face as CubemapFace}, ${3:arrayElement as int}, ${4:miplevel as int = 0})]]></content>
+	<content><![CDATA[CubemapArray.SetPixels(${1:colors as (Color)}, ${2:face as CubemapFace}, ${3:arrayElement as int}, ${4:miplevel as int})]]></content>
 	<tabTrigger><![CDATA[CubemapArray.SetPixels]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(colors, face, arrayElement, miplevel)]]></description>

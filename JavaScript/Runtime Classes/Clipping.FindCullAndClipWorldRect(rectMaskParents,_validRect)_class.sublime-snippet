@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Clipping.FindCullAndClipWorldRect(${1:rectMaskParents : List<RectMask2D>}, ${2:validRect : out bool})]]></content>
-	<tabTrigger><![CDATA[Clipping.FindCullAndClipWorldRect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(rectMaskParents, validRect)]]></description>
-</snippet>

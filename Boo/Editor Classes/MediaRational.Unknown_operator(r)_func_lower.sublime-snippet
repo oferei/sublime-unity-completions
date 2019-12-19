@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaRational.Unknown operator(${1:r as Media.MediaRational})]]></content>
+	<tabTrigger><![CDATA[unknown operator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MediaRational.*(r)]]></description>
+</snippet>

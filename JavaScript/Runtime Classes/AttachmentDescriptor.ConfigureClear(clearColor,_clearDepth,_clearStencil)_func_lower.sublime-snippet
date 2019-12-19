@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AttachmentDescriptor.ConfigureClear(${1:clearColor : Color}, ${2:clearDepth : float}, ${3:clearStencil : uint})]]></content>
+	<tabTrigger><![CDATA[configureClear]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AttachmentDescriptor.*(clearColor, clearDepth, clearStencil)]]></description>
+</snippet>

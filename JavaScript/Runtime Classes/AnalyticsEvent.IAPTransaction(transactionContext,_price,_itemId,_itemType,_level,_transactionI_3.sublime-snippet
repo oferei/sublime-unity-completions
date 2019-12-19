@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.IAPTransaction(${1:transactionContext : string}, ${2:price : float}, ${3:itemId : string}, ${4:itemType : string}, ${5:level : string}, ${6:transactionId : string}, ${7:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[IAPTransaction]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnalyticsEvent.*(transactionContext, price, itemId, itemType, level, transactionId, eventData)]]></description>
-</snippet>

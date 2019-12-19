@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetGradient(${1:int nameID}, ${2:Gradient g})]]></content>
+	<tabTrigger><![CDATA[setGradient]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualEffect.*(nameID, g)]]></description>
+</snippet>

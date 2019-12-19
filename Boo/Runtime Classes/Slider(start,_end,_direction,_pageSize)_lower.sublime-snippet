@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Slider(${1:start as single}, ${2:end as single}, ${3:direction as UIElements.SliderDirection}, ${4:pageSize as single})]]></content>
+	<tabTrigger><![CDATA[slider]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(start, end, direction, pageSize)]]></description>
+</snippet>

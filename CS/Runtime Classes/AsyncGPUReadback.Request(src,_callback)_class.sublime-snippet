@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AsyncGPUReadback.Request(${1:ComputeBuffer src}, ${2:Action<AsyncGPUReadbackRequest> callback})]]></content>
+	<tabTrigger><![CDATA[AsyncGPUReadback.Request]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(src, callback)]]></description>
+</snippet>

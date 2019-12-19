@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationStream.GetInputStream(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[AnimationStream.GetInputStream]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

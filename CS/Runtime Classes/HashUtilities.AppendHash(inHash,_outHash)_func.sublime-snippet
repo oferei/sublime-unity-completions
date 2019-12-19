@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HashUtilities.AppendHash(${1:ref Hash128 inHash}, ${2:ref Hash128 outHash})]]></content>
+	<tabTrigger><![CDATA[AppendHash]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HashUtilities.*(inHash, outHash)]]></description>
+</snippet>

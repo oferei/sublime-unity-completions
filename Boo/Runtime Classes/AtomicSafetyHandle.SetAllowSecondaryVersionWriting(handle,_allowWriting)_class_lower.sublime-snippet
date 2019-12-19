@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.SetAllowSecondaryVersionWriting(${1:handle as Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle}, ${2:allowWriting as bool})]]></content>
+	<tabTrigger><![CDATA[atomicSafetyHandle.SetAllowSecondaryVersionWriting]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handle, allowWriting)]]></description>
+</snippet>

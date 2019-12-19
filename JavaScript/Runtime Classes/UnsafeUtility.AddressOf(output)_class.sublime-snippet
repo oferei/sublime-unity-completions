@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.AddressOf(${1:output : ref T})]]></content>
+	<tabTrigger><![CDATA[UnsafeUtility.AddressOf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(output)]]></description>
+</snippet>

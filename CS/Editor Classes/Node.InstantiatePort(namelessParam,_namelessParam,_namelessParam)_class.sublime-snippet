@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Node.InstantiatePort(${1:Orientation namelessParam}, ${2:Direction namelessParam}, ${3:Type namelessParam})]]></content>
+	<tabTrigger><![CDATA[Node.InstantiatePort]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

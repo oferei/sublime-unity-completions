@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementDict.SetDate(${1:key : string}, ${2:val : DateTime})]]></content>
+	<tabTrigger><![CDATA[SetDate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlistElementDict.*(key, val)]]></description>
+</snippet>

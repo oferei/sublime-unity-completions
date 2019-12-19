@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.Connect(${1:serverIp as string}, ${2:serverPort as int})]]></content>
-	<tabTrigger><![CDATA[connect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkClient.*(serverIp, serverPort)]]></description>
-</snippet>

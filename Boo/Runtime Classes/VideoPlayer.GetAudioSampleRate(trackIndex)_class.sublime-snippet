@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayer.GetAudioSampleRate(${1:trackIndex as ushort})]]></content>
+	<tabTrigger><![CDATA[VideoPlayer.GetAudioSampleRate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(trackIndex)]]></description>
+</snippet>

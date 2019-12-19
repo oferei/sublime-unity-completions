@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowSphereColliders(${1:show : bool})]]></content>
+	<tabTrigger><![CDATA[setShowSphereColliders]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(show)]]></description>
+</snippet>

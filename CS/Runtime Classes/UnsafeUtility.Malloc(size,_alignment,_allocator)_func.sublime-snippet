@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.Malloc(${1:ulong size}, ${2:int alignment}, ${3:Allocator allocator})]]></content>
+	<tabTrigger><![CDATA[Malloc]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnsafeUtility.*(size, alignment, allocator)]]></description>
+</snippet>

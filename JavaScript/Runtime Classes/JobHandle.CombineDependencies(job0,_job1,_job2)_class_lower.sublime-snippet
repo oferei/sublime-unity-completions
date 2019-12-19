@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobHandle.CombineDependencies(${1:job0 : Unity.Jobs.JobHandle}, ${2:job1 : Unity.Jobs.JobHandle}, ${3:job2 : Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[jobHandle.CombineDependencies]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(job0, job1, job2)]]></description>
+</snippet>

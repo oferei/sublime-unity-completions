@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlBoolAttributeDescription.TryGetValueFromBag(${1:UIElements.IUxmlAttributes bag}, ${2:UIElements.CreationContext cc}, ${3:ref bool value})]]></content>
+	<tabTrigger><![CDATA[tryGetValueFromBag]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UxmlBoolAttributeDescription.*(bag, cc, value)]]></description>
+</snippet>

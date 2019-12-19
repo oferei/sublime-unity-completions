@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.UnregisterSpawnHandler(${1:assetId : Networking.NetworkHash128})]]></content>
-	<tabTrigger><![CDATA[clientScene.UnregisterSpawnHandler]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(assetId)]]></description>
-</snippet>

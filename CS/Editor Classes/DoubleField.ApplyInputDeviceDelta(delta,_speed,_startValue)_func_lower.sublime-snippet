@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DoubleField.ApplyInputDeviceDelta(${1:Vector3 delta}, ${2:UIElements.DeltaSpeed speed}, ${3:double startValue})]]></content>
+	<tabTrigger><![CDATA[applyInputDeviceDelta]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DoubleField.*(delta, speed, startValue)]]></description>
+</snippet>

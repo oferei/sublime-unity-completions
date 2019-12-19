@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProceduralNow(${1:MeshTopology topology}, ${2:GraphicsBuffer indexBuffer}, ${3:int indexCount}, ${4:int instanceCount})]]></content>
+	<tabTrigger><![CDATA[graphics.DrawProceduralNow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(topology, indexBuffer, indexCount, instanceCount)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.CheckWriteAndThrow(${1:handle as Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle})]]></content>
+	<tabTrigger><![CDATA[atomicSafetyHandle.CheckWriteAndThrow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handle)]]></description>
+</snippet>

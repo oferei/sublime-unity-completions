@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.SetMatrix(${1:position as Vector3Int}, ${2:matrix as Matrix4x4})]]></content>
-	<tabTrigger><![CDATA[GridBrush.SetMatrix]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(position, matrix)]]></description>
-</snippet>

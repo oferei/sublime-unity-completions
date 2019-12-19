@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[KeyCombination(${1:keyCode : KeyCode}, ${2:shortcutModifiers : ShortcutManagement.ShortcutModifiers})]]></content>
+	<tabTrigger><![CDATA[KeyCombination]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(keyCode, shortcutModifiers)]]></description>
+</snippet>

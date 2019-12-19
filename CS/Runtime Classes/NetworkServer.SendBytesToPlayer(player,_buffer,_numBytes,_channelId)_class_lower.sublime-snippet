@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendBytesToPlayer(${1:GameObject player}, ${2:byte[] buffer}, ${3:int numBytes}, ${4:int channelId})]]></content>
-	<tabTrigger><![CDATA[networkServer.SendBytesToPlayer]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(player, buffer, numBytes, channelId)]]></description>
-</snippet>

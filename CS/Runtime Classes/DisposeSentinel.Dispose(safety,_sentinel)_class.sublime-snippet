@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisposeSentinel.Dispose(${1:ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle safety}, ${2:ref Unity.Collections.LowLevel.Unsafe.DisposeSentinel sentinel})]]></content>
+	<tabTrigger><![CDATA[DisposeSentinel.Dispose]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(safety, sentinel)]]></description>
+</snippet>

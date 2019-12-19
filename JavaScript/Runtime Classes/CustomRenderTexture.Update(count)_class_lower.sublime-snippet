@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CustomRenderTexture.Update(${1:count : int = 1})]]></content>
+	<content><![CDATA[CustomRenderTexture.Update(${1:count : int})]]></content>
 	<tabTrigger><![CDATA[customRenderTexture.Update]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(count)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Clickable(${1:handler as Action}, ${2:delay as long}, ${3:interval as long})]]></content>
+	<tabTrigger><![CDATA[Clickable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handler, delay, interval)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.OverrideMinMaxPatchHeights(${1:PatchExtents[] minMaxHeights})]]></content>
+	<tabTrigger><![CDATA[terrainData.OverrideMinMaxPatchHeights]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(minMaxHeights)]]></description>
+</snippet>

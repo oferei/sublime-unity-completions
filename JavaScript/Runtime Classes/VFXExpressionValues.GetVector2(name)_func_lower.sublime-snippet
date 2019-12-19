@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetVector2(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[getVector2]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VFXExpressionValues.*(name)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetDatabase.IsPackagedAsset(${1:obj as Object})]]></content>
-	<tabTrigger><![CDATA[assetDatabase.IsPackagedAsset]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(obj)]]></description>
-</snippet>

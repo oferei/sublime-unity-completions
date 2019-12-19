@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildUsageTagSet.UnionWith(${1:Build.Content.BuildUsageTagSet other})]]></content>
+	<tabTrigger><![CDATA[BuildUsageTagSet.UnionWith]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

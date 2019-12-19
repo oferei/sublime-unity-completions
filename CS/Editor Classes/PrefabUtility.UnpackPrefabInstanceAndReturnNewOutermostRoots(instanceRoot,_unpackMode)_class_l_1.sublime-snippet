@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.UnpackPrefabInstanceAndReturnNewOutermostRoots(${1:GameObject instanceRoot}, ${2:PrefabUnpackMode unpackMode})]]></content>
+	<tabTrigger><![CDATA[prefabUtility.UnpackPrefabInstanceAndReturnNewOutermostRoots]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(instanceRoot, unpackMode)]]></description>
+</snippet>

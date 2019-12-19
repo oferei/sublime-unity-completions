@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsService.OpenProjectSettings(${1:string settingsPath})]]></content>
+	<tabTrigger><![CDATA[settingsService.OpenProjectSettings]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(settingsPath)]]></description>
+</snippet>

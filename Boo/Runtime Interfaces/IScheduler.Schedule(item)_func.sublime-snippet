@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IScheduler.Schedule(${1:item as Experimental.UIElements.IScheduledItem})]]></content>
-	<tabTrigger><![CDATA[Schedule]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IScheduler.*(item)]]></description>
-</snippet>

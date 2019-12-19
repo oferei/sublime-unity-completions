@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.CreateGraphicsFence(${1:fenceType as GraphicsFenceType}, ${2:stage as SynchronisationStage})]]></content>
+	<tabTrigger><![CDATA[Graphics.CreateGraphicsFence]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fenceType, stage)]]></description>
+</snippet>

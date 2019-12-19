@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BaseInputModule.FindFirstRaycast(${1:candidates : List<RaycastResult>})]]></content>
-	<tabTrigger><![CDATA[FindFirstRaycast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[BaseInputModule.*(candidates)]]></description>
-</snippet>

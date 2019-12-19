@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobParallelForTransformExtensions.Schedule(${1:jobData : T}, ${2:transforms : Jobs.TransformAccessArray}, ${3:dependsOn : Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[IJobParallelForTransformExtensions.Schedule]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(jobData, transforms, dependsOn)]]></description>
+</snippet>

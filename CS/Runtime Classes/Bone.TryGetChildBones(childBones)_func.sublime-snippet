@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bone.TryGetChildBones(${1:List<Bone> childBones})]]></content>
+	<tabTrigger><![CDATA[TryGetChildBones]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Bone.*(childBones)]]></description>
+</snippet>

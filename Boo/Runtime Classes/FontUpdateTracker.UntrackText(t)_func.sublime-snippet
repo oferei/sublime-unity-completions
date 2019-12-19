@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[FontUpdateTracker.UntrackText(${1:t as UI.Text})]]></content>
-	<tabTrigger><![CDATA[UntrackText]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[FontUpdateTracker.*(t)]]></description>
-</snippet>

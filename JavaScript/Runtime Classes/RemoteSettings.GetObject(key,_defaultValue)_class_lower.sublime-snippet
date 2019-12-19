@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetObject(${1:key : string}, ${2:defaultValue : object})]]></content>
+	<tabTrigger><![CDATA[remoteSettings.GetObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(key, defaultValue)]]></description>
+</snippet>

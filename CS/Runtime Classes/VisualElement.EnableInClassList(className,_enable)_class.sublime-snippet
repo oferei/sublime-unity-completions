@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.EnableInClassList(${1:string className}, ${2:bool enable})]]></content>
+	<tabTrigger><![CDATA[VisualElement.EnableInClassList]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(className, enable)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest(${1:uri : Uri}, ${2:method : string}, ${3:downloadHandler : Networking.DownloadHandler}, ${4:uploadHandler : Networking.UploadHandler})]]></content>
+	<tabTrigger><![CDATA[unityWebRequest]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(uri, method, downloadHandler, uploadHandler)]]></description>
+</snippet>

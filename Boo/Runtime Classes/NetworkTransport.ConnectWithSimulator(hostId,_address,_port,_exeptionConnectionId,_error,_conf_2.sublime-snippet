@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.ConnectWithSimulator(${1:hostId as int}, ${2:address as string}, ${3:port as int}, ${4:exeptionConnectionId as int}, ${5:error as out byte}, ${6:conf as Networking.ConnectionSimulatorConfig})]]></content>
-	<tabTrigger><![CDATA[networkTransport.ConnectWithSimulator]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(hostId, address, port, exeptionConnectionId, error, conf)]]></description>
-</snippet>

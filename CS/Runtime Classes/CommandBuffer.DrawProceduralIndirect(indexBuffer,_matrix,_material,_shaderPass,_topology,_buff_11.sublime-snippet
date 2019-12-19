@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawProceduralIndirect(${1:GraphicsBuffer indexBuffer}, ${2:Matrix4x4 matrix}, ${3:Material material}, ${4:int shaderPass}, ${5:MeshTopology topology}, ${6:ComputeBuffer bufferWithArgs})]]></content>
+	<tabTrigger><![CDATA[DrawProceduralIndirect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(indexBuffer, matrix, material, shaderPass, topology, bufferWithArgs)]]></description>
+</snippet>

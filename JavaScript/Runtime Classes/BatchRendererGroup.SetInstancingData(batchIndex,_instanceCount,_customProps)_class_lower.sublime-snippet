@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.SetInstancingData(${1:batchIndex : int}, ${2:instanceCount : int}, ${3:customProps : MaterialPropertyBlock})]]></content>
+	<tabTrigger><![CDATA[batchRendererGroup.SetInstancingData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(batchIndex, instanceCount, customProps)]]></description>
+</snippet>

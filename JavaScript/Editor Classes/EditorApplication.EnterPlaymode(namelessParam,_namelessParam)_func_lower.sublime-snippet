@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.EnterPlaymode(${1:namelessParam : string}, ${2:namelessParam : string[]})]]></content>
+	<tabTrigger><![CDATA[enterPlaymode]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorApplication.*(namelessParam, namelessParam)]]></description>
+</snippet>

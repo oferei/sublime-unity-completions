@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.SetAsDefault(${1:preset : Presets.Preset})]]></content>
+	<tabTrigger><![CDATA[SetAsDefault]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Preset.*(preset)]]></description>
+</snippet>

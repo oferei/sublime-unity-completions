@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.RegisterStartPosition(${1:start : Transform})]]></content>
-	<tabTrigger><![CDATA[RegisterStartPosition]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkManager.*(start)]]></description>
-</snippet>

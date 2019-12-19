@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RenderPassAttachment.BindSurface(${1:tgt as Rendering.RenderTargetIdentifier}, ${2:loadExistingContents as bool}, ${3:storeResults as bool})]]></content>
-	<tabTrigger><![CDATA[RenderPassAttachment.BindSurface]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(tgt, loadExistingContents, storeResults)]]></description>
-</snippet>

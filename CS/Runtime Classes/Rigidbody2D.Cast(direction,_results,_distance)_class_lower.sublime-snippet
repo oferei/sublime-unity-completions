@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.Cast(${1:Vector2 direction}, ${2:RaycastHit2D[] results}, ${3:float distance = Mathf.Infinity})]]></content>
+	<content><![CDATA[Rigidbody2D.Cast(${1:Vector2 direction}, ${2:List<RaycastHit2D> results}, ${3:float distance = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[rigidbody2D.Cast]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(direction, results, distance)]]></description>

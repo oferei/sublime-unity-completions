@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.PolygonWorldToLocalMatrix(${1:polygon as Experimental.AI.PolygonId})]]></content>
+	<tabTrigger><![CDATA[PolygonWorldToLocalMatrix]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMeshQuery.*(polygon)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UnityWebRequest.Get(${1:uri as string})]]></content>
+	<content><![CDATA[UnityWebRequest.Get(${1:uri as Uri})]]></content>
 	<tabTrigger><![CDATA[Get]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[UnityWebRequest.*(uri)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState.SetCompareFunction(${1:Rendering.CompareFunction value})]]></content>
+	<tabTrigger><![CDATA[setCompareFunction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[StencilState.*(value)]]></description>
+</snippet>

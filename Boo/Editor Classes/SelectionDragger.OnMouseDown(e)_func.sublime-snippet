@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SelectionDragger.OnMouseDown(${1:e as UIElements.MouseDownEvent})]]></content>
+	<tabTrigger><![CDATA[OnMouseDown]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SelectionDragger.*(e)]]></description>
+</snippet>

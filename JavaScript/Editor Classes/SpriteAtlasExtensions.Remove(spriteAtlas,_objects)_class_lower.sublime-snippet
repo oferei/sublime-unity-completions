@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.Remove(${1:spriteAtlas : U2D.SpriteAtlas}, ${2:objects : Object[]})]]></content>
+	<tabTrigger><![CDATA[spriteAtlasExtensions.Remove]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(spriteAtlas, objects)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.SetInstancingData(${1:int batchIndex}, ${2:int instanceCount}, ${3:MaterialPropertyBlock customProps})]]></content>
+	<tabTrigger><![CDATA[BatchRendererGroup.SetInstancingData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(batchIndex, instanceCount, customProps)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.SetBindPoses(${1:sprite as Sprite}, ${2:src as NativeArray<Matrix4x4>})]]></content>
+	<tabTrigger><![CDATA[SetBindPoses]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SpriteDataAccessExtensions.*(sprite, src)]]></description>
+</snippet>

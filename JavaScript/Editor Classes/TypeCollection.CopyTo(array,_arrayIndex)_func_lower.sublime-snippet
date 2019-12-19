@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCollection.CopyTo(${1:array : Array}, ${2:arrayIndex : int})]]></content>
+	<tabTrigger><![CDATA[copyTo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TypeCollection.*(array, arrayIndex)]]></description>
+</snippet>

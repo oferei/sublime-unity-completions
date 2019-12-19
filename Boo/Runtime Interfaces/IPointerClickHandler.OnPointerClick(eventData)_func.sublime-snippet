@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPointerClickHandler.OnPointerClick(${1:eventData as EventSystems.PointerEventData})]]></content>
-	<tabTrigger><![CDATA[OnPointerClick]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IPointerClickHandler.*(eventData)]]></description>
-</snippet>

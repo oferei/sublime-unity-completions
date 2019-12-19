@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteShapeRenderer.GetChannels(${1:dataSize as int}, ${2:indices as out NativeArray<ushort>}, ${3:vertices as out NativeSlice<Vector3>}, ${4:texcoords as out NativeSlice<Vector2>})]]></content>
+	<tabTrigger><![CDATA[GetChannels]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SpriteShapeRenderer.*(dataSize, indices, vertices, texcoords)]]></description>
+</snippet>

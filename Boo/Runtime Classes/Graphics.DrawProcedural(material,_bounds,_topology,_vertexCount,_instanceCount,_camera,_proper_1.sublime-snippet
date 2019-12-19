@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProcedural(${1:material as Material}, ${2:bounds as Bounds}, ${3:topology as MeshTopology}, ${4:vertexCount as int}, ${5:instanceCount as int}, ${6:camera as Camera}, ${7:properties as MaterialPropertyBlock}, ${8:castShadows as Rendering.ShadowCastingMode}, ${9:receiveShadows as bool}, ${10:layer as int})]]></content>
+	<tabTrigger><![CDATA[Graphics.DrawProcedural]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(material, bounds, topology, vertexCount, instanceCount, camera, properties, castShadows, receiveShadows, layer)]]></description>
+</snippet>

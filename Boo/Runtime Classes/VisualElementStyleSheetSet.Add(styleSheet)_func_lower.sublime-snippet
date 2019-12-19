@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElementStyleSheetSet.Add(${1:styleSheet as UIElements.StyleSheet})]]></content>
+	<tabTrigger><![CDATA[add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualElementStyleSheetSet.*(styleSheet)]]></description>
+</snippet>

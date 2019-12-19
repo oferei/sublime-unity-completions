@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.PushNotification(${1:U output}, ${2:Playables.Playable origin}, ${3:Playables.INotification notification}, ${4:object context})]]></content>
+	<tabTrigger><![CDATA[PushNotification]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayableOutputExtensions.*(output, origin, notification, context)]]></description>
+</snippet>

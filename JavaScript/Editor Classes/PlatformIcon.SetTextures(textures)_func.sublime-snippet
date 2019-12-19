@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlatformIcon.SetTextures(${1:textures : params Texture2D[]})]]></content>
+	<tabTrigger><![CDATA[SetTextures]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlatformIcon.*(textures)]]></description>
+</snippet>

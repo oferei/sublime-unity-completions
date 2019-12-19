@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Eyes.TryGetRightEyeRotation(${1:rotation : out Quaternion})]]></content>
+	<tabTrigger><![CDATA[Eyes.TryGetRightEyeRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(rotation)]]></description>
+</snippet>

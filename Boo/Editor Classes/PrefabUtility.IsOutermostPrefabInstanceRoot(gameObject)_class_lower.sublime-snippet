@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsOutermostPrefabInstanceRoot(${1:gameObject as GameObject})]]></content>
+	<tabTrigger><![CDATA[prefabUtility.IsOutermostPrefabInstanceRoot]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(gameObject)]]></description>
+</snippet>

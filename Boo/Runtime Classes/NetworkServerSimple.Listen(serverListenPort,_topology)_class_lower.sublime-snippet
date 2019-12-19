@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.Listen(${1:serverListenPort as int}, ${2:topology as Networking.HostTopology})]]></content>
-	<tabTrigger><![CDATA[networkServerSimple.Listen]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(serverListenPort, topology)]]></description>
-</snippet>

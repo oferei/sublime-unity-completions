@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.GetShowSphereColliders(${1:filterWorkflow as PhysicsVisualizationSettings.FilterWorkflow})]]></content>
-	<tabTrigger><![CDATA[PhysicsVisualizationSettings.GetShowSphereColliders]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(filterWorkflow)]]></description>
-</snippet>

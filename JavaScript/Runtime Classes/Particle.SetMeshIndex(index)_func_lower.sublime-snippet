@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Particle.SetMeshIndex(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[setMeshIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Particle.*(index)]]></description>
+</snippet>

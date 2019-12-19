@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlatformKeywordSet.IsEnabled(${1:define as Rendering.BuiltinShaderDefine})]]></content>
+	<tabTrigger><![CDATA[isEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlatformKeywordSet.*(define)]]></description>
+</snippet>

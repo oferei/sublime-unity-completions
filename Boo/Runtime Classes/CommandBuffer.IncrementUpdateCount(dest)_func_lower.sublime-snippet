@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.IncrementUpdateCount(${1:dest as Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[incrementUpdateCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CommandBuffer.*(dest)]]></description>
+</snippet>

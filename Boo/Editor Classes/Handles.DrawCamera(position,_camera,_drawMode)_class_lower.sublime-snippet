@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Handles.DrawCamera(${1:position as Rect}, ${2:camera as Camera}, ${3:drawMode as DrawCameraMode = DrawCameraMode.Normal})]]></content>
+	<content><![CDATA[Handles.DrawCamera(${1:position as Rect}, ${2:camera as Camera}, ${3:drawMode as DrawCameraMode = UnityEditor.DrawCameraMode.Normal})]]></content>
 	<tabTrigger><![CDATA[handles.DrawCamera]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(position, camera, drawMode)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertySceneHandle.IsValid(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[isValid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PropertySceneHandle.*(stream)]]></description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMeshInstancedIndirect(${1:mesh as Mesh}, ${2:submeshIndex as int}, ${3:material as Material}, ${4:bounds as Bounds}, ${5:bufferWithArgs as ComputeBuffer}, ${6:argsOffset as int = 0}, ${7:properties as MaterialPropertyBlock = null}, ${8:castShadows as Rendering.ShadowCastingMode = ShadowCastingMode.On}, ${9:receiveShadows as bool = true}, ${10:layer as int = 0}, ${11:camera as Camera = null})]]></content>
+	<content><![CDATA[Graphics.DrawMeshInstancedIndirect(${1:mesh as Mesh}, ${2:submeshIndex as int}, ${3:material as Material}, ${4:bounds as Bounds}, ${5:bufferWithArgs as ComputeBuffer}, ${6:argsOffset as int = 0}, ${7:properties as MaterialPropertyBlock = null}, ${8:castShadows as Rendering.ShadowCastingMode = ShadowCastingMode.On}, ${9:receiveShadows as bool = true}, ${10:layer as int = 0}, ${11:camera as Camera = null}, ${12:lightProbeUsage as Rendering.LightProbeUsage = LightProbeUsage.BlendProbes}, ${13:lightProbeProxyVolume as LightProbeProxyVolume = null})]]></content>
 	<tabTrigger><![CDATA[drawMeshInstancedIndirect]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[Graphics.*(mesh, submeshIndex, material, bounds, bufferWithArgs, argsOffset, properties, castShadows, receiveShadows, layer, camera)]]></description>
+	<description><![CDATA[Graphics.*(mesh, submeshIndex, material, bounds, bufferWithArgs, argsOffset, properties, castShadows, receiveShadows, layer, camera, lightProbeUsage, lightProbeProxyVolume)]]></description>
 </snippet>

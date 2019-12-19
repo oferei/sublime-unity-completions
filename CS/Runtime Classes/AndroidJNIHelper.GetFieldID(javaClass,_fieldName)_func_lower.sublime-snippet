@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNIHelper.GetFieldID(${1:IntPtr javaClass}, ${2:string fieldName})]]></content>
+	<tabTrigger><![CDATA[getFieldID]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AndroidJNIHelper.*(javaClass, fieldName)]]></description>
+</snippet>

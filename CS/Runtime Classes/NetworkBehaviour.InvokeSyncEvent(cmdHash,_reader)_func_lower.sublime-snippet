@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.InvokeSyncEvent(${1:int cmdHash}, ${2:Networking.NetworkReader reader})]]></content>
-	<tabTrigger><![CDATA[invokeSyncEvent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkBehaviour.*(cmdHash, reader)]]></description>
-</snippet>

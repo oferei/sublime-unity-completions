@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformSceneHandle.GetLocalScale(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[transformSceneHandle.GetLocalScale]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream)]]></description>
+</snippet>

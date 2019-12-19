@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphicsBuffer(${1:GraphicsBuffer.Target target}, ${2:int count}, ${3:int stride})]]></content>
+	<tabTrigger><![CDATA[graphicsBuffer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(target, count, stride)]]></description>
+</snippet>

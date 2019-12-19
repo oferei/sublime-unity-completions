@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Frustum(${1:fp as FrustumPlanes})]]></content>
+	<tabTrigger><![CDATA[Matrix4x4.Frustum]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fp)]]></description>
+</snippet>

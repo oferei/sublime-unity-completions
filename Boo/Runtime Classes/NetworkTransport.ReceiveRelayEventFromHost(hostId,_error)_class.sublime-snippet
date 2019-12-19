@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.ReceiveRelayEventFromHost(${1:hostId as int}, ${2:error as out byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.ReceiveRelayEventFromHost]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(hostId, error)]]></description>
-</snippet>

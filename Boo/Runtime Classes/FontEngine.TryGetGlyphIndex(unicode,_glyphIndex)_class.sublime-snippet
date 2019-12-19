@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FontEngine.TryGetGlyphIndex(${1:unicode as uint}, ${2:glyphIndex as out uint})]]></content>
+	<tabTrigger><![CDATA[FontEngine.TryGetGlyphIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(unicode, glyphIndex)]]></description>
+</snippet>

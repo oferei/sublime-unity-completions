@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraEditorUtils.TryGetFrustum(${1:camera as Camera}, ${2:near as (Vector3)}, ${3:far as (Vector3)}, ${4:frustumAspect as out single})]]></content>
+	<tabTrigger><![CDATA[CameraEditorUtils.TryGetFrustum]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(camera, near, far, frustumAspect)]]></description>
+</snippet>

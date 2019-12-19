@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.RequestAsyncReadback(${1:Texture src}, ${2:int mipIndex}, ${3:TextureFormat dstFormat}, ${4:Action<AsyncGPUReadbackRequest> callback})]]></content>
+	<tabTrigger><![CDATA[requestAsyncReadback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(src, mipIndex, dstFormat, callback)]]></description>
+</snippet>

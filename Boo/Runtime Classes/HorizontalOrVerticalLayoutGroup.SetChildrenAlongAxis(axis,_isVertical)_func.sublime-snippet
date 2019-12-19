@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HorizontalOrVerticalLayoutGroup.SetChildrenAlongAxis(${1:axis as int}, ${2:isVertical as bool})]]></content>
-	<tabTrigger><![CDATA[SetChildrenAlongAxis]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[HorizontalOrVerticalLayoutGroup.*(axis, isVertical)]]></description>
-</snippet>

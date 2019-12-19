@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.ResetToPrefabState(${1:obj as Object})]]></content>
-	<tabTrigger><![CDATA[ResetToPrefabState]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PrefabUtility.*(obj)]]></description>
-</snippet>

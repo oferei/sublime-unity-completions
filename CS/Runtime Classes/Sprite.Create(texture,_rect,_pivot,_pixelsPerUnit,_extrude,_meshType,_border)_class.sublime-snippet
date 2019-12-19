@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Sprite.Create(${1:Texture2D texture}, ${2:Rect rect}, ${3:Vector2 pivot}, ${4:float pixelsPerUnit = 100.0f}, ${5:uint extrude = 0}, ${6:SpriteMeshType meshType = SpriteMeshType.Tight}, ${7:Vector4 border = Vector4.zero})]]></content>
+	<content><![CDATA[Sprite.Create(${1:Texture2D texture}, ${2:Rect rect}, ${3:Vector2 pivot}, ${4:float pixelsPerUnit}, ${5:uint extrude}, ${6:SpriteMeshType meshType}, ${7:Vector4 border})]]></content>
 	<tabTrigger><![CDATA[Sprite.Create]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rigidbody2D.ClosestPoint(${1:Vector2 position})]]></content>
+	<tabTrigger><![CDATA[closestPoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Rigidbody2D.*(position)]]></description>
+</snippet>

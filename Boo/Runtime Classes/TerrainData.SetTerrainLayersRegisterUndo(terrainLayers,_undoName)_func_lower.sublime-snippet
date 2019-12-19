@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.SetTerrainLayersRegisterUndo(${1:terrainLayers as (TerrainLayer)}, ${2:undoName as string})]]></content>
+	<tabTrigger><![CDATA[setTerrainLayersRegisterUndo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainData.*(terrainLayers, undoName)]]></description>
+</snippet>

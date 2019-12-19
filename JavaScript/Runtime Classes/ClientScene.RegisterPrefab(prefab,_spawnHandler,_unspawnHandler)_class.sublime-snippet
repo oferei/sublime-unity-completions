@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.RegisterPrefab(${1:prefab : GameObject}, ${2:spawnHandler : Networking.SpawnDelegate}, ${3:unspawnHandler : Networking.UnSpawnDelegate})]]></content>
-	<tabTrigger><![CDATA[ClientScene.RegisterPrefab]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(prefab, spawnHandler, unspawnHandler)]]></description>
-</snippet>

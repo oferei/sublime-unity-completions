@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics.Raycast(${1:origin as Vector3}, ${2:direction as Vector3}, ${3:hitInfo as out RaycastHit}, ${4:maxDistance as single = Mathf.Infinity}, ${5:layerMask as int = DefaultRaycastLayers}, ${6:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<content><![CDATA[Physics.Raycast(${1:origin as Vector3}, ${2:direction as Vector3}, ${3:hitInfo as out RaycastHit}, ${4:maxDistance as single}, ${5:layerMask as int}, ${6:queryTriggerInteraction as QueryTriggerInteraction})]]></content>
 	<tabTrigger><![CDATA[physics.Raycast]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(origin, direction, hitInfo, maxDistance, layerMask, queryTriggerInteraction)]]></description>

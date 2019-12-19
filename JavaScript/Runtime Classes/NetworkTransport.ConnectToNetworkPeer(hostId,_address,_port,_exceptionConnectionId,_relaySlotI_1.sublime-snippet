@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.ConnectToNetworkPeer(${1:hostId : int}, ${2:address : string}, ${3:port : int}, ${4:exceptionConnectionId : int}, ${5:relaySlotId : int}, ${6:network : Networking.Types.NetworkID}, ${7:source : Networking.Types.SourceID}, ${8:node : Networking.Types.NodeID}, ${9:bytesPerSec : int}, ${10:bucketSizeFactor : float}, ${11:error : out byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.ConnectToNetworkPeer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(hostId, address, port, exceptionConnectionId, relaySlotId, network, source, node, bytesPerSec, bucketSizeFactor, error)]]></description>
-</snippet>

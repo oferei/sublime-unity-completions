@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoundedPlane.GetCorners(${1:p0 : out Vector3}, ${2:p1 : out Vector3}, ${3:p2 : out Vector3}, ${4:p3 : out Vector3})]]></content>
+	<tabTrigger><![CDATA[GetCorners]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BoundedPlane.*(p0, p1, p2, p3)]]></description>
+</snippet>

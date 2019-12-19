@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.ToggleInClassList(${1:string className})]]></content>
+	<tabTrigger><![CDATA[toggleInClassList]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualElement.*(className)]]></description>
+</snippet>

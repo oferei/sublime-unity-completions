@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.BlitMultiTap(${1:source : Texture}, ${2:dest : RenderTexture}, ${3:mat : Material}, ${4:destDepthSlice : int}, ${5:offsets : params Vector2[]})]]></content>
+	<tabTrigger><![CDATA[BlitMultiTap]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(source, dest, mat, destDepthSlice, offsets)]]></description>
+</snippet>

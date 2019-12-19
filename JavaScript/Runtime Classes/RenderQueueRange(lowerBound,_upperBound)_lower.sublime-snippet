@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderQueueRange(${1:lowerBound : int}, ${2:upperBound : int})]]></content>
+	<tabTrigger><![CDATA[renderQueueRange]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lowerBound, upperBound)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.SetAnimationUpdateRate(${1:material : ProceduralMaterial}, ${2:animation_update_rate : int})]]></content>
-	<tabTrigger><![CDATA[substanceImporter.SetAnimationUpdateRate]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(material, animation_update_rate)]]></description>
-</snippet>

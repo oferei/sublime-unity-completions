@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shader.SetGlobalBuffer(${1:string name}, ${2:ComputeBuffer buffer})]]></content>
-	<tabTrigger><![CDATA[setGlobalBuffer]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Shader.*(name, buffer)]]></description>
-</snippet>

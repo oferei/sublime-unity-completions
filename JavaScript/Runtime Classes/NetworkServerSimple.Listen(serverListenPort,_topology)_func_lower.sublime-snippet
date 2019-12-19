@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.Listen(${1:serverListenPort : int}, ${2:topology : Networking.HostTopology})]]></content>
-	<tabTrigger><![CDATA[listen]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkServerSimple.*(serverListenPort, topology)]]></description>
-</snippet>

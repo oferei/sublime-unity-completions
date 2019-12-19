@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetTexturePropertyNames(${1:outNames : List<string>})]]></content>
+	<tabTrigger><![CDATA[material.GetTexturePropertyNames]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(outNames)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetBool(${1:int nameID}, ${2:bool b})]]></content>
+	<tabTrigger><![CDATA[visualEffect.SetBool]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID, b)]]></description>
+</snippet>

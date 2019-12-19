@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.GetBatchMatrices(${1:batchIndex : int})]]></content>
+	<tabTrigger><![CDATA[batchRendererGroup.GetBatchMatrices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(batchIndex)]]></description>
+</snippet>

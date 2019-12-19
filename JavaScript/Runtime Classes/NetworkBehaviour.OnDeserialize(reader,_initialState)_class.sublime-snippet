@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.OnDeserialize(${1:reader : Networking.NetworkReader}, ${2:initialState : bool})]]></content>
-	<tabTrigger><![CDATA[NetworkBehaviour.OnDeserialize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(reader, initialState)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectUtils.Inflate(${1:a : Rect}, ${2:left : float}, ${3:top : float}, ${4:right : float}, ${5:bottom : float})]]></content>
+	<tabTrigger><![CDATA[rectUtils.Inflate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(a, left, top, right, bottom)]]></description>
+</snippet>

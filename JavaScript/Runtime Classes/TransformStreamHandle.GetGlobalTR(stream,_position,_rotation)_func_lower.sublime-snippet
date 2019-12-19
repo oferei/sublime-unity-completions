@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.GetGlobalTR(${1:stream : Experimental.Animations.AnimationStream}, ${2:position : out Vector3}, ${3:rotation : out Quaternion})]]></content>
+	<tabTrigger><![CDATA[getGlobalTR]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream, position, rotation)]]></description>
+</snippet>

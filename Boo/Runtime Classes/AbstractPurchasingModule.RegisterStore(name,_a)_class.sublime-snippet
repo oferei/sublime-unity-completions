@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AbstractPurchasingModule.RegisterStore(${1:name as string}, ${2:a as Purchasing.Extension.IStore})]]></content>
-	<tabTrigger><![CDATA[AbstractPurchasingModule.RegisterStore]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(name, a)]]></description>
-</snippet>

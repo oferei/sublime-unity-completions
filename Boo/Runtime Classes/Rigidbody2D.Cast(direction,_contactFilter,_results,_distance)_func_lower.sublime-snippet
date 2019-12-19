@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.Cast(${1:direction as Vector2}, ${2:contactFilter as ContactFilter2D}, ${3:results as (RaycastHit2D)}, ${4:distance as single = Mathf.Infinity})]]></content>
+	<content><![CDATA[Rigidbody2D.Cast(${1:direction as Vector2}, ${2:contactFilter as ContactFilter2D}, ${3:results as List<RaycastHit2D>}, ${4:distance as single = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[cast]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Rigidbody2D.*(direction, contactFilter, results, distance)]]></description>

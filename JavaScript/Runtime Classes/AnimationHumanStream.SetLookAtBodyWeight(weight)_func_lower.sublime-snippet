@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetLookAtBodyWeight(${1:weight : float})]]></content>
+	<tabTrigger><![CDATA[setLookAtBodyWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationHumanStream.*(weight)]]></description>
+</snippet>

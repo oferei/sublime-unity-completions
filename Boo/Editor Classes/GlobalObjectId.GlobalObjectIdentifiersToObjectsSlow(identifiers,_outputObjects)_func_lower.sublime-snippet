@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.GlobalObjectIdentifiersToObjectsSlow(${1:identifiers as (GlobalObjectId)}, ${2:outputObjects as out (Object)})]]></content>
+	<tabTrigger><![CDATA[globalObjectIdentifiersToObjectsSlow]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GlobalObjectId.*(identifiers, outputObjects)]]></description>
+</snippet>

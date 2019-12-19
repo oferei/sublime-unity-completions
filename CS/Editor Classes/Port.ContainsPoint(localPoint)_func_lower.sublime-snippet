@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Port.ContainsPoint(${1:Vector2 localPoint})]]></content>
+	<tabTrigger><![CDATA[containsPoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Port.*(localPoint)]]></description>
+</snippet>

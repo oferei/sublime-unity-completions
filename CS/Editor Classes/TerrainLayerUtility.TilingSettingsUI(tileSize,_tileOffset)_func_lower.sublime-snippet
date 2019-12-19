@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerUtility.TilingSettingsUI(${1:SerializedProperty tileSize}, ${2:SerializedProperty tileOffset})]]></content>
+	<tabTrigger><![CDATA[tilingSettingsUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TerrainLayerUtility.*(tileSize, tileOffset)]]></description>
+</snippet>

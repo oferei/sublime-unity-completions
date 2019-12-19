@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Glyph(${1:index as uint}, ${2:metrics as TextCore.GlyphMetrics}, ${3:glyphRect as TextCore.GlyphRect}, ${4:scale as single}, ${5:atlasIndex as int})]]></content>
+	<tabTrigger><![CDATA[Glyph]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index, metrics, glyphRect, scale, atlasIndex)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExecuteEvents.Execute(${1:target as GameObject}, ${2:eventData as EventSystems.BaseEventData}, ${3:functor as EventFunction<T>})]]></content>
-	<tabTrigger><![CDATA[ExecuteEvents.Execute]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(target, eventData, functor)]]></description>
-</snippet>

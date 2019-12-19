@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableGraph.Create(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[playableGraph.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

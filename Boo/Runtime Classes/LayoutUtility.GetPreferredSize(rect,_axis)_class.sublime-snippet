@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutUtility.GetPreferredSize(${1:rect as RectTransform}, ${2:axis as int})]]></content>
-	<tabTrigger><![CDATA[LayoutUtility.GetPreferredSize]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(rect, axis)]]></description>
-</snippet>

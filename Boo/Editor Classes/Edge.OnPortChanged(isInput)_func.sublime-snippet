@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Edge.OnPortChanged(${1:isInput as bool})]]></content>
+	<tabTrigger><![CDATA[OnPortChanged]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Edge.*(isInput)]]></description>
+</snippet>

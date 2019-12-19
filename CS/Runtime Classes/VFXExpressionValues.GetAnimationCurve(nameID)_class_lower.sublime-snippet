@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetAnimationCurve(${1:int nameID})]]></content>
+	<tabTrigger><![CDATA[vFXExpressionValues.GetAnimationCurve]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

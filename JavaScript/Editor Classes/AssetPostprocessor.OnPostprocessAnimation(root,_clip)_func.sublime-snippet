@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessAnimation(${1:root : GameObject}, ${2:clip : AnimationClip})]]></content>
+	<tabTrigger><![CDATA[OnPostprocessAnimation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AssetPostprocessor.*(root, clip)]]></description>
+</snippet>

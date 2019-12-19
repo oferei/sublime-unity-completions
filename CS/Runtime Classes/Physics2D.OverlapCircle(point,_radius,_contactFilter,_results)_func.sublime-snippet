@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapCircle(${1:Vector2 point}, ${2:float radius}, ${3:ContactFilter2D contactFilter}, ${4:Collider2D[] results})]]></content>
+	<content><![CDATA[Physics2D.OverlapCircle(${1:Vector2 point}, ${2:float radius}, ${3:ContactFilter2D contactFilter}, ${4:List<Collider2D> results})]]></content>
 	<tabTrigger><![CDATA[OverlapCircle]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Physics2D.*(point, radius, contactFilter, results)]]></description>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AbstractPurchasingModule.Configure(${1:binder : Purchasing.Extension.IPurchasingBinder})]]></content>
-	<tabTrigger><![CDATA[AbstractPurchasingModule.Configure]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(binder)]]></description>
-</snippet>

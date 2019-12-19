@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.Simulate(${1:float stepDeltaTime}, ${2:uint stepCount})]]></content>
+	<tabTrigger><![CDATA[visualEffect.Simulate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(stepDeltaTime, stepCount)]]></description>
+</snippet>

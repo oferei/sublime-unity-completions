@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArrayUnsafeUtility.GetUnsafeBufferPointerWithoutChecks(${1:nativeArray : NativeArray<T>})]]></content>
+	<tabTrigger><![CDATA[NativeArrayUnsafeUtility.GetUnsafeBufferPointerWithoutChecks]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nativeArray)]]></description>
+</snippet>

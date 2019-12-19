@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutGroup.SetLayoutInputForAxis(${1:totalMin : float}, ${2:totalPreferred : float}, ${3:totalFlexible : float}, ${4:axis : int})]]></content>
-	<tabTrigger><![CDATA[setLayoutInputForAxis]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[LayoutGroup.*(totalMin, totalPreferred, totalFlexible, axis)]]></description>
-</snippet>

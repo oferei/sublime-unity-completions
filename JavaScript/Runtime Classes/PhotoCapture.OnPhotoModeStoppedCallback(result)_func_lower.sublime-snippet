@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.OnPhotoModeStoppedCallback(${1:result : XR.WSA.WebCam.PhotoCapture.PhotoCaptureResult})]]></content>
+	<content><![CDATA[PhotoCapture.OnPhotoModeStoppedCallback(${1:result : Windows.WebCam.PhotoCapture.PhotoCaptureResult})]]></content>
 	<tabTrigger><![CDATA[onPhotoModeStoppedCallback]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PhotoCapture.*(result)]]></description>

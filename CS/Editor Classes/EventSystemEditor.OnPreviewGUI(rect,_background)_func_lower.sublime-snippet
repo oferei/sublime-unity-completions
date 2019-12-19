@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventSystemEditor.OnPreviewGUI(${1:Rect rect}, ${2:GUIStyle background})]]></content>
-	<tabTrigger><![CDATA[onPreviewGUI]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[EventSystemEditor.*(rect, background)]]></description>
-</snippet>

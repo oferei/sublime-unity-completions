@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExpressionEvaluator.Evaluate(${1:string expression})]]></content>
-	<tabTrigger><![CDATA[ExpressionEvaluator.Evaluate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(expression)]]></description>
-</snippet>

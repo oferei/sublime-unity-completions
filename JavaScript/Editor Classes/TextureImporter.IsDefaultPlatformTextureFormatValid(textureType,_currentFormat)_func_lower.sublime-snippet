@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureImporter.IsDefaultPlatformTextureFormatValid(${1:textureType : TextureImporterType}, ${2:currentFormat : TextureImporterFormat})]]></content>
+	<tabTrigger><![CDATA[isDefaultPlatformTextureFormatValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextureImporter.*(textureType, currentFormat)]]></description>
+</snippet>

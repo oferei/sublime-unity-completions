@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectUtils.Encompass(${1:a as Rect}, ${2:b as Rect})]]></content>
+	<tabTrigger><![CDATA[rectUtils.Encompass]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(a, b)]]></description>
+</snippet>

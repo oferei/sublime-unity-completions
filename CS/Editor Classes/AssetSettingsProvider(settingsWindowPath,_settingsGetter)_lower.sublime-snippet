@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetSettingsProvider(${1:string settingsWindowPath}, ${2:Func<Object> settingsGetter})]]></content>
+	<tabTrigger><![CDATA[assetSettingsProvider]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(settingsWindowPath, settingsGetter)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetNearestPrefabInstanceRoot(${1:componentOrGameObject as Object})]]></content>
+	<tabTrigger><![CDATA[getNearestPrefabInstanceRoot]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(componentOrGameObject)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.LoadPrefabContentsIntoPreviewScene(${1:string prefabPath}, ${2:SceneManagement.Scene scene})]]></content>
+	<tabTrigger><![CDATA[LoadPrefabContentsIntoPreviewScene]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(prefabPath, scene)]]></description>
+</snippet>

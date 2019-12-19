@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics.GetIgnoreCollision(${1:Collider collider1}, ${2:Collider collider2})]]></content>
+	<tabTrigger><![CDATA[Physics.GetIgnoreCollision]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(collider1, collider2)]]></description>
+</snippet>

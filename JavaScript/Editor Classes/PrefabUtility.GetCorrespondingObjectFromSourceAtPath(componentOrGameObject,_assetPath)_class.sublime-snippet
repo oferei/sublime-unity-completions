@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetCorrespondingObjectFromSourceAtPath(${1:componentOrGameObject : TObject}, ${2:assetPath : string})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.GetCorrespondingObjectFromSourceAtPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(componentOrGameObject, assetPath)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EditorApplication.LoadLevelAsyncInPlayMode(${1:path as string})]]></content>
-	<tabTrigger><![CDATA[LoadLevelAsyncInPlayMode]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EditorApplication.*(path)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.SetReceivingEnabled(${1:player : NetworkPlayer}, ${2:group : int}, ${3:enabled : bool})]]></content>
-	<tabTrigger><![CDATA[SetReceivingEnabled]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Network.*(player, group, enabled)]]></description>
-</snippet>

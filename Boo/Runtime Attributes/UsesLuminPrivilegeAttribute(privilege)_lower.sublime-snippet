@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UsesLuminPrivilegeAttribute(${1:privilege as string})]]></content>
+	<tabTrigger><![CDATA[usesLuminPrivilegeAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(privilege)]]></description>
+</snippet>

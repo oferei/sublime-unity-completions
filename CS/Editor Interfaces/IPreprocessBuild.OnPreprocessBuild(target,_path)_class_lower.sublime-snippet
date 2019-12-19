@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPreprocessBuild.OnPreprocessBuild(${1:BuildTarget target}, ${2:string path})]]></content>
-	<tabTrigger><![CDATA[iPreprocessBuild.OnPreprocessBuild]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(target, path)]]></description>
-</snippet>

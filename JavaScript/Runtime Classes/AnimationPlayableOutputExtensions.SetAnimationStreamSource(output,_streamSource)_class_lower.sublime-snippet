@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableOutputExtensions.SetAnimationStreamSource(${1:output : Animations.AnimationPlayableOutput}, ${2:streamSource : Experimental.Animations.AnimationStreamSource})]]></content>
+	<tabTrigger><![CDATA[animationPlayableOutputExtensions.SetAnimationStreamSource]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(output, streamSource)]]></description>
+</snippet>

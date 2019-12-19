@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IUxmlFactory.Create(${1:bag as UIElements.IUxmlAttributes}, ${2:cc as UIElements.CreationContext})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IUxmlFactory.*(bag, cc)]]></description>
+</snippet>

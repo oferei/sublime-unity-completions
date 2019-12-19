@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.SavePrefabAsset(${1:asset as GameObject}, ${2:savedSuccessfully as out bool})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.SavePrefabAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(asset, savedSuccessfully)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.TryGetAverageBrightness(${1:averageBrightness : ref float})]]></content>
+	<tabTrigger><![CDATA[XRCameraSubsystem.TryGetAverageBrightness]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(averageBrightness)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkWriter.WritePackedUInt32(${1:value as uint})]]></content>
-	<tabTrigger><![CDATA[networkWriter.WritePackedUInt32]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value)]]></description>
-</snippet>

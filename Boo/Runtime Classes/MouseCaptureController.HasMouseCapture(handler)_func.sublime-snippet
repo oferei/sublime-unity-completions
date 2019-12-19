@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MouseCaptureController.HasMouseCapture(${1:handler as UIElements.IEventHandler})]]></content>
+	<tabTrigger><![CDATA[HasMouseCapture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MouseCaptureController.*(handler)]]></description>
+</snippet>

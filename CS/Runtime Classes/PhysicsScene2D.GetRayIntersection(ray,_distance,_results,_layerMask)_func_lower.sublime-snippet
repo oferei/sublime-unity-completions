@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.GetRayIntersection(${1:Ray ray}, ${2:float distance}, ${3:RaycastHit2D[] results}, ${4:int layerMask = Physics2D.DefaultRaycastLayers})]]></content>
+	<tabTrigger><![CDATA[getRayIntersection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsScene2D.*(ray, distance, results, layerMask)]]></description>
+</snippet>

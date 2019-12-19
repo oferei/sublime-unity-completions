@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPreprocessBuildWithReport.OnPreprocessBuild(${1:report : Build.Reporting.BuildReport})]]></content>
+	<tabTrigger><![CDATA[onPreprocessBuild]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IPreprocessBuildWithReport.*(report)]]></description>
+</snippet>

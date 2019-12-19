@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputEvent.GetPooled(${1:previousData : string}, ${2:newData : string})]]></content>
+	<tabTrigger><![CDATA[InputEvent.GetPooled]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(previousData, newData)]]></description>
+</snippet>

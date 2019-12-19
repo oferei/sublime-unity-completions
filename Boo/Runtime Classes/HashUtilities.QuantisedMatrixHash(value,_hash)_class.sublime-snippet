@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HashUtilities.QuantisedMatrixHash(${1:value as ref Matrix4x4}, ${2:hash as ref Hash128})]]></content>
+	<tabTrigger><![CDATA[HashUtilities.QuantisedMatrixHash]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value, hash)]]></description>
+</snippet>

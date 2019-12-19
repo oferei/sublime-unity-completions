@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetFloat(${1:name as string}, ${2:f as single})]]></content>
+	<tabTrigger><![CDATA[visualEffect.SetFloat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, f)]]></description>
+</snippet>

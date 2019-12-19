@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainMap.GetTerrain(${1:int tileX}, ${2:int tileZ})]]></content>
+	<tabTrigger><![CDATA[getTerrain]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TerrainMap.*(tileX, tileZ)]]></description>
+</snippet>

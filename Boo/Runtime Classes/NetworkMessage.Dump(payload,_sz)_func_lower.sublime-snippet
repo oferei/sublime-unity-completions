@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMessage.Dump(${1:payload as (byte)}, ${2:sz as int})]]></content>
-	<tabTrigger><![CDATA[dump]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkMessage.*(payload, sz)]]></description>
-</snippet>

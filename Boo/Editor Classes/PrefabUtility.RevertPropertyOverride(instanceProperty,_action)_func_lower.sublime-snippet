@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.RevertPropertyOverride(${1:instanceProperty as SerializedProperty}, ${2:action as InteractionMode})]]></content>
+	<tabTrigger><![CDATA[revertPropertyOverride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(instanceProperty, action)]]></description>
+</snippet>

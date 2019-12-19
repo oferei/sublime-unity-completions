@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.ExportPreset(${1:ProceduralMaterial material}, ${2:string exportPath})]]></content>
-	<tabTrigger><![CDATA[exportPreset]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[SubstanceImporter.*(material, exportPath)]]></description>
-</snippet>

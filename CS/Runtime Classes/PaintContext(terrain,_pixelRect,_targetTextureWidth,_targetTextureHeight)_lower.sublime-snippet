@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext(${1:Terrain terrain}, ${2:RectInt pixelRect}, ${3:int targetTextureWidth}, ${4:int targetTextureHeight})]]></content>
+	<tabTrigger><![CDATA[paintContext]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(terrain, pixelRect, targetTextureWidth, targetTextureHeight)]]></description>
+</snippet>

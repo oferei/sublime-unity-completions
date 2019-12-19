@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRExperienceSubsystem.GetAllBoundaryPoints(${1:boundaryPointsOut : List<Vector3>})]]></content>
+	<tabTrigger><![CDATA[getAllBoundaryPoints]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[XRExperienceSubsystem.*(boundaryPointsOut)]]></description>
+</snippet>

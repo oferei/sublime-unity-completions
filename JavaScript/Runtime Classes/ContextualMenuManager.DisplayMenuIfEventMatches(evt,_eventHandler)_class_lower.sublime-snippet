@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContextualMenuManager.DisplayMenuIfEventMatches(${1:evt : UIElements.EventBase}, ${2:eventHandler : UIElements.IEventHandler})]]></content>
+	<tabTrigger><![CDATA[contextualMenuManager.DisplayMenuIfEventMatches]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(evt, eventHandler)]]></description>
+</snippet>

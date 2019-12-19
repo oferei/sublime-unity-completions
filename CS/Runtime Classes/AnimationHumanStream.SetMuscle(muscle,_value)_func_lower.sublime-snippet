@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetMuscle(${1:Experimental.Animations.MuscleHandle muscle}, ${2:float value})]]></content>
+	<tabTrigger><![CDATA[setMuscle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationHumanStream.*(muscle, value)]]></description>
+</snippet>

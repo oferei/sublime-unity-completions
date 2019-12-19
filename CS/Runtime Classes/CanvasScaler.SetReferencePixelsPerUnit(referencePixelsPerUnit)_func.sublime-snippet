@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanvasScaler.SetReferencePixelsPerUnit(${1:float referencePixelsPerUnit})]]></content>
-	<tabTrigger><![CDATA[SetReferencePixelsPerUnit]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[CanvasScaler.*(referencePixelsPerUnit)]]></description>
-</snippet>

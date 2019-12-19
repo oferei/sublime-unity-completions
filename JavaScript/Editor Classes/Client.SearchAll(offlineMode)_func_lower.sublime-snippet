@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.SearchAll(${1:offlineMode : bool})]]></content>
+	<tabTrigger><![CDATA[searchAll]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Client.*(offlineMode)]]></description>
+</snippet>

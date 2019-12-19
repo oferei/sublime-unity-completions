@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetStringChars(${1:str : IntPtr})]]></content>
+	<tabTrigger><![CDATA[AndroidJNI.GetStringChars]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(str)]]></description>
+</snippet>

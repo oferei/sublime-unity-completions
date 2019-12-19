@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.DirtyTextureRegion(${1:string textureName}, ${2:RectInt region}, ${3:bool allowDelayedCPUSync})]]></content>
+	<tabTrigger><![CDATA[TerrainData.DirtyTextureRegion]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(textureName, region, allowDelayedCPUSync)]]></description>
+</snippet>

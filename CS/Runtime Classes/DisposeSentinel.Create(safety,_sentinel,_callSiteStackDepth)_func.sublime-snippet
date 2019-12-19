@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisposeSentinel.Create(${1:AtomicSafetyHandle safety}, ${2:DisposeSentinel sentinel}, ${3:int callSiteStackDepth})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DisposeSentinel.*(safety, sentinel, callSiteStackDepth)]]></description>
+</snippet>

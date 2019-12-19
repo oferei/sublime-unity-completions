@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.ElementResized(${1:UIElements.VisualElement visualElement})]]></content>
+	<tabTrigger><![CDATA[graphView.ElementResized]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(visualElement)]]></description>
+</snippet>

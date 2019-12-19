@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.TriggerSubEmitter(${1:subEmitterIndex as int}, ${2:particles as List<Particle>})]]></content>
+	<tabTrigger><![CDATA[ParticleSystem.TriggerSubEmitter]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(subEmitterIndex, particles)]]></description>
+</snippet>

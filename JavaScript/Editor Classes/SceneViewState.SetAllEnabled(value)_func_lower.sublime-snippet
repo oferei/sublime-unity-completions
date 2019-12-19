@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneViewState.SetAllEnabled(${1:value : bool})]]></content>
+	<tabTrigger><![CDATA[setAllEnabled]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneViewState.*(value)]]></description>
+</snippet>

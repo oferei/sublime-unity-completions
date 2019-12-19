@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Node.OnPortRemoved(${1:Experimental.GraphView.Port port})]]></content>
+	<tabTrigger><![CDATA[node.OnPortRemoved]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(port)]]></description>
+</snippet>

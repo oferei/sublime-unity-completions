@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetGoalWeightPosition(${1:index as AvatarIKGoal}, ${2:value as single})]]></content>
+	<tabTrigger><![CDATA[AnimationHumanStream.SetGoalWeightPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

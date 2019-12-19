@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArrayUnsafeUtility.GetUnsafeReadOnlyPtr(${1:nativeArray : NativeArray<T>})]]></content>
+	<tabTrigger><![CDATA[getUnsafeReadOnlyPtr]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NativeArrayUnsafeUtility.*(nativeArray)]]></description>
+</snippet>

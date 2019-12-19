@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.GetDirtyCount(${1:Object target})]]></content>
+	<tabTrigger><![CDATA[GetDirtyCount]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(target)]]></description>
+</snippet>

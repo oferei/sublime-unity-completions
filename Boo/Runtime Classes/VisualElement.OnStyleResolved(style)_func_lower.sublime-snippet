@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VisualElement.OnStyleResolved(${1:style as Experimental.UIElements.StyleSheets.ICustomStyle})]]></content>
-	<tabTrigger><![CDATA[onStyleResolved]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VisualElement.*(style)]]></description>
-</snippet>

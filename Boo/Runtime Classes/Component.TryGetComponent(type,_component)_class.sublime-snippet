@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Component.TryGetComponent(${1:type as Type}, ${2:component as out Component})]]></content>
+	<tabTrigger><![CDATA[Component.TryGetComponent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(type, component)]]></description>
+</snippet>

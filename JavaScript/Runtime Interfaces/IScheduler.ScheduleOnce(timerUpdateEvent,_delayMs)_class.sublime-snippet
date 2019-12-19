@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IScheduler.ScheduleOnce(${1:timerUpdateEvent : Action<TimerState>}, ${2:delayMs : long})]]></content>
-	<tabTrigger><![CDATA[IScheduler.ScheduleOnce]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(timerUpdateEvent, delayMs)]]></description>
-</snippet>

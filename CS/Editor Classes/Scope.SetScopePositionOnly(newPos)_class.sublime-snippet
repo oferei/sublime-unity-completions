@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.SetScopePositionOnly(${1:Rect newPos})]]></content>
+	<tabTrigger><![CDATA[Scope.SetScopePositionOnly]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(newPos)]]></description>
+</snippet>

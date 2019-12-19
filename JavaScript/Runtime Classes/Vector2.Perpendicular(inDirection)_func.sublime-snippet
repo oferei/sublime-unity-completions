@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2.Perpendicular(${1:inDirection : Vector2})]]></content>
+	<tabTrigger><![CDATA[Perpendicular]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Vector2.*(inDirection)]]></description>
+</snippet>

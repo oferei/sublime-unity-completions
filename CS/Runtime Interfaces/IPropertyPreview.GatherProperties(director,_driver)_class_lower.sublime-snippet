@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPropertyPreview.GatherProperties(${1:Playables.PlayableDirector director}, ${2:Timeline.IPropertyCollector driver})]]></content>
-	<tabTrigger><![CDATA[iPropertyPreview.GatherProperties]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(director, driver)]]></description>
-</snippet>

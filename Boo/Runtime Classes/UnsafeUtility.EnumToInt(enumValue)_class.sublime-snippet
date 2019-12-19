@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.EnumToInt(${1:enumValue as T})]]></content>
+	<tabTrigger><![CDATA[UnsafeUtility.EnumToInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(enumValue)]]></description>
+</snippet>

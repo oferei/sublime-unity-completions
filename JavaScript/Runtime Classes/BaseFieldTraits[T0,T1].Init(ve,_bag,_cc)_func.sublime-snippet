@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BaseFieldTraits<T0,T1>.Init(${1:ve : UIElements.VisualElement}, ${2:bag : UIElements.IUxmlAttributes}, ${3:cc : UIElements.CreationContext})]]></content>
+	<tabTrigger><![CDATA[Init]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BaseFieldTraits<T0,T1>.*(ve, bag, cc)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphic.UnregisterDirtyVerticesCallback(${1:action as Events.UnityAction})]]></content>
-	<tabTrigger><![CDATA[unregisterDirtyVerticesCallback]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Graphic.*(action)]]></description>
-</snippet>

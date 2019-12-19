@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaRational(${1:numerator as int})]]></content>
+	<tabTrigger><![CDATA[mediaRational]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(numerator)]]></description>
+</snippet>

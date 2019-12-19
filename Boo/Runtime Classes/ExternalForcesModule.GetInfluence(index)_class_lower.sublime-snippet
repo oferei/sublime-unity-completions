@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExternalForcesModule.GetInfluence(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[externalForcesModule.GetInfluence]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

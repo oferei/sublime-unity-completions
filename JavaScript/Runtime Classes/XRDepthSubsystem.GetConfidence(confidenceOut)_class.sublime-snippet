@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRDepthSubsystem.GetConfidence(${1:confidenceOut : List<float>})]]></content>
+	<tabTrigger><![CDATA[XRDepthSubsystem.GetConfidence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(confidenceOut)]]></description>
+</snippet>

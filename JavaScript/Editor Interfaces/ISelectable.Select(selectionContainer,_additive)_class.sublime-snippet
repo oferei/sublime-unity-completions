@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISelectable.Select(${1:selectionContainer : UIElements.VisualElement}, ${2:additive : bool})]]></content>
+	<tabTrigger><![CDATA[ISelectable.Select]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(selectionContainer, additive)]]></description>
+</snippet>

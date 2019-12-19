@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HandleUtility.WorldToGUIPointWithDepth(${1:Vector3 world})]]></content>
+	<tabTrigger><![CDATA[WorldToGUIPointWithDepth]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[HandleUtility.*(world)]]></description>
+</snippet>

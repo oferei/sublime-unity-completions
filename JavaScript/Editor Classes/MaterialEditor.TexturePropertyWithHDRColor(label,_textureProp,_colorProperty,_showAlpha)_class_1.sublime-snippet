@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TexturePropertyWithHDRColor(${1:label : GUIContent}, ${2:textureProp : MaterialProperty}, ${3:colorProperty : MaterialProperty}, ${4:showAlpha : bool})]]></content>
+	<tabTrigger><![CDATA[MaterialEditor.TexturePropertyWithHDRColor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(label, textureProp, colorProperty, showAlpha)]]></description>
+</snippet>

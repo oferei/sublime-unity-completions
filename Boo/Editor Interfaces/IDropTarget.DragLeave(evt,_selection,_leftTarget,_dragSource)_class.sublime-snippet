@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IDropTarget.DragLeave(${1:evt as UIElements.DragLeaveEvent}, ${2:selection as IEnumerable<ISelectable>}, ${3:leftTarget as Experimental.GraphView.IDropTarget}, ${4:dragSource as Experimental.GraphView.ISelection})]]></content>
+	<tabTrigger><![CDATA[IDropTarget.DragLeave]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(evt, selection, leftTarget, dragSource)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawRendererSettings.SetOverrideMaterial(${1:mat : Material}, ${2:passIndex : int})]]></content>
-	<tabTrigger><![CDATA[setOverrideMaterial]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[DrawRendererSettings.*(mat, passIndex)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerInspector.RenderStaticPreview(${1:assetPath as string}, ${2:subAssets as (Object)}, ${3:width as int}, ${4:height as int})]]></content>
+	<tabTrigger><![CDATA[renderStaticPreview]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainLayerInspector.*(assetPath, subAssets, width, height)]]></description>
+</snippet>

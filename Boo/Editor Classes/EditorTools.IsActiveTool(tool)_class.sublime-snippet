@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTools.IsActiveTool(${1:tool as EditorTools.EditorTool})]]></content>
+	<tabTrigger><![CDATA[EditorTools.IsActiveTool]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tool)]]></description>
+</snippet>

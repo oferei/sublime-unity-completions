@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture2D.CreateExternalTexture(${1:width as int}, ${2:height as int}, ${3:format as TextureFormat}, ${4:mipmap as bool}, ${5:linear as bool}, ${6:nativeTex as IntPtr})]]></content>
-	<tabTrigger><![CDATA[texture2D.CreateExternalTexture]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(width, height, format, mipmap, linear, nativeTex)]]></description>
-</snippet>

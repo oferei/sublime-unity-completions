@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LookAtConstraint.GetSource(${1:int index})]]></content>
+	<tabTrigger><![CDATA[GetSource]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[LookAtConstraint.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.GetNodeByGuid(${1:guid as string})]]></content>
+	<tabTrigger><![CDATA[GetNodeByGuid]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GraphView.*(guid)]]></description>
+</snippet>

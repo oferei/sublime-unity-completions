@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectFactory.CreateGameObject(${1:SceneManagement.Scene scene}, ${2:HideFlags hideFlags}, ${3:string name}, ${4:params Type[] types})]]></content>
+	<tabTrigger><![CDATA[createGameObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ObjectFactory.*(scene, hideFlags, name, types)]]></description>
+</snippet>

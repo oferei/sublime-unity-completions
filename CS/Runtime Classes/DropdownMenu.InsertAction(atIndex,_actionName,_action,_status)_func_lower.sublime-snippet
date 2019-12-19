@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.InsertAction(${1:int atIndex}, ${2:string actionName}, ${3:Action<DropdownMenuAction> action}, ${4:TouchScreenKeyboard.Status status})]]></content>
+	<tabTrigger><![CDATA[insertAction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DropdownMenu.*(atIndex, actionName, action, status)]]></description>
+</snippet>

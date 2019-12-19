@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AsyncGPUReadbackRequest.GetData(${1:layer : int})]]></content>
+	<tabTrigger><![CDATA[asyncGPUReadbackRequest.GetData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(layer)]]></description>
+</snippet>

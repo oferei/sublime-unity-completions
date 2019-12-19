@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.GetSourceOutputPort(${1:output : U})]]></content>
+	<tabTrigger><![CDATA[playableOutputExtensions.GetSourceOutputPort]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(output)]]></description>
+</snippet>

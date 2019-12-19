@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.EnableScissorRect(${1:Rect scissor})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.EnableScissorRect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(scissor)]]></description>
+</snippet>

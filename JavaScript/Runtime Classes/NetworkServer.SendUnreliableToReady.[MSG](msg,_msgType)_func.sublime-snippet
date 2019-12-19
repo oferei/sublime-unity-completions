@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendUnreliableToReady.<${1:MSG}>(${2:msg : short}, ${3:msgType : MSG})]]></content>
-	<tabTrigger><![CDATA[SendUnreliableToReady]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkServer.*.<MSG>(msg, msgType)]]></description>
-</snippet>

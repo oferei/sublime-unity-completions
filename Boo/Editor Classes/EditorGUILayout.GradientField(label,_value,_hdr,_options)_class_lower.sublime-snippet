@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.GradientField(${1:label as GUIContent}, ${2:value as Gradient}, ${3:hdr as bool}, ${4:options as params (GUILayoutOption)})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.GradientField]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(label, value, hdr, options)]]></description>
+</snippet>

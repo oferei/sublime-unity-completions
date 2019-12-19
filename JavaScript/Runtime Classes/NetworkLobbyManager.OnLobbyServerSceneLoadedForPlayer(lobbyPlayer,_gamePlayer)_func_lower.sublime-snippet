@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkLobbyManager.OnLobbyServerSceneLoadedForPlayer(${1:lobbyPlayer : GameObject}, ${2:gamePlayer : GameObject})]]></content>
-	<tabTrigger><![CDATA[onLobbyServerSceneLoadedForPlayer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkLobbyManager.*(lobbyPlayer, gamePlayer)]]></description>
-</snippet>

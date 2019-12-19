@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Collider2D.Raycast(${1:direction as Vector2}, ${2:contactFilter as ContactFilter2D}, ${3:results as (RaycastHit2D)}, ${4:distance as single = Mathf.Infinity})]]></content>
+	<content><![CDATA[Collider2D.Raycast(${1:direction as Vector2}, ${2:contactFilter as ContactFilter2D}, ${3:results as List<RaycastHit2D>}, ${4:distance as single = Mathf.Infinity})]]></content>
 	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Collider2D.*(direction, contactFilter, results, distance)]]></description>

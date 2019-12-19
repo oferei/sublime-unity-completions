@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SparseTexture(${1:width as int}, ${2:height as int}, ${3:textureFormat as TextureFormat}, ${4:mipCount as int}, ${5:linear as bool})]]></content>
+	<tabTrigger><![CDATA[SparseTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, textureFormat, mipCount, linear)]]></description>
+</snippet>

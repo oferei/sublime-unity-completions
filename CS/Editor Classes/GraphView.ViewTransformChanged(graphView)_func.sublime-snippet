@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.ViewTransformChanged(${1:Experimental.GraphView.GraphView graphView})]]></content>
+	<tabTrigger><![CDATA[ViewTransformChanged]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GraphView.*(graphView)]]></description>
+</snippet>

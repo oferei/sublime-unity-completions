@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.SetTile(${1:position : Vector3Int}, ${2:tile : Tilemaps.TileBase})]]></content>
-	<tabTrigger><![CDATA[setTile]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GridBrush.*(position, tile)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCache.GetMethodsWithAttribute(${1:attrType as Type})]]></content>
+	<tabTrigger><![CDATA[typeCache.GetMethodsWithAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(attrType)]]></description>
+</snippet>

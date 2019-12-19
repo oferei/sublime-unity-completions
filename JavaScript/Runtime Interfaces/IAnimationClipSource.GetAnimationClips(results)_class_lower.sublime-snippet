@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimationClipSource.GetAnimationClips(${1:results : List<AnimationClip>})]]></content>
+	<tabTrigger><![CDATA[iAnimationClipSource.GetAnimationClips]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(results)]]></description>
+</snippet>

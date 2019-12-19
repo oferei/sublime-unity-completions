@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.RevertPrefabInstance(${1:instanceRoot as GameObject}, ${2:action as InteractionMode})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.RevertPrefabInstance]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(instanceRoot, action)]]></description>
+</snippet>

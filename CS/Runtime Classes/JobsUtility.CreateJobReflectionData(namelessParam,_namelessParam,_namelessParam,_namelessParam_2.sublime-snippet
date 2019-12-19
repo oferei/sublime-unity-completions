@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.CreateJobReflectionData(${1:Type namelessParam}, ${2:object namelessParam}, ${3:object namelessParam}, ${4:object namelessParam})]]></content>
+	<tabTrigger><![CDATA[jobsUtility.CreateJobReflectionData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.AddCommandBufferAsync(${1:evt : Rendering.CameraEvent}, ${2:buffer : Rendering.CommandBuffer}, ${3:queueType : Rendering.ComputeQueueType})]]></content>
+	<tabTrigger><![CDATA[addCommandBufferAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Camera.*(evt, buffer, queueType)]]></description>
+</snippet>

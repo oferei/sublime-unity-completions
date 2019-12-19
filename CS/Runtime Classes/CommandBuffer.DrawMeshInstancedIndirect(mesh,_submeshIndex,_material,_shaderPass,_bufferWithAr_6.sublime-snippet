@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawMeshInstancedIndirect(${1:Mesh mesh}, ${2:int submeshIndex}, ${3:Material material}, ${4:int shaderPass}, ${5:ComputeBuffer bufferWithArgs}, ${6:int argsOffset})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.DrawMeshInstancedIndirect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh, submeshIndex, material, shaderPass, bufferWithArgs, argsOffset)]]></description>
+</snippet>

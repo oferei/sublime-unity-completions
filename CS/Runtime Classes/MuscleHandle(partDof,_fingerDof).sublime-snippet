@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MuscleHandle(${1:HumanPartDof partDof}, ${2:FingerDof fingerDof})]]></content>
+	<tabTrigger><![CDATA[MuscleHandle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(partDof, fingerDof)]]></description>
+</snippet>

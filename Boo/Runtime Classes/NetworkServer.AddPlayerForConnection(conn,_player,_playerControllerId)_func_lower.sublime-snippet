@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.AddPlayerForConnection(${1:conn as Networking.NetworkConnection}, ${2:player as GameObject}, ${3:playerControllerId as short})]]></content>
-	<tabTrigger><![CDATA[addPlayerForConnection]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(conn, player, playerControllerId)]]></description>
-</snippet>

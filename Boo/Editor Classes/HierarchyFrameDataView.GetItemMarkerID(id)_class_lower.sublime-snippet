@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.GetItemMarkerID(${1:id as int})]]></content>
+	<tabTrigger><![CDATA[hierarchyFrameDataView.GetItemMarkerID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(id)]]></description>
+</snippet>

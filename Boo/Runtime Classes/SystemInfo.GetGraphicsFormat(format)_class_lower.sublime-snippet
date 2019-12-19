@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemInfo.GetGraphicsFormat(${1:format as Experimental.Rendering.DefaultFormat})]]></content>
+	<tabTrigger><![CDATA[systemInfo.GetGraphicsFormat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(format)]]></description>
+</snippet>

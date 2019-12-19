@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LongField(${1:int maxLength})]]></content>
+	<tabTrigger><![CDATA[LongField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(maxLength)]]></description>
+</snippet>

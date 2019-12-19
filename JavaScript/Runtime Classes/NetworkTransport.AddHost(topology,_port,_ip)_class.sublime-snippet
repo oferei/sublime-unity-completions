@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.AddHost(${1:topology : Networking.HostTopology}, ${2:port : int = 0}, ${3:ip : string = null})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.AddHost]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(topology, port, ip)]]></description>
-</snippet>

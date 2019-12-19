@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sample.FindByPackage(${1:packageName : string}, ${2:packageVersion : string})]]></content>
+	<tabTrigger><![CDATA[FindByPackage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Sample.*(packageName, packageVersion)]]></description>
+</snippet>

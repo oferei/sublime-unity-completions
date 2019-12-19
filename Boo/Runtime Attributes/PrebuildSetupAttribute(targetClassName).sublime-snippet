@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrebuildSetupAttribute(${1:targetClassName as string})]]></content>
-	<tabTrigger><![CDATA[PrebuildSetupAttribute]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(targetClassName)]]></description>
-</snippet>

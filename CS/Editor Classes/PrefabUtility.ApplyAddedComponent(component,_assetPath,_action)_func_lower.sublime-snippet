@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.ApplyAddedComponent(${1:Component component}, ${2:string assetPath}, ${3:InteractionMode action})]]></content>
+	<tabTrigger><![CDATA[applyAddedComponent]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(component, assetPath, action)]]></description>
+</snippet>

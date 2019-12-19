@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementArray.AddDate(${1:DateTime val})]]></content>
+	<tabTrigger><![CDATA[PlistElementArray.AddDate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(val)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.UnRegisterStartPosition(${1:Transform start})]]></content>
-	<tabTrigger><![CDATA[unRegisterStartPosition]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkManager.*(start)]]></description>
-</snippet>

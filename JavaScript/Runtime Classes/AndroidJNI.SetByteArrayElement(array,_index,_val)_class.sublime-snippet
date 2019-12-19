@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNI.SetByteArrayElement(${1:array : IntPtr}, ${2:index : int}, ${3:val : sbyte})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI.SetByteArrayElement]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(array, index, val)]]></description>
-</snippet>

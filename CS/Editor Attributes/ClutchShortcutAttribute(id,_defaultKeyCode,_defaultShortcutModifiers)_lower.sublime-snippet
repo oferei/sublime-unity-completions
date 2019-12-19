@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ClutchShortcutAttribute(${1:string id}, ${2:KeyCode defaultKeyCode}, ${3:ShortcutManagement.ShortcutModifiers defaultShortcutModifiers = None})]]></content>
+	<tabTrigger><![CDATA[clutchShortcutAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id, defaultKeyCode, defaultShortcutModifiers)]]></description>
+</snippet>

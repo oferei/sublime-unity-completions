@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityAPICompatibilityVersionAttribute(${1:string version}, ${2:bool checkOnlyUnityVersion})]]></content>
+	<tabTrigger><![CDATA[UnityAPICompatibilityVersionAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(version, checkOnlyUnityVersion)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobParallelForTransform.Execute(${1:index : int}, ${2:transform : Jobs.TransformAccess})]]></content>
+	<tabTrigger><![CDATA[IJobParallelForTransform.Execute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, transform)]]></description>
+</snippet>

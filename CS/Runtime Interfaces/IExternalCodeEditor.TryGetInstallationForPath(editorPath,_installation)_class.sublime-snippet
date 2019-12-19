@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IExternalCodeEditor.TryGetInstallationForPath(${1:string editorPath}, ${2:out Unity.CodeEditor.CodeEditor.Installation installation})]]></content>
+	<tabTrigger><![CDATA[IExternalCodeEditor.TryGetInstallationForPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(editorPath, installation)]]></description>
+</snippet>

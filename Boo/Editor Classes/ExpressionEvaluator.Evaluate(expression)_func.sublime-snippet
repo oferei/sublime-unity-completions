@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExpressionEvaluator.Evaluate(${1:expression as string})]]></content>
-	<tabTrigger><![CDATA[Evaluate]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ExpressionEvaluator.*(expression)]]></description>
-</snippet>

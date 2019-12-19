@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.FrameNext(${1:Func<GraphElement,bool> predicate})]]></content>
+	<tabTrigger><![CDATA[graphView.FrameNext]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(predicate)]]></description>
+</snippet>

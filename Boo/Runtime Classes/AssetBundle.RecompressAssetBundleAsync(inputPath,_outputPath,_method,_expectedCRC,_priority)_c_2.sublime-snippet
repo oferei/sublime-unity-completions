@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetBundle.RecompressAssetBundleAsync(${1:inputPath as string}, ${2:outputPath as string}, ${3:method as BuildCompression}, ${4:expectedCRC as uint}, ${5:priority as ThreadPriority})]]></content>
+	<tabTrigger><![CDATA[assetBundle.RecompressAssetBundleAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inputPath, outputPath, method, expectedCRC, priority)]]></description>
+</snippet>

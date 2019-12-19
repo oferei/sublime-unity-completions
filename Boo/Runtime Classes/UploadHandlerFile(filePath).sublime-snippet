@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UploadHandlerFile(${1:filePath as string})]]></content>
+	<tabTrigger><![CDATA[UploadHandlerFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(filePath)]]></description>
+</snippet>

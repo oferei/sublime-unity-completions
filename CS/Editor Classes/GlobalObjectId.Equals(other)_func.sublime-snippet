@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.Equals(${1:GlobalObjectId other})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GlobalObjectId.*(other)]]></description>
+</snippet>

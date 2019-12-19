@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.BecomeNewHost(${1:port : int})]]></content>
-	<tabTrigger><![CDATA[BecomeNewHost]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkMigrationManager.*(port)]]></description>
-</snippet>

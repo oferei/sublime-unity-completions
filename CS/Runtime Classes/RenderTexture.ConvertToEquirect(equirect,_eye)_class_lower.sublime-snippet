@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.ConvertToEquirect(${1:RenderTexture equirect}, ${2:Camera.MonoOrStereoscopicEye eye})]]></content>
+	<tabTrigger><![CDATA[renderTexture.ConvertToEquirect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(equirect, eye)]]></description>
+</snippet>

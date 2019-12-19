@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightmapperUtils.ExtractIndirect(${1:l as Light})]]></content>
+	<tabTrigger><![CDATA[ExtractIndirect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LightmapperUtils.*(l)]]></description>
+</snippet>

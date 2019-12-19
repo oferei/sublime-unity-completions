@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.FindLocalObject(${1:netId : Networking.NetworkInstanceId})]]></content>
-	<tabTrigger><![CDATA[NetworkServer.FindLocalObject]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(netId)]]></description>
-</snippet>

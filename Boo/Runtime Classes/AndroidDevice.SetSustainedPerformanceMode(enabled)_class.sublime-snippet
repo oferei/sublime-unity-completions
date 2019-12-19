@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidDevice.SetSustainedPerformanceMode(${1:enabled as bool})]]></content>
+	<tabTrigger><![CDATA[AndroidDevice.SetSustainedPerformanceMode]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(enabled)]]></description>
+</snippet>

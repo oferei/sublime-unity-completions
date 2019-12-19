@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlAttributeDescription.GetValueFromBag(${1:bag as UIElements.IUxmlAttributes}, ${2:cc as UIElements.CreationContext}, ${3:converterFunc as Func<string,T,T>}, ${4:defaultValue as T})]]></content>
+	<tabTrigger><![CDATA[getValueFromBag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UxmlAttributeDescription.*(bag, cc, converterFunc, defaultValue)]]></description>
+</snippet>

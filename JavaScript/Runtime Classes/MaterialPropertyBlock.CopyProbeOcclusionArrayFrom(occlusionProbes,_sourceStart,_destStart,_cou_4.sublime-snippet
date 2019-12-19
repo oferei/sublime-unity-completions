@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.CopyProbeOcclusionArrayFrom(${1:occlusionProbes : Vector4[]}, ${2:sourceStart : int}, ${3:destStart : int}, ${4:count : int})]]></content>
+	<tabTrigger><![CDATA[copyProbeOcclusionArrayFrom]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(occlusionProbes, sourceStart, destStart, count)]]></description>
+</snippet>

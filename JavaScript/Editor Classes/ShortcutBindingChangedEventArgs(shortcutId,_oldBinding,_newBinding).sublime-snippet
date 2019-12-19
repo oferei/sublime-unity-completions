@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShortcutBindingChangedEventArgs(${1:shortcutId : string}, ${2:oldBinding : ShortcutManagement.ShortcutBinding}, ${3:newBinding : ShortcutManagement.ShortcutBinding})]]></content>
+	<tabTrigger><![CDATA[ShortcutBindingChangedEventArgs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(shortcutId, oldBinding, newBinding)]]></description>
+</snippet>

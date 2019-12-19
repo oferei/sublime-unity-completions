@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderTexture(${1:width as int}, ${2:height as int}, ${3:depth as int}, ${4:format as RenderTextureFormat}, ${5:readWrite as RenderTextureReadWrite})]]></content>
+	<content><![CDATA[RenderTexture(${1:width as int}, ${2:height as int}, ${3:depth as int}, ${4:format as RenderTextureFormat = RenderTextureFormat.Default}, ${5:readWrite as RenderTextureReadWrite = RenderTextureReadWrite.Default})]]></content>
 	<tabTrigger><![CDATA[RenderTexture]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(width, height, depth, format, readWrite)]]></description>

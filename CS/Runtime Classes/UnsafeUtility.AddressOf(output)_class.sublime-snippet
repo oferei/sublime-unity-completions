@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.AddressOf(${1:ref T output})]]></content>
+	<tabTrigger><![CDATA[UnsafeUtility.AddressOf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(output)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.InsertAction(${1:atIndex : int}, ${2:actionName : string}, ${3:action : Action<DropdownMenuAction>}, ${4:actionStatusCallback : Func<DropdownMenuAction,Status>}, ${5:userData : object})]]></content>
+	<tabTrigger><![CDATA[DropdownMenu.InsertAction]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(atIndex, actionName, action, actionStatusCallback, userData)]]></description>
+</snippet>

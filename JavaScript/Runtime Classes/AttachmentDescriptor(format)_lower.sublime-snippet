@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AttachmentDescriptor(${1:format : RenderTextureFormat})]]></content>
+	<tabTrigger><![CDATA[attachmentDescriptor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(format)]]></description>
+</snippet>

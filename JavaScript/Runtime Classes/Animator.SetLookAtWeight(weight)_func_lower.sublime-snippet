@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetLookAtWeight(${1:weight : float})]]></content>
+	<tabTrigger><![CDATA[setLookAtWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Animator.*(weight)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActiveProfileChangedEventArgs(${1:previousActiveProfileId : string}, ${2:currentActiveProfileId : string})]]></content>
+	<tabTrigger><![CDATA[activeProfileChangedEventArgs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(previousActiveProfileId, currentActiveProfileId)]]></description>
+</snippet>

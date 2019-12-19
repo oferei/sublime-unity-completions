@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.CalculateBrushTransform(${1:terrain as Terrain}, ${2:brushCenterTerrainUV as Vector2}, ${3:brushSize as single}, ${4:brushRotationDegrees as single})]]></content>
+	<tabTrigger><![CDATA[CalculateBrushTransform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainPaintUtility.*(terrain, brushCenterTerrainUV, brushSize, brushRotationDegrees)]]></description>
+</snippet>

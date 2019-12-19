@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.GetDirtyCount(${1:instanceID : int})]]></content>
+	<tabTrigger><![CDATA[editorUtility.GetDirtyCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(instanceID)]]></description>
+</snippet>

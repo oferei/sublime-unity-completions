@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Particle.GetMeshIndex(${1:system as ParticleSystem})]]></content>
+	<tabTrigger><![CDATA[particle.GetMeshIndex]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(system)]]></description>
+</snippet>

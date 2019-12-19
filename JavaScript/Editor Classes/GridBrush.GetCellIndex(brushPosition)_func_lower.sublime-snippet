@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.GetCellIndex(${1:brushPosition : Vector3Int})]]></content>
-	<tabTrigger><![CDATA[getCellIndex]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GridBrush.*(brushPosition)]]></description>
-</snippet>

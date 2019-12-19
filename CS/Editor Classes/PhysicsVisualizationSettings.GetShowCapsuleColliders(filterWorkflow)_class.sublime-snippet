@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.GetShowCapsuleColliders(${1:PhysicsVisualizationSettings.FilterWorkflow filterWorkflow})]]></content>
-	<tabTrigger><![CDATA[PhysicsVisualizationSettings.GetShowCapsuleColliders]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(filterWorkflow)]]></description>
-</snippet>

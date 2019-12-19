@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VisualElement.GetOrCreatePersistentData(${1:existing : ScriptableObject}, ${2:key : string})]]></content>
-	<tabTrigger><![CDATA[VisualElement.GetOrCreatePersistentData]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(existing, key)]]></description>
-</snippet>

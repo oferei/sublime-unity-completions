@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderMessage.Equals(${1:ShaderMessage other})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ShaderMessage.*(other)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNI.FromByteArray(${1:array : IntPtr})]]></content>
-	<tabTrigger><![CDATA[AndroidJNI.FromByteArray]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(array)]]></description>
-</snippet>

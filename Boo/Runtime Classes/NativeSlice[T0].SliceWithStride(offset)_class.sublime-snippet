@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeSlice<T0>.SliceWithStride(${1:offset as int})]]></content>
+	<tabTrigger><![CDATA[NativeSlice<T0>.SliceWithStride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(offset)]]></description>
+</snippet>

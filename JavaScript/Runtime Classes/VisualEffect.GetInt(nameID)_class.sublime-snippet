@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.GetInt(${1:nameID : int})]]></content>
+	<tabTrigger><![CDATA[VisualEffect.GetInt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

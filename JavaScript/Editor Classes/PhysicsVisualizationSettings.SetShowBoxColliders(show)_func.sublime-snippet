@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowBoxColliders(${1:show : bool})]]></content>
+	<tabTrigger><![CDATA[SetShowBoxColliders]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(show)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Shadow.ApplyShadow(${1:verts as List<UIVertex>}, ${2:color as Color32}, ${3:start as int}, ${4:end as int}, ${5:x as single}, ${6:y as single})]]></content>
-	<tabTrigger><![CDATA[ApplyShadow]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Shadow.*(verts, color, start, end, x, y)]]></description>
-</snippet>

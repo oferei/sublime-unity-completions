@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VertexHelper.AddUIVertexTriangleStream(${1:verts as List<UIVertex>})]]></content>
-	<tabTrigger><![CDATA[vertexHelper.AddUIVertexTriangleStream]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(verts)]]></description>
-</snippet>

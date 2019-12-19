@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.SetUserData(${1:output : U}, ${2:value : Object})]]></content>
+	<tabTrigger><![CDATA[PlayableOutputExtensions.SetUserData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(output, value)]]></description>
+</snippet>

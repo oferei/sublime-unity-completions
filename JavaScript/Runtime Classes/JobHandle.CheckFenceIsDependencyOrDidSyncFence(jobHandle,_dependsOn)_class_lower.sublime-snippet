@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobHandle.CheckFenceIsDependencyOrDidSyncFence(${1:jobHandle : Unity.Jobs.JobHandle}, ${2:dependsOn : Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[jobHandle.CheckFenceIsDependencyOrDidSyncFence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(jobHandle, dependsOn)]]></description>
+</snippet>

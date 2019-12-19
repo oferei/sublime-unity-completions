@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextElement.MeasureTextSize(${1:string textToMeasure}, ${2:float width}, ${3:UIElements.VisualElement.MeasureMode widthMode}, ${4:float height}, ${5:UIElements.VisualElement.MeasureMode heightMode})]]></content>
+	<tabTrigger><![CDATA[textElement.MeasureTextSize]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(textToMeasure, width, widthMode, height, heightMode)]]></description>
+</snippet>

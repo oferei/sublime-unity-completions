@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.BeginRenderPass(${1:int width}, ${2:int height}, ${3:int samples}, ${4:NativeArray<AttachmentDescriptor> attachments}, ${5:int depthAttachmentIndex})]]></content>
+	<tabTrigger><![CDATA[scriptableRenderContext.BeginRenderPass]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(width, height, samples, attachments, depthAttachmentIndex)]]></description>
+</snippet>

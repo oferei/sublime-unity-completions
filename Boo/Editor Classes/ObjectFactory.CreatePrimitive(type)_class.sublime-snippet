@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectFactory.CreatePrimitive(${1:type as PrimitiveType})]]></content>
+	<tabTrigger><![CDATA[ObjectFactory.CreatePrimitive]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

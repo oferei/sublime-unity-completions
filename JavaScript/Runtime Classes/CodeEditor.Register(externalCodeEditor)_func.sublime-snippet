@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CodeEditor.Register(${1:externalCodeEditor : Unity.CodeEditor.IExternalCodeEditor})]]></content>
+	<tabTrigger><![CDATA[Register]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CodeEditor.*(externalCodeEditor)]]></description>
+</snippet>

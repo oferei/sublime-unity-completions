@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.BeginPaintTexture(${1:terrain : Terrain}, ${2:boundsInTerrainSpace : Rect}, ${3:inputLayer : TerrainLayer}, ${4:extraBorderPixels : int})]]></content>
+	<tabTrigger><![CDATA[BeginPaintTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainPaintUtility.*(terrain, boundsInTerrainSpace, inputLayer, extraBorderPixels)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SearchWindowContext(${1:Vector2 screenMousePosition}, ${2:float requestedWidth}, ${3:float requestedHeight})]]></content>
+	<tabTrigger><![CDATA[searchWindowContext]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(screenMousePosition, requestedWidth, requestedHeight)]]></description>
+</snippet>

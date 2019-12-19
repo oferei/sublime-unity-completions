@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.CopyValuesFrom(${1:Experimental.VFX.VFXEventAttribute eventAttibute})]]></content>
+	<tabTrigger><![CDATA[CopyValuesFrom]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VFXEventAttribute.*(eventAttibute)]]></description>
+</snippet>

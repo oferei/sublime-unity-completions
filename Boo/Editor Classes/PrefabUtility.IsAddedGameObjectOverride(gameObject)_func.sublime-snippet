@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsAddedGameObjectOverride(${1:gameObject as GameObject})]]></content>
+	<tabTrigger><![CDATA[IsAddedGameObjectOverride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(gameObject)]]></description>
+</snippet>

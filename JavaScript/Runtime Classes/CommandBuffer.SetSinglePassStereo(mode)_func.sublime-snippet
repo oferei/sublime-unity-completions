@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetSinglePassStereo(${1:mode : SinglePassStereoMode})]]></content>
+	<tabTrigger><![CDATA[SetSinglePassStereo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(mode)]]></description>
+</snippet>

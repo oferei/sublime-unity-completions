@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeSliceUnsafeUtility.SetAtomicSafetyHandle(${1:ref NativeSlice<T> slice}, ${2:Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle safety})]]></content>
+	<tabTrigger><![CDATA[NativeSliceUnsafeUtility.SetAtomicSafetyHandle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(slice, safety)]]></description>
+</snippet>

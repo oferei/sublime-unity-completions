@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Eyes.TryGetLeftEyeRotation(${1:out Quaternion rotation})]]></content>
+	<tabTrigger><![CDATA[TryGetLeftEyeRotation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Eyes.*(rotation)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.SetAsDefault(${1:preset as Presets.Preset})]]></content>
+	<tabTrigger><![CDATA[Preset.SetAsDefault]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(preset)]]></description>
+</snippet>

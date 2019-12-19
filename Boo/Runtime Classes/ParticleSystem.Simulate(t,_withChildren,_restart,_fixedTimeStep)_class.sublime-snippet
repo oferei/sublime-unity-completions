@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.Simulate(${1:t as single}, ${2:withChildren as bool = true}, ${3:restart as bool = true}, ${4:fixedTimeStep as bool = true})]]></content>
+	<content><![CDATA[ParticleSystem.Simulate(${1:t as single}, ${2:withChildren as bool}, ${3:restart as bool}, ${4:fixedTimeStep as bool})]]></content>
 	<tabTrigger><![CDATA[ParticleSystem.Simulate]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(t, withChildren, restart, fixedTimeStep)]]></description>

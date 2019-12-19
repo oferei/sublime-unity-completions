@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.FindPassTagValue(${1:int passIndex}, ${2:Rendering.ShaderTagId tagName})]]></content>
+	<tabTrigger><![CDATA[FindPassTagValue]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Shader.*(passIndex, tagName)]]></description>
+</snippet>

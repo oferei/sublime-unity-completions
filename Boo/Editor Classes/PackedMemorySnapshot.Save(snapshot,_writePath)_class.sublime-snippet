@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackedMemorySnapshot.Save(${1:snapshot as Profiling.Memory.Experimental.PackedMemorySnapshot}, ${2:writePath as string})]]></content>
+	<tabTrigger><![CDATA[PackedMemorySnapshot.Save]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(snapshot, writePath)]]></description>
+</snippet>

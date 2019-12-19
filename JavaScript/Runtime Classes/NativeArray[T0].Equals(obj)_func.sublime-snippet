@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArray<T0>.Equals(${1:obj : object})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NativeArray<T0>.*(obj)]]></description>
+</snippet>

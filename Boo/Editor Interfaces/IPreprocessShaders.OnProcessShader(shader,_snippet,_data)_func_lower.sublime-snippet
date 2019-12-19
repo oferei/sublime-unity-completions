@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPreprocessShaders.OnProcessShader(${1:shader as Shader}, ${2:snippet as Rendering.ShaderSnippetData}, ${3:data as IList<ShaderCompilerData>})]]></content>
+	<tabTrigger><![CDATA[onProcessShader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IPreprocessShaders.*(shader, snippet, data)]]></description>
+</snippet>

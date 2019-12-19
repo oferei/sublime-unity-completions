@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRNodeState.TryGetRotation(${1:rotation as out Quaternion})]]></content>
+	<tabTrigger><![CDATA[xRNodeState.TryGetRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(rotation)]]></description>
+</snippet>

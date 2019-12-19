@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorCurveBinding.PPtrCurve(${1:inPath as string}, ${2:inType as Type}, ${3:inPropertyName as string})]]></content>
+	<tabTrigger><![CDATA[EditorCurveBinding.PPtrCurve]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(inPath, inType, inPropertyName)]]></description>
+</snippet>

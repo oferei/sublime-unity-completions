@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISelectable.Overlaps(${1:Rect rectangle})]]></content>
+	<tabTrigger><![CDATA[Overlaps]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ISelectable.*(rectangle)]]></description>
+</snippet>

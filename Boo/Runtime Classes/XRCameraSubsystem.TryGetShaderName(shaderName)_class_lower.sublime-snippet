@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.TryGetShaderName(${1:shaderName as ref string})]]></content>
+	<tabTrigger><![CDATA[xRCameraSubsystem.TryGetShaderName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shaderName)]]></description>
+</snippet>

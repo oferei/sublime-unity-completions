@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimationWindowPreview.UpdatePreviewGraph(${1:graph : Playables.PlayableGraph})]]></content>
+	<tabTrigger><![CDATA[UpdatePreviewGraph]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IAnimationWindowPreview.*(graph)]]></description>
+</snippet>

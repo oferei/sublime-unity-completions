@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoxcastCommand.ScheduleBatch(${1:commands : NativeArray<BoxcastCommand>}, ${2:results : NativeArray<RaycastHit>}, ${3:minCommandsPerJob : int}, ${4:dependsOn : Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[BoxcastCommand.ScheduleBatch]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(commands, results, minCommandsPerJob, dependsOn)]]></description>
+</snippet>

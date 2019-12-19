@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.OnStoppedRecordingVideoCallback(${1:result : XR.WSA.WebCam.VideoCapture.VideoCaptureResult})]]></content>
+	<content><![CDATA[VideoCapture.OnStoppedRecordingVideoCallback(${1:result : Windows.WebCam.VideoCapture.VideoCaptureResult})]]></content>
 	<tabTrigger><![CDATA[onStoppedRecordingVideoCallback]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[VideoCapture.*(result)]]></description>

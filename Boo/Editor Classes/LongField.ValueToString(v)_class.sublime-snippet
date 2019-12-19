@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LongField.ValueToString(${1:v as long})]]></content>
+	<tabTrigger><![CDATA[LongField.ValueToString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

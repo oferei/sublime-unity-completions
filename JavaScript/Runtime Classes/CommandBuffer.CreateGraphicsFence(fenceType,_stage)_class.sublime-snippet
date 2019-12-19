@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.CreateGraphicsFence(${1:fenceType : GraphicsFenceType}, ${2:stage : SynchronisationStage})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.CreateGraphicsFence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(fenceType, stage)]]></description>
+</snippet>

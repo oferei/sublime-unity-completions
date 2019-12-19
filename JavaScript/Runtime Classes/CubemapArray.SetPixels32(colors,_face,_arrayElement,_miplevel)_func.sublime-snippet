@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CubemapArray.SetPixels32(${1:colors : Color32[]}, ${2:face : CubemapFace}, ${3:arrayElement : int}, ${4:miplevel : int = 0})]]></content>
+	<content><![CDATA[CubemapArray.SetPixels32(${1:colors : Color32[]}, ${2:face : CubemapFace}, ${3:arrayElement : int}, ${4:miplevel : int})]]></content>
 	<tabTrigger><![CDATA[SetPixels32]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CubemapArray.*(colors, face, arrayElement, miplevel)]]></description>

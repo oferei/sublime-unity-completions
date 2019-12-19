@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.OnCustomStyleResolved(${1:styles : UIElements.ICustomStyle})]]></content>
+	<tabTrigger><![CDATA[StackNode.OnCustomStyleResolved]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(styles)]]></description>
+</snippet>

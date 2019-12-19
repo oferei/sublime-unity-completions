@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.BuildContextualMenu(${1:evt as UIElements.ContextualMenuPopulateEvent})]]></content>
+	<tabTrigger><![CDATA[graphView.BuildContextualMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(evt)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.AddPlayer(${1:readyConn as Networking.NetworkConnection}, ${2:playerControllerId as short})]]></content>
-	<tabTrigger><![CDATA[clientScene.AddPlayer]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(readyConn, playerControllerId)]]></description>
-</snippet>

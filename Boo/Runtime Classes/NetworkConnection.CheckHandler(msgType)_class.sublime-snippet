@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.CheckHandler(${1:msgType as short})]]></content>
-	<tabTrigger><![CDATA[NetworkConnection.CheckHandler]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(msgType)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.LightmapEmissionFlagsProperty(${1:indent : int}, ${2:enabled : bool}, ${3:ignoreEmissionColor : bool})]]></content>
+	<tabTrigger><![CDATA[LightmapEmissionFlagsProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MaterialEditor.*(indent, enabled, ignoreEmissionColor)]]></description>
+</snippet>

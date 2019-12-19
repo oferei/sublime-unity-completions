@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CertificateHandler.ValidateCertificate(${1:certificateData as (byte)})]]></content>
+	<tabTrigger><![CDATA[ValidateCertificate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[CertificateHandler.*(certificateData)]]></description>
+</snippet>

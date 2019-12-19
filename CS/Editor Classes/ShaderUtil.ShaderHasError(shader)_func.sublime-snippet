@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.ShaderHasError(${1:Shader shader})]]></content>
+	<tabTrigger><![CDATA[ShaderHasError]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ShaderUtil.*(shader)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LineRenderer.BakeMesh(${1:Mesh mesh}, ${2:Camera camera}, ${3:bool useTransform})]]></content>
+	<tabTrigger><![CDATA[BakeMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[LineRenderer.*(mesh, camera, useTransform)]]></description>
+</snippet>

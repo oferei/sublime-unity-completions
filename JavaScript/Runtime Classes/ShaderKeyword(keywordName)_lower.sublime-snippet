@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderKeyword(${1:keywordName : string})]]></content>
+	<tabTrigger><![CDATA[shaderKeyword]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(keywordName)]]></description>
+</snippet>

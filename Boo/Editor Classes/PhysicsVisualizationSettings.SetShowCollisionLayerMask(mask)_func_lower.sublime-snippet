@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowCollisionLayerMask(${1:mask as int})]]></content>
+	<tabTrigger><![CDATA[setShowCollisionLayerMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(mask)]]></description>
+</snippet>

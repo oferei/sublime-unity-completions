@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectUtility.GetMonoBehavioursWithMissingScriptCount(${1:GameObject go})]]></content>
+	<tabTrigger><![CDATA[getMonoBehavioursWithMissingScriptCount]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GameObjectUtility.*(go)]]></description>
+</snippet>

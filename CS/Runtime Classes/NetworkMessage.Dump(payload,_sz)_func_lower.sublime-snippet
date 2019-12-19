@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMessage.Dump(${1:byte[] payload}, ${2:int sz})]]></content>
-	<tabTrigger><![CDATA[dump]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkMessage.*(payload, sz)]]></description>
-</snippet>

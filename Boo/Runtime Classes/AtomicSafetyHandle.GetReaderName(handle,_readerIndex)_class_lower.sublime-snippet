@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.GetReaderName(${1:handle as Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle}, ${2:readerIndex as int})]]></content>
+	<tabTrigger><![CDATA[atomicSafetyHandle.GetReaderName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handle, readerIndex)]]></description>
+</snippet>

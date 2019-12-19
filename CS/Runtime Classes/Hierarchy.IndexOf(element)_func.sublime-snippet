@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Hierarchy.IndexOf(${1:UIElements.VisualElement element})]]></content>
+	<tabTrigger><![CDATA[IndexOf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Hierarchy.*(element)]]></description>
+</snippet>

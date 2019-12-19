@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AttachmentDescriptor.ConfigureClear(${1:clearColor as Color}, ${2:clearDepth as single}, ${3:clearStencil as uint})]]></content>
+	<tabTrigger><![CDATA[AttachmentDescriptor.ConfigureClear]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(clearColor, clearDepth, clearStencil)]]></description>
+</snippet>

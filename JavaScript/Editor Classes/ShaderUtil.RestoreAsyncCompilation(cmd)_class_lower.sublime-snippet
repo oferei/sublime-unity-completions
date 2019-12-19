@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.RestoreAsyncCompilation(${1:cmd : Rendering.CommandBuffer})]]></content>
+	<tabTrigger><![CDATA[shaderUtil.RestoreAsyncCompilation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(cmd)]]></description>
+</snippet>

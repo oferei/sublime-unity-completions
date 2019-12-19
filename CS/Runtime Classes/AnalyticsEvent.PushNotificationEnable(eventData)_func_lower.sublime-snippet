@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.PushNotificationEnable(${1:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[pushNotificationEnable]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnalyticsEvent.*(eventData)]]></description>
-</snippet>

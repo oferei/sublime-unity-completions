@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubPass.RenderPass.SubPass(${1:renderPass as Experimental.Rendering.RenderPass}, ${2:colors as (RenderPassAttachment)}, ${3:inputs as (RenderPassAttachment)}, ${4:readOnlyDepth as bool})]]></content>
-	<tabTrigger><![CDATA[subPass.RenderPass.SubPass]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(renderPass, colors, inputs, readOnlyDepth)]]></description>
-</snippet>

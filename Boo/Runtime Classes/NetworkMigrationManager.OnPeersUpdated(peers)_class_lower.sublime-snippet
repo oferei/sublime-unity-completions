@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.OnPeersUpdated(${1:peers as Networking.NetworkSystem.PeerListMessage})]]></content>
-	<tabTrigger><![CDATA[networkMigrationManager.OnPeersUpdated]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(peers)]]></description>
-</snippet>

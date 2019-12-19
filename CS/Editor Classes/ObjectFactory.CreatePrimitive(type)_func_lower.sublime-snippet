@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectFactory.CreatePrimitive(${1:PrimitiveType type})]]></content>
+	<tabTrigger><![CDATA[createPrimitive]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ObjectFactory.*(type)]]></description>
+</snippet>

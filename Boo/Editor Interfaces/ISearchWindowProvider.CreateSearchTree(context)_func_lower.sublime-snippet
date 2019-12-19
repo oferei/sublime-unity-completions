@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISearchWindowProvider.CreateSearchTree(${1:context as Experimental.GraphView.SearchWindowContext})]]></content>
+	<tabTrigger><![CDATA[createSearchTree]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ISearchWindowProvider.*(context)]]></description>
+</snippet>

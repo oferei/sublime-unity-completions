@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerFile(${1:path as string}, ${2:append as bool})]]></content>
+	<tabTrigger><![CDATA[DownloadHandlerFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path, append)]]></description>
+</snippet>

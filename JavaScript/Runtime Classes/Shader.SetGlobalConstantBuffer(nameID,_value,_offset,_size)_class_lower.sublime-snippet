@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Shader.SetGlobalConstantBuffer(${1:nameID : int}, ${2:value : ComputeBuffer}, ${3:offset : int}, ${4:size : int})]]></content>
+	<tabTrigger><![CDATA[shader.SetGlobalConstantBuffer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, value, offset, size)]]></description>
+</snippet>

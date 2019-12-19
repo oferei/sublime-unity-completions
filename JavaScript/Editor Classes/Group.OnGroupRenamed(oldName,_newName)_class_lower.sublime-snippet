@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Group.OnGroupRenamed(${1:oldName : string}, ${2:newName : string})]]></content>
+	<tabTrigger><![CDATA[group.OnGroupRenamed]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(oldName, newName)]]></description>
+</snippet>

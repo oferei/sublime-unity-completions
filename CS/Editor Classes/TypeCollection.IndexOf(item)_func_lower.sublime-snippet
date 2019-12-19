@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCollection.IndexOf(${1:object item})]]></content>
+	<tabTrigger><![CDATA[indexOf]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TypeCollection.*(item)]]></description>
+</snippet>

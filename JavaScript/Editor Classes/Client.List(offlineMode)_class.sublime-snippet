@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.List(${1:offlineMode : bool})]]></content>
+	<tabTrigger><![CDATA[Client.List]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(offlineMode)]]></description>
+</snippet>

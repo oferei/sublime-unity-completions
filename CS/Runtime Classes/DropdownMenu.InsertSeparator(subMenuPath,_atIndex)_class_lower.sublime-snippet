@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.InsertSeparator(${1:string subMenuPath}, ${2:int atIndex})]]></content>
+	<tabTrigger><![CDATA[dropdownMenu.InsertSeparator]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(subMenuPath, atIndex)]]></description>
+</snippet>

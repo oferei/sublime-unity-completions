@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.Instantiate(${1:Object prefab}, ${2:Vector3 position}, ${3:Quaternion rotation}, ${4:int group})]]></content>
-	<tabTrigger><![CDATA[Network.Instantiate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(prefab, position, rotation, group)]]></description>
-</snippet>

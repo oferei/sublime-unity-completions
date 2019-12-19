@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene.OverlapCapsule(${1:point0 as Vector3}, ${2:point1 as Vector3}, ${3:radius as single}, ${4:results as (Collider)}, ${5:layerMask as int = AllLayers}, ${6:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<tabTrigger><![CDATA[overlapCapsule]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsScene.*(point0, point1, radius, results, layerMask, queryTriggerInteraction)]]></description>
+</snippet>

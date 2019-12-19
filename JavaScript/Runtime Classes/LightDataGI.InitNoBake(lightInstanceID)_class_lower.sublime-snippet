@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightDataGI.InitNoBake(${1:lightInstanceID : int})]]></content>
+	<tabTrigger><![CDATA[lightDataGI.InitNoBake]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lightInstanceID)]]></description>
+</snippet>

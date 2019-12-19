@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Permission.HasUserAuthorizedPermission(${1:permission as string})]]></content>
+	<tabTrigger><![CDATA[HasUserAuthorizedPermission]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Permission.*(permission)]]></description>
+</snippet>

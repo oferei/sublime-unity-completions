@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Cubemap(${1:size as int}, ${2:format as TextureFormat}, ${3:mipmap as bool})]]></content>
-	<tabTrigger><![CDATA[Cubemap]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(size, format, mipmap)]]></description>
-</snippet>

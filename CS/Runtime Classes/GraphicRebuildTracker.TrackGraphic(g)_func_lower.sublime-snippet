@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GraphicRebuildTracker.TrackGraphic(${1:UI.Graphic g})]]></content>
-	<tabTrigger><![CDATA[trackGraphic]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[GraphicRebuildTracker.*(g)]]></description>
-</snippet>

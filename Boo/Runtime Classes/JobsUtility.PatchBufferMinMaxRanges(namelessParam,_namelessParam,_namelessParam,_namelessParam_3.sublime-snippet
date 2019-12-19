@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.PatchBufferMinMaxRanges(${1:namelessParam as IntPtr}, ${2:namelessParam as IntPtr}, ${3:namelessParam as int}, ${4:namelessParam as int})]]></content>
+	<tabTrigger><![CDATA[PatchBufferMinMaxRanges]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[JobsUtility.*(namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

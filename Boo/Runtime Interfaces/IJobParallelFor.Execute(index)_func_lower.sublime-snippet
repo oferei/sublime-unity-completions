@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobParallelFor.Execute(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[execute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IJobParallelFor.*(index)]]></description>
+</snippet>

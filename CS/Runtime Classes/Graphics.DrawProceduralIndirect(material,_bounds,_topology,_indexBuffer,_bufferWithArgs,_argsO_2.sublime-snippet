@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProceduralIndirect(${1:Material material}, ${2:Bounds bounds}, ${3:MeshTopology topology}, ${4:GraphicsBuffer indexBuffer}, ${5:ComputeBuffer bufferWithArgs}, ${6:int argsOffset}, ${7:Camera camera}, ${8:MaterialPropertyBlock properties}, ${9:Rendering.ShadowCastingMode castShadows}, ${10:bool receiveShadows}, ${11:int layer})]]></content>
+	<tabTrigger><![CDATA[graphics.DrawProceduralIndirect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(material, bounds, topology, indexBuffer, bufferWithArgs, argsOffset, camera, properties, castShadows, receiveShadows, layer)]]></description>
+</snippet>

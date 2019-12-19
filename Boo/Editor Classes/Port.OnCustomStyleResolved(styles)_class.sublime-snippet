@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Port.OnCustomStyleResolved(${1:styles as UIElements.ICustomStyle})]]></content>
+	<tabTrigger><![CDATA[Port.OnCustomStyleResolved]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(styles)]]></description>
+</snippet>

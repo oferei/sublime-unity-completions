@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaTime.Unknown operator(${1:t as Media.MediaTime})]]></content>
+	<tabTrigger><![CDATA[Unknown operator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MediaTime.*(t)]]></description>
+</snippet>

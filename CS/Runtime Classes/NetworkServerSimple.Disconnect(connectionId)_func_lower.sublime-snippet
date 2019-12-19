@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.Disconnect(${1:int connectionId})]]></content>
-	<tabTrigger><![CDATA[disconnect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkServerSimple.*(connectionId)]]></description>
-</snippet>

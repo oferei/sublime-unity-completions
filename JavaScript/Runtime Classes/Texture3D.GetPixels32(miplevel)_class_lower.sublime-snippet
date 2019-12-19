@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture3D.GetPixels32(${1:miplevel : int = 0})]]></content>
+	<content><![CDATA[Texture3D.GetPixels32(${1:miplevel : int})]]></content>
 	<tabTrigger><![CDATA[texture3D.GetPixels32]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(miplevel)]]></description>

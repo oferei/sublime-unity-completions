@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.StartRecordingAsync(${1:filename as string}, ${2:onStartedRecordingVideoCallback as XR.WSA.WebCam.VideoCapture.OnStartedRecordingVideoCallback})]]></content>
+	<content><![CDATA[VideoCapture.StartRecordingAsync(${1:filename as string}, ${2:onStartedRecordingVideoCallback as Windows.WebCam.VideoCapture.OnStartedRecordingVideoCallback})]]></content>
 	<tabTrigger><![CDATA[VideoCapture.StartRecordingAsync]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(filename, onStartedRecordingVideoCallback)]]></description>

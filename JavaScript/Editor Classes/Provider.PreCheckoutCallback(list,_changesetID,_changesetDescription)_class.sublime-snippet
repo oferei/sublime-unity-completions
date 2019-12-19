@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Provider.PreCheckoutCallback(${1:list : VersionControl.AssetList}, ${2:changesetID : ref string}, ${3:changesetDescription : ref string})]]></content>
+	<tabTrigger><![CDATA[Provider.PreCheckoutCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(list, changesetID, changesetDescription)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArrayUnsafeUtility.SetAtomicSafetyHandle(${1:ref NativeArray<T> array}, ${2:Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle safety})]]></content>
+	<tabTrigger><![CDATA[NativeArrayUnsafeUtility.SetAtomicSafetyHandle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(array, safety)]]></description>
+</snippet>

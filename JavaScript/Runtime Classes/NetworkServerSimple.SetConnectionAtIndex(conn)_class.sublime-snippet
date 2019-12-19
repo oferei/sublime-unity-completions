@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.SetConnectionAtIndex(${1:conn : Networking.NetworkConnection})]]></content>
-	<tabTrigger><![CDATA[NetworkServerSimple.SetConnectionAtIndex]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(conn)]]></description>
-</snippet>

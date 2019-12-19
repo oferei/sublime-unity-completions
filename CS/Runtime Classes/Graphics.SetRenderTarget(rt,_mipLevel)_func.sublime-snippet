@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:RenderTexture rt}, ${2:int mipLevel})]]></content>
-	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Graphics.*(rt, mipLevel)]]></description>
-</snippet>

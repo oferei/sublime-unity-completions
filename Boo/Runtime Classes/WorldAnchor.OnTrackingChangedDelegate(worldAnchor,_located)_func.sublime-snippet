@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WorldAnchor.OnTrackingChangedDelegate(${1:worldAnchor as XR.WSA.WorldAnchor}, ${2:located as bool})]]></content>
+	<tabTrigger><![CDATA[OnTrackingChangedDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[WorldAnchor.*(worldAnchor, located)]]></description>
+</snippet>

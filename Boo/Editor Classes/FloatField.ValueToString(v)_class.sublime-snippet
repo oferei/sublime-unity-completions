@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FloatField.ValueToString(${1:v as single})]]></content>
+	<tabTrigger><![CDATA[FloatField.ValueToString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

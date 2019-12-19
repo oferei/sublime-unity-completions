@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.Play(${1:withChildren as bool = true})]]></content>
+	<content><![CDATA[ParticleSystem.Play(${1:withChildren as bool})]]></content>
 	<tabTrigger><![CDATA[play]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[ParticleSystem.*(withChildren)]]></description>

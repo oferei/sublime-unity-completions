@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneViewState.SceneView.SceneViewState(${1:other : SceneView.SceneViewState})]]></content>
+	<tabTrigger><![CDATA[SceneView.SceneViewState]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneViewState.*(other)]]></description>
+</snippet>

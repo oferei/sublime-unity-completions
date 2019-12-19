@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderPipeline.BeginFrameRendering(${1:Camera[] cameras})]]></content>
+	<tabTrigger><![CDATA[beginFrameRendering]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RenderPipeline.*(cameras)]]></description>
+</snippet>

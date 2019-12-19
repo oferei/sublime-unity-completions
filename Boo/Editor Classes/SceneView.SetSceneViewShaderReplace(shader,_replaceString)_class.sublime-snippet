@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.SetSceneViewShaderReplace(${1:shader as Shader}, ${2:replaceString as string})]]></content>
+	<tabTrigger><![CDATA[SceneView.SetSceneViewShaderReplace]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shader, replaceString)]]></description>
+</snippet>

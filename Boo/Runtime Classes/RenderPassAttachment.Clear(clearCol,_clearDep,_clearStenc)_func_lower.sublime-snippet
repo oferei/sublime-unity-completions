@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RenderPassAttachment.Clear(${1:clearCol as Color}, ${2:clearDep as single}, ${3:clearStenc as uint})]]></content>
-	<tabTrigger><![CDATA[clear]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[RenderPassAttachment.*(clearCol, clearDep, clearStenc)]]></description>
-</snippet>

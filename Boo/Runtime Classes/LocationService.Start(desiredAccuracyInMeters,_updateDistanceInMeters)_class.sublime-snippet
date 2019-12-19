@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LocationService.Start(${1:desiredAccuracyInMeters as single = 10f}, ${2:updateDistanceInMeters as single = 10f})]]></content>
+	<content><![CDATA[LocationService.Start(${1:desiredAccuracyInMeters as single}, ${2:updateDistanceInMeters as single})]]></content>
 	<tabTrigger><![CDATA[LocationService.Start]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(desiredAccuracyInMeters, updateDistanceInMeters)]]></description>

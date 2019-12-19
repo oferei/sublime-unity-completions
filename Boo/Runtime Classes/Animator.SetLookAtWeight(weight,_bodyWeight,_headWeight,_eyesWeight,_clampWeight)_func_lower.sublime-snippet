@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.SetLookAtWeight(${1:weight as single}, ${2:bodyWeight as single = 0.00f}, ${3:headWeight as single = 1.00f}, ${4:eyesWeight as single = 0.00f}, ${5:clampWeight as single = 0.50f})]]></content>
+	<content><![CDATA[Animator.SetLookAtWeight(${1:weight as single}, ${2:bodyWeight as single = 0.0f}, ${3:headWeight as single = 1.0f}, ${4:eyesWeight as single = 0.0f}, ${5:clampWeight as single = 0.5f})]]></content>
 	<tabTrigger><![CDATA[setLookAtWeight]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Animator.*(weight, bodyWeight, headWeight, eyesWeight, clampWeight)]]></description>

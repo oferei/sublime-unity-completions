@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandler.ReceiveContentLengthHeader(${1:ulong contentLength})]]></content>
+	<tabTrigger><![CDATA[DownloadHandler.ReceiveContentLengthHeader]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(contentLength)]]></description>
+</snippet>

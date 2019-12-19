@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Collider2D.Cast(${1:direction : Vector2}, ${2:contactFilter : ContactFilter2D}, ${3:results : RaycastHit2D[]}, ${4:distance : float = Mathf.Infinity}, ${5:ignoreSiblingColliders : bool = true})]]></content>
+	<content><![CDATA[Collider2D.Cast(${1:direction : Vector2}, ${2:contactFilter : ContactFilter2D}, ${3:results : List<RaycastHit2D>}, ${4:distance : float = Mathf.Infinity}, ${5:ignoreSiblingColliders : bool = true})]]></content>
 	<tabTrigger><![CDATA[Collider2D.Cast]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(direction, contactFilter, results, distance, ignoreSiblingColliders)]]></description>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.GetShowStaticColliders(${1:filterWorkflow as PhysicsVisualizationSettings.FilterWorkflow})]]></content>
-	<tabTrigger><![CDATA[GetShowStaticColliders]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow)]]></description>
-</snippet>

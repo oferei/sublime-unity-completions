@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowSleepingBodies(${1:show : bool})]]></content>
+	<tabTrigger><![CDATA[PhysicsVisualizationSettings.SetShowSleepingBodies]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(show)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlackboardField(${1:Texture icon}, ${2:string text}, ${3:string typeText})]]></content>
+	<tabTrigger><![CDATA[BlackboardField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(icon, text, typeText)]]></description>
+</snippet>

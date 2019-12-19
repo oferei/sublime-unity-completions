@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.AssemblyDefinitionReferenceGUIDToGUID(${1:string reference})]]></content>
+	<tabTrigger><![CDATA[CompilationPipeline.AssemblyDefinitionReferenceGUIDToGUID]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(reference)]]></description>
+</snippet>

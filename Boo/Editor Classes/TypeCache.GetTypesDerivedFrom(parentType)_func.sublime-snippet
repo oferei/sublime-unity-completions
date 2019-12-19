@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCache.GetTypesDerivedFrom(${1:parentType as Type})]]></content>
+	<tabTrigger><![CDATA[GetTypesDerivedFrom]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TypeCache.*(parentType)]]></description>
+</snippet>

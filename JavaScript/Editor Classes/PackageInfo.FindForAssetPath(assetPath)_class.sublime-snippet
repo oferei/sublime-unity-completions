@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackageInfo.FindForAssetPath(${1:assetPath : string})]]></content>
+	<tabTrigger><![CDATA[PackageInfo.FindForAssetPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assetPath)]]></description>
+</snippet>

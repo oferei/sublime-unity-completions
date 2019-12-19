@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Port.OnCustomStyleResolved(${1:styles : UIElements.ICustomStyle})]]></content>
+	<tabTrigger><![CDATA[onCustomStyleResolved]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Port.*(styles)]]></description>
+</snippet>

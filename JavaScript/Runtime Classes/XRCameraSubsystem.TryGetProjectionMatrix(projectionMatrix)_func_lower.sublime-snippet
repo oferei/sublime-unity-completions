@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.TryGetProjectionMatrix(${1:projectionMatrix : ref Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[tryGetProjectionMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[XRCameraSubsystem.*(projectionMatrix)]]></description>
+</snippet>

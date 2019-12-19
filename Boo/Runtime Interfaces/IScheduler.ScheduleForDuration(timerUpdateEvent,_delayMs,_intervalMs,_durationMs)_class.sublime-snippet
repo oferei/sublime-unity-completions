@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IScheduler.ScheduleForDuration(${1:timerUpdateEvent as Action<TimerState>}, ${2:delayMs as long}, ${3:intervalMs as long}, ${4:durationMs as long})]]></content>
-	<tabTrigger><![CDATA[IScheduler.ScheduleForDuration]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(timerUpdateEvent, delayMs, intervalMs, durationMs)]]></description>
-</snippet>

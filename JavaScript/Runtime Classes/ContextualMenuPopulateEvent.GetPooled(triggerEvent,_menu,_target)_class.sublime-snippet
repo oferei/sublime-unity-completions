@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContextualMenuPopulateEvent.GetPooled(${1:triggerEvent : EventBase}, ${2:menu : DropdownMenu}, ${3:target : IEventHandler})]]></content>
+	<tabTrigger><![CDATA[ContextualMenuPopulateEvent.GetPooled]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(triggerEvent, menu, target)]]></description>
+</snippet>

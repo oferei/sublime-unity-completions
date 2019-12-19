@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Simulate(${1:float t}, ${2:bool withChildren})]]></content>
+	<tabTrigger><![CDATA[ParticleSystem.Simulate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(t, withChildren)]]></description>
+</snippet>

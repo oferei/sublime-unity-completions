@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetMatrix4x4(${1:name : string}, ${2:v : Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[setMatrix4x4]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VisualEffect.*(name, v)]]></description>
+</snippet>

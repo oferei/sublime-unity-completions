@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWW.LoadFromCacheOrDownload(${1:url : string}, ${2:cachedBundle : CachedAssetBundle}, ${3:crc : uint})]]></content>
-	<tabTrigger><![CDATA[loadFromCacheOrDownload]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[WWW.*(url, cachedBundle, crc)]]></description>
-</snippet>

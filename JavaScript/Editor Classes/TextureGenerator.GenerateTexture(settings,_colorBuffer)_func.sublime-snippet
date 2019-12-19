@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureGenerator.GenerateTexture(${1:settings : Experimental.AssetImporters.TextureGenerationSettings}, ${2:colorBuffer : NativeArray<Color32>})]]></content>
+	<tabTrigger><![CDATA[GenerateTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextureGenerator.*(settings, colorBuffer)]]></description>
+</snippet>

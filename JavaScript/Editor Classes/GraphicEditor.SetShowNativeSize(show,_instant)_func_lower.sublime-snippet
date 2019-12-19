@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GraphicEditor.SetShowNativeSize(${1:show : bool}, ${2:instant : bool})]]></content>
-	<tabTrigger><![CDATA[setShowNativeSize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[GraphicEditor.*(show, instant)]]></description>
-</snippet>

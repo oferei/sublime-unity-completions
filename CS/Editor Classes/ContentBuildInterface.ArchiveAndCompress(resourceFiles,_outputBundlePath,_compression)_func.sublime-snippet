@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.ArchiveAndCompress(${1:ResourceFile[] resourceFiles}, ${2:string outputBundlePath}, ${3:BuildCompression compression})]]></content>
+	<tabTrigger><![CDATA[ArchiveAndCompress]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ContentBuildInterface.*(resourceFiles, outputBundlePath, compression)]]></description>
+</snippet>

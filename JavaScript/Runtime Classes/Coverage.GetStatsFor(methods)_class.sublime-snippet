@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Coverage.GetStatsFor(${1:methods : MethodBase[]})]]></content>
+	<tabTrigger><![CDATA[Coverage.GetStatsFor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(methods)]]></description>
+</snippet>

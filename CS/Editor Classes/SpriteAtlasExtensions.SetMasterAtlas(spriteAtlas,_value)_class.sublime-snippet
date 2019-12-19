@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.SetMasterAtlas(${1:U2D.SpriteAtlas spriteAtlas}, ${2:U2D.SpriteAtlas value})]]></content>
+	<tabTrigger><![CDATA[SpriteAtlasExtensions.SetMasterAtlas]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(spriteAtlas, value)]]></description>
+</snippet>

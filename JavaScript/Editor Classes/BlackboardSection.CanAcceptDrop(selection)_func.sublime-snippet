@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlackboardSection.CanAcceptDrop(${1:selection : List<ISelectable>})]]></content>
+	<tabTrigger><![CDATA[CanAcceptDrop]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BlackboardSection.*(selection)]]></description>
+</snippet>

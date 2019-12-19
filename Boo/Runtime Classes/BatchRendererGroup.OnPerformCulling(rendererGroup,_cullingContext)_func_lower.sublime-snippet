@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.OnPerformCulling(${1:rendererGroup as Rendering.BatchRendererGroup}, ${2:cullingContext as Rendering.BatchCullingContext})]]></content>
+	<tabTrigger><![CDATA[onPerformCulling]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[BatchRendererGroup.*(rendererGroup, cullingContext)]]></description>
+</snippet>

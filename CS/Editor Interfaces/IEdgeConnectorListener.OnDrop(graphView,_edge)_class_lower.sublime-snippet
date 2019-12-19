@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IEdgeConnectorListener.OnDrop(${1:Experimental.GraphView.GraphView graphView}, ${2:RectTransform.Edge edge})]]></content>
+	<tabTrigger><![CDATA[iEdgeConnectorListener.OnDrop]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(graphView, edge)]]></description>
+</snippet>

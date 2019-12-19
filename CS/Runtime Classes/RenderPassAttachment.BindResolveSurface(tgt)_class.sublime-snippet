@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RenderPassAttachment.BindResolveSurface(${1:Rendering.RenderTargetIdentifier tgt})]]></content>
-	<tabTrigger><![CDATA[RenderPassAttachment.BindResolveSurface]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(tgt)]]></description>
-</snippet>

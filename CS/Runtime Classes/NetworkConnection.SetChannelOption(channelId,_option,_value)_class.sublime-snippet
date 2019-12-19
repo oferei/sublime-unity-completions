@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.SetChannelOption(${1:int channelId}, ${2:Networking.ChannelOption option}, ${3:int value})]]></content>
-	<tabTrigger><![CDATA[NetworkConnection.SetChannelOption]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(channelId, option, value)]]></description>
-</snippet>

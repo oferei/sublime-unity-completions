@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StageUtility.GetStageHandle(${1:scene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[getStageHandle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[StageUtility.*(scene)]]></description>
+</snippet>

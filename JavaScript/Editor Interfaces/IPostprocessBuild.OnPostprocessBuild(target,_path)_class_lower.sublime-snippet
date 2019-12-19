@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPostprocessBuild.OnPostprocessBuild(${1:target : BuildTarget}, ${2:path : string})]]></content>
-	<tabTrigger><![CDATA[iPostprocessBuild.OnPostprocessBuild]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(target, path)]]></description>
-</snippet>

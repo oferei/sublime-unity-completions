@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkLobbyManager.OnLobbyServerPlayerRemoved(${1:conn : Networking.NetworkConnection}, ${2:playerControllerId : short})]]></content>
-	<tabTrigger><![CDATA[onLobbyServerPlayerRemoved]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkLobbyManager.*(conn, playerControllerId)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackageManagerExtensions.RegisterExtension(${1:extension as PackageManager.UI.IPackageManagerExtension})]]></content>
+	<tabTrigger><![CDATA[PackageManagerExtensions.RegisterExtension]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(extension)]]></description>
+</snippet>

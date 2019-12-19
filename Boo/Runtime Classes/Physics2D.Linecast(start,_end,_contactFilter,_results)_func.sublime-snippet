@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.Linecast(${1:start as Vector2}, ${2:end as Vector2}, ${3:contactFilter as ContactFilter2D}, ${4:results as (RaycastHit2D)})]]></content>
+	<content><![CDATA[Physics2D.Linecast(${1:start as Vector2}, ${2:end as Vector2}, ${3:contactFilter as ContactFilter2D}, ${4:results as List<RaycastHit2D>})]]></content>
 	<tabTrigger><![CDATA[Linecast]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Physics2D.*(start, end, contactFilter, results)]]></description>

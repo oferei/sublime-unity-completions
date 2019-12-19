@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.DragPerform(${1:evt as UIElements.DragPerformEvent}, ${2:selection as IEnumerable<ISelectable>}, ${3:dropTarget as Experimental.GraphView.IDropTarget}, ${4:dragSource as Experimental.GraphView.ISelection})]]></content>
+	<tabTrigger><![CDATA[DragPerform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[StackNode.*(evt, selection, dropTarget, dragSource)]]></description>
+</snippet>

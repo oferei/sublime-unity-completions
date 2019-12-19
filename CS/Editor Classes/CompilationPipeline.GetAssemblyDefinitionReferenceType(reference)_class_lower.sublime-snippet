@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetAssemblyDefinitionReferenceType(${1:string reference})]]></content>
+	<tabTrigger><![CDATA[compilationPipeline.GetAssemblyDefinitionReferenceType]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(reference)]]></description>
+</snippet>

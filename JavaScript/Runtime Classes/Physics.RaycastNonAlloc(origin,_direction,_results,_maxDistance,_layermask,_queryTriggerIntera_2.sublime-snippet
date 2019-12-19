@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Physics.RaycastNonAlloc(${1:origin : Vector3}, ${2:direction : Vector3}, ${3:results : RaycastHit[]}, ${4:maxDistance : float = Mathf.Infinity}, ${5:layermask : int = DefaultRaycastLayers}, ${6:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<content><![CDATA[Physics.RaycastNonAlloc(${1:origin : Vector3}, ${2:direction : Vector3}, ${3:results : RaycastHit[]}, ${4:maxDistance : float = Mathf.Infinity}, ${5:layerMask : int = DefaultRaycastLayers}, ${6:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
 	<tabTrigger><![CDATA[physics.RaycastNonAlloc]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[*(origin, direction, results, maxDistance, layermask, queryTriggerInteraction)]]></description>
+	<description><![CDATA[*(origin, direction, results, maxDistance, layerMask, queryTriggerInteraction)]]></description>
 </snippet>

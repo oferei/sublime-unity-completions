@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.GetUserData(${1:output as U})]]></content>
+	<tabTrigger><![CDATA[getUserData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayableOutputExtensions.*(output)]]></description>
+</snippet>

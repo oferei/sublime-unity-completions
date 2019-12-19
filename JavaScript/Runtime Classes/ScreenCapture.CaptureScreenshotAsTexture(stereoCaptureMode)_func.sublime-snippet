@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScreenCapture.CaptureScreenshotAsTexture(${1:stereoCaptureMode : ScreenCapture.StereoScreenCaptureMode})]]></content>
+	<tabTrigger><![CDATA[CaptureScreenshotAsTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ScreenCapture.*(stereoCaptureMode)]]></description>
+</snippet>

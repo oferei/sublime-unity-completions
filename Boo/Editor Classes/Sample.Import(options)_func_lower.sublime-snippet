@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sample.Import(${1:options as PackageManager.UI.Sample.ImportOptions})]]></content>
+	<tabTrigger><![CDATA[import]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Sample.*(options)]]></description>
+</snippet>

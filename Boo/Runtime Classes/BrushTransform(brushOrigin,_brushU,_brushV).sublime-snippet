@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BrushTransform(${1:brushOrigin as Vector2}, ${2:brushU as Vector2}, ${3:brushV as Vector2})]]></content>
+	<tabTrigger><![CDATA[BrushTransform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(brushOrigin, brushU, brushV)]]></description>
+</snippet>

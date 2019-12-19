@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.GetCompatiblePorts(${1:startPort : Experimental.GraphView.Port}, ${2:nodeAdapter : Experimental.GraphView.NodeAdapter})]]></content>
+	<tabTrigger><![CDATA[GetCompatiblePorts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GraphView.*(startPort, nodeAdapter)]]></description>
+</snippet>

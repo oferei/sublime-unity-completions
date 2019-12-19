@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.GetTerrainAlphaMapChecked(${1:terrain as Terrain}, ${2:mapIndex as int})]]></content>
+	<tabTrigger><![CDATA[GetTerrainAlphaMapChecked]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainPaintUtility.*(terrain, mapIndex)]]></description>
+</snippet>

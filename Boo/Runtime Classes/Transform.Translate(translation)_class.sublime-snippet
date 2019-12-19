@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.Translate(${1:translation as Vector3})]]></content>
+	<tabTrigger><![CDATA[Transform.Translate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(translation)]]></description>
+</snippet>

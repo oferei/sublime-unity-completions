@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.LookAt(${1:point as Vector3})]]></content>
+	<tabTrigger><![CDATA[LookAt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SceneView.*(point)]]></description>
+</snippet>

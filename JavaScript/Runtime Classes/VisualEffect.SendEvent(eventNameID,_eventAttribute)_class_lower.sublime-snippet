@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SendEvent(${1:eventNameID : int}, ${2:eventAttribute : Experimental.VFX.VFXEventAttribute})]]></content>
+	<tabTrigger><![CDATA[visualEffect.SendEvent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(eventNameID, eventAttribute)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.WriteSceneSerializedFile(${1:outputFolder as string}, ${2:scenePath as string}, ${3:processedScene as string}, ${4:writeCommand as Build.Content.WriteCommand}, ${5:settings as Build.Content.BuildSettings}, ${6:globalUsage as Build.Content.BuildUsageTagGlobal}, ${7:usageSet as Build.Content.BuildUsageTagSet}, ${8:referenceMap as Build.Content.BuildReferenceMap})]]></content>
+	<tabTrigger><![CDATA[WriteSceneSerializedFile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ContentBuildInterface.*(outputFolder, scenePath, processedScene, writeCommand, settings, globalUsage, usageSet, referenceMap)]]></description>
+</snippet>

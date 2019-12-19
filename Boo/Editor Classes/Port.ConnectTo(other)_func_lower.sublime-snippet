@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Port.ConnectTo(${1:other as Experimental.GraphView.Port})]]></content>
+	<tabTrigger><![CDATA[connectTo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Port.*(other)]]></description>
+</snippet>

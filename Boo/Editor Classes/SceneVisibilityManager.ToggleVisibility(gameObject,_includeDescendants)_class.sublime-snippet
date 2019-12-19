@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneVisibilityManager.ToggleVisibility(${1:gameObject as GameObject}, ${2:includeDescendants as bool})]]></content>
+	<tabTrigger><![CDATA[SceneVisibilityManager.ToggleVisibility]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(gameObject, includeDescendants)]]></description>
+</snippet>

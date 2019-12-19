@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.DrawProcedural(${1:matrix : Matrix4x4}, ${2:material : Material}, ${3:shaderPass : int}, ${4:topology : MeshTopology}, ${5:vertexCount : int}, ${6:instanceCount : int = 1}, ${7:properties : MaterialPropertyBlock = null})]]></content>
+	<content><![CDATA[CommandBuffer.DrawProcedural(${1:matrix : Matrix4x4}, ${2:material : Material}, ${3:shaderPass : int}, ${4:topology : MeshTopology}, ${5:vertexCount : int}, ${6:instanceCount : int}, ${7:properties : MaterialPropertyBlock})]]></content>
 	<tabTrigger><![CDATA[DrawProcedural]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[CommandBuffer.*(matrix, material, shaderPass, topology, vertexCount, instanceCount, properties)]]></description>

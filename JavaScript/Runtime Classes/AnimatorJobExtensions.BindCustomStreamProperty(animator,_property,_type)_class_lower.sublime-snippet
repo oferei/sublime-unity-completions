@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorJobExtensions.BindCustomStreamProperty(${1:animator : Animator}, ${2:property : string}, ${3:type : Experimental.Animations.CustomStreamPropertyType})]]></content>
+	<tabTrigger><![CDATA[animatorJobExtensions.BindCustomStreamProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(animator, property, type)]]></description>
+</snippet>

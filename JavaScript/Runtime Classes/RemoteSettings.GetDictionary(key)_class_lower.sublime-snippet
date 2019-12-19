@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetDictionary(${1:key : string})]]></content>
+	<tabTrigger><![CDATA[remoteSettings.GetDictionary]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

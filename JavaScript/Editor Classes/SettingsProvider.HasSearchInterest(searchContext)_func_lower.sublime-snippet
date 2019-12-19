@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsProvider.HasSearchInterest(${1:searchContext : string})]]></content>
+	<tabTrigger><![CDATA[hasSearchInterest]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SettingsProvider.*(searchContext)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TrackAssetExtensions.SetGroup(${1:asset as Timeline.TrackAsset}, ${2:group as Timeline.GroupTrack})]]></content>
-	<tabTrigger><![CDATA[setGroup]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[TrackAssetExtensions.*(asset, group)]]></description>
-</snippet>

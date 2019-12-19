@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderPipeline.EndCameraRendering(${1:context : Rendering.ScriptableRenderContext}, ${2:camera : Camera})]]></content>
+	<tabTrigger><![CDATA[renderPipeline.EndCameraRendering]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(context, camera)]]></description>
+</snippet>

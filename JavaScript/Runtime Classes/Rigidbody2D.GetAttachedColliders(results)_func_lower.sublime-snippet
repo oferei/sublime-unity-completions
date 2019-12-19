@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.GetAttachedColliders(${1:results : Collider2D[]})]]></content>
+	<content><![CDATA[Rigidbody2D.GetAttachedColliders(${1:results : List<Collider2D>})]]></content>
 	<tabTrigger><![CDATA[getAttachedColliders]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Rigidbody2D.*(results)]]></description>

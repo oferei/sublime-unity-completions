@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSampleProvider.ConsumeSampleFrames(${1:sampleFrames as NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[ConsumeSampleFrames]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AudioSampleProvider.*(sampleFrames)]]></description>
+</snippet>

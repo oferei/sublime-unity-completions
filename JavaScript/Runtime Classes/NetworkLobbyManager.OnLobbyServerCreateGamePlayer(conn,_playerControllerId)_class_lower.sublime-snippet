@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkLobbyManager.OnLobbyServerCreateGamePlayer(${1:conn : Networking.NetworkConnection}, ${2:playerControllerId : short})]]></content>
-	<tabTrigger><![CDATA[networkLobbyManager.OnLobbyServerCreateGamePlayer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(conn, playerControllerId)]]></description>
-</snippet>

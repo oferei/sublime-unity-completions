@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetSettingsProvider(${1:settingsWindowPath : string}, ${2:editorCreator : Func<Editor>}, ${3:keywords : IEnumerable<string>})]]></content>
+	<tabTrigger><![CDATA[AssetSettingsProvider]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(settingsWindowPath, editorCreator, keywords)]]></description>
+</snippet>

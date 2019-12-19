@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.Cull(${1:CullingParameters parameters})]]></content>
+	<tabTrigger><![CDATA[Cull]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableRenderContext.*(parameters)]]></description>
+</snippet>

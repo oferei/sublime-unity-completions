@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.BeginFoldoutHeaderGroup(${1:bool foldout}, ${2:string content}, ${3:GUIStyle style = EditorStyles.foldoutHeader}, ${4:Action<Rect> menuAction}, ${5:GUIStyle menuIcon})]]></content>
+	<tabTrigger><![CDATA[editorGUILayout.BeginFoldoutHeaderGroup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(foldout, content, style, menuAction, menuIcon)]]></description>
+</snippet>

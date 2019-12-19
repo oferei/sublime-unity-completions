@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPostGenerateGradleAndroidProject.OnPostGenerateGradleAndroidProject(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[OnPostGenerateGradleAndroidProject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IPostGenerateGradleAndroidProject.*(path)]]></description>
+</snippet>

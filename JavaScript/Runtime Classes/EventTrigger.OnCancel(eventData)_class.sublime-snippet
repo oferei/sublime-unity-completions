@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnCancel(${1:eventData : EventSystems.BaseEventData})]]></content>
-	<tabTrigger><![CDATA[EventTrigger.OnCancel]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

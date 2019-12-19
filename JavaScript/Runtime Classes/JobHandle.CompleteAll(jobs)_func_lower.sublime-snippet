@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobHandle.CompleteAll(${1:jobs : NativeArray<JobHandle>})]]></content>
+	<tabTrigger><![CDATA[completeAll]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[JobHandle.*(jobs)]]></description>
+</snippet>

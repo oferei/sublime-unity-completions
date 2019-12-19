@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture3D(${1:width as int}, ${2:height as int}, ${3:depth as int}, ${4:textureFormat as TextureFormat}, ${5:mipChain as bool})]]></content>
+	<tabTrigger><![CDATA[texture3D]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, depth, textureFormat, mipChain)]]></description>
+</snippet>

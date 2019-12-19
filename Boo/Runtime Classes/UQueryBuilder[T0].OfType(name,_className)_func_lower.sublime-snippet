@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryBuilder<T0>.OfType(${1:name as string}, ${2:className as string})]]></content>
+	<tabTrigger><![CDATA[ofType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UQueryBuilder<T0>.*(name, className)]]></description>
+</snippet>

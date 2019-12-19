@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.IsValid(${1:location : Experimental.AI.NavMeshLocation})]]></content>
+	<tabTrigger><![CDATA[isValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMeshQuery.*(location)]]></description>
+</snippet>

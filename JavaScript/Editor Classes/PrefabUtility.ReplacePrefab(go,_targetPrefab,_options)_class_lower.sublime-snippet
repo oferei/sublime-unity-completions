@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.ReplacePrefab(${1:go : GameObject}, ${2:targetPrefab : Object}, ${3:options : ReplacePrefabOptions = ReplacePrefabOptions.Default})]]></content>
-	<tabTrigger><![CDATA[prefabUtility.ReplacePrefab]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(go, targetPrefab, options)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.Destroy(${1:obj as GameObject})]]></content>
-	<tabTrigger><![CDATA[networkServer.Destroy]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(obj)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawShadowsSettings(${1:Experimental.Rendering.CullResults cullResults}, ${2:int lightIndex})]]></content>
-	<tabTrigger><![CDATA[drawShadowsSettings]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(cullResults, lightIndex)]]></description>
-</snippet>

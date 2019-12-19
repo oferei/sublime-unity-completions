@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Light.AddCommandBufferAsync(${1:evt as Rendering.LightEvent}, ${2:buffer as Rendering.CommandBuffer}, ${3:queueType as Rendering.ComputeQueueType})]]></content>
+	<tabTrigger><![CDATA[light.AddCommandBufferAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(evt, buffer, queueType)]]></description>
+</snippet>

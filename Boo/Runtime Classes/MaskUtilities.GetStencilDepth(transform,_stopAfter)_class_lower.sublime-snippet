@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaskUtilities.GetStencilDepth(${1:transform as Transform}, ${2:stopAfter as Transform})]]></content>
-	<tabTrigger><![CDATA[maskUtilities.GetStencilDepth]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(transform, stopAfter)]]></description>
-</snippet>

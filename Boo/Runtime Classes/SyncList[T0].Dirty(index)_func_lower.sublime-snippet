@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SyncList<T0>.Dirty(${1:index as int})]]></content>
-	<tabTrigger><![CDATA[dirty]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[SyncList<T0>.*(index)]]></description>
-</snippet>

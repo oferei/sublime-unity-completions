@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoClipImporter.Equals(${1:VideoClipImporter rhs})]]></content>
+	<tabTrigger><![CDATA[videoClipImporter.Equals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rhs)]]></description>
+</snippet>

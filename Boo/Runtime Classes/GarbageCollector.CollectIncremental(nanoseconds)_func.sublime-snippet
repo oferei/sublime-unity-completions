@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarbageCollector.CollectIncremental(${1:nanoseconds as ulong})]]></content>
+	<tabTrigger><![CDATA[CollectIncremental]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GarbageCollector.*(nanoseconds)]]></description>
+</snippet>

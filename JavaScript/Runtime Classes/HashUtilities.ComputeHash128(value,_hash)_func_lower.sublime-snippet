@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HashUtilities.ComputeHash128(${1:value : ref T}, ${2:hash : ref Hash128})]]></content>
+	<tabTrigger><![CDATA[computeHash128]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HashUtilities.*(value, hash)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaTime(${1:long count}, ${2:uint rateNumerator}, ${3:uint rateDenominator})]]></content>
+	<tabTrigger><![CDATA[mediaTime]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(count, rateNumerator, rateDenominator)]]></description>
+</snippet>

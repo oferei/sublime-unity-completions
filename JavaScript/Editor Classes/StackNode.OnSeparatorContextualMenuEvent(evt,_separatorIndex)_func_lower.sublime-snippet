@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.OnSeparatorContextualMenuEvent(${1:evt : UIElements.ContextualMenuPopulateEvent}, ${2:separatorIndex : int})]]></content>
+	<tabTrigger><![CDATA[onSeparatorContextualMenuEvent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[StackNode.*(evt, separatorIndex)]]></description>
+</snippet>

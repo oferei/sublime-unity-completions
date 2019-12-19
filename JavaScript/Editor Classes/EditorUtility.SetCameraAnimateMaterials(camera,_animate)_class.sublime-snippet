@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SetCameraAnimateMaterials(${1:camera : Camera}, ${2:animate : bool})]]></content>
+	<tabTrigger><![CDATA[EditorUtility.SetCameraAnimateMaterials]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(camera, animate)]]></description>
+</snippet>

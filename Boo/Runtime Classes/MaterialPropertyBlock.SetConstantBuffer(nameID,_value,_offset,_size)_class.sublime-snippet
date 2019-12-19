@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.SetConstantBuffer(${1:nameID as int}, ${2:value as ComputeBuffer}, ${3:offset as int}, ${4:size as int})]]></content>
+	<tabTrigger><![CDATA[MaterialPropertyBlock.SetConstantBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(nameID, value, offset, size)]]></description>
+</snippet>

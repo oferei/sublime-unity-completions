@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnimationUtility.OnCurveWasModified(${1:AnimationClip clip}, ${2:EditorCurveBinding binding}, ${3:AnimationUtility.CurveModifiedType deleted})]]></content>
-	<tabTrigger><![CDATA[AnimationUtility.OnCurveWasModified]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(clip, binding, deleted)]]></description>
-</snippet>

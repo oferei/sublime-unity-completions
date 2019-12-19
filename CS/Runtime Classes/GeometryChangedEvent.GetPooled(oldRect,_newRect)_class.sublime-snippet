@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GeometryChangedEvent.GetPooled(${1:Rect oldRect}, ${2:Rect newRect})]]></content>
+	<tabTrigger><![CDATA[GeometryChangedEvent.GetPooled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(oldRect, newRect)]]></description>
+</snippet>

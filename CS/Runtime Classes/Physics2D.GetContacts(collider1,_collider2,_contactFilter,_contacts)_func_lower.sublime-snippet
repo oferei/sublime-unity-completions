@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.GetContacts(${1:Collider2D collider1}, ${2:Collider2D collider2}, ${3:ContactFilter2D contactFilter}, ${4:ContactPoint2D[] contacts})]]></content>
+	<content><![CDATA[Physics2D.GetContacts(${1:Collider2D collider1}, ${2:Collider2D collider2}, ${3:ContactFilter2D contactFilter}, ${4:List<ContactPoint2D> contacts})]]></content>
 	<tabTrigger><![CDATA[getContacts]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Physics2D.*(collider1, collider2, contactFilter, contacts)]]></description>

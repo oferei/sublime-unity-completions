@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureGenerationSettings(${1:type as TextureImporterType})]]></content>
+	<tabTrigger><![CDATA[textureGenerationSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

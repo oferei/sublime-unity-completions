@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.UpdateMouseHighlight(${1:Vector2 screenPos})]]></content>
+	<tabTrigger><![CDATA[UpdateMouseHighlight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(screenPos)]]></description>
+</snippet>

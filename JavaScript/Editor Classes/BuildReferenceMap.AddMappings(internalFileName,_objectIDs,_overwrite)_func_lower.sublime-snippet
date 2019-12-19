@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildReferenceMap.AddMappings(${1:internalFileName : string}, ${2:objectIDs : SerializationInfo[]}, ${3:overwrite : bool})]]></content>
+	<tabTrigger><![CDATA[addMappings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BuildReferenceMap.*(internalFileName, objectIDs, overwrite)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetShellScriptBuildPhaseForTarget(${1:string targetGuid}, ${2:string name}, ${3:string shellPath}, ${4:string shellScript}, ${5:List<string> inputPaths})]]></content>
+	<tabTrigger><![CDATA[GetShellScriptBuildPhaseForTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PBXProject.*(targetGuid, name, shellPath, shellScript, inputPaths)]]></description>
+</snippet>

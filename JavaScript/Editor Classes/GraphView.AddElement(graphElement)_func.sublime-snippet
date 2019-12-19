@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.AddElement(${1:graphElement : Experimental.GraphView.GraphElement})]]></content>
+	<tabTrigger><![CDATA[AddElement]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GraphView.*(graphElement)]]></description>
+</snippet>

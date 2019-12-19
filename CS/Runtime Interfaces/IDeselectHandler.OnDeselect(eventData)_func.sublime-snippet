@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IDeselectHandler.OnDeselect(${1:EventSystems.BaseEventData eventData})]]></content>
-	<tabTrigger><![CDATA[OnDeselect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IDeselectHandler.*(eventData)]]></description>
-</snippet>

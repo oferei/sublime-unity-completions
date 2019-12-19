@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.SetConstantBuffer(${1:nameID : int}, ${2:value : ComputeBuffer}, ${3:offset : int}, ${4:size : int})]]></content>
+	<tabTrigger><![CDATA[SetConstantBuffer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Material.*(nameID, value, offset, size)]]></description>
+</snippet>

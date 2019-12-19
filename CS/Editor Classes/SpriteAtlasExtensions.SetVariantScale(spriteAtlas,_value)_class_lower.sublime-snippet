@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.SetVariantScale(${1:U2D.SpriteAtlas spriteAtlas}, ${2:float value})]]></content>
+	<tabTrigger><![CDATA[spriteAtlasExtensions.SetVariantScale]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(spriteAtlas, value)]]></description>
+</snippet>

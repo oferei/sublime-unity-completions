@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.Configure(${1:topology : Networking.HostTopology})]]></content>
-	<tabTrigger><![CDATA[configure]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkClient.*(topology)]]></description>
-</snippet>

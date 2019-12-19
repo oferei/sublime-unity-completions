@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.EnumPopup(${1:Rect position}, ${2:GUIContent label}, ${3:Enum selected}, ${4:Func<Enum,bool> checkEnabled = null}, ${5:bool includeObsolete = false}, ${6:GUIStyle style = null})]]></content>
+	<tabTrigger><![CDATA[EnumPopup]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, label, selected, checkEnabled, includeObsolete, style)]]></description>
+</snippet>

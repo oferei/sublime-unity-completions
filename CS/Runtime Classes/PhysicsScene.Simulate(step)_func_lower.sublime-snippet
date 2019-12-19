@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene.Simulate(${1:float step})]]></content>
+	<tabTrigger><![CDATA[simulate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsScene.*(step)]]></description>
+</snippet>

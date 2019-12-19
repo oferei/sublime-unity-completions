@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.Configure(${1:config as Networking.ConnectionConfig}, ${2:maxConnections as int})]]></content>
-	<tabTrigger><![CDATA[configure]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(config, maxConnections)]]></description>
-</snippet>

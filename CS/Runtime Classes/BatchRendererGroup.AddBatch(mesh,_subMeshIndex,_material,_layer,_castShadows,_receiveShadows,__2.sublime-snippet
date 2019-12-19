@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.AddBatch(${1:Mesh mesh}, ${2:int subMeshIndex}, ${3:Material material}, ${4:int layer}, ${5:Rendering.ShadowCastingMode castShadows}, ${6:bool receiveShadows}, ${7:bool invertCulling}, ${8:Bounds bounds}, ${9:int instanceCount}, ${10:MaterialPropertyBlock customProps}, ${11:GameObject associatedSceneObject}, ${12:ulong sceneCullingMask})]]></content>
+	<tabTrigger><![CDATA[batchRendererGroup.AddBatch]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mesh, subMeshIndex, material, layer, castShadows, receiveShadows, invertCulling, bounds, instanceCount, customProps, associatedSceneObject, sceneCullingMask)]]></description>
+</snippet>

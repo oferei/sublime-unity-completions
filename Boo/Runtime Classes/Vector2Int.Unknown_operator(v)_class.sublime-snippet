@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Vector2Int.Unknown operator(${1:v as Vector2Int})]]></content>
+	<tabTrigger><![CDATA[Vector2Int.Unknown operator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

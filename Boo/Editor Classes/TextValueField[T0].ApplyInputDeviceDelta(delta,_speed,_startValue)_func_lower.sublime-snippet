@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextValueField<T0>.ApplyInputDeviceDelta(${1:delta as Vector3}, ${2:speed as UIElements.DeltaSpeed}, ${3:startValue as TValueType})]]></content>
+	<tabTrigger><![CDATA[applyInputDeviceDelta]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TextValueField<T0>.*(delta, speed, startValue)]]></description>
+</snippet>

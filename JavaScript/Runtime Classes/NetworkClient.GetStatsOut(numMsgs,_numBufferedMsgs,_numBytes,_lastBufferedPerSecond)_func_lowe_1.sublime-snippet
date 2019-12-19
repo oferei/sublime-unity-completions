@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.GetStatsOut(${1:numMsgs : out int}, ${2:numBufferedMsgs : out int}, ${3:numBytes : out int}, ${4:lastBufferedPerSecond : out int})]]></content>
-	<tabTrigger><![CDATA[getStatsOut]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkClient.*(numMsgs, numBufferedMsgs, numBytes, lastBufferedPerSecond)]]></description>
-</snippet>

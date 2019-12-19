@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExternalForcesModule.SetInfluence(${1:index : int}, ${2:field : ParticleSystemForceField})]]></content>
+	<tabTrigger><![CDATA[externalForcesModule.SetInfluence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, field)]]></description>
+</snippet>

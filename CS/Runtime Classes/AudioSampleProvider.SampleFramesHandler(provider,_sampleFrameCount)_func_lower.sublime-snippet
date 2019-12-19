@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSampleProvider.SampleFramesHandler(${1:Experimental.Audio.AudioSampleProvider provider}, ${2:uint sampleFrameCount})]]></content>
+	<tabTrigger><![CDATA[sampleFramesHandler]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AudioSampleProvider.*(provider, sampleFrameCount)]]></description>
+</snippet>

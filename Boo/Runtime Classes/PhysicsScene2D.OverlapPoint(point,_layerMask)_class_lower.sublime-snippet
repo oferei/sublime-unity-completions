@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.OverlapPoint(${1:point as Vector2}, ${2:layerMask as int = Physics2D.DefaultRaycastLayers})]]></content>
+	<tabTrigger><![CDATA[physicsScene2D.OverlapPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(point, layerMask)]]></description>
+</snippet>

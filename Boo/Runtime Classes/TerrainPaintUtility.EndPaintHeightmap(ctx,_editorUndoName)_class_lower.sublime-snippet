@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.EndPaintHeightmap(${1:ctx as Experimental.TerrainAPI.PaintContext}, ${2:editorUndoName as string})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtility.EndPaintHeightmap]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ctx, editorUndoName)]]></description>
+</snippet>

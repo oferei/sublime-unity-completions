@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.FrameSelected(${1:lockView as bool})]]></content>
+	<tabTrigger><![CDATA[FrameSelected]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SceneView.*(lockView)]]></description>
+</snippet>

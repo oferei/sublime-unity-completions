@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.LoadFromFileAsync(${1:string path}, ${2:uint crc = 0}, ${3:ulong offset = 0})]]></content>
+	<content><![CDATA[AssetBundle.LoadFromFileAsync(${1:string path}, ${2:uint crc}, ${3:ulong offset})]]></content>
 	<tabTrigger><![CDATA[LoadFromFileAsync]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[AssetBundle.*(path, crc, offset)]]></description>

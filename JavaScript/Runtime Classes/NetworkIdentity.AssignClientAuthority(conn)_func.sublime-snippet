@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkIdentity.AssignClientAuthority(${1:conn : Networking.NetworkConnection})]]></content>
-	<tabTrigger><![CDATA[AssignClientAuthority]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkIdentity.*(conn)]]></description>
-</snippet>

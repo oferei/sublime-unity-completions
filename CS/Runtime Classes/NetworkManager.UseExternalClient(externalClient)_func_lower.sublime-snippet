@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.UseExternalClient(${1:Networking.NetworkClient externalClient})]]></content>
-	<tabTrigger><![CDATA[useExternalClient]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkManager.*(externalClient)]]></description>
-</snippet>

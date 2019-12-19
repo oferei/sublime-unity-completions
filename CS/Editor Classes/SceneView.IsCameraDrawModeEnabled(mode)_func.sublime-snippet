@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.IsCameraDrawModeEnabled(${1:SceneView.CameraMode mode})]]></content>
+	<tabTrigger><![CDATA[IsCameraDrawModeEnabled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SceneView.*(mode)]]></description>
+</snippet>

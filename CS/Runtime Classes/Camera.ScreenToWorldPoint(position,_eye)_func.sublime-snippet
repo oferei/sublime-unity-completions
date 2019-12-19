@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.ScreenToWorldPoint(${1:Vector3 position}, ${2:Camera.MonoOrStereoscopicEye eye})]]></content>
+	<tabTrigger><![CDATA[ScreenToWorldPoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Camera.*(position, eye)]]></description>
+</snippet>

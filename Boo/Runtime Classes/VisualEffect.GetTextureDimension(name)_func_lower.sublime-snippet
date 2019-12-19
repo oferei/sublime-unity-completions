@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.GetTextureDimension(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[getTextureDimension]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualEffect.*(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Node.InstantiatePort(${1:namelessParam : Orientation}, ${2:namelessParam : Direction}, ${3:namelessParam : Type})]]></content>
+	<tabTrigger><![CDATA[Node.InstantiatePort]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

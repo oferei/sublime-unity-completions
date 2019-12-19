@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.GetPrefabObject(${1:Object targetObject})]]></content>
-	<tabTrigger><![CDATA[prefabUtility.GetPrefabObject]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(targetObject)]]></description>
-</snippet>

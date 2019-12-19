@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrailRenderer.SetPositions(${1:positions as (Vector3)})]]></content>
+	<tabTrigger><![CDATA[setPositions]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TrailRenderer.*(positions)]]></description>
+</snippet>

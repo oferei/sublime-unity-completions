@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CodeEditor.ParseArgument(${1:arguments : string}, ${2:path : string}, ${3:line : int}, ${4:column : int})]]></content>
+	<tabTrigger><![CDATA[ParseArgument]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CodeEditor.*(arguments, path, line, column)]]></description>
+</snippet>

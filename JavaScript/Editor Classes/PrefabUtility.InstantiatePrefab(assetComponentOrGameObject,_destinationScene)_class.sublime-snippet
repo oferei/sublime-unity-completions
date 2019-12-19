@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.InstantiatePrefab(${1:assetComponentOrGameObject : Object}, ${2:destinationScene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.InstantiatePrefab]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(assetComponentOrGameObject, destinationScene)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.GetTypeForObjects(${1:objectIDs : ObjectIdentifier[]})]]></content>
+	<tabTrigger><![CDATA[ContentBuildInterface.GetTypeForObjects]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(objectIDs)]]></description>
+</snippet>

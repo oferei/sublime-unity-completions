@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.EnumFlagsField(${1:Rect position}, ${2:GUIContent label}, ${3:Enum enumValue}, ${4:bool includeObsolete = false}, ${5:GUIStyle style = null})]]></content>
+	<tabTrigger><![CDATA[enumFlagsField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, label, enumValue, includeObsolete, style)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CapsulecastCommand(${1:p1 as Vector3}, ${2:p2 as Vector3}, ${3:radius as single}, ${4:direction as Vector3}, ${5:distance as single}, ${6:layerMask as int})]]></content>
+	<tabTrigger><![CDATA[capsulecastCommand]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(p1, p2, radius, direction, distance, layerMask)]]></description>
+</snippet>

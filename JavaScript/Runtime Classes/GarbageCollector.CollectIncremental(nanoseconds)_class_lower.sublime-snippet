@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GarbageCollector.CollectIncremental(${1:nanoseconds : ulong})]]></content>
+	<tabTrigger><![CDATA[garbageCollector.CollectIncremental]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nanoseconds)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StageUtility.IsGameObjectRenderedByCamera(${1:gameObject as GameObject}, ${2:camera as Camera})]]></content>
+	<tabTrigger><![CDATA[isGameObjectRenderedByCamera]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[StageUtility.*(gameObject, camera)]]></description>
+</snippet>

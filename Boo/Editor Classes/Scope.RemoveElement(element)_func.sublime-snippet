@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.RemoveElement(${1:element as Experimental.GraphView.GraphElement})]]></content>
+	<tabTrigger><![CDATA[RemoveElement]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Scope.*(element)]]></description>
+</snippet>

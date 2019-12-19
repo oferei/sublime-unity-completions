@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.Add(${1:identifier as string})]]></content>
+	<tabTrigger><![CDATA[Add]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Client.*(identifier)]]></description>
+</snippet>

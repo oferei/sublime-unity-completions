@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ListView.ScrollToItem(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[ListView.ScrollToItem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

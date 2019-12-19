@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AttachmentDescriptor.ConfigureResolveTarget(${1:target : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[ConfigureResolveTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AttachmentDescriptor.*(target)]]></description>
+</snippet>

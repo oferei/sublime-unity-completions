@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExternalForcesModule.RemoveInfluence(${1:field : ParticleSystemForceField})]]></content>
+	<tabTrigger><![CDATA[RemoveInfluence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ExternalForcesModule.*(field)]]></description>
+</snippet>

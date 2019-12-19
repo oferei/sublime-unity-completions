@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetPrecompiledAssemblyPaths(${1:precompiledAssemblySources : Compilation.CompilationPipeline.PrecompiledAssemblySources})]]></content>
+	<tabTrigger><![CDATA[CompilationPipeline.GetPrecompiledAssemblyPaths]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(precompiledAssemblySources)]]></description>
+</snippet>

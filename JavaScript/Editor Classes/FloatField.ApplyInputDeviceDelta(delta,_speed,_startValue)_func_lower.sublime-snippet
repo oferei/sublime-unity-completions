@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FloatField.ApplyInputDeviceDelta(${1:delta : Vector3}, ${2:speed : UIElements.DeltaSpeed}, ${3:startValue : float})]]></content>
+	<tabTrigger><![CDATA[applyInputDeviceDelta]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[FloatField.*(delta, speed, startValue)]]></description>
+</snippet>

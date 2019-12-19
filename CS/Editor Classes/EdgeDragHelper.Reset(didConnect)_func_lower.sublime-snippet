@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EdgeDragHelper.Reset(${1:bool didConnect})]]></content>
+	<tabTrigger><![CDATA[reset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EdgeDragHelper.*(didConnect)]]></description>
+</snippet>

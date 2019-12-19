@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullResults.GetShadowCasterBounds(${1:lightIndex as int}, ${2:outBounds as out Bounds})]]></content>
-	<tabTrigger><![CDATA[cullResults.GetShadowCasterBounds]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(lightIndex, outBounds)]]></description>
-</snippet>

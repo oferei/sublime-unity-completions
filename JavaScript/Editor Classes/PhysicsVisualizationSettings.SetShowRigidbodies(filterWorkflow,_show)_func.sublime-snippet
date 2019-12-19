@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.SetShowRigidbodies(${1:filterWorkflow : PhysicsVisualizationSettings.FilterWorkflow}, ${2:show : bool})]]></content>
-	<tabTrigger><![CDATA[SetShowRigidbodies]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[PhysicsVisualizationSettings.*(filterWorkflow, show)]]></description>
-</snippet>

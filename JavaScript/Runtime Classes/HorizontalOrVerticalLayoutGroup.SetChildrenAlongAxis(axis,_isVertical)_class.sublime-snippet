@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HorizontalOrVerticalLayoutGroup.SetChildrenAlongAxis(${1:axis : int}, ${2:isVertical : bool})]]></content>
-	<tabTrigger><![CDATA[HorizontalOrVerticalLayoutGroup.SetChildrenAlongAxis]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(axis, isVertical)]]></description>
-</snippet>

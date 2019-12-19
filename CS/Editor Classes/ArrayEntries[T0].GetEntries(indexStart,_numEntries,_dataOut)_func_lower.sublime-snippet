@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ArrayEntries<T0>.GetEntries(${1:uint indexStart}, ${2:uint numEntries}, ${3:ref T[] dataOut})]]></content>
+	<tabTrigger><![CDATA[getEntries]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ArrayEntries<T0>.*(indexStart, numEntries, dataOut)]]></description>
+</snippet>

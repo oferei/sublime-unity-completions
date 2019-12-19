@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MouseManipulator.CanStartManipulation(${1:e : UIElements.IMouseEvent})]]></content>
+	<tabTrigger><![CDATA[CanStartManipulation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MouseManipulator.*(e)]]></description>
+</snippet>

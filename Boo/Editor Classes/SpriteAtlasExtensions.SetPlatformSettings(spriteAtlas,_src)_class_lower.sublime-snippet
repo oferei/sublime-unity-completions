@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.SetPlatformSettings(${1:spriteAtlas as U2D.SpriteAtlas}, ${2:src as TextureImporterPlatformSettings})]]></content>
+	<tabTrigger><![CDATA[spriteAtlasExtensions.SetPlatformSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(spriteAtlas, src)]]></description>
+</snippet>

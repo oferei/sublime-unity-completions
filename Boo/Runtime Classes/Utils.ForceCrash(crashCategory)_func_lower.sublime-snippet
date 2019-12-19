@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Utils.ForceCrash(${1:crashCategory as Diagnostics.ForcedCrashCategory})]]></content>
+	<tabTrigger><![CDATA[forceCrash]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Utils.*(crashCategory)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WorldAnchor.OnTrackingChangedDelegate(${1:XR.WSA.WorldAnchor self}, ${2:bool located})]]></content>
-	<tabTrigger><![CDATA[WorldAnchor.OnTrackingChangedDelegate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(self, located)]]></description>
-</snippet>

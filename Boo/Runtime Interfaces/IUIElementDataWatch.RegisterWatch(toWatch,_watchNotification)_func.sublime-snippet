@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUIElementDataWatch.RegisterWatch(${1:toWatch as Object}, ${2:watchNotification as Action<Object>})]]></content>
-	<tabTrigger><![CDATA[RegisterWatch]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IUIElementDataWatch.*(toWatch, watchNotification)]]></description>
-</snippet>

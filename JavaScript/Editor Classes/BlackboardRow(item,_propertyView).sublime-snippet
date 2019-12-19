@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlackboardRow(${1:item : UIElements.VisualElement}, ${2:propertyView : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[BlackboardRow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(item, propertyView)]]></description>
+</snippet>

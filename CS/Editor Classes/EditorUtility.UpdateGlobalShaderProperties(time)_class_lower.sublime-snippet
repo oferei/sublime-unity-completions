@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.UpdateGlobalShaderProperties(${1:float time})]]></content>
+	<tabTrigger><![CDATA[editorUtility.UpdateGlobalShaderProperties]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(time)]]></description>
+</snippet>

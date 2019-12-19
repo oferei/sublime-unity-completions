@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerUtility.TilingSettingsUI(${1:terrainLayer as TerrainLayer})]]></content>
+	<tabTrigger><![CDATA[TilingSettingsUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainLayerUtility.*(terrainLayer)]]></description>
+</snippet>

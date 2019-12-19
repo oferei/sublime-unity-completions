@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.SetBool(${1:int nameID}, ${2:bool b})]]></content>
+	<tabTrigger><![CDATA[SetBool]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VFXEventAttribute.*(nameID, b)]]></description>
+</snippet>

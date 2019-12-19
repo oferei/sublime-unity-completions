@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FontEngine.TryGetGlyphWithUnicodeValue(${1:unicode : uint}, ${2:flags : TextCore.LowLevel.GlyphLoadFlags}, ${3:glyph : out TextCore.Glyph})]]></content>
+	<tabTrigger><![CDATA[TryGetGlyphWithUnicodeValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[FontEngine.*(unicode, flags, glyph)]]></description>
+</snippet>

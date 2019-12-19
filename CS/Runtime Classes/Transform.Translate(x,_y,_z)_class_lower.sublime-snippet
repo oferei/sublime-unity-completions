@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.Translate(${1:float x}, ${2:float y}, ${3:float z})]]></content>
+	<tabTrigger><![CDATA[transform.Translate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(x, y, z)]]></description>
+</snippet>

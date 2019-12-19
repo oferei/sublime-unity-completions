@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.InvokeHandler(${1:msgType : short}, ${2:reader : Networking.NetworkReader}, ${3:channelId : int})]]></content>
-	<tabTrigger><![CDATA[invokeHandler]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkConnection.*(msgType, reader, channelId)]]></description>
-</snippet>

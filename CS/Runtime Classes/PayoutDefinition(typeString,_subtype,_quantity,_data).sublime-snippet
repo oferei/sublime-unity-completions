@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PayoutDefinition(${1:string typeString}, ${2:string subtype}, ${3:double quantity}, ${4:string data})]]></content>
-	<tabTrigger><![CDATA[PayoutDefinition]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(typeString, subtype, quantity, data)]]></description>
-</snippet>

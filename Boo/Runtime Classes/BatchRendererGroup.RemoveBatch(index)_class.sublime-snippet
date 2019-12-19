@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.RemoveBatch(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[BatchRendererGroup.RemoveBatch]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

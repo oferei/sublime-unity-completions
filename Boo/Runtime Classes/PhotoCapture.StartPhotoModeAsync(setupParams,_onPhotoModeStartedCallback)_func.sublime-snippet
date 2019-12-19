@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PhotoCapture.StartPhotoModeAsync(${1:setupParams as XR.WSA.WebCam.CameraParameters}, ${2:onPhotoModeStartedCallback as XR.WSA.WebCam.PhotoCapture.OnPhotoModeStartedCallback})]]></content>
+	<content><![CDATA[PhotoCapture.StartPhotoModeAsync(${1:setupParams as Windows.WebCam.CameraParameters}, ${2:onPhotoModeStartedCallback as Windows.WebCam.PhotoCapture.OnPhotoModeStartedCallback})]]></content>
 	<tabTrigger><![CDATA[StartPhotoModeAsync]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[PhotoCapture.*(setupParams, onPhotoModeStartedCallback)]]></description>

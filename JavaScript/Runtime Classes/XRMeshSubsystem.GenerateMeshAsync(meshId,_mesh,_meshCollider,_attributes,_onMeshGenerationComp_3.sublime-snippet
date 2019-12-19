@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRMeshSubsystem.GenerateMeshAsync(${1:meshId : Experimental.XR.TrackableId}, ${2:mesh : Mesh}, ${3:meshCollider : MeshCollider}, ${4:attributes : Experimental.XR.MeshVertexAttributes}, ${5:onMeshGenerationComplete : Action<MeshGenerationResult>})]]></content>
+	<tabTrigger><![CDATA[GenerateMeshAsync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[XRMeshSubsystem.*(meshId, mesh, meshCollider, attributes, onMeshGenerationComplete)]]></description>
+</snippet>

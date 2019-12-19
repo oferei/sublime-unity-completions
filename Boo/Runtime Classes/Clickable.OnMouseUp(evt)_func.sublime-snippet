@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Clickable.OnMouseUp(${1:evt as UIElements.MouseUpEvent})]]></content>
+	<tabTrigger><![CDATA[OnMouseUp]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Clickable.*(evt)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.GetEdgesAndNeighbors(${1:node as Experimental.AI.PolygonId}, ${2:edgeVertices as NativeSlice<Vector3>}, ${3:neighbors as NativeSlice<PolygonId>}, ${4:edgeIndices as NativeSlice<byte>}, ${5:verticesCount as out int}, ${6:neighborsCount as out int})]]></content>
+	<tabTrigger><![CDATA[NavMeshQuery.GetEdgesAndNeighbors]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(node, edgeVertices, neighbors, edgeIndices, verticesCount, neighborsCount)]]></description>
+</snippet>

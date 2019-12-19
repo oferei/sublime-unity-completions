@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.SetBoneWeights(${1:NativeArray<byte> bonesPerVertex}, ${2:NativeArray<BoneWeight1> weights})]]></content>
+	<tabTrigger><![CDATA[setBoneWeights]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mesh.*(bonesPerVertex, weights)]]></description>
+</snippet>

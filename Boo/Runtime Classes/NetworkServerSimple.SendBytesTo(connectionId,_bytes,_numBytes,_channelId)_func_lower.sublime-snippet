@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.SendBytesTo(${1:connectionId as int}, ${2:bytes as (byte)}, ${3:numBytes as int}, ${4:channelId as int})]]></content>
-	<tabTrigger><![CDATA[sendBytesTo]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServerSimple.*(connectionId, bytes, numBytes, channelId)]]></description>
-</snippet>

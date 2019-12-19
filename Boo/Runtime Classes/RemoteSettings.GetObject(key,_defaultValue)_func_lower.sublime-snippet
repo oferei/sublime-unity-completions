@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetObject(${1:key as string}, ${2:defaultValue as object})]]></content>
+	<tabTrigger><![CDATA[getObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RemoteSettings.*(key, defaultValue)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableOutputExtensions.GetAnimationStreamSource(${1:output as Animations.AnimationPlayableOutput})]]></content>
+	<tabTrigger><![CDATA[GetAnimationStreamSource]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationPlayableOutputExtensions.*(output)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableRenderContext.SetupCameraProperties(${1:camera : Camera})]]></content>
-	<tabTrigger><![CDATA[SetupCameraProperties]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ScriptableRenderContext.*(camera)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BindingExtensions.BindProperty(${1:UIElements.IBindable field}, ${2:SerializedObject obj})]]></content>
+	<tabTrigger><![CDATA[bindingExtensions.BindProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(field, obj)]]></description>
+</snippet>

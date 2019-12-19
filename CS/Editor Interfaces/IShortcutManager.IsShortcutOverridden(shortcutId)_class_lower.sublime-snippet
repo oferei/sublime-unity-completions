@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.IsShortcutOverridden(${1:string shortcutId})]]></content>
+	<tabTrigger><![CDATA[iShortcutManager.IsShortcutOverridden]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(shortcutId)]]></description>
+</snippet>

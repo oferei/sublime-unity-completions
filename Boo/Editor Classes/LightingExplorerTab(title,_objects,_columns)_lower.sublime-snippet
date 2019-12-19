@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerTab(${1:title as string}, ${2:objects as Func<Object[]>}, ${3:columns as Func<LightingExplorerTableColumn[]>})]]></content>
+	<tabTrigger><![CDATA[lightingExplorerTab]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(title, objects, columns)]]></description>
+</snippet>

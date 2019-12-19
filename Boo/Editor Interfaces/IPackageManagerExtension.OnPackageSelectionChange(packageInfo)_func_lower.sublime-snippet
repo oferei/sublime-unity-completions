@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPackageManagerExtension.OnPackageSelectionChange(${1:packageInfo as PackageInfo})]]></content>
+	<tabTrigger><![CDATA[onPackageSelectionChange]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IPackageManagerExtension.*(packageInfo)]]></description>
+</snippet>

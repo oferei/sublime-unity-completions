@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Matrix4x4 matrix}, ${3:int materialIndex})]]></content>
-	<tabTrigger><![CDATA[graphics.DrawMesh]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(mesh, matrix, materialIndex)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorPrefs.GetBool(${1:key as string})]]></content>
+	<tabTrigger><![CDATA[EditorPrefs.GetBool]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

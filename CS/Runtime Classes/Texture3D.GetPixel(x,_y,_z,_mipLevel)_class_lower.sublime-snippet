@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture3D.GetPixel(${1:int x}, ${2:int y}, ${3:int z}, ${4:int mipLevel})]]></content>
+	<tabTrigger><![CDATA[texture3D.GetPixel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(x, y, z, mipLevel)]]></description>
+</snippet>

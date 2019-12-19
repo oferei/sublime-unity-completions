@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.DeleteSelectionOperation(${1:operationName as string}, ${2:askUser as Experimental.GraphView.GraphView.AskUser})]]></content>
+	<tabTrigger><![CDATA[graphView.DeleteSelectionOperation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(operationName, askUser)]]></description>
+</snippet>

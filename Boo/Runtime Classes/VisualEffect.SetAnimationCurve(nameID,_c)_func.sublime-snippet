@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetAnimationCurve(${1:nameID as int}, ${2:c as AnimationCurve})]]></content>
+	<tabTrigger><![CDATA[SetAnimationCurve]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualEffect.*(nameID, c)]]></description>
+</snippet>

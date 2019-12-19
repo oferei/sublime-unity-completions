@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorBuildSettings.RemoveConfigObject(${1:string name})]]></content>
+	<tabTrigger><![CDATA[RemoveConfigObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorBuildSettings.*(name)]]></description>
+</snippet>

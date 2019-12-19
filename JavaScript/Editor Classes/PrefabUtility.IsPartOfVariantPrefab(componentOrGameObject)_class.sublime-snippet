@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsPartOfVariantPrefab(${1:componentOrGameObject : Object})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.IsPartOfVariantPrefab]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(componentOrGameObject)]]></description>
+</snippet>

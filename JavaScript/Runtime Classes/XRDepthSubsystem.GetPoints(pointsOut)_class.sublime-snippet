@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRDepthSubsystem.GetPoints(${1:pointsOut : List<Vector3>})]]></content>
+	<tabTrigger><![CDATA[XRDepthSubsystem.GetPoints]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(pointsOut)]]></description>
+</snippet>

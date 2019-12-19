@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlatformIcon.SetTextures(${1:textures as params (Texture2D)})]]></content>
+	<tabTrigger><![CDATA[platformIcon.SetTextures]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(textures)]]></description>
+</snippet>

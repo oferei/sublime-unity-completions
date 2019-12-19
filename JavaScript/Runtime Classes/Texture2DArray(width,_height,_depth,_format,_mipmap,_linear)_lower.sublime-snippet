@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture2DArray(${1:width : int}, ${2:height : int}, ${3:depth : int}, ${4:format : TextureFormat}, ${5:mipmap : bool}, ${6:linear : bool})]]></content>
-	<tabTrigger><![CDATA[texture2DArray]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(width, height, depth, format, mipmap, linear)]]></description>
-</snippet>

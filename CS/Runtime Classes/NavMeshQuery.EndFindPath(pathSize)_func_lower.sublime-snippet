@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.EndFindPath(${1:out int pathSize})]]></content>
+	<tabTrigger><![CDATA[endFindPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshQuery.*(pathSize)]]></description>
+</snippet>

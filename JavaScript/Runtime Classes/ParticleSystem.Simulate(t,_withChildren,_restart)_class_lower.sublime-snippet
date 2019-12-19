@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystem.Simulate(${1:t : float}, ${2:withChildren : bool}, ${3:restart : bool})]]></content>
+	<tabTrigger><![CDATA[particleSystem.Simulate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(t, withChildren, restart)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.GetTemporaryRT(${1:int nameID}, ${2:RenderTextureDescriptor desc}, ${3:FilterMode filter = FilterMode.Point})]]></content>
+	<content><![CDATA[CommandBuffer.GetTemporaryRT(${1:int nameID}, ${2:RenderTextureDescriptor desc}, ${3:FilterMode filter})]]></content>
 	<tabTrigger><![CDATA[CommandBuffer.GetTemporaryRT]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(nameID, desc, filter)]]></description>

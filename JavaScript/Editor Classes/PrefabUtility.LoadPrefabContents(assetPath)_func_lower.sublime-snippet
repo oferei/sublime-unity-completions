@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.LoadPrefabContents(${1:assetPath : string})]]></content>
+	<tabTrigger><![CDATA[loadPrefabContents]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PrefabUtility.*(assetPath)]]></description>
+</snippet>

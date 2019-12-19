@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlLongAttributeDescription.GetValueFromBag(${1:bag as UIElements.IUxmlAttributes}, ${2:cc as UIElements.CreationContext})]]></content>
+	<tabTrigger><![CDATA[GetValueFromBag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UxmlLongAttributeDescription.*(bag, cc)]]></description>
+</snippet>

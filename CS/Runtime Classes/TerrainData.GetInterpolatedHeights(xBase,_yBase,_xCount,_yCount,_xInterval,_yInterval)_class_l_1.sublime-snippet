@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetInterpolatedHeights(${1:float xBase}, ${2:float yBase}, ${3:int xCount}, ${4:int yCount}, ${5:float xInterval}, ${6:float yInterval})]]></content>
+	<tabTrigger><![CDATA[terrainData.GetInterpolatedHeights]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(xBase, yBase, xCount, yCount, xInterval, yInterval)]]></description>
+</snippet>

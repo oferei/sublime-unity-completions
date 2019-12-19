@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VisualElement.OverwriteFromPersistedData(${1:obj : object}, ${2:key : string})]]></content>
-	<tabTrigger><![CDATA[OverwriteFromPersistedData]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[VisualElement.*(obj, key)]]></description>
-</snippet>

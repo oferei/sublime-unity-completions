@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LocationService.Start(${1:float desiredAccuracyInMeters = 10f}, ${2:float updateDistanceInMeters = 10f})]]></content>
+	<content><![CDATA[LocationService.Start(${1:float desiredAccuracyInMeters}, ${2:float updateDistanceInMeters})]]></content>
 	<tabTrigger><![CDATA[start]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[LocationService.*(desiredAccuracyInMeters, updateDistanceInMeters)]]></description>

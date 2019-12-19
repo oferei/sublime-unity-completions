@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CapsulecastCommand.ScheduleBatch(${1:NativeArray<CapsulecastCommand> commands}, ${2:NativeArray<RaycastHit> results}, ${3:int minCommandsPerJob}, ${4:Unity.Jobs.JobHandle dependsOn})]]></content>
+	<tabTrigger><![CDATA[capsulecastCommand.ScheduleBatch]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(commands, results, minCommandsPerJob, dependsOn)]]></description>
+</snippet>

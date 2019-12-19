@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectIdentifier.Equals(${1:obj : object})]]></content>
+	<tabTrigger><![CDATA[objectIdentifier.Equals]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IScriptableBakedReflectionSystemStageNotifier.EnterStage(${1:int stage}, ${2:string progressMessage}, ${3:float progress})]]></content>
+	<tabTrigger><![CDATA[EnterStage]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IScriptableBakedReflectionSystemStageNotifier.*(stage, progressMessage, progress)]]></description>
+</snippet>

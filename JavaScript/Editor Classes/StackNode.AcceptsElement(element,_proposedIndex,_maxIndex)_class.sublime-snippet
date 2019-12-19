@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.AcceptsElement(${1:element : Experimental.GraphView.GraphElement}, ${2:proposedIndex : ref int}, ${3:maxIndex : int})]]></content>
+	<tabTrigger><![CDATA[StackNode.AcceptsElement]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(element, proposedIndex, maxIndex)]]></description>
+</snippet>

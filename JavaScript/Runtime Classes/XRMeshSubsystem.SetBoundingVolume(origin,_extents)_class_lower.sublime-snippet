@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRMeshSubsystem.SetBoundingVolume(${1:origin : Vector3}, ${2:extents : Vector3})]]></content>
+	<tabTrigger><![CDATA[xRMeshSubsystem.SetBoundingVolume]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(origin, extents)]]></description>
+</snippet>

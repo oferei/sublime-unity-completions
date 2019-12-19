@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildReferenceMap.Equals(${1:obj as object})]]></content>
+	<tabTrigger><![CDATA[buildReferenceMap.Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

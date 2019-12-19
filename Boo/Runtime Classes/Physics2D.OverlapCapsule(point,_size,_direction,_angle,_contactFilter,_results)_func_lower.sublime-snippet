@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapCapsule(${1:point as Vector2}, ${2:size as Vector2}, ${3:direction as CapsuleDirection2D}, ${4:angle as single}, ${5:contactFilter as ContactFilter2D}, ${6:results as (Collider2D)})]]></content>
+	<content><![CDATA[Physics2D.OverlapCapsule(${1:point as Vector2}, ${2:size as Vector2}, ${3:direction as CapsuleDirection2D}, ${4:angle as single}, ${5:contactFilter as ContactFilter2D}, ${6:results as List<Collider2D>})]]></content>
 	<tabTrigger><![CDATA[overlapCapsule]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Physics2D.*(point, size, direction, angle, contactFilter, results)]]></description>

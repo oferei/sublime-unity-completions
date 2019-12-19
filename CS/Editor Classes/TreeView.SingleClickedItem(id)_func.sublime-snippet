@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.SingleClickedItem(${1:int id})]]></content>
+	<tabTrigger><![CDATA[SingleClickedItem]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TreeView.*(id)]]></description>
+</snippet>

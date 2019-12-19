@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DownloadHandler.ReceiveContentLength(${1:contentLength : int})]]></content>
-	<tabTrigger><![CDATA[receiveContentLength]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[DownloadHandler.*(contentLength)]]></description>
-</snippet>

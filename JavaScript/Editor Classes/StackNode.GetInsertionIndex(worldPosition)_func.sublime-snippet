@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.GetInsertionIndex(${1:worldPosition : Vector2})]]></content>
+	<tabTrigger><![CDATA[GetInsertionIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[StackNode.*(worldPosition)]]></description>
+</snippet>

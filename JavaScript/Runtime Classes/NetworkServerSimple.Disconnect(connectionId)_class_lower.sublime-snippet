@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.Disconnect(${1:connectionId : int})]]></content>
-	<tabTrigger><![CDATA[networkServerSimple.Disconnect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(connectionId)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.GetMatrix4x4(${1:int nameID})]]></content>
+	<tabTrigger><![CDATA[vFXEventAttribute.GetMatrix4x4]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkIdentity.RemoveClientAuthority(${1:conn as Networking.NetworkConnection})]]></content>
-	<tabTrigger><![CDATA[NetworkIdentity.RemoveClientAuthority]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(conn)]]></description>
-</snippet>

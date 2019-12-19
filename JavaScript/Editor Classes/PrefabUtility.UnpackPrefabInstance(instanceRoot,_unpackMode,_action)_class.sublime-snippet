@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.UnpackPrefabInstance(${1:instanceRoot : GameObject}, ${2:unpackMode : PrefabUnpackMode}, ${3:action : InteractionMode})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.UnpackPrefabInstance]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(instanceRoot, unpackMode, action)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.UpdateFindPath(${1:int iterations}, ${2:out int iterationsPerformed})]]></content>
+	<tabTrigger><![CDATA[updateFindPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshQuery.*(iterations, iterationsPerformed)]]></description>
+</snippet>

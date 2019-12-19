@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest(${1:Uri uri}, ${2:string method}, ${3:Networking.DownloadHandler downloadHandler}, ${4:Networking.UploadHandler uploadHandler})]]></content>
+	<tabTrigger><![CDATA[UnityWebRequest]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(uri, method, downloadHandler, uploadHandler)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.DirtyHeightmapRegion(${1:region as RectInt}, ${2:syncControl as TerrainHeightmapSyncControl})]]></content>
+	<tabTrigger><![CDATA[terrainData.DirtyHeightmapRegion]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(region, syncControl)]]></description>
+</snippet>

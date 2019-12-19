@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawRendererSettings.SetShaderPassName(${1:index : int}, ${2:shaderPassName : Experimental.Rendering.ShaderPassName})]]></content>
-	<tabTrigger><![CDATA[drawRendererSettings.SetShaderPassName]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(index, shaderPassName)]]></description>
-</snippet>

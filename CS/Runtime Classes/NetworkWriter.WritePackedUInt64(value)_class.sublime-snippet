@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkWriter.WritePackedUInt64(${1:ulong value})]]></content>
-	<tabTrigger><![CDATA[NetworkWriter.WritePackedUInt64]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value)]]></description>
-</snippet>

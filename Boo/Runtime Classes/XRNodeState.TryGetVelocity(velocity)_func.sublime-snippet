@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRNodeState.TryGetVelocity(${1:velocity as out Vector3})]]></content>
+	<tabTrigger><![CDATA[TryGetVelocity]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[XRNodeState.*(velocity)]]></description>
+</snippet>

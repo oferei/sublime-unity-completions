@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.GetBool(${1:int nameID})]]></content>
+	<tabTrigger><![CDATA[getBool]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VisualEffect.*(nameID)]]></description>
+</snippet>

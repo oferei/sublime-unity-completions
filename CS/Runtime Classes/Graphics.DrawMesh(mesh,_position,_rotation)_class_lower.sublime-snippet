@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:Mesh mesh}, ${2:Vector3 position}, ${3:Quaternion rotation})]]></content>
-	<tabTrigger><![CDATA[graphics.DrawMesh]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(mesh, position, rotation)]]></description>
-</snippet>

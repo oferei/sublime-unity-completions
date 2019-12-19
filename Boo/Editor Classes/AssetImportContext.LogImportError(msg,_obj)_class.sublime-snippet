@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetImportContext.LogImportError(${1:msg as string}, ${2:obj as Object})]]></content>
+	<tabTrigger><![CDATA[AssetImportContext.LogImportError]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(msg, obj)]]></description>
+</snippet>

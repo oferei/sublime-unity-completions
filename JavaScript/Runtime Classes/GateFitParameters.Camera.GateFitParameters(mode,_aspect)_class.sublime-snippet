@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GateFitParameters.Camera.GateFitParameters(${1:mode : Camera.GateFitMode}, ${2:aspect : float})]]></content>
+	<tabTrigger><![CDATA[GateFitParameters.Camera.GateFitParameters]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(mode, aspect)]]></description>
+</snippet>

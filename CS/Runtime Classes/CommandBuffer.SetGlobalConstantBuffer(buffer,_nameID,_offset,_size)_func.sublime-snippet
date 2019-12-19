@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalConstantBuffer(${1:ComputeBuffer buffer}, ${2:int nameID}, ${3:int offset}, ${4:int size})]]></content>
+	<tabTrigger><![CDATA[SetGlobalConstantBuffer]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(buffer, nameID, offset, size)]]></description>
+</snippet>

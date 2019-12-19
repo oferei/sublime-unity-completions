@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ReplayKit.ShowCameraPreviewAt(${1:float posX}, ${2:float posY}, ${3:float width}, ${4:float height})]]></content>
+	<tabTrigger><![CDATA[showCameraPreviewAt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ReplayKit.*(posX, posY, width, height)]]></description>
+</snippet>

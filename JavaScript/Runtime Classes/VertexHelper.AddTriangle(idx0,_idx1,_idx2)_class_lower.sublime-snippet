@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VertexHelper.AddTriangle(${1:idx0 : int}, ${2:idx1 : int}, ${3:idx2 : int})]]></content>
-	<tabTrigger><![CDATA[vertexHelper.AddTriangle]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(idx0, idx1, idx2)]]></description>
-</snippet>

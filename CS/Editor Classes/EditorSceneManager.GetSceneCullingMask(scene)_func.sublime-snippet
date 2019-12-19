@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.GetSceneCullingMask(${1:SceneManagement.Scene scene})]]></content>
+	<tabTrigger><![CDATA[GetSceneCullingMask]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(scene)]]></description>
+</snippet>

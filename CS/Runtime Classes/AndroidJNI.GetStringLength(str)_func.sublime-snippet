@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.GetStringLength(${1:IntPtr str})]]></content>
+	<tabTrigger><![CDATA[GetStringLength]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AndroidJNI.*(str)]]></description>
+</snippet>

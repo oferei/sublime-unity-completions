@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationPlayableBinding.Create(${1:name : string}, ${2:key : Object})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationPlayableBinding.*(name, key)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Advertisement.SetMetaData(${1:metaData : Advertisements.MetaData})]]></content>
-	<tabTrigger><![CDATA[setMetaData]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Advertisement.*(metaData)]]></description>
-</snippet>

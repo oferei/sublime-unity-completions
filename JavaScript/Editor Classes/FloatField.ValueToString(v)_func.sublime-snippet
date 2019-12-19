@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FloatField.ValueToString(${1:v : float})]]></content>
+	<tabTrigger><![CDATA[ValueToString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[FloatField.*(v)]]></description>
+</snippet>

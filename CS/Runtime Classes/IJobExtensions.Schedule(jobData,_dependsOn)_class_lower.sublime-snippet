@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobExtensions.Schedule(${1:T jobData}, ${2:Unity.Jobs.JobHandle dependsOn})]]></content>
+	<tabTrigger><![CDATA[iJobExtensions.Schedule]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(jobData, dependsOn)]]></description>
+</snippet>

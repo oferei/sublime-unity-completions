@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderKeywordSet.IsEnabled(${1:Rendering.ShaderKeyword keyword})]]></content>
+	<tabTrigger><![CDATA[shaderKeywordSet.IsEnabled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(keyword)]]></description>
+</snippet>

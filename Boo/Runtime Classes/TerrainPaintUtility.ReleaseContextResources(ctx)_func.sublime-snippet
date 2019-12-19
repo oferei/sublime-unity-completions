@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.ReleaseContextResources(${1:ctx as Experimental.TerrainAPI.PaintContext})]]></content>
+	<tabTrigger><![CDATA[ReleaseContextResources]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TerrainPaintUtility.*(ctx)]]></description>
+</snippet>

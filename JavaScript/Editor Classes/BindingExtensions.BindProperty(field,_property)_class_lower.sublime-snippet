@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BindingExtensions.BindProperty(${1:field : UIElements.IBindable}, ${2:property : SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[bindingExtensions.BindProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(field, property)]]></description>
+</snippet>

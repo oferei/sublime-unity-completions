@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BaseInputModule.DetermineMoveDirection(${1:x : float}, ${2:y : float}, ${3:deadZone : float})]]></content>
-	<tabTrigger><![CDATA[baseInputModule.DetermineMoveDirection]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(x, y, deadZone)]]></description>
-</snippet>

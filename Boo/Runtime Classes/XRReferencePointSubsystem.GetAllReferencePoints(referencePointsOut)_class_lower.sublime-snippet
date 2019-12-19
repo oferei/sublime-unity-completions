@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRReferencePointSubsystem.GetAllReferencePoints(${1:referencePointsOut as List<ReferencePoint>})]]></content>
+	<tabTrigger><![CDATA[xRReferencePointSubsystem.GetAllReferencePoints]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(referencePointsOut)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.SetMaxDelay(${1:seconds as single})]]></content>
-	<tabTrigger><![CDATA[SetMaxDelay]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkClient.*(seconds)]]></description>
-</snippet>

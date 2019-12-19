@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.ViewportPointToRay(${1:Vector3 pos}, ${2:Camera.MonoOrStereoscopicEye eye})]]></content>
+	<tabTrigger><![CDATA[viewportPointToRay]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Camera.*(pos, eye)]]></description>
+</snippet>

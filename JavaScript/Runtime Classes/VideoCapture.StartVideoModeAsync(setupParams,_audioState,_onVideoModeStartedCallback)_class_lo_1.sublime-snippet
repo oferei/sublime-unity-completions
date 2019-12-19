@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VideoCapture.StartVideoModeAsync(${1:setupParams : XR.WSA.WebCam.CameraParameters}, ${2:audioState : XR.WSA.WebCam.VideoCapture.AudioState}, ${3:onVideoModeStartedCallback : XR.WSA.WebCam.VideoCapture.OnVideoModeStartedCallback})]]></content>
+	<content><![CDATA[VideoCapture.StartVideoModeAsync(${1:setupParams : Windows.WebCam.CameraParameters}, ${2:audioState : Windows.WebCam.VideoCapture.AudioState}, ${3:onVideoModeStartedCallback : Windows.WebCam.VideoCapture.OnVideoModeStartedCallback})]]></content>
 	<tabTrigger><![CDATA[videoCapture.StartVideoModeAsync]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(setupParams, audioState, onVideoModeStartedCallback)]]></description>

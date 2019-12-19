@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StageHandle.Contains(${1:gameObject : GameObject})]]></content>
+	<tabTrigger><![CDATA[stageHandle.Contains]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(gameObject)]]></description>
+</snippet>

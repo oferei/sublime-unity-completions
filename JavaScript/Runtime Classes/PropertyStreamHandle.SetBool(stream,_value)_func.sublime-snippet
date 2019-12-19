@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyStreamHandle.SetBool(${1:stream : Experimental.Animations.AnimationStream}, ${2:value : bool})]]></content>
+	<tabTrigger><![CDATA[SetBool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PropertyStreamHandle.*(stream, value)]]></description>
+</snippet>

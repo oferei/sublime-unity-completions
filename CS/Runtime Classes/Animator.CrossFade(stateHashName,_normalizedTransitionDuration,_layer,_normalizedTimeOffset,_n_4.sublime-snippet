@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Animator.CrossFade(${1:int stateHashName}, ${2:float normalizedTransitionDuration}, ${3:int layer = -1}, ${4:float normalizedTimeOffset = float.NegativeInfinity}, ${5:float normalizedTransitionTime = 0.0f})]]></content>
+	<content><![CDATA[Animator.CrossFade(${1:int stateHashName}, ${2:float normalizedTransitionDuration}, ${3:int layer = -1}, ${4:float normalizedTimeOffset = 0.0f}, ${5:float normalizedTransitionTime = 0.0f})]]></content>
 	<tabTrigger><![CDATA[crossFade]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Animator.*(stateHashName, normalizedTransitionDuration, layer, normalizedTimeOffset, normalizedTransitionTime)]]></description>

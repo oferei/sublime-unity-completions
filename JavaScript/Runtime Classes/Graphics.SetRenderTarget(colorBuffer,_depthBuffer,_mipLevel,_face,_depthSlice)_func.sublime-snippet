@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffer : RenderBuffer}, ${2:depthBuffer : RenderBuffer}, ${3:mipLevel : int}, ${4:face : CubemapFace}, ${5:depthSlice : int})]]></content>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffer : RenderBuffer}, ${2:depthBuffer : RenderBuffer}, ${3:mipLevel : int = 0}, ${4:face : CubemapFace = CubemapFace.Unknown}, ${5:depthSlice : int = 0})]]></content>
 	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Graphics.*(colorBuffer, depthBuffer, mipLevel, face, depthSlice)]]></description>

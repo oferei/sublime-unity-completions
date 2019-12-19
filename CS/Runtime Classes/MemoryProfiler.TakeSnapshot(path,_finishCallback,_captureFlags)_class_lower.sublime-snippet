@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MemoryProfiler.TakeSnapshot(${1:string path}, ${2:Action<string,bool> finishCallback}, ${3:Profiling.Memory.Experimental.CaptureFlags captureFlags})]]></content>
+	<tabTrigger><![CDATA[memoryProfiler.TakeSnapshot]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(path, finishCallback, captureFlags)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.MoveLocation(${1:Experimental.AI.NavMeshLocation location}, ${2:Vector3 target}, ${3:int areaMask})]]></content>
+	<tabTrigger><![CDATA[navMeshQuery.MoveLocation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(location, target, areaMask)]]></description>
+</snippet>

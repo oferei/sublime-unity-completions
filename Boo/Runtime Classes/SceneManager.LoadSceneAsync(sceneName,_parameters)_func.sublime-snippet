@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.LoadSceneAsync(${1:sceneName as string}, ${2:parameters as SceneManagement.LoadSceneParameters})]]></content>
+	<tabTrigger><![CDATA[LoadSceneAsync]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SceneManager.*(sceneName, parameters)]]></description>
+</snippet>

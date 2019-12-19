@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProfilerMarker.Begin(${1:Object contextUnityObject})]]></content>
+	<tabTrigger><![CDATA[ProfilerMarker.Begin]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(contextUnityObject)]]></description>
+</snippet>

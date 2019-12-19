@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.HasItemChildren(${1:id : int})]]></content>
+	<tabTrigger><![CDATA[hasItemChildren]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HierarchyFrameDataView.*(id)]]></description>
+</snippet>

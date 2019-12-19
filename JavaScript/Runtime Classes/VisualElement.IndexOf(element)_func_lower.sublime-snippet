@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.IndexOf(${1:element : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[indexOf]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VisualElement.*(element)]]></description>
+</snippet>

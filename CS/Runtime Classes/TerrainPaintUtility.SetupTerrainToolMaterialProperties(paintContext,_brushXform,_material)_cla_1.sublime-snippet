@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.SetupTerrainToolMaterialProperties(${1:Experimental.TerrainAPI.PaintContext paintContext}, ${2:Experimental.TerrainAPI.BrushTransform brushXform}, ${3:Material material})]]></content>
+	<tabTrigger><![CDATA[TerrainPaintUtility.SetupTerrainToolMaterialProperties]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(paintContext, brushXform, material)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.PinGCObjectAndGetAddress(${1:object target}, ${2:out ulong gcHandle})]]></content>
+	<tabTrigger><![CDATA[pinGCObjectAndGetAddress]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnsafeUtility.*(target, gcHandle)]]></description>
+</snippet>

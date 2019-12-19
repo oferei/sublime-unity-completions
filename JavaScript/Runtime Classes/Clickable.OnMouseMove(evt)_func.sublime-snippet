@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Clickable.OnMouseMove(${1:evt : UIElements.MouseMoveEvent})]]></content>
+	<tabTrigger><![CDATA[OnMouseMove]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Clickable.*(evt)]]></description>
+</snippet>

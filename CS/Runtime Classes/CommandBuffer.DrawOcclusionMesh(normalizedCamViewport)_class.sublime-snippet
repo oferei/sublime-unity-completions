@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawOcclusionMesh(${1:RectInt normalizedCamViewport})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.DrawOcclusionMesh]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(normalizedCamViewport)]]></description>
+</snippet>

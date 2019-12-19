@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.GetFieldOffset(${1:field as FieldInfo})]]></content>
+	<tabTrigger><![CDATA[GetFieldOffset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UnsafeUtility.*(field)]]></description>
+</snippet>

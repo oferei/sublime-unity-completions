@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.CopyActiveRenderTextureToTexture(${1:textureName : string}, ${2:textureIndex : int}, ${3:sourceRect : RectInt}, ${4:dest : Vector2Int}, ${5:allowDelayedCPUSync : bool})]]></content>
+	<tabTrigger><![CDATA[CopyActiveRenderTextureToTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainData.*(textureName, textureIndex, sourceRect, dest, allowDelayedCPUSync)]]></description>
+</snippet>

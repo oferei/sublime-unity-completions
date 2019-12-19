@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRPlaneSubsystem.TryGetPlaneBoundary(${1:planeId as Experimental.XR.TrackableId}, ${2:boundaryOut as List<Vector3>})]]></content>
+	<tabTrigger><![CDATA[XRPlaneSubsystem.TryGetPlaneBoundary]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(planeId, boundaryOut)]]></description>
+</snippet>

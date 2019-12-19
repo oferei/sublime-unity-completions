@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetIl2CppCompilerConfiguration(${1:BuildTargetGroup targetGroup})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.GetIl2CppCompilerConfiguration]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targetGroup)]]></description>
+</snippet>

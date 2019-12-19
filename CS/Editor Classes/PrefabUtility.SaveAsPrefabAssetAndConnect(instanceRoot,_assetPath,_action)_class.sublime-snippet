@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.SaveAsPrefabAssetAndConnect(${1:GameObject instanceRoot}, ${2:string assetPath}, ${3:InteractionMode action})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.SaveAsPrefabAssetAndConnect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(instanceRoot, assetPath, action)]]></description>
+</snippet>

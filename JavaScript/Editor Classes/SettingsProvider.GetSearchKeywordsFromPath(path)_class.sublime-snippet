@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsProvider.GetSearchKeywordsFromPath(${1:path : string})]]></content>
+	<tabTrigger><![CDATA[SettingsProvider.GetSearchKeywordsFromPath]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutGroup.SetChildAlongAxis(${1:rect as RectTransform}, ${2:axis as int}, ${3:pos as single}, ${4:size as single})]]></content>
-	<tabTrigger><![CDATA[setChildAlongAxis]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[LayoutGroup.*(rect, axis, pos, size)]]></description>
-</snippet>

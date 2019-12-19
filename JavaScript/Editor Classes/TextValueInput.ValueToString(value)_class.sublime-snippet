@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextValueInput.ValueToString(${1:value : TValueType})]]></content>
+	<tabTrigger><![CDATA[TextValueInput.ValueToString]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

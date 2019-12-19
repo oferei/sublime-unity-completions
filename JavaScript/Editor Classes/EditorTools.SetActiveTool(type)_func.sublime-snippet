@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTools.SetActiveTool(${1:type : Type})]]></content>
+	<tabTrigger><![CDATA[SetActiveTool]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorTools.*(type)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AndroidJNI.NewWeakGlobalRef(${1:obj : IntPtr})]]></content>
+	<tabTrigger><![CDATA[androidJNI.NewWeakGlobalRef]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

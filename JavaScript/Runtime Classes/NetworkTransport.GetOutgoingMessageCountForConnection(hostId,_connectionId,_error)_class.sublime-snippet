@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetOutgoingMessageCountForConnection(${1:hostId : int}, ${2:connectionId : int}, ${3:error : out byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.GetOutgoingMessageCountForConnection]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(hostId, connectionId, error)]]></description>
-</snippet>

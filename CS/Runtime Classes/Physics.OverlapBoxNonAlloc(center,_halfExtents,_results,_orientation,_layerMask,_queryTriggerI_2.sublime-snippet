@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Physics.OverlapBoxNonAlloc(${1:Vector3 center}, ${2:Vector3 halfExtents}, ${3:Collider[] results}, ${4:Quaternion orientation = Quaternion.identity}, ${5:int layerMask = AllLayers}, ${6:QueryTriggerInteraction queryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
-	<tabTrigger><![CDATA[physics.OverlapBoxNonAlloc]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(center, halfExtents, results, orientation, layerMask, queryTriggerInteraction)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Utils.NativeWarning(${1:message as string})]]></content>
+	<tabTrigger><![CDATA[nativeWarning]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Utils.*(message)]]></description>
+</snippet>

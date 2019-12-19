@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteEditorExtension.GetSpriteID(${1:Sprite sprite})]]></content>
+	<tabTrigger><![CDATA[GetSpriteID]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SpriteEditorExtension.*(sprite)]]></description>
+</snippet>

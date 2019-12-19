@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FaceInfo.Compare(${1:other : TextCore.FaceInfo})]]></content>
+	<tabTrigger><![CDATA[faceInfo.Compare]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

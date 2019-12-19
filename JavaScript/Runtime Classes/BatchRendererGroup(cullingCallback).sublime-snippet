@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup(${1:cullingCallback : Rendering.BatchRendererGroup.OnPerformCulling})]]></content>
+	<tabTrigger><![CDATA[BatchRendererGroup]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(cullingCallback)]]></description>
+</snippet>

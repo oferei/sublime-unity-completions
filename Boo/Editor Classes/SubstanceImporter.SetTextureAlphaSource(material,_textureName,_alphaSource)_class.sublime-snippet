@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.SetTextureAlphaSource(${1:material as ProceduralMaterial}, ${2:textureName as string}, ${3:alphaSource as ProceduralOutputType})]]></content>
-	<tabTrigger><![CDATA[SubstanceImporter.SetTextureAlphaSource]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(material, textureName, alphaSource)]]></description>
-</snippet>

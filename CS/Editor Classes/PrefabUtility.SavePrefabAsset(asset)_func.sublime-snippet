@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.SavePrefabAsset(${1:GameObject asset})]]></content>
+	<tabTrigger><![CDATA[SavePrefabAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(asset)]]></description>
+</snippet>

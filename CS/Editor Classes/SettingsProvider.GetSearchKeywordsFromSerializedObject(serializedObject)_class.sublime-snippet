@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsProvider.GetSearchKeywordsFromSerializedObject(${1:SerializedObject serializedObject})]]></content>
+	<tabTrigger><![CDATA[SettingsProvider.GetSearchKeywordsFromSerializedObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(serializedObject)]]></description>
+</snippet>

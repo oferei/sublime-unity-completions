@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DoubleField.ValueToString(${1:v as double})]]></content>
+	<tabTrigger><![CDATA[doubleField.ValueToString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

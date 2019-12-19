@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.GameStart(${1:eventData as IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[gameStart]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnalyticsEvent.*(eventData)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteEditorExtension.SetSpriteID(${1:sprite as Sprite}, ${2:guid as GUID})]]></content>
+	<tabTrigger><![CDATA[SetSpriteID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SpriteEditorExtension.*(sprite, guid)]]></description>
+</snippet>

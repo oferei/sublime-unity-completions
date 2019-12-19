@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertySceneHandle.GetFloat(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[getFloat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PropertySceneHandle.*(stream)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Renderer.GetSharedMaterials(${1:m as List<Material>})]]></content>
+	<tabTrigger><![CDATA[GetSharedMaterials]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Renderer.*(m)]]></description>
+</snippet>

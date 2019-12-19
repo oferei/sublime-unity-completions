@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.TransformHandle(${1:ref Vector3 position}, ${2:ref Quaternion rotation})]]></content>
+	<tabTrigger><![CDATA[handles.TransformHandle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, rotation)]]></description>
+</snippet>

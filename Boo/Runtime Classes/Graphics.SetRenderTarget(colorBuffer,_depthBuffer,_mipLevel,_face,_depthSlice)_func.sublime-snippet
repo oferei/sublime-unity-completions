@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffer as RenderBuffer}, ${2:depthBuffer as RenderBuffer}, ${3:mipLevel as int}, ${4:face as CubemapFace}, ${5:depthSlice as int})]]></content>
+	<content><![CDATA[Graphics.SetRenderTarget(${1:colorBuffer as RenderBuffer}, ${2:depthBuffer as RenderBuffer}, ${3:mipLevel as int = 0}, ${4:face as CubemapFace = CubemapFace.Unknown}, ${5:depthSlice as int = 0})]]></content>
 	<tabTrigger><![CDATA[SetRenderTarget]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Graphics.*(colorBuffer, depthBuffer, mipLevel, face, depthSlice)]]></description>

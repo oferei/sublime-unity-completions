@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.Flip(${1:flip : GridBrushBase.FlipAxis}, ${2:layout : GridLayout.CellLayout})]]></content>
-	<tabTrigger><![CDATA[gridBrush.Flip]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(flip, layout)]]></description>
-</snippet>

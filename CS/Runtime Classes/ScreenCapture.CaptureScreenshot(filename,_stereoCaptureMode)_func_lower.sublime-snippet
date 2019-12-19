@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScreenCapture.CaptureScreenshot(${1:string filename}, ${2:ScreenCapture.StereoScreenCaptureMode stereoCaptureMode})]]></content>
+	<tabTrigger><![CDATA[captureScreenshot]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScreenCapture.*(filename, stereoCaptureMode)]]></description>
+</snippet>

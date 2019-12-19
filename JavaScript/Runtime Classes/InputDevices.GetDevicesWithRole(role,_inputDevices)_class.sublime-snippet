@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputDevices.GetDevicesWithRole(${1:role : XR.InputDeviceRole}, ${2:inputDevices : List<InputDevice>})]]></content>
+	<tabTrigger><![CDATA[InputDevices.GetDevicesWithRole]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(role, inputDevices)]]></description>
+</snippet>

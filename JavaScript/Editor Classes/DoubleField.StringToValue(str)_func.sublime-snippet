@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DoubleField.StringToValue(${1:str : string})]]></content>
+	<tabTrigger><![CDATA[StringToValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DoubleField.*(str)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.GetTerrain(${1:terrainIndex as int})]]></content>
+	<tabTrigger><![CDATA[paintContext.GetTerrain]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(terrainIndex)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Rigidbody2D.OverlapCollider(${1:ContactFilter2D contactFilter}, ${2:Collider2D[] results})]]></content>
+	<content><![CDATA[Rigidbody2D.OverlapCollider(${1:ContactFilter2D contactFilter}, ${2:List<Collider2D> results})]]></content>
 	<tabTrigger><![CDATA[Rigidbody2D.OverlapCollider]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(contactFilter, results)]]></description>

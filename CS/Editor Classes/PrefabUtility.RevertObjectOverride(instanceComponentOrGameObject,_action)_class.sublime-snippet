@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.RevertObjectOverride(${1:Object instanceComponentOrGameObject}, ${2:InteractionMode action})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.RevertObjectOverride]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(instanceComponentOrGameObject, action)]]></description>
+</snippet>

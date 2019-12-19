@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlFactory<T0,T1>.AcceptsAttributeBag(${1:bag as IUxmlAttributes})]]></content>
+	<tabTrigger><![CDATA[uxmlFactory<T0,T1>.AcceptsAttributeBag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(bag)]]></description>
+</snippet>

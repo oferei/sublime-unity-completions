@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProcedural(${1:material : Material}, ${2:bounds : Bounds}, ${3:topology : MeshTopology}, ${4:vertexCount : int}, ${5:instanceCount : int}, ${6:camera : Camera}, ${7:properties : MaterialPropertyBlock}, ${8:castShadows : Rendering.ShadowCastingMode}, ${9:receiveShadows : bool}, ${10:layer : int})]]></content>
+	<tabTrigger><![CDATA[drawProcedural]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(material, bounds, topology, vertexCount, instanceCount, camera, properties, castShadows, receiveShadows, layer)]]></description>
+</snippet>

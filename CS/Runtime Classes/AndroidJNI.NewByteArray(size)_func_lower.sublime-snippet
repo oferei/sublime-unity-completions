@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNI.NewByteArray(${1:int size})]]></content>
-	<tabTrigger><![CDATA[newByteArray]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AndroidJNI.*(size)]]></description>
-</snippet>

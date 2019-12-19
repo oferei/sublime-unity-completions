@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetBinding(${1:colorRenderTargets as (RenderTargetIdentifier)}, ${2:colorLoadActions as (RenderBufferLoadAction)}, ${3:colorStoreActions as (RenderBufferStoreAction)}, ${4:depthRenderTarget as Rendering.RenderTargetIdentifier}, ${5:depthLoadAction as Rendering.RenderBufferLoadAction}, ${6:depthStoreAction as Rendering.RenderBufferStoreAction})]]></content>
+	<tabTrigger><![CDATA[RenderTargetBinding]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(colorRenderTargets, colorLoadActions, colorStoreActions, depthRenderTarget, depthLoadAction, depthStoreAction)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetPrefabAssetPathOfNearestInstanceRoot(${1:instanceComponentOrGameObject : Object})]]></content>
+	<tabTrigger><![CDATA[GetPrefabAssetPathOfNearestInstanceRoot]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PrefabUtility.*(instanceComponentOrGameObject)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackedMemorySnapshot.Convert(${1:snapshot : Profiling.Memory.Experimental.PackedMemorySnapshot}, ${2:writePath : string})]]></content>
+	<tabTrigger><![CDATA[convert]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PackedMemorySnapshot.*(snapshot, writePath)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.UnregisterHandler(${1:msgType as short})]]></content>
-	<tabTrigger><![CDATA[UnregisterHandler]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(msgType)]]></description>
-</snippet>

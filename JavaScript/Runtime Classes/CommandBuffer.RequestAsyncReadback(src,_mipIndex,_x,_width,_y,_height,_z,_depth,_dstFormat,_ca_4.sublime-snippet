@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.RequestAsyncReadback(${1:src : Texture}, ${2:mipIndex : int}, ${3:x : int}, ${4:width : int}, ${5:y : int}, ${6:height : int}, ${7:z : int}, ${8:depth : int}, ${9:dstFormat : TextureFormat}, ${10:callback : Action<AsyncGPUReadbackRequest>})]]></content>
+	<tabTrigger><![CDATA[requestAsyncReadback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(src, mipIndex, x, width, y, height, z, depth, dstFormat, callback)]]></description>
+</snippet>

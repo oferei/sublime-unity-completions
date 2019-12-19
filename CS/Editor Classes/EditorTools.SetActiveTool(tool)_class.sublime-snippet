@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTools.SetActiveTool(${1:EditorTools.EditorTool tool})]]></content>
+	<tabTrigger><![CDATA[EditorTools.SetActiveTool]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(tool)]]></description>
+</snippet>

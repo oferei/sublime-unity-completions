@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Packer.RebuildAtlasCacheIfNeeded(${1:BuildTarget target}, ${2:bool displayProgressBar = false}, ${3:Sprites.Packer.Execution execution = Execution.Normal})]]></content>
+	<content><![CDATA[Packer.RebuildAtlasCacheIfNeeded(${1:BuildTarget target}, ${2:bool displayProgressBar}, ${3:Sprites.Packer.Execution execution})]]></content>
 	<tabTrigger><![CDATA[rebuildAtlasCacheIfNeeded]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[Packer.*(target, displayProgressBar, execution)]]></description>

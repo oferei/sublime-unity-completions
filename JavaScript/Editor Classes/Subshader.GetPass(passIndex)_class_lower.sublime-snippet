@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Subshader.GetPass(${1:passIndex : int})]]></content>
+	<tabTrigger><![CDATA[subshader.GetPass]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(passIndex)]]></description>
+</snippet>

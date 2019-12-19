@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuildUsageTagSet.GetObjectData(${1:Build.Content.SerializationInfo info}, ${2:StreamingContext context})]]></content>
+	<tabTrigger><![CDATA[GetObjectData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[BuildUsageTagSet.*(info, context)]]></description>
+</snippet>

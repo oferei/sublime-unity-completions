@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TimelineAsset.CreateTrack(${1:parent : Timeline.TrackAsset}, ${2:name : string})]]></content>
-	<tabTrigger><![CDATA[TimelineAsset.CreateTrack]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(parent, name)]]></description>
-</snippet>

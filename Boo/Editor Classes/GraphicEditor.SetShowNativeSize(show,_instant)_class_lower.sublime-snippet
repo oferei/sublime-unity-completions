@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GraphicEditor.SetShowNativeSize(${1:show as bool}, ${2:instant as bool})]]></content>
-	<tabTrigger><![CDATA[graphicEditor.SetShowNativeSize]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(show, instant)]]></description>
-</snippet>

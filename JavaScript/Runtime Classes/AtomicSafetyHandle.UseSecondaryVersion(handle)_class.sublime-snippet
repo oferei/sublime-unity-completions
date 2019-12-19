@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.UseSecondaryVersion(${1:handle : ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle})]]></content>
+	<tabTrigger><![CDATA[AtomicSafetyHandle.UseSecondaryVersion]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(handle)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystemRenderer.BakeTrailsMesh(${1:mesh as Mesh}, ${2:camera as Camera}, ${3:useTransform as bool})]]></content>
+	<tabTrigger><![CDATA[bakeTrailsMesh]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ParticleSystemRenderer.*(mesh, camera, useTransform)]]></description>
+</snippet>

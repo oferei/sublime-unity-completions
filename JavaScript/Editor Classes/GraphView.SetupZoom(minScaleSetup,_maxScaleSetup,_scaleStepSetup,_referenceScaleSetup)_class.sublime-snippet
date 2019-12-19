@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.SetupZoom(${1:minScaleSetup : float}, ${2:maxScaleSetup : float}, ${3:scaleStepSetup : float}, ${4:referenceScaleSetup : float})]]></content>
+	<tabTrigger><![CDATA[GraphView.SetupZoom]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(minScaleSetup, maxScaleSetup, scaleStepSetup, referenceScaleSetup)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.GetItemMergedSamplesInstanceID(${1:id as int}, ${2:outInstanceIds as List<int>})]]></content>
+	<tabTrigger><![CDATA[getItemMergedSamplesInstanceID]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HierarchyFrameDataView.*(id, outInstanceIds)]]></description>
+</snippet>

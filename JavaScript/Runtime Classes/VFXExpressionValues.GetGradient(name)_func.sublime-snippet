@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetGradient(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[GetGradient]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VFXExpressionValues.*(name)]]></description>
+</snippet>

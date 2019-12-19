@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderMessage(${1:msg as string}, ${2:sev as Rendering.ShaderCompilerMessageSeverity})]]></content>
+	<tabTrigger><![CDATA[shaderMessage]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(msg, sev)]]></description>
+</snippet>

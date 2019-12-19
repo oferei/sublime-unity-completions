@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.ApplyPropertyOverride(${1:instanceProperty : SerializedProperty}, ${2:assetPath : string}, ${3:action : InteractionMode})]]></content>
+	<tabTrigger><![CDATA[ApplyPropertyOverride]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PrefabUtility.*(instanceProperty, assetPath, action)]]></description>
+</snippet>

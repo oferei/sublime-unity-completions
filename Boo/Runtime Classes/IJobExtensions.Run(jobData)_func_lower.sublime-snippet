@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobExtensions.Run(${1:jobData as T})]]></content>
+	<tabTrigger><![CDATA[run]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IJobExtensions.*(jobData)]]></description>
+</snippet>

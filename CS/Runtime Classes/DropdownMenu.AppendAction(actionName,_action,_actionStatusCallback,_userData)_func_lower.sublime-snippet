@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.AppendAction(${1:string actionName}, ${2:Action<DropdownMenuAction> action}, ${3:Func<DropdownMenuAction,Status> actionStatusCallback}, ${4:object userData})]]></content>
+	<tabTrigger><![CDATA[appendAction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DropdownMenu.*(actionName, action, actionStatusCallback, userData)]]></description>
+</snippet>

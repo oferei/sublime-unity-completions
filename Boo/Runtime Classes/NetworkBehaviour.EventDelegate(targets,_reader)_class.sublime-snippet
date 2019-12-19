@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.EventDelegate(${1:targets as List<Delegate>}, ${2:reader as Networking.NetworkReader})]]></content>
-	<tabTrigger><![CDATA[NetworkBehaviour.EventDelegate]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(targets, reader)]]></description>
-</snippet>

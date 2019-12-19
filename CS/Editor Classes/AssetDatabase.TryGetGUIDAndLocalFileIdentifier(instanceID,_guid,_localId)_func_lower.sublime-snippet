@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.TryGetGUIDAndLocalFileIdentifier(${1:int instanceID}, ${2:out string guid}, ${3:out long localId})]]></content>
+	<tabTrigger><![CDATA[tryGetGUIDAndLocalFileIdentifier]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(instanceID, guid, localId)]]></description>
+</snippet>

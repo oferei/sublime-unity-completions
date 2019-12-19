@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.AlignRectToDevice(${1:rect : Rect})]]></content>
+	<tabTrigger><![CDATA[AlignRectToDevice]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GUIUtility.*(rect)]]></description>
+</snippet>

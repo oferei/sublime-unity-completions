@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsDisconnectedFromPrefabAsset(${1:componentOrGameObject as Object})]]></content>
+	<tabTrigger><![CDATA[isDisconnectedFromPrefabAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(componentOrGameObject)]]></description>
+</snippet>

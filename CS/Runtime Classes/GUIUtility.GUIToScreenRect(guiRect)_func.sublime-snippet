@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.GUIToScreenRect(${1:Rect guiRect})]]></content>
+	<tabTrigger><![CDATA[GUIToScreenRect]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GUIUtility.*(guiRect)]]></description>
+</snippet>

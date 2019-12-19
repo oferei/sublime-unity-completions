@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParticleSystemRenderer.BakeMesh(${1:mesh : Mesh}, ${2:useTransform : bool})]]></content>
+	<tabTrigger><![CDATA[ParticleSystemRenderer.BakeMesh]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(mesh, useTransform)]]></description>
+</snippet>

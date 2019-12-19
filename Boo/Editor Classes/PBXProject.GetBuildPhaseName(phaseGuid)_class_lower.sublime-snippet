@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetBuildPhaseName(${1:phaseGuid as string})]]></content>
+	<tabTrigger><![CDATA[pBXProject.GetBuildPhaseName]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(phaseGuid)]]></description>
+</snippet>

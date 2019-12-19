@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IEdgeConnectorListener.OnDropOutsidePort(${1:RectTransform.Edge edge}, ${2:Vector2 position})]]></content>
+	<tabTrigger><![CDATA[OnDropOutsidePort]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IEdgeConnectorListener.*(edge, position)]]></description>
+</snippet>

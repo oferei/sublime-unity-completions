@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetInt(${1:name as string}, ${2:i as int})]]></content>
+	<tabTrigger><![CDATA[SetInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualEffect.*(name, i)]]></description>
+</snippet>

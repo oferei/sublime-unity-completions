@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.GetItemAncestors(${1:id as int}, ${2:outAncestors as List<int>})]]></content>
+	<tabTrigger><![CDATA[HierarchyFrameDataView.GetItemAncestors]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(id, outAncestors)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUxmlAttributes.GetPropertyLong(${1:propertyName as string}, ${2:defaultValue as long})]]></content>
-	<tabTrigger><![CDATA[getPropertyLong]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IUxmlAttributes.*(propertyName, defaultValue)]]></description>
-</snippet>

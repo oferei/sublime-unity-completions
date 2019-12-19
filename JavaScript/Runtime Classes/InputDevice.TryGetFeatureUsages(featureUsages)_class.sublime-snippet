@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputDevice.TryGetFeatureUsages(${1:featureUsages : List<InputFeatureUsage>})]]></content>
+	<tabTrigger><![CDATA[InputDevice.TryGetFeatureUsages]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(featureUsages)]]></description>
+</snippet>

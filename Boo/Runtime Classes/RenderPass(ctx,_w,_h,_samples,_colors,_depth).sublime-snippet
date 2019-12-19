@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RenderPass(${1:ctx as Experimental.Rendering.ScriptableRenderContext}, ${2:w as int}, ${3:h as int}, ${4:samples as int}, ${5:colors as (RenderPassAttachment)}, ${6:depth as Experimental.Rendering.RenderPassAttachment})]]></content>
-	<tabTrigger><![CDATA[RenderPass]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(ctx, w, h, samples, colors, depth)]]></description>
-</snippet>

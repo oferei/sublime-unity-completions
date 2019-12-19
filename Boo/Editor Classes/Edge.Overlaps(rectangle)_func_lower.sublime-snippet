@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Edge.Overlaps(${1:rectangle as Rect})]]></content>
+	<tabTrigger><![CDATA[overlaps]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Edge.*(rectangle)]]></description>
+</snippet>

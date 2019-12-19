@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[RenderStateBlock(${1:Experimental.Rendering.RenderStateMask mask})]]></content>
+	<content><![CDATA[RenderStateBlock(${1:Rendering.RenderStateMask mask})]]></content>
 	<tabTrigger><![CDATA[RenderStateBlock]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(mask)]]></description>

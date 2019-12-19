@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetAnimationCurve(${1:name : string}, ${2:c : AnimationCurve})]]></content>
+	<tabTrigger><![CDATA[VisualEffect.SetAnimationCurve]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name, c)]]></description>
+</snippet>

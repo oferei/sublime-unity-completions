@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Cubemap.CreateExternalTexture(${1:size : int}, ${2:format : TextureFormat}, ${3:mipmap : bool}, ${4:nativeTex : IntPtr})]]></content>
-	<tabTrigger><![CDATA[CreateExternalTexture]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Cubemap.*(size, format, mipmap, nativeTex)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetUInt(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[vFXExpressionValues.GetUInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

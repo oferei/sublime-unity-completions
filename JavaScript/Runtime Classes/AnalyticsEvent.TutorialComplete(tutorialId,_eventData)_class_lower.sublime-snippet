@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.TutorialComplete(${1:tutorialId : string}, ${2:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.TutorialComplete]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(tutorialId, eventData)]]></description>
-</snippet>

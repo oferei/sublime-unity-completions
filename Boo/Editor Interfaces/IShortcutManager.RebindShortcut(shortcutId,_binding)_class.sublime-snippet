@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.RebindShortcut(${1:shortcutId as string}, ${2:binding as ShortcutManagement.ShortcutBinding})]]></content>
+	<tabTrigger><![CDATA[IShortcutManager.RebindShortcut]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shortcutId, binding)]]></description>
+</snippet>

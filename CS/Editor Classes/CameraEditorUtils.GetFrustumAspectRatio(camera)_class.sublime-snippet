@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraEditorUtils.GetFrustumAspectRatio(${1:Camera camera})]]></content>
+	<tabTrigger><![CDATA[CameraEditorUtils.GetFrustumAspectRatio]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(camera)]]></description>
+</snippet>

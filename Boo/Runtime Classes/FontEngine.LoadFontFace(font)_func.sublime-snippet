@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FontEngine.LoadFontFace(${1:font as Font})]]></content>
+	<tabTrigger><![CDATA[LoadFontFace]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[FontEngine.*(font)]]></description>
+</snippet>

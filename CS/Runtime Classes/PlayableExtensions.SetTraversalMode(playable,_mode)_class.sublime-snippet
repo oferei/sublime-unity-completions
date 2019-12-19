@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableExtensions.SetTraversalMode(${1:U playable}, ${2:Playables.PlayableTraversalMode mode})]]></content>
+	<tabTrigger><![CDATA[PlayableExtensions.SetTraversalMode]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(playable, mode)]]></description>
+</snippet>

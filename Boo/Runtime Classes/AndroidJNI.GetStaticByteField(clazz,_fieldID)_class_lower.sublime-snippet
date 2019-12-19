@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AndroidJNI.GetStaticByteField(${1:clazz as IntPtr}, ${2:fieldID as IntPtr})]]></content>
-	<tabTrigger><![CDATA[androidJNI.GetStaticByteField]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(clazz, fieldID)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.TryGetAverageColorTemperature(${1:averageColorTemperature as ref single})]]></content>
+	<tabTrigger><![CDATA[XRCameraSubsystem.TryGetAverageColorTemperature]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(averageColorTemperature)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorCurveBinding.FloatCurve(${1:string inPath}, ${2:Type inType}, ${3:string inPropertyName})]]></content>
+	<tabTrigger><![CDATA[FloatCurve]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorCurveBinding.*(inPath, inType, inPropertyName)]]></description>
+</snippet>

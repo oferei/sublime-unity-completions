@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.GetInt(${1:string name})]]></content>
+	<tabTrigger><![CDATA[getInt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialPropertyBlock.*(name)]]></description>
+</snippet>

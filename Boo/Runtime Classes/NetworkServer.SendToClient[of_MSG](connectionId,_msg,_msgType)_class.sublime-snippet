@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendToClient[of ${1:MSG}](${2:connectionId as int}, ${3:msg as short}, ${4:msgType as MSG})]]></content>
-	<tabTrigger><![CDATA[NetworkServer.SendToClient]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*[of MSG](connectionId, msg, msgType)]]></description>
-</snippet>

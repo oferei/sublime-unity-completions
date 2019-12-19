@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.GetFrameMetaDataCount(${1:id as Guid}, ${2:tag as int})]]></content>
+	<tabTrigger><![CDATA[getFrameMetaDataCount]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[HierarchyFrameDataView.*(id, tag)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransform.ClientMoveCallback2D(${1:position as ref Vector2}, ${2:velocity as ref Vector2}, ${3:rotation as ref single})]]></content>
-	<tabTrigger><![CDATA[ClientMoveCallback2D]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkTransform.*(position, velocity, rotation)]]></description>
-</snippet>

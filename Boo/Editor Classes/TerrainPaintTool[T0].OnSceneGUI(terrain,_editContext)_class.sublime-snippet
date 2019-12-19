@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintTool<T0>.OnSceneGUI(${1:terrain as Terrain}, ${2:editContext as Experimental.TerrainAPI.IOnSceneGUI})]]></content>
+	<tabTrigger><![CDATA[TerrainPaintTool<T0>.OnSceneGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(terrain, editContext)]]></description>
+</snippet>

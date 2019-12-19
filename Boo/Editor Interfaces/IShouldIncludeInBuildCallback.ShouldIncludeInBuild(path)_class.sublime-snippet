@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShouldIncludeInBuildCallback.ShouldIncludeInBuild(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[IShouldIncludeInBuildCallback.ShouldIncludeInBuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(path)]]></description>
+</snippet>

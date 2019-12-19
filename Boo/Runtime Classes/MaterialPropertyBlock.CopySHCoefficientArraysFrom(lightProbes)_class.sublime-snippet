@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.CopySHCoefficientArraysFrom(${1:lightProbes as (SphericalHarmonicsL2)})]]></content>
+	<tabTrigger><![CDATA[MaterialPropertyBlock.CopySHCoefficientArraysFrom]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(lightProbes)]]></description>
+</snippet>

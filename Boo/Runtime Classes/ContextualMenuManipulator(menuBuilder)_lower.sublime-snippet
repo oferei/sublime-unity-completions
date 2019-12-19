@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContextualMenuManipulator(${1:menuBuilder as Action<ContextualMenuPopulateEvent>})]]></content>
+	<tabTrigger><![CDATA[contextualMenuManipulator]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(menuBuilder)]]></description>
+</snippet>

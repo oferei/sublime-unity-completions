@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphElement.OnCustomStyleResolved(${1:style : UIElements.ICustomStyle})]]></content>
+	<tabTrigger><![CDATA[graphElement.OnCustomStyleResolved]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(style)]]></description>
+</snippet>

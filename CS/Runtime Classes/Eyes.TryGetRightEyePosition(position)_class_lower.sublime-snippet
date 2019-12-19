@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Eyes.TryGetRightEyePosition(${1:out Vector3 position})]]></content>
+	<tabTrigger><![CDATA[eyes.TryGetRightEyePosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position)]]></description>
+</snippet>

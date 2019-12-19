@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetPlatformIcons(${1:platform as BuildTargetGroup}, ${2:kind as PlatformIconKind})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.GetPlatformIcons]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(platform, kind)]]></description>
+</snippet>

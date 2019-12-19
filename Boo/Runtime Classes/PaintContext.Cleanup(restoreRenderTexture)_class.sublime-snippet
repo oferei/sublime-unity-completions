@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.Cleanup(${1:restoreRenderTexture as bool})]]></content>
+	<tabTrigger><![CDATA[PaintContext.Cleanup]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(restoreRenderTexture)]]></description>
+</snippet>

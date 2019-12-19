@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LinearColor.Convert(${1:color : Color}, ${2:intensity : float})]]></content>
+	<tabTrigger><![CDATA[linearColor.Convert]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(color, intensity)]]></description>
+</snippet>

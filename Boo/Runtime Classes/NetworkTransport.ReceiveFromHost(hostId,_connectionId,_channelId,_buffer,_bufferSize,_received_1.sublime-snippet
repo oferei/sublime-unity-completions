@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.ReceiveFromHost(${1:hostId as int}, ${2:connectionId as out int}, ${3:channelId as out int}, ${4:buffer as (byte)}, ${5:bufferSize as int}, ${6:receivedSize as out int}, ${7:error as out byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.ReceiveFromHost]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(hostId, connectionId, channelId, buffer, bufferSize, receivedSize, error)]]></description>
-</snippet>

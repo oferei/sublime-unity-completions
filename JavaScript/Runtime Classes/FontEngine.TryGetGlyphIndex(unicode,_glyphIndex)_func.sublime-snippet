@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FontEngine.TryGetGlyphIndex(${1:unicode : uint}, ${2:glyphIndex : out uint})]]></content>
+	<tabTrigger><![CDATA[TryGetGlyphIndex]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[FontEngine.*(unicode, glyphIndex)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.CalculateProjectionMatrixFromPhysicalProperties(${1:Matrix4x4 namelessParam}, ${2:float namelessParam}, ${3:Vector2 namelessParam}, ${4:Vector2 namelessParam}, ${5:GateFitParameters namelessParam})]]></content>
+	<tabTrigger><![CDATA[camera.CalculateProjectionMatrixFromPhysicalProperties]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam, namelessParam, namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

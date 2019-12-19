@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.GetPlayerDependenciesForObject(${1:objectID : Build.Content.ObjectIdentifier}, ${2:target : BuildTarget}, ${3:typeDB : Build.Player.TypeDB})]]></content>
+	<tabTrigger><![CDATA[contentBuildInterface.GetPlayerDependenciesForObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(objectID, target, typeDB)]]></description>
+</snippet>

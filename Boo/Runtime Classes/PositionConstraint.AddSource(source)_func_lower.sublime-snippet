@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PositionConstraint.AddSource(${1:source as Animations.ConstraintSource})]]></content>
+	<tabTrigger><![CDATA[addSource]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PositionConstraint.*(source)]]></description>
+</snippet>

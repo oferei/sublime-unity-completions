@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GridLayout.GetBoundsLocal(${1:origin as Vector3}, ${2:size as Vector3})]]></content>
+	<tabTrigger><![CDATA[getBoundsLocal]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GridLayout.*(origin, size)]]></description>
+</snippet>

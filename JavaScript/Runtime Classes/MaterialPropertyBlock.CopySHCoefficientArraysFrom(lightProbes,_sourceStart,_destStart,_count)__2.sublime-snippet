@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialPropertyBlock.CopySHCoefficientArraysFrom(${1:lightProbes : SphericalHarmonicsL2[]}, ${2:sourceStart : int}, ${3:destStart : int}, ${4:count : int})]]></content>
+	<tabTrigger><![CDATA[materialPropertyBlock.CopySHCoefficientArraysFrom]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lightProbes, sourceStart, destStart, count)]]></description>
+</snippet>

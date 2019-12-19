@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.UnregisterPrefab(${1:prefab : GameObject})]]></content>
-	<tabTrigger><![CDATA[unregisterPrefab]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ClientScene.*(prefab)]]></description>
-</snippet>

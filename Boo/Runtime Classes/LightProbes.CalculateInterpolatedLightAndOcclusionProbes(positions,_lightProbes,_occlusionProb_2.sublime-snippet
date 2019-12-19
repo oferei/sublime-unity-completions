@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightProbes.CalculateInterpolatedLightAndOcclusionProbes(${1:positions as (Vector3)}, ${2:lightProbes as (SphericalHarmonicsL2)}, ${3:occlusionProbes as (Vector4)})]]></content>
+	<tabTrigger><![CDATA[lightProbes.CalculateInterpolatedLightAndOcclusionProbes]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(positions, lightProbes, occlusionProbes)]]></description>
+</snippet>

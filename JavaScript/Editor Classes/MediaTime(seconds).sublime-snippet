@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaTime(${1:seconds : long})]]></content>
+	<tabTrigger><![CDATA[MediaTime]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(seconds)]]></description>
+</snippet>

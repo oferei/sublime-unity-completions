@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AdvancedDropdown.ItemSelected(${1:IMGUI.Controls.AdvancedDropdownItem item})]]></content>
+	<tabTrigger><![CDATA[itemSelected]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AdvancedDropdown.*(item)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CallbackEventHandler.UnregisterCallback(${1:EventCallback<TEventType,TUserArgsType> callback}, ${2:UIElements.TrickleDown useTrickleDown})]]></content>
+	<tabTrigger><![CDATA[CallbackEventHandler.UnregisterCallback]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(callback, useTrickleDown)]]></description>
+</snippet>

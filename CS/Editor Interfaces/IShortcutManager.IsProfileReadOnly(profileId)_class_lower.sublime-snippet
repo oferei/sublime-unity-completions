@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.IsProfileReadOnly(${1:string profileId})]]></content>
+	<tabTrigger><![CDATA[iShortcutManager.IsProfileReadOnly]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(profileId)]]></description>
+</snippet>

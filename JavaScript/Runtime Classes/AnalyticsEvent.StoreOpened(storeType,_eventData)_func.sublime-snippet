@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.StoreOpened(${1:storeType : Analytics.StoreType}, ${2:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[StoreOpened]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnalyticsEvent.*(storeType, eventData)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PresetSelector.ShowSelector(${1:Object[] targets}, ${2:Presets.Preset currentSelection}, ${3:bool createNewAllowed})]]></content>
+	<tabTrigger><![CDATA[PresetSelector.ShowSelector]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(targets, currentSelection, createNewAllowed)]]></description>
+</snippet>

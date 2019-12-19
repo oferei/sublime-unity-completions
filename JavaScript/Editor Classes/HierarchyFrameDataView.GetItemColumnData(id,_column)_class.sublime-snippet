@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.GetItemColumnData(${1:id : int}, ${2:column : int})]]></content>
+	<tabTrigger><![CDATA[HierarchyFrameDataView.GetItemColumnData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(id, column)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetSupportedIconKindsForPlatform(${1:platform : BuildTargetGroup})]]></content>
+	<tabTrigger><![CDATA[playerSettings.GetSupportedIconKindsForPlatform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(platform)]]></description>
+</snippet>

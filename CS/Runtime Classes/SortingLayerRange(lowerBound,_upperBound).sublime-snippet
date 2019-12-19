@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SortingLayerRange(${1:short lowerBound}, ${2:short upperBound})]]></content>
+	<tabTrigger><![CDATA[SortingLayerRange]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(lowerBound, upperBound)]]></description>
+</snippet>

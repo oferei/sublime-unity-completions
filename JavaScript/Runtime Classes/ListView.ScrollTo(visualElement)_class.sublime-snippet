@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ListView.ScrollTo(${1:visualElement : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[ListView.ScrollTo]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(visualElement)]]></description>
+</snippet>

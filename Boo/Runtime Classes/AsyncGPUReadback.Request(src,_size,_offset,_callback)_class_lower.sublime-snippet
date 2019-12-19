@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AsyncGPUReadback.Request(${1:src as ComputeBuffer}, ${2:size as int}, ${3:offset as int}, ${4:callback as Action<AsyncGPUReadbackRequest>})]]></content>
+	<tabTrigger><![CDATA[asyncGPUReadback.Request]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(src, size, offset, callback)]]></description>
+</snippet>

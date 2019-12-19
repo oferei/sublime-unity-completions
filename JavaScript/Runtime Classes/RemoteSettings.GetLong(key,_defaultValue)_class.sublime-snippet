@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RemoteSettings.GetLong(${1:key : string}, ${2:defaultValue : long = 0})]]></content>
+	<tabTrigger><![CDATA[RemoteSettings.GetLong]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(key, defaultValue)]]></description>
+</snippet>

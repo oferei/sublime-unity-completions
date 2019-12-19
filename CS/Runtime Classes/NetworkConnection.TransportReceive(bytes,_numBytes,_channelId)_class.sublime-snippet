@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.TransportReceive(${1:byte[] bytes}, ${2:int numBytes}, ${3:int channelId})]]></content>
-	<tabTrigger><![CDATA[NetworkConnection.TransportReceive]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(bytes, numBytes, channelId)]]></description>
-</snippet>

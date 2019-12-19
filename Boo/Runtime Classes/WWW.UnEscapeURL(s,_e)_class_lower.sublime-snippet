@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWW.UnEscapeURL(${1:s as string}, ${2:e as Encoding})]]></content>
-	<tabTrigger><![CDATA[wWW.UnEscapeURL]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(s, e)]]></description>
-</snippet>

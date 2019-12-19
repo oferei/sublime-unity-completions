@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StageUtility.PlaceGameObjectInCurrentStage(${1:gameObject : GameObject})]]></content>
+	<tabTrigger><![CDATA[placeGameObjectInCurrentStage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[StageUtility.*(gameObject)]]></description>
+</snippet>

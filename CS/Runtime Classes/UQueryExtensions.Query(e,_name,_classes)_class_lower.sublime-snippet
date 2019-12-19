@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[UQueryExtensions.Query(${1:Experimental.UIElements.VisualElement e}, ${2:string name}, ${3:params string[] classes})]]></content>
+	<content><![CDATA[UQueryExtensions.Query(${1:UIElements.VisualElement e}, ${2:string name}, ${3:params string[] classes})]]></content>
 	<tabTrigger><![CDATA[uQueryExtensions.Query]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(e, name, classes)]]></description>

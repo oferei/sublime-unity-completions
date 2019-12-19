@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.SetSceneCullingMask(${1:scene as SceneManagement.Scene}, ${2:sceneCullingMask as ulong})]]></content>
+	<tabTrigger><![CDATA[EditorSceneManager.SetSceneCullingMask]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scene, sceneCullingMask)]]></description>
+</snippet>

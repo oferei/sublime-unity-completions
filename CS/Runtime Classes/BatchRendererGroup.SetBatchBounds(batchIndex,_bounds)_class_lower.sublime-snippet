@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BatchRendererGroup.SetBatchBounds(${1:int batchIndex}, ${2:Bounds bounds})]]></content>
+	<tabTrigger><![CDATA[batchRendererGroup.SetBatchBounds]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(batchIndex, bounds)]]></description>
+</snippet>

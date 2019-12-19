@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerPrefs.GetFloat(${1:key : string}, ${2:defaultValue : float = 0.0F})]]></content>
+	<content><![CDATA[PlayerPrefs.GetFloat(${1:key : string}, ${2:defaultValue : float})]]></content>
 	<tabTrigger><![CDATA[GetFloat]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[PlayerPrefs.*(key, defaultValue)]]></description>

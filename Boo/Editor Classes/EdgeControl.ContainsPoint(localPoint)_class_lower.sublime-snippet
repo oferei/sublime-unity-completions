@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EdgeControl.ContainsPoint(${1:localPoint as Vector2})]]></content>
+	<tabTrigger><![CDATA[edgeControl.ContainsPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(localPoint)]]></description>
+</snippet>

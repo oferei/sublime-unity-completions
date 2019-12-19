@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScreenCapture.CaptureScreenshot(${1:filename : string}, ${2:stereoCaptureMode : ScreenCapture.StereoScreenCaptureMode})]]></content>
+	<tabTrigger><![CDATA[ScreenCapture.CaptureScreenshot]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(filename, stereoCaptureMode)]]></description>
+</snippet>

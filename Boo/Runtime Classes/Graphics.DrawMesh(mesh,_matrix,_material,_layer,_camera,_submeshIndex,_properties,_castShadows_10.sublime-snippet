@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawMesh(${1:mesh as Mesh}, ${2:matrix as Matrix4x4}, ${3:material as Material}, ${4:layer as int}, ${5:camera as Camera}, ${6:submeshIndex as int}, ${7:properties as MaterialPropertyBlock}, ${8:castShadows as Rendering.ShadowCastingMode}, ${9:receiveShadows as bool}, ${10:probeAnchor as Transform}, ${11:lightProbeUsage as Rendering.LightProbeUsage}, ${12:lightProbeProxyVolume as LightProbeProxyVolume = null})]]></content>
+	<tabTrigger><![CDATA[graphics.DrawMesh]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(mesh, matrix, material, layer, camera, submeshIndex, properties, castShadows, receiveShadows, probeAnchor, lightProbeUsage, lightProbeProxyVolume)]]></description>
+</snippet>

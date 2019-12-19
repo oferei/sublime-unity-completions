@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddedGameObject.Apply(${1:string prefabAssetPath})]]></content>
+	<tabTrigger><![CDATA[AddedGameObject.Apply]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(prefabAssetPath)]]></description>
+</snippet>

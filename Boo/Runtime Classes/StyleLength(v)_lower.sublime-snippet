@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StyleLength(${1:v as UIElements.Length})]]></content>
+	<tabTrigger><![CDATA[styleLength]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaskableGraphic.Cull(${1:Rect clipRect}, ${2:bool validRect})]]></content>
-	<tabTrigger><![CDATA[MaskableGraphic.Cull]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(clipRect, validRect)]]></description>
-</snippet>

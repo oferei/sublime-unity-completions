@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.OverlapCapsule(${1:Vector2 point}, ${2:Vector2 size}, ${3:CapsuleDirection2D direction}, ${4:float angle}, ${5:ContactFilter2D contactFilter})]]></content>
+	<tabTrigger><![CDATA[physicsScene2D.OverlapCapsule]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point, size, direction, angle, contactFilter)]]></description>
+</snippet>

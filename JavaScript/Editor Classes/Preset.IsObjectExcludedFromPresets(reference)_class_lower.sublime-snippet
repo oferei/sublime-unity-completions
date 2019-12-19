@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.IsObjectExcludedFromPresets(${1:reference : Object})]]></content>
+	<tabTrigger><![CDATA[preset.IsObjectExcludedFromPresets]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(reference)]]></description>
+</snippet>

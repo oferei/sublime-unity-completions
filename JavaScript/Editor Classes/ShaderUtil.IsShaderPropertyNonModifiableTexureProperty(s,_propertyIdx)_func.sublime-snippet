@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.IsShaderPropertyNonModifiableTexureProperty(${1:s : Shader}, ${2:propertyIdx : int})]]></content>
+	<tabTrigger><![CDATA[IsShaderPropertyNonModifiableTexureProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ShaderUtil.*(s, propertyIdx)]]></description>
+</snippet>

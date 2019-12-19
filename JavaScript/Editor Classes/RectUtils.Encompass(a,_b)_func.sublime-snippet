@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectUtils.Encompass(${1:a : Rect}, ${2:b : Rect})]]></content>
+	<tabTrigger><![CDATA[Encompass]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[RectUtils.*(a, b)]]></description>
+</snippet>

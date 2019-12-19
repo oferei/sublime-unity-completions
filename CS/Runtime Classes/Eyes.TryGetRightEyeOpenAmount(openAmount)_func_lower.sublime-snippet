@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Eyes.TryGetRightEyeOpenAmount(${1:out float openAmount})]]></content>
+	<tabTrigger><![CDATA[tryGetRightEyeOpenAmount]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Eyes.*(openAmount)]]></description>
+</snippet>

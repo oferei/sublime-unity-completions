@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scroller(${1:lowValue : float}, ${2:highValue : float}, ${3:valueChanged : Action<float>}, ${4:direction : UIElements.SliderDirection})]]></content>
+	<tabTrigger><![CDATA[Scroller]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(lowValue, highValue, valueChanged, direction)]]></description>
+</snippet>

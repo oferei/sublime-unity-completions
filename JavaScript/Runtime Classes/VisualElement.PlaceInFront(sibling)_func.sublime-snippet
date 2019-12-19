@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.PlaceInFront(${1:sibling : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[PlaceInFront]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VisualElement.*(sibling)]]></description>
+</snippet>

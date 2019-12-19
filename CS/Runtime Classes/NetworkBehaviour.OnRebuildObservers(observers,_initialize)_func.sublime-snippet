@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.OnRebuildObservers(${1:HashSet<NetworkConnection> observers}, ${2:bool initialize})]]></content>
-	<tabTrigger><![CDATA[OnRebuildObservers]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkBehaviour.*(observers, initialize)]]></description>
-</snippet>

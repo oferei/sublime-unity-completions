@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Material.GetTag(${1:tag as string}, ${2:searchFallbacks as bool}, ${3:defaultValue as string = \"\"})]]></content>
+	<content><![CDATA[Material.GetTag(${1:tag as string}, ${2:searchFallbacks as bool}, ${3:defaultValue as string})]]></content>
 	<tabTrigger><![CDATA[GetTag]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[Material.*(tag, searchFallbacks, defaultValue)]]></description>

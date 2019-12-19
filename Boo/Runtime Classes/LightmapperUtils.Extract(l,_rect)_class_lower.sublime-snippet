@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightmapperUtils.Extract(${1:l as Light}, ${2:rect as ref Experimental.GlobalIllumination.RectangleLight})]]></content>
+	<tabTrigger><![CDATA[lightmapperUtils.Extract]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(l, rect)]]></description>
+</snippet>

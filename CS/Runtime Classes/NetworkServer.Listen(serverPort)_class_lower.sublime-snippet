@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.Listen(${1:int serverPort})]]></content>
-	<tabTrigger><![CDATA[networkServer.Listen]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(serverPort)]]></description>
-</snippet>

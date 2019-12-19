@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.CalculateFrameTransform(${1:Rect rectToFit}, ${2:Rect clientRect}, ${3:int border}, ${4:out Vector3 frameTranslation}, ${5:out Vector3 frameScaling})]]></content>
+	<tabTrigger><![CDATA[CalculateFrameTransform]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GraphView.*(rectToFit, clientRect, border, frameTranslation, frameScaling)]]></description>
+</snippet>

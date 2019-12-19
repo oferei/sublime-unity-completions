@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TokenNode(${1:Experimental.GraphView.Port input}, ${2:Experimental.GraphView.Port output})]]></content>
+	<tabTrigger><![CDATA[TokenNode]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(input, output)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRRaycastSubsystem.Raycast(${1:ray as Ray}, ${2:depthSubsystem as Experimental.XR.XRDepthSubsystem}, ${3:planeSubsystem as Experimental.XR.XRPlaneSubsystem}, ${4:hitResults as List<XRRaycastHit>}, ${5:trackableTypeMask as Experimental.XR.TrackableType}, ${6:pointCloudRaycastAngleInDegrees as single})]]></content>
+	<tabTrigger><![CDATA[XRRaycastSubsystem.Raycast]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ray, depthSubsystem, planeSubsystem, hitResults, trackableTypeMask, pointCloudRaycastAngleInDegrees)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RequirePlatformSupportAttribute(${1:platforms as params (BuildTarget)})]]></content>
-	<tabTrigger><![CDATA[RequirePlatformSupportAttribute]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(platforms)]]></description>
-</snippet>

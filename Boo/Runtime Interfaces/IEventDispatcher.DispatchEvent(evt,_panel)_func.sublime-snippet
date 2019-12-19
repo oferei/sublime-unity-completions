@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IEventDispatcher.DispatchEvent(${1:evt as Experimental.UIElements.EventBase}, ${2:panel as Experimental.UIElements.IPanel})]]></content>
-	<tabTrigger><![CDATA[DispatchEvent]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IEventDispatcher.*(evt, panel)]]></description>
-</snippet>

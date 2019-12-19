@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphElement.Unselect(${1:selectionContainer : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[unselect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GraphElement.*(selectionContainer)]]></description>
+</snippet>

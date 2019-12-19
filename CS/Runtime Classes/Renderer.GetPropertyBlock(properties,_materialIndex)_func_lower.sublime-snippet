@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Renderer.GetPropertyBlock(${1:MaterialPropertyBlock properties}, ${2:int materialIndex})]]></content>
+	<tabTrigger><![CDATA[getPropertyBlock]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Renderer.*(properties, materialIndex)]]></description>
+</snippet>

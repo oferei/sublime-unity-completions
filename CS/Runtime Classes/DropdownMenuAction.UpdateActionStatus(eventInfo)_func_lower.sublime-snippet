@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenuAction.UpdateActionStatus(${1:UIElements.DropdownMenuEventInfo eventInfo})]]></content>
+	<tabTrigger><![CDATA[updateActionStatus]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[DropdownMenuAction.*(eventInfo)]]></description>
+</snippet>

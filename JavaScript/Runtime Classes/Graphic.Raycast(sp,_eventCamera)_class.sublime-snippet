@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphic.Raycast(${1:sp : Vector2}, ${2:eventCamera : Camera})]]></content>
-	<tabTrigger><![CDATA[Graphic.Raycast]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(sp, eventCamera)]]></description>
-</snippet>

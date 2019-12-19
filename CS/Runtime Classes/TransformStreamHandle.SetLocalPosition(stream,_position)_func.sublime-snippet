@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.SetLocalPosition(${1:Experimental.Animations.AnimationStream stream}, ${2:Vector3 position})]]></content>
+	<tabTrigger><![CDATA[SetLocalPosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream, position)]]></description>
+</snippet>

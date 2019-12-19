@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.WriteSerializedFile(${1:outputFolder : string}, ${2:writeCommand : Build.Content.WriteCommand}, ${3:settings : Build.Content.BuildSettings}, ${4:globalUsage : Build.Content.BuildUsageTagGlobal}, ${5:usageSet : Build.Content.BuildUsageTagSet}, ${6:referenceMap : Build.Content.BuildReferenceMap})]]></content>
+	<tabTrigger><![CDATA[contentBuildInterface.WriteSerializedFile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(outputFolder, writeCommand, settings, globalUsage, usageSet, referenceMap)]]></description>
+</snippet>

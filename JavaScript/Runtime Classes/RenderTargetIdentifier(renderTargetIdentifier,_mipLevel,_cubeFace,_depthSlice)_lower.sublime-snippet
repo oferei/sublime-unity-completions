@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTargetIdentifier(${1:renderTargetIdentifier : Rendering.RenderTargetIdentifier}, ${2:mipLevel : int}, ${3:cubeFace : CubemapFace}, ${4:depthSlice : int})]]></content>
+	<tabTrigger><![CDATA[renderTargetIdentifier]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(renderTargetIdentifier, mipLevel, cubeFace, depthSlice)]]></description>
+</snippet>

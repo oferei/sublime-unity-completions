@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServerSimple.OnConnectError(${1:connectionId as int}, ${2:error as byte})]]></content>
-	<tabTrigger><![CDATA[OnConnectError]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServerSimple.*(connectionId, error)]]></description>
-</snippet>

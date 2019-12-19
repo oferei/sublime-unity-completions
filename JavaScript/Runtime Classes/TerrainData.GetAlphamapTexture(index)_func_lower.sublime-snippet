@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetAlphamapTexture(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[getAlphamapTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainData.*(index)]]></description>
+</snippet>

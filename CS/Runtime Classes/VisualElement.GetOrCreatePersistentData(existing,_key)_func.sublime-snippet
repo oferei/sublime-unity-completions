@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VisualElement.GetOrCreatePersistentData(${1:ScriptableObject existing}, ${2:string key})]]></content>
-	<tabTrigger><![CDATA[GetOrCreatePersistentData]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VisualElement.*(existing, key)]]></description>
-</snippet>

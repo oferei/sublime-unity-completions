@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.OnStartDragging(${1:ge as Experimental.GraphView.GraphElement})]]></content>
+	<tabTrigger><![CDATA[OnStartDragging]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[StackNode.*(ge)]]></description>
+</snippet>

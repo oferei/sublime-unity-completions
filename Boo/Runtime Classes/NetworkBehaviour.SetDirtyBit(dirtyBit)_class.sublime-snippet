@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.SetDirtyBit(${1:dirtyBit as uint})]]></content>
-	<tabTrigger><![CDATA[NetworkBehaviour.SetDirtyBit]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(dirtyBit)]]></description>
-</snippet>

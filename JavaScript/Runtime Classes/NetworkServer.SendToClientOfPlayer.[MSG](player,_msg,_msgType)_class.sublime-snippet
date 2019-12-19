@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendToClientOfPlayer.<${1:MSG}>(${2:player : GameObject}, ${3:msg : short}, ${4:msgType : MSG})]]></content>
-	<tabTrigger><![CDATA[NetworkServer.SendToClientOfPlayer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*.<MSG>(player, msg, msgType)]]></description>
-</snippet>

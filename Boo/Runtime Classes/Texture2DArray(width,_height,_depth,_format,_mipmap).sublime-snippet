@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Texture2DArray(${1:width as int}, ${2:height as int}, ${3:depth as int}, ${4:format as TextureFormat}, ${5:mipmap as bool})]]></content>
-	<tabTrigger><![CDATA[Texture2DArray]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(width, height, depth, format, mipmap)]]></description>
-</snippet>

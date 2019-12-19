@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.DeleteElements(${1:elementsToRemove as IEnumerable<GraphElement>})]]></content>
+	<tabTrigger><![CDATA[graphView.DeleteElements]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(elementsToRemove)]]></description>
+</snippet>

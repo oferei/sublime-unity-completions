@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsPrefabAssetMissing(${1:Object instanceComponentOrGameObject})]]></content>
+	<tabTrigger><![CDATA[IsPrefabAssetMissing]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(instanceComponentOrGameObject)]]></description>
+</snippet>

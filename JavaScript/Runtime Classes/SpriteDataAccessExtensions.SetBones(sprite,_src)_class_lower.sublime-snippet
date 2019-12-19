@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.SetBones(${1:sprite : Sprite}, ${2:src : SpriteBone[]})]]></content>
+	<tabTrigger><![CDATA[spriteDataAccessExtensions.SetBones]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sprite, src)]]></description>
+</snippet>

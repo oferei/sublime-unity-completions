@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRenderTarget(${1:binding as Rendering.RenderTargetBinding}, ${2:mipLevel as int}, ${3:cubemapFace as CubemapFace}, ${4:depthSlice as int})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.SetRenderTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(binding, mipLevel, cubemapFace, depthSlice)]]></description>
+</snippet>

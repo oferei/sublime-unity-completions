@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RepeatButton.SetAction(${1:Action clickEvent}, ${2:long delay}, ${3:long interval})]]></content>
+	<tabTrigger><![CDATA[RepeatButton.SetAction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(clickEvent, delay, interval)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RenderTexture.GetTemporary(${1:int width}, ${2:int height}, ${3:int depthBuffer = 0}, ${4:RenderTextureFormat format = RenderTextureFormat.Default}, ${5:RenderTextureReadWrite readWrite = RenderTextureReadWrite.Default}, ${6:int antiAliasing = 1}, ${7:RenderTextureMemoryless memorylessMode = RenderTextureMemoryless.None}, ${8:VRTextureUsage vrUsage = VRTextureUsage.None}, ${9:bool useDynamicScale = false})]]></content>
+	<tabTrigger><![CDATA[getTemporary]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RenderTexture.*(width, height, depthBuffer, format, readWrite, antiAliasing, memorylessMode, vrUsage, useDynamicScale)]]></description>
+</snippet>

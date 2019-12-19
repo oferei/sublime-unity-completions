@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Group.AcceptsElement(${1:Experimental.GraphView.GraphElement element}, ${2:ref string reasonWhyNotAccepted})]]></content>
+	<tabTrigger><![CDATA[AcceptsElement]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Group.*(element, reasonWhyNotAccepted)]]></description>
+</snippet>

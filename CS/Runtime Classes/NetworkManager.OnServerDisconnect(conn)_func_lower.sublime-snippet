@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.OnServerDisconnect(${1:Networking.NetworkConnection conn})]]></content>
-	<tabTrigger><![CDATA[onServerDisconnect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkManager.*(conn)]]></description>
-</snippet>

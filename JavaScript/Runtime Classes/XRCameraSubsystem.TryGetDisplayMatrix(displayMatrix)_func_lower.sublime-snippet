@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.TryGetDisplayMatrix(${1:displayMatrix : ref Matrix4x4})]]></content>
+	<tabTrigger><![CDATA[tryGetDisplayMatrix]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[XRCameraSubsystem.*(displayMatrix)]]></description>
+</snippet>

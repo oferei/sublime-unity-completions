@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.HandleBytes(${1:buffer : byte[]}, ${2:receivedSize : int}, ${3:channelId : int})]]></content>
-	<tabTrigger><![CDATA[HandleBytes]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkConnection.*(buffer, receivedSize, channelId)]]></description>
-</snippet>

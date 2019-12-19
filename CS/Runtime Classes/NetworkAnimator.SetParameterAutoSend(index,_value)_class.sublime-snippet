@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkAnimator.SetParameterAutoSend(${1:int index}, ${2:bool value})]]></content>
-	<tabTrigger><![CDATA[NetworkAnimator.SetParameterAutoSend]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(index, value)]]></description>
-</snippet>

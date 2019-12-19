@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.OverrideMaximumHeightError(${1:float[] maxError})]]></content>
+	<tabTrigger><![CDATA[terrainData.OverrideMaximumHeightError]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(maxError)]]></description>
+</snippet>

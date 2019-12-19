@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BoundedPlane.TryGetBoundary(${1:List<Vector3> boundaryOut})]]></content>
+	<tabTrigger><![CDATA[boundedPlane.TryGetBoundary]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(boundaryOut)]]></description>
+</snippet>

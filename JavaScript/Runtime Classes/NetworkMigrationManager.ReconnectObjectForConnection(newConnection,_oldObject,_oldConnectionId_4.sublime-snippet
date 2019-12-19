@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.ReconnectObjectForConnection(${1:newConnection : Networking.NetworkConnection}, ${2:oldObject : GameObject}, ${3:oldConnectionId : int})]]></content>
-	<tabTrigger><![CDATA[reconnectObjectForConnection]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkMigrationManager.*(newConnection, oldObject, oldConnectionId)]]></description>
-</snippet>

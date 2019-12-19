@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.SetRandomWriteTarget(${1:index : int}, ${2:buffer : ComputeBuffer}, ${3:preserveCounterValue : bool = false})]]></content>
+	<content><![CDATA[CommandBuffer.SetRandomWriteTarget(${1:index : int}, ${2:buffer : ComputeBuffer}, ${3:preserveCounterValue : bool})]]></content>
 	<tabTrigger><![CDATA[CommandBuffer.SetRandomWriteTarget]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(index, buffer, preserveCounterValue)]]></description>

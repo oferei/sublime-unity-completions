@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.PrepareUndisposable(${1:ref Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle})]]></content>
+	<tabTrigger><![CDATA[prepareUndisposable]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AtomicSafetyHandle.*(handle)]]></description>
+</snippet>

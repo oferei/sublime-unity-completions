@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRNodeState.TryGetPosition(${1:out Vector3 position})]]></content>
+	<tabTrigger><![CDATA[TryGetPosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[XRNodeState.*(position)]]></description>
+</snippet>

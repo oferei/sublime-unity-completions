@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.CollectNormals(${1:terrain as Terrain}, ${2:boundsInTerrainSpace as Rect}, ${3:extraBorderPixels as int})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtility.CollectNormals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(terrain, boundsInTerrainSpace, extraBorderPixels)]]></description>
+</snippet>

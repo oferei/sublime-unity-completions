@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowPhysicsSceneMask(${1:mask : int})]]></content>
+	<tabTrigger><![CDATA[SetShowPhysicsSceneMask]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(mask)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cubemap.UpdateExternalTexture(${1:nativeTexture : IntPtr})]]></content>
+	<tabTrigger><![CDATA[updateExternalTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Cubemap.*(nativeTexture)]]></description>
+</snippet>

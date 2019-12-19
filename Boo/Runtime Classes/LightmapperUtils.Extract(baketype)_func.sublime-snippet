@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightmapperUtils.Extract(${1:baketype as LightmapBakeType})]]></content>
+	<tabTrigger><![CDATA[Extract]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LightmapperUtils.*(baketype)]]></description>
+</snippet>

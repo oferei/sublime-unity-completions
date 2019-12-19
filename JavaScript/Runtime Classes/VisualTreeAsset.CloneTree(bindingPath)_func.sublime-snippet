@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualTreeAsset.CloneTree(${1:bindingPath : string})]]></content>
+	<tabTrigger><![CDATA[CloneTree]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VisualTreeAsset.*(bindingPath)]]></description>
+</snippet>

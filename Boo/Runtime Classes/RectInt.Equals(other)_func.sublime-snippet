@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectInt.Equals(${1:other as RectInt})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RectInt.*(other)]]></description>
+</snippet>

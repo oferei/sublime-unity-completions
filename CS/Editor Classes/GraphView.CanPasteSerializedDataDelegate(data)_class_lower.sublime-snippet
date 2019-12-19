@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.CanPasteSerializedDataDelegate(${1:string data})]]></content>
+	<tabTrigger><![CDATA[graphView.CanPasteSerializedDataDelegate]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(data)]]></description>
+</snippet>

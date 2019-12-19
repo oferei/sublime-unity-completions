@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkBehaviour.OnDeserialize(${1:Networking.NetworkReader reader}, ${2:bool initialState})]]></content>
-	<tabTrigger><![CDATA[onDeserialize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkBehaviour.*(reader, initialState)]]></description>
-</snippet>

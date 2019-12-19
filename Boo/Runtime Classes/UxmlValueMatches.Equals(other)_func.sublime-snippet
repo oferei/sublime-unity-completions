@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlValueMatches.Equals(${1:other as UIElements.UxmlTypeRestriction})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UxmlValueMatches.*(other)]]></description>
+</snippet>

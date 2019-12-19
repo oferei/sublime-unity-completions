@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SearchWindow.Open(${1:Experimental.GraphView.SearchWindowContext context}, ${2:T provider})]]></content>
+	<tabTrigger><![CDATA[searchWindow.Open]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(context, provider)]]></description>
+</snippet>

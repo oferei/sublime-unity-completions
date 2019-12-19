@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.SetParent(${1:p : Transform})]]></content>
+	<tabTrigger><![CDATA[SetParent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(p)]]></description>
+</snippet>

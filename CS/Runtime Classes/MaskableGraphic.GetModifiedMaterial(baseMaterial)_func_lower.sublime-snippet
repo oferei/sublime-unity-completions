@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaskableGraphic.GetModifiedMaterial(${1:Material baseMaterial})]]></content>
-	<tabTrigger><![CDATA[getModifiedMaterial]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MaskableGraphic.*(baseMaterial)]]></description>
-</snippet>

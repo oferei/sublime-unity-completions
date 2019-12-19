@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IFilterBuildAssemblies.OnFilterAssemblies(${1:buildOptions as BuildOptions}, ${2:assemblies as (string)})]]></content>
+	<tabTrigger><![CDATA[onFilterAssemblies]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IFilterBuildAssemblies.*(buildOptions, assemblies)]]></description>
+</snippet>

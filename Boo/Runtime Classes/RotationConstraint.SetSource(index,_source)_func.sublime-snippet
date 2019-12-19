@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RotationConstraint.SetSource(${1:index as int}, ${2:source as Animations.ConstraintSource})]]></content>
+	<tabTrigger><![CDATA[SetSource]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[RotationConstraint.*(index, source)]]></description>
+</snippet>

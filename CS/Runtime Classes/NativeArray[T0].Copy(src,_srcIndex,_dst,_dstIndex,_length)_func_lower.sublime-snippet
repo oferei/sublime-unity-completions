@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArray<T0>.Copy(${1:NativeArray<T> src}, ${2:int srcIndex}, ${3:T[] dst}, ${4:int dstIndex}, ${5:int length})]]></content>
+	<tabTrigger><![CDATA[copy]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NativeArray<T0>.*(src, srcIndex, dst, dstIndex, length)]]></description>
+</snippet>

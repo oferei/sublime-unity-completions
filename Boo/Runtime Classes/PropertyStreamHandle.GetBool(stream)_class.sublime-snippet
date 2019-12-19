@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyStreamHandle.GetBool(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[PropertyStreamHandle.GetBool]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream)]]></description>
+</snippet>

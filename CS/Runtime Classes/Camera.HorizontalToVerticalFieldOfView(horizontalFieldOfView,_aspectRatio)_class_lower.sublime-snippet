@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Camera.HorizontalToVerticalFieldOfView(${1:float horizontalFieldOfView}, ${2:float aspectRatio})]]></content>
+	<tabTrigger><![CDATA[camera.HorizontalToVerticalFieldOfView]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(horizontalFieldOfView, aspectRatio)]]></description>
+</snippet>

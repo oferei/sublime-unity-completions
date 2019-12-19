@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IExternalCodeEditor.OpenProject(${1:filePath : string}, ${2:line : int}, ${3:column : int})]]></content>
+	<tabTrigger><![CDATA[IExternalCodeEditor.OpenProject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(filePath, line, column)]]></description>
+</snippet>

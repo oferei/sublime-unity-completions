@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.RemoveFromDefault(${1:Presets.Preset preset})]]></content>
+	<tabTrigger><![CDATA[removeFromDefault]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Preset.*(preset)]]></description>
+</snippet>

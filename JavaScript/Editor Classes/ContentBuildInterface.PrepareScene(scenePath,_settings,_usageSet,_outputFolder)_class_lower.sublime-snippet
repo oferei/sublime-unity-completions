@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.PrepareScene(${1:scenePath : string}, ${2:settings : Build.Content.BuildSettings}, ${3:usageSet : Build.Content.BuildUsageTagSet}, ${4:outputFolder : string})]]></content>
+	<tabTrigger><![CDATA[contentBuildInterface.PrepareScene]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scenePath, settings, usageSet, outputFolder)]]></description>
+</snippet>

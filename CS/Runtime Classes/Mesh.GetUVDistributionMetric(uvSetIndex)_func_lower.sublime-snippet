@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Mesh.GetUVDistributionMetric(${1:int uvSetIndex})]]></content>
+	<tabTrigger><![CDATA[getUVDistributionMetric]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Mesh.*(uvSetIndex)]]></description>
+</snippet>

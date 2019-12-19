@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyDrawer.CreatePropertyGUI(${1:property as SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[PropertyDrawer.CreatePropertyGUI]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(property)]]></description>
+</snippet>

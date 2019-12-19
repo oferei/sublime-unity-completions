@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.SetLocalPosition(${1:stream as Experimental.Animations.AnimationStream}, ${2:position as Vector3})]]></content>
+	<tabTrigger><![CDATA[transformStreamHandle.SetLocalPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream, position)]]></description>
+</snippet>

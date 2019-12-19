@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.DrawRenderers(${1:FilterResults namelessParam}, ${2:DrawingSettings namelessParam}, ${3:FilteringSettings namelessParam})]]></content>
+	<tabTrigger><![CDATA[drawRenderers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableRenderContext.*(namelessParam, namelessParam, namelessParam)]]></description>
+</snippet>

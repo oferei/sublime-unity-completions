@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.GradientField(${1:Gradient value}, ${2:params GUILayoutOption[] options})]]></content>
+	<tabTrigger><![CDATA[EditorGUILayout.GradientField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(value, options)]]></description>
+</snippet>

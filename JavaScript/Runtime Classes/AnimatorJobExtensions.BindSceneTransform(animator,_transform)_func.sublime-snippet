@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorJobExtensions.BindSceneTransform(${1:animator : Animator}, ${2:transform : Transform})]]></content>
+	<tabTrigger><![CDATA[BindSceneTransform]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorJobExtensions.*(animator, transform)]]></description>
+</snippet>

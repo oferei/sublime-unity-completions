@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.SocialShareAccept(${1:Analytics.ShareType shareType}, ${2:string socialNetwork}, ${3:string senderId}, ${4:string recipientId}, ${5:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[SocialShareAccept]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnalyticsEvent.*(shareType, socialNetwork, senderId, recipientId, eventData)]]></description>
-</snippet>

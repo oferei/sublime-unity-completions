@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.MoveToView(${1:target : Transform})]]></content>
+	<tabTrigger><![CDATA[moveToView]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneView.*(target)]]></description>
+</snippet>

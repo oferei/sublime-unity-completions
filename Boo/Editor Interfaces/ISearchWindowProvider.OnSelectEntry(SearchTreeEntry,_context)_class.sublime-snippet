@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISearchWindowProvider.OnSelectEntry(${1:SearchTreeEntry as Experimental.GraphView.SearchTreeEntry}, ${2:context as Experimental.GraphView.SearchWindowContext})]]></content>
+	<tabTrigger><![CDATA[ISearchWindowProvider.OnSelectEntry]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(SearchTreeEntry, context)]]></description>
+</snippet>

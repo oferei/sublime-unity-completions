@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.ChatMessageSent(${1:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.ChatMessageSent]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StackNode.InsertElement(${1:int index}, ${2:Experimental.GraphView.GraphElement element})]]></content>
+	<tabTrigger><![CDATA[stackNode.InsertElement]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, element)]]></description>
+</snippet>

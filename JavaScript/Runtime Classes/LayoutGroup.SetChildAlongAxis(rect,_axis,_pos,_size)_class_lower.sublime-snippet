@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutGroup.SetChildAlongAxis(${1:rect : RectTransform}, ${2:axis : int}, ${3:pos : float}, ${4:size : float})]]></content>
-	<tabTrigger><![CDATA[layoutGroup.SetChildAlongAxis]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(rect, axis, pos, size)]]></description>
-</snippet>

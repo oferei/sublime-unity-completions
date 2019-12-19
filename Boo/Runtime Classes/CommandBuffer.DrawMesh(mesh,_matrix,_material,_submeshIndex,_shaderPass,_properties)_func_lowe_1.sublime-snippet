@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.DrawMesh(${1:mesh as Mesh}, ${2:matrix as Matrix4x4}, ${3:material as Material}, ${4:submeshIndex as int = 0}, ${5:shaderPass as int = -1}, ${6:properties as MaterialPropertyBlock = null})]]></content>
+	<content><![CDATA[CommandBuffer.DrawMesh(${1:mesh as Mesh}, ${2:matrix as Matrix4x4}, ${3:material as Material}, ${4:submeshIndex as int}, ${5:shaderPass as int}, ${6:properties as MaterialPropertyBlock})]]></content>
 	<tabTrigger><![CDATA[drawMesh]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[CommandBuffer.*(mesh, matrix, material, submeshIndex, shaderPass, properties)]]></description>

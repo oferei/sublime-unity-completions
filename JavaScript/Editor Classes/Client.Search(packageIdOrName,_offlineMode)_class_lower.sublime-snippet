@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Client.Search(${1:packageIdOrName : string}, ${2:offlineMode : bool})]]></content>
+	<tabTrigger><![CDATA[client.Search]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(packageIdOrName, offlineMode)]]></description>
+</snippet>

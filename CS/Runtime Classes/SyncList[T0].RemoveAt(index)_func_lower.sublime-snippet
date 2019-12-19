@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SyncList<T0>.RemoveAt(${1:int index})]]></content>
-	<tabTrigger><![CDATA[removeAt]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[SyncList<T0>.*(index)]]></description>
-</snippet>

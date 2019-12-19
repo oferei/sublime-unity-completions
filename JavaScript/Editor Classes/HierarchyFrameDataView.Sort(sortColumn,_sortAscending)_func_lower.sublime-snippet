@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.Sort(${1:sortColumn : int}, ${2:sortAscending : bool})]]></content>
+	<tabTrigger><![CDATA[sort]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[HierarchyFrameDataView.*(sortColumn, sortAscending)]]></description>
+</snippet>

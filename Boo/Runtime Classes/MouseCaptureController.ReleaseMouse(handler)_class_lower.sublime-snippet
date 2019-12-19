@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MouseCaptureController.ReleaseMouse(${1:handler as UIElements.IEventHandler})]]></content>
+	<tabTrigger><![CDATA[mouseCaptureController.ReleaseMouse]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handler)]]></description>
+</snippet>

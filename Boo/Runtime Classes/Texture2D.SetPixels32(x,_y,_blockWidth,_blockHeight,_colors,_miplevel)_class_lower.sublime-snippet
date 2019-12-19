@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.SetPixels32(${1:x as int}, ${2:y as int}, ${3:blockWidth as int}, ${4:blockHeight as int}, ${5:colors as (Color32)}, ${6:miplevel as int = 0})]]></content>
+	<content><![CDATA[Texture2D.SetPixels32(${1:x as int}, ${2:y as int}, ${3:blockWidth as int}, ${4:blockHeight as int}, ${5:colors as (Color32)}, ${6:miplevel as int})]]></content>
 	<tabTrigger><![CDATA[texture2D.SetPixels32]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(x, y, blockWidth, blockHeight, colors, miplevel)]]></description>

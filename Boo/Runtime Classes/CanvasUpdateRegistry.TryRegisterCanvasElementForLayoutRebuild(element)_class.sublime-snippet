@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanvasUpdateRegistry.TryRegisterCanvasElementForLayoutRebuild(${1:element as UI.ICanvasElement})]]></content>
-	<tabTrigger><![CDATA[CanvasUpdateRegistry.TryRegisterCanvasElementForLayoutRebuild]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(element)]]></description>
-</snippet>

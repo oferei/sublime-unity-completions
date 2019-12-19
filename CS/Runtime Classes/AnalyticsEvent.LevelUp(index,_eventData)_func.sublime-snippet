@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.LevelUp(${1:int index}, ${2:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[LevelUp]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AnalyticsEvent.*(index, eventData)]]></description>
-</snippet>

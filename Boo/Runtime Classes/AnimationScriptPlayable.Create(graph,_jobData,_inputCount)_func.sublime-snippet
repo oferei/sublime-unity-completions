@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationScriptPlayable.Create(${1:graph as Playables.PlayableGraph}, ${2:jobData as T}, ${3:inputCount as int})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationScriptPlayable.*(graph, jobData, inputCount)]]></description>
+</snippet>

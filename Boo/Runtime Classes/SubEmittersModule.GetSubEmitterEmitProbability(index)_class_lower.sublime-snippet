@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.GetSubEmitterEmitProbability(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[subEmittersModule.GetSubEmitterEmitProbability]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

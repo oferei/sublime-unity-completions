@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ScreenCapture.CaptureScreenshot(${1:filename : string}, ${2:superSize : int = 1})]]></content>
+	<content><![CDATA[ScreenCapture.CaptureScreenshot(${1:filename : string}, ${2:superSize : int})]]></content>
 	<tabTrigger><![CDATA[ScreenCapture.CaptureScreenshot]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(filename, superSize)]]></description>

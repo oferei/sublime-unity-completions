@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobHandle.CombineDependencies(${1:NativeSlice<JobHandle> jobs})]]></content>
+	<tabTrigger><![CDATA[JobHandle.CombineDependencies]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(jobs)]]></description>
+</snippet>

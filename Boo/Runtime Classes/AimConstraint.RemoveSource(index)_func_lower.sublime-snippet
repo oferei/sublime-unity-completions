@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AimConstraint.RemoveSource(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[removeSource]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AimConstraint.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArrayUnsafeUtility.GetAtomicSafetyHandle(${1:array as NativeArray<T>})]]></content>
+	<tabTrigger><![CDATA[NativeArrayUnsafeUtility.GetAtomicSafetyHandle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(array)]]></description>
+</snippet>

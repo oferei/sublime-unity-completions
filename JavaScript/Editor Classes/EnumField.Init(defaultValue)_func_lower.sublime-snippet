@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EnumField.Init(${1:defaultValue : Enum})]]></content>
+	<tabTrigger><![CDATA[init]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EnumField.*(defaultValue)]]></description>
+</snippet>

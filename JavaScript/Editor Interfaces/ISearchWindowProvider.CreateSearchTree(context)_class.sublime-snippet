@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISearchWindowProvider.CreateSearchTree(${1:context : Experimental.GraphView.SearchWindowContext})]]></content>
+	<tabTrigger><![CDATA[ISearchWindowProvider.CreateSearchTree]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(context)]]></description>
+</snippet>

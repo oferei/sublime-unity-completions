@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabStage.IsPartOfPrefabContents(${1:gameObject as GameObject})]]></content>
+	<tabTrigger><![CDATA[PrefabStage.IsPartOfPrefabContents]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(gameObject)]]></description>
+</snippet>

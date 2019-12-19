@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.HandleReader(${1:Networking.NetworkReader reader}, ${2:int receivedSize}, ${3:int channelId})]]></content>
-	<tabTrigger><![CDATA[HandleReader]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkConnection.*(reader, receivedSize, channelId)]]></description>
-</snippet>

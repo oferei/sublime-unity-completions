@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.SetMatchHost(${1:newHost : string}, ${2:port : int}, ${3:https : bool})]]></content>
-	<tabTrigger><![CDATA[SetMatchHost]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkManager.*(newHost, port, https)]]></description>
-</snippet>

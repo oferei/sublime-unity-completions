@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AsyncGPUReadback.Request(${1:src as Texture}, ${2:mipIndex as int}, ${3:x as int}, ${4:width as int}, ${5:y as int}, ${6:height as int}, ${7:z as int}, ${8:depth as int}, ${9:callback as Action<AsyncGPUReadbackRequest>})]]></content>
+	<tabTrigger><![CDATA[asyncGPUReadback.Request]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(src, mipIndex, x, width, y, height, z, depth, callback)]]></description>
+</snippet>

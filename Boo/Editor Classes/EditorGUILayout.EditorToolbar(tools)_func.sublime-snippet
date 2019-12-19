@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUILayout.EditorToolbar(${1:tools as IList<T>})]]></content>
+	<tabTrigger><![CDATA[EditorToolbar]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorGUILayout.*(tools)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.GetShowCollisionLayer(${1:layer as int})]]></content>
+	<tabTrigger><![CDATA[PhysicsVisualizationSettings.GetShowCollisionLayer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(layer)]]></description>
+</snippet>

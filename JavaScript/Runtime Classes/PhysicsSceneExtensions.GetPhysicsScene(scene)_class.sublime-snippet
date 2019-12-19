@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsSceneExtensions.GetPhysicsScene(${1:scene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[PhysicsSceneExtensions.GetPhysicsScene]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scene)]]></description>
+</snippet>

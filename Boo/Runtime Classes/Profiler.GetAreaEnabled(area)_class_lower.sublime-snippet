@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.GetAreaEnabled(${1:area as Profiling.ProfilerArea})]]></content>
+	<tabTrigger><![CDATA[profiler.GetAreaEnabled]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(area)]]></description>
+</snippet>

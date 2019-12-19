@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[TrackAsset.CreateTrackMixer(${1:Playables.PlayableGraph graph}, ${2:GameObject go}, ${3:int inputCount})]]></content>
-	<tabTrigger><![CDATA[TrackAsset.CreateTrackMixer]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(graph, go, inputCount)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MessageBase.Deserialize(${1:Networking.NetworkReader reader})]]></content>
-	<tabTrigger><![CDATA[Deserialize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[MessageBase.*(reader)]]></description>
-</snippet>

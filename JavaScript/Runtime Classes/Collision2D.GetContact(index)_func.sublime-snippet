@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collision2D.GetContact(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[GetContact]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Collision2D.*(index)]]></description>
+</snippet>

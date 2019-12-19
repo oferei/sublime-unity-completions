@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraEditorUtils.IsViewportRectValidToRender(${1:normalizedViewPortRect : Rect})]]></content>
+	<tabTrigger><![CDATA[cameraEditorUtils.IsViewportRectValidToRender]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(normalizedViewPortRect)]]></description>
+</snippet>

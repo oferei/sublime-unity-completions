@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorTool.OnToolGUI(${1:EditorWindow window})]]></content>
+	<tabTrigger><![CDATA[editorTool.OnToolGUI]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(window)]]></description>
+</snippet>

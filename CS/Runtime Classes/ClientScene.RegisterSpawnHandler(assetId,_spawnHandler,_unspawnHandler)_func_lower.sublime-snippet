@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.RegisterSpawnHandler(${1:Networking.NetworkHash128 assetId}, ${2:Networking.SpawnDelegate spawnHandler}, ${3:Networking.UnSpawnDelegate unspawnHandler})]]></content>
-	<tabTrigger><![CDATA[registerSpawnHandler]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ClientScene.*(assetId, spawnHandler, unspawnHandler)]]></description>
-</snippet>

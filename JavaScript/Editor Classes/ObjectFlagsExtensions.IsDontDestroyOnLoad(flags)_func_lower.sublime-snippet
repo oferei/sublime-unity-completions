@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectFlagsExtensions.IsDontDestroyOnLoad(${1:flags : Profiling.Memory.Experimental.ObjectFlags})]]></content>
+	<tabTrigger><![CDATA[isDontDestroyOnLoad]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ObjectFlagsExtensions.*(flags)]]></description>
+</snippet>

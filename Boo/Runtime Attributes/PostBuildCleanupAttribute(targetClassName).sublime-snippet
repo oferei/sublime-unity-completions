@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PostBuildCleanupAttribute(${1:targetClassName as string})]]></content>
-	<tabTrigger><![CDATA[PostBuildCleanupAttribute]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(targetClassName)]]></description>
-</snippet>

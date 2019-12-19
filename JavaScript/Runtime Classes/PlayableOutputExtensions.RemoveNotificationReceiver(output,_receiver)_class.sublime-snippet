@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.RemoveNotificationReceiver(${1:output : U}, ${2:receiver : Playables.INotificationReceiver})]]></content>
+	<tabTrigger><![CDATA[PlayableOutputExtensions.RemoveNotificationReceiver]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(output, receiver)]]></description>
+</snippet>

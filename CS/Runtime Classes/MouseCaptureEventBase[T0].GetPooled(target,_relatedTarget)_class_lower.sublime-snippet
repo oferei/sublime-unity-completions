@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MouseCaptureEventBase<T0>.GetPooled(${1:UIElements.IEventHandler target}, ${2:UIElements.IEventHandler relatedTarget})]]></content>
+	<tabTrigger><![CDATA[mouseCaptureEventBase<T0>.GetPooled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(target, relatedTarget)]]></description>
+</snippet>

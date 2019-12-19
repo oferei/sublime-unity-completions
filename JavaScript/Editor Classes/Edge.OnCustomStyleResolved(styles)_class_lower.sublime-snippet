@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Edge.OnCustomStyleResolved(${1:styles : UIElements.ICustomStyle})]]></content>
+	<tabTrigger><![CDATA[edge.OnCustomStyleResolved]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(styles)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Application.IsPlaying(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[IsPlaying]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Application.*(obj)]]></description>
+</snippet>

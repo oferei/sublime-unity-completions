@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InspectorNameAttribute(${1:string displayName})]]></content>
+	<tabTrigger><![CDATA[inspectorNameAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(displayName)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.RegisterShader(${1:shader as Shader})]]></content>
+	<tabTrigger><![CDATA[registerShader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ShaderUtil.*(shader)]]></description>
+</snippet>

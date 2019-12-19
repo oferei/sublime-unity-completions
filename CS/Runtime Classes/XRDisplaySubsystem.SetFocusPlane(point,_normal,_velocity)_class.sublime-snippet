@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRDisplaySubsystem.SetFocusPlane(${1:Vector3 point}, ${2:Vector3 normal}, ${3:Vector3 velocity})]]></content>
+	<tabTrigger><![CDATA[XRDisplaySubsystem.SetFocusPlane]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(point, normal, velocity)]]></description>
+</snippet>

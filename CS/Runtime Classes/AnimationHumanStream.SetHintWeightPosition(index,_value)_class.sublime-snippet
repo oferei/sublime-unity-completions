@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetHintWeightPosition(${1:AvatarIKHint index}, ${2:float value})]]></content>
+	<tabTrigger><![CDATA[AnimationHumanStream.SetHintWeightPosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, value)]]></description>
+</snippet>

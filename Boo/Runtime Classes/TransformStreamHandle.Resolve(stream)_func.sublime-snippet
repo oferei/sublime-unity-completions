@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.Resolve(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[Resolve]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream)]]></description>
+</snippet>

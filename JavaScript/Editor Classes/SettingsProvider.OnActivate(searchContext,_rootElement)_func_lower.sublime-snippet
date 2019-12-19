@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsProvider.OnActivate(${1:searchContext : string}, ${2:rootElement : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[onActivate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SettingsProvider.*(searchContext, rootElement)]]></description>
+</snippet>

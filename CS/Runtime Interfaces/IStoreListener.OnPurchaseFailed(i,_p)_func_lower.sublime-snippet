@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreListener.OnPurchaseFailed(${1:Purchasing.Product i}, ${2:Purchasing.PurchaseFailureReason p})]]></content>
-	<tabTrigger><![CDATA[onPurchaseFailed]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IStoreListener.*(i, p)]]></description>
-</snippet>

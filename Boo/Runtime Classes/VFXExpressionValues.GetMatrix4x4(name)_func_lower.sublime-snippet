@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXExpressionValues.GetMatrix4x4(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[getMatrix4x4]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VFXExpressionValues.*(name)]]></description>
+</snippet>

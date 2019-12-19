@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapBox(${1:point : Vector2}, ${2:size : Vector2}, ${3:angle : float}, ${4:contactFilter : ContactFilter2D}, ${5:results : Collider2D[]})]]></content>
+	<content><![CDATA[Physics2D.OverlapBox(${1:point : Vector2}, ${2:size : Vector2}, ${3:angle : float}, ${4:contactFilter : ContactFilter2D}, ${5:results : List<Collider2D>})]]></content>
 	<tabTrigger><![CDATA[Physics2D.OverlapBox]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(point, size, angle, contactFilter, results)]]></description>

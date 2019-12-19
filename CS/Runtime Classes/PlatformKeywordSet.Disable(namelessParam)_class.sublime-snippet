@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlatformKeywordSet.Disable(${1:ShaderKeyword namelessParam})]]></content>
+	<tabTrigger><![CDATA[PlatformKeywordSet.Disable]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(namelessParam)]]></description>
+</snippet>

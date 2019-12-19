@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExternalForcesModule.IsAffectedBy(${1:field as ParticleSystemForceField})]]></content>
+	<tabTrigger><![CDATA[IsAffectedBy]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ExternalForcesModule.*(field)]]></description>
+</snippet>

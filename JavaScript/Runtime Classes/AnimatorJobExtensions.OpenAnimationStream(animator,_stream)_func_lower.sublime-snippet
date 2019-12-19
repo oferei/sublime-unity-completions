@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorJobExtensions.OpenAnimationStream(${1:animator : Animator}, ${2:stream : ref Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[openAnimationStream]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorJobExtensions.*(animator, stream)]]></description>
+</snippet>

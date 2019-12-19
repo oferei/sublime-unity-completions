@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MuscleHandle.GetMuscleHandles(${1:muscleHandles as out (MuscleHandle)})]]></content>
+	<tabTrigger><![CDATA[MuscleHandle.GetMuscleHandles]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(muscleHandles)]]></description>
+</snippet>

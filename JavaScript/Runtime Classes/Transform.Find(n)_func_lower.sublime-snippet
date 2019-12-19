@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.Find(${1:n : string})]]></content>
+	<tabTrigger><![CDATA[find]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(n)]]></description>
+</snippet>

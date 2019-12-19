@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VisualElementFocusRing.GetNextFocusable(${1:currentFocusable as Experimental.UIElements.Focusable}, ${2:direction as Experimental.UIElements.FocusChangeDirection})]]></content>
+	<content><![CDATA[VisualElementFocusRing.GetNextFocusable(${1:currentFocusable as UIElements.Focusable}, ${2:direction as UIElements.FocusChangeDirection})]]></content>
 	<tabTrigger><![CDATA[visualElementFocusRing.GetNextFocusable]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(currentFocusable, direction)]]></description>

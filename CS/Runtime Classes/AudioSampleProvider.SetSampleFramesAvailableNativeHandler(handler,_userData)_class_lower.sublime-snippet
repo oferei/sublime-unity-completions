@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSampleProvider.SetSampleFramesAvailableNativeHandler(${1:Experimental.Audio.AudioSampleProvider.SampleFramesEventNativeFunction handler}, ${2:IntPtr userData})]]></content>
+	<tabTrigger><![CDATA[audioSampleProvider.SetSampleFramesAvailableNativeHandler]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(handler, userData)]]></description>
+</snippet>

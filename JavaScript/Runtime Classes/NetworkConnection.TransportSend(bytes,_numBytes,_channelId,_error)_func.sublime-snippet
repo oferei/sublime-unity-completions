@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.TransportSend(${1:bytes : byte[]}, ${2:numBytes : int}, ${3:channelId : int}, ${4:error : out byte})]]></content>
-	<tabTrigger><![CDATA[TransportSend]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkConnection.*(bytes, numBytes, channelId, error)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutGroup.SetProperty(${1:ref T currentValue}, ${2:T newValue})]]></content>
-	<tabTrigger><![CDATA[SetProperty]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[LayoutGroup.*(currentValue, newValue)]]></description>
-</snippet>

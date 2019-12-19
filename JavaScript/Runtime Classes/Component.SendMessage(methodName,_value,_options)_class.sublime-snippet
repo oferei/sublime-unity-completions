@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Component.SendMessage(${1:methodName : string}, ${2:value : object = null}, ${3:options : SendMessageOptions = SendMessageOptions.RequireReceiver})]]></content>
+	<content><![CDATA[Component.SendMessage(${1:methodName : string}, ${2:value : object}, ${3:options : SendMessageOptions})]]></content>
 	<tabTrigger><![CDATA[Component.SendMessage]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(methodName, value, options)]]></description>

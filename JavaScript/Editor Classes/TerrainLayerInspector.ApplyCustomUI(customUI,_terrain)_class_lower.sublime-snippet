@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerInspector.ApplyCustomUI(${1:customUI : ITerrainLayerCustomUI}, ${2:terrain : Terrain})]]></content>
+	<tabTrigger><![CDATA[terrainLayerInspector.ApplyCustomUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(customUI, terrain)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetRemoteDelayTimeMS(${1:hostId : int}, ${2:connectionId : int}, ${3:remoteTime : int}, ${4:error : out byte})]]></content>
-	<tabTrigger><![CDATA[NetworkTransport.GetRemoteDelayTimeMS]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(hostId, connectionId, remoteTime, error)]]></description>
-</snippet>

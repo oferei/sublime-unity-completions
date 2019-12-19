@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptPlayableBinding.Create(${1:string name}, ${2:Object key}, ${3:Type type})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptPlayableBinding.*(name, key, type)]]></description>
+</snippet>

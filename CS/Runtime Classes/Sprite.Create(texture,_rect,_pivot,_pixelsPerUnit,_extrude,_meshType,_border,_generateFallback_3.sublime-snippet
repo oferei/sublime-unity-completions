@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.Create(${1:Texture2D texture}, ${2:Rect rect}, ${3:Vector2 pivot}, ${4:float pixelsPerUnit}, ${5:uint extrude}, ${6:SpriteMeshType meshType}, ${7:Vector4 border}, ${8:bool generateFallbackPhysicsShape})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Sprite.*(texture, rect, pivot, pixelsPerUnit, extrude, meshType, border, generateFallbackPhysicsShape)]]></description>
+</snippet>

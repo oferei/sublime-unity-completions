@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.Malloc(${1:size : ulong}, ${2:alignment : int}, ${3:allocator : Allocator})]]></content>
+	<tabTrigger><![CDATA[UnsafeUtility.Malloc]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(size, alignment, allocator)]]></description>
+</snippet>

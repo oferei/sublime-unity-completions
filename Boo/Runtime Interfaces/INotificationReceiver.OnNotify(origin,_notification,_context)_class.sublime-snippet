@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[INotificationReceiver.OnNotify(${1:origin as Playables.Playable}, ${2:notification as Playables.INotification}, ${3:context as object})]]></content>
+	<tabTrigger><![CDATA[INotificationReceiver.OnNotify]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(origin, notification, context)]]></description>
+</snippet>

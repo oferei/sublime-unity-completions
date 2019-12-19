@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderTagId(${1:name : string})]]></content>
+	<tabTrigger><![CDATA[shaderTagId]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

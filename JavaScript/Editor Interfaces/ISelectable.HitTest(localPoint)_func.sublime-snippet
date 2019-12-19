@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISelectable.HitTest(${1:localPoint : Vector2})]]></content>
+	<tabTrigger><![CDATA[HitTest]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ISelectable.*(localPoint)]]></description>
+</snippet>

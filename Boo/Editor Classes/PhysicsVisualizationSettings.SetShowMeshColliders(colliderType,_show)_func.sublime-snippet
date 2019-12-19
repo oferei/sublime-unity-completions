@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowMeshColliders(${1:colliderType as PhysicsVisualizationSettings.MeshColliderType}, ${2:show as bool})]]></content>
+	<tabTrigger><![CDATA[SetShowMeshColliders]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(colliderType, show)]]></description>
+</snippet>

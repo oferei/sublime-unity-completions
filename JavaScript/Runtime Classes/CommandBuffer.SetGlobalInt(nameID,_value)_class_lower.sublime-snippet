@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalInt(${1:nameID : int}, ${2:value : int})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetGlobalInt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, value)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IParticleSystemJob.ProcessParticleSystem(${1:jobData as Experimental.ParticleSystemJobs.ParticleSystemJobData})]]></content>
+	<tabTrigger><![CDATA[iParticleSystemJob.ProcessParticleSystem]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(jobData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UsesLuminPrivilegeAttribute(${1:string privilege})]]></content>
+	<tabTrigger><![CDATA[usesLuminPrivilegeAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(privilege)]]></description>
+</snippet>

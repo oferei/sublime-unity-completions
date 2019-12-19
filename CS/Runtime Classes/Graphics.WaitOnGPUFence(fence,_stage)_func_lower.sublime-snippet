@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.WaitOnGPUFence(${1:Rendering.GPUFence fence}, ${2:Rendering.SynchronisationStage stage = SynchronisationStage.VertexProcessing})]]></content>
-	<tabTrigger><![CDATA[waitOnGPUFence]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Graphics.*(fence, stage)]]></description>
-</snippet>

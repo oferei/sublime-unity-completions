@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.LoadFromMemory(${1:binary : byte[]}, ${2:crc : uint = 0})]]></content>
+	<content><![CDATA[AssetBundle.LoadFromMemory(${1:binary : byte[]}, ${2:crc : uint})]]></content>
 	<tabTrigger><![CDATA[AssetBundle.LoadFromMemory]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(binary, crc)]]></description>

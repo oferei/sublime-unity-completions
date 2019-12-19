@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Selectable.IsHighlighted(${1:EventSystems.BaseEventData eventData})]]></content>
-	<tabTrigger><![CDATA[isHighlighted]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Selectable.*(eventData)]]></description>
-</snippet>

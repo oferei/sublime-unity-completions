@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IRenderPipeline.Render(${1:Experimental.Rendering.ScriptableRenderContext renderContext}, ${2:Camera[] cameras})]]></content>
-	<tabTrigger><![CDATA[iRenderPipeline.Render]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(renderContext, cameras)]]></description>
-</snippet>

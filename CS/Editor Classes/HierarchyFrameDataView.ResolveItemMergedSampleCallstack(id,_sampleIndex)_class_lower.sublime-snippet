@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HierarchyFrameDataView.ResolveItemMergedSampleCallstack(${1:int id}, ${2:int sampleIndex})]]></content>
+	<tabTrigger><![CDATA[hierarchyFrameDataView.ResolveItemMergedSampleCallstack]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id, sampleIndex)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackageInfo.FindForAssembly(${1:assembly as Compilation.Assembly})]]></content>
+	<tabTrigger><![CDATA[PackageInfo.FindForAssembly]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(assembly)]]></description>
+</snippet>

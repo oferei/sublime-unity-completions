@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Collision.GetContact(${1:int index})]]></content>
+	<tabTrigger><![CDATA[getContact]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Collision.*(index)]]></description>
+</snippet>

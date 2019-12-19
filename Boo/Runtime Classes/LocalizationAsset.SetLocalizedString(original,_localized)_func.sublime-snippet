@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LocalizationAsset.SetLocalizedString(${1:original as string}, ${2:localized as string})]]></content>
+	<tabTrigger><![CDATA[SetLocalizedString]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LocalizationAsset.*(original, localized)]]></description>
+</snippet>

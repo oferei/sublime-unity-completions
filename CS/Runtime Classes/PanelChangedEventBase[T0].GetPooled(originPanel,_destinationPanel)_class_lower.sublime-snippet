@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PanelChangedEventBase<T0>.GetPooled(${1:UIElements.IPanel originPanel}, ${2:UIElements.IPanel destinationPanel})]]></content>
+	<tabTrigger><![CDATA[panelChangedEventBase<T0>.GetPooled]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(originPanel, destinationPanel)]]></description>
+</snippet>

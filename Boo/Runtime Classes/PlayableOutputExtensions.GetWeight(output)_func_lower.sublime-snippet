@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.GetWeight(${1:output as U})]]></content>
+	<tabTrigger><![CDATA[getWeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PlayableOutputExtensions.*(output)]]></description>
+</snippet>

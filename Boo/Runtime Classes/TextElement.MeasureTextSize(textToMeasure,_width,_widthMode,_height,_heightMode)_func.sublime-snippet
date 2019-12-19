@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextElement.MeasureTextSize(${1:textToMeasure as string}, ${2:width as single}, ${3:widthMode as UIElements.VisualElement.MeasureMode}, ${4:height as single}, ${5:heightMode as UIElements.VisualElement.MeasureMode})]]></content>
+	<tabTrigger><![CDATA[MeasureTextSize]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TextElement.*(textToMeasure, width, widthMode, height, heightMode)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetPrefabInstanceStatus(${1:componentOrGameObject as Object})]]></content>
+	<tabTrigger><![CDATA[prefabUtility.GetPrefabInstanceStatus]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(componentOrGameObject)]]></description>
+</snippet>

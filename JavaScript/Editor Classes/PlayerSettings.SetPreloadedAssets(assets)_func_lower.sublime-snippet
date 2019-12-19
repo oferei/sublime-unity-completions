@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetPreloadedAssets(${1:assets : Object[]})]]></content>
+	<tabTrigger><![CDATA[setPreloadedAssets]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerSettings.*(assets)]]></description>
+</snippet>

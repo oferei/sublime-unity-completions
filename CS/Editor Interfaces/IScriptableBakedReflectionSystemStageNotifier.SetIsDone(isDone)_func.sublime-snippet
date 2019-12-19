@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IScriptableBakedReflectionSystemStageNotifier.SetIsDone(${1:bool isDone})]]></content>
+	<tabTrigger><![CDATA[SetIsDone]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IScriptableBakedReflectionSystemStageNotifier.*(isDone)]]></description>
+</snippet>

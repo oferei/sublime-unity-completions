@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ICustomStyle.TryGetValue(${1:property as CustomStyleProperty<string>}, ${2:value as out string})]]></content>
+	<tabTrigger><![CDATA[tryGetValue]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ICustomStyle.*(property, value)]]></description>
+</snippet>

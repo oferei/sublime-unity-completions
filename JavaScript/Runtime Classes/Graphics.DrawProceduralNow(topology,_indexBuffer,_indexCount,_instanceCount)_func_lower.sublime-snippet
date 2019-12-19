@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProceduralNow(${1:topology : MeshTopology}, ${2:indexBuffer : GraphicsBuffer}, ${3:indexCount : int}, ${4:instanceCount : int})]]></content>
+	<tabTrigger><![CDATA[drawProceduralNow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(topology, indexBuffer, indexCount, instanceCount)]]></description>
+</snippet>

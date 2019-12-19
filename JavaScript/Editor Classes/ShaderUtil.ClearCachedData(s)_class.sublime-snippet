@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.ClearCachedData(${1:s : Shader})]]></content>
+	<tabTrigger><![CDATA[ShaderUtil.ClearCachedData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(s)]]></description>
+</snippet>

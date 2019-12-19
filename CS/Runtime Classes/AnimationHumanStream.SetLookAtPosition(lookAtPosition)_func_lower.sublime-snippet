@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetLookAtPosition(${1:Vector3 lookAtPosition})]]></content>
+	<tabTrigger><![CDATA[setLookAtPosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationHumanStream.*(lookAtPosition)]]></description>
+</snippet>

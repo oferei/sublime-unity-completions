@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PointerInputModule.GetTouchPointerEventData(${1:input : Touch}, ${2:pressed : out bool}, ${3:released : out bool})]]></content>
-	<tabTrigger><![CDATA[PointerInputModule.GetTouchPointerEventData]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(input, pressed, released)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobHandle.CompleteAll(${1:job0 : ref Unity.Jobs.JobHandle}, ${2:job1 : ref Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[JobHandle.CompleteAll]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(job0, job1)]]></description>
+</snippet>

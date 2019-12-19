@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.UnSpawn(${1:GameObject obj})]]></content>
-	<tabTrigger><![CDATA[UnSpawn]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkServer.*(obj)]]></description>
-</snippet>

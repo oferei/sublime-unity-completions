@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSampleProvider.ConsumeSampleFramesNativeFunction(${1:uint providerId}, ${2:IntPtr interleavedSampleFrames}, ${3:uint sampleFrameCount})]]></content>
+	<tabTrigger><![CDATA[ConsumeSampleFramesNativeFunction]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AudioSampleProvider.*(providerId, interleavedSampleFrames, sampleFrameCount)]]></description>
+</snippet>

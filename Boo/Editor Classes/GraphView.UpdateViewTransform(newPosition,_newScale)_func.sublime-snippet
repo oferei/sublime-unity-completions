@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.UpdateViewTransform(${1:newPosition as Vector3}, ${2:newScale as Vector3})]]></content>
+	<tabTrigger><![CDATA[UpdateViewTransform]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[GraphView.*(newPosition, newScale)]]></description>
+</snippet>

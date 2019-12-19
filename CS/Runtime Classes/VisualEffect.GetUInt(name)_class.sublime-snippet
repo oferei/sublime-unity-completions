@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.GetUInt(${1:string name})]]></content>
+	<tabTrigger><![CDATA[VisualEffect.GetUInt]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

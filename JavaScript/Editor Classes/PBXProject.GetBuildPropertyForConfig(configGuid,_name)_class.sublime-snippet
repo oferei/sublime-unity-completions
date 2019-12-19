@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetBuildPropertyForConfig(${1:configGuid : string}, ${2:name : string})]]></content>
+	<tabTrigger><![CDATA[PBXProject.GetBuildPropertyForConfig]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(configGuid, name)]]></description>
+</snippet>

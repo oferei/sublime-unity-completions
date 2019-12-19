@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.SendReconnectMessage(${1:extraMessage : Networking.MessageBase})]]></content>
-	<tabTrigger><![CDATA[SendReconnectMessage]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ClientScene.*(extraMessage)]]></description>
-</snippet>

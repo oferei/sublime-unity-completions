@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StreamingController.SetPreloading(${1:timeoutSeconds : float}, ${2:activateCameraOnTimeout : bool}, ${3:disableCameraCuttingFrom : Camera})]]></content>
+	<tabTrigger><![CDATA[streamingController.SetPreloading]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(timeoutSeconds, activateCameraOnTimeout, disableCameraCuttingFrom)]]></description>
+</snippet>

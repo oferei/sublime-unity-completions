@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetCorrespondingObjectFromOriginalSource(${1:TObject componentOrGameObject})]]></content>
+	<tabTrigger><![CDATA[getCorrespondingObjectFromOriginalSource]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PrefabUtility.*(componentOrGameObject)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.ApplyTo(${1:Object target}, ${2:string[] selectedPropertyPaths})]]></content>
+	<tabTrigger><![CDATA[applyTo]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Preset.*(target, selectedPropertyPaths)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetPlatformIcons(${1:platform : BuildTargetGroup}, ${2:kind : PlatformIconKind})]]></content>
+	<tabTrigger><![CDATA[playerSettings.GetPlatformIcons]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(platform, kind)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectFactory.CreateInstance(${1:type : Type})]]></content>
+	<tabTrigger><![CDATA[objectFactory.CreateInstance]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(type)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingResults.FillLightAndReflectionProbeIndices(${1:computeBuffer : ComputeBuffer})]]></content>
+	<tabTrigger><![CDATA[CullingResults.FillLightAndReflectionProbeIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(computeBuffer)]]></description>
+</snippet>

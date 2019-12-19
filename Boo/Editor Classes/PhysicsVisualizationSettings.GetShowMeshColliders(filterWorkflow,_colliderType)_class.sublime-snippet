@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PhysicsVisualizationSettings.GetShowMeshColliders(${1:filterWorkflow as PhysicsVisualizationSettings.FilterWorkflow}, ${2:colliderType as PhysicsVisualizationSettings.MeshColliderType})]]></content>
-	<tabTrigger><![CDATA[PhysicsVisualizationSettings.GetShowMeshColliders]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(filterWorkflow, colliderType)]]></description>
-</snippet>

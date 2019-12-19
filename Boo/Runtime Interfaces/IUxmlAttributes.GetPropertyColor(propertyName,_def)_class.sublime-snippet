@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUxmlAttributes.GetPropertyColor(${1:propertyName as string}, ${2:def as Color})]]></content>
-	<tabTrigger><![CDATA[IUxmlAttributes.GetPropertyColor]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(propertyName, def)]]></description>
-</snippet>

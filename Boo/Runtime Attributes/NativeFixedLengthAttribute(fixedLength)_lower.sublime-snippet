@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeFixedLengthAttribute(${1:fixedLength as int})]]></content>
+	<tabTrigger><![CDATA[nativeFixedLengthAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(fixedLength)]]></description>
+</snippet>

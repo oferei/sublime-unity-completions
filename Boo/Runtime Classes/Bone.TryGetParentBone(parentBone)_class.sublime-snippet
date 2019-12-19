@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bone.TryGetParentBone(${1:parentBone as out XR.Bone})]]></content>
+	<tabTrigger><![CDATA[Bone.TryGetParentBone]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(parentBone)]]></description>
+</snippet>

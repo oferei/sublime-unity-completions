@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Clickable(${1:handler as Action})]]></content>
+	<tabTrigger><![CDATA[clickable]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handler)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreListener.OnInitialized(${1:controller : Purchasing.IStoreController}, ${2:extensions : Purchasing.IExtensionProvider})]]></content>
-	<tabTrigger><![CDATA[iStoreListener.OnInitialized]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(controller, extensions)]]></description>
-</snippet>

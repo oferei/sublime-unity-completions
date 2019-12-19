@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderUtil.GetShaderData(${1:shader : Shader})]]></content>
+	<tabTrigger><![CDATA[GetShaderData]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ShaderUtil.*(shader)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BrushTransform.FromRect(${1:brushRect as Rect})]]></content>
+	<tabTrigger><![CDATA[brushTransform.FromRect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(brushRect)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.OverlapCollider(${1:Collider2D collider}, ${2:Collider2D[] results}, ${3:int layerMask = Physics2D.DefaultRaycastLayers})]]></content>
+	<tabTrigger><![CDATA[PhysicsScene2D.OverlapCollider]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(collider, results, layerMask)]]></description>
+</snippet>

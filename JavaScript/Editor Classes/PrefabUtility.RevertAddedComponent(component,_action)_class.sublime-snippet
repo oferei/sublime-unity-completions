@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.RevertAddedComponent(${1:component : Component}, ${2:action : InteractionMode})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.RevertAddedComponent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(component, action)]]></description>
+</snippet>

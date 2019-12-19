@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.ColorField(${1:position : Rect}, ${2:label : GUIContent}, ${3:value : Color}, ${4:showEyedropper : bool}, ${5:showAlpha : bool}, ${6:hdr : bool})]]></content>
+	<tabTrigger><![CDATA[ColorField]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EditorGUI.*(position, label, value, showEyedropper, showAlpha, hdr)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.GetTypeForObjects(${1:objectIDs as (ObjectIdentifier)})]]></content>
+	<tabTrigger><![CDATA[contentBuildInterface.GetTypeForObjects]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(objectIDs)]]></description>
+</snippet>

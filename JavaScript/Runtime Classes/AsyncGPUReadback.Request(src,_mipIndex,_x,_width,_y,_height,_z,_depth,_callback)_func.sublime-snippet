@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AsyncGPUReadback.Request(${1:src : Texture}, ${2:mipIndex : int}, ${3:x : int}, ${4:width : int}, ${5:y : int}, ${6:height : int}, ${7:z : int}, ${8:depth : int}, ${9:callback : Action<AsyncGPUReadbackRequest>})]]></content>
+	<tabTrigger><![CDATA[Request]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AsyncGPUReadback.*(src, mipIndex, x, width, y, height, z, depth, callback)]]></description>
+</snippet>

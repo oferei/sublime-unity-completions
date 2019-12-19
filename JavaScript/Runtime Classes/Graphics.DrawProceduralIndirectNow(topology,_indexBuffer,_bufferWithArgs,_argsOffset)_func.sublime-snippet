@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.DrawProceduralIndirectNow(${1:topology : MeshTopology}, ${2:indexBuffer : GraphicsBuffer}, ${3:bufferWithArgs : ComputeBuffer}, ${4:argsOffset : int})]]></content>
+	<tabTrigger><![CDATA[DrawProceduralIndirectNow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Graphics.*(topology, indexBuffer, bufferWithArgs, argsOffset)]]></description>
+</snippet>

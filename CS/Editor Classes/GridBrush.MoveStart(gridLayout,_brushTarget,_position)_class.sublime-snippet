@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.MoveStart(${1:GridLayout gridLayout}, ${2:GameObject brushTarget}, ${3:BoundsInt position})]]></content>
-	<tabTrigger><![CDATA[GridBrush.MoveStart]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(gridLayout, brushTarget, position)]]></description>
-</snippet>

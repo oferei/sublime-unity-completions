@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VideoPlayerExtensions.GetAudioSampleProvider(${1:vp : Video.VideoPlayer}, ${2:trackIndex : ushort})]]></content>
+	<tabTrigger><![CDATA[videoPlayerExtensions.GetAudioSampleProvider]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(vp, trackIndex)]]></description>
+</snippet>

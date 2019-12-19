@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArray<T0>.Copy(${1:src as NativeArray<T>}, ${2:dst as (T)})]]></content>
+	<tabTrigger><![CDATA[Copy]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NativeArray<T0>.*(src, dst)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.GetElementByGuid(${1:guid : string})]]></content>
+	<tabTrigger><![CDATA[getElementByGuid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[GraphView.*(guid)]]></description>
+</snippet>

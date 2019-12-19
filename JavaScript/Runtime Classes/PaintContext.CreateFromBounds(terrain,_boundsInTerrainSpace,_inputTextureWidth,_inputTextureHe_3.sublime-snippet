@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.CreateFromBounds(${1:terrain : Terrain}, ${2:boundsInTerrainSpace : Rect}, ${3:inputTextureWidth : int}, ${4:inputTextureHeight : int}, ${5:extraBorderPixels : int})]]></content>
+	<tabTrigger><![CDATA[CreateFromBounds]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PaintContext.*(terrain, boundsInTerrainSpace, inputTextureWidth, inputTextureHeight, extraBorderPixels)]]></description>
+</snippet>

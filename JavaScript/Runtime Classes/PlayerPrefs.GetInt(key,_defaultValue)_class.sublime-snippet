@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[PlayerPrefs.GetInt(${1:key : string}, ${2:defaultValue : int = 0})]]></content>
+	<content><![CDATA[PlayerPrefs.GetInt(${1:key : string}, ${2:defaultValue : int})]]></content>
 	<tabTrigger><![CDATA[PlayerPrefs.GetInt]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(key, defaultValue)]]></description>

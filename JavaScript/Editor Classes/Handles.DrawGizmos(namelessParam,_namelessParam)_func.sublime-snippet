@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.DrawGizmos(${1:namelessParam : Camera}, ${2:namelessParam : GizmoSubset})]]></content>
+	<tabTrigger><![CDATA[DrawGizmos]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Handles.*(namelessParam, namelessParam)]]></description>
+</snippet>

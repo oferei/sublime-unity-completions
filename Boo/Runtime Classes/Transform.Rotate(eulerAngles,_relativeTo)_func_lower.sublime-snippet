@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Transform.Rotate(${1:eulerAngles as Vector3}, ${2:relativeTo as Space = Space.Self})]]></content>
-	<tabTrigger><![CDATA[rotate]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Transform.*(eulerAngles, relativeTo)]]></description>
-</snippet>

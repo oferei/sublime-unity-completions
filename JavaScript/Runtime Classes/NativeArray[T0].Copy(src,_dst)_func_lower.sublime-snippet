@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeArray<T0>.Copy(${1:src : NativeArray<T>}, ${2:dst : T[]})]]></content>
+	<tabTrigger><![CDATA[copy]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NativeArray<T0>.*(src, dst)]]></description>
+</snippet>

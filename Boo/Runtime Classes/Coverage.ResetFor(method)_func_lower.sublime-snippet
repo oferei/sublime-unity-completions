@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Coverage.ResetFor(${1:method as MethodBase})]]></content>
+	<tabTrigger><![CDATA[resetFor]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Coverage.*(method)]]></description>
+</snippet>

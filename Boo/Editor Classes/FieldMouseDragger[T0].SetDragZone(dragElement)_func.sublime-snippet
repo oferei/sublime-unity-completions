@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FieldMouseDragger<T0>.SetDragZone(${1:dragElement as UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[SetDragZone]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[FieldMouseDragger<T0>.*(dragElement)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeDB.GetObjectData(${1:info as Build.Content.SerializationInfo}, ${2:context as StreamingContext})]]></content>
+	<tabTrigger><![CDATA[getObjectData]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TypeDB.*(info, context)]]></description>
+</snippet>

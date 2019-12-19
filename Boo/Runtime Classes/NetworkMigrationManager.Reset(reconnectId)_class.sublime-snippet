@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.Reset(${1:reconnectId as int})]]></content>
-	<tabTrigger><![CDATA[NetworkMigrationManager.Reset]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(reconnectId)]]></description>
-</snippet>

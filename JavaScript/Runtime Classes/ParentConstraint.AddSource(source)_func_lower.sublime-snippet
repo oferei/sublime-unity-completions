@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParentConstraint.AddSource(${1:source : Animations.ConstraintSource})]]></content>
+	<tabTrigger><![CDATA[addSource]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ParentConstraint.*(source)]]></description>
+</snippet>

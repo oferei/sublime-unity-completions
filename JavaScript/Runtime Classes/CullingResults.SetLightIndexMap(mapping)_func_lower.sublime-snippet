@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingResults.SetLightIndexMap(${1:mapping : int[]})]]></content>
+	<tabTrigger><![CDATA[setLightIndexMap]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CullingResults.*(mapping)]]></description>
+</snippet>

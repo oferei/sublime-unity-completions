@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXSpawnerCallbacks.OnStop(${1:state as Experimental.VFX.VFXSpawnerState}, ${2:vfxValues as Experimental.VFX.VFXExpressionValues}, ${3:vfxComponent as Experimental.VFX.VisualEffect})]]></content>
+	<tabTrigger><![CDATA[onStop]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VFXSpawnerCallbacks.*(state, vfxValues, vfxComponent)]]></description>
+</snippet>

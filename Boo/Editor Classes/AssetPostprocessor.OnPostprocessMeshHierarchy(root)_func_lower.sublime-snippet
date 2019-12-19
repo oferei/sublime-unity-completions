@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessMeshHierarchy(${1:root as GameObject})]]></content>
+	<tabTrigger><![CDATA[onPostprocessMeshHierarchy]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetPostprocessor.*(root)]]></description>
+</snippet>

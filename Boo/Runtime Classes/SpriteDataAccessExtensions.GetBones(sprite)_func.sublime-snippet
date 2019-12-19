@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.GetBones(${1:sprite as Sprite})]]></content>
+	<tabTrigger><![CDATA[GetBones]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SpriteDataAccessExtensions.*(sprite)]]></description>
+</snippet>

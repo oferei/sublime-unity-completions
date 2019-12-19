@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Clipping.FindCullAndClipWorldRect(${1:List<RectMask2D> rectMaskParents}, ${2:out bool validRect})]]></content>
-	<tabTrigger><![CDATA[findCullAndClipWorldRect]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[Clipping.*(rectMaskParents, validRect)]]></description>
-</snippet>

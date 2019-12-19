@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderImporter.SetNonModifiableTextures(${1:name as (string)}, ${2:textures as (Texture)})]]></content>
+	<tabTrigger><![CDATA[setNonModifiableTextures]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ShaderImporter.*(name, textures)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlStringAttributeDescription.GetValueFromBag(${1:bag : UIElements.IUxmlAttributes}, ${2:cc : UIElements.CreationContext})]]></content>
+	<tabTrigger><![CDATA[getValueFromBag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UxmlStringAttributeDescription.*(bag, cc)]]></description>
+</snippet>

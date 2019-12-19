@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraEditorUtils.PerspectiveClipToWorld(${1:clipToWorld : Matrix4x4}, ${2:viewPositionWS : Vector3}, ${3:positionCS : Vector3})]]></content>
+	<tabTrigger><![CDATA[perspectiveClipToWorld]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CameraEditorUtils.*(clipToWorld, viewPositionWS, positionCS)]]></description>
+</snippet>

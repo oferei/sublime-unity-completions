@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.BuildTransformPaintContextUVToPaintContextUV(${1:Experimental.TerrainAPI.PaintContext src}, ${2:Experimental.TerrainAPI.PaintContext dst}, ${3:out Vector4 scaleOffset})]]></content>
+	<tabTrigger><![CDATA[BuildTransformPaintContextUVToPaintContextUV]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TerrainPaintUtility.*(src, dst, scaleOffset)]]></description>
+</snippet>

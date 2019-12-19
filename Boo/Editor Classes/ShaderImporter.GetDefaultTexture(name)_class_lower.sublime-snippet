@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderImporter.GetDefaultTexture(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[shaderImporter.GetDefaultTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneVisibilityManager.Hide(${1:scene : SceneManagement.Scene})]]></content>
+	<tabTrigger><![CDATA[sceneVisibilityManager.Hide]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(scene)]]></description>
+</snippet>

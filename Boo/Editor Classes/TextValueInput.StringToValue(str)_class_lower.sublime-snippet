@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextValueInput.StringToValue(${1:str as string})]]></content>
+	<tabTrigger><![CDATA[textValueInput.StringToValue]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(str)]]></description>
+</snippet>

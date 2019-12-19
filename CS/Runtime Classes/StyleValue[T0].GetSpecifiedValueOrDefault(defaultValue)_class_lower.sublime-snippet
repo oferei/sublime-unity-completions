@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StyleValue<T0>.GetSpecifiedValueOrDefault(${1:T defaultValue})]]></content>
-	<tabTrigger><![CDATA[styleValue<T0>.GetSpecifiedValueOrDefault]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(defaultValue)]]></description>
-</snippet>

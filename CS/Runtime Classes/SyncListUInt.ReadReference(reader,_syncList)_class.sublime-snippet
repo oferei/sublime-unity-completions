@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SyncListUInt.ReadReference(${1:Networking.NetworkReader reader}, ${2:Networking.SyncListUInt syncList})]]></content>
-	<tabTrigger><![CDATA[SyncListUInt.ReadReference]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(reader, syncList)]]></description>
-</snippet>

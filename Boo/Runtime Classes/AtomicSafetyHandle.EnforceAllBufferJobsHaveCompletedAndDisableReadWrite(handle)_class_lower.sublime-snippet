@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.EnforceAllBufferJobsHaveCompletedAndDisableReadWrite(${1:handle as Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle})]]></content>
+	<tabTrigger><![CDATA[atomicSafetyHandle.EnforceAllBufferJobsHaveCompletedAndDisableReadWrite]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handle)]]></description>
+</snippet>

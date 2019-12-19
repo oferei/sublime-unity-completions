@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ICancelHandler.OnCancel(${1:eventData as EventSystems.BaseEventData})]]></content>
-	<tabTrigger><![CDATA[iCancelHandler.OnCancel]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

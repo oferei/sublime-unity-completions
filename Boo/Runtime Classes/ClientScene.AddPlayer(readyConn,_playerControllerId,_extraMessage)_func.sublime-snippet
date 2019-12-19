@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.AddPlayer(${1:readyConn as Networking.NetworkConnection}, ${2:playerControllerId as short}, ${3:extraMessage as Networking.MessageBase})]]></content>
-	<tabTrigger><![CDATA[AddPlayer]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[ClientScene.*(readyConn, playerControllerId, extraMessage)]]></description>
-</snippet>

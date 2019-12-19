@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXManager.SetCameraBuffer(${1:cam : Camera}, ${2:type : VFXCameraBufferType}, ${3:buffer : Texture}, ${4:x : int}, ${5:y : int}, ${6:width : int}, ${7:height : int})]]></content>
+	<tabTrigger><![CDATA[SetCameraBuffer]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VFXManager.*(cam, type, buffer, x, y, width, height)]]></description>
+</snippet>

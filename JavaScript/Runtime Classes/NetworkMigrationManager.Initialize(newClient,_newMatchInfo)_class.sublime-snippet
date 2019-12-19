@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMigrationManager.Initialize(${1:newClient : Networking.NetworkClient}, ${2:newMatchInfo : Networking.Match.MatchInfo})]]></content>
-	<tabTrigger><![CDATA[NetworkMigrationManager.Initialize]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(newClient, newMatchInfo)]]></description>
-</snippet>

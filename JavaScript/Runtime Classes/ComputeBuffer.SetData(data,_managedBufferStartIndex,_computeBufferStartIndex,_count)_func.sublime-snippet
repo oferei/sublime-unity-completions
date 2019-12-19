@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ComputeBuffer.SetData(${1:data : Array}, ${2:managedBufferStartIndex : int}, ${3:computeBufferStartIndex : int}, ${4:count : int})]]></content>
+	<content><![CDATA[ComputeBuffer.SetData(${1:data : List<T>}, ${2:managedBufferStartIndex : int}, ${3:computeBufferStartIndex : int}, ${4:count : int})]]></content>
 	<tabTrigger><![CDATA[SetData]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[ComputeBuffer.*(data, managedBufferStartIndex, computeBufferStartIndex, count)]]></description>

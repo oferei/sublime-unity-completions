@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.GetShortcutBinding(${1:shortcutId as string})]]></content>
+	<tabTrigger><![CDATA[iShortcutManager.GetShortcutBinding]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shortcutId)]]></description>
+</snippet>

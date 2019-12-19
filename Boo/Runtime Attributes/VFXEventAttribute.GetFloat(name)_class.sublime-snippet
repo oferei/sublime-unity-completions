@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.GetFloat(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[VFXEventAttribute.GetFloat]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

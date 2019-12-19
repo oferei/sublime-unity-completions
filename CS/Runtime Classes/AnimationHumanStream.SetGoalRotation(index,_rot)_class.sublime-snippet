@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetGoalRotation(${1:AvatarIKGoal index}, ${2:Quaternion rot})]]></content>
+	<tabTrigger><![CDATA[AnimationHumanStream.SetGoalRotation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, rot)]]></description>
+</snippet>

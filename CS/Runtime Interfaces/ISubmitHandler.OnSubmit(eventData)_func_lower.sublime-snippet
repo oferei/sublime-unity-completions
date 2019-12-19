@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ISubmitHandler.OnSubmit(${1:EventSystems.BaseEventData eventData})]]></content>
-	<tabTrigger><![CDATA[onSubmit]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ISubmitHandler.*(eventData)]]></description>
-</snippet>

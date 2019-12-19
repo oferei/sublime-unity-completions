@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowTriggers(${1:bool show})]]></content>
+	<tabTrigger><![CDATA[SetShowTriggers]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(show)]]></description>
+</snippet>

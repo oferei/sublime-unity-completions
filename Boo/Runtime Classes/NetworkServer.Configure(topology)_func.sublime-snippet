@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.Configure(${1:topology as Networking.HostTopology})]]></content>
-	<tabTrigger><![CDATA[Configure]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(topology)]]></description>
-</snippet>

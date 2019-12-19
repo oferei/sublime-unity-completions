@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnDeselect(${1:eventData as EventSystems.BaseEventData})]]></content>
-	<tabTrigger><![CDATA[OnDeselect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EventTrigger.*(eventData)]]></description>
-</snippet>

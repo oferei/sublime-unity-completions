@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.InstantiatePrefab(${1:Object target}, ${2:SceneManagement.Scene destinationScene})]]></content>
-	<tabTrigger><![CDATA[InstantiatePrefab]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[PrefabUtility.*(target, destinationScene)]]></description>
-</snippet>

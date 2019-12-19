@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextInputBase.BuildContextualMenu(${1:evt as UIElements.ContextualMenuPopulateEvent})]]></content>
+	<tabTrigger><![CDATA[buildContextualMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TextInputBase.*(evt)]]></description>
+</snippet>

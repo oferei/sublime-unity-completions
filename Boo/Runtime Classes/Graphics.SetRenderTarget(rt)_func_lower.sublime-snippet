@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.SetRenderTarget(${1:rt as RenderTexture})]]></content>
-	<tabTrigger><![CDATA[setRenderTarget]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Graphics.*(rt)]]></description>
-</snippet>

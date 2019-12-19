@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingResults.ComputeDirectionalShadowMatricesAndCullingPrimitives(${1:activeLightIndex : int}, ${2:splitIndex : int}, ${3:splitCount : int}, ${4:splitRatio : Vector3}, ${5:shadowResolution : int}, ${6:shadowNearPlaneOffset : float}, ${7:viewMatrix : out Matrix4x4}, ${8:projMatrix : out Matrix4x4}, ${9:shadowSplitData : out Rendering.ShadowSplitData})]]></content>
+	<tabTrigger><![CDATA[CullingResults.ComputeDirectionalShadowMatricesAndCullingPrimitives]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(activeLightIndex, splitIndex, splitCount, splitRatio, shadowResolution, shadowNearPlaneOffset, viewMatrix, projMatrix, shadowSplitData)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.HasTexture(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[visualEffect.HasTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

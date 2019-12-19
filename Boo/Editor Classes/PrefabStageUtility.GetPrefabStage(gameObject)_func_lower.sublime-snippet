@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabStageUtility.GetPrefabStage(${1:gameObject as GameObject})]]></content>
+	<tabTrigger><![CDATA[getPrefabStage]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabStageUtility.*(gameObject)]]></description>
+</snippet>

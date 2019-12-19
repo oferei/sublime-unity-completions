@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.SetWeight(${1:output : U}, ${2:value : float})]]></content>
+	<tabTrigger><![CDATA[SetWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableOutputExtensions.*(output, value)]]></description>
+</snippet>

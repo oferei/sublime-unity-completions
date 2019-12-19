@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.TryParse(${1:string stringValue}, ${2:out GlobalObjectId id})]]></content>
+	<tabTrigger><![CDATA[GlobalObjectId.TryParse]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(stringValue, id)]]></description>
+</snippet>

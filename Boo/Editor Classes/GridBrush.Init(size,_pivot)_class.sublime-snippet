@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.Init(${1:size as Vector3Int}, ${2:pivot as Vector3Int})]]></content>
-	<tabTrigger><![CDATA[GridBrush.Init]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(size, pivot)]]></description>
-</snippet>

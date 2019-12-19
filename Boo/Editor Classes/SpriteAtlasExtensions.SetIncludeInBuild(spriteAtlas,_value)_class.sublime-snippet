@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.SetIncludeInBuild(${1:spriteAtlas as U2D.SpriteAtlas}, ${2:value as bool})]]></content>
+	<tabTrigger><![CDATA[SpriteAtlasExtensions.SetIncludeInBuild]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(spriteAtlas, value)]]></description>
+</snippet>

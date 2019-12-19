@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Glyph(${1:index : uint}, ${2:metrics : TextCore.GlyphMetrics}, ${3:glyphRect : TextCore.GlyphRect})]]></content>
+	<tabTrigger><![CDATA[glyph]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, metrics, glyphRect)]]></description>
+</snippet>

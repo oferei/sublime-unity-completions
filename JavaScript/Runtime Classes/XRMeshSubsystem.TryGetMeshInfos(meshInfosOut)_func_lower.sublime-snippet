@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRMeshSubsystem.TryGetMeshInfos(${1:meshInfosOut : List<MeshInfo>})]]></content>
+	<tabTrigger><![CDATA[tryGetMeshInfos]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[XRMeshSubsystem.*(meshInfosOut)]]></description>
+</snippet>

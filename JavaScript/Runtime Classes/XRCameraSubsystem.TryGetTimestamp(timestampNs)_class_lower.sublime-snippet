@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.TryGetTimestamp(${1:timestampNs : ref long})]]></content>
+	<tabTrigger><![CDATA[xRCameraSubsystem.TryGetTimestamp]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(timestampNs)]]></description>
+</snippet>

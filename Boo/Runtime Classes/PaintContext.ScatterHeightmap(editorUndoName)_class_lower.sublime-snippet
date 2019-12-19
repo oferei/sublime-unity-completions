@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PaintContext.ScatterHeightmap(${1:editorUndoName as string})]]></content>
+	<tabTrigger><![CDATA[paintContext.ScatterHeightmap]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(editorUndoName)]]></description>
+</snippet>

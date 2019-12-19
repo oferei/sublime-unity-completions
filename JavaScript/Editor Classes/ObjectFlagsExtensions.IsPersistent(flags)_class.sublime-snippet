@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjectFlagsExtensions.IsPersistent(${1:flags : Profiling.Memory.Experimental.ObjectFlags})]]></content>
+	<tabTrigger><![CDATA[ObjectFlagsExtensions.IsPersistent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(flags)]]></description>
+</snippet>

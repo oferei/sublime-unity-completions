@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.SetSourcePlayable(${1:U output}, ${2:V value}, ${3:int port})]]></content>
+	<tabTrigger><![CDATA[playableOutputExtensions.SetSourcePlayable]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(output, value, port)]]></description>
+</snippet>

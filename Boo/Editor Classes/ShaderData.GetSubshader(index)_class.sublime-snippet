@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShaderData.GetSubshader(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[ShaderData.GetSubshader]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

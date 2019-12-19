@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IClippable.SetClipRect(${1:value as Rect}, ${2:validRect as bool})]]></content>
-	<tabTrigger><![CDATA[IClippable.SetClipRect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(value, validRect)]]></description>
-</snippet>

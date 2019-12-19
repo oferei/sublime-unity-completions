@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPackageManagerExtension.OnPackageSelectionChange(${1:packageInfo : PackageInfo})]]></content>
+	<tabTrigger><![CDATA[IPackageManagerExtension.OnPackageSelectionChange]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(packageInfo)]]></description>
+</snippet>

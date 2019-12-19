@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[BitStream.Serialize(${1:ref NetworkPlayer value})]]></content>
-	<tabTrigger><![CDATA[bitStream.Serialize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value)]]></description>
-</snippet>

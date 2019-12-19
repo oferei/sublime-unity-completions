@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.SetLocalScale(${1:stream : Experimental.Animations.AnimationStream}, ${2:scale : Vector3})]]></content>
+	<tabTrigger><![CDATA[setLocalScale]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream, scale)]]></description>
+</snippet>

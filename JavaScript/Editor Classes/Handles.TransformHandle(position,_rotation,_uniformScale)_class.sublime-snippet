@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Handles.TransformHandle(${1:position : ref Vector3}, ${2:rotation : ref Quaternion}, ${3:uniformScale : ref float})]]></content>
+	<tabTrigger><![CDATA[Handles.TransformHandle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, rotation, uniformScale)]]></description>
+</snippet>

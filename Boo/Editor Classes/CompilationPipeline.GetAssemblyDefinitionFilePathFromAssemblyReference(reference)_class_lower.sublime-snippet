@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetAssemblyDefinitionFilePathFromAssemblyReference(${1:reference as string})]]></content>
+	<tabTrigger><![CDATA[compilationPipeline.GetAssemblyDefinitionFilePathFromAssemblyReference]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(reference)]]></description>
+</snippet>

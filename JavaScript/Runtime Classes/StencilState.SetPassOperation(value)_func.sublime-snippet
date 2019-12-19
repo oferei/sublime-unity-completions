@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState.SetPassOperation(${1:value : Rendering.StencilOp})]]></content>
+	<tabTrigger><![CDATA[SetPassOperation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[StencilState.*(value)]]></description>
+</snippet>

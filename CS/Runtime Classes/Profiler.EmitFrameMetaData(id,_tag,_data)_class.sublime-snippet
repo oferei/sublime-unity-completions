@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Profiler.EmitFrameMetaData(${1:Guid id}, ${2:int tag}, ${3:NativeArray<T> data})]]></content>
+	<tabTrigger><![CDATA[Profiler.EmitFrameMetaData]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id, tag, data)]]></description>
+</snippet>

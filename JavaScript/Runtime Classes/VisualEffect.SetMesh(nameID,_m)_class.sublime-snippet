@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetMesh(${1:nameID : int}, ${2:m : Mesh})]]></content>
+	<tabTrigger><![CDATA[VisualEffect.SetMesh]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(nameID, m)]]></description>
+</snippet>

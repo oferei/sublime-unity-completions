@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Physics2D.ClosestPoint(${1:position as Vector2}, ${2:rigidbody as Rigidbody2D})]]></content>
+	<tabTrigger><![CDATA[physics2D.ClosestPoint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, rigidbody)]]></description>
+</snippet>

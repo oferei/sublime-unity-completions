@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRCameraSubsystem.GetTextures(${1:texturesOut as List<Texture2D>})]]></content>
+	<tabTrigger><![CDATA[getTextures]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[XRCameraSubsystem.*(texturesOut)]]></description>
+</snippet>

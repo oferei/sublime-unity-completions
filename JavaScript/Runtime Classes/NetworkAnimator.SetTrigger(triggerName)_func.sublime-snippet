@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkAnimator.SetTrigger(${1:triggerName : string})]]></content>
-	<tabTrigger><![CDATA[SetTrigger]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkAnimator.*(triggerName)]]></description>
-</snippet>

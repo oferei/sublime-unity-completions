@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Selectable.OnPointerUp(${1:eventData as EventSystems.PointerEventData})]]></content>
-	<tabTrigger><![CDATA[selectable.OnPointerUp]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

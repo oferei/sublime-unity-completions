@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GenericMenu.AddDisabledItem(${1:GUIContent content}, ${2:bool on})]]></content>
+	<tabTrigger><![CDATA[genericMenu.AddDisabledItem]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(content, on)]]></description>
+</snippet>

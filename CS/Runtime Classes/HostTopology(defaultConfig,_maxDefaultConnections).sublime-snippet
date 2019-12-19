@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[HostTopology(${1:Networking.ConnectionConfig defaultConfig}, ${2:int maxDefaultConnections})]]></content>
-	<tabTrigger><![CDATA[HostTopology]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(defaultConfig, maxDefaultConnections)]]></description>
-</snippet>

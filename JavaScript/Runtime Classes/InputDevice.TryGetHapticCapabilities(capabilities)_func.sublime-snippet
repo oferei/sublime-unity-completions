@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputDevice.TryGetHapticCapabilities(${1:capabilities : out XR.HapticCapabilities})]]></content>
+	<tabTrigger><![CDATA[TryGetHapticCapabilities]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[InputDevice.*(capabilities)]]></description>
+</snippet>

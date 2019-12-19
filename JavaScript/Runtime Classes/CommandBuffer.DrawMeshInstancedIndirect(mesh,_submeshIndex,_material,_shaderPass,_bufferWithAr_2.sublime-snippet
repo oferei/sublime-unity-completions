@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.DrawMeshInstancedIndirect(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:material : Material}, ${4:shaderPass : int}, ${5:bufferWithArgs : ComputeBuffer}, ${6:argsOffset : int = 0}, ${7:properties : MaterialPropertyBlock = null})]]></content>
+	<content><![CDATA[CommandBuffer.DrawMeshInstancedIndirect(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:material : Material}, ${4:shaderPass : int}, ${5:bufferWithArgs : ComputeBuffer}, ${6:argsOffset : int}, ${7:properties : MaterialPropertyBlock})]]></content>
 	<tabTrigger><![CDATA[commandBuffer.DrawMeshInstancedIndirect]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(mesh, submeshIndex, material, shaderPass, bufferWithArgs, argsOffset, properties)]]></description>

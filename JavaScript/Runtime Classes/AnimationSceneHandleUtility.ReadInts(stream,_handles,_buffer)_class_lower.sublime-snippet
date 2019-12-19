@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationSceneHandleUtility.ReadInts(${1:stream : Experimental.Animations.AnimationStream}, ${2:handles : NativeArray<PropertySceneHandle>}, ${3:buffer : NativeArray<int>})]]></content>
+	<tabTrigger><![CDATA[animationSceneHandleUtility.ReadInts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(stream, handles, buffer)]]></description>
+</snippet>

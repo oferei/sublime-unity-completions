@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LongField.StringToValue(${1:str : string})]]></content>
+	<tabTrigger><![CDATA[LongField.StringToValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(str)]]></description>
+</snippet>

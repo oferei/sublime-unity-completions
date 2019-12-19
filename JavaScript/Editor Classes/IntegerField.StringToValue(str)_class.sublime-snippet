@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IntegerField.StringToValue(${1:str : string})]]></content>
+	<tabTrigger><![CDATA[IntegerField.StringToValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(str)]]></description>
+</snippet>

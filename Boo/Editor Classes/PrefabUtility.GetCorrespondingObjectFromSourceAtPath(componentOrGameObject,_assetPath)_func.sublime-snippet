@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.GetCorrespondingObjectFromSourceAtPath(${1:componentOrGameObject as TObject}, ${2:assetPath as string})]]></content>
+	<tabTrigger><![CDATA[GetCorrespondingObjectFromSourceAtPath]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(componentOrGameObject, assetPath)]]></description>
+</snippet>

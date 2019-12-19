@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimatorJobExtensions.BindSceneProperty(${1:animator : Animator}, ${2:transform : Transform}, ${3:type : Type}, ${4:property : string}, ${5:isObjectReference : bool = false})]]></content>
+	<tabTrigger><![CDATA[BindSceneProperty]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimatorJobExtensions.*(animator, transform, type, property, isObjectReference)]]></description>
+</snippet>

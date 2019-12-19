@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SelectionDropper.OnMouseDown(${1:e : UIElements.MouseDownEvent})]]></content>
+	<tabTrigger><![CDATA[OnMouseDown]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SelectionDropper.*(e)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ImageConversion.LoadImage(${1:tex as Texture2D}, ${2:data as (byte)}, ${3:markNonReadable as bool = false})]]></content>
+	<content><![CDATA[ImageConversion.LoadImage(${1:tex as Texture2D}, ${2:data as (byte)}, ${3:markNonReadable as bool})]]></content>
 	<tabTrigger><![CDATA[ImageConversion.LoadImage]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[*(tex, data, markNonReadable)]]></description>

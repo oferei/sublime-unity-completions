@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextValueField<T0>.SetValueWithoutNotify(${1:TValueType newValue})]]></content>
+	<tabTrigger><![CDATA[setValueWithoutNotify]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TextValueField<T0>.*(newValue)]]></description>
+</snippet>

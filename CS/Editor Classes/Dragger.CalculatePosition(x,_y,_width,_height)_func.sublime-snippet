@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Dragger.CalculatePosition(${1:float x}, ${2:float y}, ${3:float width}, ${4:float height})]]></content>
+	<tabTrigger><![CDATA[CalculatePosition]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Dragger.*(x, y, width, height)]]></description>
+</snippet>

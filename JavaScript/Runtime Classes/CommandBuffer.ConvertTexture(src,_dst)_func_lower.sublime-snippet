@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.ConvertTexture(${1:src : Rendering.RenderTargetIdentifier}, ${2:dst : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[convertTexture]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(src, dst)]]></description>
+</snippet>

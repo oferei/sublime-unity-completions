@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LoadSceneParameters(${1:SceneManagement.LoadSceneMode mode})]]></content>
+	<tabTrigger><![CDATA[loadSceneParameters]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mode)]]></description>
+</snippet>

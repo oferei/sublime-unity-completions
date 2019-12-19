@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VisualElementExtensions.RemoveManipulator(${1:ele as Experimental.UIElements.VisualElement}, ${2:manipulator as Experimental.UIElements.IManipulator})]]></content>
+	<content><![CDATA[VisualElementExtensions.RemoveManipulator(${1:ele as UIElements.VisualElement}, ${2:manipulator as UIElements.IManipulator})]]></content>
 	<tabTrigger><![CDATA[removeManipulator]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[VisualElementExtensions.*(ele, manipulator)]]></description>

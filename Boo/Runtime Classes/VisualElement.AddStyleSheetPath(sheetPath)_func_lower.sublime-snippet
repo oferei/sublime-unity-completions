@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VisualElement.AddStyleSheetPath(${1:sheetPath as string})]]></content>
-	<tabTrigger><![CDATA[addStyleSheetPath]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[VisualElement.*(sheetPath)]]></description>
-</snippet>

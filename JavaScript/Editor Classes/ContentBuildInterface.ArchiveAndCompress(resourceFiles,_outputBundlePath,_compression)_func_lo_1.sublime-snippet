@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.ArchiveAndCompress(${1:resourceFiles : ResourceFile[]}, ${2:outputBundlePath : string}, ${3:compression : BuildCompression})]]></content>
+	<tabTrigger><![CDATA[archiveAndCompress]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ContentBuildInterface.*(resourceFiles, outputBundlePath, compression)]]></description>
+</snippet>

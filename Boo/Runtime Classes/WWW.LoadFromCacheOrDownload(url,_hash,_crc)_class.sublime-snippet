@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[WWW.LoadFromCacheOrDownload(${1:url as string}, ${2:hash as Hash128}, ${3:crc as uint})]]></content>
-	<tabTrigger><![CDATA[WWW.LoadFromCacheOrDownload]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(url, hash, crc)]]></description>
-</snippet>

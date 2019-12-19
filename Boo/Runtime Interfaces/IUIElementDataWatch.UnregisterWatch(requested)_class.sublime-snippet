@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUIElementDataWatch.UnregisterWatch(${1:requested as Experimental.UIElements.IUIElementDataWatchRequest})]]></content>
-	<tabTrigger><![CDATA[IUIElementDataWatch.UnregisterWatch]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(requested)]]></description>
-</snippet>

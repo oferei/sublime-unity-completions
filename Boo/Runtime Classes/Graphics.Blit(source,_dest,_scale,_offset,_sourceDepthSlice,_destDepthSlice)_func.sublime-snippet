@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graphics.Blit(${1:source as Texture}, ${2:dest as RenderTexture}, ${3:scale as Vector2}, ${4:offset as Vector2}, ${5:sourceDepthSlice as int}, ${6:destDepthSlice as int})]]></content>
+	<tabTrigger><![CDATA[Blit]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Graphics.*(source, dest, scale, offset, sourceDepthSlice, destDepthSlice)]]></description>
+</snippet>

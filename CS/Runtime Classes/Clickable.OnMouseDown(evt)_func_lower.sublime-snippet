@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Clickable.OnMouseDown(${1:UIElements.MouseDownEvent evt})]]></content>
+	<tabTrigger><![CDATA[onMouseDown]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Clickable.*(evt)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AssetBundle.LoadFromStream(${1:stream : Stream}, ${2:crc : uint = 0}, ${3:managedReadBufferSize : uint = 0})]]></content>
+	<content><![CDATA[AssetBundle.LoadFromStream(${1:stream : Stream}, ${2:crc : uint}, ${3:managedReadBufferSize : uint})]]></content>
 	<tabTrigger><![CDATA[AssetBundle.LoadFromStream]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(stream, crc, managedReadBufferSize)]]></description>

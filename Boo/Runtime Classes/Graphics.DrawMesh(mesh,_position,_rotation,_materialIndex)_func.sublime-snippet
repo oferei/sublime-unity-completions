@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.DrawMesh(${1:mesh as Mesh}, ${2:position as Vector3}, ${3:rotation as Quaternion}, ${4:materialIndex as int})]]></content>
-	<tabTrigger><![CDATA[DrawMesh]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Graphics.*(mesh, position, rotation, materialIndex)]]></description>
-</snippet>

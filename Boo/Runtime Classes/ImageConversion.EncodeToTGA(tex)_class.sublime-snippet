@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImageConversion.EncodeToTGA(${1:tex as Texture2D})]]></content>
+	<tabTrigger><![CDATA[ImageConversion.EncodeToTGA]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(tex)]]></description>
+</snippet>

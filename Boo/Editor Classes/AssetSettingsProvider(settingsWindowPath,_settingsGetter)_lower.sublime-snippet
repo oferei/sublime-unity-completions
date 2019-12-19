@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetSettingsProvider(${1:settingsWindowPath as string}, ${2:settingsGetter as Func<Object>})]]></content>
+	<tabTrigger><![CDATA[assetSettingsProvider]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(settingsWindowPath, settingsGetter)]]></description>
+</snippet>

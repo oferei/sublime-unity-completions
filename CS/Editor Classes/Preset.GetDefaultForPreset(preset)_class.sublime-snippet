@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.GetDefaultForPreset(${1:Presets.Preset preset})]]></content>
+	<tabTrigger><![CDATA[Preset.GetDefaultForPreset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(preset)]]></description>
+</snippet>

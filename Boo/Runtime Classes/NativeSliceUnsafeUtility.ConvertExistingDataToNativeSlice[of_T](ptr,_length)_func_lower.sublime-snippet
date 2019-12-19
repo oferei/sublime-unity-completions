@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeSliceUnsafeUtility.ConvertExistingDataToNativeSlice[of ${1:T}](${2:ptr as IntPtr}, ${3:length as int})]]></content>
+	<tabTrigger><![CDATA[convertExistingDataToNativeSlice]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NativeSliceUnsafeUtility.*[of T](ptr, length)]]></description>
+</snippet>

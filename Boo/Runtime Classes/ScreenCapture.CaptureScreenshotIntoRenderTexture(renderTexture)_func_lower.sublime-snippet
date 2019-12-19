@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScreenCapture.CaptureScreenshotIntoRenderTexture(${1:renderTexture as RenderTexture})]]></content>
+	<tabTrigger><![CDATA[captureScreenshotIntoRenderTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ScreenCapture.*(renderTexture)]]></description>
+</snippet>

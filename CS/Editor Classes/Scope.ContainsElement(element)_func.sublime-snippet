@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.ContainsElement(${1:Experimental.GraphView.GraphElement element})]]></content>
+	<tabTrigger><![CDATA[ContainsElement]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Scope.*(element)]]></description>
+</snippet>

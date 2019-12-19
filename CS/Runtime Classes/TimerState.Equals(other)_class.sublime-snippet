@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TimerState.Equals(${1:UIElements.TimerState other})]]></content>
+	<tabTrigger><![CDATA[TimerState.Equals]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

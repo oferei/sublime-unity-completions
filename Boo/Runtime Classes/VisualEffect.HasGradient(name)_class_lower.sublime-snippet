@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.HasGradient(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[visualEffect.HasGradient]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name)]]></description>
+</snippet>

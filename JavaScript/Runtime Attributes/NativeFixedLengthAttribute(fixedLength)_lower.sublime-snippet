@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NativeFixedLengthAttribute(${1:fixedLength : int})]]></content>
+	<tabTrigger><![CDATA[nativeFixedLengthAttribute]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(fixedLength)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.RenameProfile(${1:profileId as string}, ${2:newProfileId as string})]]></content>
+	<tabTrigger><![CDATA[IShortcutManager.RenameProfile]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(profileId, newProfileId)]]></description>
+</snippet>

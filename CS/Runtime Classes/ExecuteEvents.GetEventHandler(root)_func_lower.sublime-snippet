@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ExecuteEvents.GetEventHandler(${1:GameObject root})]]></content>
-	<tabTrigger><![CDATA[getEventHandler]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ExecuteEvents.*(root)]]></description>
-</snippet>

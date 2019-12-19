@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DoubleField.ValueToString(${1:double v})]]></content>
+	<tabTrigger><![CDATA[DoubleField.ValueToString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

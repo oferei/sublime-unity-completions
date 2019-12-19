@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Port.Disconnect(${1:edge as RectTransform.Edge})]]></content>
+	<tabTrigger><![CDATA[port.Disconnect]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(edge)]]></description>
+</snippet>

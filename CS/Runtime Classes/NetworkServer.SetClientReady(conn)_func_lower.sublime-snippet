@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SetClientReady(${1:Networking.NetworkConnection conn})]]></content>
-	<tabTrigger><![CDATA[setClientReady]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkServer.*(conn)]]></description>
-</snippet>

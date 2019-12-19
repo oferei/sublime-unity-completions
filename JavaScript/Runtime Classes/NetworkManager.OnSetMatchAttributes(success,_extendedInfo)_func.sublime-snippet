@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.OnSetMatchAttributes(${1:success : bool}, ${2:extendedInfo : string})]]></content>
-	<tabTrigger><![CDATA[OnSetMatchAttributes]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkManager.*(success, extendedInfo)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.ItemSpent(${1:currencyType as Analytics.AcquisitionType}, ${2:transactionContext as string}, ${3:amount as single}, ${4:itemId as string}, ${5:itemType as string}, ${6:level as string}, ${7:transactionId as string}, ${8:eventData as IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[AnalyticsEvent.ItemSpent]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(currencyType, transactionContext, amount, itemId, itemType, level, transactionId, eventData)]]></description>
-</snippet>

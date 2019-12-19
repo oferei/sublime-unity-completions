@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPostBuildPlayerScriptDLLs.OnPostBuildPlayerScriptDLLs(${1:report : Build.Reporting.BuildReport})]]></content>
+	<tabTrigger><![CDATA[onPostBuildPlayerScriptDLLs]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[IPostBuildPlayerScriptDLLs.*(report)]]></description>
+</snippet>

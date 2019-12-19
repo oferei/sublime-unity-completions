@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.SetMaterialOffset(${1:material as ProceduralMaterial}, ${2:offset as Vector2})]]></content>
-	<tabTrigger><![CDATA[SubstanceImporter.SetMaterialOffset]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(material, offset)]]></description>
-</snippet>

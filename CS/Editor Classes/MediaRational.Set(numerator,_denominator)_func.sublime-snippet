@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaRational.Set(${1:int numerator}, ${2:int denominator})]]></content>
+	<tabTrigger><![CDATA[Set]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MediaRational.*(numerator, denominator)]]></description>
+</snippet>

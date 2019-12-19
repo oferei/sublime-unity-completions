@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ISelection.AddToSelection(${1:Experimental.GraphView.ISelectable selectable})]]></content>
+	<tabTrigger><![CDATA[iSelection.AddToSelection]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(selectable)]]></description>
+</snippet>

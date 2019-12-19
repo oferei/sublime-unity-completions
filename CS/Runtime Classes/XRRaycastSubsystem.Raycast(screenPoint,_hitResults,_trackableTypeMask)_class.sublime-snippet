@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRRaycastSubsystem.Raycast(${1:Vector3 screenPoint}, ${2:List<XRRaycastHit> hitResults}, ${3:Experimental.XR.TrackableType trackableTypeMask})]]></content>
+	<tabTrigger><![CDATA[XRRaycastSubsystem.Raycast]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(screenPoint, hitResults, trackableTypeMask)]]></description>
+</snippet>

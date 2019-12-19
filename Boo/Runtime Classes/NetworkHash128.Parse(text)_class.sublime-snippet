@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkHash128.Parse(${1:text as string})]]></content>
-	<tabTrigger><![CDATA[NetworkHash128.Parse]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(text)]]></description>
-</snippet>

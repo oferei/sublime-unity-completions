@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.DisconnectPrefabInstance(${1:targetObject as Object})]]></content>
-	<tabTrigger><![CDATA[DisconnectPrefabInstance]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PrefabUtility.*(targetObject)]]></description>
-</snippet>

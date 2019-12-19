@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Collider2D.GetContacts(${1:contactFilter : ContactFilter2D}, ${2:contacts : ContactPoint2D[]})]]></content>
+	<content><![CDATA[Collider2D.GetContacts(${1:contactFilter : ContactFilter2D}, ${2:contacts : List<ContactPoint2D>})]]></content>
 	<tabTrigger><![CDATA[collider2D.GetContacts]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(contactFilter, contacts)]]></description>

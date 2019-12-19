@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.GetCellIndex(${1:x as int}, ${2:y as int}, ${3:z as int}, ${4:sizex as int}, ${5:sizey as int}, ${6:sizez as int})]]></content>
-	<tabTrigger><![CDATA[gridBrush.GetCellIndex]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(x, y, z, sizex, sizey, sizez)]]></description>
-</snippet>

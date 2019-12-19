@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainLayerUtility.ShowTerrainLayerGUI(${1:terrain : Terrain}, ${2:terrainLayer : TerrainLayer}, ${3:terrainLayerEditor : ref Editor}, ${4:customGUI : ITerrainLayerCustomUI})]]></content>
+	<tabTrigger><![CDATA[ShowTerrainLayerGUI]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TerrainLayerUtility.*(terrain, terrainLayer, terrainLayerEditor, customGUI)]]></description>
+</snippet>

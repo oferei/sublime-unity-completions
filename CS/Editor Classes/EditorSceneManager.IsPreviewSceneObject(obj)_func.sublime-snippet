@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.IsPreviewSceneObject(${1:Object obj})]]></content>
+	<tabTrigger><![CDATA[IsPreviewSceneObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(obj)]]></description>
+</snippet>

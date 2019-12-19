@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PresetSelectorReceiver.OnSelectionClosed(${1:Presets.Preset selection})]]></content>
+	<tabTrigger><![CDATA[OnSelectionClosed]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PresetSelectorReceiver.*(selection)]]></description>
+</snippet>

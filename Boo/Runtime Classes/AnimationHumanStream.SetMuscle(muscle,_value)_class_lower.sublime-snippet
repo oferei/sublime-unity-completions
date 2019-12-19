@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetMuscle(${1:muscle as Experimental.Animations.MuscleHandle}, ${2:value as single})]]></content>
+	<tabTrigger><![CDATA[animationHumanStream.SetMuscle]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(muscle, value)]]></description>
+</snippet>

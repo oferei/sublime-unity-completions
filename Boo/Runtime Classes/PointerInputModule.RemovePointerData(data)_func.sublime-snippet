@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PointerInputModule.RemovePointerData(${1:data as EventSystems.PointerEventData})]]></content>
-	<tabTrigger><![CDATA[RemovePointerData]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[PointerInputModule.*(data)]]></description>
-</snippet>

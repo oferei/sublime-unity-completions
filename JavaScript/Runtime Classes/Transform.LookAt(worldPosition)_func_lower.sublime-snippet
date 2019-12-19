@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.LookAt(${1:worldPosition : Vector3})]]></content>
+	<tabTrigger><![CDATA[lookAt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Transform.*(worldPosition)]]></description>
+</snippet>

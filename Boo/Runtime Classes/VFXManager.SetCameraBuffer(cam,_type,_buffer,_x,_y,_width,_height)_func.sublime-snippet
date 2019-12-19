@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXManager.SetCameraBuffer(${1:cam as Camera}, ${2:type as VFXCameraBufferType}, ${3:buffer as Texture}, ${4:x as int}, ${5:y as int}, ${6:width as int}, ${7:height as int})]]></content>
+	<tabTrigger><![CDATA[SetCameraBuffer]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VFXManager.*(cam, type, buffer, x, y, width, height)]]></description>
+</snippet>

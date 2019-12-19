@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MsgType.MsgTypeToString(${1:short value})]]></content>
-	<tabTrigger><![CDATA[msgType.MsgTypeToString]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(value)]]></description>
-</snippet>

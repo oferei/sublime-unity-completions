@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUxmlAttributes.GetPropertyEnum(${1:string propertyName}, ${2:T def})]]></content>
-	<tabTrigger><![CDATA[getPropertyEnum]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IUxmlAttributes.*(propertyName, def)]]></description>
-</snippet>

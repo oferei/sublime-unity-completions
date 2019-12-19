@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Component.SendMessage(${1:methodName : string})]]></content>
+	<tabTrigger><![CDATA[Component.SendMessage]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(methodName)]]></description>
+</snippet>

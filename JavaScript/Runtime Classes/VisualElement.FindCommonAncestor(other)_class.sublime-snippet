@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualElement.FindCommonAncestor(${1:other : UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[VisualElement.FindCommonAncestor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

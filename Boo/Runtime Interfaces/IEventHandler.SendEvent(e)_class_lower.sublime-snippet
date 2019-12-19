@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IEventHandler.SendEvent(${1:e as UIElements.EventBase})]]></content>
+	<tabTrigger><![CDATA[iEventHandler.SendEvent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(e)]]></description>
+</snippet>

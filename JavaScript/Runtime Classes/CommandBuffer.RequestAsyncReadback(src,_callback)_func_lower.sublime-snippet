@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.RequestAsyncReadback(${1:src : Texture}, ${2:callback : Action<AsyncGPUReadbackRequest>})]]></content>
+	<tabTrigger><![CDATA[requestAsyncReadback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(src, callback)]]></description>
+</snippet>

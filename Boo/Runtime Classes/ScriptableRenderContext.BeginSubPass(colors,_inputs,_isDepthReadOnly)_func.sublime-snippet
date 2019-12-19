@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.BeginSubPass(${1:colors as NativeArray<int>}, ${2:inputs as NativeArray<int>}, ${3:isDepthReadOnly as bool})]]></content>
+	<tabTrigger><![CDATA[BeginSubPass]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ScriptableRenderContext.*(colors, inputs, isDepthReadOnly)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LongField.ApplyInputDeviceDelta(${1:delta : Vector3}, ${2:speed : UIElements.DeltaSpeed}, ${3:startValue : long})]]></content>
+	<tabTrigger><![CDATA[longField.ApplyInputDeviceDelta]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(delta, speed, startValue)]]></description>
+</snippet>

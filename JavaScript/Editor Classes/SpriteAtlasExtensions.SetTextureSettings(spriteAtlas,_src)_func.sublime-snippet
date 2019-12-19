@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteAtlasExtensions.SetTextureSettings(${1:spriteAtlas : U2D.SpriteAtlas}, ${2:src : U2D.SpriteAtlasTextureSettings})]]></content>
+	<tabTrigger><![CDATA[SetTextureSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SpriteAtlasExtensions.*(spriteAtlas, src)]]></description>
+</snippet>

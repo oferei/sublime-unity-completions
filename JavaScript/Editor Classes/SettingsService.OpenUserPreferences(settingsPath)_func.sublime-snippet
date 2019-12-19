@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsService.OpenUserPreferences(${1:settingsPath : string})]]></content>
+	<tabTrigger><![CDATA[OpenUserPreferences]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SettingsService.*(settingsPath)]]></description>
+</snippet>

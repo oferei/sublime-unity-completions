@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.IsProfileIdValid(${1:profileId : string})]]></content>
+	<tabTrigger><![CDATA[IShortcutManager.IsProfileIdValid]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(profileId)]]></description>
+</snippet>

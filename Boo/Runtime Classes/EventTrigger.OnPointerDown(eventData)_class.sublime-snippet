@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnPointerDown(${1:eventData as EventSystems.PointerEventData})]]></content>
-	<tabTrigger><![CDATA[EventTrigger.OnPointerDown]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

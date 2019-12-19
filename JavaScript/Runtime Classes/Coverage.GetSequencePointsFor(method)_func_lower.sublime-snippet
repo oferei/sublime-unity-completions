@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Coverage.GetSequencePointsFor(${1:method : MethodBase})]]></content>
+	<tabTrigger><![CDATA[getSequencePointsFor]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Coverage.*(method)]]></description>
+</snippet>

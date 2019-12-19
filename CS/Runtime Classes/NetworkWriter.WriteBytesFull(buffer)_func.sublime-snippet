@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkWriter.WriteBytesFull(${1:byte[] buffer})]]></content>
-	<tabTrigger><![CDATA[WriteBytesFull]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkWriter.*(buffer)]]></description>
-</snippet>

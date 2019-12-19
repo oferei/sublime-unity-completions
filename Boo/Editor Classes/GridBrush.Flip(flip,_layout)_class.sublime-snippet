@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.Flip(${1:flip as GridBrushBase.FlipAxis}, ${2:layout as GridLayout.CellLayout})]]></content>
-	<tabTrigger><![CDATA[GridBrush.Flip]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(flip, layout)]]></description>
-</snippet>

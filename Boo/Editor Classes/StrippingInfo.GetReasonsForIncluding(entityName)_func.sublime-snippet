@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StrippingInfo.GetReasonsForIncluding(${1:entityName as string})]]></content>
+	<tabTrigger><![CDATA[GetReasonsForIncluding]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[StrippingInfo.*(entityName)]]></description>
+</snippet>

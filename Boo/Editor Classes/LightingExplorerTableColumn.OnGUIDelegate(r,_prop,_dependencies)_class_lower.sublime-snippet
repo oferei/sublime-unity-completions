@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerTableColumn.OnGUIDelegate(${1:r as Rect}, ${2:prop as SerializedProperty}, ${3:dependencies as (SerializedProperty)})]]></content>
+	<tabTrigger><![CDATA[lightingExplorerTableColumn.OnGUIDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(r, prop, dependencies)]]></description>
+</snippet>

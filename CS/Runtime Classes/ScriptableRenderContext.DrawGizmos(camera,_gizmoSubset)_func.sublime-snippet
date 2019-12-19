@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableRenderContext.DrawGizmos(${1:Camera camera}, ${2:Rendering.GizmoSubset gizmoSubset})]]></content>
+	<tabTrigger><![CDATA[DrawGizmos]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableRenderContext.*(camera, gizmoSubset)]]></description>
+</snippet>

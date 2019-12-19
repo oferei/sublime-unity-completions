@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.SetupMigrationManager(${1:man : Networking.NetworkMigrationManager})]]></content>
-	<tabTrigger><![CDATA[setupMigrationManager]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkManager.*(man)]]></description>
-</snippet>

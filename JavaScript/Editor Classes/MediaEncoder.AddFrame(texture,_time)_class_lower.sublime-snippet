@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaEncoder.AddFrame(${1:texture : Texture2D}, ${2:time : Media.MediaTime})]]></content>
+	<tabTrigger><![CDATA[mediaEncoder.AddFrame]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(texture, time)]]></description>
+</snippet>

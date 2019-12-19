@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetAllBuildPhasesForTarget(${1:targetGuid : string})]]></content>
+	<tabTrigger><![CDATA[PBXProject.GetAllBuildPhasesForTarget]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(targetGuid)]]></description>
+</snippet>

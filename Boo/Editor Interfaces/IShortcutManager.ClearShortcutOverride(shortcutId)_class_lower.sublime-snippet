@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IShortcutManager.ClearShortcutOverride(${1:shortcutId as string})]]></content>
+	<tabTrigger><![CDATA[iShortcutManager.ClearShortcutOverride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(shortcutId)]]></description>
+</snippet>

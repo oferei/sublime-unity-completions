@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.ParseResponseFile(${1:relativePath : string}, ${2:projectDirectory : string}, ${3:systemReferenceDirectories : string[]})]]></content>
+	<tabTrigger><![CDATA[ParseResponseFile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CompilationPipeline.*(relativePath, projectDirectory, systemReferenceDirectories)]]></description>
+</snippet>

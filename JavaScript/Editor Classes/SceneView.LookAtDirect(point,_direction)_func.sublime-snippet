@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.LookAtDirect(${1:point : Vector3}, ${2:direction : Quaternion})]]></content>
+	<tabTrigger><![CDATA[LookAtDirect]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SceneView.*(point, direction)]]></description>
+</snippet>

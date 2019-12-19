@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AttachmentDescriptor.ConfigureTarget(${1:target as Rendering.RenderTargetIdentifier}, ${2:loadExistingContents as bool}, ${3:storeResults as bool})]]></content>
+	<tabTrigger><![CDATA[configureTarget]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AttachmentDescriptor.*(target, loadExistingContents, storeResults)]]></description>
+</snippet>

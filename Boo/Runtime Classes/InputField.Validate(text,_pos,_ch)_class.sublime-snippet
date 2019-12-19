@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InputField.Validate(${1:text as string}, ${2:pos as int}, ${3:ch as char})]]></content>
-	<tabTrigger><![CDATA[InputField.Validate]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(text, pos, ch)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessGameObjectWithAnimatedUserProperties(${1:gameObject : GameObject}, ${2:bindings : EditorCurveBinding[]})]]></content>
+	<tabTrigger><![CDATA[onPostprocessGameObjectWithAnimatedUserProperties]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AssetPostprocessor.*(gameObject, bindings)]]></description>
+</snippet>

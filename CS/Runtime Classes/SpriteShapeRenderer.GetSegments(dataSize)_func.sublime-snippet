@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteShapeRenderer.GetSegments(${1:int dataSize})]]></content>
+	<tabTrigger><![CDATA[GetSegments]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SpriteShapeRenderer.*(dataSize)]]></description>
+</snippet>

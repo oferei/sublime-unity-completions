@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Utils.NativeAssert(${1:string message})]]></content>
+	<tabTrigger><![CDATA[utils.NativeAssert]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(message)]]></description>
+</snippet>

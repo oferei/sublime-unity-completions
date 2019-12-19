@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetRenderTarget(${1:Rendering.RenderTargetBinding binding})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetRenderTarget]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(binding)]]></description>
+</snippet>

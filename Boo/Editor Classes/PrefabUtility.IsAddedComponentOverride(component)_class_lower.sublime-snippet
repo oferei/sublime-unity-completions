@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsAddedComponentOverride(${1:component as Object})]]></content>
+	<tabTrigger><![CDATA[prefabUtility.IsAddedComponentOverride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(component)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ImageConversion.EncodeToEXR(${1:tex : Texture2D}, ${2:flags : Texture2D.EXRFlags = Texture2D.EXRFlags.None})]]></content>
+	<content><![CDATA[ImageConversion.EncodeToEXR(${1:tex : Texture2D}, ${2:flags : Texture2D.EXRFlags})]]></content>
 	<tabTrigger><![CDATA[imageConversion.EncodeToEXR]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(tex, flags)]]></description>

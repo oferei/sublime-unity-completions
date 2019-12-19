@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPurchasingBinder.RegisterStore(${1:name : string}, ${2:a : Purchasing.Extension.IStore})]]></content>
-	<tabTrigger><![CDATA[RegisterStore]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IPurchasingBinder.*(name, a)]]></description>
-</snippet>

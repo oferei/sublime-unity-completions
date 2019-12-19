@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkWriter.Write(${1:buffer : byte[]}, ${2:offset : int}, ${3:count : int})]]></content>
-	<tabTrigger><![CDATA[NetworkWriter.Write]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(buffer, offset, count)]]></description>
-</snippet>

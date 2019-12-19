@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.IsPreviewScene(${1:SceneManagement.Scene scene})]]></content>
+	<tabTrigger><![CDATA[isPreviewScene]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorSceneManager.*(scene)]]></description>
+</snippet>

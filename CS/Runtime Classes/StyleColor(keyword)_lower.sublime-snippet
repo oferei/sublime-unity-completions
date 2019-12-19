@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StyleColor(${1:UIElements.StyleKeyword keyword})]]></content>
+	<tabTrigger><![CDATA[styleColor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(keyword)]]></description>
+</snippet>

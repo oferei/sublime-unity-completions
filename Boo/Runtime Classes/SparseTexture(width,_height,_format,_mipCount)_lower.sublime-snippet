@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SparseTexture(${1:width as int}, ${2:height as int}, ${3:format as TextureFormat}, ${4:mipCount as int})]]></content>
-	<tabTrigger><![CDATA[sparseTexture]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(width, height, format, mipCount)]]></description>
-</snippet>

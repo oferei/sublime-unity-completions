@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ScriptableCullingParameters.SetLayerCullDistance(${1:int layerIndex}, ${2:float distance})]]></content>
-	<tabTrigger><![CDATA[scriptableCullingParameters.SetLayerCullDistance]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(layerIndex, distance)]]></description>
-</snippet>

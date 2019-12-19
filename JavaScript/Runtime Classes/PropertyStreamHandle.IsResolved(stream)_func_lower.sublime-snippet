@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyStreamHandle.IsResolved(${1:stream : Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[isResolved]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PropertyStreamHandle.*(stream)]]></description>
+</snippet>

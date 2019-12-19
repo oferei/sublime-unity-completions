@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Physics.CapsuleCastAll(${1:point1 : Vector3}, ${2:point2 : Vector3}, ${3:radius : float}, ${4:direction : Vector3}, ${5:maxDistance : float = Mathf.Infinity}, ${6:layermask : int = DefaultRaycastLayers}, ${7:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<content><![CDATA[Physics.CapsuleCastAll(${1:point1 : Vector3}, ${2:point2 : Vector3}, ${3:radius : float}, ${4:direction : Vector3}, ${5:maxDistance : float = Mathf.Infinity}, ${6:layerMask : int = DefaultRaycastLayers}, ${7:queryTriggerInteraction : QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
 	<tabTrigger><![CDATA[capsuleCastAll]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[Physics.*(point1, point2, radius, direction, maxDistance, layermask, queryTriggerInteraction)]]></description>
+	<description><![CDATA[Physics.*(point1, point2, radius, direction, maxDistance, layerMask, queryTriggerInteraction)]]></description>
 </snippet>

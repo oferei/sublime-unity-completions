@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Group.OnElementsRemoved(${1:IEnumerable<GraphElement> elements})]]></content>
+	<tabTrigger><![CDATA[Group.OnElementsRemoved]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(elements)]]></description>
+</snippet>

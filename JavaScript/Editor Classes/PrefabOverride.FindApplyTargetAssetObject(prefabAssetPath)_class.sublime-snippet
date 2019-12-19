@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabOverride.FindApplyTargetAssetObject(${1:prefabAssetPath : string})]]></content>
+	<tabTrigger><![CDATA[PrefabOverride.FindApplyTargetAssetObject]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(prefabAssetPath)]]></description>
+</snippet>

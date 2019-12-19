@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabOverride.FindApplyTargetAssetObject(${1:prefabAssetPath as string})]]></content>
+	<tabTrigger><![CDATA[prefabOverride.FindApplyTargetAssetObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(prefabAssetPath)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkMatch.BasicResponseDelegate(${1:bool success}, ${2:string extendedInfo})]]></content>
-	<tabTrigger><![CDATA[networkMatch.BasicResponseDelegate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(success, extendedInfo)]]></description>
-</snippet>

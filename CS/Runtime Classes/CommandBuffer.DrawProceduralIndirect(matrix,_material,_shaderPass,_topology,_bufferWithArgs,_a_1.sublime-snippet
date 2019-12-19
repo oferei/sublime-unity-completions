@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.DrawProceduralIndirect(${1:Matrix4x4 matrix}, ${2:Material material}, ${3:int shaderPass}, ${4:MeshTopology topology}, ${5:ComputeBuffer bufferWithArgs}, ${6:int argsOffset = 0}, ${7:MaterialPropertyBlock properties = null})]]></content>
+	<content><![CDATA[CommandBuffer.DrawProceduralIndirect(${1:Matrix4x4 matrix}, ${2:Material material}, ${3:int shaderPass}, ${4:MeshTopology topology}, ${5:ComputeBuffer bufferWithArgs}, ${6:int argsOffset}, ${7:MaterialPropertyBlock properties})]]></content>
 	<tabTrigger><![CDATA[CommandBuffer.DrawProceduralIndirect]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(matrix, material, shaderPass, topology, bufferWithArgs, argsOffset, properties)]]></description>

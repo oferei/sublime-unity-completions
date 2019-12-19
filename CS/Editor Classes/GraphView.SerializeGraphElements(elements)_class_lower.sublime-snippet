@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GraphView.SerializeGraphElements(${1:IEnumerable<GraphElement> elements})]]></content>
+	<tabTrigger><![CDATA[graphView.SerializeGraphElements]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(elements)]]></description>
+</snippet>

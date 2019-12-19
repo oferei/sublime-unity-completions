@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationUtility.GetAnimationClips(${1:GameObject gameObject})]]></content>
+	<tabTrigger><![CDATA[GetAnimationClips]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AnimationUtility.*(gameObject)]]></description>
+</snippet>

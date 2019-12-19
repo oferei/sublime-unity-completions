@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SplashScreen.Stop(${1:stopBehavior : Rendering.SplashScreen.StopBehavior})]]></content>
+	<tabTrigger><![CDATA[splashScreen.Stop]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(stopBehavior)]]></description>
+</snippet>

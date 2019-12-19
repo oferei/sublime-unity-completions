@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BrushTransform.FromBrushUV(${1:brushUV : Vector2})]]></content>
+	<tabTrigger><![CDATA[fromBrushUV]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BrushTransform.*(brushUV)]]></description>
+</snippet>

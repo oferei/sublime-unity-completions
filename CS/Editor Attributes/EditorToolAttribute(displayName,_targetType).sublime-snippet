@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorToolAttribute(${1:string displayName}, ${2:Type targetType})]]></content>
+	<tabTrigger><![CDATA[EditorToolAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(displayName, targetType)]]></description>
+</snippet>

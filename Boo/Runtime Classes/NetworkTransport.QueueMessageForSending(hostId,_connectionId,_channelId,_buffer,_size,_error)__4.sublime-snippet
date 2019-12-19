@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.QueueMessageForSending(${1:hostId as int}, ${2:connectionId as int}, ${3:channelId as int}, ${4:buffer as (byte)}, ${5:size as int}, ${6:error as out byte})]]></content>
-	<tabTrigger><![CDATA[queueMessageForSending]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, connectionId, channelId, buffer, size, error)]]></description>
-</snippet>

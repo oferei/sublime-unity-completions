@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeFlagsExtensions.ArrayRank(${1:flags : Profiling.Memory.Experimental.TypeFlags})]]></content>
+	<tabTrigger><![CDATA[typeFlagsExtensions.ArrayRank]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(flags)]]></description>
+</snippet>

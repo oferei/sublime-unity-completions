@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GraphicRegistry.RegisterGraphicForCanvas(${1:c as Canvas}, ${2:graphic as UI.Graphic})]]></content>
-	<tabTrigger><![CDATA[graphicRegistry.RegisterGraphicForCanvas]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(c, graphic)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InspectorNameAttribute(${1:displayName as string})]]></content>
+	<tabTrigger><![CDATA[InspectorNameAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(displayName)]]></description>
+</snippet>

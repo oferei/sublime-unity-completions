@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubsystemManager.GetInstances(${1:List<T> instances})]]></content>
+	<tabTrigger><![CDATA[SubsystemManager.GetInstances]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(instances)]]></description>
+</snippet>

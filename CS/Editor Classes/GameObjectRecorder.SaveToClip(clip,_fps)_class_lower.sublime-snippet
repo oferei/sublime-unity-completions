@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GameObjectRecorder.SaveToClip(${1:AnimationClip clip}, ${2:float fps})]]></content>
+	<tabTrigger><![CDATA[gameObjectRecorder.SaveToClip]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(clip, fps)]]></description>
+</snippet>

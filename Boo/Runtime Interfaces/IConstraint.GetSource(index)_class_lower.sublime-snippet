@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IConstraint.GetSource(${1:index as int})]]></content>
+	<tabTrigger><![CDATA[iConstraint.GetSource]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(index)]]></description>
+</snippet>

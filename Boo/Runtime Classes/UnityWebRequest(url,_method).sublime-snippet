@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequest(${1:url as string}, ${2:method as string})]]></content>
+	<tabTrigger><![CDATA[UnityWebRequest]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(url, method)]]></description>
+</snippet>

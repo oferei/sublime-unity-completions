@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubEmittersModule.SetSubEmitterEmitProbability(${1:index : int}, ${2:emitProbability : float})]]></content>
+	<tabTrigger><![CDATA[SetSubEmitterEmitProbability]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SubEmittersModule.*(index, emitProbability)]]></description>
+</snippet>

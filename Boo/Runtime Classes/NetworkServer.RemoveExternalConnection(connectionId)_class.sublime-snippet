@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.RemoveExternalConnection(${1:connectionId as int})]]></content>
-	<tabTrigger><![CDATA[NetworkServer.RemoveExternalConnection]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(connectionId)]]></description>
-</snippet>

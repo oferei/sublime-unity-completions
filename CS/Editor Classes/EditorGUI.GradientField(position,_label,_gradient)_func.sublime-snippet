@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.GradientField(${1:Rect position}, ${2:GUIContent label}, ${3:Gradient gradient})]]></content>
+	<tabTrigger><![CDATA[GradientField]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorGUI.*(position, label, gradient)]]></description>
+</snippet>

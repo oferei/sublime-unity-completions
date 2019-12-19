@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawProcedural(${1:indexBuffer : GraphicsBuffer}, ${2:matrix : Matrix4x4}, ${3:material : Material}, ${4:shaderPass : int}, ${5:topology : MeshTopology}, ${6:indexCount : int}, ${7:instanceCount : int}, ${8:properties : MaterialPropertyBlock})]]></content>
+	<tabTrigger><![CDATA[DrawProcedural]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(indexBuffer, matrix, material, shaderPass, topology, indexCount, instanceCount, properties)]]></description>
+</snippet>

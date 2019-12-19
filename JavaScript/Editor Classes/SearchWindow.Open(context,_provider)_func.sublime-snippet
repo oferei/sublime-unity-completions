@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SearchWindow.Open(${1:context : Experimental.GraphView.SearchWindowContext}, ${2:provider : T})]]></content>
+	<tabTrigger><![CDATA[Open]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SearchWindow.*(context, provider)]]></description>
+</snippet>

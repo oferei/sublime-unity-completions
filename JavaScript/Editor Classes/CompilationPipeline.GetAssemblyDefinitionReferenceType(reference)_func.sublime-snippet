@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetAssemblyDefinitionReferenceType(${1:reference : string})]]></content>
+	<tabTrigger><![CDATA[GetAssemblyDefinitionReferenceType]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CompilationPipeline.*(reference)]]></description>
+</snippet>

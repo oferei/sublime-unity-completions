@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IPanel.PickAll(${1:Vector2 point}, ${2:List<VisualElement> picked})]]></content>
+	<tabTrigger><![CDATA[PickAll]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[IPanel.*(point, picked)]]></description>
+</snippet>

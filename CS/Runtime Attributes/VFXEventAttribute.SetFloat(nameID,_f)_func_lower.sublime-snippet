@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXEventAttribute.SetFloat(${1:int nameID}, ${2:float f})]]></content>
+	<tabTrigger><![CDATA[setFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[VFXEventAttribute.*(nameID, f)]]></description>
+</snippet>

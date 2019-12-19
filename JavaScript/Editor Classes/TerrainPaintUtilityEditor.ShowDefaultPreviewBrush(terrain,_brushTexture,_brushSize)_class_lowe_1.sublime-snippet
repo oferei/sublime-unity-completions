@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtilityEditor.ShowDefaultPreviewBrush(${1:terrain : Terrain}, ${2:brushTexture : Texture}, ${3:brushSize : float})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtilityEditor.ShowDefaultPreviewBrush]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(terrain, brushTexture, brushSize)]]></description>
+</snippet>

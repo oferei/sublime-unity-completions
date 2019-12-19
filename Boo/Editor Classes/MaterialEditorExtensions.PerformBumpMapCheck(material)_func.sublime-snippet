@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditorExtensions.PerformBumpMapCheck(${1:material as Material})]]></content>
+	<tabTrigger><![CDATA[PerformBumpMapCheck]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MaterialEditorExtensions.*(material)]]></description>
+</snippet>

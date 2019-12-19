@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.IsValidAllocator(${1:Unity.Collections.Allocator allocator})]]></content>
+	<tabTrigger><![CDATA[isValidAllocator]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnsafeUtility.*(allocator)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IDropTarget.CanAcceptDrop(${1:selection as List<ISelectable>})]]></content>
+	<tabTrigger><![CDATA[CanAcceptDrop]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IDropTarget.*(selection)]]></description>
+</snippet>

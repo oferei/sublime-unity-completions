@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IUxmlAttributes.GetPropertyFloat(${1:string propertyName}, ${2:float def})]]></content>
-	<tabTrigger><![CDATA[iUxmlAttributes.GetPropertyFloat]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(propertyName, def)]]></description>
-</snippet>

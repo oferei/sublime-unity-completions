@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkConnection.SendUnreliable(${1:short msgType}, ${2:Networking.MessageBase msg})]]></content>
-	<tabTrigger><![CDATA[SendUnreliable]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkConnection.*(msgType, msg)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextureGenerator.GenerateTexture(${1:settings as Experimental.AssetImporters.TextureGenerationSettings}, ${2:colorBuffer as NativeArray<Color32>})]]></content>
+	<tabTrigger><![CDATA[GenerateTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TextureGenerator.*(settings, colorBuffer)]]></description>
+</snippet>

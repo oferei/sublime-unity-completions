@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityAPICompatibilityVersionAttribute(${1:string version}, ${2:string[] configurationAssembliesHashes})]]></content>
+	<tabTrigger><![CDATA[unityAPICompatibilityVersionAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(version, configurationAssembliesHashes)]]></description>
+</snippet>

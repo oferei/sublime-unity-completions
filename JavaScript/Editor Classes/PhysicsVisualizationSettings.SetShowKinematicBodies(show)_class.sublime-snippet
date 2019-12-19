@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowKinematicBodies(${1:show : bool})]]></content>
+	<tabTrigger><![CDATA[PhysicsVisualizationSettings.SetShowKinematicBodies]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(show)]]></description>
+</snippet>

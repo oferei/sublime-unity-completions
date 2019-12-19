@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnityWebRequestAssetBundle.GetAssetBundle(${1:Uri uri}, ${2:CachedAssetBundle cachedAssetBundle}, ${3:uint crc})]]></content>
+	<tabTrigger><![CDATA[getAssetBundle]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UnityWebRequestAssetBundle.*(uri, cachedAssetBundle, crc)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AssetDatabase.IsPackagedAsset(${1:instanceID : int})]]></content>
-	<tabTrigger><![CDATA[assetDatabase.IsPackagedAsset]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(instanceID)]]></description>
-</snippet>

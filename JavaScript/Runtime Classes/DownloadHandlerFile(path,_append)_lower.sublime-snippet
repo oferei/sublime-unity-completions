@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DownloadHandlerFile(${1:path : string}, ${2:append : bool})]]></content>
+	<tabTrigger><![CDATA[downloadHandlerFile]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path, append)]]></description>
+</snippet>

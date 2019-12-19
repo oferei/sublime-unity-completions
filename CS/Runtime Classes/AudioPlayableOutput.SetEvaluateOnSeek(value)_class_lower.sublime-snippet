@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioPlayableOutput.SetEvaluateOnSeek(${1:bool value})]]></content>
+	<tabTrigger><![CDATA[audioPlayableOutput.SetEvaluateOnSeek]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

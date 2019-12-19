@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FontEngine.LoadFontFace(${1:string filePath}, ${2:int pointSize})]]></content>
+	<tabTrigger><![CDATA[loadFontFace]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[FontEngine.*(filePath, pointSize)]]></description>
+</snippet>

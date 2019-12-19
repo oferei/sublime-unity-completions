@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Material.GetTag(${1:tag : string}, ${2:searchFallbacks : bool})]]></content>
+	<tabTrigger><![CDATA[material.GetTag]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(tag, searchFallbacks)]]></description>
+</snippet>

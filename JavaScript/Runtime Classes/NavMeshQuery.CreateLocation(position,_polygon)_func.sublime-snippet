@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.CreateLocation(${1:position : Vector3}, ${2:polygon : Experimental.AI.PolygonId})]]></content>
+	<tabTrigger><![CDATA[CreateLocation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[NavMeshQuery.*(position, polygon)]]></description>
+</snippet>

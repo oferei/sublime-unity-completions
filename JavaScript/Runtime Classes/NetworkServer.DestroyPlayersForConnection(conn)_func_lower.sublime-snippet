@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.DestroyPlayersForConnection(${1:conn : Networking.NetworkConnection})]]></content>
-	<tabTrigger><![CDATA[destroyPlayersForConnection]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkServer.*(conn)]]></description>
-</snippet>

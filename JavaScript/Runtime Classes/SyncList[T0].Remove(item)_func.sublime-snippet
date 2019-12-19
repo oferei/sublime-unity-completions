@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SyncList<T0>.Remove(${1:item : T})]]></content>
-	<tabTrigger><![CDATA[Remove]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[SyncList<T0>.*(item)]]></description>
-</snippet>

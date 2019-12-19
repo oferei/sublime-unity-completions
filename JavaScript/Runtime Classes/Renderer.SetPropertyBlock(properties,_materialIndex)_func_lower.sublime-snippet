@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Renderer.SetPropertyBlock(${1:properties : MaterialPropertyBlock}, ${2:materialIndex : int})]]></content>
+	<tabTrigger><![CDATA[setPropertyBlock]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Renderer.*(properties, materialIndex)]]></description>
+</snippet>

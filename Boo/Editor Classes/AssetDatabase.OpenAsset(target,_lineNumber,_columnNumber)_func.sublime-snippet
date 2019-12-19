@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.OpenAsset(${1:target as Object}, ${2:lineNumber as int}, ${3:columnNumber as int})]]></content>
+	<tabTrigger><![CDATA[OpenAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetDatabase.*(target, lineNumber, columnNumber)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CameraMode.Equals(${1:otherObject as object})]]></content>
+	<tabTrigger><![CDATA[CameraMode.Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(otherObject)]]></description>
+</snippet>

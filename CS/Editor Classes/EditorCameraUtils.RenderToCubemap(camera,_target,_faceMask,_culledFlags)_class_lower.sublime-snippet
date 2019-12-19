@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorCameraUtils.RenderToCubemap(${1:Camera camera}, ${2:Texture target}, ${3:int faceMask}, ${4:StaticEditorFlags culledFlags})]]></content>
+	<tabTrigger><![CDATA[editorCameraUtils.RenderToCubemap]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(camera, target, faceMask, culledFlags)]]></description>
+</snippet>

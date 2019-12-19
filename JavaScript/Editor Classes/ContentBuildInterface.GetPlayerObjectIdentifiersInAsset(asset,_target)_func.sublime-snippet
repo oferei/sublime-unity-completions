@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.GetPlayerObjectIdentifiersInAsset(${1:asset : GUID}, ${2:target : BuildTarget})]]></content>
+	<tabTrigger><![CDATA[GetPlayerObjectIdentifiersInAsset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ContentBuildInterface.*(asset, target)]]></description>
+</snippet>

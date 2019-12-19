@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextAsset(${1:text as string})]]></content>
+	<tabTrigger><![CDATA[textAsset]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(text)]]></description>
+</snippet>

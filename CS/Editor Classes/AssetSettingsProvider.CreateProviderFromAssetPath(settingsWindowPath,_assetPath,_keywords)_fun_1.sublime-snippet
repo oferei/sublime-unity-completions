@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetSettingsProvider.CreateProviderFromAssetPath(${1:string settingsWindowPath}, ${2:string assetPath}, ${3:IEnumerable<string> keywords})]]></content>
+	<tabTrigger><![CDATA[CreateProviderFromAssetPath]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetSettingsProvider.*(settingsWindowPath, assetPath, keywords)]]></description>
+</snippet>

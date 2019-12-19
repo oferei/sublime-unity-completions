@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Group.OnElementsAdded(${1:elements : IEnumerable<GraphElement>})]]></content>
+	<tabTrigger><![CDATA[Group.OnElementsAdded]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(elements)]]></description>
+</snippet>

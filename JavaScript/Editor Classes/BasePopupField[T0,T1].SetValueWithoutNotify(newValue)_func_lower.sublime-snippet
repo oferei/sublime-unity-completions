@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BasePopupField<T0,T1>.SetValueWithoutNotify(${1:newValue : TValueType})]]></content>
+	<tabTrigger><![CDATA[setValueWithoutNotify]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[BasePopupField<T0,T1>.*(newValue)]]></description>
+</snippet>

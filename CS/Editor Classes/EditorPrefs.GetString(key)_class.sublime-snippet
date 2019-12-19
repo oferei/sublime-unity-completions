@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorPrefs.GetString(${1:string key})]]></content>
+	<tabTrigger><![CDATA[EditorPrefs.GetString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

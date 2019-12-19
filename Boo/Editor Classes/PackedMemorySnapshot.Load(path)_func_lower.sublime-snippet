@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackedMemorySnapshot.Load(${1:path as string})]]></content>
+	<tabTrigger><![CDATA[load]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PackedMemorySnapshot.*(path)]]></description>
+</snippet>

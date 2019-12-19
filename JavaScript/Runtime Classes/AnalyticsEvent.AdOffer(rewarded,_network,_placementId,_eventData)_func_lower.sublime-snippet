@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.AdOffer(${1:rewarded : bool}, ${2:network : Analytics.AdvertisingNetwork}, ${3:placementId : string}, ${4:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[adOffer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[AnalyticsEvent.*(rewarded, network, placementId, eventData)]]></description>
-</snippet>

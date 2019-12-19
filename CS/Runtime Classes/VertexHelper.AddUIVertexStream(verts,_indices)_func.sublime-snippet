@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VertexHelper.AddUIVertexStream(${1:List<UIVertex> verts}, ${2:List<int> indices})]]></content>
-	<tabTrigger><![CDATA[AddUIVertexStream]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[VertexHelper.*(verts, indices)]]></description>
-</snippet>

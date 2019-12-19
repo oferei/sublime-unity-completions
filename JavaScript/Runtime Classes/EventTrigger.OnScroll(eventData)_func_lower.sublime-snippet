@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnScroll(${1:eventData : EventSystems.PointerEventData})]]></content>
-	<tabTrigger><![CDATA[onScroll]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[EventTrigger.*(eventData)]]></description>
-</snippet>

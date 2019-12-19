@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetGlobalInt(${1:name as string}, ${2:value as int})]]></content>
+	<tabTrigger><![CDATA[commandBuffer.SetGlobalInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, value)]]></description>
+</snippet>

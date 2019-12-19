@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.DrawMeshInstanced(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:material : Material}, ${4:shaderPass : int}, ${5:matrices : Matrix4x4[]}, ${6:count : int})]]></content>
+	<tabTrigger><![CDATA[DrawMeshInstanced]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(mesh, submeshIndex, material, shaderPass, matrices, count)]]></description>
+</snippet>

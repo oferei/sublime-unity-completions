@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.IsDefaultOverride(${1:modification as PropertyModification})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.IsDefaultOverride]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(modification)]]></description>
+</snippet>

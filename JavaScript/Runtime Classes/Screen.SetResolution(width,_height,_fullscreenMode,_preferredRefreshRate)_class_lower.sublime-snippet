@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Screen.SetResolution(${1:width : int}, ${2:height : int}, ${3:fullscreenMode : FullScreenMode}, ${4:preferredRefreshRate : int = 0})]]></content>
+	<tabTrigger><![CDATA[screen.SetResolution]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(width, height, fullscreenMode, preferredRefreshRate)]]></description>
+</snippet>

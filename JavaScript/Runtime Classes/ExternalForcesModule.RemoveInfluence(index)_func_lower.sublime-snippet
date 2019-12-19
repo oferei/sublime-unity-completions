@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExternalForcesModule.RemoveInfluence(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[removeInfluence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ExternalForcesModule.*(index)]]></description>
+</snippet>

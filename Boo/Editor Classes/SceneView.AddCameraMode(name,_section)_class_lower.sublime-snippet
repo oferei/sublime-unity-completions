@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.AddCameraMode(${1:name as string}, ${2:section as string})]]></content>
+	<tabTrigger><![CDATA[sceneView.AddCameraMode]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, section)]]></description>
+</snippet>

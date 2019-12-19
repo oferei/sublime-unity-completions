@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RectUtils.IntersectsSegment(${1:Rect rect}, ${2:Vector2 p1}, ${3:Vector2 p2})]]></content>
+	<tabTrigger><![CDATA[IntersectsSegment]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[RectUtils.*(rect, p1, p2)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetPlatformIcons(${1:BuildTargetGroup platform}, ${2:PlatformIconKind kind}, ${3:PlatformIcon[] icons})]]></content>
+	<tabTrigger><![CDATA[SetPlatformIcons]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayerSettings.*(platform, kind, icons)]]></description>
+</snippet>

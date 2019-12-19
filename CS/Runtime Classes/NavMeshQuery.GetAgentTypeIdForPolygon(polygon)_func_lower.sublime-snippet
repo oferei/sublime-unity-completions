@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.GetAgentTypeIdForPolygon(${1:Experimental.AI.PolygonId polygon})]]></content>
+	<tabTrigger><![CDATA[getAgentTypeIdForPolygon]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshQuery.*(polygon)]]></description>
+</snippet>

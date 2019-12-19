@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.Schedule(${1:parameters : ref Unity.Jobs.LowLevel.Unsafe.JobsUtility.JobScheduleParameters})]]></content>
+	<tabTrigger><![CDATA[schedule]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[JobsUtility.*(parameters)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IPropertyCollector.AddFromClip(${1:obj as GameObject}, ${2:clip as AnimationClip})]]></content>
-	<tabTrigger><![CDATA[AddFromClip]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[IPropertyCollector.*(obj, clip)]]></description>
-</snippet>

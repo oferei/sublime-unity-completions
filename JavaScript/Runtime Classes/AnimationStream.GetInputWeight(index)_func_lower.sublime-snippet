@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationStream.GetInputWeight(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[getInputWeight]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationStream.*(index)]]></description>
+</snippet>

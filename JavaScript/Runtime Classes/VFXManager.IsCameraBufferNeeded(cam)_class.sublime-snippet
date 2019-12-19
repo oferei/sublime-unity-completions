@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXManager.IsCameraBufferNeeded(${1:cam : Camera})]]></content>
+	<tabTrigger><![CDATA[VFXManager.IsCameraBufferNeeded]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(cam)]]></description>
+</snippet>

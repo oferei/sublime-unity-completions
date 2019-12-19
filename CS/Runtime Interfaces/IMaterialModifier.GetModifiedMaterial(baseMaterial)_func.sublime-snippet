@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IMaterialModifier.GetModifiedMaterial(${1:Material baseMaterial})]]></content>
-	<tabTrigger><![CDATA[GetModifiedMaterial]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IMaterialModifier.*(baseMaterial)]]></description>
-</snippet>

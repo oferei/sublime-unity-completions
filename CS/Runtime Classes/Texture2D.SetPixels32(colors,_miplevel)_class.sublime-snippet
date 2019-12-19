@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Texture2D.SetPixels32(${1:Color32[] colors}, ${2:int miplevel = 0})]]></content>
+	<content><![CDATA[Texture2D.SetPixels32(${1:Color32[] colors}, ${2:int miplevel})]]></content>
 	<tabTrigger><![CDATA[Texture2D.SetPixels32]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(colors, miplevel)]]></description>

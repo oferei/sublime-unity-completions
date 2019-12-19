@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.IncrementUpdateCount(${1:dest : Rendering.RenderTargetIdentifier})]]></content>
+	<tabTrigger><![CDATA[incrementUpdateCount]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[CommandBuffer.*(dest)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Transform.Find(${1:n as string})]]></content>
+	<tabTrigger><![CDATA[transform.Find]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(n)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetOutgoingUserBytesCountForHost(${1:int hostId}, ${2:out byte error})]]></content>
-	<tabTrigger><![CDATA[GetOutgoingUserBytesCountForHost]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, error)]]></description>
-</snippet>

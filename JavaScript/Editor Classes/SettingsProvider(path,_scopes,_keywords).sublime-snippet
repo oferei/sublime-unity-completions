@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SettingsProvider(${1:path : string}, ${2:scopes : SettingsScope}, ${3:keywords : IEnumerable<string>})]]></content>
+	<tabTrigger><![CDATA[SettingsProvider]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(path, scopes, keywords)]]></description>
+</snippet>

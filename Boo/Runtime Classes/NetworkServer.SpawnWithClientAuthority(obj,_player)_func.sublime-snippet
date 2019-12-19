@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SpawnWithClientAuthority(${1:obj as GameObject}, ${2:player as GameObject})]]></content>
-	<tabTrigger><![CDATA[SpawnWithClientAuthority]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(obj, player)]]></description>
-</snippet>

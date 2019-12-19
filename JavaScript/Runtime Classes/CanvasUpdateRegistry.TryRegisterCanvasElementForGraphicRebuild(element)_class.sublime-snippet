@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CanvasUpdateRegistry.TryRegisterCanvasElementForGraphicRebuild(${1:element : UI.ICanvasElement})]]></content>
-	<tabTrigger><![CDATA[CanvasUpdateRegistry.TryRegisterCanvasElementForGraphicRebuild]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(element)]]></description>
-</snippet>

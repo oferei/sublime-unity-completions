@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[StandaloneInputModule.ProcessTouchPress(${1:EventSystems.PointerEventData pointerEvent}, ${2:bool pressed}, ${3:bool released})]]></content>
-	<tabTrigger><![CDATA[standaloneInputModule.ProcessTouchPress]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(pointerEvent, pressed, released)]]></description>
-</snippet>

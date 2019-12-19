@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ProjectCapabilityManager.AddiCloud(${1:bool enableKeyValueStorage}, ${2:bool enableiCloudDocument}, ${3:bool enablecloudKit}, ${4:bool addDefaultContainers}, ${5:string[] customContainers})]]></content>
+	<tabTrigger><![CDATA[ProjectCapabilityManager.AddiCloud]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(enableKeyValueStorage, enableiCloudDocument, enablecloudKit, addDefaultContainers, customContainers)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerTableColumn.CopyPropertiesDelegate(${1:target as SerializedProperty}, ${2:source as SerializedProperty})]]></content>
+	<tabTrigger><![CDATA[copyPropertiesDelegate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[LightingExplorerTableColumn.*(target, source)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CrashReportHandler.GetUserMetadata(${1:key as string})]]></content>
+	<tabTrigger><![CDATA[CrashReportHandler.GetUserMetadata]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(key)]]></description>
+</snippet>

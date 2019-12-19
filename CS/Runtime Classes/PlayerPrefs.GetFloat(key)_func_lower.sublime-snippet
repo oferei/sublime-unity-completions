@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerPrefs.GetFloat(${1:string key})]]></content>
+	<tabTrigger><![CDATA[getFloat]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayerPrefs.*(key)]]></description>
+</snippet>

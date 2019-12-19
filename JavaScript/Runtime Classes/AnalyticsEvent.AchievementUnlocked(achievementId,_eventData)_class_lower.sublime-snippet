@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.AchievementUnlocked(${1:achievementId : string}, ${2:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.AchievementUnlocked]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(achievementId, eventData)]]></description>
-</snippet>

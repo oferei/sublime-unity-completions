@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SearchTreeEntry(${1:content as GUIContent})]]></content>
+	<tabTrigger><![CDATA[searchTreeEntry]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(content)]]></description>
+</snippet>

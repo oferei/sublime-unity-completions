@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.Connect(${1:serverIp : string}, ${2:serverPort : int})]]></content>
-	<tabTrigger><![CDATA[connect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[NetworkClient.*(serverIp, serverPort)]]></description>
-</snippet>

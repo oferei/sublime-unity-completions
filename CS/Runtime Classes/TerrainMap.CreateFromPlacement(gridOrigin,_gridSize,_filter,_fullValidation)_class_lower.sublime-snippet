@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainMap.CreateFromPlacement(${1:Vector2 gridOrigin}, ${2:Vector2 gridSize}, ${3:TerrainUtility.TerrainMap.TerrainFilter filter}, ${4:bool fullValidation})]]></content>
+	<tabTrigger><![CDATA[terrainMap.CreateFromPlacement]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(gridOrigin, gridSize, filter, fullValidation)]]></description>
+</snippet>

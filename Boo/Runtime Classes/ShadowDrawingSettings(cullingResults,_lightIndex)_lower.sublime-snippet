@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShadowDrawingSettings(${1:cullingResults as Rendering.CullingResults}, ${2:lightIndex as int})]]></content>
+	<tabTrigger><![CDATA[shadowDrawingSettings]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(cullingResults, lightIndex)]]></description>
+</snippet>

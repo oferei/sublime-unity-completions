@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteDataAccessExtensions.SetIndices(${1:sprite : Sprite}, ${2:src : NativeArray<ushort>})]]></content>
+	<tabTrigger><![CDATA[spriteDataAccessExtensions.SetIndices]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sprite, src)]]></description>
+</snippet>

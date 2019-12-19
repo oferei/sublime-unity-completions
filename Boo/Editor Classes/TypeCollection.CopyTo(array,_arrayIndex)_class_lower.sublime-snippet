@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TypeCollection.CopyTo(${1:array as Array}, ${2:arrayIndex as int})]]></content>
+	<tabTrigger><![CDATA[typeCollection.CopyTo]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(array, arrayIndex)]]></description>
+</snippet>

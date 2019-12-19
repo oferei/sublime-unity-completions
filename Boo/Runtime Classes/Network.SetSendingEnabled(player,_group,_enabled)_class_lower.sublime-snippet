@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.SetSendingEnabled(${1:player as NetworkPlayer}, ${2:group as int}, ${3:enabled as bool})]]></content>
-	<tabTrigger><![CDATA[network.SetSendingEnabled]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(player, group, enabled)]]></description>
-</snippet>

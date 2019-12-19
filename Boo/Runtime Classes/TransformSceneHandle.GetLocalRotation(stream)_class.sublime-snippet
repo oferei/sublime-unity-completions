@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformSceneHandle.GetLocalRotation(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[TransformSceneHandle.GetLocalRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Sprite.Create(${1:texture : Texture2D}, ${2:rect : Rect}, ${3:pivot : Vector2}, ${4:pixelsPerUnit : float}, ${5:extrude : uint})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Sprite.*(texture, rect, pivot, pixelsPerUnit, extrude)]]></description>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MasterServer.RegisterHost(${1:gameTypeName : string}, ${2:gameName : string}, ${3:comment : string = \"\"})]]></content>
-	<tabTrigger><![CDATA[MasterServer.RegisterHost]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(gameTypeName, gameName, comment)]]></description>
-</snippet>

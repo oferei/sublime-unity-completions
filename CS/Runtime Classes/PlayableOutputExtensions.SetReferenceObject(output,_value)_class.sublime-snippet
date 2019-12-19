@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.SetReferenceObject(${1:U output}, ${2:Object value})]]></content>
+	<tabTrigger><![CDATA[PlayableOutputExtensions.SetReferenceObject]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(output, value)]]></description>
+</snippet>

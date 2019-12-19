@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventTrigger.OnMove(${1:EventSystems.AxisEventData eventData})]]></content>
-	<tabTrigger><![CDATA[eventTrigger.OnMove]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(eventData)]]></description>
-</snippet>

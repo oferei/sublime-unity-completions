@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.GetJobRange(${1:ranges as ref Unity.Jobs.LowLevel.Unsafe.JobRanges}, ${2:jobIndex as int}, ${3:beginIndex as out int}, ${4:endIndex as out int})]]></content>
+	<tabTrigger><![CDATA[JobsUtility.GetJobRange]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(ranges, jobIndex, beginIndex, endIndex)]]></description>
+</snippet>

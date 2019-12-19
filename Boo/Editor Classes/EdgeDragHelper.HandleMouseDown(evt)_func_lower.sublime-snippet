@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EdgeDragHelper.HandleMouseDown(${1:evt as UIElements.MouseDownEvent})]]></content>
+	<tabTrigger><![CDATA[handleMouseDown]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EdgeDragHelper.*(evt)]]></description>
+</snippet>

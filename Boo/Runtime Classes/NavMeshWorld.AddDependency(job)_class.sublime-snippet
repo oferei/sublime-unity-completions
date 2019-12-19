@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshWorld.AddDependency(${1:job as Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[NavMeshWorld.AddDependency]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(job)]]></description>
+</snippet>

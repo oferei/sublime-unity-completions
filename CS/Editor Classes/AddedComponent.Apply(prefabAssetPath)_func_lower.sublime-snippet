@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddedComponent.Apply(${1:string prefabAssetPath})]]></content>
+	<tabTrigger><![CDATA[apply]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AddedComponent.*(prefabAssetPath)]]></description>
+</snippet>

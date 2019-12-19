@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[EventBase<T0>.ReleasePooled(${1:evt as T})]]></content>
-	<tabTrigger><![CDATA[releasePooled]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[EventBase<T0>.*(evt)]]></description>
-</snippet>

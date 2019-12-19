@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CallbackEventHandler.UnregisterCallback(${1:callback : EventCallback<TEventType,TUserArgsType>}, ${2:useCapture : Experimental.UIElements.Capture})]]></content>
-	<tabTrigger><![CDATA[unregisterCallback]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[CallbackEventHandler.*(callback, useCapture)]]></description>
-</snippet>

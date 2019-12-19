@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.CheckExistsAndThrow(${1:Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle handle})]]></content>
+	<tabTrigger><![CDATA[AtomicSafetyHandle.CheckExistsAndThrow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(handle)]]></description>
+</snippet>

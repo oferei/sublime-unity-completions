@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AudioSampleProvider.SetSampleFramesOverflowNativeHandler(${1:handler as Experimental.Audio.AudioSampleProvider.SampleFramesEventNativeFunction}, ${2:userData as IntPtr})]]></content>
+	<tabTrigger><![CDATA[audioSampleProvider.SetSampleFramesOverflowNativeHandler]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handler, userData)]]></description>
+</snippet>

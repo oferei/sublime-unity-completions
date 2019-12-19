@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ICustomStyle.TryGetValue(${1:property : CustomStyleProperty<string>}, ${2:value : out string})]]></content>
+	<tabTrigger><![CDATA[ICustomStyle.TryGetValue]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(property, value)]]></description>
+</snippet>

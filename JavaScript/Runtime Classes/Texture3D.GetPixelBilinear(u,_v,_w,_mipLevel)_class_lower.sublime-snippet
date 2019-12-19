@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Texture3D.GetPixelBilinear(${1:u : float}, ${2:v : float}, ${3:w : float}, ${4:mipLevel : int})]]></content>
+	<tabTrigger><![CDATA[texture3D.GetPixelBilinear]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(u, v, w, mipLevel)]]></description>
+</snippet>

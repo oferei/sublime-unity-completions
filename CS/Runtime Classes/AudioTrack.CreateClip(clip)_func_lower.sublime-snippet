@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AudioTrack.CreateClip(${1:AudioClip clip})]]></content>
-	<tabTrigger><![CDATA[createClip]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[AudioTrack.*(clip)]]></description>
-</snippet>

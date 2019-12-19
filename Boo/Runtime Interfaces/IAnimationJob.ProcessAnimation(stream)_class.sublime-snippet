@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IAnimationJob.ProcessAnimation(${1:stream as Experimental.Animations.AnimationStream})]]></content>
+	<tabTrigger><![CDATA[IAnimationJob.ProcessAnimation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream)]]></description>
+</snippet>

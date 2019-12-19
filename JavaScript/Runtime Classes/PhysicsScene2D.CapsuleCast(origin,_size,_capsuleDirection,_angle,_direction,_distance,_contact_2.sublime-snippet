@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.CapsuleCast(${1:origin : Vector2}, ${2:size : Vector2}, ${3:capsuleDirection : CapsuleDirection2D}, ${4:angle : float}, ${5:direction : Vector2}, ${6:distance : float}, ${7:contactFilter : ContactFilter2D})]]></content>
+	<tabTrigger><![CDATA[physicsScene2D.CapsuleCast]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(origin, size, capsuleDirection, angle, direction, distance, contactFilter)]]></description>
+</snippet>

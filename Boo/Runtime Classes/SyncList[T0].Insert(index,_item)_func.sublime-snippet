@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SyncList<T0>.Insert(${1:index as int}, ${2:item as T})]]></content>
-	<tabTrigger><![CDATA[Insert]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[SyncList<T0>.*(index, item)]]></description>
-</snippet>

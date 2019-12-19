@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBindingExtensions.IsBound(${1:control as UIElements.IBindable})]]></content>
+	<tabTrigger><![CDATA[isBound]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IBindingExtensions.*(control)]]></description>
+</snippet>

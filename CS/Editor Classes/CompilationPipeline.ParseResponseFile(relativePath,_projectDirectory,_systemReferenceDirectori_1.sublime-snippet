@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.ParseResponseFile(${1:string relativePath}, ${2:string projectDirectory}, ${3:string[] systemReferenceDirectories})]]></content>
+	<tabTrigger><![CDATA[CompilationPipeline.ParseResponseFile]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(relativePath, projectDirectory, systemReferenceDirectories)]]></description>
+</snippet>

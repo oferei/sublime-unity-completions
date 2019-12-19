@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.SetPlatformTextureSettings(${1:ProceduralMaterial material}, ${2:string platform}, ${3:int maxTextureWidth}, ${4:int maxTextureHeight}, ${5:int textureFormat}, ${6:int loadBehavior})]]></content>
-	<tabTrigger><![CDATA[setPlatformTextureSettings]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[SubstanceImporter.*(material, platform, maxTextureWidth, maxTextureHeight, textureFormat, loadBehavior)]]></description>
-</snippet>

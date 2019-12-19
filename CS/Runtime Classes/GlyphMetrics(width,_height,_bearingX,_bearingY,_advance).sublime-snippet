@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlyphMetrics(${1:float width}, ${2:float height}, ${3:float bearingX}, ${4:float bearingY}, ${5:float advance})]]></content>
+	<tabTrigger><![CDATA[GlyphMetrics]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(width, height, bearingX, bearingY, advance)]]></description>
+</snippet>

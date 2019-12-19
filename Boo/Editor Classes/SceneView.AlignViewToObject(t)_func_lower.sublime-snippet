@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneView.AlignViewToObject(${1:t as Transform})]]></content>
+	<tabTrigger><![CDATA[alignViewToObject]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[SceneView.*(t)]]></description>
+</snippet>

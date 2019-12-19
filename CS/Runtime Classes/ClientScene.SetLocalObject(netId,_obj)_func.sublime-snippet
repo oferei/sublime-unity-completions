@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.SetLocalObject(${1:uint netId}, ${2:GameObject obj})]]></content>
-	<tabTrigger><![CDATA[SetLocalObject]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[ClientScene.*(netId, obj)]]></description>
-</snippet>

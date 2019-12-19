@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Length(${1:value : float}, ${2:unit : UIElements.LengthUnit})]]></content>
+	<tabTrigger><![CDATA[length]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(value, unit)]]></description>
+</snippet>

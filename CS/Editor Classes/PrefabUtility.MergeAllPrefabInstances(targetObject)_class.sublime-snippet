@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PrefabUtility.MergeAllPrefabInstances(${1:Object targetObject})]]></content>
-	<tabTrigger><![CDATA[PrefabUtility.MergeAllPrefabInstances]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(targetObject)]]></description>
-</snippet>

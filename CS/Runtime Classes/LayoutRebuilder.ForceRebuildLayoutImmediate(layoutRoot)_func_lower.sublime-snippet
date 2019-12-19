@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutRebuilder.ForceRebuildLayoutImmediate(${1:RectTransform layoutRoot})]]></content>
-	<tabTrigger><![CDATA[forceRebuildLayoutImmediate]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[LayoutRebuilder.*(layoutRoot)]]></description>
-</snippet>

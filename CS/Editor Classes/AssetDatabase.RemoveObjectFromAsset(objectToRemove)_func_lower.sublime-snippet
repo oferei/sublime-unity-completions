@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.RemoveObjectFromAsset(${1:Object objectToRemove})]]></content>
+	<tabTrigger><![CDATA[removeObjectFromAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[AssetDatabase.*(objectToRemove)]]></description>
+</snippet>

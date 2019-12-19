@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerExtensionAttribute(${1:renderPipeline as Type})]]></content>
+	<tabTrigger><![CDATA[lightingExplorerExtensionAttribute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(renderPipeline)]]></description>
+</snippet>

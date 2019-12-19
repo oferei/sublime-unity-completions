@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlatformIcon.GetTexture(${1:layer as int})]]></content>
+	<tabTrigger><![CDATA[platformIcon.GetTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(layer)]]></description>
+</snippet>

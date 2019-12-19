@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.MoveLocationsInSameAreas(${1:NativeSlice<NavMeshLocation> locations}, ${2:NativeSlice<Vector3> targets}, ${3:int areaMask})]]></content>
+	<tabTrigger><![CDATA[MoveLocationsInSameAreas]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[NavMeshQuery.*(locations, targets, areaMask)]]></description>
+</snippet>

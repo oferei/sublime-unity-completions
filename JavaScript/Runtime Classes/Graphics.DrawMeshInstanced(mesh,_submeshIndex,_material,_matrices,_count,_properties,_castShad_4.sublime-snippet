@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Graphics.DrawMeshInstanced(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:material : Material}, ${4:matrices : Matrix4x4[]}, ${5:count : int = matrices.Length}, ${6:properties : MaterialPropertyBlock = null}, ${7:castShadows : Rendering.ShadowCastingMode = ShadowCastingMode.On}, ${8:receiveShadows : bool = true}, ${9:layer : int = 0}, ${10:camera : Camera = null})]]></content>
+	<content><![CDATA[Graphics.DrawMeshInstanced(${1:mesh : Mesh}, ${2:submeshIndex : int}, ${3:material : Material}, ${4:matrices : Matrix4x4[]}, ${5:count : int = matrices.Length}, ${6:properties : MaterialPropertyBlock = null}, ${7:castShadows : Rendering.ShadowCastingMode = ShadowCastingMode.On}, ${8:receiveShadows : bool = true}, ${9:layer : int = 0}, ${10:camera : Camera = null}, ${11:lightProbeUsage : Rendering.LightProbeUsage = LightProbeUsage.BlendProbes}, ${12:lightProbeProxyVolume : LightProbeProxyVolume = null})]]></content>
 	<tabTrigger><![CDATA[drawMeshInstanced]]></tabTrigger>
 	<scope>source.js</scope>
-	<description><![CDATA[Graphics.*(mesh, submeshIndex, material, matrices, count, properties, castShadows, receiveShadows, layer, camera)]]></description>
+	<description><![CDATA[Graphics.*(mesh, submeshIndex, material, matrices, count, properties, castShadows, receiveShadows, layer, camera, lightProbeUsage, lightProbeProxyVolume)]]></description>
 </snippet>

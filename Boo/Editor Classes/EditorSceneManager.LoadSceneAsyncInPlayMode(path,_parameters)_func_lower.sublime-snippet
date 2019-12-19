@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorSceneManager.LoadSceneAsyncInPlayMode(${1:path as string}, ${2:parameters as SceneManagement.LoadSceneParameters})]]></content>
+	<tabTrigger><![CDATA[loadSceneAsyncInPlayMode]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[EditorSceneManager.*(path, parameters)]]></description>
+</snippet>

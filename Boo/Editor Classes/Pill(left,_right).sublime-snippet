@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Pill(${1:left as UIElements.VisualElement}, ${2:right as UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[Pill]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(left, right)]]></description>
+</snippet>

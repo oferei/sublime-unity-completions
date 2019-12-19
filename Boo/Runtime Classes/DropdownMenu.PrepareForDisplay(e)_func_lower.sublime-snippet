@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.PrepareForDisplay(${1:e as UIElements.EventBase})]]></content>
+	<tabTrigger><![CDATA[prepareForDisplay]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[DropdownMenu.*(e)]]></description>
+</snippet>

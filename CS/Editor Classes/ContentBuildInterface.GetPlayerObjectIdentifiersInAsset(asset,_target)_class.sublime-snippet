@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.GetPlayerObjectIdentifiersInAsset(${1:GUID asset}, ${2:BuildTarget target})]]></content>
+	<tabTrigger><![CDATA[ContentBuildInterface.GetPlayerObjectIdentifiersInAsset]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(asset, target)]]></description>
+</snippet>

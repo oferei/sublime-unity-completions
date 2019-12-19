@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptPlayableBinding.Create(${1:name as string}, ${2:key as Object}, ${3:type as Type})]]></content>
+	<tabTrigger><![CDATA[ScriptPlayableBinding.Create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(name, key, type)]]></description>
+</snippet>

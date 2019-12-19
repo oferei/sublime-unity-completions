@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IStoreController.FetchAdditionalProducts(${1:products : HashSet<ProductDefinition>}, ${2:successCallback : Action}, ${3:failCallback : Action<InitializationFailureReason>})]]></content>
-	<tabTrigger><![CDATA[fetchAdditionalProducts]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[IStoreController.*(products, successCallback, failCallback)]]></description>
-</snippet>

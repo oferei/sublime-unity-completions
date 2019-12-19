@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GUIUtility.AlignRectToDevice(${1:Rect rect})]]></content>
+	<tabTrigger><![CDATA[gUIUtility.AlignRectToDevice]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rect)]]></description>
+</snippet>

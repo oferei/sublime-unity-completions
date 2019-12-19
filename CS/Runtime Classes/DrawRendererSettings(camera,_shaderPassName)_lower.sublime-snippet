@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[DrawRendererSettings(${1:Camera camera}, ${2:Experimental.Rendering.ShaderPassName shaderPassName})]]></content>
-	<tabTrigger><![CDATA[drawRendererSettings]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(camera, shaderPassName)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphics.DrawProcedural(${1:topology : MeshTopology}, ${2:vertexCount : int}, ${3:instanceCount : int = 1})]]></content>
-	<tabTrigger><![CDATA[DrawProcedural]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Graphics.*(topology, vertexCount, instanceCount)]]></description>
-</snippet>

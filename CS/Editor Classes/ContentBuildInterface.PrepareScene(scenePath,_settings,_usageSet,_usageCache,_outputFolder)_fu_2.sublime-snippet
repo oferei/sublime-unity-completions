@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.PrepareScene(${1:string scenePath}, ${2:Build.Content.BuildSettings settings}, ${3:Build.Content.BuildUsageTagSet usageSet}, ${4:Build.Content.BuildUsageCache usageCache}, ${5:string outputFolder})]]></content>
+	<tabTrigger><![CDATA[prepareScene]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ContentBuildInterface.*(scenePath, settings, usageSet, usageCache, outputFolder)]]></description>
+</snippet>

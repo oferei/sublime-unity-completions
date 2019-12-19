@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShortcutHandler(${1:Dictionary<Event,ShortcutDelegate> dictionary})]]></content>
+	<tabTrigger><![CDATA[shortcutHandler]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(dictionary)]]></description>
+</snippet>

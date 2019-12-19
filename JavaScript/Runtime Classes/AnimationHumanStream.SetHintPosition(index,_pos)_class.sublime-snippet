@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetHintPosition(${1:index : AvatarIKHint}, ${2:pos : Vector3})]]></content>
+	<tabTrigger><![CDATA[AnimationHumanStream.SetHintPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(index, pos)]]></description>
+</snippet>

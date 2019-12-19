@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StencilState.SetZFailOperation(${1:Rendering.StencilOp value})]]></content>
+	<tabTrigger><![CDATA[stencilState.SetZFailOperation]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(value)]]></description>
+</snippet>

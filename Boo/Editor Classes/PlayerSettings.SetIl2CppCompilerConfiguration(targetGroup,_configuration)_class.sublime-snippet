@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.SetIl2CppCompilerConfiguration(${1:targetGroup as BuildTargetGroup}, ${2:configuration as Il2CppCompilerConfiguration})]]></content>
+	<tabTrigger><![CDATA[PlayerSettings.SetIl2CppCompilerConfiguration]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(targetGroup, configuration)]]></description>
+</snippet>

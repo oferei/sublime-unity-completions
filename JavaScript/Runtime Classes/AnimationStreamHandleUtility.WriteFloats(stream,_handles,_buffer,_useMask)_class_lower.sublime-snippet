@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationStreamHandleUtility.WriteFloats(${1:stream : Experimental.Animations.AnimationStream}, ${2:handles : NativeArray<PropertyStreamHandle>}, ${3:buffer : NativeArray<float>}, ${4:useMask : bool})]]></content>
+	<tabTrigger><![CDATA[animationStreamHandleUtility.WriteFloats]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(stream, handles, buffer, useMask)]]></description>
+</snippet>

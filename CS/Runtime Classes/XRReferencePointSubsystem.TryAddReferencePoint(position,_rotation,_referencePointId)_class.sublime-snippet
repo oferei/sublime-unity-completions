@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRReferencePointSubsystem.TryAddReferencePoint(${1:Vector3 position}, ${2:Quaternion rotation}, ${3:out Experimental.XR.TrackableId referencePointId})]]></content>
+	<tabTrigger><![CDATA[XRReferencePointSubsystem.TryAddReferencePoint]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, rotation, referencePointId)]]></description>
+</snippet>

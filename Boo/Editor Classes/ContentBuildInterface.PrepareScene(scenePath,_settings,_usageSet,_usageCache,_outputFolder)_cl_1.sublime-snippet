@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.PrepareScene(${1:scenePath as string}, ${2:settings as Build.Content.BuildSettings}, ${3:usageSet as Build.Content.BuildUsageTagSet}, ${4:usageCache as Build.Content.BuildUsageCache}, ${5:outputFolder as string})]]></content>
+	<tabTrigger><![CDATA[ContentBuildInterface.PrepareScene]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(scenePath, settings, usageSet, usageCache, outputFolder)]]></description>
+</snippet>

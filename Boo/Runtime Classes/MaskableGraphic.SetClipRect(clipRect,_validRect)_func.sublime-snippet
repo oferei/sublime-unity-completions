@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaskableGraphic.SetClipRect(${1:clipRect as Rect}, ${2:validRect as bool})]]></content>
-	<tabTrigger><![CDATA[SetClipRect]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[MaskableGraphic.*(clipRect, validRect)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.HasPrefabInstanceAnyOverrides(${1:instanceRoot as GameObject}, ${2:includeDefaultOverrides as bool})]]></content>
+	<tabTrigger><![CDATA[hasPrefabInstanceAnyOverrides]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PrefabUtility.*(instanceRoot, includeDefaultOverrides)]]></description>
+</snippet>

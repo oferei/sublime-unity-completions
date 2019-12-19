@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MethodCollection.IndexOf(${1:item as object})]]></content>
+	<tabTrigger><![CDATA[methodCollection.IndexOf]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(item)]]></description>
+</snippet>

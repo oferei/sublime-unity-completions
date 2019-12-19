@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[Physics.CapsuleCastNonAlloc(${1:point1 as Vector3}, ${2:point2 as Vector3}, ${3:radius as single}, ${4:direction as Vector3}, ${5:results as (RaycastHit)}, ${6:maxDistance as single = Mathf.Infinity}, ${7:layermask as int = DefaultRaycastLayers}, ${8:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
+	<content><![CDATA[Physics.CapsuleCastNonAlloc(${1:point1 as Vector3}, ${2:point2 as Vector3}, ${3:radius as single}, ${4:direction as Vector3}, ${5:results as (RaycastHit)}, ${6:maxDistance as single = Mathf.Infinity}, ${7:layerMask as int = DefaultRaycastLayers}, ${8:queryTriggerInteraction as QueryTriggerInteraction = QueryTriggerInteraction.UseGlobal})]]></content>
 	<tabTrigger><![CDATA[capsuleCastNonAlloc]]></tabTrigger>
 	<scope>source.boo</scope>
-	<description><![CDATA[Physics.*(point1, point2, radius, direction, results, maxDistance, layermask, queryTriggerInteraction)]]></description>
+	<description><![CDATA[Physics.*(point1, point2, radius, direction, results, maxDistance, layerMask, queryTriggerInteraction)]]></description>
 </snippet>

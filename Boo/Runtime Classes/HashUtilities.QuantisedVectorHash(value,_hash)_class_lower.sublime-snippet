@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HashUtilities.QuantisedVectorHash(${1:value as ref Vector3}, ${2:hash as ref Hash128})]]></content>
+	<tabTrigger><![CDATA[hashUtilities.QuantisedVectorHash]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(value, hash)]]></description>
+</snippet>

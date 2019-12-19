@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IUxmlAttributes.TryGetAttributeValue(${1:string attributeName}, ${2:out string value})]]></content>
+	<tabTrigger><![CDATA[iUxmlAttributes.TryGetAttributeValue]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(attributeName, value)]]></description>
+</snippet>

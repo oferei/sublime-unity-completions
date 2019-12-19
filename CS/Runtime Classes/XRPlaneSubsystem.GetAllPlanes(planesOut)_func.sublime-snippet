@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[XRPlaneSubsystem.GetAllPlanes(${1:List<BoundedPlane> planesOut})]]></content>
+	<tabTrigger><![CDATA[GetAllPlanes]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[XRPlaneSubsystem.*(planesOut)]]></description>
+</snippet>

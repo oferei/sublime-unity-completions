@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SetTexture(${1:int nameID}, ${2:Texture t})]]></content>
+	<tabTrigger><![CDATA[VisualEffect.SetTexture]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(nameID, t)]]></description>
+</snippet>

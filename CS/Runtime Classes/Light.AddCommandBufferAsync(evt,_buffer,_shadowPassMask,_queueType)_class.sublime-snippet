@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Light.AddCommandBufferAsync(${1:Rendering.LightEvent evt}, ${2:Rendering.CommandBuffer buffer}, ${3:Rendering.ShadowMapPass shadowPassMask}, ${4:Rendering.ComputeQueueType queueType})]]></content>
+	<tabTrigger><![CDATA[Light.AddCommandBufferAsync]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(evt, buffer, shadowPassMask, queueType)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobParallelForExtensions.Schedule(${1:jobData as T}, ${2:arrayLength as int}, ${3:innerloopBatchCount as int}, ${4:dependsOn as Unity.Jobs.JobHandle})]]></content>
+	<tabTrigger><![CDATA[iJobParallelForExtensions.Schedule]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(jobData, arrayLength, innerloopBatchCount, dependsOn)]]></description>
+</snippet>

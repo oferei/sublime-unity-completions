@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerBuildInterface.CompilePlayerScripts(${1:input : Build.Player.ScriptCompilationSettings}, ${2:outputFolder : string})]]></content>
+	<tabTrigger><![CDATA[CompilePlayerScripts]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayerBuildInterface.*(input, outputFolder)]]></description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Physics2D.OverlapArea(${1:Vector2 pointA}, ${2:Vector2 pointB}, ${3:ContactFilter2D contactFilter}, ${4:Collider2D[] results})]]></content>
+	<content><![CDATA[Physics2D.OverlapArea(${1:Vector2 pointA}, ${2:Vector2 pointB}, ${3:ContactFilter2D contactFilter}, ${4:List<Collider2D> results})]]></content>
 	<tabTrigger><![CDATA[Physics2D.OverlapArea]]></tabTrigger>
 	<scope>source.cs</scope>
 	<description><![CDATA[*(pointA, pointB, contactFilter, results)]]></description>

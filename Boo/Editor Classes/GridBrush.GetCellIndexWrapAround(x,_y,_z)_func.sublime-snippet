@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.GetCellIndexWrapAround(${1:x as int}, ${2:y as int}, ${3:z as int})]]></content>
-	<tabTrigger><![CDATA[GetCellIndexWrapAround]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GridBrush.*(x, y, z)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphic.Raycast(${1:sp as Vector2}, ${2:eventCamera as Camera})]]></content>
-	<tabTrigger><![CDATA[graphic.Raycast]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(sp, eventCamera)]]></description>
-</snippet>

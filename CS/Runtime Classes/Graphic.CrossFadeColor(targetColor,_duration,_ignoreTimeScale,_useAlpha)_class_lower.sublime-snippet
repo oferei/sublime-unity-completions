@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Graphic.CrossFadeColor(${1:Color targetColor}, ${2:float duration}, ${3:bool ignoreTimeScale}, ${4:bool useAlpha})]]></content>
-	<tabTrigger><![CDATA[graphic.CrossFadeColor]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(targetColor, duration, ignoreTimeScale, useAlpha)]]></description>
-</snippet>

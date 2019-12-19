@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Camera.ScreenPointToRay(${1:position : Vector3})]]></content>
-	<tabTrigger><![CDATA[screenPointToRay]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[Camera.*(position)]]></description>
-</snippet>

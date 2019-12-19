@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MouseCaptureController.ReleaseMouse(${1:handler : UIElements.IEventHandler})]]></content>
+	<tabTrigger><![CDATA[ReleaseMouse]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[MouseCaptureController.*(handler)]]></description>
+</snippet>

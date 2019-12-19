@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.GetNewSelectionFunction(${1:clickedItem as IMGUI.Controls.TreeViewItem}, ${2:keepMultiSelection as bool}, ${3:useActionKeyAsShift as bool})]]></content>
+	<tabTrigger><![CDATA[GetNewSelectionFunction]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TreeView.*(clickedItem, keepMultiSelection, useActionKeyAsShift)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputExtensions.IsOutputNull(${1:output : U})]]></content>
+	<tabTrigger><![CDATA[IsOutputNull]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableOutputExtensions.*(output)]]></description>
+</snippet>

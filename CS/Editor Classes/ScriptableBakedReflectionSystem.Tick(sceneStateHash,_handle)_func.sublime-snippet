@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptableBakedReflectionSystem.Tick(${1:Experimental.Rendering.SceneStateHash sceneStateHash}, ${2:Experimental.Rendering.IScriptableBakedReflectionSystemStageNotifier handle})]]></content>
+	<tabTrigger><![CDATA[Tick]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ScriptableBakedReflectionSystem.*(sceneStateHash, handle)]]></description>
+</snippet>

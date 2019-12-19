@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScaleConstraint.SetSource(${1:index : int}, ${2:source : Animations.ConstraintSource})]]></content>
+	<tabTrigger><![CDATA[setSource]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ScaleConstraint.*(index, source)]]></description>
+</snippet>

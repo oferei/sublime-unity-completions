@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.RenameMaterial(${1:material as ProceduralMaterial}, ${2:name as string})]]></content>
-	<tabTrigger><![CDATA[SubstanceImporter.RenameMaterial]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(material, name)]]></description>
-</snippet>

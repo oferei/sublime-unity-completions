@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.SetLookAtEyesWeight(${1:weight as single})]]></content>
+	<tabTrigger><![CDATA[AnimationHumanStream.SetLookAtEyesWeight]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(weight)]]></description>
+</snippet>

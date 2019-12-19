@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkTransport.GetOutgoingPacketCountForHost(${1:hostId as int}, ${2:error as out byte})]]></content>
-	<tabTrigger><![CDATA[getOutgoingPacketCountForHost]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkTransport.*(hostId, error)]]></description>
-</snippet>

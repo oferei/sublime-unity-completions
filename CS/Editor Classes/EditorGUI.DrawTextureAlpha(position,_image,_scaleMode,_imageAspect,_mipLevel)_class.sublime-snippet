@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DrawTextureAlpha(${1:Rect position}, ${2:Texture image}, ${3:ScaleMode scaleMode = ScaleMode.StretchToFill}, ${4:float imageAspect = 0}, ${5:float mipLevel = -1})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.DrawTextureAlpha]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(position, image, scaleMode, imageAspect, mipLevel)]]></description>
+</snippet>

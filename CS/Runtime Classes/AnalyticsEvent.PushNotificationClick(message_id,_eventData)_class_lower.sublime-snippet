@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.PushNotificationClick(${1:string message_id}, ${2:IDictionary<string,object> eventData})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.PushNotificationClick]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(message_id, eventData)]]></description>
-</snippet>

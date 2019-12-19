@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[RenderPassAttachment.Clear(${1:clearCol : Color}, ${2:clearDep : float}, ${3:clearStenc : uint})]]></content>
-	<tabTrigger><![CDATA[Clear]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[RenderPassAttachment.*(clearCol, clearDep, clearStenc)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetDatabase.OpenAsset(${1:target : Object}, ${2:lineNumber : int}, ${3:columnNumber : int})]]></content>
+	<tabTrigger><![CDATA[AssetDatabase.OpenAsset]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(target, lineNumber, columnNumber)]]></description>
+</snippet>

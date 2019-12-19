@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyStreamHandle.SetFloat(${1:stream : Experimental.Animations.AnimationStream}, ${2:value : float})]]></content>
+	<tabTrigger><![CDATA[PropertyStreamHandle.SetFloat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(stream, value)]]></description>
+</snippet>

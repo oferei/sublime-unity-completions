@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Glyph(${1:uint index}, ${2:TextCore.GlyphMetrics metrics}, ${3:TextCore.GlyphRect glyphRect})]]></content>
+	<tabTrigger><![CDATA[Glyph]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(index, metrics, glyphRect)]]></description>
+</snippet>

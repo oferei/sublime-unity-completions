@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompilationPipeline.GetPrecompiledAssemblyPathFromAssemblyName(${1:string assemblyName})]]></content>
+	<tabTrigger><![CDATA[GetPrecompiledAssemblyPathFromAssemblyName]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CompilationPipeline.*(assemblyName)]]></description>
+</snippet>

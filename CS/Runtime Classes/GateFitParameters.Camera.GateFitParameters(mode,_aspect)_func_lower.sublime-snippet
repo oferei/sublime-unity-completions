@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GateFitParameters.Camera.GateFitParameters(${1:Camera.GateFitMode mode}, ${2:float aspect})]]></content>
+	<tabTrigger><![CDATA[camera.GateFitParameters]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[GateFitParameters.*(mode, aspect)]]></description>
+</snippet>

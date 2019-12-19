@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Port.Create(${1:orientation : Tilemaps.Tilemap.Orientation}, ${2:direction : Experimental.GraphView.Direction}, ${3:capacity : Experimental.GraphView.Port.Capacity}, ${4:type : Type})]]></content>
+	<tabTrigger><![CDATA[Create]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Port.*(orientation, direction, capacity, type)]]></description>
+</snippet>

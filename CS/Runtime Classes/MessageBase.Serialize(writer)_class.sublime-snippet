@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MessageBase.Serialize(${1:Networking.NetworkWriter writer})]]></content>
-	<tabTrigger><![CDATA[MessageBase.Serialize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(writer)]]></description>
-</snippet>

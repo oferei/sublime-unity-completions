@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Node.SetPosition(${1:newPos : Rect})]]></content>
+	<tabTrigger><![CDATA[SetPosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[Node.*(newPos)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorApplication.ExitPlaymode(${1:string namelessParam}, ${2:string[] namelessParam})]]></content>
+	<tabTrigger><![CDATA[ExitPlaymode]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorApplication.*(namelessParam, namelessParam)]]></description>
+</snippet>

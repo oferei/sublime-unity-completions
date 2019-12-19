@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UxmlDoubleAttributeDescription.TryGetValueFromBag(${1:bag as UIElements.IUxmlAttributes}, ${2:cc as UIElements.CreationContext}, ${3:value as ref double})]]></content>
+	<tabTrigger><![CDATA[TryGetValueFromBag]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UxmlDoubleAttributeDescription.*(bag, cc, value)]]></description>
+</snippet>

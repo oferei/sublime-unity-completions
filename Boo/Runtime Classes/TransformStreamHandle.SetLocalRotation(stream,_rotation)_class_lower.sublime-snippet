@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.SetLocalRotation(${1:stream as Experimental.Animations.AnimationStream}, ${2:rotation as Quaternion})]]></content>
+	<tabTrigger><![CDATA[transformStreamHandle.SetLocalRotation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(stream, rotation)]]></description>
+</snippet>

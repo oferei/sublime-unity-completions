@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PlayerSettings.SetPlatformVuforiaEnabled(${1:targetGroup : BuildTargetGroup}, ${2:enabled : bool})]]></content>
-	<tabTrigger><![CDATA[SetPlatformVuforiaEnabled]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[PlayerSettings.*(targetGroup, enabled)]]></description>
-</snippet>

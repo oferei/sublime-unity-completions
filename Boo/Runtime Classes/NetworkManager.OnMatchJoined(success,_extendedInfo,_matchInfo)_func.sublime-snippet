@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkManager.OnMatchJoined(${1:success as bool}, ${2:extendedInfo as string}, ${3:matchInfo as Networking.Match.MatchInfo})]]></content>
-	<tabTrigger><![CDATA[OnMatchJoined]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkManager.*(success, extendedInfo, matchInfo)]]></description>
-</snippet>

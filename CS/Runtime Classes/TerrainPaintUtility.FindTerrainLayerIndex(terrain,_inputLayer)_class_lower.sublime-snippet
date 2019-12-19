@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtility.FindTerrainLayerIndex(${1:Terrain terrain}, ${2:TerrainLayer inputLayer})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtility.FindTerrainLayerIndex]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(terrain, inputLayer)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.ResolveAntiAliasedSurface(${1:RenderTexture rt}, ${2:RenderTexture target})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.ResolveAntiAliasedSurface]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(rt, target)]]></description>
+</snippet>

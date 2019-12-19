@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneManager.LoadScene(${1:sceneBuildIndex : int}, ${2:parameters : SceneManagement.LoadSceneParameters})]]></content>
+	<tabTrigger><![CDATA[sceneManager.LoadScene]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(sceneBuildIndex, parameters)]]></description>
+</snippet>

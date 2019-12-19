@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteShapeRenderer.Prepare(${1:Unity.Jobs.JobHandle handle}, ${2:Experimental.U2D.SpriteShapeParameters shapeParams}, ${3:Sprite[] sprites})]]></content>
+	<tabTrigger><![CDATA[prepare]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[SpriteShapeRenderer.*(handle, shapeParams, sprites)]]></description>
+</snippet>

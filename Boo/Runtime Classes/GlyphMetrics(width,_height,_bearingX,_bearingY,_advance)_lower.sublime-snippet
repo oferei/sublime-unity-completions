@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlyphMetrics(${1:width as single}, ${2:height as single}, ${3:bearingX as single}, ${4:bearingY as single}, ${5:advance as single})]]></content>
+	<tabTrigger><![CDATA[glyphMetrics]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(width, height, bearingX, bearingY, advance)]]></description>
+</snippet>

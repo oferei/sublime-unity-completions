@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.TexturePropertyWithHDRColor(${1:GUIContent label}, ${2:MaterialProperty textureProp}, ${3:MaterialProperty colorProperty}, ${4:bool showAlpha})]]></content>
+	<tabTrigger><![CDATA[TexturePropertyWithHDRColor]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[MaterialEditor.*(label, textureProp, colorProperty, showAlpha)]]></description>
+</snippet>

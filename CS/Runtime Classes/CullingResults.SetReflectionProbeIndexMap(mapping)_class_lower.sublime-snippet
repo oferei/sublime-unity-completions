@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CullingResults.SetReflectionProbeIndexMap(${1:int[] mapping})]]></content>
+	<tabTrigger><![CDATA[cullingResults.SetReflectionProbeIndexMap]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(mapping)]]></description>
+</snippet>

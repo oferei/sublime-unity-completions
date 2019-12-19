@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PolygonId.Equals(${1:rhs as Experimental.AI.PolygonId})]]></content>
+	<tabTrigger><![CDATA[Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PolygonId.*(rhs)]]></description>
+</snippet>

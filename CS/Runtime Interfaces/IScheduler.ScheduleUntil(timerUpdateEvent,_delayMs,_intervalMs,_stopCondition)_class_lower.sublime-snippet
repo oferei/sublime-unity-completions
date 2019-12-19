@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IScheduler.ScheduleUntil(${1:Action<TimerState> timerUpdateEvent}, ${2:long delayMs}, ${3:long intervalMs}, ${4:Func<bool> stopCondition})]]></content>
-	<tabTrigger><![CDATA[iScheduler.ScheduleUntil]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(timerUpdateEvent, delayMs, intervalMs, stopCondition)]]></description>
-</snippet>

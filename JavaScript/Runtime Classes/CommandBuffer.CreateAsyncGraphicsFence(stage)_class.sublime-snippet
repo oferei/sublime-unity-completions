@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.CreateAsyncGraphicsFence(${1:stage : Rendering.SynchronisationStage})]]></content>
+	<tabTrigger><![CDATA[CommandBuffer.CreateAsyncGraphicsFence]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(stage)]]></description>
+</snippet>

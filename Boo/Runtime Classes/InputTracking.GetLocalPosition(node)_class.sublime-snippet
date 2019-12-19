@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[InputTracking.GetLocalPosition(${1:node as XR.XRNode})]]></content>
-	<tabTrigger><![CDATA[InputTracking.GetLocalPosition]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(node)]]></description>
-</snippet>

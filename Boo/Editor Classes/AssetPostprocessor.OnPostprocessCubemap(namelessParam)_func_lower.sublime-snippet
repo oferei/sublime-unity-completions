@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessCubemap(${1:namelessParam as Cubemap})]]></content>
+	<tabTrigger><![CDATA[onPostprocessCubemap]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AssetPostprocessor.*(namelessParam)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.GetGoalLocalPosition(${1:index as AvatarIKGoal})]]></content>
+	<tabTrigger><![CDATA[GetGoalLocalPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationHumanStream.*(index)]]></description>
+</snippet>

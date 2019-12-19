@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorUtility.SetCameraAnimateMaterialsTime(${1:Camera camera}, ${2:float time})]]></content>
+	<tabTrigger><![CDATA[setCameraAnimateMaterialsTime]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[EditorUtility.*(camera, time)]]></description>
+</snippet>

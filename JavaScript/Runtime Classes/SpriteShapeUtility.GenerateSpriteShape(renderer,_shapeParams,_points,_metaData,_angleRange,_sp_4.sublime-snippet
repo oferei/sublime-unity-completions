@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SpriteShapeUtility.GenerateSpriteShape(${1:renderer : Experimental.U2D.SpriteShapeRenderer}, ${2:shapeParams : Experimental.U2D.SpriteShapeParameters}, ${3:points : ShapeControlPoint[]}, ${4:metaData : SpriteShapeMetaData[]}, ${5:angleRange : AngleRangeInfo[]}, ${6:sprites : Sprite[]}, ${7:corners : Sprite[]})]]></content>
+	<tabTrigger><![CDATA[generateSpriteShape]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SpriteShapeUtility.*(renderer, shapeParams, points, metaData, angleRange, sprites, corners)]]></description>
+</snippet>

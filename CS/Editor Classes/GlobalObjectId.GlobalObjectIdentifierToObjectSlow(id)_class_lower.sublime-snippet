@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.GlobalObjectIdentifierToObjectSlow(${1:GlobalObjectId id})]]></content>
+	<tabTrigger><![CDATA[globalObjectId.GlobalObjectIdentifierToObjectSlow]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(id)]]></description>
+</snippet>

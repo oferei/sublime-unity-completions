@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.UserSignup(${1:authorizationNetwork as Analytics.AuthorizationNetwork}, ${2:eventData as IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[UserSignup]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[AnalyticsEvent.*(authorizationNetwork, eventData)]]></description>
-</snippet>

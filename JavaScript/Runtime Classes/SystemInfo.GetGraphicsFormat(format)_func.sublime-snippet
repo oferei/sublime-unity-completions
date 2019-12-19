@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SystemInfo.GetGraphicsFormat(${1:format : Experimental.Rendering.DefaultFormat})]]></content>
+	<tabTrigger><![CDATA[GetGraphicsFormat]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[SystemInfo.*(format)]]></description>
+</snippet>

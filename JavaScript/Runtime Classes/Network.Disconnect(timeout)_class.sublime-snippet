@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Network.Disconnect(${1:timeout : int = 200})]]></content>
-	<tabTrigger><![CDATA[Network.Disconnect]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(timeout)]]></description>
-</snippet>

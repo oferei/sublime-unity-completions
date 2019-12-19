@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationHumanStream.GetHintPosition(${1:index as AvatarIKHint})]]></content>
+	<tabTrigger><![CDATA[getHintPosition]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[AnimationHumanStream.*(index)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EdgeManipulator.OnKeyDown(${1:evt : UIElements.KeyDownEvent})]]></content>
+	<tabTrigger><![CDATA[onKeyDown]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[EdgeManipulator.*(evt)]]></description>
+</snippet>

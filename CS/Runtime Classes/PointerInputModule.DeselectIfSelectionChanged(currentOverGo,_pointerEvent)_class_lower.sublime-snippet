@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[PointerInputModule.DeselectIfSelectionChanged(${1:GameObject currentOverGo}, ${2:EventSystems.BaseEventData pointerEvent})]]></content>
-	<tabTrigger><![CDATA[pointerInputModule.DeselectIfSelectionChanged]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(currentOverGo, pointerEvent)]]></description>
-</snippet>

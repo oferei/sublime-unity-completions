@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[GridBrush.FloodFill(${1:gridLayout as GridLayout}, ${2:brushTarget as GameObject}, ${3:position as Vector3Int})]]></content>
-	<tabTrigger><![CDATA[floodFill]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[GridBrush.*(gridLayout, brushTarget, position)]]></description>
-</snippet>

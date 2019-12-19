@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowRigidbodies(${1:bool show})]]></content>
+	<tabTrigger><![CDATA[setShowRigidbodies]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PhysicsVisualizationSettings.*(show)]]></description>
+</snippet>

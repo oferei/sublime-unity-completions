@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.EnumToInt(${1:enumValue : T})]]></content>
+	<tabTrigger><![CDATA[EnumToInt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[UnsafeUtility.*(enumValue)]]></description>
+</snippet>

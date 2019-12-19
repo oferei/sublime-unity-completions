@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AnimationMode.AddEditorCurveBinding(${1:gameObject : GameObject}, ${2:binding : EditorCurveBinding})]]></content>
+	<tabTrigger><![CDATA[addEditorCurveBinding]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[AnimationMode.*(gameObject, binding)]]></description>
+</snippet>

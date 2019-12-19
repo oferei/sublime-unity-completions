@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IOnInspectorGUI.Repaint(${1:flags as Experimental.TerrainAPI.RepaintFlags})]]></content>
+	<tabTrigger><![CDATA[IOnInspectorGUI.Repaint]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(flags)]]></description>
+</snippet>

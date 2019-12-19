@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainPaintUtilityEditor.DrawBrushPreview(${1:heightmapPC as Experimental.TerrainAPI.PaintContext}, ${2:previewTexture as Experimental.TerrainAPI.TerrainPaintUtilityEditor.BrushPreview}, ${3:brushTexture as Texture}, ${4:brushXform as Experimental.TerrainAPI.BrushTransform}, ${5:proceduralMaterial as Material}, ${6:materialPassIndex as int})]]></content>
+	<tabTrigger><![CDATA[terrainPaintUtilityEditor.DrawBrushPreview]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(heightmapPC, previewTexture, brushTexture, brushXform, proceduralMaterial, materialPassIndex)]]></description>
+</snippet>

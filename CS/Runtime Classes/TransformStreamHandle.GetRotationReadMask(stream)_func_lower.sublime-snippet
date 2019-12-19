@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.GetRotationReadMask(${1:Experimental.Animations.AnimationStream stream})]]></content>
+	<tabTrigger><![CDATA[getRotationReadMask]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream)]]></description>
+</snippet>

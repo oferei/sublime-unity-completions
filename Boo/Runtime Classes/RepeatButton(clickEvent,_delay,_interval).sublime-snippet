@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RepeatButton(${1:clickEvent as Action}, ${2:delay as long}, ${3:interval as long})]]></content>
+	<tabTrigger><![CDATA[RepeatButton]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(clickEvent, delay, interval)]]></description>
+</snippet>

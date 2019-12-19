@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextElement.MeasureTextSize(${1:textToMeasure : string}, ${2:width : float}, ${3:widthMode : UIElements.VisualElement.MeasureMode}, ${4:height : float}, ${5:heightMode : UIElements.VisualElement.MeasureMode})]]></content>
+	<tabTrigger><![CDATA[MeasureTextSize]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TextElement.*(textToMeasure, width, widthMode, height, heightMode)]]></description>
+</snippet>

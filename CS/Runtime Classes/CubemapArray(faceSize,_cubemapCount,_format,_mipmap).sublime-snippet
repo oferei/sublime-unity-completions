@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CubemapArray(${1:int faceSize}, ${2:int cubemapCount}, ${3:TextureFormat format}, ${4:bool mipmap})]]></content>
-	<tabTrigger><![CDATA[CubemapArray]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(faceSize, cubemapCount, format, mipmap)]]></description>
-</snippet>

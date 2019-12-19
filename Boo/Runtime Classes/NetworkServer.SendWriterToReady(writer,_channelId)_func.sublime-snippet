@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.SendWriterToReady(${1:writer as NetworkWriter}, ${2:channelId as int})]]></content>
-	<tabTrigger><![CDATA[SendWriterToReady]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[NetworkServer.*(writer, channelId)]]></description>
-</snippet>

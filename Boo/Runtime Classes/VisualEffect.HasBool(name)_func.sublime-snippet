@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.HasBool(${1:name as string})]]></content>
+	<tabTrigger><![CDATA[HasBool]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualEffect.*(name)]]></description>
+</snippet>

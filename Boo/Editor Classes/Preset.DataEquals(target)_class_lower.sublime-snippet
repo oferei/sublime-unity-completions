@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Preset.DataEquals(${1:target as Object})]]></content>
+	<tabTrigger><![CDATA[preset.DataEquals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target)]]></description>
+</snippet>

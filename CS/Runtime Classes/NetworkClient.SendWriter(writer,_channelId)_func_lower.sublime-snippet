@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkClient.SendWriter(${1:Networking.NetworkWriter writer}, ${2:int channelId})]]></content>
-	<tabTrigger><![CDATA[sendWriter]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[NetworkClient.*(writer, channelId)]]></description>
-</snippet>

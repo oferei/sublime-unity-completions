@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryBuilder<T0>.Class(${1:string classname})]]></content>
+	<tabTrigger><![CDATA[Class]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[UQueryBuilder<T0>.*(classname)]]></description>
+</snippet>

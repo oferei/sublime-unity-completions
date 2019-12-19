@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[ParticleSystem.Stop(${1:withChildren as bool = true}, ${2:stopBehavior as ParticleSystemStopBehavior = ParticleSystemStopBehavior.StopEmitting})]]></content>
+	<content><![CDATA[ParticleSystem.Stop(${1:withChildren as bool}, ${2:stopBehavior as ParticleSystemStopBehavior})]]></content>
 	<tabTrigger><![CDATA[Stop]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[ParticleSystem.*(withChildren, stopBehavior)]]></description>

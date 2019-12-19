@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AssetPostprocessor.OnPostprocessAnimation(${1:root as GameObject}, ${2:clip as AnimationClip})]]></content>
+	<tabTrigger><![CDATA[assetPostprocessor.OnPostprocessAnimation]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(root, clip)]]></description>
+</snippet>

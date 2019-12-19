@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ICustomStyle.ApplyCustomProperty(${1:propertyName : string}, ${2:target : ref StyleValue<string>})]]></content>
-	<tabTrigger><![CDATA[ApplyCustomProperty]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[ICustomStyle.*(propertyName, target)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Animator.SetLookAtWeight(${1:float weight}, ${2:float bodyWeight})]]></content>
+	<tabTrigger><![CDATA[setLookAtWeight]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Animator.*(weight, bodyWeight)]]></description>
+</snippet>

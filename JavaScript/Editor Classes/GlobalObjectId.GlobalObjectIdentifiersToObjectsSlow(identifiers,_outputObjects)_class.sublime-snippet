@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.GlobalObjectIdentifiersToObjectsSlow(${1:identifiers : GlobalObjectId[]}, ${2:outputObjects : out Object[]})]]></content>
+	<tabTrigger><![CDATA[GlobalObjectId.GlobalObjectIdentifiersToObjectsSlow]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(identifiers, outputObjects)]]></description>
+</snippet>

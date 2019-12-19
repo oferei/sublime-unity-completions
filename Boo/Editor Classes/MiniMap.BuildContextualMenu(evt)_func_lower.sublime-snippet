@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MiniMap.BuildContextualMenu(${1:evt as UIElements.ContextualMenuPopulateEvent})]]></content>
+	<tabTrigger><![CDATA[buildContextualMenu]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[MiniMap.*(evt)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlistElementArray.AddReal(${1:float val})]]></content>
+	<tabTrigger><![CDATA[addReal]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlistElementArray.*(val)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TreeView.DoFoldoutCallback(${1:position : Rect}, ${2:expandedState : bool}, ${3:style : GUIStyle})]]></content>
+	<tabTrigger><![CDATA[TreeView.DoFoldoutCallback]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(position, expandedState, style)]]></description>
+</snippet>

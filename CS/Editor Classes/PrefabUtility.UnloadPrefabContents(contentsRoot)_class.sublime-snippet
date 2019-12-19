@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.UnloadPrefabContents(${1:GameObject contentsRoot})]]></content>
+	<tabTrigger><![CDATA[PrefabUtility.UnloadPrefabContents]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(contentsRoot)]]></description>
+</snippet>

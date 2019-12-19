@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PackedMemorySnapshot.Convert(${1:Profiling.Memory.Experimental.PackedMemorySnapshot snapshot}, ${2:string writePath})]]></content>
+	<tabTrigger><![CDATA[packedMemorySnapshot.Convert]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(snapshot, writePath)]]></description>
+</snippet>

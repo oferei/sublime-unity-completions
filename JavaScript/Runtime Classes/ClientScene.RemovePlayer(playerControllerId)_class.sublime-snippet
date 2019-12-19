@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[ClientScene.RemovePlayer(${1:playerControllerId : short})]]></content>
-	<tabTrigger><![CDATA[ClientScene.RemovePlayer]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(playerControllerId)]]></description>
-</snippet>

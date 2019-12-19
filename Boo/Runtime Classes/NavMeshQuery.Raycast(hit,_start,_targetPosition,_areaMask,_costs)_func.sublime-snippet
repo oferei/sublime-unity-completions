@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery.Raycast(${1:hit as out AI.NavMeshHit}, ${2:start as Experimental.AI.NavMeshLocation}, ${3:targetPosition as Vector3}, ${4:areaMask as int}, ${5:costs as NativeArray<float>})]]></content>
+	<tabTrigger><![CDATA[Raycast]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[NavMeshQuery.*(hit, start, targetPosition, areaMask, costs)]]></description>
+</snippet>

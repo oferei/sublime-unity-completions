@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LayoutUtility.GetFlexibleSize(${1:RectTransform rect}, ${2:int axis})]]></content>
-	<tabTrigger><![CDATA[LayoutUtility.GetFlexibleSize]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(rect, axis)]]></description>
-</snippet>

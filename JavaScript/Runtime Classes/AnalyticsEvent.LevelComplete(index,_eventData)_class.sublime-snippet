@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.LevelComplete(${1:index : int}, ${2:eventData : IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[AnalyticsEvent.LevelComplete]]></tabTrigger>
-	<scope>source.js</scope>
-	<description><![CDATA[*(index, eventData)]]></description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Slider.Set(${1:input as single}, ${2:sendCallback as bool})]]></content>
-	<tabTrigger><![CDATA[set]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[Slider.*(input, sendCallback)]]></description>
-</snippet>

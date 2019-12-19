@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsVisualizationSettings.SetShowTerrainColliders(${1:show : bool})]]></content>
+	<tabTrigger><![CDATA[physicsVisualizationSettings.SetShowTerrainColliders]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(show)]]></description>
+</snippet>

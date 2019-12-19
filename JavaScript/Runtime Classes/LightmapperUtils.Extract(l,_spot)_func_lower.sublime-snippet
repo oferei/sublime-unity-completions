@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightmapperUtils.Extract(${1:l : Light}, ${2:spot : ref Experimental.GlobalIllumination.SpotLight})]]></content>
+	<tabTrigger><![CDATA[extract]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[LightmapperUtils.*(l, spot)]]></description>
+</snippet>

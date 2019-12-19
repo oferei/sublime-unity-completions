@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LightingExplorerTableColumn(${1:LightingExplorerTableColumn.DataType type}, ${2:GUIContent headerContent}, ${3:string propertyName}, ${4:int width}, ${5:LightingExplorerTableColumn.OnGUIDelegate onGUIDelegate}, ${6:LightingExplorerTableColumn.ComparePropertiesDelegate compareDelegate}, ${7:LightingExplorerTableColumn.CopyPropertiesDelegate copyDelegate}, ${8:int[] dependencyIndices})]]></content>
+	<tabTrigger><![CDATA[lightingExplorerTableColumn]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(type, headerContent, propertyName, width, onGUIDelegate, compareDelegate, copyDelegate, dependencyIndices)]]></description>
+</snippet>

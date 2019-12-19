@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GlobalObjectId.Equals(${1:other as GlobalObjectId})]]></content>
+	<tabTrigger><![CDATA[GlobalObjectId.Equals]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(other)]]></description>
+</snippet>

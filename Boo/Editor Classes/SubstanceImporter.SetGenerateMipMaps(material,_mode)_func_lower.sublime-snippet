@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[SubstanceImporter.SetGenerateMipMaps(${1:material as ProceduralMaterial}, ${2:mode as bool})]]></content>
-	<tabTrigger><![CDATA[setGenerateMipMaps]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[SubstanceImporter.*(material, mode)]]></description>
-</snippet>

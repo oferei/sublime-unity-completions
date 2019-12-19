@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[AndroidJNIHelper.GetMethodID(${1:javaClass as IntPtr}, ${2:methodName as string}, ${3:signature as string = \"\"}, ${4:isStatic as bool = false})]]></content>
+	<content><![CDATA[AndroidJNIHelper.GetMethodID(${1:javaClass as IntPtr}, ${2:methodName as string}, ${3:signature as string}, ${4:isStatic as bool = false})]]></content>
 	<tabTrigger><![CDATA[getMethodID]]></tabTrigger>
 	<scope>source.boo</scope>
 	<description><![CDATA[AndroidJNIHelper.*(javaClass, methodName, signature, isStatic)]]></description>

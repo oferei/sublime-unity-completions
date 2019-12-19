@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualEffect.SendEvent(${1:eventName as string})]]></content>
+	<tabTrigger><![CDATA[SendEvent]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[VisualEffect.*(eventName)]]></description>
+</snippet>

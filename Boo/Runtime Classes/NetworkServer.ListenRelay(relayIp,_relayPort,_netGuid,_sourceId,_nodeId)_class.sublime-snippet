@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[NetworkServer.ListenRelay(${1:relayIp as string}, ${2:relayPort as int}, ${3:netGuid as Networking.Types.NetworkID}, ${4:sourceId as Networking.Types.SourceID}, ${5:nodeId as Networking.Types.NodeID})]]></content>
-	<tabTrigger><![CDATA[NetworkServer.ListenRelay]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(relayIp, relayPort, netGuid, sourceId, nodeId)]]></description>
-</snippet>

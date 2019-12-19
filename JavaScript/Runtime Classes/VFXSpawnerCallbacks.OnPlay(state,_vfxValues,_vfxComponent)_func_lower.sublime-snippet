@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VFXSpawnerCallbacks.OnPlay(${1:state : Experimental.VFX.VFXSpawnerState}, ${2:vfxValues : Experimental.VFX.VFXExpressionValues}, ${3:vfxComponent : Experimental.VFX.VisualEffect})]]></content>
+	<tabTrigger><![CDATA[onPlay]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[VFXSpawnerCallbacks.*(state, vfxValues, vfxComponent)]]></description>
+</snippet>

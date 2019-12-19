@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[AnalyticsEvent.ScreenVisit(${1:screenName as Analytics.ScreenName}, ${2:eventData as IDictionary<string,object>})]]></content>
-	<tabTrigger><![CDATA[analyticsEvent.ScreenVisit]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(screenName, eventData)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DropdownMenu.RemoveItemAt(${1:index : int})]]></content>
+	<tabTrigger><![CDATA[RemoveItemAt]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[DropdownMenu.*(index)]]></description>
+</snippet>

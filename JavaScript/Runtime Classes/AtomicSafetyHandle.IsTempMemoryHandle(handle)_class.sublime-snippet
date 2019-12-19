@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.IsTempMemoryHandle(${1:handle : Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle})]]></content>
+	<tabTrigger><![CDATA[AtomicSafetyHandle.IsTempMemoryHandle]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(handle)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CommandBuffer.SetExecutionFlags(${1:Rendering.CommandBufferExecutionFlags flags})]]></content>
+	<tabTrigger><![CDATA[setExecutionFlags]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[CommandBuffer.*(flags)]]></description>
+</snippet>

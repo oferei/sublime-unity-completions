@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ToolbarSearchField.SetValueWithoutNotify(${1:newValue : string})]]></content>
+	<tabTrigger><![CDATA[SetValueWithoutNotify]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[ToolbarSearchField.*(newValue)]]></description>
+</snippet>

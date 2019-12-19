@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExpressionEvaluator.Evaluate[of ${1:T}](${2:expression as string})]]></content>
+	<tabTrigger><![CDATA[expressionEvaluator.Evaluate]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*[of T](expression)]]></description>
+</snippet>

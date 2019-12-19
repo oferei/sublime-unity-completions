@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[CommandBuffer.DrawRenderer(${1:renderer : Renderer}, ${2:material : Material}, ${3:submeshIndex : int = 0}, ${4:shaderPass : int = -1})]]></content>
+	<content><![CDATA[CommandBuffer.DrawRenderer(${1:renderer : Renderer}, ${2:material : Material}, ${3:submeshIndex : int}, ${4:shaderPass : int})]]></content>
 	<tabTrigger><![CDATA[CommandBuffer.DrawRenderer]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(renderer, material, submeshIndex, shaderPass)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TransformStreamHandle.SetLocalRotation(${1:stream : Experimental.Animations.AnimationStream}, ${2:rotation : Quaternion})]]></content>
+	<tabTrigger><![CDATA[SetLocalRotation]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[TransformStreamHandle.*(stream, rotation)]]></description>
+</snippet>

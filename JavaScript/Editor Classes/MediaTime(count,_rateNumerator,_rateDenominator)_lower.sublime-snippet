@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MediaTime(${1:count : long}, ${2:rateNumerator : uint}, ${3:rateDenominator : uint})]]></content>
+	<tabTrigger><![CDATA[mediaTime]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(count, rateNumerator, rateDenominator)]]></description>
+</snippet>

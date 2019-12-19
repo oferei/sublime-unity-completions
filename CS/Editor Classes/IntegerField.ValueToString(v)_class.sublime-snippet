@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IntegerField.ValueToString(${1:int v})]]></content>
+	<tabTrigger><![CDATA[IntegerField.ValueToString]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(v)]]></description>
+</snippet>

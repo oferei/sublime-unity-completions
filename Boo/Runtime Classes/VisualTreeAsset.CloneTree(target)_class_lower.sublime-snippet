@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VisualTreeAsset.CloneTree(${1:target as UIElements.VisualElement})]]></content>
+	<tabTrigger><![CDATA[visualTreeAsset.CloneTree]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(target)]]></description>
+</snippet>

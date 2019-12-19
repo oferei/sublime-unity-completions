@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsafeUtility.MemCmp(${1:ptr1 as IntPtr}, ${2:ptr2 as IntPtr}, ${3:size as ulong})]]></content>
+	<tabTrigger><![CDATA[memCmp]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[UnsafeUtility.*(ptr1, ptr2, size)]]></description>
+</snippet>

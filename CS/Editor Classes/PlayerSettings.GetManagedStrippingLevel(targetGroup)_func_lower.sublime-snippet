@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayerSettings.GetManagedStrippingLevel(${1:BuildTargetGroup targetGroup})]]></content>
+	<tabTrigger><![CDATA[getManagedStrippingLevel]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[PlayerSettings.*(targetGroup)]]></description>
+</snippet>

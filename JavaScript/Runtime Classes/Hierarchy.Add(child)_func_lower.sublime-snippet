@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Hierarchy.Add(${1:child : Experimental.UIElements.VisualElement})]]></content>
+	<content><![CDATA[Hierarchy.Add(${1:child : UIElements.VisualElement})]]></content>
 	<tabTrigger><![CDATA[add]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[Hierarchy.*(child)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InspectorElement(${1:obj as Object})]]></content>
+	<tabTrigger><![CDATA[inspectorElement]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(obj)]]></description>
+</snippet>

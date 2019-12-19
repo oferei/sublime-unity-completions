@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MaterialEditor.LightmapEmissionFlagsProperty(${1:int indent}, ${2:bool enabled}, ${3:bool ignoreEmissionColor})]]></content>
+	<tabTrigger><![CDATA[MaterialEditor.LightmapEmissionFlagsProperty]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(indent, enabled, ignoreEmissionColor)]]></description>
+</snippet>

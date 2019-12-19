@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PBXProject.GetBaseReferenceForConfig(${1:string configGuid})]]></content>
+	<tabTrigger><![CDATA[pBXProject.GetBaseReferenceForConfig]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(configGuid)]]></description>
+</snippet>

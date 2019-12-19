@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TexturePlayableBinding.Create(${1:name as string}, ${2:key as Object})]]></content>
+	<tabTrigger><![CDATA[create]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[TexturePlayableBinding.*(name, key)]]></description>
+</snippet>

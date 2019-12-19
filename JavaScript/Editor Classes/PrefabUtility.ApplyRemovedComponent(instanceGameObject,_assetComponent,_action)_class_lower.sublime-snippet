@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrefabUtility.ApplyRemovedComponent(${1:instanceGameObject : GameObject}, ${2:assetComponent : Component}, ${3:action : InteractionMode})]]></content>
+	<tabTrigger><![CDATA[prefabUtility.ApplyRemovedComponent]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(instanceGameObject, assetComponent, action)]]></description>
+</snippet>

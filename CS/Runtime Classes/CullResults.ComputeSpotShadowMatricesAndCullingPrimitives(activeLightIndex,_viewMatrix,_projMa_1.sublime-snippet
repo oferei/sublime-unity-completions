@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CullResults.ComputeSpotShadowMatricesAndCullingPrimitives(${1:int activeLightIndex}, ${2:out Matrix4x4 viewMatrix}, ${3:out Matrix4x4 projMatrix}, ${4:out Experimental.Rendering.ShadowSplitData shadowSplitData})]]></content>
-	<tabTrigger><![CDATA[CullResults.ComputeSpotShadowMatricesAndCullingPrimitives]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(activeLightIndex, viewMatrix, projMatrix, shadowSplitData)]]></description>
-</snippet>

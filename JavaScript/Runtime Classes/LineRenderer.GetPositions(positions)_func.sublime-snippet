@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[LineRenderer.GetPositions(${1:positions : Vector3[]})]]></content>
+	<content><![CDATA[LineRenderer.GetPositions(${1:positions : out Vector3[]})]]></content>
 	<tabTrigger><![CDATA[GetPositions]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[LineRenderer.*(positions)]]></description>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PlayableOutputEditorExtensions.GetEditorName(${1:output : U})]]></content>
+	<tabTrigger><![CDATA[GetEditorName]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[PlayableOutputEditorExtensions.*(output)]]></description>
+</snippet>

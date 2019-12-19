@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentDragger.CalculatePosition(${1:x : float}, ${2:y : float}, ${3:width : float}, ${4:height : float})]]></content>
+	<tabTrigger><![CDATA[contentDragger.CalculatePosition]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(x, y, width, height)]]></description>
+</snippet>

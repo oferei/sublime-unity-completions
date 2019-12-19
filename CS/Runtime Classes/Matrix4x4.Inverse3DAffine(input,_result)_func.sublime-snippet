@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Matrix4x4.Inverse3DAffine(${1:Matrix4x4 input}, ${2:ref Matrix4x4 result})]]></content>
+	<tabTrigger><![CDATA[Inverse3DAffine]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[Matrix4x4.*(input, result)]]></description>
+</snippet>

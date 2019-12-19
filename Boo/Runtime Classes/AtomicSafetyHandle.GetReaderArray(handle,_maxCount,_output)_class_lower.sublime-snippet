@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AtomicSafetyHandle.GetReaderArray(${1:handle as Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle}, ${2:maxCount as int}, ${3:output as IntPtr})]]></content>
+	<tabTrigger><![CDATA[atomicSafetyHandle.GetReaderArray]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(handle, maxCount, output)]]></description>
+</snippet>

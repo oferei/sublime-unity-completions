@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[VisualElement.Remove(${1:element : Experimental.UIElements.VisualElement})]]></content>
+	<content><![CDATA[VisualElement.Remove(${1:element : UIElements.VisualElement})]]></content>
 	<tabTrigger><![CDATA[visualElement.Remove]]></tabTrigger>
 	<scope>source.js</scope>
 	<description><![CDATA[*(element)]]></description>

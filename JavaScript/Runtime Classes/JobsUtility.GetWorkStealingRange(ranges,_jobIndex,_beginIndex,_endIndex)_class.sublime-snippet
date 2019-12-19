@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobsUtility.GetWorkStealingRange(${1:ranges : ref Unity.Jobs.LowLevel.Unsafe.JobRanges}, ${2:jobIndex : int}, ${3:beginIndex : out int}, ${4:endIndex : out int})]]></content>
+	<tabTrigger><![CDATA[JobsUtility.GetWorkStealingRange]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(ranges, jobIndex, beginIndex, endIndex)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Scope.AcceptsElement(${1:element as Experimental.GraphView.GraphElement}, ${2:reasonWhyNotAccepted as ref string})]]></content>
+	<tabTrigger><![CDATA[AcceptsElement]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[Scope.*(element, reasonWhyNotAccepted)]]></description>
+</snippet>

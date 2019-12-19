@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LocationService.Start(${1:desiredAccuracyInMeters as single})]]></content>
+	<tabTrigger><![CDATA[LocationService.Start]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(desiredAccuracyInMeters)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TerrainData.GetInterpolatedHeights(${1:results : float[,]}, ${2:resultXOffset : int}, ${3:resultYOffset : int}, ${4:xBase : float}, ${5:yBase : float}, ${6:xCount : int}, ${7:yCount : int}, ${8:xInterval : float}, ${9:yInterval : float})]]></content>
+	<tabTrigger><![CDATA[terrainData.GetInterpolatedHeights]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(results, resultXOffset, resultYOffset, xBase, yBase, xCount, yCount, xInterval, yInterval)]]></description>
+</snippet>

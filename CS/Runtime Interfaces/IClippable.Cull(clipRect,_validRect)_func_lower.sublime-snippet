@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[IClippable.Cull(${1:Rect clipRect}, ${2:bool validRect})]]></content>
-	<tabTrigger><![CDATA[cull]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[IClippable.*(clipRect, validRect)]]></description>
-</snippet>

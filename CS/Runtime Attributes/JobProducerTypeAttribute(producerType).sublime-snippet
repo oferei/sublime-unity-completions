@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JobProducerTypeAttribute(${1:Type producerType})]]></content>
+	<tabTrigger><![CDATA[JobProducerTypeAttribute]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(producerType)]]></description>
+</snippet>

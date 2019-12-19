@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EditorGUI.DrawPreviewTexture(${1:position as Rect}, ${2:image as Texture}, ${3:mat as Material = null}, ${4:scaleMode as ScaleMode = ScaleMode.StretchToFill}, ${5:imageAspect as single = 0}, ${6:mipLevel as single = -1}, ${7:colorWriteMask as Rendering.ColorWriteMask = ColorWriteMask.All})]]></content>
+	<tabTrigger><![CDATA[EditorGUI.DrawPreviewTexture]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(position, image, mat, scaleMode, imageAspect, mipLevel, colorWriteMask)]]></description>
+</snippet>

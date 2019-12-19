@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SceneVisibilityManager.AreAllDescendantsHidden(${1:GameObject gameObject})]]></content>
+	<tabTrigger><![CDATA[sceneVisibilityManager.AreAllDescendantsHidden]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[*(gameObject)]]></description>
+</snippet>

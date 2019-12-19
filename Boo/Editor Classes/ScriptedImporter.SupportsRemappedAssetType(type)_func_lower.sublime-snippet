@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ScriptedImporter.SupportsRemappedAssetType(${1:type as Type})]]></content>
+	<tabTrigger><![CDATA[supportsRemappedAssetType]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[ScriptedImporter.*(type)]]></description>
+</snippet>

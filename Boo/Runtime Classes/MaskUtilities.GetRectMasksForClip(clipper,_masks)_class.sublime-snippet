@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[MaskUtilities.GetRectMasksForClip(${1:clipper as UI.RectMask2D}, ${2:masks as List<RectMask2D>})]]></content>
-	<tabTrigger><![CDATA[MaskUtilities.GetRectMasksForClip]]></tabTrigger>
-	<scope>source.boo</scope>
-	<description><![CDATA[*(clipper, masks)]]></description>
-</snippet>

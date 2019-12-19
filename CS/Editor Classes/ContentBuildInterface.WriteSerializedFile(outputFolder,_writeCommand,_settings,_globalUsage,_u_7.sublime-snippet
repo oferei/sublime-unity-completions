@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ContentBuildInterface.WriteSerializedFile(${1:string outputFolder}, ${2:Build.Content.WriteCommand writeCommand}, ${3:Build.Content.BuildSettings settings}, ${4:Build.Content.BuildUsageTagGlobal globalUsage}, ${5:Build.Content.BuildUsageTagSet usageSet}, ${6:Build.Content.BuildReferenceMap referenceMap}, ${7:Build.Content.AssetBundleInfo bundleInfo})]]></content>
+	<tabTrigger><![CDATA[WriteSerializedFile]]></tabTrigger>
+	<scope>source.cs</scope>
+	<description><![CDATA[ContentBuildInterface.*(outputFolder, writeCommand, settings, globalUsage, usageSet, referenceMap, bundleInfo)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IJobParallelForTransform.Execute(${1:index as int}, ${2:transform as Jobs.TransformAccess})]]></content>
+	<tabTrigger><![CDATA[Execute]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[IJobParallelForTransform.*(index, transform)]]></description>
+</snippet>

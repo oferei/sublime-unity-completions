@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawingSettings(${1:shaderPassName : Rendering.ShaderTagId}, ${2:sortingSettings : Rendering.SortingSettings})]]></content>
+	<tabTrigger><![CDATA[DrawingSettings]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(shaderPassName, sortingSettings)]]></description>
+</snippet>

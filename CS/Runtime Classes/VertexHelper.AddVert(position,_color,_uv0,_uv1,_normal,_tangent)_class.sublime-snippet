@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[VertexHelper.AddVert(${1:Vector3 position}, ${2:Color32 color}, ${3:Vector2 uv0}, ${4:Vector2 uv1}, ${5:Vector3 normal}, ${6:Vector4 tangent})]]></content>
-	<tabTrigger><![CDATA[VertexHelper.AddVert]]></tabTrigger>
-	<scope>source.cs</scope>
-	<description><![CDATA[*(position, color, uv0, uv1, normal, tangent)]]></description>
-</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PropertyStreamHandle.SetInt(${1:stream as Experimental.Animations.AnimationStream}, ${2:value as int})]]></content>
+	<tabTrigger><![CDATA[SetInt]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PropertyStreamHandle.*(stream, value)]]></description>
+</snippet>

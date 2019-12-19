@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhysicsScene2D.BoxCast(${1:origin as Vector2}, ${2:size as Vector2}, ${3:angle as single}, ${4:direction as Vector2}, ${5:distance as single}, ${6:results as (RaycastHit2D)}, ${7:layerMask as int = Physics2D.DefaultRaycastLayers})]]></content>
+	<tabTrigger><![CDATA[boxCast]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[PhysicsScene2D.*(origin, size, angle, direction, distance, results, layerMask)]]></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UQueryBuilder<T0>.Where(${1:selectorPredicate as Func<T,bool>})]]></content>
+	<tabTrigger><![CDATA[uQueryBuilder<T0>.Where]]></tabTrigger>
+	<scope>source.boo</scope>
+	<description><![CDATA[*(selectorPredicate)]]></description>
+</snippet>

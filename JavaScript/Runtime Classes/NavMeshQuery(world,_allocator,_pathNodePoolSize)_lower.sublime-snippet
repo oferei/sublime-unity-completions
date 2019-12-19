@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavMeshQuery(${1:world : Experimental.AI.NavMeshWorld}, ${2:allocator : Unity.Collections.Allocator}, ${3:pathNodePoolSize : int})]]></content>
+	<tabTrigger><![CDATA[navMeshQuery]]></tabTrigger>
+	<scope>source.js</scope>
+	<description><![CDATA[*(world, allocator, pathNodePoolSize)]]></description>
+</snippet>
